@@ -1,0 +1,9 @@
+{
+    "base": "many",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "many",
+    "adj2": "more",
+    "adj3": "most"
+}

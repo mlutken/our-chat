@@ -1,0 +1,15 @@
+{
+    "base": "dry",
+    "classes": [
+        "adj",
+        "v"
+    ],
+    "adj1": "dry",
+    "adj2": "drier",
+    "adj3": "driest",
+    "v1": "dry",
+    "v2": "dried",
+    "v3": "dried",
+    "v4": "drying",
+    "v5": "dries"
+}

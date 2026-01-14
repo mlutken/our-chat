@@ -1,0 +1,11 @@
+{
+    "base": "bump",
+    "classes": [
+        "v"
+    ],
+    "v1": "bump",
+    "v2": "bumped",
+    "v3": "bumped",
+    "v4": "bumping",
+    "v5": "bumps"
+}

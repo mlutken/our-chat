@@ -1,0 +1,11 @@
+{
+    "base": "crawl",
+    "classes": [
+        "v"
+    ],
+    "v1": "crawl",
+    "v2": "crawled",
+    "v3": "crawled",
+    "v4": "crawling",
+    "v5": "crawls"
+}

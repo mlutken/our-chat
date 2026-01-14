@@ -1,0 +1,9 @@
+{
+    "base": "worthy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "worthy",
+    "adj2": "worthier",
+    "adj3": "worthiest"
+}

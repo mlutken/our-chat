@@ -1,0 +1,11 @@
+{
+    "base": "sew",
+    "classes": [
+        "v"
+    ],
+    "v1": "sew",
+    "v2": "sewed",
+    "v3": "sewn/sewed",
+    "v4": "sewing",
+    "v5": "sews"
+}

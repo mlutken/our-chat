@@ -1,0 +1,8 @@
+{
+    "base": "next",
+    "classes": [
+        "adv"
+    ],
+    "f0": "next",
+    "adv_subtype": "time"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "request",
+    "classes": [
+        "v"
+    ],
+    "v1": "request",
+    "v2": "requested",
+    "v3": "requested",
+    "v4": "requesting",
+    "v5": "requests"
+}

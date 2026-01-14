@@ -1,0 +1,11 @@
+{
+    "base": "swim",
+    "classes": [
+        "v"
+    ],
+    "v1": "swim",
+    "v2": "swam",
+    "v3": "swum",
+    "v4": "swimming",
+    "v5": "swims"
+}

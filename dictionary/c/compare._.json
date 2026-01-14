@@ -1,0 +1,11 @@
+{
+    "base": "compare",
+    "classes": [
+        "v"
+    ],
+    "v1": "compare",
+    "v2": "compared",
+    "v3": "compared",
+    "v4": "comparing",
+    "v5": "compares"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "drag",
+    "classes": [
+        "v"
+    ],
+    "v1": "drag",
+    "v2": "dragged",
+    "v3": "dragged",
+    "v4": "dragging",
+    "v5": "drags"
+}

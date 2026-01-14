@@ -1,0 +1,11 @@
+{
+    "base": "whip",
+    "classes": [
+        "v"
+    ],
+    "v1": "whip",
+    "v2": "whipped",
+    "v3": "whipped",
+    "v4": "whipping",
+    "v5": "whips"
+}

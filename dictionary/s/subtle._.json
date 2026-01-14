@@ -1,0 +1,9 @@
+{
+    "base": "subtle",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "subtle",
+    "adj2": "more subtle",
+    "adj3": "most subtle"
+}

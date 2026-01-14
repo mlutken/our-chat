@@ -1,0 +1,11 @@
+{
+    "base": "pedal",
+    "classes": [
+        "v"
+    ],
+    "v1": "pedal",
+    "v2": "pedaled/pedalled",
+    "v3": "pedaled/pedalled",
+    "v4": "pedaling/pedalling",
+    "v5": "pedals/pedals"
+}

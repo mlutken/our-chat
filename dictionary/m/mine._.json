@@ -1,0 +1,13 @@
+{
+    "base": "mine",
+    "classes": [
+        "pro",
+        "v"
+    ],
+    "f0": "mine",
+    "v1": "mine",
+    "v2": "mined",
+    "v3": "mined",
+    "v4": "mining",
+    "v5": "mines"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "fresh",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "fresh",
+    "adj2": "fresher",
+    "adj3": "freshest"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "ill-defined",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "ill-defined",
+    "adj2": "more ill-defined",
+    "adj3": "most ill-defined"
+}

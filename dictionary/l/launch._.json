@@ -1,0 +1,11 @@
+{
+    "base": "launch",
+    "classes": [
+        "v"
+    ],
+    "v1": "launch",
+    "v2": "launched",
+    "v3": "launched",
+    "v4": "launching",
+    "v5": "launches"
+}

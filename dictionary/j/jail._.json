@@ -1,0 +1,11 @@
+{
+    "base": "jail",
+    "classes": [
+        "v"
+    ],
+    "v1": "jail",
+    "v2": "jailed",
+    "v3": "jailed",
+    "v4": "jailing",
+    "v5": "jails"
+}

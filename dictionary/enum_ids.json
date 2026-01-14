@@ -1,0 +1,178 @@
+{
+    "classes": {
+        "t0":   50,
+        "n" :   51,
+        "np":   52,
+        "na":   53,
+        "v":    54,
+        "adj":  55,
+        "adv":  56,
+        "aux":  57,
+        "pre":  58,
+        "pro":  59,
+        "det":  60,
+        "conj": 61,
+        "intj": 62,
+        "l":    63,
+        "i":    64,
+        "f":    65,
+        "sep":  66,
+        "unk":  67,
+        "pad":  68
+    },
+    "classforms": {
+        "f0": 1,
+        "n1": 2,
+        "n2": 3,
+        "n3": 4,
+        "n4": 5,
+        "n5": 6,
+
+        "np1": 7,
+
+        "v1": 8,
+        "v2": 9,
+        "v3": 10,
+        "v4": 11,
+        "v5": 12,
+
+        "adj1": 13,
+        "adj2": 14,
+        "adj3": 15,
+
+        "lc": 16,
+        "uc": 17
+
+    },
+    "manual": {
+        "classes": [
+                    "[t0]   50       : [Unknown type, combination or letter]",
+                    "[n]    51       : noun [house]",
+                    "[np]   52       : proper noun noun [Berlin]",
+                    "[na]   53       : abstract noun [success]",
+                    "[v]    54       : verb",
+                    "[adj]  55       : adjective",
+                    "[adv]  56       : adverb",
+                    "[aux]  57       : auxilary",
+                    "[pre]  58       : preposition",
+                    "[pro]  59       : pronoun",
+                    "[det]  60       : determiner",
+                    "[conj] 61       : conjunction",
+                    "[intj] 62       : interjection",
+                    "[l]    63       : letter",
+                    "[i]    64       : integer",
+                    "[f]    65       : float",
+                    "[sep]  66       : separator",
+                    "[unk]  67       : unknown word/char",
+                    "[pad]  68       : padding"
+                 ],
+        "classforms": [
+                    "[f0]  : Unknown form",
+                    "[n1]  : Concrete noun singular [house] [success]",
+                    "[n2]  : Concrete noun plural [houses] [successes]",
+                    "[n3]  : Concrete noun definite singular [the house] [the success]",
+                    "[n4]  : Concrete noun definite plural [the houses] [the successes]",
+                    "[n5]  : Concrete noun possesive [house's - ex: the house's roof] [success's - ex: success's rewards]",
+
+                    "[v1]   : Base form (infinitiv) [run]",
+                    "[v2]   : Past simple [ran]",
+                    "[v3]   : Past participle /gerund[(has) run]",
+                    "[v4]   : Present participle [running]",
+                    "[v5]   : Simple present / 3rd person singular [runs]",
+
+                    "[adj1] : Base positive degree [strong]",
+                    "[adj2] : Comparative [stronger]",
+                    "[adj3] : Superlative [strongest]",
+
+                    "[adv1] : Adverb base (only) form",
+
+                    "[pre1]  : preposition base (only) form",
+                    "[pro1]  : pronoun base (only) form",
+                    "[det1]  : determiner base (only) form",
+                    "[conj1] : conjunction base (only) form",
+                    "[intj1] : interjection base (only) form",
+
+                    "[lc]   : lowercase letter",
+                    "[uc]   : uppercase letter",
+                    "[sep1] : Separator",
+                    "[unk1] : Unknown word/char",
+                    "[pad1] : Padding"
+                ],
+        "n": {
+            "name": "noun",
+            "links": ["https://www.grammarly.com/blog/parts-of-speech/nouns/", "https://www.basic-english-grammar.com/8-types-of-nouns-in-english-grammar-and-examples.html/", "https://www.englishclub.com/grammar/determiners-articles.php"],
+            "description": ""
+        },
+        "v": {
+            "name": "verbum",
+            "links": ["https://www.wordscoach.com/blog/verb-forms-v1-v2-v3-v4-v5-list/"],
+            "description": ""
+        },
+        "adj": {
+            "name": "adjective",
+            "links": ["https://learnesl.net/three-degrees-of-adjectives-in-english/"],
+            "description": ""
+        },
+        "adv": {
+            "name": "adverbs",
+            "links": ["https://www.thesaurus.com/e/grammar/list-of-adverbs/"],
+            "description": ""
+        },
+        "pre": {
+            "name": "prepositions",
+            "links": ["https://thisvsthat.io/adverbs-vs-prepositions",
+                      "https://www.grammar-monster.com/lists/list_of_prepositions.htm",
+                      "https://www.thefreedictionary.com/List-of-prepositions.htm"
+                     ],
+            "description": ""
+        },
+        "pro": {
+            "name": "pronoun",
+            "links": [
+                     ],
+            "description": ""
+        },
+        "det": {
+            "name": "determiner",
+            "links": [
+                     ],
+            "description": ""
+        },
+        "conj": {
+            "name": "conjunction",
+            "links": [
+                     ],
+            "description": ""
+        },
+        "intj": {
+            "name": "interjection",
+            "links": [
+                     ],
+            "description": ""
+        },
+        "sep": {
+            "name": "separator",
+            "links": [
+                     ],
+            "description": ""
+        },
+        "unk": {
+            "name": "separator",
+            "links": [
+                     ],
+            "description": ""
+        },
+        "_general": {
+            "links": [
+                    ["Danish grammatic terms", "https://duda.dk/fag/dansk/grammatiske-termer/"],
+                    ["English word classes" , "https://englishgrammarnotes.com/word-classes/", "https://www.grammarly.com/blog/grammar/word-class/", "https://englishlearningnotes.com/vocabulary/word-classes/"],
+                    ["Danish word classes" ,"https://indidansk.dk/ordklasser/"],
+                    ["English verb forms" ,"https://www.vedantu.com/english/verb-forms-guide-of-v1-v2-v3-v4-v5#"],
+                    ["English verb forms" ,"https://languagetool.org/insights/post/grammar-verb-forms/"],
+                    ["English verb forms" ,"https://www.wordscoach.com/blog/verb-forms-v1-v2-v3-v4-v5-list/"],
+                    ["English words both nouns and verbs", "https://www.proofreadingservices.com/pages/words-that-are-nouns-and-verbs"]
+                ]
+        }
+    }
+
+ }

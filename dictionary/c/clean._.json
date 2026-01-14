@@ -1,0 +1,15 @@
+{
+    "base": "clean",
+    "classes": [
+        "adj",
+        "v"
+    ],
+    "adj1": "clean",
+    "adj2": "cleaner",
+    "adj3": "cleanest",
+    "v1": "clean",
+    "v2": "cleaned",
+    "v3": "cleaned",
+    "v4": "cleaning",
+    "v5": "cleans"
+}

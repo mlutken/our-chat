@@ -1,0 +1,11 @@
+{
+    "base": "include",
+    "classes": [
+        "v"
+    ],
+    "v1": "include",
+    "v2": "included",
+    "v3": "included",
+    "v4": "including",
+    "v5": "includes"
+}

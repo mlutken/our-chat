@@ -1,0 +1,11 @@
+{
+    "base": "quit",
+    "classes": [
+        "v"
+    ],
+    "v1": "quit",
+    "v2": "quit/quitted",
+    "v3": "quit/quitted",
+    "v4": "quitting",
+    "v5": "quits/quits"
+}

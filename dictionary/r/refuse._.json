@@ -1,0 +1,11 @@
+{
+    "base": "refuse",
+    "classes": [
+        "v"
+    ],
+    "v1": "refuse",
+    "v2": "refused",
+    "v3": "refused",
+    "v4": "refusing",
+    "v5": "refuses"
+}

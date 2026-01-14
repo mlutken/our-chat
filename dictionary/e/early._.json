@@ -1,0 +1,12 @@
+{
+    "base": "early",
+    "classes": [
+        "adj",
+        "adv"
+    ],
+    "adj1": "early",
+    "adj2": "earlier",
+    "adj3": "earliest",
+    "f0": "early",
+    "adv_subtype": "time"
+}

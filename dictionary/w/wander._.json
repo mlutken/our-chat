@@ -1,0 +1,11 @@
+{
+    "base": "wander",
+    "classes": [
+        "v"
+    ],
+    "v1": "wander",
+    "v2": "wandered",
+    "v3": "wandered",
+    "v4": "wandering",
+    "v5": "wanders"
+}

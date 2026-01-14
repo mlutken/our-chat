@@ -1,0 +1,11 @@
+{
+    "base": "saw",
+    "classes": [
+        "v"
+    ],
+    "v1": "saw",
+    "v2": "sawed",
+    "v3": "sawn/sawed",
+    "v4": "sawing",
+    "v5": "saws"
+}

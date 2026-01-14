@@ -1,0 +1,11 @@
+{
+    "base": "snap",
+    "classes": [
+        "v"
+    ],
+    "v1": "snap",
+    "v2": "snapped",
+    "v3": "snapped",
+    "v4": "snapping",
+    "v5": "snaps"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "train",
+    "classes": [
+        "v"
+    ],
+    "v1": "train",
+    "v2": "trained",
+    "v3": "trained",
+    "v4": "training",
+    "v5": "trains"
+}

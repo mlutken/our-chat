@@ -1,0 +1,11 @@
+{
+    "base": "branch",
+    "classes": [
+        "v"
+    ],
+    "v1": "branch",
+    "v2": "branched",
+    "v3": "branched",
+    "v4": "branching",
+    "v5": "branches"
+}

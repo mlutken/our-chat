@@ -1,0 +1,9 @@
+{
+    "base": "smooth",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "smooth",
+    "adj2": "smoother",
+    "adj3": "smoothest"
+}

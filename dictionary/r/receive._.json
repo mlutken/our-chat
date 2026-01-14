@@ -1,0 +1,11 @@
+{
+    "base": "receive",
+    "classes": [
+        "v"
+    ],
+    "v1": "receive",
+    "v2": "received",
+    "v3": "received",
+    "v4": "receiving",
+    "v5": "receives"
+}

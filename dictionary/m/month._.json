@@ -1,0 +1,12 @@
+{
+    "base": "month",
+    "classes": [
+        "n"
+    ],
+    "n0": "",
+    "n1": "month",
+    "n2": "months",
+    "n3": "the month",
+    "n4": "the months",
+    "n5": "month's"
+}

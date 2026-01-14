@@ -1,0 +1,11 @@
+{
+    "base": "injure",
+    "classes": [
+        "v"
+    ],
+    "v1": "injure",
+    "v2": "injured",
+    "v3": "injured",
+    "v4": "injuring",
+    "v5": "injures"
+}

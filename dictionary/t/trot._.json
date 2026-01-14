@@ -1,0 +1,11 @@
+{
+    "base": "trot",
+    "classes": [
+        "v"
+    ],
+    "v1": "trot",
+    "v2": "trotted",
+    "v3": "trotted",
+    "v4": "trotting",
+    "v5": "trots"
+}

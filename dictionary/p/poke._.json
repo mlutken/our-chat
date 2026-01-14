@@ -1,0 +1,11 @@
+{
+    "base": "poke",
+    "classes": [
+        "v"
+    ],
+    "v1": "poke",
+    "v2": "poked",
+    "v3": "poked",
+    "v4": "poking",
+    "v5": "pokes"
+}

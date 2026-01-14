@@ -1,0 +1,11 @@
+{
+    "base": "print",
+    "classes": [
+        "v"
+    ],
+    "v1": "print",
+    "v2": "printed",
+    "v3": "printed",
+    "v4": "printing",
+    "v5": "prints"
+}

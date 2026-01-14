@@ -1,0 +1,11 @@
+{
+    "base": "recommend",
+    "classes": [
+        "v"
+    ],
+    "v1": "recommend",
+    "v2": "recommended",
+    "v3": "recommended",
+    "v4": "recommending",
+    "v5": "recommends"
+}

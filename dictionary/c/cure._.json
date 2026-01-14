@@ -1,0 +1,11 @@
+{
+    "base": "cure",
+    "classes": [
+        "v"
+    ],
+    "v1": "cure",
+    "v2": "cured",
+    "v3": "cured",
+    "v4": "curing",
+    "v5": "cures"
+}

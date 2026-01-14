@@ -1,0 +1,16 @@
+{
+    "base": "fat",
+    "classes": [
+        "n",
+        "adj"
+    ],
+    "n0": "",
+    "n1": "fat",
+    "n2": "fats",
+    "n3": "the fat",
+    "n4": "the fats",
+    "n5": "fat's",
+    "adj1": "fat",
+    "adj2": "fatter",
+    "adj3": "fattest"
+}

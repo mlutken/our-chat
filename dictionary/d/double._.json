@@ -1,0 +1,11 @@
+{
+    "base": "double",
+    "classes": [
+        "v"
+    ],
+    "v1": "double",
+    "v2": "doubled",
+    "v3": "doubled",
+    "v4": "doubling",
+    "v5": "doubles"
+}

@@ -1,0 +1,8 @@
+{
+    "base": "nearby",
+    "classes": [
+        "adv"
+    ],
+    "f0": "nearby",
+    "adv_subtype": "place"
+}

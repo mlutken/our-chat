@@ -1,0 +1,11 @@
+{
+    "base": "bow",
+    "classes": [
+        "v"
+    ],
+    "v1": "bow",
+    "v2": "bowed",
+    "v3": "bowed",
+    "v4": "bowing",
+    "v5": "bows"
+}

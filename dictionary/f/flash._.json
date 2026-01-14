@@ -1,0 +1,11 @@
+{
+    "base": "flash",
+    "classes": [
+        "v"
+    ],
+    "v1": "flash",
+    "v2": "flashed",
+    "v3": "flashed",
+    "v4": "flashing",
+    "v5": "flashes"
+}

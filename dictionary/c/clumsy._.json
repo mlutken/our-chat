@@ -1,0 +1,9 @@
+{
+    "base": "clumsy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "clumsy",
+    "adj2": "clumsier",
+    "adj3": "clumsiest"
+}

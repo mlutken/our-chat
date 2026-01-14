@@ -1,0 +1,9 @@
+{
+    "base": "sleepy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "sleepy",
+    "adj2": "sleepier",
+    "adj3": "sleepiest"
+}

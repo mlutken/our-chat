@@ -1,0 +1,9 @@
+{
+    "base": "wealthy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "wealthy",
+    "adj2": "wealthier",
+    "adj3": "wealthiest"
+}

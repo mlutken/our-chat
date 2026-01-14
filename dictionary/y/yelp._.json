@@ -1,0 +1,11 @@
+{
+    "base": "yelp",
+    "classes": [
+        "v"
+    ],
+    "v1": "yelp",
+    "v2": "yelped",
+    "v3": "yelped",
+    "v4": "yelping",
+    "v5": "yelps"
+}

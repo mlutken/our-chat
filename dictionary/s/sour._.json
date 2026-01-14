@@ -1,0 +1,9 @@
+{
+    "base": "sour",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "sour",
+    "adj2": "sourer",
+    "adj3": "sourest"
+}

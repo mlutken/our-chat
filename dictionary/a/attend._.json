@@ -1,0 +1,11 @@
+{
+    "base": "attend",
+    "classes": [
+        "v"
+    ],
+    "v1": "attend",
+    "v2": "attended",
+    "v3": "attended",
+    "v4": "attending",
+    "v5": "attends"
+}

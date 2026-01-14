@@ -1,0 +1,9 @@
+{
+    "base": "important",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "important",
+    "adj2": "more important",
+    "adj3": "most important"
+}

@@ -1,0 +1,12 @@
+{
+    "base": "hard",
+    "classes": [
+        "adv",
+        "adj"
+    ],
+    "f0": "hard",
+    "adv_subtype": "manner",
+    "adj1": "hard",
+    "adj2": "harder",
+    "adj3": "hardest"
+}

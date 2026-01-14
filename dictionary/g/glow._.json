@@ -1,0 +1,11 @@
+{
+    "base": "glow",
+    "classes": [
+        "v"
+    ],
+    "v1": "glow",
+    "v2": "glowed",
+    "v3": "glowed",
+    "v4": "glowing",
+    "v5": "glows"
+}

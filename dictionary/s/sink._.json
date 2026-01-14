@@ -1,0 +1,11 @@
+{
+    "base": "sink",
+    "classes": [
+        "v"
+    ],
+    "v1": "sink",
+    "v2": "sank",
+    "v3": "sunk",
+    "v4": "sinking",
+    "v5": "sinks"
+}

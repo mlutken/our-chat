@@ -1,0 +1,11 @@
+{
+    "base": "charge",
+    "classes": [
+        "v"
+    ],
+    "v1": "charge",
+    "v2": "charged",
+    "v3": "charged",
+    "v4": "charging",
+    "v5": "charges"
+}

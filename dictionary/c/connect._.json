@@ -1,0 +1,11 @@
+{
+    "base": "connect",
+    "classes": [
+        "v"
+    ],
+    "v1": "connect",
+    "v2": "connected",
+    "v3": "connected",
+    "v4": "connecting",
+    "v5": "connects"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "drown",
+    "classes": [
+        "v"
+    ],
+    "v1": "drown",
+    "v2": "drowned",
+    "v3": "drowned",
+    "v4": "drowning",
+    "v5": "drowns"
+}

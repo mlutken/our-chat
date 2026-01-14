@@ -1,0 +1,11 @@
+{
+    "base": "ban",
+    "classes": [
+        "v"
+    ],
+    "v1": "ban",
+    "v2": "banned",
+    "v3": "banned",
+    "v4": "banning",
+    "v5": "bans"
+}

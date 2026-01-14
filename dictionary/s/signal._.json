@@ -1,0 +1,11 @@
+{
+    "base": "signal",
+    "classes": [
+        "v"
+    ],
+    "v1": "signal",
+    "v2": "signaled/signalled",
+    "v3": "signaled/signalled",
+    "v4": "signaling/signalling",
+    "v5": "signals/signals"
+}

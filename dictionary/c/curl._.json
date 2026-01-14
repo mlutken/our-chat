@@ -1,0 +1,11 @@
+{
+    "base": "curl",
+    "classes": [
+        "v"
+    ],
+    "v1": "curl",
+    "v2": "curled",
+    "v3": "curled",
+    "v4": "curling",
+    "v5": "curls"
+}

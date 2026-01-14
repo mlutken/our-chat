@@ -1,0 +1,18 @@
+{
+    "base": "fire",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "fire",
+    "n2": "fires",
+    "n3": "the fire",
+    "n4": "the fires",
+    "n5": "fire's",
+    "v1": "fire",
+    "v2": "fired",
+    "v3": "fired",
+    "v4": "firing",
+    "v5": "fires"
+}

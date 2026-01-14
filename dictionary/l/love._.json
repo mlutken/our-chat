@@ -1,0 +1,18 @@
+{
+    "base": "love",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "love",
+    "n2": "loves",
+    "n3": "the love",
+    "n4": "the loves",
+    "n5": "love's",
+    "v1": "love",
+    "v2": "loved",
+    "v3": "loved",
+    "v4": "loving",
+    "v5": "loves"
+}

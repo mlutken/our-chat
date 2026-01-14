@@ -1,0 +1,12 @@
+{
+    "base": "dark",
+    "classes": ["n", "adj"],
+    "n1": "dark",
+    "n2": "darks",
+    "n3": "the dark",
+    "n4": "the darks",
+    "n5": "dark's",
+    "adj1": "dark",
+    "adj2": "darker",
+    "adj3": "darkest"
+}

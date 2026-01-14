@@ -1,0 +1,11 @@
+{
+    "base": "kneel",
+    "classes": [
+        "v"
+    ],
+    "v1": "kneel",
+    "v2": "kneeled/knelt",
+    "v3": "kneeled/knelt",
+    "v4": "kneeling",
+    "v5": "kneels"
+}

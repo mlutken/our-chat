@@ -1,0 +1,9 @@
+{
+    "base": "old",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "old",
+    "adj2": "older",
+    "adj3": "oldest"
+}

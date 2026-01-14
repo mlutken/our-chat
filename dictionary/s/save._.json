@@ -1,0 +1,11 @@
+{
+    "base": "save",
+    "classes": [
+        "v"
+    ],
+    "v1": "save",
+    "v2": "saved",
+    "v3": "saved",
+    "v4": "saving",
+    "v5": "saves"
+}

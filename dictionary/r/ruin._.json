@@ -1,0 +1,11 @@
+{
+    "base": "ruin",
+    "classes": [
+        "v"
+    ],
+    "v1": "ruin",
+    "v2": "ruined",
+    "v3": "ruined",
+    "v4": "ruining",
+    "v5": "ruins"
+}

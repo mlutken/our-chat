@@ -1,0 +1,18 @@
+{
+    "base": "water",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "water",
+    "n2": "waters",
+    "n3": "the water",
+    "n4": "the waters",
+    "n5": "water's",
+    "v1": "water",
+    "v2": "watered",
+    "v3": "watered",
+    "v4": "watering",
+    "v5": "waters"
+}

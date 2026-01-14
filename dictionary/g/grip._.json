@@ -1,0 +1,11 @@
+{
+    "base": "grip",
+    "classes": [
+        "v"
+    ],
+    "v1": "grip",
+    "v2": "gripped",
+    "v3": "gripped",
+    "v4": "gripping",
+    "v5": "grips"
+}

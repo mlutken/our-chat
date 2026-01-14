@@ -1,0 +1,11 @@
+{
+    "base": "observe",
+    "classes": [
+        "v"
+    ],
+    "v1": "observe",
+    "v2": "observed",
+    "v3": "observed",
+    "v4": "observing",
+    "v5": "observes"
+}

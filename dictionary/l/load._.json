@@ -1,0 +1,11 @@
+{
+    "base": "load",
+    "classes": [
+        "v"
+    ],
+    "v1": "load",
+    "v2": "loaded",
+    "v3": "loaded",
+    "v4": "loading",
+    "v5": "loads"
+}

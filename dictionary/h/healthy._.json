@@ -1,0 +1,9 @@
+{
+    "base": "healthy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "healthy",
+    "adj2": "healthier",
+    "adj3": "healthiest"
+}

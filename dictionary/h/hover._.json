@@ -1,0 +1,11 @@
+{
+    "base": "hover",
+    "classes": [
+        "v"
+    ],
+    "v1": "hover",
+    "v2": "hovered",
+    "v3": "hovered",
+    "v4": "hovering",
+    "v5": "hovers"
+}

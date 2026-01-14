@@ -1,0 +1,9 @@
+{
+    "base": "sad",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "sad",
+    "adj2": "sadder",
+    "adj3": "saddest"
+}

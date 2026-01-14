@@ -1,0 +1,17 @@
+{
+    "base": "drink",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "drink",
+    "n2": "drinks",
+    "n3": "the drink",
+    "n4": "the drinks",
+    "n5": "drink's",
+    "v1": "drink",
+    "v2": "drank",
+    "v3": "drunk",
+    "v4": "drinking",
+    "v5": "drinks"
+}

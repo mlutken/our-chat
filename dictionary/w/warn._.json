@@ -1,0 +1,11 @@
+{
+    "base": "warn",
+    "classes": [
+        "v"
+    ],
+    "v1": "warn",
+    "v2": "warned",
+    "v3": "warned",
+    "v4": "warning",
+    "v5": "warns"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "examine",
+    "classes": [
+        "v"
+    ],
+    "v1": "examine",
+    "v2": "examined",
+    "v3": "examined",
+    "v4": "examining",
+    "v5": "examines"
+}

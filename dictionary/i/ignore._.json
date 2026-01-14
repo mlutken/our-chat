@@ -1,0 +1,11 @@
+{
+    "base": "ignore",
+    "classes": [
+        "v"
+    ],
+    "v1": "ignore",
+    "v2": "ignored",
+    "v3": "ignored",
+    "v4": "ignoring",
+    "v5": "ignores"
+}

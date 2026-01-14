@@ -1,0 +1,18 @@
+{
+    "base": "phone",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "phone",
+    "n2": "phones",
+    "n3": "the phone",
+    "n4": "the phones",
+    "n5": "phone's",
+    "v1": "phone",
+    "v2": "phoned",
+    "v3": "phoned",
+    "v4": "phoning",
+    "v5": "phones"
+}

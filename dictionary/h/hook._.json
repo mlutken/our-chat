@@ -1,0 +1,11 @@
+{
+    "base": "hook",
+    "classes": [
+        "v"
+    ],
+    "v1": "hook",
+    "v2": "hooked",
+    "v3": "hooked",
+    "v4": "hooking",
+    "v5": "hooks"
+}

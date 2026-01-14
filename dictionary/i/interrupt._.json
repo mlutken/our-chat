@@ -1,0 +1,11 @@
+{
+    "base": "interrupt",
+    "classes": [
+        "v"
+    ],
+    "v1": "interrupt",
+    "v2": "interrupted",
+    "v3": "interrupted",
+    "v4": "interrupting",
+    "v5": "interrupts"
+}

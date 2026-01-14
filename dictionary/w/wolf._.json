@@ -1,0 +1,11 @@
+{
+    "base": "wolf",
+    "classes": [
+        "n"
+    ],
+    "n1": "wolf",
+    "n2": "wolves",
+    "n3": "the wolf",
+    "n4": "the wolves",
+    "n5": "wolf's"
+}

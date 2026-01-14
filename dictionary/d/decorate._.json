@@ -1,0 +1,11 @@
+{
+    "base": "decorate",
+    "classes": [
+        "v"
+    ],
+    "v1": "decorate",
+    "v2": "decorated",
+    "v3": "decorated",
+    "v4": "decorating",
+    "v5": "decorates"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "buy",
+    "classes": [
+        "v"
+    ],
+    "v1": "buy",
+    "v2": "bought",
+    "v3": "bought",
+    "v4": "buying",
+    "v5": "buys"
+}

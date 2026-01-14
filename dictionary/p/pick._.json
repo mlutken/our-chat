@@ -1,0 +1,11 @@
+{
+    "base": "pick",
+    "classes": [
+        "v"
+    ],
+    "v1": "pick",
+    "v2": "picked",
+    "v3": "picked",
+    "v4": "picking",
+    "v5": "picks"
+}

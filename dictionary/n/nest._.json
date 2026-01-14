@@ -1,0 +1,11 @@
+{
+    "base": "nest",
+    "classes": [
+        "v"
+    ],
+    "v1": "nest",
+    "v2": "nested",
+    "v3": "nested",
+    "v4": "nesting",
+    "v5": "nests"
+}

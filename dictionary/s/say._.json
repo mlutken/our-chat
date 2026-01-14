@@ -1,0 +1,11 @@
+{
+    "base": "say",
+    "classes": [
+        "v"
+    ],
+    "v1": "say",
+    "v2": "said",
+    "v3": "said",
+    "v4": "saying",
+    "v5": "says"
+}

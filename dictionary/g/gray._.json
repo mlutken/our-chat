@@ -1,0 +1,9 @@
+{
+    "base": "gray",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "gray",
+    "adj2": "grayer",
+    "adj3": "grayest"
+}

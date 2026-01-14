@@ -1,0 +1,11 @@
+{
+    "base": "settle",
+    "classes": [
+        "v"
+    ],
+    "v1": "settle",
+    "v2": "settled",
+    "v3": "settled",
+    "v4": "settling",
+    "v5": "settles"
+}

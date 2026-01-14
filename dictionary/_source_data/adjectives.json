@@ -1,0 +1,1122 @@
+[
+    {
+        "base": "good",
+        "classes": ["adj"],
+        "adj1": "good",
+        "adj2": "better",
+        "adj3": "best"
+    },
+    {
+        "base": "bad",
+        "classes": ["adj"],
+        "adj1": "bad",
+        "adj2": "worse",
+        "adj3": "worst"
+    },
+    {
+        "base": "little",
+        "classes": ["adj"],
+        "adj1": "little",
+        "adj2": "less",
+        "adj3": "least"
+    },
+    {
+        "base": "many",
+        "classes": ["adj"],
+        "adj1": "many",
+        "adj2": "more",
+        "adj3": "most"
+    },
+    {
+        "base": "far",
+        "classes": ["adj"],
+        "adj1": "far",
+        "adj2": "further",
+        "adj3": "furthest"
+    },
+    {
+        "base": "old",
+        "classes": ["adj"],
+        "adj1": "old",
+        "adj2": "older",
+        "adj3": "oldest"
+    },
+    {
+        "base": "near",
+        "classes": ["adj"],
+        "adj1": "near",
+        "adj2": "nearer",
+        "adj3": "nearest"
+    },
+    {
+        "base": "late",
+        "classes": ["adj"],
+        "adj1": "late",
+        "adj2": "later",
+        "adj3": "latest"
+    },
+    {
+        "base": "early",
+        "classes": ["adj"],
+        "adj1": "early",
+        "adj2": "earlier",
+        "adj3": "earliest"
+    },
+    {
+        "base": "high",
+        "classes": ["adj"],
+        "adj1": "high",
+        "adj2": "higher",
+        "adj3": "highest"
+    },
+    {
+        "base": "low",
+        "classes": ["adj"],
+        "adj1": "low",
+        "adj2": "lower",
+        "adj3": "lowest"
+    },
+    {
+        "base": "deep",
+        "classes": ["adj"],
+        "adj1": "deep",
+        "adj2": "deeper",
+        "adj3": "deepest"
+    },
+    {
+        "base": "cheap",
+        "classes": ["adj"],
+        "adj1": "cheap",
+        "adj2": "cheaper",
+        "adj3": "cheapest"
+    },
+    {
+        "base": "clean",
+        "classes": ["adj"],
+        "adj1": "clean",
+        "adj2": "cleaner",
+        "adj3": "cleanest"
+    },
+    {
+        "base": "clear",
+        "classes": ["adj"],
+        "adj1": "clear",
+        "adj2": "clearer",
+        "adj3": "clearest"
+    },
+    {
+        "base": "clever",
+        "classes": ["adj"],
+        "adj1": "clever",
+        "adj2": "more clever",
+        "adj3": "most clever"
+    },
+    {
+        "base": "common",
+        "classes": ["adj"],
+        "adj1": "common",
+        "adj2": "more common",
+        "adj3": "most common"
+    },
+    {
+        "base": "gentle",
+        "classes": ["adj"],
+        "adj1": "gentle",
+        "adj2": "more gentle",
+        "adj3": "most gentle"
+    },
+    {
+        "base": "narrow",
+        "classes": ["adj"],
+        "adj1": "narrow",
+        "adj2": "narrower",
+        "adj3": "narrowest"
+    },
+    {
+        "base": "pleasant",
+        "classes": ["adj"],
+        "adj1": "pleasant",
+        "adj2": "more pleasant",
+        "adj3": "most pleasant"
+    },
+    {
+        "base": "polite",
+        "classes": ["adj"],
+        "adj1": "polite",
+        "adj2": "more polite",
+        "adj3": "most polite"
+    },
+    {
+        "base": "quiet",
+        "classes": ["adj"],
+        "adj1": "quiet",
+        "adj2": "more quiet",
+        "adj3": "most quiet"
+    },
+    {
+        "base": "simple",
+        "classes": ["adj"],
+        "adj1": "simple",
+        "adj2": "simpler",
+        "adj3": "simplest"
+    },
+    {
+        "base": "stupid",
+        "classes": ["adj"],
+        "adj1": "stupid",
+        "adj2": "more stupid",
+        "adj3": "most stupid"
+    },
+    {
+        "base": "subtle",
+        "classes": ["adj"],
+        "adj1": "subtle",
+        "adj2": "more subtle",
+        "adj3": "most subtle"
+    },
+    {
+        "base": "dry",
+        "classes": ["adj"],
+        "adj1": "dry",
+        "adj2": "drier",
+        "adj3": "driest"
+    },
+    {
+        "base": "shy",
+        "classes": ["adj"],
+        "adj1": "shy",
+        "adj2": "shyer",
+        "adj3": "shyest"
+    },
+    {
+        "base": "sly",
+        "classes": ["adj"],
+        "adj1": "sly",
+        "adj2": "slyer",
+        "adj3": "slyest"
+    },
+    {
+        "base": "spry",
+        "classes": ["adj"],
+        "adj1": "spry",
+        "adj2": "spryer",
+        "adj3": "spryest"
+    },
+    {
+        "base": "wry",
+        "classes": ["adj"],
+        "adj1": "wry",
+        "adj2": "wryer",
+        "adj3": "wryest"
+    },
+    {
+        "base": "gay",
+        "classes": ["adj"],
+        "adj1": "gay",
+        "adj2": "gayer",
+        "adj3": "gayest"
+    },
+    {
+        "base": "gray",
+        "classes": ["adj"],
+        "adj1": "gray",
+        "adj2": "grayer",
+        "adj3": "grayest"
+    },
+    {
+        "base": "big",
+        "classes": ["adj"],
+        "adj1": "big",
+        "adj2": "bigger",
+        "adj3": "biggest"
+    },
+    {
+        "base": "fat",
+        "classes": ["adj"],
+        "adj1": "fat",
+        "adj2": "fatter",
+        "adj3": "fattest"
+    },
+    {
+        "base": "fit",
+        "classes": ["adj"],
+        "adj1": "fit",
+        "adj2": "fitter",
+        "adj3": "fittest"
+    },
+    {
+        "base": "flat",
+        "classes": ["adj"],
+        "adj1": "flat",
+        "adj2": "flatter",
+        "adj3": "flattest"
+    },
+    {
+        "base": "hot",
+        "classes": ["adj"],
+        "adj1": "hot",
+        "adj2": "hotter",
+        "adj3": "hottest"
+    },
+    {
+        "base": "mad",
+        "classes": ["adj"],
+        "adj1": "mad",
+        "adj2": "madder",
+        "adj3": "maddest"
+    },
+    {
+        "base": "red",
+        "classes": ["adj"],
+        "adj1": "red",
+        "adj2": "redder",
+        "adj3": "reddest"
+    },
+    {
+        "base": "sad",
+        "classes": ["adj"],
+        "adj1": "sad",
+        "adj2": "sadder",
+        "adj3": "saddest"
+    },
+    {
+        "base": "tan",
+        "classes": ["adj"],
+        "adj1": "tan",
+        "adj2": "tanner",
+        "adj3": "tannest"
+    },
+    {
+        "base": "thin",
+        "classes": ["adj"],
+        "adj1": "thin",
+        "adj2": "thinner",
+        "adj3": "thinnest"
+    },
+    {
+        "base": "wet",
+        "classes": ["adj"],
+        "adj1": "wet",
+        "adj2": "wetter",
+        "adj3": "wettest"
+    },
+    {
+        "base": "elder",
+        "classes": ["adj"],
+        "adj1": "elder",
+        "adj2": "elder",
+        "adj3": "eldest"
+    },
+    {
+        "base": "outer",
+        "classes": ["adj"],
+        "adj1": "outer",
+        "adj2": "outer",
+        "adj3": "outermost"
+    },
+    {
+        "base": "inner",
+        "classes": ["adj"],
+        "adj1": "inner",
+        "adj2": "inner",
+        "adj3": "innermost"
+    },
+    {
+        "base": "upper",
+        "classes": ["adj"],
+        "adj1": "upper",
+        "adj2": "upper",
+        "adj3": "uppermost"
+    },
+    {
+        "base": "hind",
+        "classes": ["adj"],
+        "adj1": "hind",
+        "adj2": "hinder",
+        "adj3": "hindmost"
+    },
+    {
+        "base": "fore",
+        "classes": ["adj"],
+        "adj1": "fore",
+        "adj2": "former",
+        "adj3": "foremost"
+    },
+    {
+        "base": "well-known",
+        "classes": ["adj"],
+        "adj1": "well-known",
+        "adj2": "better-known",
+        "adj3": "best-known"
+    },
+    {
+        "base": "ill-defined",
+        "classes": ["adj"],
+        "adj1": "ill-defined",
+        "adj2": "more ill-defined",
+        "adj3": "most ill-defined"
+    },
+    {
+        "base": "far-reaching",
+        "classes": ["adj"],
+        "adj1": "far-reaching",
+        "adj2": "more far-reaching",
+        "adj3": "most far-reaching"
+    },
+    {
+        "base": "long-lasting",
+        "classes": ["adj"],
+        "adj1": "long-lasting",
+        "adj2": "more long-lasting",
+        "adj3": "most long-lasting"
+    },
+    {
+        "base": "short-lived",
+        "classes": ["adj"],
+        "adj1": "short-lived",
+        "adj2": "more short-lived",
+        "adj3": "most short-lived"
+    },
+    {
+        "base": "nigh",
+        "classes": ["adj"],
+        "adj1": "nigh",
+        "adj2": "nigher",
+        "adj3": "nighest"
+    },
+    {
+        "base": "worth",
+        "classes": ["adj"],
+        "adj1": "worth",
+        "adj2": "more worth",
+        "adj3": "most worth"
+    },
+    {
+        "base": "loath",
+        "classes": ["adj"],
+        "adj1": "loath",
+        "adj2": "more loath",
+        "adj3": "most loath"
+    },
+    {
+        "base": "able",
+        "classes": ["adj"],
+        "adj1": "able",
+        "adj2": "abler",
+        "adj3": "ablest"
+    },
+    {
+        "base": "angry",
+        "classes": ["adj"],
+        "adj1": "angry",
+        "adj2": "angrier",
+        "adj3": "angriest"
+    },
+    {
+        "base": "busy",
+        "classes": ["adj"],
+        "adj1": "busy",
+        "adj2": "busier",
+        "adj3": "busiest"
+    },
+    {
+        "base": "clumsy",
+        "classes": ["adj"],
+        "adj1": "clumsy",
+        "adj2": "clumsier",
+        "adj3": "clumsiest"
+    },
+    {
+        "base": "cozy",
+        "classes": ["adj"],
+        "adj1": "cozy",
+        "adj2": "cozier",
+        "adj3": "coziest"
+    },
+    {
+        "base": "crazy",
+        "classes": ["adj"],
+        "adj1": "crazy",
+        "adj2": "crazier",
+        "adj3": "craziest"
+    },
+    {
+        "base": "creepy",
+        "classes": ["adj"],
+        "adj1": "creepy",
+        "adj2": "creepier",
+        "adj3": "creepiest"
+    },
+    {
+        "base": "crispy",
+        "classes": ["adj"],
+        "adj1": "crispy",
+        "adj2": "crispier",
+        "adj3": "crispiest"
+    },
+    {
+        "base": "curly",
+        "classes": ["adj"],
+        "adj1": "curly",
+        "adj2": "curlier",
+        "adj3": "curliest"
+    },
+    {
+        "base": "dirty",
+        "classes": ["adj"],
+        "adj1": "dirty",
+        "adj2": "dirtier",
+        "adj3": "dirtiest"
+    },
+    {
+        "base": "easy",
+        "classes": ["adj"],
+        "adj1": "easy",
+        "adj2": "easier",
+        "adj3": "easiest"
+    },
+    {
+        "base": "empty",
+        "classes": ["adj"],
+        "adj1": "empty",
+        "adj2": "emptier",
+        "adj3": "emptiest"
+    },
+    {
+        "base": "fancy",
+        "classes": ["adj"],
+        "adj1": "fancy",
+        "adj2": "fancier",
+        "adj3": "fanciest"
+    },
+    {
+        "base": "friendly",
+        "classes": ["adj"],
+        "adj1": "friendly",
+        "adj2": "friendlier",
+        "adj3": "friendliest"
+    },
+    {
+        "base": "funny",
+        "classes": ["adj"],
+        "adj1": "funny",
+        "adj2": "funnier",
+        "adj3": "funniest"
+    },
+    {
+        "base": "gloomy",
+        "classes": ["adj"],
+        "adj1": "gloomy",
+        "adj2": "gloomier",
+        "adj3": "gloomiest"
+    },
+    {
+        "base": "greedy",
+        "classes": ["adj"],
+        "adj1": "greedy",
+        "adj2": "greedier",
+        "adj3": "greediest"
+    },
+    {
+        "base": "guilty",
+        "classes": ["adj"],
+        "adj1": "guilty",
+        "adj2": "guiltier",
+        "adj3": "guiltiest"
+    },
+    {
+        "base": "happy",
+        "classes": ["adj"],
+        "adj1": "happy",
+        "adj2": "happier",
+        "adj3": "happiest"
+    },
+    {
+        "base": "healthy",
+        "classes": ["adj"],
+        "adj1": "healthy",
+        "adj2": "healthier",
+        "adj3": "healthiest"
+    },
+    {
+        "base": "heavy",
+        "classes": ["adj"],
+        "adj1": "heavy",
+        "adj2": "heavier",
+        "adj3": "heaviest"
+    },
+    {
+        "base": "holy",
+        "classes": ["adj"],
+        "adj1": "holy",
+        "adj2": "holier",
+        "adj3": "holiest"
+    },
+    {
+        "base": "hungry",
+        "classes": ["adj"],
+        "adj1": "hungry",
+        "adj2": "hungrier",
+        "adj3": "hungriest"
+    },
+    {
+        "base": "icy",
+        "classes": ["adj"],
+        "adj1": "icy",
+        "adj2": "icier",
+        "adj3": "iciest"
+    },
+    {
+        "base": "juicy",
+        "classes": ["adj"],
+        "adj1": "juicy",
+        "adj2": "juicier",
+        "adj3": "juiciest"
+    },
+    {
+        "base": "lazy",
+        "classes": ["adj"],
+        "adj1": "lazy",
+        "adj2": "lazier",
+        "adj3": "laziest"
+    },
+    {
+        "base": "likely",
+        "classes": ["adj"],
+        "adj1": "likely",
+        "adj2": "likelier",
+        "adj3": "likeliest"
+    },
+    {
+        "base": "lonely",
+        "classes": ["adj"],
+        "adj1": "lonely",
+        "adj2": "lonelier",
+        "adj3": "loneliest"
+    },
+    {
+        "base": "lovely",
+        "classes": ["adj"],
+        "adj1": "lovely",
+        "adj2": "lovelier",
+        "adj3": "loveliest"
+    },
+    {
+        "base": "lucky",
+        "classes": ["adj"],
+        "adj1": "lucky",
+        "adj2": "luckier",
+        "adj3": "luckiest"
+    },
+    {
+        "base": "messy",
+        "classes": ["adj"],
+        "adj1": "messy",
+        "adj2": "messier",
+        "adj3": "messiest"
+    },
+    {
+        "base": "mighty",
+        "classes": ["adj"],
+        "adj1": "mighty",
+        "adj2": "mightier",
+        "adj3": "mightiest"
+    },
+    {
+        "base": "nasty",
+        "classes": ["adj"],
+        "adj1": "nasty",
+        "adj2": "nastier",
+        "adj3": "nastiest"
+    },
+    {
+        "base": "needy",
+        "classes": ["adj"],
+        "adj1": "needy",
+        "adj2": "needier",
+        "adj3": "neediest"
+    },
+    {
+        "base": "noisy",
+        "classes": ["adj"],
+        "adj1": "noisy",
+        "adj2": "noisier",
+        "adj3": "noisiest"
+    },
+    {
+        "base": "pretty",
+        "classes": ["adj"],
+        "adj1": "pretty",
+        "adj2": "prettier",
+        "adj3": "prettiest"
+    },
+    {
+        "base": "ready",
+        "classes": ["adj"],
+        "adj1": "ready",
+        "adj2": "readier",
+        "adj3": "readiest"
+    },
+    {
+        "base": "risky",
+        "classes": ["adj"],
+        "adj1": "risky",
+        "adj2": "riskier",
+        "adj3": "riskiest"
+    },
+    {
+        "base": "scary",
+        "classes": ["adj"],
+        "adj1": "scary",
+        "adj2": "scarier",
+        "adj3": "scariest"
+    },
+    {
+        "base": "sleepy",
+        "classes": ["adj"],
+        "adj1": "sleepy",
+        "adj2": "sleepier",
+        "adj3": "sleepiest"
+    },
+    {
+        "base": "smelly",
+        "classes": ["adj"],
+        "adj1": "smelly",
+        "adj2": "smellier",
+        "adj3": "smelliest"
+    },
+    {
+        "base": "smoky",
+        "classes": ["adj"],
+        "adj1": "smoky",
+        "adj2": "smokier",
+        "adj3": "smokiest"
+    },
+    {
+        "base": "snowy",
+        "classes": ["adj"],
+        "adj1": "snowy",
+        "adj2": "snowier",
+        "adj3": "snowiest"
+    },
+    {
+        "base": "sorry",
+        "classes": ["adj"],
+        "adj1": "sorry",
+        "adj2": "sorrier",
+        "adj3": "sorriest"
+    },
+    {
+        "base": "spicy",
+        "classes": ["adj"],
+        "adj1": "spicy",
+        "adj2": "spicier",
+        "adj3": "spiciest"
+    },
+    {
+        "base": "sticky",
+        "classes": ["adj"],
+        "adj1": "sticky",
+        "adj2": "stickier",
+        "adj3": "stickiest"
+    },
+    {
+        "base": "stinky",
+        "classes": ["adj"],
+        "adj1": "stinky",
+        "adj2": "stinkier",
+        "adj3": "stinkiest"
+    },
+    {
+        "base": "sunny",
+        "classes": ["adj"],
+        "adj1": "sunny",
+        "adj2": "sunnier",
+        "adj3": "sunniest"
+    },
+    {
+        "base": "tiny",
+        "classes": ["adj"],
+        "adj1": "tiny",
+        "adj2": "tinier",
+        "adj3": "tiniest"
+    },
+    {
+        "base": "ugly",
+        "classes": ["adj"],
+        "adj1": "ugly",
+        "adj2": "uglier",
+        "adj3": "ugliest"
+    },
+    {
+        "base": "windy",
+        "classes": ["adj"],
+        "adj1": "windy",
+        "adj2": "windier",
+        "adj3": "windiest"
+    },
+    {
+        "base": "witty",
+        "classes": ["adj"],
+        "adj1": "witty",
+        "adj2": "wittier",
+        "adj3": "wittiest"
+    },
+    {
+        "base": "woolly",
+        "classes": ["adj"],
+        "adj1": "woolly",
+        "adj2": "woollier",
+        "adj3": "woolliest"
+    },
+    {
+        "base": "worthy",
+        "classes": ["adj"],
+        "adj1": "worthy",
+        "adj2": "worthier",
+        "adj3": "worthiest"
+    },
+    {
+        "base": "small",
+        "classes": ["adj"],
+        "adj1": "small",
+        "adj2": "smaller",
+        "adj3": "smallest"
+    },
+    {
+        "base": "large",
+        "classes": ["adj"],
+        "adj1": "large",
+        "adj2": "larger",
+        "adj3": "largest"
+    },
+    {
+        "base": "bright",
+        "classes": ["adj"],
+        "adj1": "bright",
+        "adj2": "brighter",
+        "adj3": "brightest"
+    },
+    {
+        "base": "young",
+        "classes": ["adj"],
+        "adj1": "young",
+        "adj2": "younger",
+        "adj3": "youngest"
+    },
+    {
+        "base": "fast",
+        "classes": ["adj"],
+        "adj1": "fast",
+        "adj2": "faster",
+        "adj3": "fastest"
+    },
+    {
+        "base": "soft",
+        "classes": ["adj"],
+        "adj1": "soft",
+        "adj2": "softer",
+        "adj3": "softest"
+    },
+    {
+        "base": "hard",
+        "classes": ["adj"],
+        "adj1": "hard",
+        "adj2": "harder",
+        "adj3": "hardest"
+    },
+    {
+        "base": "short",
+        "classes": ["adj"],
+        "adj1": "short",
+        "adj2": "shorter",
+        "adj3": "shortest"
+    },
+    {
+        "base": "tall",
+        "classes": ["adj"],
+        "adj1": "tall",
+        "adj2": "taller",
+        "adj3": "tallest"
+    },
+    {
+        "base": "smart",
+        "classes": ["adj"],
+        "adj1": "smart",
+        "adj2": "smarter",
+        "adj3": "smartest"
+    },
+    {
+        "base": "light",
+        "classes": ["adj"],
+        "adj1": "light",
+        "adj2": "lighter",
+        "adj3": "lightest"
+    },
+    {
+        "base": "fresh",
+        "classes": ["adj"],
+        "adj1": "fresh",
+        "adj2": "fresher",
+        "adj3": "freshest"
+    },
+    {
+        "base": "close",
+        "classes": ["adj"],
+        "adj1": "close",
+        "adj2": "closer",
+        "adj3": "closest"
+    },
+    {
+        "base": "thick",
+        "classes": ["adj"],
+        "adj1": "thick",
+        "adj2": "thicker",
+        "adj3": "thickest"
+    },
+    {
+        "base": "rich",
+        "classes": ["adj"],
+        "adj1": "rich",
+        "adj2": "richer",
+        "adj3": "richest"
+    },
+    {
+        "base": "poor",
+        "classes": ["adj"],
+        "adj1": "poor",
+        "adj2": "poorer",
+        "adj3": "poorest"
+    },
+    {
+        "base": "sweet",
+        "classes": ["adj"],
+        "adj1": "sweet",
+        "adj2": "sweeter",
+        "adj3": "sweetest"
+    },
+    {
+        "base": "bitter",
+        "classes": ["adj"],
+        "adj1": "bitter",
+        "adj2": "bitterer",
+        "adj3": "bitterest"
+    },
+    {
+        "base": "strong",
+        "classes": ["adj"],
+        "adj1": "strong",
+        "adj2": "stronger",
+        "adj3": "strongest"
+    },
+    {
+        "base": "weak",
+        "classes": ["adj"],
+        "adj1": "weak",
+        "adj2": "weaker",
+        "adj3": "weakest"
+    },
+    {
+        "base": "brave",
+        "classes": ["adj"],
+        "adj1": "brave",
+        "adj2": "braver",
+        "adj3": "bravest"
+    },
+    {
+        "base": "kind",
+        "classes": ["adj"],
+        "adj1": "kind",
+        "adj2": "kinder",
+        "adj3": "kindest"
+    },
+    {
+        "base": "fine",
+        "classes": ["adj"],
+        "adj1": "fine",
+        "adj2": "finer",
+        "adj3": "finest"
+    },
+    {
+        "base": "cold",
+        "classes": ["adj"],
+        "adj1": "cold",
+        "adj2": "colder",
+        "adj3": "coldest"
+    },
+    {
+        "base": "proud",
+        "classes": ["adj"],
+        "adj1": "proud",
+        "adj2": "prouder",
+        "adj3": "proudest"
+    },
+    {
+        "base": "wise",
+        "classes": ["adj"],
+        "adj1": "wise",
+        "adj2": "wiser",
+        "adj3": "wisest"
+    },
+    {
+        "base": "rare",
+        "classes": ["adj"],
+        "adj1": "rare",
+        "adj2": "rarer",
+        "adj3": "rarest"
+    },
+    {
+        "base": "important",
+        "classes": ["adj"],
+        "adj1": "important",
+        "adj2": "more important",
+        "adj3": "most important"
+    },
+    {
+        "base": "famous",
+        "classes": ["adj"],
+        "adj1": "famous",
+        "adj2": "more famous",
+        "adj3": "most famous"
+    },
+    {
+        "base": "dangerous",
+        "classes": ["adj"],
+        "adj1": "dangerous",
+        "adj2": "more dangerous",
+        "adj3": "most dangerous"
+    },
+    {
+        "base": "beautiful",
+        "classes": ["adj"],
+        "adj1": "beautiful",
+        "adj2": "more beautiful",
+        "adj3": "most beautiful"
+    },
+    {
+        "base": "popular",
+        "classes": ["adj"],
+        "adj1": "popular",
+        "adj2": "more popular",
+        "adj3": "most popular"
+    },
+    {
+        "base": "powerful",
+        "classes": ["adj"],
+        "adj1": "powerful",
+        "adj2": "more powerful",
+        "adj3": "most powerful"
+    },
+    {
+        "base": "wonderful",
+        "classes": ["adj"],
+        "adj1": "wonderful",
+        "adj2": "more wonderful",
+        "adj3": "most wonderful"
+    },
+    {
+        "base": "dull",
+        "classes": ["adj"],
+        "adj1": "dull",
+        "adj2": "duller",
+        "adj3": "dullest"
+    },
+    {
+        "base": "loud",
+        "classes": ["adj"],
+        "adj1": "loud",
+        "adj2": "louder",
+        "adj3": "loudest"
+    },
+    {
+        "base": "sharp",
+        "classes": ["adj"],
+        "adj1": "sharp",
+        "adj2": "sharper",
+        "adj3": "sharpest"
+    },
+    {
+        "base": "sour",
+        "classes": ["adj"],
+        "adj1": "sour",
+        "adj2": "sourer",
+        "adj3": "sourest"
+    },
+    {
+        "base": "tasty",
+        "classes": ["adj"],
+        "adj1": "tasty",
+        "adj2": "tastier",
+        "adj3": "tastiest"
+    },
+    {
+        "base": "wealthy",
+        "classes": ["adj"],
+        "adj1": "wealthy",
+        "adj2": "wealthier",
+        "adj3": "wealthiest"
+    },
+    {
+        "base": "smooth",
+        "classes": ["adj"],
+        "adj1": "smooth",
+        "adj2": "smoother",
+        "adj3": "smoothest"
+    },
+    {
+        "base": "lively",
+        "classes": ["adj"],
+        "adj1": "lively",
+        "adj2": "livelier",
+        "adj3": "liveliest"
+    },
+    {
+        "base": "dusty",
+        "classes": ["adj"],
+        "adj1": "dusty",
+        "adj2": "dustier",
+        "adj3": "dustiest"
+    },
+    {
+        "base": "grim",
+        "classes": ["adj"],
+        "adj1": "grim",
+        "adj2": "grimmer",
+        "adj3": "grimmest"
+    },
+    {
+        "base": "rough",
+        "classes": ["adj"],
+        "adj1": "rough",
+        "adj2": "rougher",
+        "adj3": "roughest"
+    },
+    {
+        "base": "calm",
+        "classes": ["adj"],
+        "adj1": "calm",
+        "adj2": "calmer",
+        "adj3": "calmest"
+    },
+    {
+        "base": "great",
+        "classes": ["adj"],
+        "adj1": "great",
+        "adj2": "greater",
+        "adj3": "greatest"
+    },
+    {
+        "base": "dim",
+        "classes": ["adj"],
+        "adj1": "dim",
+        "adj2": "dimmer",
+        "adj3": "dimmest"
+    },
+    {
+        "base": "ripe",
+        "classes": ["adj"],
+        "adj1": "ripe",
+        "adj2": "riper",
+        "adj3": "ripest"
+    }
+]

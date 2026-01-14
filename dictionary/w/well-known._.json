@@ -1,0 +1,9 @@
+{
+    "base": "well-known",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "well-known",
+    "adj2": "better-known",
+    "adj3": "best-known"
+}

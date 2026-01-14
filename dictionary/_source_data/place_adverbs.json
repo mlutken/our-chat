@@ -1,0 +1,116 @@
+[
+    {
+        "base": "behind",
+        "classes": ["adv"],
+        "f0": "behind",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "above",
+        "classes": ["adv"],
+        "f0": "above",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "nearby",
+        "classes": ["adv"],
+        "f0": "nearby",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "backwards",
+        "classes": ["adv"],
+        "f0": "backwards",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "towards",
+        "classes": ["adv"],
+        "f0": "towards",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "outside",
+        "classes": ["adv"],
+        "f0": "outside",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "inside",
+        "classes": ["adv"],
+        "f0": "inside",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "around",
+        "classes": ["adv"],
+        "f0": "around",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "over",
+        "classes": ["adv"],
+        "f0": "over",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "overseas",
+        "classes": ["adv"],
+        "f0": "overseas",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "close",
+        "classes": ["adv"],
+        "f0": "close",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "away",
+        "classes": ["adv"],
+        "f0": "away",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "upstairs",
+        "classes": ["adv"],
+        "f0": "upstairs",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "downstairs",
+        "classes": ["adv"],
+        "f0": "downstairs",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "here",
+        "classes": ["adv"],
+        "f0": "here",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "there",
+        "classes": ["adv"],
+        "f0": "there",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "everywhere",
+        "classes": ["adv"],
+        "f0": "everywhere",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "deeply",
+        "classes": ["adv"],
+        "f0": "deeply",
+        "adv_subtype": "place"
+    },
+    {
+        "base": "next-door",
+        "classes": ["adv"],
+        "f0": "next-door",
+        "adv_subtype": "place"
+    }
+]

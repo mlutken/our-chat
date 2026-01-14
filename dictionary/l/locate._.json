@@ -1,0 +1,11 @@
+{
+    "base": "locate",
+    "classes": [
+        "v"
+    ],
+    "v1": "locate",
+    "v2": "located",
+    "v3": "located",
+    "v4": "locating",
+    "v5": "locates"
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "word": "house",
+        "classes": ["n"],
+        "type": 1,
+        "form": 1
+    },
+    {
+        "word": "houses",
+        "classes": ["n"],
+        "type": 1,
+        "form": 2
+    },
+    {
+        "word": "the house",
+        "classes": ["n"],
+        "type": 1,
+        "form": 3
+    },
+    {
+        "word": "the houses",
+        "classes": ["n"],
+        "type": 1,
+        "form": 4
+    },
+    {
+        "word": "a house",
+        "classes": ["n"],
+        "type": 1,
+        "form": 5
+    }
+]

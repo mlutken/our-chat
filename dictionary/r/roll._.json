@@ -1,0 +1,11 @@
+{
+    "base": "roll",
+    "classes": [
+        "v"
+    ],
+    "v1": "roll",
+    "v2": "rolled",
+    "v3": "rolled",
+    "v4": "rolling",
+    "v5": "rolls"
+}

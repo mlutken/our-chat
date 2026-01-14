@@ -1,0 +1,9 @@
+{
+    "base": "ready",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "ready",
+    "adj2": "readier",
+    "adj3": "readiest"
+}

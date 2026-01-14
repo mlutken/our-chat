@@ -1,0 +1,11 @@
+{
+    "base": "fetch",
+    "classes": [
+        "v"
+    ],
+    "v1": "fetch",
+    "v2": "fetched",
+    "v3": "fetched",
+    "v4": "fetching",
+    "v5": "fetches"
+}

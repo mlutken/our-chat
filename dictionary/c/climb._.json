@@ -1,0 +1,11 @@
+{
+    "base": "climb",
+    "classes": [
+        "v"
+    ],
+    "v1": "climb",
+    "v2": "climbed",
+    "v3": "climbed",
+    "v4": "climbing",
+    "v5": "climbs"
+}

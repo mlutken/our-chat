@@ -1,0 +1,9 @@
+{
+    "base": "hot",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "hot",
+    "adj2": "hotter",
+    "adj3": "hottest"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "knock",
+    "classes": [
+        "v"
+    ],
+    "v1": "knock",
+    "v2": "knocked",
+    "v3": "knocked",
+    "v4": "knocking",
+    "v5": "knocks"
+}

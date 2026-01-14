@@ -1,0 +1,11 @@
+{
+    "base": "melt",
+    "classes": [
+        "v"
+    ],
+    "v1": "melt",
+    "v2": "melted",
+    "v3": "melted",
+    "v4": "melting",
+    "v5": "melts"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "fail",
+    "classes": [
+        "v"
+    ],
+    "v1": "fail",
+    "v2": "failed",
+    "v3": "failed",
+    "v4": "failing",
+    "v5": "fails"
+}

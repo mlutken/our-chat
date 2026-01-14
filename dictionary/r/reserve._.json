@@ -1,0 +1,11 @@
+{
+    "base": "reserve",
+    "classes": [
+        "v"
+    ],
+    "v1": "reserve",
+    "v2": "reserved",
+    "v3": "reserved",
+    "v4": "reserving",
+    "v5": "reserves"
+}

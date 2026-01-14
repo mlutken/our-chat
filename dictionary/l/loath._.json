@@ -1,0 +1,9 @@
+{
+    "base": "loath",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "loath",
+    "adj2": "more loath",
+    "adj3": "most loath"
+}

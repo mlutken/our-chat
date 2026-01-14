@@ -1,0 +1,11 @@
+{
+    "base": "crash",
+    "classes": [
+        "v"
+    ],
+    "v1": "crash",
+    "v2": "crashed",
+    "v3": "crashed",
+    "v4": "crashing",
+    "v5": "crashes"
+}

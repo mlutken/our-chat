@@ -1,0 +1,11 @@
+{
+    "base": "replace",
+    "classes": [
+        "v"
+    ],
+    "v1": "replace",
+    "v2": "replaced",
+    "v3": "replaced",
+    "v4": "replacing",
+    "v5": "replaces"
+}

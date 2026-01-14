@@ -1,0 +1,11 @@
+{
+    "base": "float",
+    "classes": [
+        "v"
+    ],
+    "v1": "float",
+    "v2": "floated",
+    "v3": "floated",
+    "v4": "floating",
+    "v5": "floats"
+}

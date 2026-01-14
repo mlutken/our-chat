@@ -1,0 +1,11 @@
+{
+    "base": "shelter",
+    "classes": [
+        "v"
+    ],
+    "v1": "shelter",
+    "v2": "sheltered",
+    "v3": "sheltered",
+    "v4": "sheltering",
+    "v5": "shelters"
+}

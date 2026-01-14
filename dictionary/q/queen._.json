@@ -1,0 +1,12 @@
+{
+    "base": "queen",
+    "classes": [
+        "n"
+    ],
+    "n0": "",
+    "n1": "queen",
+    "n2": "queens",
+    "n3": "the queen",
+    "n4": "the queens",
+    "n5": "queen's"
+}

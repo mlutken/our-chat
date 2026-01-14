@@ -1,0 +1,11 @@
+{
+    "base": "recognize",
+    "classes": [
+        "v"
+    ],
+    "v1": "recognize",
+    "v2": "recognized",
+    "v3": "recognized",
+    "v4": "recognizing",
+    "v5": "recognizes"
+}

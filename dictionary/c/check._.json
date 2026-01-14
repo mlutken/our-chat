@@ -1,0 +1,11 @@
+{
+    "base": "check",
+    "classes": [
+        "v"
+    ],
+    "v1": "check",
+    "v2": "checked",
+    "v3": "checked",
+    "v4": "checking",
+    "v5": "checks"
+}

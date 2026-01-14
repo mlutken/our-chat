@@ -1,0 +1,11 @@
+{
+    "base": "eat",
+    "classes": [
+        "v"
+    ],
+    "v1": "eat",
+    "v2": "ate",
+    "v3": "eaten",
+    "v4": "eating",
+    "v5": "eats"
+}

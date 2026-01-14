@@ -1,0 +1,11 @@
+{
+    "base": "destroy",
+    "classes": [
+        "v"
+    ],
+    "v1": "destroy",
+    "v2": "destroyed",
+    "v3": "destroyed",
+    "v4": "destroying",
+    "v5": "destroys"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "wash",
+    "classes": [
+        "v"
+    ],
+    "v1": "wash",
+    "v2": "washed",
+    "v3": "washed",
+    "v4": "washing",
+    "v5": "washes"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "guilty",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "guilty",
+    "adj2": "guiltier",
+    "adj3": "guiltiest"
+}

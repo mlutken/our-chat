@@ -1,0 +1,5240 @@
+[
+    {
+        "base": "accept",
+        "classes": ["v"],
+        "v1": "accept",
+        "v2": "accepted",
+        "v3": "accepted",
+        "v4": "accepting",
+        "v5": "accepts"
+    },
+    {
+        "base": "achieve",
+        "classes": ["v"],
+        "v1": "achieve",
+        "v2": "achieved",
+        "v3": "achieved",
+        "v4": "achieving",
+        "v5": "achieves"
+    },
+    {
+        "base": "add",
+        "classes": ["v"],
+        "v1": "add",
+        "v2": "added",
+        "v3": "added",
+        "v4": "adding",
+        "v5": "adds"
+    },
+    {
+        "base": "admire",
+        "classes": ["v"],
+        "v1": "admire",
+        "v2": "admired",
+        "v3": "admired",
+        "v4": "admiring",
+        "v5": "admires"
+    },
+    {
+        "base": "advise",
+        "classes": ["v"],
+        "v1": "advise",
+        "v2": "advised",
+        "v3": "advised",
+        "v4": "advising",
+        "v5": "advises"
+    },
+    {
+        "base": "agree",
+        "classes": ["v"],
+        "v1": "agree",
+        "v2": "agreed",
+        "v3": "agreed",
+        "v4": "agreeing",
+        "v5": "agrees"
+    },
+    {
+        "base": "allow",
+        "classes": ["v"],
+        "v1": "allow",
+        "v2": "allowed",
+        "v3": "allowed",
+        "v4": "allowing",
+        "v5": "allows"
+    },
+    {
+        "base": "amuse",
+        "classes": ["v"],
+        "v1": "amuse",
+        "v2": "amused",
+        "v3": "amused",
+        "v4": "amusing",
+        "v5": "amuses"
+    },
+    {
+        "base": "analyze",
+        "classes": ["v"],
+        "v1": "analyze",
+        "v2": "analyzed",
+        "v3": "analyzed",
+        "v4": "analyzing",
+        "v5": "analyzes"
+    },
+    {
+        "base": "announce",
+        "classes": ["v"],
+        "v1": "announce",
+        "v2": "announced",
+        "v3": "announced",
+        "v4": "announcing",
+        "v5": "announces"
+    },
+    {
+        "base": "annoy",
+        "classes": ["v"],
+        "v1": "annoy",
+        "v2": "annoyed",
+        "v3": "annoyed",
+        "v4": "annoying",
+        "v5": "annoys"
+    },
+    {
+        "base": "answer",
+        "classes": ["v"],
+        "v1": "answer",
+        "v2": "answered",
+        "v3": "answered",
+        "v4": "answering",
+        "v5": "answers"
+    },
+    {
+        "base": "apologize",
+        "classes": ["v"],
+        "v1": "apologize",
+        "v2": "apologized",
+        "v3": "apologized",
+        "v4": "apologizing",
+        "v5": "apologizes"
+    },
+    {
+        "base": "appear",
+        "classes": ["v"],
+        "v1": "appear",
+        "v2": "appeared",
+        "v3": "appeared",
+        "v4": "appearing",
+        "v5": "appears"
+    },
+    {
+        "base": "appreciate",
+        "classes": ["v"],
+        "v1": "appreciate",
+        "v2": "appreciated",
+        "v3": "appreciated",
+        "v4": "appreciating",
+        "v5": "appreciates"
+    },
+    {
+        "base": "argue",
+        "classes": ["v"],
+        "v1": "argue",
+        "v2": "argued",
+        "v3": "argued",
+        "v4": "arguing",
+        "v5": "argues"
+    },
+    {
+        "base": "arrange",
+        "classes": ["v"],
+        "v1": "arrange",
+        "v2": "arranged",
+        "v3": "arranged",
+        "v4": "arranging",
+        "v5": "arranges"
+    },
+    {
+        "base": "arrive",
+        "classes": ["v"],
+        "v1": "arrive",
+        "v2": "arrived",
+        "v3": "arrived",
+        "v4": "arriving",
+        "v5": "arrives"
+    },
+    {
+        "base": "ask",
+        "classes": ["v"],
+        "v1": "ask",
+        "v2": "asked",
+        "v3": "asked",
+        "v4": "asking",
+        "v5": "asks"
+    },
+    {
+        "base": "attach",
+        "classes": ["v"],
+        "v1": "attach",
+        "v2": "attached",
+        "v3": "attached",
+        "v4": "attaching",
+        "v5": "attaches"
+    },
+    {
+        "base": "attack",
+        "classes": ["v"],
+        "v1": "attack",
+        "v2": "attacked",
+        "v3": "attacked",
+        "v4": "attacking",
+        "v5": "attacks"
+    },
+    {
+        "base": "attempt",
+        "classes": ["v"],
+        "v1": "attempt",
+        "v2": "attempted",
+        "v3": "attempted",
+        "v4": "attempting",
+        "v5": "attempts"
+    },
+    {
+        "base": "attend",
+        "classes": ["v"],
+        "v1": "attend",
+        "v2": "attended",
+        "v3": "attended",
+        "v4": "attending",
+        "v5": "attends"
+    },
+    {
+        "base": "attract",
+        "classes": ["v"],
+        "v1": "attract",
+        "v2": "attracted",
+        "v3": "attracted",
+        "v4": "attracting",
+        "v5": "attracts"
+    },
+    {
+        "base": "avoid",
+        "classes": ["v"],
+        "v1": "avoid",
+        "v2": "avoided",
+        "v3": "avoided",
+        "v4": "avoiding",
+        "v5": "avoids"
+    },
+    {
+        "base": "bake",
+        "classes": ["v"],
+        "v1": "bake",
+        "v2": "baked",
+        "v3": "baked",
+        "v4": "baking",
+        "v5": "bakes"
+    },
+    {
+        "base": "balance",
+        "classes": ["v"],
+        "v1": "balance",
+        "v2": "balanced",
+        "v3": "balanced",
+        "v4": "balancing",
+        "v5": "balances"
+    },
+    {
+        "base": "ban",
+        "classes": ["v"],
+        "v1": "ban",
+        "v2": "banned",
+        "v3": "banned",
+        "v4": "banning",
+        "v5": "bans"
+    },
+    {
+        "base": "bang",
+        "classes": ["v"],
+        "v1": "bang",
+        "v2": "banged",
+        "v3": "banged",
+        "v4": "banging",
+        "v5": "bangs"
+    },
+    {
+        "base": "bare",
+        "classes": ["v"],
+        "v1": "bare",
+        "v2": "bared",
+        "v3": "bared",
+        "v4": "baring",
+        "v5": "bares"
+    },
+    {
+        "base": "bathe",
+        "classes": ["v"],
+        "v1": "bathe",
+        "v2": "bathed",
+        "v3": "bathed",
+        "v4": "bathing",
+        "v5": "bathes"
+    },
+    {
+        "base": "battle",
+        "classes": ["v"],
+        "v1": "battle",
+        "v2": "battled",
+        "v3": "battled",
+        "v4": "battling",
+        "v5": "battles"
+    },
+    {
+        "base": "beam",
+        "classes": ["v"],
+        "v1": "beam",
+        "v2": "beamed",
+        "v3": "beamed",
+        "v4": "beaming",
+        "v5": "beams"
+    },
+    {
+        "base": "beg",
+        "classes": ["v"],
+        "v1": "beg",
+        "v2": "begged",
+        "v3": "begged",
+        "v4": "begging",
+        "v5": "begs"
+    },
+    {
+        "base": "behave",
+        "classes": ["v"],
+        "v1": "behave",
+        "v2": "behaved",
+        "v3": "behaved",
+        "v4": "behaving",
+        "v5": "behaves"
+    },
+    {
+        "base": "belong",
+        "classes": ["v"],
+        "v1": "belong",
+        "v2": "belonged",
+        "v3": "belonged",
+        "v4": "belonging",
+        "v5": "belongs"
+    },
+    {
+        "base": "blot",
+        "classes": ["v"],
+        "v1": "blot",
+        "v2": "blotted",
+        "v3": "blotted",
+        "v4": "blotting",
+        "v5": "blots"
+    },
+    {
+        "base": "boast",
+        "classes": ["v"],
+        "v1": "boast",
+        "v2": "boasted",
+        "v3": "boasted",
+        "v4": "boasting",
+        "v5": "boasts"
+    },
+    {
+        "base": "boil",
+        "classes": ["v"],
+        "v1": "boil",
+        "v2": "boiled",
+        "v3": "boiled",
+        "v4": "boiling",
+        "v5": "boils"
+    },
+    {
+        "base": "book",
+        "classes": ["v"],
+        "v1": "book",
+        "v2": "booked",
+        "v3": "booked",
+        "v4": "booking",
+        "v5": "books"
+    },
+    {
+        "base": "bore",
+        "classes": ["v"],
+        "v1": "bore",
+        "v2": "bored",
+        "v3": "bored",
+        "v4": "boring",
+        "v5": "bores"
+    },
+    {
+        "base": "borrow",
+        "classes": ["v"],
+        "v1": "borrow",
+        "v2": "borrowed",
+        "v3": "borrowed",
+        "v4": "borrowing",
+        "v5": "borrows"
+    },
+    {
+        "base": "bounce",
+        "classes": ["v"],
+        "v1": "bounce",
+        "v2": "bounced",
+        "v3": "bounced",
+        "v4": "bouncing",
+        "v5": "bounces"
+    },
+    {
+        "base": "bow",
+        "classes": ["v"],
+        "v1": "bow",
+        "v2": "bowed",
+        "v3": "bowed",
+        "v4": "bowing",
+        "v5": "bows"
+    },
+    {
+        "base": "box",
+        "classes": ["v"],
+        "v1": "box",
+        "v2": "boxed",
+        "v3": "boxed",
+        "v4": "boxing",
+        "v5": "boxes"
+    },
+    {
+        "base": "brake",
+        "classes": ["v"],
+        "v1": "brake",
+        "v2": "braked",
+        "v3": "braked",
+        "v4": "braking",
+        "v5": "brakes"
+    },
+    {
+        "base": "branch",
+        "classes": ["v"],
+        "v1": "branch",
+        "v2": "branched",
+        "v3": "branched",
+        "v4": "branching",
+        "v5": "branches"
+    },
+    {
+        "base": "breathe",
+        "classes": ["v"],
+        "v1": "breathe",
+        "v2": "breathed",
+        "v3": "breathed",
+        "v4": "breathing",
+        "v5": "breathes"
+    },
+    {
+        "base": "brush",
+        "classes": ["v"],
+        "v1": "brush",
+        "v2": "brushed",
+        "v3": "brushed",
+        "v4": "brushing",
+        "v5": "brushes"
+    },
+    {
+        "base": "bubble",
+        "classes": ["v"],
+        "v1": "bubble",
+        "v2": "bubbled",
+        "v3": "bubbled",
+        "v4": "bubbling",
+        "v5": "bubbles"
+    },
+    {
+        "base": "bump",
+        "classes": ["v"],
+        "v1": "bump",
+        "v2": "bumped",
+        "v3": "bumped",
+        "v4": "bumping",
+        "v5": "bumps"
+    },
+    {
+        "base": "burn",
+        "classes": ["v"],
+        "v1": "burn",
+        "v2": "burned/burnt",
+        "v3": "burned/burnt",
+        "v4": "burning",
+        "v5": "burns"
+    },
+    {
+        "base": "bury",
+        "classes": ["v"],
+        "v1": "bury",
+        "v2": "buried",
+        "v3": "buried",
+        "v4": "burying",
+        "v5": "buries"
+    },
+    {
+        "base": "buzz",
+        "classes": ["v"],
+        "v1": "buzz",
+        "v2": "buzzed",
+        "v3": "buzzed",
+        "v4": "buzzing",
+        "v5": "buzzes"
+    },
+    {
+        "base": "calculate",
+        "classes": ["v"],
+        "v1": "calculate",
+        "v2": "calculated",
+        "v3": "calculated",
+        "v4": "calculating",
+        "v5": "calculates"
+    },
+    {
+        "base": "call",
+        "classes": ["v"],
+        "v1": "call",
+        "v2": "called",
+        "v3": "called",
+        "v4": "calling",
+        "v5": "calls"
+    },
+    {
+        "base": "camp",
+        "classes": ["v"],
+        "v1": "camp",
+        "v2": "camped",
+        "v3": "camped",
+        "v4": "camping",
+        "v5": "camps"
+    },
+    {
+        "base": "care",
+        "classes": ["v"],
+        "v1": "care",
+        "v2": "cared",
+        "v3": "cared",
+        "v4": "caring",
+        "v5": "cares"
+    },
+    {
+        "base": "carry",
+        "classes": ["v"],
+        "v1": "carry",
+        "v2": "carried",
+        "v3": "carried",
+        "v4": "carrying",
+        "v5": "carries"
+    },
+    {
+        "base": "carve",
+        "classes": ["v"],
+        "v1": "carve",
+        "v2": "carved",
+        "v3": "carved",
+        "v4": "carving",
+        "v5": "carves"
+    },
+    {
+        "base": "cause",
+        "classes": ["v"],
+        "v1": "cause",
+        "v2": "caused",
+        "v3": "caused",
+        "v4": "causing",
+        "v5": "causes"
+    },
+    {
+        "base": "challenge",
+        "classes": ["v"],
+        "v1": "challenge",
+        "v2": "challenged",
+        "v3": "challenged",
+        "v4": "challenging",
+        "v5": "challenges"
+    },
+    {
+        "base": "change",
+        "classes": ["v"],
+        "v1": "change",
+        "v2": "changed",
+        "v3": "changed",
+        "v4": "changing",
+        "v5": "changes"
+    },
+    {
+        "base": "charge",
+        "classes": ["v"],
+        "v1": "charge",
+        "v2": "charged",
+        "v3": "charged",
+        "v4": "charging",
+        "v5": "charges"
+    },
+    {
+        "base": "chase",
+        "classes": ["v"],
+        "v1": "chase",
+        "v2": "chased",
+        "v3": "chased",
+        "v4": "chasing",
+        "v5": "chases"
+    },
+    {
+        "base": "cheat",
+        "classes": ["v"],
+        "v1": "cheat",
+        "v2": "cheated",
+        "v3": "cheated",
+        "v4": "cheating",
+        "v5": "cheats"
+    },
+    {
+        "base": "check",
+        "classes": ["v"],
+        "v1": "check",
+        "v2": "checked",
+        "v3": "checked",
+        "v4": "checking",
+        "v5": "checks"
+    },
+    {
+        "base": "cheer",
+        "classes": ["v"],
+        "v1": "cheer",
+        "v2": "cheered",
+        "v3": "cheered",
+        "v4": "cheering",
+        "v5": "cheers"
+    },
+    {
+        "base": "chew",
+        "classes": ["v"],
+        "v1": "chew",
+        "v2": "chewed",
+        "v3": "chewed",
+        "v4": "chewing",
+        "v5": "chews"
+    },
+    {
+        "base": "chop",
+        "classes": ["v"],
+        "v1": "chop",
+        "v2": "chopped",
+        "v3": "chopped",
+        "v4": "chopping",
+        "v5": "chops"
+    },
+    {
+        "base": "claim",
+        "classes": ["v"],
+        "v1": "claim",
+        "v2": "claimed",
+        "v3": "claimed",
+        "v4": "claiming",
+        "v5": "claims"
+    },
+    {
+        "base": "clap",
+        "classes": ["v"],
+        "v1": "clap",
+        "v2": "clapped",
+        "v3": "clapped",
+        "v4": "clapping",
+        "v5": "claps"
+    },
+    {
+        "base": "clean",
+        "classes": ["v"],
+        "v1": "clean",
+        "v2": "cleaned",
+        "v3": "cleaned",
+        "v4": "cleaning",
+        "v5": "cleans"
+    },
+    {
+        "base": "clear",
+        "classes": ["v"],
+        "v1": "clear",
+        "v2": "cleared",
+        "v3": "cleared",
+        "v4": "clearing",
+        "v5": "clears"
+    },
+    {
+        "base": "climb",
+        "classes": ["v"],
+        "v1": "climb",
+        "v2": "climbed",
+        "v3": "climbed",
+        "v4": "climbing",
+        "v5": "climbs"
+    },
+    {
+        "base": "close",
+        "classes": ["v"],
+        "v1": "close",
+        "v2": "closed",
+        "v3": "closed",
+        "v4": "closing",
+        "v5": "closes"
+    },
+    {
+        "base": "collect",
+        "classes": ["v"],
+        "v1": "collect",
+        "v2": "collected",
+        "v3": "collected",
+        "v4": "collecting",
+        "v5": "collects"
+    },
+    {
+        "base": "color",
+        "classes": ["v"],
+        "v1": "color",
+        "v2": "colored",
+        "v3": "colored",
+        "v4": "coloring",
+        "v5": "colors"
+    },
+    {
+        "base": "comb",
+        "classes": ["v"],
+        "v1": "comb",
+        "v2": "combed",
+        "v3": "combed",
+        "v4": "combing",
+        "v5": "combs"
+    },
+    {
+        "base": "comfort",
+        "classes": ["v"],
+        "v1": "comfort",
+        "v2": "comforted",
+        "v3": "comforted",
+        "v4": "comforting",
+        "v5": "comforts"
+    },
+    {
+        "base": "command",
+        "classes": ["v"],
+        "v1": "command",
+        "v2": "commanded",
+        "v3": "commanded",
+        "v4": "commanding",
+        "v5": "commands"
+    },
+    {
+        "base": "communicate",
+        "classes": ["v"],
+        "v1": "communicate",
+        "v2": "communicated",
+        "v3": "communicated",
+        "v4": "communicating",
+        "v5": "communicates"
+    },
+    {
+        "base": "compare",
+        "classes": ["v"],
+        "v1": "compare",
+        "v2": "compared",
+        "v3": "compared",
+        "v4": "comparing",
+        "v5": "compares"
+    },
+    {
+        "base": "compete",
+        "classes": ["v"],
+        "v1": "compete",
+        "v2": "competed",
+        "v3": "competed",
+        "v4": "competing",
+        "v5": "competes"
+    },
+    {
+        "base": "complain",
+        "classes": ["v"],
+        "v1": "complain",
+        "v2": "complained",
+        "v3": "complained",
+        "v4": "complaining",
+        "v5": "complains"
+    },
+    {
+        "base": "complete",
+        "classes": ["v"],
+        "v1": "complete",
+        "v2": "completed",
+        "v3": "completed",
+        "v4": "completing",
+        "v5": "completes"
+    },
+    {
+        "base": "concentrate",
+        "classes": ["v"],
+        "v1": "concentrate",
+        "v2": "concentrated",
+        "v3": "concentrated",
+        "v4": "concentrating",
+        "v5": "concentrates"
+    },
+    {
+        "base": "concern",
+        "classes": ["v"],
+        "v1": "concern",
+        "v2": "concerned",
+        "v3": "concerned",
+        "v4": "concerning",
+        "v5": "concerns"
+    },
+    {
+        "base": "confess",
+        "classes": ["v"],
+        "v1": "confess",
+        "v2": "confessed",
+        "v3": "confessed",
+        "v4": "confessing",
+        "v5": "confesses"
+    },
+    {
+        "base": "confuse",
+        "classes": ["v"],
+        "v1": "confuse",
+        "v2": "confused",
+        "v3": "confused",
+        "v4": "confusing",
+        "v5": "confuses"
+    },
+    {
+        "base": "connect",
+        "classes": ["v"],
+        "v1": "connect",
+        "v2": "connected",
+        "v3": "connected",
+        "v4": "connecting",
+        "v5": "connects"
+    },
+    {
+        "base": "consider",
+        "classes": ["v"],
+        "v1": "consider",
+        "v2": "considered",
+        "v3": "considered",
+        "v4": "considering",
+        "v5": "considers"
+    },
+    {
+        "base": "consist",
+        "classes": ["v"],
+        "v1": "consist",
+        "v2": "consisted",
+        "v3": "consisted",
+        "v4": "consisting",
+        "v5": "consists"
+    },
+    {
+        "base": "contain",
+        "classes": ["v"],
+        "v1": "contain",
+        "v2": "contained",
+        "v3": "contained",
+        "v4": "containing",
+        "v5": "contains"
+    },
+    {
+        "base": "continue",
+        "classes": ["v"],
+        "v1": "continue",
+        "v2": "continued",
+        "v3": "continued",
+        "v4": "continuing",
+        "v5": "continues"
+    },
+    {
+        "base": "cook",
+        "classes": ["v"],
+        "v1": "cook",
+        "v2": "cooked",
+        "v3": "cooked",
+        "v4": "cooking",
+        "v5": "cooks"
+    },
+    {
+        "base": "copy",
+        "classes": ["v"],
+        "v1": "copy",
+        "v2": "copied",
+        "v3": "copied",
+        "v4": "copying",
+        "v5": "copies"
+    },
+    {
+        "base": "correct",
+        "classes": ["v"],
+        "v1": "correct",
+        "v2": "corrected",
+        "v3": "corrected",
+        "v4": "correcting",
+        "v5": "corrects"
+    },
+    {
+        "base": "cough",
+        "classes": ["v"],
+        "v1": "cough",
+        "v2": "coughed",
+        "v3": "coughed",
+        "v4": "coughing",
+        "v5": "coughs"
+    },
+    {
+        "base": "count",
+        "classes": ["v"],
+        "v1": "count",
+        "v2": "counted",
+        "v3": "counted",
+        "v4": "counting",
+        "v5": "counts"
+    },
+    {
+        "base": "cover",
+        "classes": ["v"],
+        "v1": "cover",
+        "v2": "covered",
+        "v3": "covered",
+        "v4": "covering",
+        "v5": "covers"
+    },
+    {
+        "base": "crash",
+        "classes": ["v"],
+        "v1": "crash",
+        "v2": "crashed",
+        "v3": "crashed",
+        "v4": "crashing",
+        "v5": "crashes"
+    },
+    {
+        "base": "crawl",
+        "classes": ["v"],
+        "v1": "crawl",
+        "v2": "crawled",
+        "v3": "crawled",
+        "v4": "crawling",
+        "v5": "crawls"
+    },
+    {
+        "base": "create",
+        "classes": ["v"],
+        "v1": "create",
+        "v2": "created",
+        "v3": "created",
+        "v4": "creating",
+        "v5": "creates"
+    },
+    {
+        "base": "cross",
+        "classes": ["v"],
+        "v1": "cross",
+        "v2": "crossed",
+        "v3": "crossed",
+        "v4": "crossing",
+        "v5": "crosses"
+    },
+    {
+        "base": "cry",
+        "classes": ["v"],
+        "v1": "cry",
+        "v2": "cried",
+        "v3": "cried",
+        "v4": "crying",
+        "v5": "cries"
+    },
+    {
+        "base": "cure",
+        "classes": ["v"],
+        "v1": "cure",
+        "v2": "cured",
+        "v3": "cured",
+        "v4": "curing",
+        "v5": "cures"
+    },
+    {
+        "base": "curl",
+        "classes": ["v"],
+        "v1": "curl",
+        "v2": "curled",
+        "v3": "curled",
+        "v4": "curling",
+        "v5": "curls"
+    },
+    {
+        "base": "curve",
+        "classes": ["v"],
+        "v1": "curve",
+        "v2": "curved",
+        "v3": "curved",
+        "v4": "curving",
+        "v5": "curves"
+    },
+    {
+        "base": "cycle",
+        "classes": ["v"],
+        "v1": "cycle",
+        "v2": "cycled",
+        "v3": "cycled",
+        "v4": "cycling",
+        "v5": "cycles"
+    },
+    {
+        "base": "dam",
+        "classes": ["v"],
+        "v1": "dam",
+        "v2": "dammed",
+        "v3": "dammed",
+        "v4": "damming",
+        "v5": "dams"
+    },
+    {
+        "base": "damage",
+        "classes": ["v"],
+        "v1": "damage",
+        "v2": "damaged",
+        "v3": "damaged",
+        "v4": "damaging",
+        "v5": "damages"
+    },
+    {
+        "base": "dance",
+        "classes": ["v"],
+        "v1": "dance",
+        "v2": "danced",
+        "v3": "danced",
+        "v4": "dancing",
+        "v5": "dances"
+    },
+    {
+        "base": "dare",
+        "classes": ["v"],
+        "v1": "dare",
+        "v2": "dared",
+        "v3": "dared",
+        "v4": "daring",
+        "v5": "dares"
+    },
+    {
+        "base": "deal",
+        "classes": ["v"],
+        "v1": "deal",
+        "v2": "dealt",
+        "v3": "dealt",
+        "v4": "dealing",
+        "v5": "deals"
+    },
+    {
+        "base": "decide",
+        "classes": ["v"],
+        "v1": "decide",
+        "v2": "decided",
+        "v3": "decided",
+        "v4": "deciding",
+        "v5": "decides"
+    },
+    {
+        "base": "decorate",
+        "classes": ["v"],
+        "v1": "decorate",
+        "v2": "decorated",
+        "v3": "decorated",
+        "v4": "decorating",
+        "v5": "decorates"
+    },
+    {
+        "base": "delay",
+        "classes": ["v"],
+        "v1": "delay",
+        "v2": "delayed",
+        "v3": "delayed",
+        "v4": "delaying",
+        "v5": "delays"
+    },
+    {
+        "base": "delight",
+        "classes": ["v"],
+        "v1": "delight",
+        "v2": "delighted",
+        "v3": "delighted",
+        "v4": "delighting",
+        "v5": "delights"
+    },
+    {
+        "base": "deliver",
+        "classes": ["v"],
+        "v1": "deliver",
+        "v2": "delivered",
+        "v3": "delivered",
+        "v4": "delivering",
+        "v5": "delivers"
+    },
+    {
+        "base": "depend",
+        "classes": ["v"],
+        "v1": "depend",
+        "v2": "depended",
+        "v3": "depended",
+        "v4": "depending",
+        "v5": "depends"
+    },
+    {
+        "base": "describe",
+        "classes": ["v"],
+        "v1": "describe",
+        "v2": "described",
+        "v3": "described",
+        "v4": "describing",
+        "v5": "describes"
+    },
+    {
+        "base": "desert",
+        "classes": ["v"],
+        "v1": "desert",
+        "v2": "deserted",
+        "v3": "deserted",
+        "v4": "deserting",
+        "v5": "deserts"
+    },
+    {
+        "base": "deserve",
+        "classes": ["v"],
+        "v1": "deserve",
+        "v2": "deserved",
+        "v3": "deserved",
+        "v4": "deserving",
+        "v5": "deserves"
+    },
+    {
+        "base": "destroy",
+        "classes": ["v"],
+        "v1": "destroy",
+        "v2": "destroyed",
+        "v3": "destroyed",
+        "v4": "destroying",
+        "v5": "destroys"
+    },
+    {
+        "base": "detect",
+        "classes": ["v"],
+        "v1": "detect",
+        "v2": "detected",
+        "v3": "detected",
+        "v4": "detecting",
+        "v5": "detects"
+    },
+    {
+        "base": "develop",
+        "classes": ["v"],
+        "v1": "develop",
+        "v2": "developed",
+        "v3": "developed",
+        "v4": "developing",
+        "v5": "develops"
+    },
+    {
+        "base": "disagree",
+        "classes": ["v"],
+        "v1": "disagree",
+        "v2": "disagreed",
+        "v3": "disagreed",
+        "v4": "disagreeing",
+        "v5": "disagrees"
+    },
+    {
+        "base": "discover",
+        "classes": ["v"],
+        "v1": "discover",
+        "v2": "discovered",
+        "v3": "discovered",
+        "v4": "discovering",
+        "v5": "discovers"
+    },
+    {
+        "base": "dislike",
+        "classes": ["v"],
+        "v1": "dislike",
+        "v2": "disliked",
+        "v3": "disliked",
+        "v4": "disliking",
+        "v5": "dislikes"
+    },
+    {
+        "base": "divide",
+        "classes": ["v"],
+        "v1": "divide",
+        "v2": "divided",
+        "v3": "divided",
+        "v4": "dividing",
+        "v5": "divides"
+    },
+    {
+        "base": "double",
+        "classes": ["v"],
+        "v1": "double",
+        "v2": "doubled",
+        "v3": "doubled",
+        "v4": "doubling",
+        "v5": "doubles"
+    },
+    {
+        "base": "doubt",
+        "classes": ["v"],
+        "v1": "doubt",
+        "v2": "doubted",
+        "v3": "doubted",
+        "v4": "doubting",
+        "v5": "doubts"
+    },
+    {
+        "base": "drag",
+        "classes": ["v"],
+        "v1": "drag",
+        "v2": "dragged",
+        "v3": "dragged",
+        "v4": "dragging",
+        "v5": "drags"
+    },
+    {
+        "base": "drain",
+        "classes": ["v"],
+        "v1": "drain",
+        "v2": "drained",
+        "v3": "drained",
+        "v4": "draining",
+        "v5": "drains"
+    },
+    {
+        "base": "dream",
+        "classes": ["v"],
+        "v1": "dream",
+        "v2": "dreamed/dreamt",
+        "v3": "dreamed/dreamt",
+        "v4": "dreaming",
+        "v5": "dreams"
+    },
+    {
+        "base": "dress",
+        "classes": ["v"],
+        "v1": "dress",
+        "v2": "dressed",
+        "v3": "dressed",
+        "v4": "dressing",
+        "v5": "dresses"
+    },
+    {
+        "base": "drip",
+        "classes": ["v"],
+        "v1": "drip",
+        "v2": "dripped",
+        "v3": "dripped",
+        "v4": "dripping",
+        "v5": "drips"
+    },
+    {
+        "base": "drop",
+        "classes": ["v"],
+        "v1": "drop",
+        "v2": "dropped",
+        "v3": "dropped",
+        "v4": "dropping",
+        "v5": "drops"
+    },
+    {
+        "base": "drown",
+        "classes": ["v"],
+        "v1": "drown",
+        "v2": "drowned",
+        "v3": "drowned",
+        "v4": "drowning",
+        "v5": "drowns"
+    },
+    {
+        "base": "drum",
+        "classes": ["v"],
+        "v1": "drum",
+        "v2": "drummed",
+        "v3": "drummed",
+        "v4": "drumming",
+        "v5": "drums"
+    },
+    {
+        "base": "dry",
+        "classes": ["v"],
+        "v1": "dry",
+        "v2": "dried",
+        "v3": "dried",
+        "v4": "drying",
+        "v5": "dries"
+    },
+    {
+        "base": "dust",
+        "classes": ["v"],
+        "v1": "dust",
+        "v2": "dusted",
+        "v3": "dusted",
+        "v4": "dusting",
+        "v5": "dusts"
+    },
+    {
+        "base": "earn",
+        "classes": ["v"],
+        "v1": "earn",
+        "v2": "earned",
+        "v3": "earned",
+        "v4": "earning",
+        "v5": "earns"
+    },
+    {
+        "base": "educate",
+        "classes": ["v"],
+        "v1": "educate",
+        "v2": "educated",
+        "v3": "educated",
+        "v4": "educating",
+        "v5": "educates"
+    },
+    {
+        "base": "employ",
+        "classes": ["v"],
+        "v1": "employ",
+        "v2": "employed",
+        "v3": "employed",
+        "v4": "employing",
+        "v5": "employs"
+    },
+    {
+        "base": "empty",
+        "classes": ["v"],
+        "v1": "empty",
+        "v2": "emptied",
+        "v3": "emptied",
+        "v4": "emptying",
+        "v5": "empties"
+    },
+    {
+        "base": "encourage",
+        "classes": ["v"],
+        "v1": "encourage",
+        "v2": "encouraged",
+        "v3": "encouraged",
+        "v4": "encouraging",
+        "v5": "encourages"
+    },
+    {
+        "base": "end",
+        "classes": ["v"],
+        "v1": "end",
+        "v2": "ended",
+        "v3": "ended",
+        "v4": "ending",
+        "v5": "ends"
+    },
+    {
+        "base": "enjoy",
+        "classes": ["v"],
+        "v1": "enjoy",
+        "v2": "enjoyed",
+        "v3": "enjoyed",
+        "v4": "enjoying",
+        "v5": "enjoys"
+    },
+    {
+        "base": "enter",
+        "classes": ["v"],
+        "v1": "enter",
+        "v2": "entered",
+        "v3": "entered",
+        "v4": "entering",
+        "v5": "enters"
+    },
+    {
+        "base": "entertain",
+        "classes": ["v"],
+        "v1": "entertain",
+        "v2": "entertained",
+        "v3": "entertained",
+        "v4": "entertaining",
+        "v5": "entertains"
+    },
+    {
+        "base": "escape",
+        "classes": ["v"],
+        "v1": "escape",
+        "v2": "escaped",
+        "v3": "escaped",
+        "v4": "escaping",
+        "v5": "escapes"
+    },
+    {
+        "base": "examine",
+        "classes": ["v"],
+        "v1": "examine",
+        "v2": "examined",
+        "v3": "examined",
+        "v4": "examining",
+        "v5": "examines"
+    },
+    {
+        "base": "excite",
+        "classes": ["v"],
+        "v1": "excite",
+        "v2": "excited",
+        "v3": "excited",
+        "v4": "exciting",
+        "v5": "excites"
+    },
+    {
+        "base": "excuse",
+        "classes": ["v"],
+        "v1": "excuse",
+        "v2": "excused",
+        "v3": "excused",
+        "v4": "excusing",
+        "v5": "excuses"
+    },
+    {
+        "base": "exercise",
+        "classes": ["v"],
+        "v1": "exercise",
+        "v2": "exercised",
+        "v3": "exercised",
+        "v4": "exercising",
+        "v5": "exercises"
+    },
+    {
+        "base": "exist",
+        "classes": ["v"],
+        "v1": "exist",
+        "v2": "existed",
+        "v3": "existed",
+        "v4": "existing",
+        "v5": "exists"
+    },
+    {
+        "base": "expand",
+        "classes": ["v"],
+        "v1": "expand",
+        "v2": "expanded",
+        "v3": "expanded",
+        "v4": "expanding",
+        "v5": "expands"
+    },
+    {
+        "base": "expect",
+        "classes": ["v"],
+        "v1": "expect",
+        "v2": "expected",
+        "v3": "expected",
+        "v4": "expecting",
+        "v5": "expects"
+    },
+    {
+        "base": "explain",
+        "classes": ["v"],
+        "v1": "explain",
+        "v2": "explained",
+        "v3": "explained",
+        "v4": "explaining",
+        "v5": "explains"
+    },
+    {
+        "base": "explode",
+        "classes": ["v"],
+        "v1": "explode",
+        "v2": "exploded",
+        "v3": "exploded",
+        "v4": "exploding",
+        "v5": "explodes"
+    },
+    {
+        "base": "extend",
+        "classes": ["v"],
+        "v1": "extend",
+        "v2": "extended",
+        "v3": "extended",
+        "v4": "extending",
+        "v5": "extends"
+    },
+    {
+        "base": "face",
+        "classes": ["v"],
+        "v1": "face",
+        "v2": "faced",
+        "v3": "faced",
+        "v4": "facing",
+        "v5": "faces"
+    },
+    {
+        "base": "fade",
+        "classes": ["v"],
+        "v1": "fade",
+        "v2": "faded",
+        "v3": "faded",
+        "v4": "fading",
+        "v5": "fades"
+    },
+    {
+        "base": "fail",
+        "classes": ["v"],
+        "v1": "fail",
+        "v2": "failed",
+        "v3": "failed",
+        "v4": "failing",
+        "v5": "fails"
+    },
+    {
+        "base": "fasten",
+        "classes": ["v"],
+        "v1": "fasten",
+        "v2": "fastened",
+        "v3": "fastened",
+        "v4": "fastening",
+        "v5": "fastens"
+    },
+    {
+        "base": "fax",
+        "classes": ["v"],
+        "v1": "fax",
+        "v2": "faxed",
+        "v3": "faxed",
+        "v4": "faxing",
+        "v5": "faxes"
+    },
+    {
+        "base": "fear",
+        "classes": ["v"],
+        "v1": "fear",
+        "v2": "feared",
+        "v3": "feared",
+        "v4": "fearing",
+        "v5": "fears"
+    },
+    {
+        "base": "fence",
+        "classes": ["v"],
+        "v1": "fence",
+        "v2": "fenced",
+        "v3": "fenced",
+        "v4": "fencing",
+        "v5": "fences"
+    },
+    {
+        "base": "fetch",
+        "classes": ["v"],
+        "v1": "fetch",
+        "v2": "fetched",
+        "v3": "fetched",
+        "v4": "fetching",
+        "v5": "fetches"
+    },
+    {
+        "base": "file",
+        "classes": ["v"],
+        "v1": "file",
+        "v2": "filed",
+        "v3": "filed",
+        "v4": "filing",
+        "v5": "files"
+    },
+    {
+        "base": "fill",
+        "classes": ["v"],
+        "v1": "fill",
+        "v2": "filled",
+        "v3": "filled",
+        "v4": "filling",
+        "v5": "fills"
+    },
+    {
+        "base": "film",
+        "classes": ["v"],
+        "v1": "film",
+        "v2": "filmed",
+        "v3": "filmed",
+        "v4": "filming",
+        "v5": "films"
+    },
+    {
+        "base": "fire",
+        "classes": ["v"],
+        "v1": "fire",
+        "v2": "fired",
+        "v3": "fired",
+        "v4": "firing",
+        "v5": "fires"
+    },
+    {
+        "base": "fit",
+        "classes": ["v"],
+        "v1": "fit",
+        "v2": "fitted",
+        "v3": "fitted",
+        "v4": "fitting",
+        "v5": "fits"
+    },
+    {
+        "base": "fix",
+        "classes": ["v"],
+        "v1": "fix",
+        "v2": "fixed",
+        "v3": "fixed",
+        "v4": "fixing",
+        "v5": "fixes"
+    },
+    {
+        "base": "flap",
+        "classes": ["v"],
+        "v1": "flap",
+        "v2": "flapped",
+        "v3": "flapped",
+        "v4": "flapping",
+        "v5": "flaps"
+    },
+    {
+        "base": "flash",
+        "classes": ["v"],
+        "v1": "flash",
+        "v2": "flashed",
+        "v3": "flashed",
+        "v4": "flashing",
+        "v5": "flashes"
+    },
+    {
+        "base": "float",
+        "classes": ["v"],
+        "v1": "float",
+        "v2": "floated",
+        "v3": "floated",
+        "v4": "floating",
+        "v5": "floats"
+    },
+    {
+        "base": "flood",
+        "classes": ["v"],
+        "v1": "flood",
+        "v2": "flooded",
+        "v3": "flooded",
+        "v4": "flooding",
+        "v5": "floods"
+    },
+    {
+        "base": "flow",
+        "classes": ["v"],
+        "v1": "flow",
+        "v2": "flowed",
+        "v3": "flowed",
+        "v4": "flowing",
+        "v5": "flows"
+    },
+    {
+        "base": "flower",
+        "classes": ["v"],
+        "v1": "flower",
+        "v2": "flowered",
+        "v3": "flowered",
+        "v4": "flowering",
+        "v5": "flowers"
+    },
+    {
+        "base": "fold",
+        "classes": ["v"],
+        "v1": "fold",
+        "v2": "folded",
+        "v3": "folded",
+        "v4": "folding",
+        "v5": "folds"
+    },
+    {
+        "base": "follow",
+        "classes": ["v"],
+        "v1": "follow",
+        "v2": "followed",
+        "v3": "followed",
+        "v4": "following",
+        "v5": "follows"
+    },
+    {
+        "base": "fool",
+        "classes": ["v"],
+        "v1": "fool",
+        "v2": "fooled",
+        "v3": "fooled",
+        "v4": "fooling",
+        "v5": "fools"
+    },
+    {
+        "base": "force",
+        "classes": ["v"],
+        "v1": "force",
+        "v2": "forced",
+        "v3": "forced",
+        "v4": "forcing",
+        "v5": "forces"
+    },
+    {
+        "base": "form",
+        "classes": ["v"],
+        "v1": "form",
+        "v2": "formed",
+        "v3": "formed",
+        "v4": "forming",
+        "v5": "forms"
+    },
+    {
+        "base": "found",
+        "classes": ["v"],
+        "v1": "found",
+        "v2": "founded",
+        "v3": "founded",
+        "v4": "founding",
+        "v5": "founds"
+    },
+    {
+        "base": "frame",
+        "classes": ["v"],
+        "v1": "frame",
+        "v2": "framed",
+        "v3": "framed",
+        "v4": "framing",
+        "v5": "frames"
+    },
+    {
+        "base": "frighten",
+        "classes": ["v"],
+        "v1": "frighten",
+        "v2": "frightened",
+        "v3": "frightened",
+        "v4": "frightening",
+        "v5": "frightens"
+    },
+    {
+        "base": "fry",
+        "classes": ["v"],
+        "v1": "fry",
+        "v2": "fried",
+        "v3": "fried",
+        "v4": "frying",
+        "v5": "fries"
+    },
+    {
+        "base": "gather",
+        "classes": ["v"],
+        "v1": "gather",
+        "v2": "gathered",
+        "v3": "gathered",
+        "v4": "gathering",
+        "v5": "gathers"
+    },
+    {
+        "base": "gaze",
+        "classes": ["v"],
+        "v1": "gaze",
+        "v2": "gazed",
+        "v3": "gazed",
+        "v4": "gazing",
+        "v5": "gazes"
+    },
+    {
+        "base": "glow",
+        "classes": ["v"],
+        "v1": "glow",
+        "v2": "glowed",
+        "v3": "glowed",
+        "v4": "glowing",
+        "v5": "glows"
+    },
+    {
+        "base": "glue",
+        "classes": ["v"],
+        "v1": "glue",
+        "v2": "glued",
+        "v3": "glued",
+        "v4": "gluing",
+        "v5": "glues"
+    },
+    {
+        "base": "grab",
+        "classes": ["v"],
+        "v1": "grab",
+        "v2": "grabbed",
+        "v3": "grabbed",
+        "v4": "grabbing",
+        "v5": "grabs"
+    },
+    {
+        "base": "grate",
+        "classes": ["v"],
+        "v1": "grate",
+        "v2": "grated",
+        "v3": "grated",
+        "v4": "grating",
+        "v5": "grates"
+    },
+    {
+        "base": "grease",
+        "classes": ["v"],
+        "v1": "grease",
+        "v2": "greased",
+        "v3": "greased",
+        "v4": "greasing",
+        "v5": "greases"
+    },
+    {
+        "base": "greet",
+        "classes": ["v"],
+        "v1": "greet",
+        "v2": "greeted",
+        "v3": "greeted",
+        "v4": "greeting",
+        "v5": "greets"
+    },
+    {
+        "base": "grin",
+        "classes": ["v"],
+        "v1": "grin",
+        "v2": "grinned",
+        "v3": "grinned",
+        "v4": "grinning",
+        "v5": "grins"
+    },
+    {
+        "base": "grip",
+        "classes": ["v"],
+        "v1": "grip",
+        "v2": "gripped",
+        "v3": "gripped",
+        "v4": "gripping",
+        "v5": "grips"
+    },
+    {
+        "base": "groan",
+        "classes": ["v"],
+        "v1": "groan",
+        "v2": "groaned",
+        "v3": "groaned",
+        "v4": "groaning",
+        "v5": "groans"
+    },
+    {
+        "base": "guarantee",
+        "classes": ["v"],
+        "v1": "guarantee",
+        "v2": "guaranteed",
+        "v3": "guaranteed",
+        "v4": "guaranteeing",
+        "v5": "guarantees"
+    },
+    {
+        "base": "guard",
+        "classes": ["v"],
+        "v1": "guard",
+        "v2": "guarded",
+        "v3": "guarded",
+        "v4": "guarding",
+        "v5": "guards"
+    },
+    {
+        "base": "guess",
+        "classes": ["v"],
+        "v1": "guess",
+        "v2": "guessed",
+        "v3": "guessed",
+        "v4": "guessing",
+        "v5": "guesses"
+    },
+    {
+        "base": "guide",
+        "classes": ["v"],
+        "v1": "guide",
+        "v2": "guided",
+        "v3": "guided",
+        "v4": "guiding",
+        "v5": "guides"
+    },
+    {
+        "base": "hammer",
+        "classes": ["v"],
+        "v1": "hammer",
+        "v2": "hammered",
+        "v3": "hammered",
+        "v4": "hammering",
+        "v5": "hammers"
+    },
+    {
+        "base": "hand",
+        "classes": ["v"],
+        "v1": "hand",
+        "v2": "handed",
+        "v3": "handed",
+        "v4": "handing",
+        "v5": "hands"
+    },
+    {
+        "base": "handle",
+        "classes": ["v"],
+        "v1": "handle",
+        "v2": "handled",
+        "v3": "handled",
+        "v4": "handling",
+        "v5": "handles"
+    },
+    {
+        "base": "hang",
+        "classes": ["v"],
+        "v1": "hang",
+        "v2": "hanged/hung",
+        "v3": "hanged/hung",
+        "v4": "hanging",
+        "v5": "hangs"
+    },
+    {
+        "base": "happen",
+        "classes": ["v"],
+        "v1": "happen",
+        "v2": "happened",
+        "v3": "happened",
+        "v4": "happening",
+        "v5": "happens"
+    },
+    {
+        "base": "harm",
+        "classes": ["v"],
+        "v1": "harm",
+        "v2": "harmed",
+        "v3": "harmed",
+        "v4": "harming",
+        "v5": "harms"
+    },
+    {
+        "base": "hate",
+        "classes": ["v"],
+        "v1": "hate",
+        "v2": "hated",
+        "v3": "hated",
+        "v4": "hating",
+        "v5": "hates"
+    },
+    {
+        "base": "haunt",
+        "classes": ["v"],
+        "v1": "haunt",
+        "v2": "haunted",
+        "v3": "haunted",
+        "v4": "haunting",
+        "v5": "haunts"
+    },
+    {
+        "base": "heal",
+        "classes": ["v"],
+        "v1": "heal",
+        "v2": "healed",
+        "v3": "healed",
+        "v4": "healing",
+        "v5": "heals"
+    },
+    {
+        "base": "heap",
+        "classes": ["v"],
+        "v1": "heap",
+        "v2": "heaped",
+        "v3": "heaped",
+        "v4": "heaping",
+        "v5": "heaps"
+    },
+    {
+        "base": "heat",
+        "classes": ["v"],
+        "v1": "heat",
+        "v2": "heated",
+        "v3": "heated",
+        "v4": "heating",
+        "v5": "heats"
+    },
+    {
+        "base": "help",
+        "classes": ["v"],
+        "v1": "help",
+        "v2": "helped",
+        "v3": "helped",
+        "v4": "helping",
+        "v5": "helps"
+    },
+    {
+        "base": "hook",
+        "classes": ["v"],
+        "v1": "hook",
+        "v2": "hooked",
+        "v3": "hooked",
+        "v4": "hooking",
+        "v5": "hooks"
+    },
+    {
+        "base": "hop",
+        "classes": ["v"],
+        "v1": "hop",
+        "v2": "hopped",
+        "v3": "hopped",
+        "v4": "hopping",
+        "v5": "hops"
+    },
+    {
+        "base": "hope",
+        "classes": ["v"],
+        "v1": "hope",
+        "v2": "hoped",
+        "v3": "hoped",
+        "v4": "hoping",
+        "v5": "hopes"
+    },
+    {
+        "base": "hover",
+        "classes": ["v"],
+        "v1": "hover",
+        "v2": "hovered",
+        "v3": "hovered",
+        "v4": "hovering",
+        "v5": "hovers"
+    },
+    {
+        "base": "hug",
+        "classes": ["v"],
+        "v1": "hug",
+        "v2": "hugged",
+        "v3": "hugged",
+        "v4": "hugging",
+        "v5": "hugs"
+    },
+    {
+        "base": "hum",
+        "classes": ["v"],
+        "v1": "hum",
+        "v2": "hummed",
+        "v3": "hummed",
+        "v4": "humming",
+        "v5": "hums"
+    },
+    {
+        "base": "hunt",
+        "classes": ["v"],
+        "v1": "hunt",
+        "v2": "hunted",
+        "v3": "hunted",
+        "v4": "hunting",
+        "v5": "hunts"
+    },
+    {
+        "base": "hurry",
+        "classes": ["v"],
+        "v1": "hurry",
+        "v2": "hurried",
+        "v3": "hurried",
+        "v4": "hurrying",
+        "v5": "hurries"
+    },
+    {
+        "base": "identify",
+        "classes": ["v"],
+        "v1": "identify",
+        "v2": "identified",
+        "v3": "identified",
+        "v4": "identifying",
+        "v5": "identifies"
+    },
+    {
+        "base": "ignore",
+        "classes": ["v"],
+        "v1": "ignore",
+        "v2": "ignored",
+        "v3": "ignored",
+        "v4": "ignoring",
+        "v5": "ignores"
+    },
+    {
+        "base": "imagine",
+        "classes": ["v"],
+        "v1": "imagine",
+        "v2": "imagined",
+        "v3": "imagined",
+        "v4": "imagining",
+        "v5": "imagines"
+    },
+    {
+        "base": "impress",
+        "classes": ["v"],
+        "v1": "impress",
+        "v2": "impressed",
+        "v3": "impressed",
+        "v4": "impressing",
+        "v5": "impresses"
+    },
+    {
+        "base": "improve",
+        "classes": ["v"],
+        "v1": "improve",
+        "v2": "improved",
+        "v3": "improved",
+        "v4": "improving",
+        "v5": "improves"
+    },
+    {
+        "base": "include",
+        "classes": ["v"],
+        "v1": "include",
+        "v2": "included",
+        "v3": "included",
+        "v4": "including",
+        "v5": "includes"
+    },
+    {
+        "base": "increase",
+        "classes": ["v"],
+        "v1": "increase",
+        "v2": "increased",
+        "v3": "increased",
+        "v4": "increasing",
+        "v5": "increases"
+    },
+    {
+        "base": "inform",
+        "classes": ["v"],
+        "v1": "inform",
+        "v2": "informed",
+        "v3": "informed",
+        "v4": "informing",
+        "v5": "informs"
+    },
+    {
+        "base": "inject",
+        "classes": ["v"],
+        "v1": "inject",
+        "v2": "injected",
+        "v3": "injected",
+        "v4": "injecting",
+        "v5": "injects"
+    },
+    {
+        "base": "injure",
+        "classes": ["v"],
+        "v1": "injure",
+        "v2": "injured",
+        "v3": "injured",
+        "v4": "injuring",
+        "v5": "injures"
+    },
+    {
+        "base": "instruct",
+        "classes": ["v"],
+        "v1": "instruct",
+        "v2": "instructed",
+        "v3": "instructed",
+        "v4": "instructing",
+        "v5": "instructs"
+    },
+    {
+        "base": "intend",
+        "classes": ["v"],
+        "v1": "intend",
+        "v2": "intended",
+        "v3": "intended",
+        "v4": "intending",
+        "v5": "intends"
+    },
+    {
+        "base": "interest",
+        "classes": ["v"],
+        "v1": "interest",
+        "v2": "interested",
+        "v3": "interested",
+        "v4": "interesting",
+        "v5": "interests"
+    },
+    {
+        "base": "interrupt",
+        "classes": ["v"],
+        "v1": "interrupt",
+        "v2": "interrupted",
+        "v3": "interrupted",
+        "v4": "interrupting",
+        "v5": "interrupts"
+    },
+    {
+        "base": "introduce",
+        "classes": ["v"],
+        "v1": "introduce",
+        "v2": "introduced",
+        "v3": "introduced",
+        "v4": "introducing",
+        "v5": "introduces"
+    },
+    {
+        "base": "invent",
+        "classes": ["v"],
+        "v1": "invent",
+        "v2": "invented",
+        "v3": "invented",
+        "v4": "inventing",
+        "v5": "invents"
+    },
+    {
+        "base": "invite",
+        "classes": ["v"],
+        "v1": "invite",
+        "v2": "invited",
+        "v3": "invited",
+        "v4": "inviting",
+        "v5": "invites"
+    },
+    {
+        "base": "irritate",
+        "classes": ["v"],
+        "v1": "irritate",
+        "v2": "irritated",
+        "v3": "irritated",
+        "v4": "irritating",
+        "v5": "irritates"
+    },
+    {
+        "base": "itch",
+        "classes": ["v"],
+        "v1": "itch",
+        "v2": "itched",
+        "v3": "itched",
+        "v4": "itching",
+        "v5": "itches"
+    },
+    {
+        "base": "jail",
+        "classes": ["v"],
+        "v1": "jail",
+        "v2": "jailed",
+        "v3": "jailed",
+        "v4": "jailing",
+        "v5": "jails"
+    },
+    {
+        "base": "join",
+        "classes": ["v"],
+        "v1": "join",
+        "v2": "joined",
+        "v3": "joined",
+        "v4": "joining",
+        "v5": "joins"
+    },
+    {
+        "base": "joke",
+        "classes": ["v"],
+        "v1": "joke",
+        "v2": "joked",
+        "v3": "joked",
+        "v4": "joking",
+        "v5": "jokes"
+    },
+    {
+        "base": "judge",
+        "classes": ["v"],
+        "v1": "judge",
+        "v2": "judged",
+        "v3": "judged",
+        "v4": "judging",
+        "v5": "judges"
+    },
+    {
+        "base": "juggle",
+        "classes": ["v"],
+        "v1": "juggle",
+        "v2": "juggled",
+        "v3": "juggled",
+        "v4": "juggling",
+        "v5": "juggles"
+    },
+    {
+        "base": "jump",
+        "classes": ["v"],
+        "v1": "jump",
+        "v2": "jumped",
+        "v3": "jumped",
+        "v4": "jumping",
+        "v5": "jumps"
+    },
+    {
+        "base": "justify",
+        "classes": ["v"],
+        "v1": "justify",
+        "v2": "justified",
+        "v3": "justified",
+        "v4": "justifying",
+        "v5": "justifies"
+    },
+    {
+        "base": "keep",
+        "classes": ["v"],
+        "v1": "keep",
+        "v2": "kept",
+        "v3": "kept",
+        "v4": "keeping",
+        "v5": "keeps"
+    },
+    {
+        "base": "kick",
+        "classes": ["v"],
+        "v1": "kick",
+        "v2": "kicked",
+        "v3": "kicked",
+        "v4": "kicking",
+        "v5": "kicks"
+    },
+    {
+        "base": "kill",
+        "classes": ["v"],
+        "v1": "kill",
+        "v2": "killed",
+        "v3": "killed",
+        "v4": "killing",
+        "v5": "kills"
+    },
+    {
+        "base": "kiss",
+        "classes": ["v"],
+        "v1": "kiss",
+        "v2": "kissed",
+        "v3": "kissed",
+        "v4": "kissing",
+        "v5": "kisses"
+    },
+    {
+        "base": "kneel",
+        "classes": ["v"],
+        "v1": "kneel",
+        "v2": "kneeled/knelt",
+        "v3": "kneeled/knelt",
+        "v4": "kneeling",
+        "v5": "kneels"
+    },
+    {
+        "base": "knit",
+        "classes": ["v"],
+        "v1": "knit",
+        "v2": "knitted",
+        "v3": "knitted",
+        "v4": "knitting",
+        "v5": "knits"
+    },
+    {
+        "base": "knock",
+        "classes": ["v"],
+        "v1": "knock",
+        "v2": "knocked",
+        "v3": "knocked",
+        "v4": "knocking",
+        "v5": "knocks"
+    },
+    {
+        "base": "knot",
+        "classes": ["v"],
+        "v1": "knot",
+        "v2": "knotted",
+        "v3": "knotted",
+        "v4": "knotting",
+        "v5": "knots"
+    },
+    {
+        "base": "label",
+        "classes": ["v"],
+        "v1": "label",
+        "v2": "labeled/labelled",
+        "v3": "labeled/labelled",
+        "v4": "labeling/labelling",
+        "v5": "labels/labels"
+    },
+    {
+        "base": "land",
+        "classes": ["v"],
+        "v1": "land",
+        "v2": "landed",
+        "v3": "landed",
+        "v4": "landing",
+        "v5": "lands"
+    },
+    {
+        "base": "last",
+        "classes": ["v"],
+        "v1": "last",
+        "v2": "lasted",
+        "v3": "lasted",
+        "v4": "lasting",
+        "v5": "lasts"
+    },
+    {
+        "base": "laugh",
+        "classes": ["v"],
+        "v1": "laugh",
+        "v2": "laughed",
+        "v3": "laughed",
+        "v4": "laughing",
+        "v5": "laughs"
+    },
+    {
+        "base": "launch",
+        "classes": ["v"],
+        "v1": "launch",
+        "v2": "launched",
+        "v3": "launched",
+        "v4": "launching",
+        "v5": "launches"
+    },
+    {
+        "base": "learn",
+        "classes": ["v"],
+        "v1": "learn",
+        "v2": "learned/learnt",
+        "v3": "learned/learnt",
+        "v4": "learning",
+        "v5": "learns"
+    },
+    {
+        "base": "level",
+        "classes": ["v"],
+        "v1": "level",
+        "v2": "leveled/levelled",
+        "v3": "leveled/levelled",
+        "v4": "leveling/levelling",
+        "v5": "levels/levels"
+    },
+    {
+        "base": "license",
+        "classes": ["v"],
+        "v1": "license",
+        "v2": "licensed/licenced",
+        "v3": "licensed/licenced",
+        "v4": "licensing/licencing",
+        "v5": "licenses/licences"
+    },
+    {
+        "base": "lick",
+        "classes": ["v"],
+        "v1": "lick",
+        "v2": "licked",
+        "v3": "licked",
+        "v4": "licking",
+        "v5": "licks"
+    },
+    {
+        "base": "lie",
+        "classes": ["v"],
+        "v1": "lie",
+        "v2": "lied",
+        "v3": "lied",
+        "v4": "lying",
+        "v5": "lies"
+    },
+    {
+        "base": "light",
+        "classes": ["v"],
+        "v1": "light",
+        "v2": "lighted/lit",
+        "v3": "lighted/lit",
+        "v4": "lighting",
+        "v5": "lights"
+    },
+    {
+        "base": "like",
+        "classes": ["v"],
+        "v1": "like",
+        "v2": "liked",
+        "v3": "liked",
+        "v4": "liking",
+        "v5": "likes"
+    },
+    {
+        "base": "list",
+        "classes": ["v"],
+        "v1": "list",
+        "v2": "listed",
+        "v3": "listed",
+        "v4": "listing",
+        "v5": "lists"
+    },
+    {
+        "base": "listen",
+        "classes": ["v"],
+        "v1": "listen",
+        "v2": "listened",
+        "v3": "listened",
+        "v4": "listening",
+        "v5": "listens"
+    },
+    {
+        "base": "live",
+        "classes": ["v"],
+        "v1": "live",
+        "v2": "lived",
+        "v3": "lived",
+        "v4": "living",
+        "v5": "lives"
+    },
+    {
+        "base": "load",
+        "classes": ["v"],
+        "v1": "load",
+        "v2": "loaded",
+        "v3": "loaded",
+        "v4": "loading",
+        "v5": "loads"
+    },
+    {
+        "base": "locate",
+        "classes": ["v"],
+        "v1": "locate",
+        "v2": "located",
+        "v3": "located",
+        "v4": "locating",
+        "v5": "locates"
+    },
+    {
+        "base": "lock",
+        "classes": ["v"],
+        "v1": "lock",
+        "v2": "locked",
+        "v3": "locked",
+        "v4": "locking",
+        "v5": "locks"
+    },
+    {
+        "base": "long",
+        "classes": ["v"],
+        "v1": "long",
+        "v2": "longed",
+        "v3": "longed",
+        "v4": "longing",
+        "v5": "longs"
+    },
+    {
+        "base": "look",
+        "classes": ["v"],
+        "v1": "look",
+        "v2": "looked",
+        "v3": "looked",
+        "v4": "looking",
+        "v5": "looks"
+    },
+    {
+        "base": "love",
+        "classes": ["v"],
+        "v1": "love",
+        "v2": "loved",
+        "v3": "loved",
+        "v4": "loving",
+        "v5": "loves"
+    },
+    {
+        "base": "maintain",
+        "classes": ["v"],
+        "v1": "maintain",
+        "v2": "maintained",
+        "v3": "maintained",
+        "v4": "maintaining",
+        "v5": "maintains"
+    },
+    {
+        "base": "manage",
+        "classes": ["v"],
+        "v1": "manage",
+        "v2": "managed",
+        "v3": "managed",
+        "v4": "managing",
+        "v5": "manages"
+    },
+    {
+        "base": "march",
+        "classes": ["v"],
+        "v1": "march",
+        "v2": "marched",
+        "v3": "marched",
+        "v4": "marching",
+        "v5": "marches"
+    },
+    {
+        "base": "mark",
+        "classes": ["v"],
+        "v1": "mark",
+        "v2": "marked",
+        "v3": "marked",
+        "v4": "marking",
+        "v5": "marks"
+    },
+    {
+        "base": "marry",
+        "classes": ["v"],
+        "v1": "marry",
+        "v2": "married",
+        "v3": "married",
+        "v4": "marrying",
+        "v5": "marries"
+    },
+    {
+        "base": "match",
+        "classes": ["v"],
+        "v1": "match",
+        "v2": "matched",
+        "v3": "matched",
+        "v4": "matching",
+        "v5": "matches"
+    },
+    {
+        "base": "mate",
+        "classes": ["v"],
+        "v1": "mate",
+        "v2": "mated",
+        "v3": "mated",
+        "v4": "mating",
+        "v5": "mates"
+    },
+    {
+        "base": "matter",
+        "classes": ["v"],
+        "v1": "matter",
+        "v2": "mattered",
+        "v3": "mattered",
+        "v4": "mattering",
+        "v5": "matters"
+    },
+    {
+        "base": "measure",
+        "classes": ["v"],
+        "v1": "measure",
+        "v2": "measured",
+        "v3": "measured",
+        "v4": "measuring",
+        "v5": "measures"
+    },
+    {
+        "base": "meddle",
+        "classes": ["v"],
+        "v1": "meddle",
+        "v2": "meddled",
+        "v3": "meddled",
+        "v4": "meddling",
+        "v5": "meddles"
+    },
+    {
+        "base": "melt",
+        "classes": ["v"],
+        "v1": "melt",
+        "v2": "melted",
+        "v3": "melted",
+        "v4": "melting",
+        "v5": "melts"
+    },
+    {
+        "base": "memorize",
+        "classes": ["v"],
+        "v1": "memorize",
+        "v2": "memorized",
+        "v3": "memorized",
+        "v4": "memorizing",
+        "v5": "memorizes"
+    },
+    {
+        "base": "mend",
+        "classes": ["v"],
+        "v1": "mend",
+        "v2": "mended",
+        "v3": "mended",
+        "v4": "mending",
+        "v5": "mends"
+    },
+    {
+        "base": "mention",
+        "classes": ["v"],
+        "v1": "mention",
+        "v2": "mentioned",
+        "v3": "mentioned",
+        "v4": "mentioning",
+        "v5": "mentions"
+    },
+    {
+        "base": "mess up",
+        "classes": ["v"],
+        "v1": "mess up",
+        "v2": "messed up",
+        "v3": "messed up",
+        "v4": "messing up",
+        "v5": "messes up"
+    },
+    {
+        "base": "milk",
+        "classes": ["v"],
+        "v1": "milk",
+        "v2": "milked",
+        "v3": "milked",
+        "v4": "milking",
+        "v5": "milks"
+    },
+    {
+        "base": "mine",
+        "classes": ["v"],
+        "v1": "mine",
+        "v2": "mined",
+        "v3": "mined",
+        "v4": "mining",
+        "v5": "mines"
+    },
+    {
+        "base": "miss",
+        "classes": ["v"],
+        "v1": "miss",
+        "v2": "missed",
+        "v3": "missed",
+        "v4": "missing",
+        "v5": "misses"
+    },
+    {
+        "base": "mix",
+        "classes": ["v"],
+        "v1": "mix",
+        "v2": "mixed",
+        "v3": "mixed",
+        "v4": "mixing",
+        "v5": "mixes"
+    },
+    {
+        "base": "moan",
+        "classes": ["v"],
+        "v1": "moan",
+        "v2": "moaned",
+        "v3": "moaned",
+        "v4": "moaning",
+        "v5": "moans"
+    },
+    {
+        "base": "mourn",
+        "classes": ["v"],
+        "v1": "mourn",
+        "v2": "mourned",
+        "v3": "mourned",
+        "v4": "mourning",
+        "v5": "mourns"
+    },
+    {
+        "base": "move",
+        "classes": ["v"],
+        "v1": "move",
+        "v2": "moved",
+        "v3": "moved",
+        "v4": "moving",
+        "v5": "moves"
+    },
+    {
+        "base": "multiply",
+        "classes": ["v"],
+        "v1": "multiply",
+        "v2": "multiplied",
+        "v3": "multiplied",
+        "v4": "multiplying",
+        "v5": "multiplies"
+    },
+    {
+        "base": "murder",
+        "classes": ["v"],
+        "v1": "murder",
+        "v2": "murdered",
+        "v3": "murdered",
+        "v4": "murdering",
+        "v5": "murders"
+    },
+    {
+        "base": "nail",
+        "classes": ["v"],
+        "v1": "nail",
+        "v2": "nailed",
+        "v3": "nailed",
+        "v4": "nailing",
+        "v5": "nails"
+    },
+    {
+        "base": "name",
+        "classes": ["v"],
+        "v1": "name",
+        "v2": "named",
+        "v3": "named",
+        "v4": "naming",
+        "v5": "names"
+    },
+    {
+        "base": "need",
+        "classes": ["v"],
+        "v1": "need",
+        "v2": "needed",
+        "v3": "needed",
+        "v4": "needing",
+        "v5": "needs"
+    },
+    {
+        "base": "nest",
+        "classes": ["v"],
+        "v1": "nest",
+        "v2": "nested",
+        "v3": "nested",
+        "v4": "nesting",
+        "v5": "nests"
+    },
+    {
+        "base": "nod",
+        "classes": ["v"],
+        "v1": "nod",
+        "v2": "nodded",
+        "v3": "nodded",
+        "v4": "nodding",
+        "v5": "nods"
+    },
+    {
+        "base": "note",
+        "classes": ["v"],
+        "v1": "note",
+        "v2": "noted",
+        "v3": "noted",
+        "v4": "noting",
+        "v5": "notes"
+    },
+    {
+        "base": "notice",
+        "classes": ["v"],
+        "v1": "notice",
+        "v2": "noticed",
+        "v3": "noticed",
+        "v4": "noticing",
+        "v5": "notices"
+    },
+    {
+        "base": "number",
+        "classes": ["v"],
+        "v1": "number",
+        "v2": "numbered",
+        "v3": "numbered",
+        "v4": "numbering",
+        "v5": "numbers"
+    },
+    {
+        "base": "obey",
+        "classes": ["v"],
+        "v1": "obey",
+        "v2": "obeyed",
+        "v3": "obeyed",
+        "v4": "obeying",
+        "v5": "obeys"
+    },
+    {
+        "base": "object",
+        "classes": ["v"],
+        "v1": "object",
+        "v2": "objected",
+        "v3": "objected",
+        "v4": "objecting",
+        "v5": "objects"
+    },
+    {
+        "base": "observe",
+        "classes": ["v"],
+        "v1": "observe",
+        "v2": "observed",
+        "v3": "observed",
+        "v4": "observing",
+        "v5": "observes"
+    },
+    {
+        "base": "obtain",
+        "classes": ["v"],
+        "v1": "obtain",
+        "v2": "obtained",
+        "v3": "obtained",
+        "v4": "obtaining",
+        "v5": "obtains"
+    },
+    {
+        "base": "occur",
+        "classes": ["v"],
+        "v1": "occur",
+        "v2": "occurred",
+        "v3": "occurred",
+        "v4": "occurring",
+        "v5": "occurs"
+    },
+    {
+        "base": "offend",
+        "classes": ["v"],
+        "v1": "offend",
+        "v2": "offended",
+        "v3": "offended",
+        "v4": "offending",
+        "v5": "offends"
+    },
+    {
+        "base": "offer",
+        "classes": ["v"],
+        "v1": "offer",
+        "v2": "offered",
+        "v3": "offered",
+        "v4": "offering",
+        "v5": "offers"
+    },
+    {
+        "base": "open",
+        "classes": ["v"],
+        "v1": "open",
+        "v2": "opened",
+        "v3": "opened",
+        "v4": "opening",
+        "v5": "opens"
+    },
+    {
+        "base": "order",
+        "classes": ["v"],
+        "v1": "order",
+        "v2": "ordered",
+        "v3": "ordered",
+        "v4": "ordering",
+        "v5": "orders"
+    },
+    {
+        "base": "overflow",
+        "classes": ["v"],
+        "v1": "overflow",
+        "v2": "overflowed",
+        "v3": "overflowed",
+        "v4": "overflowing",
+        "v5": "overflows"
+    },
+    {
+        "base": "owe",
+        "classes": ["v"],
+        "v1": "owe",
+        "v2": "owed",
+        "v3": "owed",
+        "v4": "owing",
+        "v5": "owes"
+    },
+    {
+        "base": "own",
+        "classes": ["v"],
+        "v1": "own",
+        "v2": "owned",
+        "v3": "owned",
+        "v4": "owning",
+        "v5": "owns"
+    },
+    {
+        "base": "pack",
+        "classes": ["v"],
+        "v1": "pack",
+        "v2": "packed",
+        "v3": "packed",
+        "v4": "packing",
+        "v5": "packs"
+    },
+    {
+        "base": "paddle",
+        "classes": ["v"],
+        "v1": "paddle",
+        "v2": "paddled",
+        "v3": "paddled",
+        "v4": "paddling",
+        "v5": "paddles"
+    },
+    {
+        "base": "paint",
+        "classes": ["v"],
+        "v1": "paint",
+        "v2": "painted",
+        "v3": "painted",
+        "v4": "painting",
+        "v5": "paints"
+    },
+    {
+        "base": "park",
+        "classes": ["v"],
+        "v1": "park",
+        "v2": "parked",
+        "v3": "parked",
+        "v4": "parking",
+        "v5": "parks"
+    },
+    {
+        "base": "part",
+        "classes": ["v"],
+        "v1": "part",
+        "v2": "parted",
+        "v3": "parted",
+        "v4": "parting",
+        "v5": "parts"
+    },
+    {
+        "base": "pass",
+        "classes": ["v"],
+        "v1": "pass",
+        "v2": "passed",
+        "v3": "passed",
+        "v4": "passing",
+        "v5": "passes"
+    },
+    {
+        "base": "paste",
+        "classes": ["v"],
+        "v1": "paste",
+        "v2": "pasted",
+        "v3": "pasted",
+        "v4": "pasting",
+        "v5": "pastes"
+    },
+    {
+        "base": "pat",
+        "classes": ["v"],
+        "v1": "pat",
+        "v2": "patted",
+        "v3": "patted",
+        "v4": "patting",
+        "v5": "pats"
+    },
+    {
+        "base": "pause",
+        "classes": ["v"],
+        "v1": "pause",
+        "v2": "paused",
+        "v3": "paused",
+        "v4": "pausing",
+        "v5": "pauses"
+    },
+    {
+        "base": "pedal",
+        "classes": ["v"],
+        "v1": "pedal",
+        "v2": "pedaled/pedalled",
+        "v3": "pedaled/pedalled",
+        "v4": "pedaling/pedalling",
+        "v5": "pedals/pedals"
+    },
+    {
+        "base": "peep",
+        "classes": ["v"],
+        "v1": "peep",
+        "v2": "peeped",
+        "v3": "peeped",
+        "v4": "peeping",
+        "v5": "peeps"
+    },
+    {
+        "base": "perform",
+        "classes": ["v"],
+        "v1": "perform",
+        "v2": "performed",
+        "v3": "performed",
+        "v4": "performing",
+        "v5": "performs"
+    },
+    {
+        "base": "permit",
+        "classes": ["v"],
+        "v1": "permit",
+        "v2": "permitted",
+        "v3": "permitted",
+        "v4": "permitting",
+        "v5": "permits"
+    },
+    {
+        "base": "phone",
+        "classes": ["v"],
+        "v1": "phone",
+        "v2": "phoned",
+        "v3": "phoned",
+        "v4": "phoning",
+        "v5": "phones"
+    },
+    {
+        "base": "pick",
+        "classes": ["v"],
+        "v1": "pick",
+        "v2": "picked",
+        "v3": "picked",
+        "v4": "picking",
+        "v5": "picks"
+    },
+    {
+        "base": "pinch",
+        "classes": ["v"],
+        "v1": "pinch",
+        "v2": "pinched",
+        "v3": "pinched",
+        "v4": "pinching",
+        "v5": "pinches"
+    },
+    {
+        "base": "pine",
+        "classes": ["v"],
+        "v1": "pine",
+        "v2": "pined",
+        "v3": "pined",
+        "v4": "pining",
+        "v5": "pines"
+    },
+    {
+        "base": "place",
+        "classes": ["v"],
+        "v1": "place",
+        "v2": "placed",
+        "v3": "placed",
+        "v4": "placing",
+        "v5": "places"
+    },
+    {
+        "base": "plan",
+        "classes": ["v"],
+        "v1": "plan",
+        "v2": "planned",
+        "v3": "planned",
+        "v4": "planning",
+        "v5": "plans"
+    },
+    {
+        "base": "plant",
+        "classes": ["v"],
+        "v1": "plant",
+        "v2": "planted",
+        "v3": "planted",
+        "v4": "planting",
+        "v5": "plants"
+    },
+    {
+        "base": "play",
+        "classes": ["v"],
+        "v1": "play",
+        "v2": "played",
+        "v3": "played",
+        "v4": "playing",
+        "v5": "plays"
+    },
+    {
+        "base": "please",
+        "classes": ["v"],
+        "v1": "please",
+        "v2": "pleased",
+        "v3": "pleased",
+        "v4": "pleasing",
+        "v5": "pleases"
+    },
+    {
+        "base": "plug",
+        "classes": ["v"],
+        "v1": "plug",
+        "v2": "plugged",
+        "v3": "plugged",
+        "v4": "plugging",
+        "v5": "plugs"
+    },
+    {
+        "base": "point",
+        "classes": ["v"],
+        "v1": "point",
+        "v2": "pointed",
+        "v3": "pointed",
+        "v4": "pointing",
+        "v5": "points"
+    },
+    {
+        "base": "poke",
+        "classes": ["v"],
+        "v1": "poke",
+        "v2": "poked",
+        "v3": "poked",
+        "v4": "poking",
+        "v5": "pokes"
+    },
+    {
+        "base": "polish",
+        "classes": ["v"],
+        "v1": "polish",
+        "v2": "polished",
+        "v3": "polished",
+        "v4": "polishing",
+        "v5": "polishes"
+    },
+    {
+        "base": "pop",
+        "classes": ["v"],
+        "v1": "pop",
+        "v2": "popped",
+        "v3": "popped",
+        "v4": "popping",
+        "v5": "pops"
+    },
+    {
+        "base": "possess",
+        "classes": ["v"],
+        "v1": "possess",
+        "v2": "possessed",
+        "v3": "possessed",
+        "v4": "possessing",
+        "v5": "possesses"
+    },
+    {
+        "base": "post",
+        "classes": ["v"],
+        "v1": "post",
+        "v2": "posted",
+        "v3": "posted",
+        "v4": "posting",
+        "v5": "posts"
+    },
+    {
+        "base": "pour",
+        "classes": ["v"],
+        "v1": "pour",
+        "v2": "poured",
+        "v3": "poured",
+        "v4": "pouring",
+        "v5": "pours"
+    },
+    {
+        "base": "practise",
+        "classes": ["v"],
+        "v1": "practise",
+        "v2": "practised",
+        "v3": "practised",
+        "v4": "practising",
+        "v5": "practises"
+    },
+    {
+        "base": "praise",
+        "classes": ["v"],
+        "v1": "praise",
+        "v2": "praised",
+        "v3": "praised",
+        "v4": "praising",
+        "v5": "praises"
+    },
+    {
+        "base": "pray",
+        "classes": ["v"],
+        "v1": "pray",
+        "v2": "prayed",
+        "v3": "prayed",
+        "v4": "praying",
+        "v5": "prays"
+    },
+    {
+        "base": "preach",
+        "classes": ["v"],
+        "v1": "preach",
+        "v2": "preached",
+        "v3": "preached",
+        "v4": "preaching",
+        "v5": "preaches"
+    },
+    {
+        "base": "precede",
+        "classes": ["v"],
+        "v1": "precede",
+        "v2": "preceded",
+        "v3": "preceded",
+        "v4": "preceding",
+        "v5": "precedes"
+    },
+    {
+        "base": "prefer",
+        "classes": ["v"],
+        "v1": "prefer",
+        "v2": "preferred",
+        "v3": "preferred",
+        "v4": "preferring",
+        "v5": "prefers"
+    },
+    {
+        "base": "prepare",
+        "classes": ["v"],
+        "v1": "prepare",
+        "v2": "prepared",
+        "v3": "prepared",
+        "v4": "preparing",
+        "v5": "prepares"
+    },
+    {
+        "base": "present",
+        "classes": ["v"],
+        "v1": "present",
+        "v2": "presented",
+        "v3": "presented",
+        "v4": "presenting",
+        "v5": "presents"
+    },
+    {
+        "base": "preserve",
+        "classes": ["v"],
+        "v1": "preserve",
+        "v2": "preserved",
+        "v3": "preserved",
+        "v4": "preserving",
+        "v5": "preserves"
+    },
+    {
+        "base": "press",
+        "classes": ["v"],
+        "v1": "press",
+        "v2": "pressed",
+        "v3": "pressed",
+        "v4": "pressing",
+        "v5": "presses"
+    },
+    {
+        "base": "pretend",
+        "classes": ["v"],
+        "v1": "pretend",
+        "v2": "pretended",
+        "v3": "pretended",
+        "v4": "pretending",
+        "v5": "pretends"
+    },
+    {
+        "base": "prevent",
+        "classes": ["v"],
+        "v1": "prevent",
+        "v2": "prevented",
+        "v3": "prevented",
+        "v4": "preventing",
+        "v5": "prevents"
+    },
+    {
+        "base": "prick",
+        "classes": ["v"],
+        "v1": "prick",
+        "v2": "pricked",
+        "v3": "pricked",
+        "v4": "pricking",
+        "v5": "pricks"
+    },
+    {
+        "base": "print",
+        "classes": ["v"],
+        "v1": "print",
+        "v2": "printed",
+        "v3": "printed",
+        "v4": "printing",
+        "v5": "prints"
+    },
+    {
+        "base": "produce",
+        "classes": ["v"],
+        "v1": "produce",
+        "v2": "produced",
+        "v3": "produced",
+        "v4": "producing",
+        "v5": "produces"
+    },
+    {
+        "base": "program",
+        "classes": ["v"],
+        "v1": "program",
+        "v2": "programmed",
+        "v3": "programmed",
+        "v4": "programming",
+        "v5": "programs"
+    },
+    {
+        "base": "promise",
+        "classes": ["v"],
+        "v1": "promise",
+        "v2": "promised",
+        "v3": "promised",
+        "v4": "promising",
+        "v5": "promises"
+    },
+    {
+        "base": "protect",
+        "classes": ["v"],
+        "v1": "protect",
+        "v2": "protected",
+        "v3": "protected",
+        "v4": "protecting",
+        "v5": "protects"
+    },
+    {
+        "base": "qualify",
+        "classes": ["v"],
+        "v1": "qualify",
+        "v2": "qualified",
+        "v3": "qualified",
+        "v4": "qualifying",
+        "v5": "qualifies"
+    },
+    {
+        "base": "question",
+        "classes": ["v"],
+        "v1": "question",
+        "v2": "questioned",
+        "v3": "questioned",
+        "v4": "questioning",
+        "v5": "questions"
+    },
+    {
+        "base": "quit",
+        "classes": ["v"],
+        "v1": "quit",
+        "v2": "quit/quitted",
+        "v3": "quit/quitted",
+        "v4": "quitting",
+        "v5": "quits/quits"
+    },
+    {
+        "base": "rain",
+        "classes": ["v"],
+        "v1": "rain",
+        "v2": "rained",
+        "v3": "rained",
+        "v4": "raining",
+        "v5": "rains"
+    },
+    {
+        "base": "raise",
+        "classes": ["v"],
+        "v1": "raise",
+        "v2": "raised",
+        "v3": "raised",
+        "v4": "raising",
+        "v5": "raises"
+    },
+    {
+        "base": "reach",
+        "classes": ["v"],
+        "v1": "reach",
+        "v2": "reached",
+        "v3": "reached",
+        "v4": "reaching",
+        "v5": "reaches"
+    },
+    {
+        "base": "realize",
+        "classes": ["v"],
+        "v1": "realize",
+        "v2": "realized",
+        "v3": "realized",
+        "v4": "realizing",
+        "v5": "realizes"
+    },
+    {
+        "base": "receive",
+        "classes": ["v"],
+        "v1": "receive",
+        "v2": "received",
+        "v3": "received",
+        "v4": "receiving",
+        "v5": "receives"
+    },
+    {
+        "base": "recognize",
+        "classes": ["v"],
+        "v1": "recognize",
+        "v2": "recognized",
+        "v3": "recognized",
+        "v4": "recognizing",
+        "v5": "recognizes"
+    },
+    {
+        "base": "recommend",
+        "classes": ["v"],
+        "v1": "recommend",
+        "v2": "recommended",
+        "v3": "recommended",
+        "v4": "recommending",
+        "v5": "recommends"
+    },
+    {
+        "base": "record",
+        "classes": ["v"],
+        "v1": "record",
+        "v2": "recorded",
+        "v3": "recorded",
+        "v4": "recording",
+        "v5": "records"
+    },
+    {
+        "base": "reduce",
+        "classes": ["v"],
+        "v1": "reduce",
+        "v2": "reduced",
+        "v3": "reduced",
+        "v4": "reducing",
+        "v5": "reduces"
+    },
+    {
+        "base": "reflect",
+        "classes": ["v"],
+        "v1": "reflect",
+        "v2": "reflected",
+        "v3": "reflected",
+        "v4": "reflecting",
+        "v5": "reflects"
+    },
+    {
+        "base": "refuse",
+        "classes": ["v"],
+        "v1": "refuse",
+        "v2": "refused",
+        "v3": "refused",
+        "v4": "refusing",
+        "v5": "refuses"
+    },
+    {
+        "base": "regard",
+        "classes": ["v"],
+        "v1": "regard",
+        "v2": "regarded",
+        "v3": "regarded",
+        "v4": "regarding",
+        "v5": "regards"
+    },
+    {
+        "base": "relate",
+        "classes": ["v"],
+        "v1": "relate",
+        "v2": "related",
+        "v3": "related",
+        "v4": "relating",
+        "v5": "relates"
+    },
+    {
+        "base": "relax",
+        "classes": ["v"],
+        "v1": "relax",
+        "v2": "relaxed",
+        "v3": "relaxed",
+        "v4": "relaxing",
+        "v5": "relaxes"
+    },
+    {
+        "base": "rely",
+        "classes": ["v"],
+        "v1": "rely",
+        "v2": "relied",
+        "v3": "relied",
+        "v4": "relying",
+        "v5": "relies"
+    },
+    {
+        "base": "remain",
+        "classes": ["v"],
+        "v1": "remain",
+        "v2": "remained",
+        "v3": "remained",
+        "v4": "remaining",
+        "v5": "remains"
+    },
+    {
+        "base": "remember",
+        "classes": ["v"],
+        "v1": "remember",
+        "v2": "remembered",
+        "v3": "remembered",
+        "v4": "remembering",
+        "v5": "remembers"
+    },
+    {
+        "base": "remind",
+        "classes": ["v"],
+        "v1": "remind",
+        "v2": "reminded",
+        "v3": "reminded",
+        "v4": "reminding",
+        "v5": "reminds"
+    },
+    {
+        "base": "remove",
+        "classes": ["v"],
+        "v1": "remove",
+        "v2": "removed",
+        "v3": "removed",
+        "v4": "removing",
+        "v5": "removes"
+    },
+    {
+        "base": "repair",
+        "classes": ["v"],
+        "v1": "repair",
+        "v2": "repaired",
+        "v3": "repaired",
+        "v4": "repairing",
+        "v5": "repairs"
+    },
+    {
+        "base": "repeat",
+        "classes": ["v"],
+        "v1": "repeat",
+        "v2": "repeated",
+        "v3": "repeated",
+        "v4": "repeating",
+        "v5": "repeats"
+    },
+    {
+        "base": "replace",
+        "classes": ["v"],
+        "v1": "replace",
+        "v2": "replaced",
+        "v3": "replaced",
+        "v4": "replacing",
+        "v5": "replaces"
+    },
+    {
+        "base": "reply",
+        "classes": ["v"],
+        "v1": "reply",
+        "v2": "replied",
+        "v3": "replied",
+        "v4": "replying",
+        "v5": "replies"
+    },
+    {
+        "base": "report",
+        "classes": ["v"],
+        "v1": "report",
+        "v2": "reported",
+        "v3": "reported",
+        "v4": "reporting",
+        "v5": "reports"
+    },
+    {
+        "base": "represent",
+        "classes": ["v"],
+        "v1": "represent",
+        "v2": "represented",
+        "v3": "represented",
+        "v4": "representing",
+        "v5": "represents"
+    },
+    {
+        "base": "request",
+        "classes": ["v"],
+        "v1": "request",
+        "v2": "requested",
+        "v3": "requested",
+        "v4": "requesting",
+        "v5": "requests"
+    },
+    {
+        "base": "rescue",
+        "classes": ["v"],
+        "v1": "rescue",
+        "v2": "rescued",
+        "v3": "rescued",
+        "v4": "rescuing",
+        "v5": "rescues"
+    },
+    {
+        "base": "research",
+        "classes": ["v"],
+        "v1": "research",
+        "v2": "researched",
+        "v3": "researched",
+        "v4": "researching",
+        "v5": "researches"
+    },
+    {
+        "base": "reserve",
+        "classes": ["v"],
+        "v1": "reserve",
+        "v2": "reserved",
+        "v3": "reserved",
+        "v4": "reserving",
+        "v5": "reserves"
+    },
+    {
+        "base": "reside",
+        "classes": ["v"],
+        "v1": "reside",
+        "v2": "resided",
+        "v3": "resided",
+        "v4": "residing",
+        "v5": "resides"
+    },
+    {
+        "base": "resolve",
+        "classes": ["v"],
+        "v1": "resolve",
+        "v2": "resolved",
+        "v3": "resolved",
+        "v4": "resolving",
+        "v5": "resolves"
+    },
+    {
+        "base": "respond",
+        "classes": ["v"],
+        "v1": "respond",
+        "v2": "responded",
+        "v3": "responded",
+        "v4": "responding",
+        "v5": "responds"
+    },
+    {
+        "base": "restore",
+        "classes": ["v"],
+        "v1": "restore",
+        "v2": "restored",
+        "v3": "restored",
+        "v4": "restoring",
+        "v5": "restores"
+    },
+    {
+        "base": "retire",
+        "classes": ["v"],
+        "v1": "retire",
+        "v2": "retired",
+        "v3": "retired",
+        "v4": "retiring",
+        "v5": "retires"
+    },
+    {
+        "base": "return",
+        "classes": ["v"],
+        "v1": "return",
+        "v2": "returned",
+        "v3": "returned",
+        "v4": "returning",
+        "v5": "returns"
+    },
+    {
+        "base": "reveal",
+        "classes": ["v"],
+        "v1": "reveal",
+        "v2": "revealed",
+        "v3": "revealed",
+        "v4": "revealing",
+        "v5": "reveals"
+    },
+    {
+        "base": "reward",
+        "classes": ["v"],
+        "v1": "reward",
+        "v2": "rewarded",
+        "v3": "rewarded",
+        "v4": "rewarding",
+        "v5": "rewards"
+    },
+    {
+        "base": "ride",
+        "classes": ["v"],
+        "v1": "ride",
+        "v2": "rode",
+        "v3": "ridden",
+        "v4": "riding",
+        "v5": "rides"
+    },
+    {
+        "base": "ring",
+        "classes": ["v"],
+        "v1": "ring",
+        "v2": "rang",
+        "v3": "rung",
+        "v4": "ringing",
+        "v5": "rings"
+    },
+    {
+        "base": "rise",
+        "classes": ["v"],
+        "v1": "rise",
+        "v2": "rose",
+        "v3": "risen",
+        "v4": "rising",
+        "v5": "rises"
+    },
+    {
+        "base": "risk",
+        "classes": ["v"],
+        "v1": "risk",
+        "v2": "risked",
+        "v3": "risked",
+        "v4": "risking",
+        "v5": "risks"
+    },
+    {
+        "base": "roar",
+        "classes": ["v"],
+        "v1": "roar",
+        "v2": "roared",
+        "v3": "roared",
+        "v4": "roaring",
+        "v5": "roars"
+    },
+    {
+        "base": "rob",
+        "classes": ["v"],
+        "v1": "rob",
+        "v2": "robbed",
+        "v3": "robbed",
+        "v4": "robbing",
+        "v5": "robs"
+    },
+    {
+        "base": "roll",
+        "classes": ["v"],
+        "v1": "roll",
+        "v2": "rolled",
+        "v3": "rolled",
+        "v4": "rolling",
+        "v5": "rolls"
+    },
+    {
+        "base": "rotate",
+        "classes": ["v"],
+        "v1": "rotate",
+        "v2": "rotated",
+        "v3": "rotated",
+        "v4": "rotating",
+        "v5": "rotates"
+    },
+    {
+        "base": "rub",
+        "classes": ["v"],
+        "v1": "rub",
+        "v2": "rubbed",
+        "v3": "rubbed",
+        "v4": "rubbing",
+        "v5": "rubs"
+    },
+    {
+        "base": "ruin",
+        "classes": ["v"],
+        "v1": "ruin",
+        "v2": "ruined",
+        "v3": "ruined",
+        "v4": "ruining",
+        "v5": "ruins"
+    },
+    {
+        "base": "rule",
+        "classes": ["v"],
+        "v1": "rule",
+        "v2": "ruled",
+        "v3": "ruled",
+        "v4": "ruling",
+        "v5": "rules"
+    },
+    {
+        "base": "run",
+        "classes": ["v"],
+        "v1": "run",
+        "v2": "ran",
+        "v3": "run",
+        "v4": "running",
+        "v5": "runs"
+    },
+    {
+        "base": "rush",
+        "classes": ["v"],
+        "v1": "rush",
+        "v2": "rushed",
+        "v3": "rushed",
+        "v4": "rushing",
+        "v5": "rushes"
+    },
+    {
+        "base": "satisfy",
+        "classes": ["v"],
+        "v1": "satisfy",
+        "v2": "satisfied",
+        "v3": "satisfied",
+        "v4": "satisfying",
+        "v5": "satisfies"
+    },
+    {
+        "base": "save",
+        "classes": ["v"],
+        "v1": "save",
+        "v2": "saved",
+        "v3": "saved",
+        "v4": "saving",
+        "v5": "saves"
+    },
+    {
+        "base": "saw",
+        "classes": ["v"],
+        "v1": "saw",
+        "v2": "sawed",
+        "v3": "sawn/sawed",
+        "v4": "sawing",
+        "v5": "saws"
+    },
+    {
+        "base": "say",
+        "classes": ["v"],
+        "v1": "say",
+        "v2": "said",
+        "v3": "said",
+        "v4": "saying",
+        "v5": "says"
+    },
+    {
+        "base": "scare",
+        "classes": ["v"],
+        "v1": "scare",
+        "v2": "scared",
+        "v3": "scared",
+        "v4": "scaring",
+        "v5": "scares"
+    },
+    {
+        "base": "scatter",
+        "classes": ["v"],
+        "v1": "scatter",
+        "v2": "scattered",
+        "v3": "scattered",
+        "v4": "scattering",
+        "v5": "scatters"
+    },
+    {
+        "base": "scold",
+        "classes": ["v"],
+        "v1": "scold",
+        "v2": "scolded",
+        "v3": "scolded",
+        "v4": "scolding",
+        "v5": "scolds"
+    },
+    {
+        "base": "scream",
+        "classes": ["v"],
+        "v1": "scream",
+        "v2": "screamed",
+        "v3": "screamed",
+        "v4": "screaming",
+        "v5": "screams"
+    },
+    {
+        "base": "search",
+        "classes": ["v"],
+        "v1": "search",
+        "v2": "searched",
+        "v3": "searched",
+        "v4": "searching",
+        "v5": "searches"
+    },
+    {
+        "base": "see",
+        "classes": ["v"],
+        "v1": "see",
+        "v2": "saw",
+        "v3": "seen",
+        "v4": "seeing",
+        "v5": "sees"
+    },
+    {
+        "base": "seek",
+        "classes": ["v"],
+        "v1": "seek",
+        "v2": "sought",
+        "v3": "sought",
+        "v4": "seeking",
+        "v5": "seeks"
+    },
+    {
+        "base": "select",
+        "classes": ["v"],
+        "v1": "select",
+        "v2": "selected",
+        "v3": "selected",
+        "v4": "selecting",
+        "v5": "selects"
+    },
+    {
+        "base": "sell",
+        "classes": ["v"],
+        "v1": "sell",
+        "v2": "sold",
+        "v3": "sold",
+        "v4": "selling",
+        "v5": "sells"
+    },
+    {
+        "base": "send",
+        "classes": ["v"],
+        "v1": "send",
+        "v2": "sent",
+        "v3": "sent",
+        "v4": "sending",
+        "v5": "sends"
+    },
+    {
+        "base": "separate",
+        "classes": ["v"],
+        "v1": "separate",
+        "v2": "separated",
+        "v3": "separated",
+        "v4": "separating",
+        "v5": "separates"
+    },
+    {
+        "base": "serve",
+        "classes": ["v"],
+        "v1": "serve",
+        "v2": "served",
+        "v3": "served",
+        "v4": "serving",
+        "v5": "serves"
+    },
+    {
+        "base": "set",
+        "classes": ["v"],
+        "v1": "set",
+        "v2": "set",
+        "v3": "set",
+        "v4": "setting",
+        "v5": "sets"
+    },
+    {
+        "base": "settle",
+        "classes": ["v"],
+        "v1": "settle",
+        "v2": "settled",
+        "v3": "settled",
+        "v4": "settling",
+        "v5": "settles"
+    },
+    {
+        "base": "sew",
+        "classes": ["v"],
+        "v1": "sew",
+        "v2": "sewed",
+        "v3": "sewn/sewed",
+        "v4": "sewing",
+        "v5": "sews"
+    },
+    {
+        "base": "shake",
+        "classes": ["v"],
+        "v1": "shake",
+        "v2": "shook",
+        "v3": "shaken",
+        "v4": "shaking",
+        "v5": "shakes"
+    },
+    {
+        "base": "shape",
+        "classes": ["v"],
+        "v1": "shape",
+        "v2": "shaped",
+        "v3": "shaped",
+        "v4": "shaping",
+        "v5": "shapes"
+    },
+    {
+        "base": "share",
+        "classes": ["v"],
+        "v1": "share",
+        "v2": "shared",
+        "v3": "shared",
+        "v4": "sharing",
+        "v5": "shares"
+    },
+    {
+        "base": "shave",
+        "classes": ["v"],
+        "v1": "shave",
+        "v2": "shaved",
+        "v3": "shaved",
+        "v4": "shaving",
+        "v5": "shaves"
+    },
+    {
+        "base": "sheathe",
+        "classes": ["v"],
+        "v1": "sheathe",
+        "v2": "sheathed",
+        "v3": "sheathed",
+        "v4": "sheathing",
+        "v5": "sheathes"
+    },
+    {
+        "base": "shelter",
+        "classes": ["v"],
+        "v1": "shelter",
+        "v2": "sheltered",
+        "v3": "sheltered",
+        "v4": "sheltering",
+        "v5": "shelters"
+    },
+    {
+        "base": "shine",
+        "classes": ["v"],
+        "v1": "shine",
+        "v2": "shined",
+        "v3": "shined/shone",
+        "v4": "shining",
+        "v5": "shines"
+    },
+    {
+        "base": "ship",
+        "classes": ["v"],
+        "v1": "ship",
+        "v2": "shipped",
+        "v3": "shipped",
+        "v4": "shipping",
+        "v5": "ships"
+    },
+    {
+        "base": "shock",
+        "classes": ["v"],
+        "v1": "shock",
+        "v2": "shocked",
+        "v3": "shocked",
+        "v4": "shocking",
+        "v5": "shocks"
+    },
+    {
+        "base": "shoot",
+        "classes": ["v"],
+        "v1": "shoot",
+        "v2": "shot",
+        "v3": "shot",
+        "v4": "shooting",
+        "v5": "shoots"
+    },
+    {
+        "base": "shout",
+        "classes": ["v"],
+        "v1": "shout",
+        "v2": "shouted",
+        "v3": "shouted",
+        "v4": "shouting",
+        "v5": "shouts"
+    },
+    {
+        "base": "show",
+        "classes": ["v"],
+        "v1": "show",
+        "v2": "showed",
+        "v3": "shown",
+        "v4": "showing",
+        "v5": "shows"
+    },
+    {
+        "base": "shrink",
+        "classes": ["v"],
+        "v1": "shrink",
+        "v2": "shrank",
+        "v3": "shrunk",
+        "v4": "shrinking",
+        "v5": "shrinks"
+    },
+    {
+        "base": "shut",
+        "classes": ["v"],
+        "v1": "shut",
+        "v2": "shut",
+        "v3": "shut",
+        "v4": "shutting",
+        "v5": "shuts"
+    },
+    {
+        "base": "sigh",
+        "classes": ["v"],
+        "v1": "sigh",
+        "v2": "sighed",
+        "v3": "sighed",
+        "v4": "sighing",
+        "v5": "sighs"
+    },
+    {
+        "base": "sign",
+        "classes": ["v"],
+        "v1": "sign",
+        "v2": "signed",
+        "v3": "signed",
+        "v4": "signing",
+        "v5": "signs"
+    },
+    {
+        "base": "signal",
+        "classes": ["v"],
+        "v1": "signal",
+        "v2": "signaled/signalled",
+        "v3": "signaled/signalled",
+        "v4": "signaling/signalling",
+        "v5": "signals/signals"
+    },
+    {
+        "base": "simplify",
+        "classes": ["v"],
+        "v1": "simplify",
+        "v2": "simplified",
+        "v3": "simplified",
+        "v4": "simplifying",
+        "v5": "simplifies"
+    },
+    {
+        "base": "sing",
+        "classes": ["v"],
+        "v1": "sing",
+        "v2": "sang",
+        "v3": "sung",
+        "v4": "singing",
+        "v5": "sings"
+    },
+    {
+        "base": "sink",
+        "classes": ["v"],
+        "v1": "sink",
+        "v2": "sank",
+        "v3": "sunk",
+        "v4": "sinking",
+        "v5": "sinks"
+    },
+    {
+        "base": "sit",
+        "classes": ["v"],
+        "v1": "sit",
+        "v2": "sat",
+        "v3": "sat",
+        "v4": "sitting",
+        "v5": "sits"
+    },
+    {
+        "base": "sketch",
+        "classes": ["v"],
+        "v1": "sketch",
+        "v2": "sketched",
+        "v3": "sketched",
+        "v4": "sketching",
+        "v5": "sketches"
+    },
+    {
+        "base": "ski",
+        "classes": ["v"],
+        "v1": "ski",
+        "v2": "skied",
+        "v3": "skied",
+        "v4": "skiing",
+        "v5": "skis"
+    },
+    {
+        "base": "skip",
+        "classes": ["v"],
+        "v1": "skip",
+        "v2": "skipped",
+        "v3": "skipped",
+        "v4": "skipping",
+        "v5": "skips"
+    },
+    {
+        "base": "slap",
+        "classes": ["v"],
+        "v1": "slap",
+        "v2": "slapped",
+        "v3": "slapped",
+        "v4": "slapping",
+        "v5": "slaps"
+    },
+    {
+        "base": "sleep",
+        "classes": ["v"],
+        "v1": "sleep",
+        "v2": "slept",
+        "v3": "slept",
+        "v4": "sleeping",
+        "v5": "sleeps"
+    },
+    {
+        "base": "slice",
+        "classes": ["v"],
+        "v1": "slice",
+        "v2": "sliced",
+        "v3": "sliced",
+        "v4": "slicing",
+        "v5": "slices"
+    },
+    {
+        "base": "slide",
+        "classes": ["v"],
+        "v1": "slide",
+        "v2": "slid",
+        "v3": "slid",
+        "v4": "sliding",
+        "v5": "slides"
+    },
+    {
+        "base": "slip",
+        "classes": ["v"],
+        "v1": "slip",
+        "v2": "slipped",
+        "v3": "slipped",
+        "v4": "slipping",
+        "v5": "slips"
+    },
+    {
+        "base": "smile",
+        "classes": ["v"],
+        "v1": "smile",
+        "v2": "smiled",
+        "v3": "smiled",
+        "v4": "smiling",
+        "v5": "smiles"
+    },
+    {
+        "base": "smoke",
+        "classes": ["v"],
+        "v1": "smoke",
+        "v2": "smoked",
+        "v3": "smoked",
+        "v4": "smoking",
+        "v5": "smokes"
+    },
+    {
+        "base": "snap",
+        "classes": ["v"],
+        "v1": "snap",
+        "v2": "snapped",
+        "v3": "snapped",
+        "v4": "snapping",
+        "v5": "snaps"
+    },
+    {
+        "base": "sniff",
+        "classes": ["v"],
+        "v1": "sniff",
+        "v2": "sniffed",
+        "v3": "sniffed",
+        "v4": "sniffing",
+        "v5": "sniffs"
+    },
+    {
+        "base": "snore",
+        "classes": ["v"],
+        "v1": "snore",
+        "v2": "snored",
+        "v3": "snored",
+        "v4": "snoring",
+        "v5": "snores"
+    },
+    {
+        "base": "snow",
+        "classes": ["v"],
+        "v1": "snow",
+        "v2": "snowed",
+        "v3": "snowed",
+        "v4": "snowing",
+        "v5": "snows"
+    },
+    {
+        "base": "soak",
+        "classes": ["v"],
+        "v1": "soak",
+        "v2": "soaked",
+        "v3": "soaked",
+        "v4": "soaking",
+        "v5": "soaks"
+    },
+    {
+        "base": "solve",
+        "classes": ["v"],
+        "v1": "solve",
+        "v2": "solved",
+        "v3": "solved",
+        "v4": "solving",
+        "v5": "solves"
+    },
+    {
+        "base": "soothe",
+        "classes": ["v"],
+        "v1": "soothe",
+        "v2": "soothed",
+        "v3": "soothed",
+        "v4": "soothing",
+        "v5": "soothes"
+    },
+    {
+        "base": "sort",
+        "classes": ["v"],
+        "v1": "sort",
+        "v2": "sorted",
+        "v3": "sorted",
+        "v4": "sorting",
+        "v5": "sorts"
+    },
+    {
+        "base": "sound",
+        "classes": ["v"],
+        "v1": "sound",
+        "v2": "sounded",
+        "v3": "sounded",
+        "v4": "sounding",
+        "v5": "sounds"
+    },
+    {
+        "base": "sow",
+        "classes": ["v"],
+        "v1": "sow",
+        "v2": "sowed",
+        "v3": "sown/sowed",
+        "v4": "sowing",
+        "v5": "sows"
+    },
+    {
+        "base": "spare",
+        "classes": ["v"],
+        "v1": "spare",
+        "v2": "spared",
+        "v3": "spared",
+        "v4": "sparing",
+        "v5": "spares"
+    },
+    {
+        "base": "spark",
+        "classes": ["v"],
+        "v1": "spark",
+        "v2": "sparked",
+        "v3": "sparked",
+        "v4": "sparking",
+        "v5": "sparks"
+    },
+    {
+        "base": "speak",
+        "classes": ["v"],
+        "v1": "speak",
+        "v2": "spoke",
+        "v3": "spoken",
+        "v4": "speaking",
+        "v5": "speaks"
+    },
+    {
+        "base": "spell",
+        "classes": ["v"],
+        "v1": "spell",
+        "v2": "spelled/spelt",
+        "v3": "spelled/spelt",
+        "v4": "spelling",
+        "v5": "spells"
+    },
+    {
+        "base": "spend",
+        "classes": ["v"],
+        "v1": "spend",
+        "v2": "spent",
+        "v3": "spent",
+        "v4": "spending",
+        "v5": "spends"
+    },
+    {
+        "base": "spill",
+        "classes": ["v"],
+        "v1": "spill",
+        "v2": "spilled/spilt",
+        "v3": "spilled/spilt",
+        "v4": "spilling",
+        "v5": "spills"
+    },
+    {
+        "base": "spin",
+        "classes": ["v"],
+        "v1": "spin",
+        "v2": "spun",
+        "v3": "spun",
+        "v4": "spinning",
+        "v5": "spins"
+    },
+    {
+        "base": "spit",
+        "classes": ["v"],
+        "v1": "spit",
+        "v2": "spat",
+        "v3": "spat",
+        "v4": "spitting",
+        "v5": "spits"
+    },
+    {
+        "base": "talk",
+        "classes": ["v"],
+        "v1": "talk",
+        "v2": "talked",
+        "v3": "talked",
+        "v4": "talking",
+        "v5": "talks"
+    },
+    {
+        "base": "tame",
+        "classes": ["v"],
+        "v1": "tame",
+        "v2": "tamed",
+        "v3": "tamed",
+        "v4": "taming",
+        "v5": "tames"
+    },
+    {
+        "base": "tap",
+        "classes": ["v"],
+        "v1": "tap",
+        "v2": "tapped",
+        "v3": "tapped",
+        "v4": "tapping",
+        "v5": "taps"
+    },
+    {
+        "base": "target",
+        "classes": ["v"],
+        "v1": "target",
+        "v2": "targeted",
+        "v3": "targeted",
+        "v4": "targeting",
+        "v5": "targets"
+    },
+    {
+        "base": "taste",
+        "classes": ["v"],
+        "v1": "taste",
+        "v2": "tasted",
+        "v3": "tasted",
+        "v4": "tasting",
+        "v5": "tastes"
+    },
+    {
+        "base": "tease",
+        "classes": ["v"],
+        "v1": "tease",
+        "v2": "teased",
+        "v3": "teased",
+        "v4": "teasing",
+        "v5": "teases"
+    },
+    {
+        "base": "tell",
+        "classes": ["v"],
+        "v1": "tell",
+        "v2": "told",
+        "v3": "told",
+        "v4": "telling",
+        "v5": "tells"
+    },
+    {
+        "base": "tempt",
+        "classes": ["v"],
+        "v1": "tempt",
+        "v2": "tempted",
+        "v3": "tempted",
+        "v4": "tempting",
+        "v5": "tempts"
+    },
+    {
+        "base": "terrify",
+        "classes": ["v"],
+        "v1": "terrify",
+        "v2": "terrified",
+        "v3": "terrified",
+        "v4": "terrifying",
+        "v5": "terrifies"
+    },
+    {
+        "base": "thank",
+        "classes": ["v"],
+        "v1": "thank",
+        "v2": "thanked",
+        "v3": "thanked",
+        "v4": "thanking",
+        "v5": "thanks"
+    },
+    {
+        "base": "thaw",
+        "classes": ["v"],
+        "v1": "thaw",
+        "v2": "thawed",
+        "v3": "thawed",
+        "v4": "thawing",
+        "v5": "thaws"
+    },
+    {
+        "base": "tick",
+        "classes": ["v"],
+        "v1": "tick",
+        "v2": "ticked",
+        "v3": "ticked",
+        "v4": "ticking",
+        "v5": "ticks"
+    },
+    {
+        "base": "tickle",
+        "classes": ["v"],
+        "v1": "tickle",
+        "v2": "tickled",
+        "v3": "tickled",
+        "v4": "tickling",
+        "v5": "tickles"
+    },
+    {
+        "base": "tie",
+        "classes": ["v"],
+        "v1": "tie",
+        "v2": "tied",
+        "v3": "tied",
+        "v4": "tying",
+        "v5": "ties"
+    },
+    {
+        "base": "time",
+        "classes": ["v"],
+        "v1": "time",
+        "v2": "timed",
+        "v3": "timed",
+        "v4": "timing",
+        "v5": "times"
+    },
+    {
+        "base": "tip",
+        "classes": ["v"],
+        "v1": "tip",
+        "v2": "tipped",
+        "v3": "tipped",
+        "v4": "tipping",
+        "v5": "tips"
+    },
+    {
+        "base": "tire",
+        "classes": ["v"],
+        "v1": "tire",
+        "v2": "tired",
+        "v3": "tired",
+        "v4": "tiring",
+        "v5": "tires"
+    },
+    {
+        "base": "touch",
+        "classes": ["v"],
+        "v1": "touch",
+        "v2": "touched",
+        "v3": "touched",
+        "v4": "touching",
+        "v5": "touches"
+    },
+    {
+        "base": "tour",
+        "classes": ["v"],
+        "v1": "tour",
+        "v2": "toured",
+        "v3": "toured",
+        "v4": "touring",
+        "v5": "tours"
+    },
+    {
+        "base": "tow",
+        "classes": ["v"],
+        "v1": "tow",
+        "v2": "towed",
+        "v3": "towed",
+        "v4": "towing",
+        "v5": "tows"
+    },
+    {
+        "base": "trace",
+        "classes": ["v"],
+        "v1": "trace",
+        "v2": "traced",
+        "v3": "traced",
+        "v4": "tracing",
+        "v5": "traces"
+    },
+    {
+        "base": "track",
+        "classes": ["v"],
+        "v1": "track",
+        "v2": "tracked",
+        "v3": "tracked",
+        "v4": "tracking",
+        "v5": "tracks"
+    },
+    {
+        "base": "trade",
+        "classes": ["v"],
+        "v1": "trade",
+        "v2": "traded",
+        "v3": "traded",
+        "v4": "trading",
+        "v5": "trades"
+    },
+    {
+        "base": "train",
+        "classes": ["v"],
+        "v1": "train",
+        "v2": "trained",
+        "v3": "trained",
+        "v4": "training",
+        "v5": "trains"
+    },
+    {
+        "base": "transport",
+        "classes": ["v"],
+        "v1": "transport",
+        "v2": "transported",
+        "v3": "transported",
+        "v4": "transporting",
+        "v5": "transports"
+    },
+    {
+        "base": "trap",
+        "classes": ["v"],
+        "v1": "trap",
+        "v2": "trapped",
+        "v3": "trapped",
+        "v4": "trapping",
+        "v5": "traps"
+    },
+    {
+        "base": "travel",
+        "classes": ["v"],
+        "v1": "travel",
+        "v2": "traveled/travelled",
+        "v3": "traveled/travelled",
+        "v4": "traveling/travelling",
+        "v5": "travels/travels"
+    },
+    {
+        "base": "treat",
+        "classes": ["v"],
+        "v1": "treat",
+        "v2": "treated",
+        "v3": "treated",
+        "v4": "treating",
+        "v5": "treats"
+    },
+    {
+        "base": "tremble",
+        "classes": ["v"],
+        "v1": "tremble",
+        "v2": "trembled",
+        "v3": "trembled",
+        "v4": "trembling",
+        "v5": "trembles"
+    },
+    {
+        "base": "trick",
+        "classes": ["v"],
+        "v1": "trick",
+        "v2": "tricked",
+        "v3": "tricked",
+        "v4": "tricking",
+        "v5": "tricks"
+    },
+    {
+        "base": "trip",
+        "classes": ["v"],
+        "v1": "trip",
+        "v2": "tripped",
+        "v3": "tripped",
+        "v4": "tripping",
+        "v5": "trips"
+    },
+    {
+        "base": "trot",
+        "classes": ["v"],
+        "v1": "trot",
+        "v2": "trotted",
+        "v3": "trotted",
+        "v4": "trotting",
+        "v5": "trots"
+    },
+    {
+        "base": "trouble",
+        "classes": ["v"],
+        "v1": "trouble",
+        "v2": "troubled",
+        "v3": "troubled",
+        "v4": "troubling",
+        "v5": "troubles"
+    },
+    {
+        "base": "trust",
+        "classes": ["v"],
+        "v1": "trust",
+        "v2": "trusted",
+        "v3": "trusted",
+        "v4": "trusting",
+        "v5": "trusts"
+    },
+    {
+        "base": "try",
+        "classes": ["v"],
+        "v1": "try",
+        "v2": "tried",
+        "v3": "tried",
+        "v4": "trying",
+        "v5": "tries"
+    },
+    {
+        "base": "tug",
+        "classes": ["v"],
+        "v1": "tug",
+        "v2": "tugged",
+        "v3": "tugged",
+        "v4": "tugging",
+        "v5": "tugs"
+    },
+    {
+        "base": "tumble",
+        "classes": ["v"],
+        "v1": "tumble",
+        "v2": "tumbled",
+        "v3": "tumbled",
+        "v4": "tumbling",
+        "v5": "tumbles"
+    },
+    {
+        "base": "turn",
+        "classes": ["v"],
+        "v1": "turn",
+        "v2": "turned",
+        "v3": "turned",
+        "v4": "turning",
+        "v5": "turns"
+    },
+    {
+        "base": "twist",
+        "classes": ["v"],
+        "v1": "twist",
+        "v2": "twisted",
+        "v3": "twisted",
+        "v4": "twisting",
+        "v5": "twists"
+    },
+    {
+        "base": "type",
+        "classes": ["v"],
+        "v1": "type",
+        "v2": "typed",
+        "v3": "typed",
+        "v4": "typing",
+        "v5": "types"
+    },
+    {
+        "base": "uncover",
+        "classes": ["v"],
+        "v1": "uncover",
+        "v2": "uncovered",
+        "v3": "uncovered",
+        "v4": "uncovering",
+        "v5": "uncovers"
+    },
+    {
+        "base": "undress",
+        "classes": ["v"],
+        "v1": "undress",
+        "v2": "undressed",
+        "v3": "undressed",
+        "v4": "undressing",
+        "v5": "undresses"
+    },
+    {
+        "base": "unfasten",
+        "classes": ["v"],
+        "v1": "unfasten",
+        "v2": "unfastened",
+        "v3": "unfastened",
+        "v4": "unfastening",
+        "v5": "unfastens"
+    },
+    {
+        "base": "unite",
+        "classes": ["v"],
+        "v1": "unite",
+        "v2": "united",
+        "v3": "united",
+        "v4": "uniting",
+        "v5": "unites"
+    },
+    {
+        "base": "unlock",
+        "classes": ["v"],
+        "v1": "unlock",
+        "v2": "unlocked",
+        "v3": "unlocked",
+        "v4": "unlocking",
+        "v5": "unlocks"
+    },
+    {
+        "base": "unpack",
+        "classes": ["v"],
+        "v1": "unpack",
+        "v2": "unpacked",
+        "v3": "unpacked",
+        "v4": "unpacking",
+        "v5": "unpacks"
+    },
+    {
+        "base": "untidy",
+        "classes": ["v"],
+        "v1": "untidy",
+        "v2": "untidied",
+        "v3": "untidied",
+        "v4": "untidying",
+        "v5": "untidies"
+    },
+    {
+        "base": "use",
+        "classes": ["v"],
+        "v1": "use",
+        "v2": "used",
+        "v3": "used",
+        "v4": "using",
+        "v5": "uses"
+    },
+    {
+        "base": "vanish",
+        "classes": ["v"],
+        "v1": "vanish",
+        "v2": "vanished",
+        "v3": "vanished",
+        "v4": "vanishing",
+        "v5": "vanishes"
+    },
+    {
+        "base": "visit",
+        "classes": ["v"],
+        "v1": "visit",
+        "v2": "visited",
+        "v3": "visited",
+        "v4": "visiting",
+        "v5": "visits"
+    },
+    {
+        "base": "vex",
+        "classes": ["v"],
+        "v1": "vex",
+        "v2": "vexed",
+        "v3": "vexed",
+        "v4": "vexing",
+        "v5": "vexes"
+    },
+    {
+        "base": "wait",
+        "classes": ["v"],
+        "v1": "wait",
+        "v2": "waited",
+        "v3": "waited",
+        "v4": "waiting",
+        "v5": "waits"
+    },
+    {
+        "base": "walk",
+        "classes": ["v"],
+        "v1": "walk",
+        "v2": "walked",
+        "v3": "walked",
+        "v4": "walking",
+        "v5": "walks"
+    },
+    {
+        "base": "wander",
+        "classes": ["v"],
+        "v1": "wander",
+        "v2": "wandered",
+        "v3": "wandered",
+        "v4": "wandering",
+        "v5": "wanders"
+    },
+    {
+        "base": "want",
+        "classes": ["v"],
+        "v1": "want",
+        "v2": "wanted",
+        "v3": "wanted",
+        "v4": "wanting",
+        "v5": "wants"
+    },
+    {
+        "base": "warm",
+        "classes": ["v"],
+        "v1": "warm",
+        "v2": "warmed",
+        "v3": "warmed",
+        "v4": "warming",
+        "v5": "warms"
+    },
+    {
+        "base": "warn",
+        "classes": ["v"],
+        "v1": "warn",
+        "v2": "warned",
+        "v3": "warned",
+        "v4": "warning",
+        "v5": "warns"
+    },
+    {
+        "base": "wash",
+        "classes": ["v"],
+        "v1": "wash",
+        "v2": "washed",
+        "v3": "washed",
+        "v4": "washing",
+        "v5": "washes"
+    },
+    {
+        "base": "waste",
+        "classes": ["v"],
+        "v1": "waste",
+        "v2": "wasted",
+        "v3": "wasted",
+        "v4": "wasting",
+        "v5": "wastes"
+    },
+    {
+        "base": "watch",
+        "classes": ["v"],
+        "v1": "watch",
+        "v2": "watched",
+        "v3": "watched",
+        "v4": "watching",
+        "v5": "watches"
+    },
+    {
+        "base": "water",
+        "classes": ["v"],
+        "v1": "water",
+        "v2": "watered",
+        "v3": "watered",
+        "v4": "watering",
+        "v5": "waters"
+    },
+    {
+        "base": "wave",
+        "classes": ["v"],
+        "v1": "wave",
+        "v2": "waved",
+        "v3": "waved",
+        "v4": "waving",
+        "v5": "waves"
+    },
+    {
+        "base": "weigh",
+        "classes": ["v"],
+        "v1": "weigh",
+        "v2": "weighed",
+        "v3": "weighed",
+        "v4": "weighing",
+        "v5": "weighs"
+    },
+    {
+        "base": "welcome",
+        "classes": ["v"],
+        "v1": "welcome",
+        "v2": "welcomed",
+        "v3": "welcomed",
+        "v4": "welcoming",
+        "v5": "welcomes"
+    },
+    {
+        "base": "whine",
+        "classes": ["v"],
+        "v1": "whine",
+        "v2": "whined",
+        "v3": "whined",
+        "v4": "whining",
+        "v5": "whines"
+    },
+    {
+        "base": "whip",
+        "classes": ["v"],
+        "v1": "whip",
+        "v2": "whipped",
+        "v3": "whipped",
+        "v4": "whipping",
+        "v5": "whips"
+    },
+    {
+        "base": "whirl",
+        "classes": ["v"],
+        "v1": "whirl",
+        "v2": "whirled",
+        "v3": "whirled",
+        "v4": "whirling",
+        "v5": "whirls"
+    },
+    {
+        "base": "whisper",
+        "classes": ["v"],
+        "v1": "whisper",
+        "v2": "whispered",
+        "v3": "whispered",
+        "v4": "whispering",
+        "v5": "whispers"
+    },
+    {
+        "base": "whistle",
+        "classes": ["v"],
+        "v1": "whistle",
+        "v2": "whistled",
+        "v3": "whistled",
+        "v4": "whistling",
+        "v5": "whistles"
+    },
+    {
+        "base": "wink",
+        "classes": ["v"],
+        "v1": "wink",
+        "v2": "winked",
+        "v3": "winked",
+        "v4": "winking",
+        "v5": "winks"
+    },
+    {
+        "base": "wipe",
+        "classes": ["v"],
+        "v1": "wipe",
+        "v2": "wiped",
+        "v3": "wiped",
+        "v4": "wiping",
+        "v5": "wipes"
+    },
+    {
+        "base": "wish",
+        "classes": ["v"],
+        "v1": "wish",
+        "v2": "wished",
+        "v3": "wished",
+        "v4": "wishing",
+        "v5": "wishes"
+    },
+    {
+        "base": "wobble",
+        "classes": ["v"],
+        "v1": "wobble",
+        "v2": "wobbled",
+        "v3": "wobbled",
+        "v4": "wobbling",
+        "v5": "wobbles"
+    },
+    {
+        "base": "wonder",
+        "classes": ["v"],
+        "v1": "wonder",
+        "v2": "wondered",
+        "v3": "wondered",
+        "v4": "wondering",
+        "v5": "wonders"
+    },
+    {
+        "base": "work",
+        "classes": ["v"],
+        "v1": "work",
+        "v2": "worked",
+        "v3": "worked",
+        "v4": "working",
+        "v5": "works"
+    },
+    {
+        "base": "worry",
+        "classes": ["v"],
+        "v1": "worry",
+        "v2": "worried",
+        "v3": "worried",
+        "v4": "worrying",
+        "v5": "worries"
+    },
+    {
+        "base": "wrap",
+        "classes": ["v"],
+        "v1": "wrap",
+        "v2": "wrapped",
+        "v3": "wrapped",
+        "v4": "wrapping",
+        "v5": "wraps"
+    },
+    {
+        "base": "wreck",
+        "classes": ["v"],
+        "v1": "wreck",
+        "v2": "wrecked",
+        "v3": "wrecked",
+        "v4": "wrecking",
+        "v5": "wrecks"
+    },
+    {
+        "base": "wrestle",
+        "classes": ["v"],
+        "v1": "wrestle",
+        "v2": "wrestled",
+        "v3": "wrestled",
+        "v4": "wrestling",
+        "v5": "wrestles"
+    },
+    {
+        "base": "wriggle",
+        "classes": ["v"],
+        "v1": "wriggle",
+        "v2": "wriggled",
+        "v3": "wriggled",
+        "v4": "wriggling",
+        "v5": "wriggles"
+    },
+    {
+        "base": "x-ray",
+        "classes": ["v"],
+        "v1": "x-ray",
+        "v2": "x-rayed",
+        "v3": "x-rayed",
+        "v4": "x-raying",
+        "v5": "x-rays"
+    },
+    {
+        "base": "yawn",
+        "classes": ["v"],
+        "v1": "yawn",
+        "v2": "yawned",
+        "v3": "yawned",
+        "v4": "yawning",
+        "v5": "yawns"
+    },
+    {
+        "base": "yell",
+        "classes": ["v"],
+        "v1": "yell",
+        "v2": "yelled",
+        "v3": "yelled",
+        "v4": "yelling",
+        "v5": "yells"
+    },
+    {
+        "base": "yelp",
+        "classes": ["v"],
+        "v1": "yelp",
+        "v2": "yelped",
+        "v3": "yelped",
+        "v4": "yelping",
+        "v5": "yelps"
+    },
+    {
+        "base": "yield",
+        "classes": ["v"],
+        "v1": "yield",
+        "v2": "yielded",
+        "v3": "yielded",
+        "v4": "yielding",
+        "v5": "yields"
+    },
+    {
+        "base": "zip",
+        "classes": ["v"],
+        "v1": "zip",
+        "v2": "zipped",
+        "v3": "zipped",
+        "v4": "zipping",
+        "v5": "zips"
+    },
+    {
+        "base": "zoom",
+        "classes": ["v"],
+        "v1": "zoom",
+        "v2": "zoomed",
+        "v3": "zoomed",
+        "v4": "zooming",
+        "v5": "zooms"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "base": "spell",
+    "classes": [
+        "v"
+    ],
+    "v1": "spell",
+    "v2": "spelled/spelt",
+    "v3": "spelled/spelt",
+    "v4": "spelling",
+    "v5": "spells"
+}

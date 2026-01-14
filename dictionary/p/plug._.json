@@ -1,0 +1,11 @@
+{
+    "base": "plug",
+    "classes": [
+        "v"
+    ],
+    "v1": "plug",
+    "v2": "plugged",
+    "v3": "plugged",
+    "v4": "plugging",
+    "v5": "plugs"
+}

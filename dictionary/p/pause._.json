@@ -1,0 +1,11 @@
+{
+    "base": "pause",
+    "classes": [
+        "v"
+    ],
+    "v1": "pause",
+    "v2": "paused",
+    "v3": "paused",
+    "v4": "pausing",
+    "v5": "pauses"
+}

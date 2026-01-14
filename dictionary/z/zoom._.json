@@ -1,0 +1,11 @@
+{
+    "base": "zoom",
+    "classes": [
+        "v"
+    ],
+    "v1": "zoom",
+    "v2": "zoomed",
+    "v3": "zoomed",
+    "v4": "zooming",
+    "v5": "zooms"
+}

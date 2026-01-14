@@ -1,0 +1,9 @@
+{
+    "base": "tall",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "tall",
+    "adj2": "taller",
+    "adj3": "tallest"
+}

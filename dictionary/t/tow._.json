@@ -1,0 +1,11 @@
+{
+    "base": "tow",
+    "classes": [
+        "v"
+    ],
+    "v1": "tow",
+    "v2": "towed",
+    "v3": "towed",
+    "v4": "towing",
+    "v5": "tows"
+}

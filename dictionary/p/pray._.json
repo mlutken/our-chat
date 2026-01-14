@@ -1,0 +1,11 @@
+{
+    "base": "pray",
+    "classes": [
+        "v"
+    ],
+    "v1": "pray",
+    "v2": "prayed",
+    "v3": "prayed",
+    "v4": "praying",
+    "v5": "prays"
+}

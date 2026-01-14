@@ -1,0 +1,11 @@
+{
+    "base": "dam",
+    "classes": [
+        "v"
+    ],
+    "v1": "dam",
+    "v2": "dammed",
+    "v3": "dammed",
+    "v4": "damming",
+    "v5": "dams"
+}

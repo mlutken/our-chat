@@ -1,0 +1,11 @@
+{
+    "base": "bare",
+    "classes": [
+        "v"
+    ],
+    "v1": "bare",
+    "v2": "bared",
+    "v3": "bared",
+    "v4": "baring",
+    "v5": "bares"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "carry",
+    "classes": [
+        "v"
+    ],
+    "v1": "carry",
+    "v2": "carried",
+    "v3": "carried",
+    "v4": "carrying",
+    "v5": "carries"
+}

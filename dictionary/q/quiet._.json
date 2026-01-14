@@ -1,0 +1,9 @@
+{
+    "base": "quiet",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "quiet",
+    "adj2": "more quiet",
+    "adj3": "most quiet"
+}

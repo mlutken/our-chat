@@ -1,0 +1,11 @@
+{
+    "base": "resolve",
+    "classes": [
+        "v"
+    ],
+    "v1": "resolve",
+    "v2": "resolved",
+    "v3": "resolved",
+    "v4": "resolving",
+    "v5": "resolves"
+}

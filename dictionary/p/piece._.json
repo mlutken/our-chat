@@ -1,0 +1,12 @@
+{
+    "base": "piece",
+    "classes": [
+        "n"
+    ],
+    "n0": "",
+    "n1": "piece",
+    "n2": "pieces",
+    "n3": "the piece",
+    "n4": "the pieces",
+    "n5": "piece's"
+}

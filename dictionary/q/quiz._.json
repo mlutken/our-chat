@@ -1,0 +1,11 @@
+{
+    "base": "quiz",
+    "classes": [
+        "n"
+    ],
+    "n1": "quiz",
+    "n2": "quizzes",
+    "n3": "the quiz",
+    "n4": "the quizzes",
+    "n5": "quiz's"
+}

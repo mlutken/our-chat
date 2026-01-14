@@ -1,0 +1,11 @@
+{
+    "base": "goose",
+    "classes": [
+        "n"
+    ],
+    "n1": "goose",
+    "n2": "geese",
+    "n3": "the goose",
+    "n4": "the geese",
+    "n5": "goose's"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "fence",
+    "classes": [
+        "v"
+    ],
+    "v1": "fence",
+    "v2": "fenced",
+    "v3": "fenced",
+    "v4": "fencing",
+    "v5": "fences"
+}

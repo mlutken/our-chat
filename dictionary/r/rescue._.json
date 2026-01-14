@@ -1,0 +1,11 @@
+{
+    "base": "rescue",
+    "classes": [
+        "v"
+    ],
+    "v1": "rescue",
+    "v2": "rescued",
+    "v3": "rescued",
+    "v4": "rescuing",
+    "v5": "rescues"
+}

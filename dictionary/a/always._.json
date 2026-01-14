@@ -1,0 +1,8 @@
+{
+    "base": "always",
+    "classes": [
+        "adv"
+    ],
+    "f0": "always",
+    "adv_subtype": "frequency"
+}

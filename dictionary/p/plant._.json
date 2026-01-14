@@ -1,0 +1,11 @@
+{
+    "base": "plant",
+    "classes": [
+        "v"
+    ],
+    "v1": "plant",
+    "v2": "planted",
+    "v3": "planted",
+    "v4": "planting",
+    "v5": "plants"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "prevent",
+    "classes": [
+        "v"
+    ],
+    "v1": "prevent",
+    "v2": "prevented",
+    "v3": "prevented",
+    "v4": "preventing",
+    "v5": "prevents"
+}

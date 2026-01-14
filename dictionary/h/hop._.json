@@ -1,0 +1,11 @@
+{
+    "base": "hop",
+    "classes": [
+        "v"
+    ],
+    "v1": "hop",
+    "v2": "hopped",
+    "v3": "hopped",
+    "v4": "hopping",
+    "v5": "hops"
+}

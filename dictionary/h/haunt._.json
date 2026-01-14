@@ -1,0 +1,11 @@
+{
+    "base": "haunt",
+    "classes": [
+        "v"
+    ],
+    "v1": "haunt",
+    "v2": "haunted",
+    "v3": "haunted",
+    "v4": "haunting",
+    "v5": "haunts"
+}

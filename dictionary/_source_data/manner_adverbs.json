@@ -1,0 +1,128 @@
+[
+    {
+        "base": "well",
+        "classes": ["adv"],
+        "f0": "well",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "fast",
+        "classes": ["adv"],
+        "f0": "fast",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "straight",
+        "classes": ["adv"],
+        "f0": "straight",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "hard",
+        "classes": ["adv"],
+        "f0": "hard",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "loudly",
+        "classes": ["adv"],
+        "f0": "loudly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "proudly",
+        "classes": ["adv"],
+        "f0": "proudly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "suspiciously",
+        "classes": ["adv"],
+        "f0": "suspiciously",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "strangely",
+        "classes": ["adv"],
+        "f0": "strangely",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "kindly",
+        "classes": ["adv"],
+        "f0": "kindly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "easily",
+        "classes": ["adv"],
+        "f0": "easily",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "rudely",
+        "classes": ["adv"],
+        "f0": "rudely",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "neatly",
+        "classes": ["adv"],
+        "f0": "neatly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "quickly",
+        "classes": ["adv"],
+        "f0": "quickly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "generously",
+        "classes": ["adv"],
+        "f0": "generously",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "eagerly",
+        "classes": ["adv"],
+        "f0": "eagerly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "accidentally",
+        "classes": ["adv"],
+        "f0": "accidentally",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "rapidly",
+        "classes": ["adv"],
+        "f0": "rapidly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "hungrily",
+        "classes": ["adv"],
+        "f0": "hungrily",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "foolishly",
+        "classes": ["adv"],
+        "f0": "foolishly",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "cheerfully",
+        "classes": ["adv"],
+        "f0": "cheerfully",
+        "adv_subtype": "manner"
+    },
+    {
+        "base": "really",
+        "classes": ["adv"],
+        "f0": "really",
+        "adv_subtype": "manner"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "base": "prepare",
+    "classes": [
+        "v"
+    ],
+    "v1": "prepare",
+    "v2": "prepared",
+    "v3": "prepared",
+    "v4": "preparing",
+    "v5": "prepares"
+}

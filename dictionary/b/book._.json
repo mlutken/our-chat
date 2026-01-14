@@ -1,0 +1,18 @@
+{
+    "base": "book",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "book",
+    "n2": "books",
+    "n3": "the book",
+    "n4": "the books",
+    "n5": "book's",
+    "v1": "book",
+    "v2": "booked",
+    "v3": "booked",
+    "v4": "booking",
+    "v5": "books"
+}

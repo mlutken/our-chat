@@ -1,0 +1,11 @@
+{
+    "base": "extend",
+    "classes": [
+        "v"
+    ],
+    "v1": "extend",
+    "v2": "extended",
+    "v3": "extended",
+    "v4": "extending",
+    "v5": "extends"
+}

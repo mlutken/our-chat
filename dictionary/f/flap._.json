@@ -1,0 +1,11 @@
+{
+    "base": "flap",
+    "classes": [
+        "v"
+    ],
+    "v1": "flap",
+    "v2": "flapped",
+    "v3": "flapped",
+    "v4": "flapping",
+    "v5": "flaps"
+}

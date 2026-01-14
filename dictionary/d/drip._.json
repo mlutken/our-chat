@@ -1,0 +1,11 @@
+{
+    "base": "drip",
+    "classes": [
+        "v"
+    ],
+    "v1": "drip",
+    "v2": "dripped",
+    "v3": "dripped",
+    "v4": "dripping",
+    "v5": "drips"
+}

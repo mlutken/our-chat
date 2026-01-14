@@ -1,0 +1,9 @@
+{
+    "base": "dim",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "dim",
+    "adj2": "dimmer",
+    "adj3": "dimmest"
+}

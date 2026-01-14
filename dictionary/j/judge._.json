@@ -1,0 +1,11 @@
+{
+    "base": "judge",
+    "classes": [
+        "v"
+    ],
+    "v1": "judge",
+    "v2": "judged",
+    "v3": "judged",
+    "v4": "judging",
+    "v5": "judges"
+}

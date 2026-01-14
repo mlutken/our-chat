@@ -1,0 +1,11 @@
+{
+    "base": "park",
+    "classes": [
+        "v"
+    ],
+    "v1": "park",
+    "v2": "parked",
+    "v3": "parked",
+    "v4": "parking",
+    "v5": "parks"
+}

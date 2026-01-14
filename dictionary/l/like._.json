@@ -1,0 +1,11 @@
+{
+    "base": "like",
+    "classes": [
+        "v"
+    ],
+    "v1": "like",
+    "v2": "liked",
+    "v3": "liked",
+    "v4": "liking",
+    "v5": "likes"
+}

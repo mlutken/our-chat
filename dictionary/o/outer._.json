@@ -1,0 +1,9 @@
+{
+    "base": "outer",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "outer",
+    "adj2": "outer",
+    "adj3": "outermost"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "wobble",
+    "classes": [
+        "v"
+    ],
+    "v1": "wobble",
+    "v2": "wobbled",
+    "v3": "wobbled",
+    "v4": "wobbling",
+    "v5": "wobbles"
+}

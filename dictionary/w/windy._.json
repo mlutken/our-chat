@@ -1,0 +1,9 @@
+{
+    "base": "windy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "windy",
+    "adj2": "windier",
+    "adj3": "windiest"
+}

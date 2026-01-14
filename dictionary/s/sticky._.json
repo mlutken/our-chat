@@ -1,0 +1,9 @@
+{
+    "base": "sticky",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "sticky",
+    "adj2": "stickier",
+    "adj3": "stickiest"
+}

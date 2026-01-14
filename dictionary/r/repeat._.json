@@ -1,0 +1,11 @@
+{
+    "base": "repeat",
+    "classes": [
+        "v"
+    ],
+    "v1": "repeat",
+    "v2": "repeated",
+    "v3": "repeated",
+    "v4": "repeating",
+    "v5": "repeats"
+}

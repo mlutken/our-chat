@@ -1,0 +1,9 @@
+{
+    "base": "big",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "big",
+    "adj2": "bigger",
+    "adj3": "biggest"
+}

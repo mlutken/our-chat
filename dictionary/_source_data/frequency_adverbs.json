@@ -1,0 +1,92 @@
+[
+    {
+        "base": "always",
+        "classes": ["adv"],
+        "f0": "always",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "usually",
+        "classes": ["adv"],
+        "f0": "usually",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "often",
+        "classes": ["adv"],
+        "f0": "often",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "sometimes",
+        "classes": ["adv"],
+        "f0": "sometimes",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "rarely",
+        "classes": ["adv"],
+        "f0": "rarely",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "never",
+        "classes": ["adv"],
+        "f0": "never",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "ever",
+        "classes": ["adv"],
+        "f0": "ever",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "hardly ever",
+        "classes": ["adv"],
+        "f0": "hardly ever",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "occasionally",
+        "classes": ["adv"],
+        "f0": "occasionally",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "seldom",
+        "classes": ["adv"],
+        "f0": "seldom",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "generally",
+        "classes": ["adv"],
+        "f0": "generally",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "frequently",
+        "classes": ["adv"],
+        "f0": "frequently",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "normally",
+        "classes": ["adv"],
+        "f0": "normally",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "once",
+        "classes": ["adv"],
+        "f0": "once",
+        "adv_subtype": "frequency"
+    },
+    {
+        "base": "twice",
+        "classes": ["adv"],
+        "f0": "twice",
+        "adv_subtype": "frequency"
+    }
+]

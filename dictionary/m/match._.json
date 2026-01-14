@@ -1,0 +1,11 @@
+{
+    "base": "match",
+    "classes": [
+        "v"
+    ],
+    "v1": "match",
+    "v2": "matched",
+    "v3": "matched",
+    "v4": "matching",
+    "v5": "matches"
+}

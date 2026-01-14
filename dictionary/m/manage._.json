@@ -1,0 +1,11 @@
+{
+    "base": "manage",
+    "classes": [
+        "v"
+    ],
+    "v1": "manage",
+    "v2": "managed",
+    "v3": "managed",
+    "v4": "managing",
+    "v5": "manages"
+}

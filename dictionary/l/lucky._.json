@@ -1,0 +1,9 @@
+{
+    "base": "lucky",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "lucky",
+    "adj2": "luckier",
+    "adj3": "luckiest"
+}

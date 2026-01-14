@@ -1,0 +1,11 @@
+{
+    "base": "exist",
+    "classes": [
+        "v"
+    ],
+    "v1": "exist",
+    "v2": "existed",
+    "v3": "existed",
+    "v4": "existing",
+    "v5": "exists"
+}

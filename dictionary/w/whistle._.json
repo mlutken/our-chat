@@ -1,0 +1,11 @@
+{
+    "base": "whistle",
+    "classes": [
+        "v"
+    ],
+    "v1": "whistle",
+    "v2": "whistled",
+    "v3": "whistled",
+    "v4": "whistling",
+    "v5": "whistles"
+}

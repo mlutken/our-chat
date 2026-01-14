@@ -1,0 +1,12 @@
+{
+    "base": "highway",
+    "classes": [
+        "n"
+    ],
+    "n0": "",
+    "n1": "highway",
+    "n2": "highways",
+    "n3": "the highway",
+    "n4": "the highways",
+    "n5": "highway's"
+}

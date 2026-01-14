@@ -1,0 +1,11 @@
+{
+    "base": "sheathe",
+    "classes": [
+        "v"
+    ],
+    "v1": "sheathe",
+    "v2": "sheathed",
+    "v3": "sheathed",
+    "v4": "sheathing",
+    "v5": "sheathes"
+}

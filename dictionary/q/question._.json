@@ -1,0 +1,18 @@
+{
+    "base": "question",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "question",
+    "n2": "questions",
+    "n3": "the question",
+    "n4": "the questions",
+    "n5": "question's",
+    "v1": "question",
+    "v2": "questioned",
+    "v3": "questioned",
+    "v4": "questioning",
+    "v5": "questions"
+}

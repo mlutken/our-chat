@@ -1,0 +1,11 @@
+{
+    "base": "label",
+    "classes": [
+        "v"
+    ],
+    "v1": "label",
+    "v2": "labeled/labelled",
+    "v3": "labeled/labelled",
+    "v4": "labeling/labelling",
+    "v5": "labels/labels"
+}

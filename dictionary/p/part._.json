@@ -1,0 +1,18 @@
+{
+    "base": "part",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "part",
+    "n2": "parts",
+    "n3": "the part",
+    "n4": "the parts",
+    "n5": "part's",
+    "v1": "part",
+    "v2": "parted",
+    "v3": "parted",
+    "v4": "parting",
+    "v5": "parts"
+}

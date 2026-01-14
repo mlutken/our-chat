@@ -1,0 +1,9 @@
+{
+    "base": "after",
+    "classes": [
+        "pre",
+        "adv"
+    ],
+    "f0": "after",
+    "adv_subtype": "time"
+}

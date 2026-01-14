@@ -1,0 +1,11 @@
+{
+    "base": "turn",
+    "classes": [
+        "v"
+    ],
+    "v1": "turn",
+    "v2": "turned",
+    "v3": "turned",
+    "v4": "turning",
+    "v5": "turns"
+}

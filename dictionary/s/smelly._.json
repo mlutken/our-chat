@@ -1,0 +1,9 @@
+{
+    "base": "smelly",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "smelly",
+    "adj2": "smellier",
+    "adj3": "smelliest"
+}

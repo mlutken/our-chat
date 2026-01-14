@@ -1,0 +1,11 @@
+{
+    "base": "trust",
+    "classes": [
+        "v"
+    ],
+    "v1": "trust",
+    "v2": "trusted",
+    "v3": "trusted",
+    "v4": "trusting",
+    "v5": "trusts"
+}

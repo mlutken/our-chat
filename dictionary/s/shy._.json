@@ -1,0 +1,9 @@
+{
+    "base": "shy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "shy",
+    "adj2": "shyer",
+    "adj3": "shyest"
+}

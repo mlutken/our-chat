@@ -1,0 +1,11 @@
+{
+    "base": "guard",
+    "classes": [
+        "v"
+    ],
+    "v1": "guard",
+    "v2": "guarded",
+    "v3": "guarded",
+    "v4": "guarding",
+    "v5": "guards"
+}

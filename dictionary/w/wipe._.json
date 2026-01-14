@@ -1,0 +1,11 @@
+{
+    "base": "wipe",
+    "classes": [
+        "v"
+    ],
+    "v1": "wipe",
+    "v2": "wiped",
+    "v3": "wiped",
+    "v4": "wiping",
+    "v5": "wipes"
+}

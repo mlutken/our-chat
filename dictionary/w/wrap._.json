@@ -1,0 +1,11 @@
+{
+    "base": "wrap",
+    "classes": [
+        "v"
+    ],
+    "v1": "wrap",
+    "v2": "wrapped",
+    "v3": "wrapped",
+    "v4": "wrapping",
+    "v5": "wraps"
+}

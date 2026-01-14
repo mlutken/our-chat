@@ -1,0 +1,11 @@
+{
+    "base": "mention",
+    "classes": [
+        "v"
+    ],
+    "v1": "mention",
+    "v2": "mentioned",
+    "v3": "mentioned",
+    "v4": "mentioning",
+    "v5": "mentions"
+}

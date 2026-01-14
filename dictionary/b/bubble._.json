@@ -1,0 +1,11 @@
+{
+    "base": "bubble",
+    "classes": [
+        "v"
+    ],
+    "v1": "bubble",
+    "v2": "bubbled",
+    "v3": "bubbled",
+    "v4": "bubbling",
+    "v5": "bubbles"
+}

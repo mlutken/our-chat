@@ -1,0 +1,11 @@
+{
+    "base": "sleep",
+    "classes": [
+        "v"
+    ],
+    "v1": "sleep",
+    "v2": "slept",
+    "v3": "slept",
+    "v4": "sleeping",
+    "v5": "sleeps"
+}

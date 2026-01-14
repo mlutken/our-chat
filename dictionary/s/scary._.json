@@ -1,0 +1,9 @@
+{
+    "base": "scary",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "scary",
+    "adj2": "scarier",
+    "adj3": "scariest"
+}

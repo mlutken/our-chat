@@ -1,0 +1,18 @@
+{
+    "base": "hand",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "hand",
+    "n2": "hands",
+    "n3": "the hand",
+    "n4": "the hands",
+    "n5": "hand's",
+    "v1": "hand",
+    "v2": "handed",
+    "v3": "handed",
+    "v4": "handing",
+    "v5": "hands"
+}

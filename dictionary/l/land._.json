@@ -1,0 +1,11 @@
+{
+    "base": "land",
+    "classes": [
+        "v"
+    ],
+    "v1": "land",
+    "v2": "landed",
+    "v3": "landed",
+    "v4": "landing",
+    "v5": "lands"
+}

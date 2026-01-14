@@ -1,0 +1,11 @@
+{
+    "base": "weigh",
+    "classes": [
+        "v"
+    ],
+    "v1": "weigh",
+    "v2": "weighed",
+    "v3": "weighed",
+    "v4": "weighing",
+    "v5": "weighs"
+}

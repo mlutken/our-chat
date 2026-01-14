@@ -1,0 +1,11 @@
+{
+    "base": "move",
+    "classes": [
+        "v"
+    ],
+    "v1": "move",
+    "v2": "moved",
+    "v3": "moved",
+    "v4": "moving",
+    "v5": "moves"
+}

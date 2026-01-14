@@ -1,0 +1,8 @@
+{
+    "base": "daily",
+    "classes": [
+        "adv"
+    ],
+    "f0": "daily",
+    "adv_subtype": "time"
+}

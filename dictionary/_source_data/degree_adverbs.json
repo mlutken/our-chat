@@ -1,0 +1,122 @@
+[
+    {
+        "base": "lots",
+        "classes": ["adv"],
+        "f0": "lots",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "somewhat",
+        "classes": ["adv"],
+        "f0": "somewhat",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "barely",
+        "classes": ["adv"],
+        "f0": "barely",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "very",
+        "classes": ["adv"],
+        "f0": "very",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "much",
+        "classes": ["adv"],
+        "f0": "much",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "most",
+        "classes": ["adv"],
+        "f0": "most",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "nearly",
+        "classes": ["adv"],
+        "f0": "nearly",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "too",
+        "classes": ["adv"],
+        "f0": "too",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "extremely",
+        "classes": ["adv"],
+        "f0": "extremely",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "enough",
+        "classes": ["adv"],
+        "f0": "enough",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "so",
+        "classes": ["adv"],
+        "f0": "so",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "slightly",
+        "classes": ["adv"],
+        "f0": "slightly",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "especially",
+        "classes": ["adv"],
+        "f0": "especially",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "just",
+        "classes": ["adv"],
+        "f0": "just",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "almost",
+        "classes": ["adv"],
+        "f0": "almost",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "scarcely",
+        "classes": ["adv"],
+        "f0": "scarcely",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "virtually",
+        "classes": ["adv"],
+        "f0": "virtually",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "fully",
+        "classes": ["adv"],
+        "f0": "fully",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "far",
+        "classes": ["adv"],
+        "f0": "far",
+        "adv_subtype": "degree"
+    },
+    {
+        "base": "exceptionally",
+        "classes": ["adv"],
+        "f0": "exceptionally",
+        "adv_subtype": "degree"
+    }
+]

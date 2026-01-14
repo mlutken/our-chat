@@ -1,0 +1,9 @@
+{
+    "base": "wet",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "wet",
+    "adj2": "wetter",
+    "adj3": "wettest"
+}

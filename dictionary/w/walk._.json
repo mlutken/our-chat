@@ -1,0 +1,17 @@
+{
+    "base": "walk",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "walk",
+    "n2": "walks",
+    "n3": "the walk",
+    "n4": "the walks",
+    "n5": "walk's",
+    "v1": "walk",
+    "v2": "walked",
+    "v3": "walked",
+    "v4": "walking",
+    "v5": "walks"
+}

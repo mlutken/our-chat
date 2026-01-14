@@ -1,0 +1,11 @@
+{
+    "base": "borrow",
+    "classes": [
+        "v"
+    ],
+    "v1": "borrow",
+    "v2": "borrowed",
+    "v3": "borrowed",
+    "v4": "borrowing",
+    "v5": "borrows"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "send",
+    "classes": [
+        "v"
+    ],
+    "v1": "send",
+    "v2": "sent",
+    "v3": "sent",
+    "v4": "sending",
+    "v5": "sends"
+}

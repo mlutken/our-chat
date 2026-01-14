@@ -1,0 +1,11 @@
+{
+    "base": "uncover",
+    "classes": [
+        "v"
+    ],
+    "v1": "uncover",
+    "v2": "uncovered",
+    "v3": "uncovered",
+    "v4": "uncovering",
+    "v5": "uncovers"
+}

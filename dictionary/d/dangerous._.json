@@ -1,0 +1,9 @@
+{
+    "base": "dangerous",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "dangerous",
+    "adj2": "more dangerous",
+    "adj3": "most dangerous"
+}

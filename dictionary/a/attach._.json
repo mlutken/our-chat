@@ -1,0 +1,11 @@
+{
+    "base": "attach",
+    "classes": [
+        "v"
+    ],
+    "v1": "attach",
+    "v2": "attached",
+    "v3": "attached",
+    "v4": "attaching",
+    "v5": "attaches"
+}

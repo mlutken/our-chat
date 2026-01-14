@@ -1,0 +1,11 @@
+{
+    "base": "sell",
+    "classes": [
+        "v"
+    ],
+    "v1": "sell",
+    "v2": "sold",
+    "v3": "sold",
+    "v4": "selling",
+    "v5": "sells"
+}

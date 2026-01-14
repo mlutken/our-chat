@@ -1,0 +1,9 @@
+{
+    "base": "so",
+    "classes": [
+        "conj",
+        "adv"
+    ],
+    "f0": "so",
+    "adv_subtype": "degree"
+}

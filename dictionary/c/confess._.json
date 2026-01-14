@@ -1,0 +1,11 @@
+{
+    "base": "confess",
+    "classes": [
+        "v"
+    ],
+    "v1": "confess",
+    "v2": "confessed",
+    "v3": "confessed",
+    "v4": "confessing",
+    "v5": "confesses"
+}

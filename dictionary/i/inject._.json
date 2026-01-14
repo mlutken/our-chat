@@ -1,0 +1,11 @@
+{
+    "base": "inject",
+    "classes": [
+        "v"
+    ],
+    "v1": "inject",
+    "v2": "injected",
+    "v3": "injected",
+    "v4": "injecting",
+    "v5": "injects"
+}

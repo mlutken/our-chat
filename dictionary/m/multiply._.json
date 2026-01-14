@@ -1,0 +1,11 @@
+{
+    "base": "multiply",
+    "classes": [
+        "v"
+    ],
+    "v1": "multiply",
+    "v2": "multiplied",
+    "v3": "multiplied",
+    "v4": "multiplying",
+    "v5": "multiplies"
+}

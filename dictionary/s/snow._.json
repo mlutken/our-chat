@@ -1,0 +1,11 @@
+{
+    "base": "snow",
+    "classes": [
+        "v"
+    ],
+    "v1": "snow",
+    "v2": "snowed",
+    "v3": "snowed",
+    "v4": "snowing",
+    "v5": "snows"
+}

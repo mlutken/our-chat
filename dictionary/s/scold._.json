@@ -1,0 +1,11 @@
+{
+    "base": "scold",
+    "classes": [
+        "v"
+    ],
+    "v1": "scold",
+    "v2": "scolded",
+    "v3": "scolded",
+    "v4": "scolding",
+    "v5": "scolds"
+}

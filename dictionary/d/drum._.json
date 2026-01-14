@@ -1,0 +1,11 @@
+{
+    "base": "drum",
+    "classes": [
+        "v"
+    ],
+    "v1": "drum",
+    "v2": "drummed",
+    "v3": "drummed",
+    "v4": "drumming",
+    "v5": "drums"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "slip",
+    "classes": [
+        "v"
+    ],
+    "v1": "slip",
+    "v2": "slipped",
+    "v3": "slipped",
+    "v4": "slipping",
+    "v5": "slips"
+}

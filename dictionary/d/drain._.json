@@ -1,0 +1,11 @@
+{
+    "base": "drain",
+    "classes": [
+        "v"
+    ],
+    "v1": "drain",
+    "v2": "drained",
+    "v3": "drained",
+    "v4": "draining",
+    "v5": "drains"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "harm",
+    "classes": [
+        "v"
+    ],
+    "v1": "harm",
+    "v2": "harmed",
+    "v3": "harmed",
+    "v4": "harming",
+    "v5": "harms"
+}

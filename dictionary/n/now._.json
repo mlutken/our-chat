@@ -1,0 +1,8 @@
+{
+    "base": "now",
+    "classes": [
+        "adv"
+    ],
+    "f0": "now",
+    "adv_subtype": "time"
+}

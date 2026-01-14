@@ -1,0 +1,11 @@
+{
+    "base": "transport",
+    "classes": [
+        "v"
+    ],
+    "v1": "transport",
+    "v2": "transported",
+    "v3": "transported",
+    "v4": "transporting",
+    "v5": "transports"
+}

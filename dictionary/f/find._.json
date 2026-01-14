@@ -1,0 +1,11 @@
+{
+    "base": "find",
+    "classes": [
+        "v"
+    ],
+    "v1": "find",
+    "v2": "found",
+    "v3": "found",
+    "v4": "finding",
+    "v5": "finds"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "hammer",
+    "classes": [
+        "v"
+    ],
+    "v1": "hammer",
+    "v2": "hammered",
+    "v3": "hammered",
+    "v4": "hammering",
+    "v5": "hammers"
+}

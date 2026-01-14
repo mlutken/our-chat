@@ -1,0 +1,15 @@
+{
+    "base": "clear",
+    "classes": [
+        "adj",
+        "v"
+    ],
+    "adj1": "clear",
+    "adj2": "clearer",
+    "adj3": "clearest",
+    "v1": "clear",
+    "v2": "cleared",
+    "v3": "cleared",
+    "v4": "clearing",
+    "v5": "clears"
+}

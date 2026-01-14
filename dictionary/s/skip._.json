@@ -1,0 +1,11 @@
+{
+    "base": "skip",
+    "classes": [
+        "v"
+    ],
+    "v1": "skip",
+    "v2": "skipped",
+    "v3": "skipped",
+    "v4": "skipping",
+    "v5": "skips"
+}

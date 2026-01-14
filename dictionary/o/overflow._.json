@@ -1,0 +1,11 @@
+{
+    "base": "overflow",
+    "classes": [
+        "v"
+    ],
+    "v1": "overflow",
+    "v2": "overflowed",
+    "v3": "overflowed",
+    "v4": "overflowing",
+    "v5": "overflows"
+}

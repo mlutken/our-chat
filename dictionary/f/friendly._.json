@@ -1,0 +1,9 @@
+{
+    "base": "friendly",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "friendly",
+    "adj2": "friendlier",
+    "adj3": "friendliest"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "touch",
+    "classes": [
+        "v"
+    ],
+    "v1": "touch",
+    "v2": "touched",
+    "v3": "touched",
+    "v4": "touching",
+    "v5": "touches"
+}

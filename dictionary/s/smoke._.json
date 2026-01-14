@@ -1,0 +1,11 @@
+{
+    "base": "smoke",
+    "classes": [
+        "v"
+    ],
+    "v1": "smoke",
+    "v2": "smoked",
+    "v3": "smoked",
+    "v4": "smoking",
+    "v5": "smokes"
+}

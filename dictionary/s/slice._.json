@@ -1,0 +1,11 @@
+{
+    "base": "slice",
+    "classes": [
+        "v"
+    ],
+    "v1": "slice",
+    "v2": "sliced",
+    "v3": "sliced",
+    "v4": "slicing",
+    "v5": "slices"
+}

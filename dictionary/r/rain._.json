@@ -1,0 +1,11 @@
+{
+    "base": "rain",
+    "classes": [
+        "v"
+    ],
+    "v1": "rain",
+    "v2": "rained",
+    "v3": "rained",
+    "v4": "raining",
+    "v5": "rains"
+}

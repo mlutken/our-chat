@@ -1,0 +1,11 @@
+{
+    "base": "deliver",
+    "classes": [
+        "v"
+    ],
+    "v1": "deliver",
+    "v2": "delivered",
+    "v3": "delivered",
+    "v4": "delivering",
+    "v5": "delivers"
+}

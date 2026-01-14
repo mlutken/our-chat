@@ -1,0 +1,11 @@
+{
+    "base": "cross",
+    "classes": [
+        "v"
+    ],
+    "v1": "cross",
+    "v2": "crossed",
+    "v3": "crossed",
+    "v4": "crossing",
+    "v5": "crosses"
+}

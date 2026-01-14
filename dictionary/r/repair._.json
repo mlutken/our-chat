@@ -1,0 +1,11 @@
+{
+    "base": "repair",
+    "classes": [
+        "v"
+    ],
+    "v1": "repair",
+    "v2": "repaired",
+    "v3": "repaired",
+    "v4": "repairing",
+    "v5": "repairs"
+}

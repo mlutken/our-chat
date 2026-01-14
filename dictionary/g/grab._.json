@@ -1,0 +1,11 @@
+{
+    "base": "grab",
+    "classes": [
+        "v"
+    ],
+    "v1": "grab",
+    "v2": "grabbed",
+    "v3": "grabbed",
+    "v4": "grabbing",
+    "v5": "grabs"
+}

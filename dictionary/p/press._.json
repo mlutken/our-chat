@@ -1,0 +1,11 @@
+{
+    "base": "press",
+    "classes": [
+        "v"
+    ],
+    "v1": "press",
+    "v2": "pressed",
+    "v3": "pressed",
+    "v4": "pressing",
+    "v5": "presses"
+}

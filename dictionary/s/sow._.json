@@ -1,0 +1,11 @@
+{
+    "base": "sow",
+    "classes": [
+        "v"
+    ],
+    "v1": "sow",
+    "v2": "sowed",
+    "v3": "sown/sowed",
+    "v4": "sowing",
+    "v5": "sows"
+}

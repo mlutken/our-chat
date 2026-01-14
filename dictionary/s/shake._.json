@@ -1,0 +1,11 @@
+{
+    "base": "shake",
+    "classes": [
+        "v"
+    ],
+    "v1": "shake",
+    "v2": "shook",
+    "v3": "shaken",
+    "v4": "shaking",
+    "v5": "shakes"
+}

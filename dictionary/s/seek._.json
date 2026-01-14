@@ -1,0 +1,11 @@
+{
+    "base": "seek",
+    "classes": [
+        "v"
+    ],
+    "v1": "seek",
+    "v2": "sought",
+    "v3": "sought",
+    "v4": "seeking",
+    "v5": "seeks"
+}

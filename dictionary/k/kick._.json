@@ -1,0 +1,11 @@
+{
+    "base": "kick",
+    "classes": [
+        "v"
+    ],
+    "v1": "kick",
+    "v2": "kicked",
+    "v3": "kicked",
+    "v4": "kicking",
+    "v5": "kicks"
+}

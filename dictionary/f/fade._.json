@@ -1,0 +1,11 @@
+{
+    "base": "fade",
+    "classes": [
+        "v"
+    ],
+    "v1": "fade",
+    "v2": "faded",
+    "v3": "faded",
+    "v4": "fading",
+    "v5": "fades"
+}

@@ -1,0 +1,12 @@
+{
+    "base": "fortune",
+    "classes": [
+        "n"
+    ],
+    "n0": "",
+    "n1": "fortune",
+    "n2": "fortunes",
+    "n3": "the fortune",
+    "n4": "the fortunes",
+    "n5": "fortune's"
+}

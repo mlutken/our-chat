@@ -1,0 +1,11 @@
+{
+    "base": "pop",
+    "classes": [
+        "v"
+    ],
+    "v1": "pop",
+    "v2": "popped",
+    "v3": "popped",
+    "v4": "popping",
+    "v5": "pops"
+}

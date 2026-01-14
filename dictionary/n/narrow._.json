@@ -1,0 +1,9 @@
+{
+    "base": "narrow",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "narrow",
+    "adj2": "narrower",
+    "adj3": "narrowest"
+}

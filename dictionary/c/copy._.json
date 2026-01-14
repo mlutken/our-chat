@@ -1,0 +1,11 @@
+{
+    "base": "copy",
+    "classes": [
+        "v"
+    ],
+    "v1": "copy",
+    "v2": "copied",
+    "v3": "copied",
+    "v4": "copying",
+    "v5": "copies"
+}

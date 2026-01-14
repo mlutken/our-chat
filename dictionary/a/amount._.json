@@ -1,0 +1,12 @@
+{
+    "base": "amount",
+    "classes": [
+        "n"
+    ],
+    "n0": "",
+    "n1": "amount",
+    "n2": "amounts",
+    "n3": "the amount",
+    "n4": "the amounts",
+    "n5": "amount's"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "speak",
+    "classes": [
+        "v"
+    ],
+    "v1": "speak",
+    "v2": "spoke",
+    "v3": "spoken",
+    "v4": "speaking",
+    "v5": "speaks"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "dislike",
+    "classes": [
+        "v"
+    ],
+    "v1": "dislike",
+    "v2": "disliked",
+    "v3": "disliked",
+    "v4": "disliking",
+    "v5": "dislikes"
+}

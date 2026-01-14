@@ -1,0 +1,11 @@
+{
+    "base": "ship",
+    "classes": [
+        "v"
+    ],
+    "v1": "ship",
+    "v2": "shipped",
+    "v3": "shipped",
+    "v4": "shipping",
+    "v5": "ships"
+}

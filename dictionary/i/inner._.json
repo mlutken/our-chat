@@ -1,0 +1,9 @@
+{
+    "base": "inner",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "inner",
+    "adj2": "inner",
+    "adj3": "innermost"
+}

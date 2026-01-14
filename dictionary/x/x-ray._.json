@@ -1,0 +1,11 @@
+{
+    "base": "x-ray",
+    "classes": [
+        "v"
+    ],
+    "v1": "x-ray",
+    "v2": "x-rayed",
+    "v3": "x-rayed",
+    "v4": "x-raying",
+    "v5": "x-rays"
+}

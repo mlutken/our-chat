@@ -1,0 +1,12 @@
+{
+    "base": "fast",
+    "classes": [
+        "adv",
+        "adj"
+    ],
+    "f0": "fast",
+    "adv_subtype": "manner",
+    "adj1": "fast",
+    "adj2": "faster",
+    "adj3": "fastest"
+}

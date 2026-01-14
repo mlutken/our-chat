@@ -1,0 +1,11 @@
+{
+    "base": "wait",
+    "classes": [
+        "v"
+    ],
+    "v1": "wait",
+    "v2": "waited",
+    "v3": "waited",
+    "v4": "waiting",
+    "v5": "waits"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "greedy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "greedy",
+    "adj2": "greedier",
+    "adj3": "greediest"
+}

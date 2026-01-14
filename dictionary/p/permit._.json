@@ -1,0 +1,11 @@
+{
+    "base": "permit",
+    "classes": [
+        "v"
+    ],
+    "v1": "permit",
+    "v2": "permitted",
+    "v3": "permitted",
+    "v4": "permitting",
+    "v5": "permits"
+}

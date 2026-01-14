@@ -1,0 +1,11 @@
+{
+    "base": "command",
+    "classes": [
+        "v"
+    ],
+    "v1": "command",
+    "v2": "commanded",
+    "v3": "commanded",
+    "v4": "commanding",
+    "v5": "commands"
+}

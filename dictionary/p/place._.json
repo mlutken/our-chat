@@ -1,0 +1,18 @@
+{
+    "base": "place",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "place",
+    "n2": "places",
+    "n3": "the place",
+    "n4": "the places",
+    "n5": "place's",
+    "v1": "place",
+    "v2": "placed",
+    "v3": "placed",
+    "v4": "placing",
+    "v5": "places"
+}

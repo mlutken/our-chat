@@ -1,0 +1,18 @@
+{
+    "base": "heat",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "heat",
+    "n2": "heats",
+    "n3": "the heat",
+    "n4": "the heats",
+    "n5": "heat's",
+    "v1": "heat",
+    "v2": "heated",
+    "v3": "heated",
+    "v4": "heating",
+    "v5": "heats"
+}

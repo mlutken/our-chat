@@ -1,0 +1,9 @@
+{
+    "base": "smart",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "smart",
+    "adj2": "smarter",
+    "adj3": "smartest"
+}

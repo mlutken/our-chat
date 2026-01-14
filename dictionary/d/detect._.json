@@ -1,0 +1,11 @@
+{
+    "base": "detect",
+    "classes": [
+        "v"
+    ],
+    "v1": "detect",
+    "v2": "detected",
+    "v3": "detected",
+    "v4": "detecting",
+    "v5": "detects"
+}

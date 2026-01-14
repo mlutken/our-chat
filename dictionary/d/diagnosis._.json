@@ -1,0 +1,11 @@
+{
+    "base": "diagnosis",
+    "classes": [
+        "n"
+    ],
+    "n1": "diagnosis",
+    "n2": "diagnoses",
+    "n3": "the diagnosis",
+    "n4": "the diagnoses",
+    "n5": "diagnosis's"
+}

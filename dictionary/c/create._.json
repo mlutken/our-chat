@@ -1,0 +1,11 @@
+{
+    "base": "create",
+    "classes": [
+        "v"
+    ],
+    "v1": "create",
+    "v2": "created",
+    "v3": "created",
+    "v4": "creating",
+    "v5": "creates"
+}

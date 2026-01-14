@@ -1,0 +1,11 @@
+{
+    "base": "remind",
+    "classes": [
+        "v"
+    ],
+    "v1": "remind",
+    "v2": "reminded",
+    "v3": "reminded",
+    "v4": "reminding",
+    "v5": "reminds"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "popular",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "popular",
+    "adj2": "more popular",
+    "adj3": "most popular"
+}

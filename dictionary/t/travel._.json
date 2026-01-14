@@ -1,0 +1,11 @@
+{
+    "base": "travel",
+    "classes": [
+        "v"
+    ],
+    "v1": "travel",
+    "v2": "traveled/travelled",
+    "v3": "traveled/travelled",
+    "v4": "traveling/travelling",
+    "v5": "travels/travels"
+}

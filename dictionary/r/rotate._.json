@@ -1,0 +1,11 @@
+{
+    "base": "rotate",
+    "classes": [
+        "v"
+    ],
+    "v1": "rotate",
+    "v2": "rotated",
+    "v3": "rotated",
+    "v4": "rotating",
+    "v5": "rotates"
+}

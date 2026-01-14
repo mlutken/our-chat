@@ -1,0 +1,11 @@
+{
+    "base": "retire",
+    "classes": [
+        "v"
+    ],
+    "v1": "retire",
+    "v2": "retired",
+    "v3": "retired",
+    "v4": "retiring",
+    "v5": "retires"
+}

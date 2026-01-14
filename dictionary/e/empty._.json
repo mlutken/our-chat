@@ -1,0 +1,15 @@
+{
+    "base": "empty",
+    "classes": [
+        "adj",
+        "v"
+    ],
+    "adj1": "empty",
+    "adj2": "emptier",
+    "adj3": "emptiest",
+    "v1": "empty",
+    "v2": "emptied",
+    "v3": "emptied",
+    "v4": "emptying",
+    "v5": "empties"
+}

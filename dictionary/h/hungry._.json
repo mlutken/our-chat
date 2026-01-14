@@ -1,0 +1,9 @@
+{
+    "base": "hungry",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "hungry",
+    "adj2": "hungrier",
+    "adj3": "hungriest"
+}

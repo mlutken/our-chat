@@ -1,0 +1,11 @@
+{
+    "base": "play",
+    "classes": [
+        "v"
+    ],
+    "v1": "play",
+    "v2": "played",
+    "v3": "played",
+    "v4": "playing",
+    "v5": "plays"
+}

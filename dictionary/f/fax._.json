@@ -1,0 +1,11 @@
+{
+    "base": "fax",
+    "classes": [
+        "v"
+    ],
+    "v1": "fax",
+    "v2": "faxed",
+    "v3": "faxed",
+    "v4": "faxing",
+    "v5": "faxes"
+}

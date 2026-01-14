@@ -1,0 +1,9 @@
+{
+    "base": "weak",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "weak",
+    "adj2": "weaker",
+    "adj3": "weakest"
+}

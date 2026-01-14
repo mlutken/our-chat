@@ -1,0 +1,9 @@
+{
+    "base": "snowy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "snowy",
+    "adj2": "snowier",
+    "adj3": "snowiest"
+}

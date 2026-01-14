@@ -1,0 +1,122 @@
+[
+    {
+        "base": "tomorrow",
+        "classes": ["adv"],
+        "f0": "tomorrow",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "tonight",
+        "classes": ["adv"],
+        "f0": "tonight",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "yesterday",
+        "classes": ["adv"],
+        "f0": "yesterday",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "now",
+        "classes": ["adv"],
+        "f0": "now",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "then",
+        "classes": ["adv"],
+        "f0": "then",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "today",
+        "classes": ["adv"],
+        "f0": "today",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "already",
+        "classes": ["adv"],
+        "f0": "already",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "daily",
+        "classes": ["adv"],
+        "f0": "daily",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "last",
+        "classes": ["adv"],
+        "f0": "last",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "next",
+        "classes": ["adv"],
+        "f0": "next",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "previously",
+        "classes": ["adv"],
+        "f0": "previously",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "after",
+        "classes": ["adv"],
+        "f0": "after",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "afterwards",
+        "classes": ["adv"],
+        "f0": "afterwards",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "early",
+        "classes": ["adv"],
+        "f0": "early",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "late",
+        "classes": ["adv"],
+        "f0": "late",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "later",
+        "classes": ["adv"],
+        "f0": "later",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "since",
+        "classes": ["adv"],
+        "f0": "since",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "still",
+        "classes": ["adv"],
+        "f0": "still",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "just",
+        "classes": ["adv"],
+        "f0": "just",
+        "adv_subtype": "time"
+    },
+    {
+        "base": "seldom",
+        "classes": ["adv"],
+        "f0": "seldom",
+        "adv_subtype": "time"
+    }
+]

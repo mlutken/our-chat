@@ -1,0 +1,11 @@
+{
+    "base": "license",
+    "classes": [
+        "v"
+    ],
+    "v1": "license",
+    "v2": "licensed/licenced",
+    "v3": "licensed/licenced",
+    "v4": "licensing/licencing",
+    "v5": "licenses/licences"
+}

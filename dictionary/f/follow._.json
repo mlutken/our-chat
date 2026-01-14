@@ -1,0 +1,11 @@
+{
+    "base": "follow",
+    "classes": [
+        "v"
+    ],
+    "v1": "follow",
+    "v2": "followed",
+    "v3": "followed",
+    "v4": "following",
+    "v5": "follows"
+}

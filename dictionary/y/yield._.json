@@ -1,0 +1,11 @@
+{
+    "base": "yield",
+    "classes": [
+        "v"
+    ],
+    "v1": "yield",
+    "v2": "yielded",
+    "v3": "yielded",
+    "v4": "yielding",
+    "v5": "yields"
+}

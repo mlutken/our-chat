@@ -1,0 +1,11 @@
+{
+    "base": "brake",
+    "classes": [
+        "v"
+    ],
+    "v1": "brake",
+    "v2": "braked",
+    "v3": "braked",
+    "v4": "braking",
+    "v5": "brakes"
+}

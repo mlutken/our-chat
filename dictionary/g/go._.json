@@ -1,0 +1,11 @@
+{
+    "base": "go",
+    "classes": [
+        "v"
+    ],
+    "v1": "go",
+    "v2": "went",
+    "v3": "gone",
+    "v4": "going",
+    "v5": "goes"
+}

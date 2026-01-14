@@ -1,0 +1,15 @@
+{
+    "base": "fit",
+    "classes": [
+        "adj",
+        "v"
+    ],
+    "adj1": "fit",
+    "adj2": "fitter",
+    "adj3": "fittest",
+    "v1": "fit",
+    "v2": "fitted",
+    "v3": "fitted",
+    "v4": "fitting",
+    "v5": "fits"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "close",
+    "classes": [
+        "adj",
+        "adv",
+        "v"
+    ],
+    "adj1": "close",
+    "adj2": "closer",
+    "adj3": "closest",
+    "f0": "close",
+    "adv_subtype": "place",
+    "v1": "close",
+    "v2": "closed",
+    "v3": "closed",
+    "v4": "closing",
+    "v5": "closes"
+}

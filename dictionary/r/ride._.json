@@ -1,0 +1,11 @@
+{
+    "base": "ride",
+    "classes": [
+        "v"
+    ],
+    "v1": "ride",
+    "v2": "rode",
+    "v3": "ridden",
+    "v4": "riding",
+    "v5": "rides"
+}

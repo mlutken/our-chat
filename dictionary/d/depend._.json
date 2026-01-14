@@ -1,0 +1,11 @@
+{
+    "base": "depend",
+    "classes": [
+        "v"
+    ],
+    "v1": "depend",
+    "v2": "depended",
+    "v3": "depended",
+    "v4": "depending",
+    "v5": "depends"
+}

@@ -1,0 +1,12 @@
+{
+    "base": "far",
+    "classes": [
+        "adj",
+        "adv"
+    ],
+    "adj1": "far",
+    "adj2": "further",
+    "adj3": "furthest",
+    "f0": "far",
+    "adv_subtype": "degree"
+}

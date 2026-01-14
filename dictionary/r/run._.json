@@ -1,0 +1,17 @@
+{
+    "base": "run",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "run",
+    "n2": "runs",
+    "n3": "the run",
+    "n4": "the runs",
+    "n5": "run's",
+    "v1": "run",
+    "v2": "ran",
+    "v3": "run",
+    "v4": "running",
+    "v5": "runs"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "lively",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "lively",
+    "adj2": "livelier",
+    "adj3": "liveliest"
+}

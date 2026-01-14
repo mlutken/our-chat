@@ -1,0 +1,11 @@
+{
+    "base": "flood",
+    "classes": [
+        "v"
+    ],
+    "v1": "flood",
+    "v2": "flooded",
+    "v3": "flooded",
+    "v4": "flooding",
+    "v5": "floods"
+}

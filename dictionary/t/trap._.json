@@ -1,0 +1,11 @@
+{
+    "base": "trap",
+    "classes": [
+        "v"
+    ],
+    "v1": "trap",
+    "v2": "trapped",
+    "v3": "trapped",
+    "v4": "trapping",
+    "v5": "traps"
+}

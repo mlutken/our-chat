@@ -1,0 +1,11 @@
+{
+    "base": "shoot",
+    "classes": [
+        "v"
+    ],
+    "v1": "shoot",
+    "v2": "shot",
+    "v3": "shot",
+    "v4": "shooting",
+    "v5": "shoots"
+}

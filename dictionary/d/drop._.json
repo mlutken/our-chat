@@ -1,0 +1,11 @@
+{
+    "base": "drop",
+    "classes": [
+        "v"
+    ],
+    "v1": "drop",
+    "v2": "dropped",
+    "v3": "dropped",
+    "v4": "dropping",
+    "v5": "drops"
+}

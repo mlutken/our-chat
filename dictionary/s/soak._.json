@@ -1,0 +1,11 @@
+{
+    "base": "soak",
+    "classes": [
+        "v"
+    ],
+    "v1": "soak",
+    "v2": "soaked",
+    "v3": "soaked",
+    "v4": "soaking",
+    "v5": "soaks"
+}

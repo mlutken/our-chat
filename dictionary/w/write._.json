@@ -1,0 +1,11 @@
+{
+    "base": "write",
+    "classes": [
+        "v"
+    ],
+    "v1": "write",
+    "v2": "wrote",
+    "v3": "written",
+    "v4": "writing",
+    "v5": "writes"
+}

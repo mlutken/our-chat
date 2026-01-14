@@ -1,0 +1,9 @@
+{
+    "base": "stupid",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "stupid",
+    "adj2": "more stupid",
+    "adj3": "most stupid"
+}

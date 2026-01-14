@@ -1,0 +1,9 @@
+{
+    "base": "rare",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "rare",
+    "adj2": "rarer",
+    "adj3": "rarest"
+}

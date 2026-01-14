@@ -1,0 +1,11 @@
+{
+    "base": "claim",
+    "classes": [
+        "v"
+    ],
+    "v1": "claim",
+    "v2": "claimed",
+    "v3": "claimed",
+    "v4": "claiming",
+    "v5": "claims"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "thaw",
+    "classes": [
+        "v"
+    ],
+    "v1": "thaw",
+    "v2": "thawed",
+    "v3": "thawed",
+    "v4": "thawing",
+    "v5": "thaws"
+}

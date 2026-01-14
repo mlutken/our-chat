@@ -1,0 +1,11 @@
+{
+    "base": "shout",
+    "classes": [
+        "v"
+    ],
+    "v1": "shout",
+    "v2": "shouted",
+    "v3": "shouted",
+    "v4": "shouting",
+    "v5": "shouts"
+}

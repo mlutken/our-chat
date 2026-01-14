@@ -1,0 +1,11 @@
+{
+    "base": "collect",
+    "classes": [
+        "v"
+    ],
+    "v1": "collect",
+    "v2": "collected",
+    "v3": "collected",
+    "v4": "collecting",
+    "v5": "collects"
+}

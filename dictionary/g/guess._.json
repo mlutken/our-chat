@@ -1,0 +1,11 @@
+{
+    "base": "guess",
+    "classes": [
+        "v"
+    ],
+    "v1": "guess",
+    "v2": "guessed",
+    "v3": "guessed",
+    "v4": "guessing",
+    "v5": "guesses"
+}

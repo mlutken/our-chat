@@ -1,0 +1,11 @@
+{
+    "base": "select",
+    "classes": [
+        "v"
+    ],
+    "v1": "select",
+    "v2": "selected",
+    "v3": "selected",
+    "v4": "selecting",
+    "v5": "selects"
+}

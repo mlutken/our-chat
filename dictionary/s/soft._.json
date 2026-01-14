@@ -1,0 +1,9 @@
+{
+    "base": "soft",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "soft",
+    "adj2": "softer",
+    "adj3": "softest"
+}

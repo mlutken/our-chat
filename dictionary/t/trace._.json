@@ -1,0 +1,11 @@
+{
+    "base": "trace",
+    "classes": [
+        "v"
+    ],
+    "v1": "trace",
+    "v2": "traced",
+    "v3": "traced",
+    "v4": "tracing",
+    "v5": "traces"
+}

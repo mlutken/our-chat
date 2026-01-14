@@ -1,0 +1,11 @@
+{
+    "base": "shave",
+    "classes": [
+        "v"
+    ],
+    "v1": "shave",
+    "v2": "shaved",
+    "v3": "shaved",
+    "v4": "shaving",
+    "v5": "shaves"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "lock",
+    "classes": [
+        "v"
+    ],
+    "v1": "lock",
+    "v2": "locked",
+    "v3": "locked",
+    "v4": "locking",
+    "v5": "locks"
+}

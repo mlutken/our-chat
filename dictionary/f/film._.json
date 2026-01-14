@@ -1,0 +1,18 @@
+{
+    "base": "film",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "film",
+    "n2": "films",
+    "n3": "the film",
+    "n4": "the films",
+    "n5": "film's",
+    "v1": "film",
+    "v2": "filmed",
+    "v3": "filmed",
+    "v4": "filming",
+    "v5": "films"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "prefer",
+    "classes": [
+        "v"
+    ],
+    "v1": "prefer",
+    "v2": "preferred",
+    "v3": "preferred",
+    "v4": "preferring",
+    "v5": "prefers"
+}

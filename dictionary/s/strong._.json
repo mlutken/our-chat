@@ -1,0 +1,9 @@
+{
+    "base": "strong",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "strong",
+    "adj2": "stronger",
+    "adj3": "strongest"
+}

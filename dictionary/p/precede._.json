@@ -1,0 +1,11 @@
+{
+    "base": "precede",
+    "classes": [
+        "v"
+    ],
+    "v1": "precede",
+    "v2": "preceded",
+    "v3": "preceded",
+    "v4": "preceding",
+    "v5": "precedes"
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "word": "walk",
+        "classes": ["n", "v"],
+        "type": 0,
+        "form": 0
+    },
+    {
+        "word": "walks",
+        "classes": ["n", "v"],
+        "type": 0,
+        "form": 0
+    },
+    {
+        "word": "the walk",
+        "classes": ["n"],
+        "type": 1,
+        "form": 3
+    },
+    {
+        "word": "the walks",
+        "classes": ["n"],
+        "type": 1,
+        "form": 4
+    },
+    {
+        "word": "a walk",
+        "classes": ["n"],
+        "type": 1,
+        "form": 5
+    },
+    {
+        "word": "walked",
+        "classes": ["v"],
+        "type": 2,
+        "form": 0
+    },
+    {
+        "word": "walking",
+        "classes": ["v"],
+        "type": 2,
+        "form": 5
+    }
+]

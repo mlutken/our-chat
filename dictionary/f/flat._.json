@@ -1,0 +1,9 @@
+{
+    "base": "flat",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "flat",
+    "adj2": "flatter",
+    "adj3": "flattest"
+}

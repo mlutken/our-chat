@@ -1,0 +1,11 @@
+{
+    "base": "possess",
+    "classes": [
+        "v"
+    ],
+    "v1": "possess",
+    "v2": "possessed",
+    "v3": "possessed",
+    "v4": "possessing",
+    "v5": "possesses"
+}

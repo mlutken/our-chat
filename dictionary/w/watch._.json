@@ -1,0 +1,11 @@
+{
+    "base": "watch",
+    "classes": [
+        "v"
+    ],
+    "v1": "watch",
+    "v2": "watched",
+    "v3": "watched",
+    "v4": "watching",
+    "v5": "watches"
+}

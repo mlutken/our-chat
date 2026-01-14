@@ -1,0 +1,11 @@
+{
+    "base": "allow",
+    "classes": [
+        "v"
+    ],
+    "v1": "allow",
+    "v2": "allowed",
+    "v3": "allowed",
+    "v4": "allowing",
+    "v5": "allows"
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "base": "accordingly",
+        "classes": ["adv"],
+        "f0": "accordingly",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "additionally",
+        "classes": ["adv"],
+        "f0": "additionally",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "also",
+        "classes": ["adv"],
+        "f0": "also",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "anyway",
+        "classes": ["adv"],
+        "f0": "anyway",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "besides",
+        "classes": ["adv"],
+        "f0": "besides",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "certainly",
+        "classes": ["adv"],
+        "f0": "certainly",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "conversely",
+        "classes": ["adv"],
+        "f0": "conversely",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "finally",
+        "classes": ["adv"],
+        "f0": "finally",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "hence",
+        "classes": ["adv"],
+        "f0": "hence",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "however",
+        "classes": ["adv"],
+        "f0": "however",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "instead",
+        "classes": ["adv"],
+        "f0": "instead",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "in conclusion",
+        "classes": ["adv"],
+        "f0": "in conclusion",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "lately",
+        "classes": ["adv"],
+        "f0": "lately",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "likewise",
+        "classes": ["adv"],
+        "f0": "likewise",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "moreover",
+        "classes": ["adv"],
+        "f0": "moreover",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "namely",
+        "classes": ["adv"],
+        "f0": "namely",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "nevertheless",
+        "classes": ["adv"],
+        "f0": "nevertheless",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "so",
+        "classes": ["adv"],
+        "f0": "so",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "then",
+        "classes": ["adv"],
+        "f0": "then",
+        "adv_subtype": "conjunctive"
+    },
+    {
+        "base": "yet",
+        "classes": ["adv"],
+        "f0": "yet",
+        "adv_subtype": "conjunctive"
+    }
+]

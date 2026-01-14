@@ -1,0 +1,11 @@
+{
+    "base": "fly",
+    "classes": [
+        "v"
+    ],
+    "v1": "fly",
+    "v2": "flew",
+    "v3": "flown",
+    "v4": "flying",
+    "v5": "flies"
+}

@@ -1,0 +1,9 @@
+{
+    "base": "ripe",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "ripe",
+    "adj2": "riper",
+    "adj3": "ripest"
+}

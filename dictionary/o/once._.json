@@ -1,0 +1,8 @@
+{
+    "base": "once",
+    "classes": [
+        "adv"
+    ],
+    "f0": "once",
+    "adv_subtype": "frequency"
+}

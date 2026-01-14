@@ -1,0 +1,11 @@
+{
+    "base": "kill",
+    "classes": [
+        "v"
+    ],
+    "v1": "kill",
+    "v2": "killed",
+    "v3": "killed",
+    "v4": "killing",
+    "v5": "kills"
+}

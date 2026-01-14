@@ -1,0 +1,11 @@
+{
+    "base": "trip",
+    "classes": [
+        "v"
+    ],
+    "v1": "trip",
+    "v2": "tripped",
+    "v3": "tripped",
+    "v4": "tripping",
+    "v5": "trips"
+}

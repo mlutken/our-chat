@@ -1,0 +1,9 @@
+{
+    "base": "likely",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "likely",
+    "adj2": "likelier",
+    "adj3": "likeliest"
+}

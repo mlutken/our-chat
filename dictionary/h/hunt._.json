@@ -1,0 +1,11 @@
+{
+    "base": "hunt",
+    "classes": [
+        "v"
+    ],
+    "v1": "hunt",
+    "v2": "hunted",
+    "v3": "hunted",
+    "v4": "hunting",
+    "v5": "hunts"
+}

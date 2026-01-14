@@ -1,0 +1,11 @@
+{
+    "base": "restore",
+    "classes": [
+        "v"
+    ],
+    "v1": "restore",
+    "v2": "restored",
+    "v3": "restored",
+    "v4": "restoring",
+    "v5": "restores"
+}

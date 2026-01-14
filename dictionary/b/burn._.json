@@ -1,0 +1,11 @@
+{
+    "base": "burn",
+    "classes": [
+        "v"
+    ],
+    "v1": "burn",
+    "v2": "burned/burnt",
+    "v3": "burned/burnt",
+    "v4": "burning",
+    "v5": "burns"
+}

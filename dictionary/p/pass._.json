@@ -1,0 +1,11 @@
+{
+    "base": "pass",
+    "classes": [
+        "v"
+    ],
+    "v1": "pass",
+    "v2": "passed",
+    "v3": "passed",
+    "v4": "passing",
+    "v5": "passes"
+}

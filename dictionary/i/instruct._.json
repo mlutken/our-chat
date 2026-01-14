@@ -1,0 +1,11 @@
+{
+    "base": "instruct",
+    "classes": [
+        "v"
+    ],
+    "v1": "instruct",
+    "v2": "instructed",
+    "v3": "instructed",
+    "v4": "instructing",
+    "v5": "instructs"
+}

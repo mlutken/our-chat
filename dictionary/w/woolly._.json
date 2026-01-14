@@ -1,0 +1,9 @@
+{
+    "base": "woolly",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "woolly",
+    "adj2": "woollier",
+    "adj3": "woolliest"
+}

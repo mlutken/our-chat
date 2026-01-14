@@ -1,0 +1,11 @@
+{
+    "base": "dust",
+    "classes": [
+        "v"
+    ],
+    "v1": "dust",
+    "v2": "dusted",
+    "v3": "dusted",
+    "v4": "dusting",
+    "v5": "dusts"
+}

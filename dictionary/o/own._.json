@@ -1,0 +1,11 @@
+{
+    "base": "own",
+    "classes": [
+        "v"
+    ],
+    "v1": "own",
+    "v2": "owned",
+    "v3": "owned",
+    "v4": "owning",
+    "v5": "owns"
+}

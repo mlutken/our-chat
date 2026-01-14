@@ -1,0 +1,11 @@
+{
+    "base": "battle",
+    "classes": [
+        "v"
+    ],
+    "v1": "battle",
+    "v2": "battled",
+    "v3": "battled",
+    "v4": "battling",
+    "v5": "battles"
+}

@@ -1,0 +1,22 @@
+{
+    "base": "light",
+    "classes": [
+        "n",
+        "adj",
+        "v"
+    ],
+    "n0": "",
+    "n1": "light",
+    "n2": "lights",
+    "n3": "the light",
+    "n4": "the lights",
+    "n5": "light's",
+    "adj1": "light",
+    "adj2": "lighter",
+    "adj3": "lightest",
+    "v1": "light",
+    "v2": "lighted/lit",
+    "v3": "lighted/lit",
+    "v4": "lighting",
+    "v5": "lights"
+}

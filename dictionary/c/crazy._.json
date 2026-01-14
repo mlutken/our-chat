@@ -1,0 +1,9 @@
+{
+    "base": "crazy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "crazy",
+    "adj2": "crazier",
+    "adj3": "craziest"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "cough",
+    "classes": [
+        "v"
+    ],
+    "v1": "cough",
+    "v2": "coughed",
+    "v3": "coughed",
+    "v4": "coughing",
+    "v5": "coughs"
+}

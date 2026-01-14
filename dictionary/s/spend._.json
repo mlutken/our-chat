@@ -1,0 +1,11 @@
+{
+    "base": "spend",
+    "classes": [
+        "v"
+    ],
+    "v1": "spend",
+    "v2": "spent",
+    "v3": "spent",
+    "v4": "spending",
+    "v5": "spends"
+}

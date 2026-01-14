@@ -1,0 +1,363 @@
+[
+    {
+        "base": "become",
+        "classes": ["v"],
+        "v1": "become",
+        "v2": "became",
+        "v3": "become",
+        "v4": "becoming",
+        "v5": "becomes"
+    },
+    {
+        "base": "begin",
+        "classes": ["v"],
+        "v1": "begin",
+        "v2": "began",
+        "v3": "begun",
+        "v4": "beginning",
+        "v5": "begins"
+    },
+    {
+        "base": "break",
+        "classes": ["v"],
+        "v1": "break",
+        "v2": "broke",
+        "v3": "broken",
+        "v4": "breaking",
+        "v5": "breaks"
+    },
+    {
+        "base": "bring",
+        "classes": ["v"],
+        "v1": "bring",
+        "v2": "brought",
+        "v3": "brought",
+        "v4": "bringing",
+        "v5": "brings"
+    },
+    {
+        "base": "buy",
+        "classes": ["v"],
+        "v1": "buy",
+        "v2": "bought",
+        "v3": "bought",
+        "v4": "buying",
+        "v5": "buys"
+    },
+    {
+        "base": "catch",
+        "classes": ["v"],
+        "v1": "catch",
+        "v2": "caught",
+        "v3": "caught",
+        "v4": "catching",
+        "v5": "catches"
+    },
+    {
+        "base": "choose",
+        "classes": ["v"],
+        "v1": "choose",
+        "v2": "chose",
+        "v3": "chosen",
+        "v4": "choosing",
+        "v5": "chooses"
+    },
+    {
+        "base": "come",
+        "classes": ["v"],
+        "v1": "come",
+        "v2": "came",
+        "v3": "come",
+        "v4": "coming",
+        "v5": "comes"
+    },
+    {
+        "base": "do",
+        "classes": ["v"],
+        "v1": "do",
+        "v2": "did",
+        "v3": "done",
+        "v4": "doing",
+        "v5": "does"
+    },
+    {
+        "base": "drink",
+        "classes": ["v"],
+        "v1": "drink",
+        "v2": "drank",
+        "v3": "drunk",
+        "v4": "drinking",
+        "v5": "drinks"
+    },
+    {
+        "base": "drive",
+        "classes": ["v"],
+        "v1": "drive",
+        "v2": "drove",
+        "v3": "driven",
+        "v4": "driving",
+        "v5": "drives"
+    },
+    {
+        "base": "eat",
+        "classes": ["v"],
+        "v1": "eat",
+        "v2": "ate",
+        "v3": "eaten",
+        "v4": "eating",
+        "v5": "eats"
+    },
+    {
+        "base": "fall",
+        "classes": ["v"],
+        "v1": "fall",
+        "v2": "fell",
+        "v3": "fallen",
+        "v4": "falling",
+        "v5": "falls"
+    },
+    {
+        "base": "feel",
+        "classes": ["v"],
+        "v1": "feel",
+        "v2": "felt",
+        "v3": "felt",
+        "v4": "feeling",
+        "v5": "feels"
+    },
+    {
+        "base": "find",
+        "classes": ["v"],
+        "v1": "find",
+        "v2": "found",
+        "v3": "found",
+        "v4": "finding",
+        "v5": "finds"
+    },
+    {
+        "base": "fly",
+        "classes": ["v"],
+        "v1": "fly",
+        "v2": "flew",
+        "v3": "flown",
+        "v4": "flying",
+        "v5": "flies"
+    },
+    {
+        "base": "forget",
+        "classes": ["v"],
+        "v1": "forget",
+        "v2": "forgot",
+        "v3": "forgotten",
+        "v4": "forgetting",
+        "v5": "forgets"
+    },
+    {
+        "base": "give",
+        "classes": ["v"],
+        "v1": "give",
+        "v2": "gave",
+        "v3": "given",
+        "v4": "giving",
+        "v5": "gives"
+    },
+    {
+        "base": "go",
+        "classes": ["v"],
+        "v1": "go",
+        "v2": "went",
+        "v3": "gone",
+        "v4": "going",
+        "v5": "goes"
+    },
+    {
+        "base": "have",
+        "classes": ["v"],
+        "v1": "have",
+        "v2": "had",
+        "v3": "had",
+        "v4": "having",
+        "v5": "has"
+    },
+    {
+        "base": "hear",
+        "classes": ["v"],
+        "v1": "hear",
+        "v2": "heard",
+        "v3": "heard",
+        "v4": "hearing",
+        "v5": "hears"
+    },
+    {
+        "base": "keep",
+        "classes": ["v"],
+        "v1": "keep",
+        "v2": "kept",
+        "v3": "kept",
+        "v4": "keeping",
+        "v5": "keeps"
+    },
+    {
+        "base": "know",
+        "classes": ["v"],
+        "v1": "know",
+        "v2": "knew",
+        "v3": "known",
+        "v4": "knowing",
+        "v5": "knows"
+    },
+    {
+        "base": "leave",
+        "classes": ["v"],
+        "v1": "leave",
+        "v2": "left",
+        "v3": "left",
+        "v4": "leaving",
+        "v5": "leaves"
+    },
+    {
+        "base": "make",
+        "classes": ["v"],
+        "v1": "make",
+        "v2": "made",
+        "v3": "made",
+        "v4": "making",
+        "v5": "makes"
+    },
+    {
+        "base": "meet",
+        "classes": ["v"],
+        "v1": "meet",
+        "v2": "met",
+        "v3": "met",
+        "v4": "meeting",
+        "v5": "meets"
+    },
+    {
+        "base": "pay",
+        "classes": ["v"],
+        "v1": "pay",
+        "v2": "paid",
+        "v3": "paid",
+        "v4": "paying",
+        "v5": "pays"
+    },
+    {
+        "base": "read",
+        "classes": ["v"],
+        "v1": "read",
+        "v2": "read",
+        "v3": "read",
+        "v4": "reading",
+        "v5": "reads"
+    },
+    {
+        "base": "run",
+        "classes": ["v"],
+        "v1": "run",
+        "v2": "ran",
+        "v3": "run",
+        "v4": "running",
+        "v5": "runs"
+    },
+    {
+        "base": "say",
+        "classes": ["v"],
+        "v1": "say",
+        "v2": "said",
+        "v3": "said",
+        "v4": "saying",
+        "v5": "says"
+    },
+    {
+        "base": "see",
+        "classes": ["v"],
+        "v1": "see",
+        "v2": "saw",
+        "v3": "seen",
+        "v4": "seeing",
+        "v5": "sees"
+    },
+    {
+        "base": "sell",
+        "classes": ["v"],
+        "v1": "sell",
+        "v2": "sold",
+        "v3": "sold",
+        "v4": "selling",
+        "v5": "sells"
+    },
+    {
+        "base": "send",
+        "classes": ["v"],
+        "v1": "send",
+        "v2": "sent",
+        "v3": "sent",
+        "v4": "sending",
+        "v5": "sends"
+    },
+    {
+        "base": "speak",
+        "classes": ["v"],
+        "v1": "speak",
+        "v2": "spoke",
+        "v3": "spoken",
+        "v4": "speaking",
+        "v5": "speaks"
+    },
+    {
+        "base": "swim",
+        "classes": ["v"],
+        "v1": "swim",
+        "v2": "swam",
+        "v3": "swum",
+        "v4": "swimming",
+        "v5": "swims"
+    },
+    {
+        "base": "take",
+        "classes": ["v"],
+        "v1": "take",
+        "v2": "took",
+        "v3": "taken",
+        "v4": "taking",
+        "v5": "takes"
+    },
+    {
+        "base": "teach",
+        "classes": ["v"],
+        "v1": "teach",
+        "v2": "taught",
+        "v3": "taught",
+        "v4": "teaching",
+        "v5": "teaches"
+    },
+    {
+        "base": "tell",
+        "classes": ["v"],
+        "v1": "tell",
+        "v2": "told",
+        "v3": "told",
+        "v4": "telling",
+        "v5": "tells"
+    },
+    {
+        "base": "think",
+        "classes": ["v"],
+        "v1": "think",
+        "v2": "thought",
+        "v3": "thought",
+        "v4": "thinking",
+        "v5": "thinks"
+    },
+    {
+        "base": "write",
+        "classes": ["v"],
+        "v1": "write",
+        "v2": "wrote",
+        "v3": "written",
+        "v4": "writing",
+        "v5": "writes"
+    }
+]
+

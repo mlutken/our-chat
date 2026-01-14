@@ -1,0 +1,9 @@
+{
+    "base": "gloomy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "gloomy",
+    "adj2": "gloomier",
+    "adj3": "gloomiest"
+}

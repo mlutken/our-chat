@@ -1,0 +1,11 @@
+{
+    "base": "drive",
+    "classes": [
+        "v"
+    ],
+    "v1": "drive",
+    "v2": "drove",
+    "v3": "driven",
+    "v4": "driving",
+    "v5": "drives"
+}

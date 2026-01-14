@@ -1,0 +1,11 @@
+{
+    "base": "reply",
+    "classes": [
+        "v"
+    ],
+    "v1": "reply",
+    "v2": "replied",
+    "v3": "replied",
+    "v4": "replying",
+    "v5": "replies"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "join",
+    "classes": [
+        "v"
+    ],
+    "v1": "join",
+    "v2": "joined",
+    "v3": "joined",
+    "v4": "joining",
+    "v5": "joins"
+}

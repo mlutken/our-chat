@@ -1,0 +1,9 @@
+{
+    "base": "busy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "busy",
+    "adj2": "busier",
+    "adj3": "busiest"
+}

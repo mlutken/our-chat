@@ -1,0 +1,11 @@
+{
+    "base": "tick",
+    "classes": [
+        "v"
+    ],
+    "v1": "tick",
+    "v2": "ticked",
+    "v3": "ticked",
+    "v4": "ticking",
+    "v5": "ticks"
+}

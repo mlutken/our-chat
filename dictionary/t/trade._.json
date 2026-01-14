@@ -1,0 +1,18 @@
+{
+    "base": "trade",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n0": "",
+    "n1": "trade",
+    "n2": "trades",
+    "n3": "the trade",
+    "n4": "the trades",
+    "n5": "trade's",
+    "v1": "trade",
+    "v2": "traded",
+    "v3": "traded",
+    "v4": "trading",
+    "v5": "trades"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "expect",
+    "classes": [
+        "v"
+    ],
+    "v1": "expect",
+    "v2": "expected",
+    "v3": "expected",
+    "v4": "expecting",
+    "v5": "expects"
+}

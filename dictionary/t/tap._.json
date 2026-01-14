@@ -1,0 +1,11 @@
+{
+    "base": "tap",
+    "classes": [
+        "v"
+    ],
+    "v1": "tap",
+    "v2": "tapped",
+    "v3": "tapped",
+    "v4": "tapping",
+    "v5": "taps"
+}

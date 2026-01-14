@@ -1,0 +1,9 @@
+{
+    "base": "short-lived",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "short-lived",
+    "adj2": "more short-lived",
+    "adj3": "most short-lived"
+}

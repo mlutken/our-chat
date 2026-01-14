@@ -1,0 +1,9 @@
+{
+    "base": "noisy",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "noisy",
+    "adj2": "noisier",
+    "adj3": "noisiest"
+}
