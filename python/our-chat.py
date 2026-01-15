@@ -204,7 +204,11 @@ if args.run_mode == "chat":
 
     user_input = input("Enter a sentence to chat ('q' to quit)> ")
     while user_input != "q":
+        response = model.generateResponseSimple(device, user_input)
+        print(f"Bot: {response}\n")
         user_input = input("> ")
+
+    print(f"Bot: Goodbye :)\n")
     exit(0)
 
 
