@@ -87,7 +87,8 @@ def binaryTensorToDecimal(binary_tensor):
 
     # # TODO: This is some rounding errors or similar I have yet to understand why happens.
     # # Does not work when num_bits > 54. Need to figure out what goes wrong with MSB (most significant bit)
-    # # THis method should really be faster than the above loop, but it's converting wrongly when num_bits > 54
+    # # This method should really be faster than the above loop, but it's converting wrongly when num_bits > 54
+    ### (at least on my cuda device. Perhaps not in cpu. I do not remember at the time of adding this extra comment.)
     # # like for example:
     # # -1 (-> to binary) (-> to decimal) = 0
     # # -255 (-> to binary) (-> to decimal) = -256

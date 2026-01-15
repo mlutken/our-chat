@@ -2,6 +2,8 @@ import torch
 import terminedia as TM
 from nnutils import *
 
+# NOTE: Work in progress. Not used currently. The training code in nnutils is used.
+
 class BaseTrainer():
     def __init__(self, model, train_loader, val_loader, optimizer, device):
 

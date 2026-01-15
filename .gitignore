@@ -208,4 +208,5 @@ __marimo__/
 
 # our-chat specific
 *.pth
+.idea/
 

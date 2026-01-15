@@ -15,6 +15,19 @@ from nnutils import *
 from model_trainer import *
 from system_globals import *
 from dictionary_tokenizer import *
+import pathlib
+
+global g_repo_root_path
+global g_python_code_path
+g_repo_root_path        = pathlib.Path(__file__).parent.parent.resolve()
+g_python_code_path      = pathlib.Path(__file__).parent.resolve()
+g_dictionary_path       = g_repo_root_path / "dictionary"
+g_training_data_path    = g_repo_root_path / "training_data"
+
+print (f"g_repo_root_path       : {g_repo_root_path}")
+print (f"g_python_code_path     : {g_python_code_path}")
+print (f"g_dictionary_path      : {g_dictionary_path}")
+print (f"g_training_data_path   : {g_training_data_path}")
 
 # Load save model: https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html
 # time python our-chat.py --epochs 7 --batch_size 12 --load_model 1 --save_model 1 --start_context "What is 12 + 4?" --train_uri ../training_data/math-training-simple-1.txt
@@ -88,7 +101,7 @@ parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, defa
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--model_path", help="Model save/load file name", nargs='?', type=str, default="_model.pth")
-parser.add_argument("--run_mode", help="Run mode: foundation-train, re-enforcement-train, chatbot-run", nargs='?', type=str, default="foundation-train")
+parser.add_argument("--run_mode", help="Run mode: foundation-train, re-enforcement-train, chat", nargs='?', type=str, default="foundation-train")
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="What is 15 + 5?")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
@@ -125,6 +138,7 @@ default_start_context = args.start_context
 
 print("Default device           : ", g_device)
 print("device                   : ", device)
+print("run_mode                 : ", args.run_mode)
 print("num_epochs               : ", args.epochs)
 print("plot                     : ", args.plot)
 print("batch_size               : ", args.batch_size)
@@ -184,6 +198,15 @@ if args.load_model:
 
 model.to(device)
 model.eval()
+
+if args.run_mode == "chat":
+    print("Running chat mode")
+
+    user_input = input("Enter a sentence to chat ('q' to quit)> ")
+    while user_input != "q":
+        user_input = input("> ")
+    exit(0)
+
 
 print(f"--- Test model before training: device: {device} ---")
 # generate_and_print_sample(model, device, default_start_context)

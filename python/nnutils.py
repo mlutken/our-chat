@@ -490,13 +490,16 @@ class GPTModel(nn.Module):
             idx = torch.cat((idx, idx_next), dim=1)
         return idx
 
-    def generateTextSimple(self, idx, max_new_tokens, context_size):
+    def generateTextSimple(self, idx, max_new_tokens):
         for _ in range(max_new_tokens):
-            idx = self.generateNextTokenSimple(idx, context_size)
+            idx = self.generateNextTokenSimple(idx)
+            if idx[0][-1] == END_TOKEN_ID:
+                break
         return idx
 
     ## NUMBER_PARSING_FIXME
-    def generateNextTokenSimple(self, idx, context_size):
+    def generateNextTokenSimple(self, idx):
+        context_size = self.CFG["context_length"]
         curDevice = idx.device
 
         idx_cond = idx[:, -context_size:]
@@ -553,18 +556,19 @@ class GPTModel(nn.Module):
         # saveTensorToFile("/tmp/_probas", probas)    # FIXMENM
         return idx
 
-    def generateAndPrintSample(self, device, start_context):
+    def generateResponseSimple(self, device, start_context):
         self.eval()
-        context_size = self.CFG["context_length"]
         encoded = self.textToTokenIds(start_context).to(device)
         with torch.no_grad():
-            token_ids = self.generateTextSimple(
-                idx=encoded,
-                max_new_tokens=50, context_size=context_size
-            )
+            token_ids = self.generateTextSimple( idx=encoded, max_new_tokens=50)
         decoded_text = self.tokenIdsToText(token_ids)
-        print(decoded_text.replace("\n", " "))  # FIXME at some point !!!
+        decoded_text = decoded_text.replace("\n", " ")  # FIXME at some point !!!
         self.train()
+        return decoded_text
+
+    def generateAndPrintSample(self, device, start_context):
+        decoded_text = self.generateResponseSimple(device, start_context)
+        print(f"R: {decoded_text}")  # FIXME at some point !!!
 
     ## NUMBER_PARSING_FIXME
     def textToTokenIds(self, text):
