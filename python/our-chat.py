@@ -46,6 +46,7 @@ print (f"g_training_data_path   : {g_training_data_path}")
 #
 # time python our-chat.py --epochs 2 --batch_size 12 --records_to_process 17 --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2025-26 --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1 --print_initial_loss 1
 # time python our-chat.py --epochs 2 --batch_size 12 --records_to_process -1 --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri ../training_data/math-training-simple-2.txt --dataset_name CC-MAIN-2025-26 --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1 --print_initial_loss 1
+# python our-chat.py --run_mode chat-simple
 
 
 # Crash in PositionalEncoding: 'hf:HuggingFaceFW/finewiki'
@@ -86,7 +87,9 @@ def print_usage_examples(exe_name):
     print(f"--- Example 1: ---\npython {exe_name} --epochs 10 --batch_size 12 --start_context 'What is 21 + 15?' --load_model 1 --save_model 1 --train_uri ../training_data/math-training-simple-2.txt --validation_uri ../training_data/math-validation-simple-1.txt --device cuda --model_path pass0_dropOutAll2.pth\n")
     print(f"--- Example 2: ---\npython {exe_name} --epochs 10 --batch_size 12 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri ../training_data/the-verdict.txt  --device cuda --model_path pass0_dropOutAll2.pth\n")
     print(f"--- Example 3: ---\npython {exe_name} --epochs 1 --batch_size 12 --records_to_process 1000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/finewiki' --dataset_name en --device cuda --model_path mymodel.pth\n" )
-    print(f"--- Example 3: ---\npython {exe_name} --epochs 1 --batch_size 12 --records_to_process 1000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2024-10 --device cuda --model_path mymodel.pth\n" )
+    print(f"--- Example 4: ---\npython {exe_name} --epochs 1 --batch_size 12 --records_to_process 1000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2024-10 --device cuda --model_path mymodel.pth\n" )
+
+    print(f"--- Example Chat simple: ---\npython {exe_name}  --run_mode chat-simple\n" )
 
     print("")
     print_tested_hugging_face_foundation_training_sets()
@@ -99,9 +102,9 @@ parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, cons
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
-parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=False)
+parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--model_path", help="Model save/load file name", nargs='?', type=str, default="_model.pth")
-parser.add_argument("--run_mode", help="Run mode: foundation-train, re-enforcement-train, chat", nargs='?', type=str, default="foundation-train")
+parser.add_argument("--run_mode", help="Run mode: foundation-train, re-enforcement-train, chat-simple", nargs='?', type=str, default="foundation-train")
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="What is 15 + 5?")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
@@ -199,8 +202,8 @@ if args.load_model:
 model.to(device)
 model.eval()
 
-if args.run_mode == "chat":
-    print("Running chat mode")
+if args.run_mode == "chat-simple":
+    print("Running chat simple mode")
 
     user_input = input("Enter a sentence to chat ('q' to quit)> ")
     while user_input != "q":

@@ -16,6 +16,8 @@ RESPONSE_START_ID       = 28
 RESPONSE_END_ID         = 29
 CALC_EVAL_START_ID      = 30
 CALC_EVAL_END_ID        = 31
+CONTEXT_START_ID        = 32
+CONTEXT_END_ID          = 33
 
 START_RESERVED_IDS      =  NUMBER_ID
 START_AUTO_ID           = 40
@@ -30,6 +32,8 @@ RESPONSE_START_TOKEN    = '<response>'
 RESPONSE_END_TOKEN      = '</response>'
 CALC_EVAL_START_TOKEN   = '<calc_eval>'
 CALC_EVAL_END_TOKEN     = '</calc_eval>'
+CONTEXT_START_TOKEN     = '<context>'
+CONTEXT_END_TOKEN       = '</context>'
 
 SEPARATORS_HMM = [
     ' ', "\n", '-', '_',

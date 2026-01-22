@@ -417,6 +417,14 @@ class DictionaryTokenizer():
         self._buildTokenizerAddSpecialWord(START_TOKEN, "sep", "f0")
         self._buildTokenizerAddSpecialWord(END_TOKEN, "sep", "f0")
         self._buildTokenizerAddSpecialWord(UNKNOWN_TOKEN, "unk", "f0")
+        self._buildTokenizerAddSpecialWord(PROMPT_START_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(PROMPT_END_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(RESPONSE_START_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(RESPONSE_END_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(CALC_EVAL_START_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(CALC_EVAL_END_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(CONTEXT_START_TOKEN, "sep", "f0")
+        self._buildTokenizerAddSpecialWord(CONTEXT_END_TOKEN, "sep", "f0")
 
         for path in glob.glob(self.dict_files_dir_ + "/**/*._.json", recursive = True):
             should_open_file = "/_templates" not in path
