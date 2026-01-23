@@ -104,7 +104,7 @@ parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, defa
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--model_path", help="Model save/load file name", nargs='?', type=str, default="_model.pth")
-parser.add_argument("--run_mode", help="Run mode: foundation-train, re-enforcement-train, chat-simple", nargs='?', type=str, default="foundation-train")
+parser.add_argument("--run_mode", help="Run mode: pretrain, re-enforcement-train, chat-simple", nargs='?', type=str, default="pretrain")
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="What is 15 + 5?")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
@@ -220,15 +220,15 @@ print(f"--- Test model before training: device: {device} ---")
 model.generateAndPrintSample(device, default_start_context)
 print(f"--------------------------------------")
 
-train_loader = create_loader_foundation(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                        split=args.dataset_training_split, records_to_process=args.records_to_process,
-                                        batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
-                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
+train_loader = create_loader_pretraining(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
+                                         split=args.dataset_training_split, records_to_process=args.records_to_process,
+                                         batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
+                                         drop_last=False, shuffle=False, num_workers=args.num_workers)
 
-validation_loader = create_loader_foundation(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                        split=args.dataset_validation_split, records_to_process=args.records_to_process,
-                                        batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
-                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
+validation_loader = create_loader_pretraining(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
+                                              split=args.dataset_validation_split, records_to_process=args.records_to_process,
+                                              batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
+                                              drop_last=False, shuffle=False, num_workers=args.num_workers)
 
 train_loader.dataset.debugPrintText(args.dbg_print_text)
 train_loader.dataset.writeTextToDebugFile(args.dbg_write_records_to_file)
