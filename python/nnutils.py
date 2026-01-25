@@ -342,6 +342,9 @@ class GPTModel(nn.Module):
             self.number_bits, self.number_bits, bias=False
         )
 
+    def countParameters(self):
+        return sum(p.numel() for p in self.parameters() if p.requires_grad)
+
     def forward(self, in_idx):
         batch_size, seq_len = in_idx.shape
         # print(f"FIXMENM A in_idx.shape: {in_idx}")

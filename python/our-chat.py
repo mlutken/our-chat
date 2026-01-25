@@ -191,6 +191,7 @@ tokenizer.setConfig(GPT_CONFIG_124M)
 torch.manual_seed(123)
 model = GPTModel(GPT_CONFIG_124M, tokenizer)
 print(f"model.CFG: {model.CFG}")
+print(f"Model parameter count: {round(model.countParameters()/1000000)} M    ({model.countParameters()}) ")
 if args.load_model:
     if os.path.isfile(args.model_path):
         print(f"Loading model from {args.model_path} ...")
