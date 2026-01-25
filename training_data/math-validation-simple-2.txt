@@ -1,0 +1,300 @@
+ <prompt> How much is 191 + 105 </prompt> <response> The answer is 296 . </response> 
+ <prompt> What is the answer to 191 - 105 ? </prompt> <response> 86 is the result . </response> 
+ <prompt> How much is 191 * 105 ? </prompt> <response> Correct answer is 20055 . </response> 
+ <prompt> What is the multiplication of 20055 / 105 </prompt> <response> The result is 191 . </response> 
+ <prompt> Next integer following 191 is ? </prompt> <response> The next is 192 . </response> 
+ <prompt> What number comes before 191 </prompt> <response> The prior number is 190 . </response> 
+ <prompt> How much is 28 + 222 ? </prompt> <response> 250 is the result . </response> 
+ <prompt> What is the difference of 222 - 28 </prompt> <response> The difference is 194 . </response> 
+ <prompt> What is the multiplication of 28 * 222 </prompt> <response> The result is 6216 . </response> 
+ <prompt> How much is 6216 / 222 </prompt> <response> Correct answer is 28 . </response> 
+ <prompt> What number naturally comes after 28 </prompt> <response> Correct answer is 29 . </response> 
+ <prompt> What number comes before 28 ? </prompt> <response> The prior number is 27 . </response> 
+ <prompt> How much is 295 + 102 ? </prompt> <response> The sum is 397 . </response> 
+ <prompt> What is 295 - 102 ? </prompt> <response> The answer is 193 . </response> 
+ <prompt> How much is 295 * 102 ? </prompt> <response> Correct answer is 30090 . </response> 
+ <prompt> Please calculate the following: 30090 / 102 ? </prompt> <response> The answer is 295 . </response> 
+ <prompt> What number naturally comes after 295 ? </prompt> <response> Correct answer is 296 . </response> 
+ <prompt> What number naturally comes before 295 </prompt> <response> The prior number is 294 . </response> 
+ <prompt> What is the total of 236 + 14 </prompt> <response> The answer is 250 . </response> 
+ <prompt> What is the answer to 236 - 14 </prompt> <response> The difference is 222 . </response> 
+ <prompt> What is the multiplication of 236 * 14 </prompt> <response> The result is 3304 . </response> 
+ <prompt> How much is 3304 / 14 </prompt> <response> 236 is the result . </response> 
+ <prompt> Next integer following 236, 237 is </prompt> <response> Correct answer is 238 . </response> 
+ <prompt> Integer that comes before 236 is </prompt> <response> The prior number is 235 . </response> 
+ <prompt> What is the total of 176 + 14 </prompt> <response> The result is 190 . </response> 
+ <prompt> What is 176 - 14 </prompt> <response> The result is 162 . </response> 
+ <prompt> How much is 176 * 14 ? </prompt> <response> 2464 is the result . </response> 
+ <prompt> What is the multiplication of 2464 / 14 </prompt> <response> Correct answer is 176 . </response> 
+ <prompt> If we have 176 followed by 177, the next number would be </prompt> <response> Correct answer is 178 . </response> 
+ <prompt> Integer that comes before 176 is </prompt> <response> The prior number is 175 . </response> 
+ <prompt> Please calculate the following: 196 + 229 </prompt> <response> The answer is 425 . </response> 
+ <prompt> Please calculate the following: 229 - 196 </prompt> <response> 33 is the result . </response> 
+ <prompt> What is 196 * 229 </prompt> <response> Correct answer is 44884 . </response> 
+ <prompt> What is 44884 / 229 </prompt> <response> Correct answer is 196 . </response> 
+ <prompt> What number comes after 196, 197 </prompt> <response> The answer is 198 . </response> 
+ <prompt> What number comes before 196 </prompt> <response> The prior number is 195 . </response> 
+ <prompt> What is the total of 70 + 236 </prompt> <response> The answer is 306 . </response> 
+ <prompt> What is 236 - 70 </prompt> <response> The difference is 166 . </response> 
+ <prompt> What is the multiplication of 70 * 236 ? </prompt> <response> The answer is 16520 . </response> 
+ <prompt> What is the multiplication of 16520 / 236 </prompt> <response> The answer is 70 . </response> 
+ <prompt> What number comes after 70, 71 </prompt> <response> 72 is the number . </response> 
+ <prompt> Integer that comes before 70 is </prompt> <response> The prior number is 69 . </response> 
+ <prompt> How much is 216 + 56 </prompt> <response> The sum is 272 . </response> 
+ <prompt> What is the difference of 216 - 56 </prompt> <response> Correct answer is 160 . </response> 
+ <prompt> What is the multiplication of 216 * 56 </prompt> <response> 12096 is the result . </response> 
+ <prompt> How much is 12096 / 56 ? </prompt> <response> 216 is the result . </response> 
+ <prompt> Next integer following 216, 217 is ? </prompt> <response> The next is 218 . </response> 
+ <prompt> What number comes before 216 </prompt> <response> Correct answer is 215 . </response> 
+ <prompt> What is the total of 258 + 34 </prompt> <response> 292 is the result . </response> 
+ <prompt> What is the answer to 258 - 34 </prompt> <response> Correct answer is 224 . </response> 
+ <prompt> How much is 258 * 34 </prompt> <response> The answer is 8772 . </response> 
+ <prompt> What is the answer to 8772 / 34 ? </prompt> <response> The result is 258 . </response> 
+ <prompt> Next integer following 258, 259 is </prompt> <response> The next is 260 . </response> 
+ <prompt> What number comes before 258 ? </prompt> <response> Correct answer is 257 . </response> 
+ <prompt> What is the total of 239 + 68 ? </prompt> <response> The result is 307 . </response> 
+ <prompt> What is the answer to 239 - 68 ? </prompt> <response> The difference is 171 . </response> 
+ <prompt> What is the answer to 239 * 68 </prompt> <response> The answer is 16252 . </response> 
+ <prompt> What is the multiplication of 16252 / 68 ? </prompt> <response> The answer is 239 . </response> 
+ <prompt> Next integer following 239, 240 is </prompt> <response> 241 is the number . </response> 
+ <prompt> What number naturally comes before 239 </prompt> <response> 238 is the number . </response> 
+ <prompt> How much is 188 + 33 </prompt> <response> Correct answer is 221 . </response> 
+ <prompt> What is the difference of 188 - 33 </prompt> <response> 155 is the result . </response> 
+ <prompt> What is the answer to 188 * 33 ? </prompt> <response> The answer is 6204 . </response> 
+ <prompt> What is the multiplication of 6204 / 33 ? </prompt> <response> The answer is 188 . </response> 
+ <prompt> What number naturally comes after 188 </prompt> <response> The next is 189 . </response> 
+ <prompt> What number comes before 188 ? </prompt> <response> The prior number is 187 . </response> 
+ <prompt> How much is 6 + 207 </prompt> <response> The sum is 213 . </response> 
+ <prompt> Please calculate the following: 207 - 6 </prompt> <response> The result is 201 . </response> 
+ <prompt> How much is 6 * 207 </prompt> <response> 1242 is the result . </response> 
+ <prompt> How much is 1242 / 207 </prompt> <response> The answer is 6 . </response> 
+ <prompt> What number comes after 6, 7 </prompt> <response> 8 is the number . </response> 
+ <prompt> What number comes before 6 </prompt> <response> Correct answer is 5 . </response> 
+ <prompt> What is the answer to 154 + 123 </prompt> <response> The result is 277 . </response> 
+ <prompt> What is the difference of 154 - 123 </prompt> <response> The answer is 31 . </response> 
+ <prompt> Please calculate the following: 154 * 123 </prompt> <response> 18942 is the result . </response> 
+ <prompt> Please calculate the following: 18942 / 123 </prompt> <response> Correct answer is 154 . </response> 
+ <prompt> What number comes after 154, 155 ? </prompt> <response> 156 is the number . </response> 
+ <prompt> What number naturally comes before 154 </prompt> <response> The answer is 153 . </response> 
+ <prompt> What is 163 + 287 </prompt> <response> The sum is 450 . </response> 
+ <prompt> How much is 287 - 163 ? </prompt> <response> Correct answer is 124 . </response> 
+ <prompt> Please calculate the following: 163 * 287 </prompt> <response> 46781 is the result . </response> 
+ <prompt> What is the multiplication of 46781 / 287 </prompt> <response> The result is 163 . </response> 
+ <prompt> Given the sequence 163, 164. What is the expected next number </prompt> <response> The next number is 165 . </response> 
+ <prompt> What number comes before 163 ? </prompt> <response> The answer is 162 . </response> 
+ <prompt> What is 108 + 108 </prompt> <response> 216 is the result . </response> 
+ <prompt> What is 108 - 108 </prompt> <response> Correct answer is 0 . </response> 
+ <prompt> How much is 108 * 108 ? </prompt> <response> The answer is 11664 . </response> 
+ <prompt> How much is 11664 / 108 </prompt> <response> Correct answer is 108 . </response> 
+ <prompt> What number comes after 108, 109 </prompt> <response> The next is 110 . </response> 
+ <prompt> What number naturally comes before 108 </prompt> <response> Correct answer is 107 . </response> 
+ <prompt> What is 168 + 53 </prompt> <response> 221 is the result . </response> 
+ <prompt> What is the difference of 168 - 53 ? </prompt> <response> The answer is 115 . </response> 
+ <prompt> What is 168 * 53 </prompt> <response> The result is 8904 . </response> 
+ <prompt> What is 8904 / 53 </prompt> <response> The result is 168 . </response> 
+ <prompt> If we have 168 followed by 169, the next number would be </prompt> <response> The next is 170 . </response> 
+ <prompt> What number comes before 168 </prompt> <response> The answer is 167 . </response> 
+ <prompt> How much is 200 + 205 </prompt> <response> The result is 405 . </response> 
+ <prompt> What is the answer to 205 - 200 </prompt> <response> The result is 5 . </response> 
+ <prompt> What is the answer to 200 * 205 ? </prompt> <response> The result is 41000 . </response> 
+ <prompt> What is the answer to 41000 / 205 ? </prompt> <response> The answer is 200 . </response> 
+ <prompt> What number naturally comes after 200 </prompt> <response> Correct answer is 201 . </response> 
+ <prompt> What number naturally comes before 200 </prompt> <response> 199 is the number . </response> 
+ <prompt> What is the total of 73 + 60 ? </prompt> <response> The sum is 133 . </response> 
+ <prompt> How much is 73 - 60 </prompt> <response> The difference is 13 . </response> 
+ <prompt> What is 73 * 60 </prompt> <response> The result is 4380 . </response> 
+ <prompt> What is the answer to 4380 / 60 ? </prompt> <response> 73 is the result . </response> 
+ <prompt> What number comes after 73, 74 ? </prompt> <response> 75 is the number . </response> 
+ <prompt> What number naturally comes before 73 ? </prompt> <response> Correct answer is 72 . </response> 
+ <prompt> Please calculate the following: 282 + 124 ? </prompt> <response> The result is 406 . </response> 
+ <prompt> What is the answer to 282 - 124 </prompt> <response> 158 is the result . </response> 
+ <prompt> What is the answer to 282 * 124 ? </prompt> <response> 34968 is the result . </response> 
+ <prompt> What is the multiplication of 34968 / 124 </prompt> <response> Correct answer is 282 . </response> 
+ <prompt> If we have 282 followed by 283, the next number would be </prompt> <response> The next is 284 . </response> 
+ <prompt> What number naturally comes before 282 </prompt> <response> The answer is 281 . </response> 
+ <prompt> What is the answer to 45 + 207 ? </prompt> <response> The result is 252 . </response> 
+ <prompt> What is the difference of 207 - 45 </prompt> <response> Correct answer is 162 . </response> 
+ <prompt> How much is 45 * 207 </prompt> <response> Correct answer is 9315 . </response> 
+ <prompt> What is 9315 / 207 </prompt> <response> The result is 45 . </response> 
+ <prompt> If we have 45 followed by 46, the next number would be </prompt> <response> 47 is the number . </response> 
+ <prompt> What number comes before 45 ? </prompt> <response> The answer is 44 . </response> 
+ <prompt> What is 234 + 151 </prompt> <response> Correct answer is 385 . </response> 
+ <prompt> Please calculate the following: 234 - 151 </prompt> <response> The difference is 83 . </response> 
+ <prompt> What is 234 * 151 ? </prompt> <response> The answer is 35334 . </response> 
+ <prompt> What is the answer to 35334 / 151 </prompt> <response> Correct answer is 234 . </response> 
+ <prompt> What number naturally comes after 234 </prompt> <response> The next is 235 . </response> 
+ <prompt> What number naturally comes before 234 ? </prompt> <response> Correct answer is 233 . </response> 
+ <prompt> What is 40 + 172 ? </prompt> <response> The result is 212 . </response> 
+ <prompt> What is the answer to 172 - 40 </prompt> <response> The difference is 132 . </response> 
+ <prompt> What is 40 * 172 </prompt> <response> Correct answer is 6880 . </response> 
+ <prompt> What is the multiplication of 6880 / 172 </prompt> <response> Correct answer is 40 . </response> 
+ <prompt> What number comes after 40, 41 </prompt> <response> The answer is 42 . </response> 
+ <prompt> Integer that comes before 40 is ? </prompt> <response> The answer is 39 . </response> 
+ <prompt> What is 143 + 158 ? </prompt> <response> 301 is the result . </response> 
+ <prompt> Please calculate the following: 158 - 143 ? </prompt> <response> The result is 15 . </response> 
+ <prompt> How much is 143 * 158 </prompt> <response> Correct answer is 22594 . </response> 
+ <prompt> What is 22594 / 158 </prompt> <response> The answer is 143 . </response> 
+ <prompt> Next integer following 143 is </prompt> <response> The answer is 144 . </response> 
+ <prompt> What number naturally comes before 143 </prompt> <response> The answer is 142 . </response> 
+ <prompt> Please calculate the following: 264 + 132 </prompt> <response> 396 is the result . </response> 
+ <prompt> What is the difference of 264 - 132 </prompt> <response> The answer is 132 . </response> 
+ <prompt> What is 264 * 132 </prompt> <response> 34848 is the result . </response> 
+ <prompt> How much is 34848 / 132 ? </prompt> <response> The answer is 264 . </response> 
+ <prompt> Next integer following 264 is </prompt> <response> 265 is the number . </response> 
+ <prompt> Integer that comes before 264 is </prompt> <response> 263 is the number . </response> 
+ <prompt> How much is 191 + 46 </prompt> <response> The answer is 237 . </response> 
+ <prompt> How much is 191 - 46 ? </prompt> <response> The result is 145 . </response> 
+ <prompt> What is the answer to 191 * 46 </prompt> <response> 8786 is the result . </response> 
+ <prompt> What is the answer to 8786 / 46 </prompt> <response> The result is 191 . </response> 
+ <prompt> If we have 191 followed by 192, the next number would be </prompt> <response> The answer is 193 . </response> 
+ <prompt> What number naturally comes before 191 </prompt> <response> The prior number is 190 . </response> 
+ <prompt> What is 18 + 21 </prompt> <response> The answer is 39 . </response> 
+ <prompt> How much is 21 - 18 </prompt> <response> The result is 3 . </response> 
+ <prompt> Please calculate the following: 18 * 21 </prompt> <response> The result is 378 . </response> 
+ <prompt> How much is 378 / 21 </prompt> <response> Correct answer is 18 . </response> 
+ <prompt> Next integer following 18 is </prompt> <response> Correct answer is 19 . </response> 
+ <prompt> What number comes before 18 </prompt> <response> The prior number is 17 . </response> 
+ <prompt> What is the total of 217 + 90 ? </prompt> <response> 307 is the result . </response> 
+ <prompt> Please calculate the following: 217 - 90 </prompt> <response> 127 is the result . </response> 
+ <prompt> Please calculate the following: 217 * 90 ? </prompt> <response> 19530 is the result . </response> 
+ <prompt> What is 19530 / 90 ? </prompt> <response> The result is 217 . </response> 
+ <prompt> What number comes after 217, 218 </prompt> <response> The next number is 219 . </response> 
+ <prompt> Integer that comes before 217 is </prompt> <response> Correct answer is 216 . </response> 
+ <prompt> Please calculate the following: 191 + 94 </prompt> <response> The answer is 285 . </response> 
+ <prompt> What is the answer to 191 - 94 </prompt> <response> The result is 97 . </response> 
+ <prompt> Please calculate the following: 191 * 94 </prompt> <response> The result is 17954 . </response> 
+ <prompt> What is the multiplication of 17954 / 94 ? </prompt> <response> The answer is 191 . </response> 
+ <prompt> What number naturally comes after 191 ? </prompt> <response> The answer is 192 . </response> 
+ <prompt> What number naturally comes before 191 </prompt> <response> The answer is 190 . </response> 
+ <prompt> Please calculate the following: 294 + 66 ? </prompt> <response> Correct answer is 360 . </response> 
+ <prompt> Please calculate the following: 294 - 66 </prompt> <response> The result is 228 . </response> 
+ <prompt> How much is 294 * 66 </prompt> <response> The answer is 19404 . </response> 
+ <prompt> What is the multiplication of 19404 / 66 </prompt> <response> The answer is 294 . </response> 
+ <prompt> Next integer following 294, 295 is </prompt> <response> Correct answer is 296 . </response> 
+ <prompt> What number naturally comes before 294 ? </prompt> <response> The answer is 293 . </response> 
+ <prompt> How much is 175 + 151 </prompt> <response> The result is 326 . </response> 
+ <prompt> What is the difference of 175 - 151 </prompt> <response> The difference is 24 . </response> 
+ <prompt> What is the answer to 175 * 151 </prompt> <response> The result is 26425 . </response> 
+ <prompt> What is the multiplication of 26425 / 151 </prompt> <response> 175 is the result . </response> 
+ <prompt> What number comes after 175, 176 </prompt> <response> The next is 177 . </response> 
+ <prompt> Integer that comes before 175 is ? </prompt> <response> Correct answer is 174 . </response> 
+ <prompt> What is 271 + 174 </prompt> <response> Correct answer is 445 . </response> 
+ <prompt> What is 271 - 174 ? </prompt> <response> 97 is the result . </response> 
+ <prompt> What is the answer to 271 * 174 </prompt> <response> The answer is 47154 . </response> 
+ <prompt> What is the multiplication of 47154 / 174 </prompt> <response> Correct answer is 271 . </response> 
+ <prompt> What number comes after 271, 272 </prompt> <response> 273 is the number . </response> 
+ <prompt> What number naturally comes before 271 </prompt> <response> Correct answer is 270 . </response> 
+ <prompt> What is the total of 164 + 203 </prompt> <response> Correct answer is 367 . </response> 
+ <prompt> What is the answer to 203 - 164 </prompt> <response> The result is 39 . </response> 
+ <prompt> What is the multiplication of 164 * 203 </prompt> <response> The result is 33292 . </response> 
+ <prompt> Please calculate the following: 33292 / 203 </prompt> <response> Correct answer is 164 . </response> 
+ <prompt> What number naturally comes after 164 ? </prompt> <response> The next number is 165 . </response> 
+ <prompt> What number naturally comes before 164 </prompt> <response> 163 is the number . </response> 
+ <prompt> What is the total of 105 + 223 </prompt> <response> The result is 328 . </response> 
+ <prompt> How much is 223 - 105 ? </prompt> <response> The difference is 118 . </response> 
+ <prompt> Please calculate the following: 105 * 223 ? </prompt> <response> Correct answer is 23415 . </response> 
+ <prompt> How much is 23415 / 223 </prompt> <response> The answer is 105 . </response> 
+ <prompt> Next integer following 105 is </prompt> <response> 106 is the number . </response> 
+ <prompt> Integer that comes before 105 is ? </prompt> <response> The prior number is 104 . </response> 
+ <prompt> What is the total of 165 + 176 ? </prompt> <response> The result is 341 . </response> 
+ <prompt> Please calculate the following: 176 - 165 ? </prompt> <response> The result is 11 . </response> 
+ <prompt> How much is 165 * 176 ? </prompt> <response> The result is 29040 . </response> 
+ <prompt> How much is 29040 / 176 ? </prompt> <response> 165 is the result . </response> 
+ <prompt> What number naturally comes after 165 ? </prompt> <response> The answer is 166 . </response> 
+ <prompt> What number naturally comes before 165 ? </prompt> <response> 164 is the number . </response> 
+ <prompt> How much is 168 + 38 ? </prompt> <response> The answer is 206 . </response> 
+ <prompt> What is the answer to 168 - 38 </prompt> <response> The result is 130 . </response> 
+ <prompt> How much is 168 * 38 </prompt> <response> 6384 is the result . </response> 
+ <prompt> What is the multiplication of 6384 / 38 </prompt> <response> 168 is the result . </response> 
+ <prompt> Next integer following 168, 169 is </prompt> <response> The next is 170 . </response> 
+ <prompt> What number naturally comes before 168 </prompt> <response> 167 is the number . </response> 
+ <prompt> How much is 188 + 41 </prompt> <response> Correct answer is 229 . </response> 
+ <prompt> Please calculate the following: 188 - 41 </prompt> <response> The answer is 147 . </response> 
+ <prompt> How much is 188 * 41 </prompt> <response> Correct answer is 7708 . </response> 
+ <prompt> What is the answer to 7708 / 41 </prompt> <response> Correct answer is 188 . </response> 
+ <prompt> What number comes after 188, 189 </prompt> <response> The next is 190 . </response> 
+ <prompt> What number comes before 188 ? </prompt> <response> The prior number is 187 . </response> 
+ <prompt> What is the answer to 55 + 5 </prompt> <response> The answer is 60 . </response> 
+ <prompt> What is the answer to 55 - 5 ? </prompt> <response> Correct answer is 50 . </response> 
+ <prompt> How much is 55 * 5 ? </prompt> <response> The answer is 275 . </response> 
+ <prompt> What is the multiplication of 275 / 5 </prompt> <response> Correct answer is 55 . </response> 
+ <prompt> Given the sequence 55, 56. What is the expected next number ? </prompt> <response> The answer is 57 . </response> 
+ <prompt> What number comes before 55 ? </prompt> <response> Correct answer is 54 . </response> 
+ <prompt> How much is 217 + 28 </prompt> <response> 245 is the result . </response> 
+ <prompt> What is the answer to 217 - 28 </prompt> <response> The difference is 189 . </response> 
+ <prompt> How much is 217 * 28 </prompt> <response> The result is 6076 . </response> 
+ <prompt> How much is 6076 / 28 </prompt> <response> The result is 217 . </response> 
+ <prompt> If we have 217 followed by 218, the next number would be </prompt> <response> 219 is the number . </response> 
+ <prompt> Integer that comes before 217 is ? </prompt> <response> The prior number is 216 . </response> 
+ <prompt> What is 249 + 49 ? </prompt> <response> The sum is 298 . </response> 
+ <prompt> How much is 249 - 49 </prompt> <response> The result is 200 . </response> 
+ <prompt> How much is 249 * 49 ? </prompt> <response> The answer is 12201 . </response> 
+ <prompt> Please calculate the following: 12201 / 49 ? </prompt> <response> The result is 249 . </response> 
+ <prompt> If we have 249 followed by 250, the next number would be </prompt> <response> The next number is 251 . </response> 
+ <prompt> What number comes before 249 </prompt> <response> The answer is 248 . </response> 
+ <prompt> What is 269 + 84 </prompt> <response> 353 is the result . </response> 
+ <prompt> Please calculate the following: 269 - 84 </prompt> <response> Correct answer is 185 . </response> 
+ <prompt> What is 269 * 84 </prompt> <response> The result is 22596 . </response> 
+ <prompt> What is the answer to 22596 / 84 </prompt> <response> The result is 269 . </response> 
+ <prompt> What number comes after 269, 270 </prompt> <response> Correct answer is 271 . </response> 
+ <prompt> What number naturally comes before 269 </prompt> <response> The prior number is 268 . </response> 
+ <prompt> What is 269 + 242 </prompt> <response> 511 is the result . </response> 
+ <prompt> What is the answer to 269 - 242 </prompt> <response> The result is 27 . </response> 
+ <prompt> What is the multiplication of 269 * 242 ? </prompt> <response> The answer is 65098 . </response> 
+ <prompt> What is the answer to 65098 / 242 ? </prompt> <response> The answer is 269 . </response> 
+ <prompt> Given the sequence 269, 270. What is the expected next number ? </prompt> <response> The answer is 271 . </response> 
+ <prompt> What number comes before 269 </prompt> <response> 268 is the number . </response> 
+ <prompt> What is 276 + 25 </prompt> <response> 301 is the result . </response> 
+ <prompt> What is 276 - 25 ? </prompt> <response> Correct answer is 251 . </response> 
+ <prompt> What is the answer to 276 * 25 </prompt> <response> Correct answer is 6900 . </response> 
+ <prompt> What is the answer to 6900 / 25 </prompt> <response> The answer is 276 . </response> 
+ <prompt> If we have 276 followed by 277, the next number would be ? </prompt> <response> The next is 278 . </response> 
+ <prompt> What number naturally comes before 276 </prompt> <response> 275 is the number . </response> 
+ <prompt> What is the total of 249 + 149 </prompt> <response> 398 is the result . </response> 
+ <prompt> How much is 249 - 149 ? </prompt> <response> The result is 100 . </response> 
+ <prompt> Please calculate the following: 249 * 149 </prompt> <response> The result is 37101 . </response> 
+ <prompt> What is 37101 / 149 </prompt> <response> 249 is the result . </response> 
+ <prompt> What number comes after 249, 250 ? </prompt> <response> The next number is 251 . </response> 
+ <prompt> Integer that comes before 249 is ? </prompt> <response> 248 is the number . </response> 
+ <prompt> What is 117 + 232 ? </prompt> <response> The answer is 349 . </response> 
+ <prompt> How much is 232 - 117 ? </prompt> <response> Correct answer is 115 . </response> 
+ <prompt> What is the answer to 117 * 232 </prompt> <response> The result is 27144 . </response> 
+ <prompt> What is the multiplication of 27144 / 232 ? </prompt> <response> Correct answer is 117 . </response> 
+ <prompt> Next integer following 117, 118 is </prompt> <response> 119 is the number . </response> 
+ <prompt> What number naturally comes before 117 </prompt> <response> The prior number is 116 . </response> 
+ <prompt> What is 216 + 18 ? </prompt> <response> The sum is 234 . </response> 
+ <prompt> What is 216 - 18 </prompt> <response> The result is 198 . </response> 
+ <prompt> What is the answer to 216 * 18 </prompt> <response> Correct answer is 3888 . </response> 
+ <prompt> What is 3888 / 18 ? </prompt> <response> 216 is the result . </response> 
+ <prompt> Given the sequence 216, 217. What is the expected next number ? </prompt> <response> The answer is 218 . </response> 
+ <prompt> Integer that comes before 216 is ? </prompt> <response> Correct answer is 215 . </response> 
+ <prompt> What is 168 + 125 </prompt> <response> Correct answer is 293 . </response> 
+ <prompt> What is the difference of 168 - 125 </prompt> <response> The difference is 43 . </response> 
+ <prompt> What is the multiplication of 168 * 125 </prompt> <response> Correct answer is 21000 . </response> 
+ <prompt> Please calculate the following: 21000 / 125 ? </prompt> <response> The answer is 168 . </response> 
+ <prompt> Next integer following 168 is </prompt> <response> The next number is 169 . </response> 
+ <prompt> What number comes before 168 ? </prompt> <response> The prior number is 167 . </response> 
+ <prompt> Please calculate the following: 9 + 32 ? </prompt> <response> 41 is the result . </response> 
+ <prompt> Please calculate the following: 32 - 9 ? </prompt> <response> The answer is 23 . </response> 
+ <prompt> Please calculate the following: 9 * 32 ? </prompt> <response> Correct answer is 288 . </response> 
+ <prompt> What is the answer to 288 / 32 ? </prompt> <response> The answer is 9 . </response> 
+ <prompt> If we have 9 followed by 10, the next number would be </prompt> <response> The next is 11 . </response> 
+ <prompt> Integer that comes before 9 is ? </prompt> <response> Correct answer is 8 . </response> 
+ <prompt> How much is 148 + 59 ? </prompt> <response> The sum is 207 . </response> 
+ <prompt> How much is 148 - 59 </prompt> <response> The result is 89 . </response> 
+ <prompt> How much is 148 * 59 ? </prompt> <response> 8732 is the result . </response> 
+ <prompt> What is the multiplication of 8732 / 59 </prompt> <response> The answer is 148 . </response> 
+ <prompt> Given the sequence 148, 149. What is the expected next number ? </prompt> <response> The next is 150 . </response> 
+ <prompt> What number comes before 148 ? </prompt> <response> The answer is 147 . </response> 
+ <prompt> How much is 88 + 243 </prompt> <response> The sum is 331 . </response> 
+ <prompt> What is the answer to 243 - 88 </prompt> <response> Correct answer is 155 . </response> 
+ <prompt> How much is 88 * 243 ? </prompt> <response> The answer is 21384 . </response> 
+ <prompt> How much is 21384 / 243 </prompt> <response> Correct answer is 88 . </response> 
+ <prompt> What number naturally comes after 88 </prompt> <response> The next is 89 . </response> 
+ <prompt> Integer that comes before 88 is </prompt> <response> The answer is 87 . </response> 
+ <prompt> How much is 264 + 216 </prompt> <response> Correct answer is 480 . </response> 
+ <prompt> What is 264 - 216 </prompt> <response> Correct answer is 48 . </response> 
+ <prompt> Please calculate the following: 264 * 216 </prompt> <response> The answer is 57024 . </response> 
+ <prompt> Please calculate the following: 57024 / 216 ? </prompt> <response> The result is 264 . </response> 
+ <prompt> Given the sequence 264, 265. What is the expected next number ? </prompt> <response> The next number is 266 . </response> 
+ <prompt> What number naturally comes before 264 ? </prompt> <response> The answer is 263 . </response> 

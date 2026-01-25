@@ -1,0 +1,50 @@
+ <prompt> How much is 98 + 87 ? </prompt> <response> The answer is 185 . </response> 
+ <prompt> Please calculate the following: 80 + 36 </prompt> <response> The result is 116 . </response> 
+ <prompt> Please calculate the following: 49 + 27 </prompt> <response> The answer is 76 . </response> 
+ <prompt> What is 53 + 87 ? </prompt> <response> 140 is the result . </response> 
+ <prompt> How much is 14 + 34 ? </prompt> <response> The sum is 48 . </response> 
+ <prompt> What is 56 + 73 </prompt> <response> Correct answer is 129 . </response> 
+ <prompt> How much is 93 + 64 </prompt> <response> 157 is the result . </response> 
+ <prompt> Please calculate the following: 85 + 16 </prompt> <response> The sum is 101 . </response> 
+ <prompt> What is 97 + 54 </prompt> <response> The sum is 151 . </response> 
+ <prompt> How much is 28 + 95 ? </prompt> <response> The answer is 123 . </response> 
+ <prompt> Please calculate the following: 92 + 14 </prompt> <response> The sum is 106 . </response> 
+ <prompt> What is the total of 28 + 97 </prompt> <response> The result is 125 . </response> 
+ <prompt> What is 57 + 13 ? </prompt> <response> 70 is the result . </response> 
+ <prompt> What is 79 + 22 </prompt> <response> The result is 101 . </response> 
+ <prompt> What is the answer to 70 + 63 </prompt> <response> Correct answer is 133 . </response> 
+ <prompt> What is the answer to 84 + 80 </prompt> <response> 164 is the result . </response> 
+ <prompt> What is 62 + 44 </prompt> <response> The sum is 106 . </response> 
+ <prompt> How much is 76 + 17 </prompt> <response> The result is 93 . </response> 
+ <prompt> How much is 46 + 27 </prompt> <response> 73 is the result . </response> 
+ <prompt> What is the total of 4 + 94 </prompt> <response> The result is 98 . </response> 
+ <prompt> What is the answer to 52 + 83 </prompt> <response> The sum is 135 . </response> 
+ <prompt> Please calculate the following: 26 + 2 </prompt> <response> The answer is 28 . </response> 
+ <prompt> What is the total of 51 + 49 </prompt> <response> The result is 100 . </response> 
+ <prompt> What is the total of 70 + 20 </prompt> <response> The result is 90 . </response> 
+ <prompt> What is 55 + 76 </prompt> <response> The result is 131 . </response> 
+ <prompt> What is the answer to 49 + 41 ? </prompt> <response> The answer is 90 . </response> 
+ <prompt> What is the answer to 4 + 95 </prompt> <response> 99 is the result . </response> 
+ <prompt> What is 28 + 9 </prompt> <response> The answer is 37 . </response> 
+ <prompt> What is 45 + 48 </prompt> <response> The sum is 93 . </response> 
+ <prompt> What is 44 + 62 ? </prompt> <response> 106 is the result . </response> 
+ <prompt> How much is 40 + 29 </prompt> <response> The answer is 69 . </response> 
+ <prompt> What is the total of 22 + 84 </prompt> <response> The answer is 106 . </response> 
+ <prompt> What is the answer to 95 + 93 </prompt> <response> 188 is the result . </response> 
+ <prompt> Please calculate the following: 68 + 48 </prompt> <response> 116 is the result . </response> 
+ <prompt> Please calculate the following: 6 + 71 </prompt> <response> The answer is 77 . </response> 
+ <prompt> Please calculate the following: 94 + 60 </prompt> <response> 154 is the result . </response> 
+ <prompt> What is the total of 2 + 21 ? </prompt> <response> Correct answer is 23 . </response> 
+ <prompt> Please calculate the following: 37 + 52 ? </prompt> <response> 89 is the result . </response> 
+ <prompt> How much is 93 + 14 </prompt> <response> Correct answer is 107 . </response> 
+ <prompt> What is the total of 0 + 31 </prompt> <response> The result is 31 . </response> 
+ <prompt> What is the total of 55 + 24 </prompt> <response> The result is 79 . </response> 
+ <prompt> What is 27 + 31 </prompt> <response> The answer is 58 . </response> 
+ <prompt> What is the answer to 6 + 66 ? </prompt> <response> The result is 72 . </response> 
+ <prompt> What is the answer to 81 + 61 ? </prompt> <response> The result is 142 . </response> 
+ <prompt> What is the total of 33 + 32 </prompt> <response> The sum is 65 . </response> 
+ <prompt> How much is 25 + 69 </prompt> <response> The result is 94 . </response> 
+ <prompt> How much is 41 + 98 ? </prompt> <response> The sum is 139 . </response> 
+ <prompt> What is 9 + 1 </prompt> <response> The sum is 10 . </response> 
+ <prompt> Please calculate the following: 30 + 74 ? </prompt> <response> Correct answer is 104 . </response> 
+ <prompt> Please calculate the following: 34 + 40 ? </prompt> <response> The answer is 74 . </response> 

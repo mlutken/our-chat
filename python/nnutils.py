@@ -493,7 +493,8 @@ class GPTModel(nn.Module):
     def generateTextSimple(self, idx, max_new_tokens):
         for _ in range(max_new_tokens):
             idx = self.generateNextTokenSimple(idx)
-            if idx[0][-1] == END_TOKEN_ID:
+            last_token = idx[0][-1]
+            if last_token == END_TOKEN_ID or last_token == RESPONSE_END_ID:
                 break
         return idx
 

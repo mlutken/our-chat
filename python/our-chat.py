@@ -30,14 +30,14 @@ print (f"g_dictionary_path      : {g_dictionary_path}")
 print (f"g_training_data_path   : {g_training_data_path}")
 
 # Load save model: https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html
-# time python our-chat.py --epochs 7 --batch_size 12 --load_model 1 --save_model 1 --start_context "What is 12 + 4?" --train_uri ../training_data/math-training-simple-1.txt
-# time python our-chat.py --epochs 60 --batch_size 12 --records_to_process -1 --start_context 'What is 12 + 4?' --load_model 1 --save_model 1 --train_uri ../training_data/math-training-simple-4.txt --validation_uri ../training_data/math-validation-simple-4.txt --device cuda --dbg_print_text 0
+# time python our-chat.py --epochs 7 --batch_size 12 --load_model 1 --save_model 1 --start_context "<prompt> What is 12 + 4 ? </prompt> " --train_uri ../training_data/math-training-simple-1.txt
+# time python our-chat.py --epochs 60 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 1 --save_model 1 --train_uri ../training_data/math-training-simple-4.txt --validation_uri ../training_data/math-validation-simple-4.txt --device cuda --dbg_print_text 0
 # time python our-chat.py --epochs 1 --batch_size 12 --records_to_process 140000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/finewiki' --dataset_name en --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1
 # time python our-chat.py --epochs 1 --batch_size 12 --records_to_process 10000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2025-26 --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1
 
-# time python our-chat.py --epochs 60 --batch_size 12 --records_to_process -1 --start_context 'What is 12 + 4?' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-4.txt --device cuda --model_path m2025-12-24.pth --dbg_print_text 1
-# time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context 'What is 12 + 4?' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-1.txt --device cuda --model_path m2025-12-24.pth --dbg_print_text 1
-# time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context 'What is 12 + 4?' --load_model 1 --save_model 0 --train_uri ../training_data/math-training-simple-2.txt --validation_uri ../training_data/math-validation-simple-2.txt --device cuda --dbg_print_text 0
+# time python our-chat.py --epochs 60 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-4.txt --device cuda --model_path m2025-12-24.pth --dbg_print_text 1
+# time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-1.txt --device cuda --model_path m2025-12-24.pth --dbg_print_text 1
+# time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 1 --save_model 0 --train_uri ../training_data/math-training-simple-2.txt --validation_uri ../training_data/math-validation-simple-2.txt --device cuda --dbg_print_text 0
 # g_device = "cpu"
 
 # time python our-chat.py --epochs 2 --batch_size 12 --records_to_process 3 --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri 'hf:HuggingFaceFW/finewiki' --dataset_name en --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1
@@ -105,7 +105,7 @@ parser.add_argument("--save_model", help="Save the model after training", nargs=
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--model_path", help="Model save/load file name", nargs='?', type=str, default="_model.pth")
 parser.add_argument("--run_mode", help="Run mode: pretrain, re-enforcement-train, chat-simple", nargs='?', type=str, default="pretrain")
-parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="What is 15 + 5?")
+parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="<prompt> What is 15 + 5 ? </prompt> ")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
 parser.add_argument("--dataset_name", help="Internal name of Hugging face) dataset: Eg: 'en', 'CC-MAIN-2024-10', ... Depends on concrete dataset.", nargs='?', type=str, default="en")
@@ -207,7 +207,8 @@ if args.run_mode == "chat-simple":
 
     user_input = input("Enter a sentence to chat ('q' to quit)> ")
     while user_input != "q":
-        response = model.generateResponseSimple(device, user_input)
+        chat_input = f"<prompt> {user_input} </prompt>"
+        response = model.generateResponseSimple(device, chat_input)
         print(f"Bot: {response}\n")
         user_input = input("> ")
 

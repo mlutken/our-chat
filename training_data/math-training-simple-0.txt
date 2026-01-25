@@ -1,50 +1,44 @@
-What is the answer to 104 * 164? The answer is 17056!
-What is 220 * 26? The result is 5720!
-What is the multiplication of 254 * 168? 42672 is the result! 
-What is the answer to 236 * 36? The answer is 8496! 
-What is the multiplication of 162 * 105? Correct answer is 17010! 
-What is the answer to 48 * 160? The result is 7680! 
-Please calculate the following: 159 * 141? Correct answer is 22419! 
-Please calculate the following: 33 * 16? 528 is the result! 
-What is 236 * 224? The answer is 52864! 
-Please calculate the following: 56 * 182? 10192 is the result! 
-How much is 168 * 246? 41328 is the result! 
-What is 97 * 168? 16296 is the result! 
-What is the answer to 68 * 97? The result is 6596! 
-What is the answer to 186 * 198? 36828 is the result! 
-What is the answer to 171 * 243? The answer is 41553! 
-How much is 71 * 4? Correct answer is 284! 
-What is the multiplication of 194 * 298? Correct answer is 57812! 
-What is 27 * 217? Correct answer is 5859! 
-What is the answer to 181 * 0? Correct answer is 0! 
-What is the answer to 65 * 242? The result is 15730! 
-What is the answer to 187 * 113? The answer is 21131! 
-What is 248 * 221? 54808 is the result! 
-What is 254 * 71? The result is 18034! 
-Please calculate the following: 82 * 169? 13858 is the result! 
-Please calculate the following: 82 * 169? 13858 is the result! 
-What is 107 * 47? The answer is 5029! 
-Please calculate the following: 182 * 62? The result is 11284! 
-What is the multiplication of 124 * 208? The result is 25792! 
-What is the answer to 177 * 83? 14691 is the result! 
-What is the answer to 60 * 49? 2940 is the result! 
-Please calculate the following: 67 * 270? The result is 18090! 
-What is the answer to 129 * 64? The answer is 8256! 
-What is the multiplication of 248 * 65? The result is 16120! 
-Please calculate the following: 64 * 48? The result is 3072! 
-What is the answer to 50 * 28? The result is 1400! 
-What is the answer to 56 * 8? The answer is 448! 
-What is 181 * 159? The result is 28779! 
-What is the answer to 1 * 287? 287 is the result! 
-Please calculate the following: 93 * 261? 24273 is the result! 
-What is the answer to 170 * 187? 31790 is the result! 
-Please calculate the following: 115 * 126? Correct answer is 14490! 
-What is 29 * 175? Correct answer is 5075! 
-How much is 218 * 95? Correct answer is 20710! 
-What is the answer to 284 * 277? The result is 78668! 
-How much is 260 * 25? 6500 is the result! 
-How much is 103 * 165? The result is 16995! 
-Please calculate the following: 239 * 128? The result is 30592! 
-What is the multiplication of 40 * 271? The result is 10840! 
-Please calculate the following: 153 * 24? The answer is 3672! 
-What is the multiplication of 159 * 10? 1590 is the result! 
+ <prompt> How much is 92 * 147 </prompt> <response> Correct answer is 13524 . </response> 
+ <prompt> What is 184 * 70 ? </prompt> <response> Correct answer is 12880 . </response> 
+ <prompt> How much is 298 * 263 </prompt> <response> The answer is 78374 . </response> 
+ <prompt> How much is 125 * 253 </prompt> <response> The answer is 31625 . </response> 
+ <prompt> Please calculate the following: 166 * 87 </prompt> <response> Correct answer is 14442 . </response> 
+ <prompt> What is the answer to 202 * 37 </prompt> <response> 7474 is the result . </response> 
+ <prompt> What is 272 * 118 </prompt> <response> The result is 32096 . </response> 
+ <prompt> What is the multiplication of 284 * 142 </prompt> <response> 40328 is the result . </response> 
+ <prompt> Please calculate the following: 216 * 198 </prompt> <response> Correct answer is 42768 . </response> 
+ <prompt> How much is 4 * 155 </prompt> <response> The answer is 620 . </response> 
+ <prompt> What is 213 * 106 ? </prompt> <response> 22578 is the result . </response> 
+ <prompt> What is the answer to 121 * 71 </prompt> <response> 8591 is the result . </response> 
+ <prompt> How much is 285 * 217 </prompt> <response> 61845 is the result . </response> 
+ <prompt> What is 45 * 238 </prompt> <response> The answer is 10710 . </response> 
+ <prompt> What is 256 * 135 </prompt> <response> The answer is 34560 . </response> 
+ <prompt> What is the answer to 227 * 74 ? </prompt> <response> The answer is 16798 . </response> 
+ <prompt> What is the multiplication of 6 * 297 </prompt> <response> Correct answer is 1782 . </response> 
+ <prompt> What is the multiplication of 239 * 43 </prompt> <response> 10277 is the result . </response> 
+ <prompt> How much is 283 * 71 ? </prompt> <response> The answer is 20093 . </response> 
+ <prompt> How much is 141 * 255 </prompt> <response> The result is 35955 . </response> 
+ <prompt> How much is 85 * 267 </prompt> <response> The answer is 22695 . </response> 
+ <prompt> What is the multiplication of 117 * 155 </prompt> <response> The result is 18135 . </response> 
+ <prompt> What is the multiplication of 95 * 116 </prompt> <response> The answer is 11020 . </response> 
+ <prompt> What is the answer to 58 * 184 ? </prompt> <response> The answer is 10672 . </response> 
+ <prompt> What is the multiplication of 157 * 7 </prompt> <response> The answer is 1099 . </response> 
+ <prompt> What is the multiplication of 125 * 9 </prompt> <response> 1125 is the result . </response> 
+ <prompt> How much is 256 * 161 </prompt> <response> 41216 is the result . </response> 
+ <prompt> How much is 251 * 150 </prompt> <response> 37650 is the result . </response> 
+ <prompt> How much is 112 * 53 </prompt> <response> Correct answer is 5936 . </response> 
+ <prompt> How much is 272 * 289 </prompt> <response> 78608 is the result . </response> 
+ <prompt> What is 161 * 153 </prompt> <response> Correct answer is 24633 . </response> 
+ <prompt> What is the multiplication of 295 * 212 ? </prompt> <response> The answer is 62540 . </response> 
+ <prompt> How much is 25 * 147 ? </prompt> <response> 3675 is the result . </response> 
+ <prompt> Please calculate the following: 240 * 214 </prompt> <response> Correct answer is 51360 . </response> 
+ <prompt> What is the multiplication of 83 * 6 ? </prompt> <response> Correct answer is 498 . </response> 
+ <prompt> What is 232 * 163 </prompt> <response> The result is 37816 . </response> 
+ <prompt> What is the multiplication of 215 * 167 </prompt> <response> 35905 is the result . </response> 
+ <prompt> What is 112 * 15 </prompt> <response> The answer is 1680 . </response> 
+ <prompt> What is 286 * 33 </prompt> <response> The result is 9438 . </response> 
+ <prompt> Please calculate the following: 61 * 120 ? </prompt> <response> Correct answer is 7320 . </response> 
+ <prompt> Please calculate the following: 132 * 225 ? </prompt> <response> 29700 is the result . </response> 
+ <prompt> What is 6 * 214 ? </prompt> <response> The answer is 1284 . </response> 
+ <prompt> What is 158 * 50 ? </prompt> <response> 7900 is the result . </response> 
+ <prompt> What is 33 * 190 </prompt> <response> The result is 6270 . </response> 

@@ -1,50 +1,50 @@
-What is the total of 180 + 52? The answer is 232! 
-What is the answer to 239 + 242? The sum is 481! 
-What is 143 + 130? Correct answer is 273! 
-Please calculate the following: 6 + 254? 260 is the result! 
-How much is 133 + 141? The answer is 274! 
-What is the answer to 28 + 90? The result is 118! 
-What is the answer to 237 + 28? The sum is 265! 
-How much is 227 + 151? 378 is the result! 
-What is the answer to 255 + 57? 312 is the result! 
-What is the total of 252 + 135? 387 is the result! 
-What is the answer to 276 + 214? Correct answer is 490! 
-How much is 221 + 198? 419 is the result! 
-What is the answer to 3 + 228? The sum is 231! 
-What is the answer to 142 + 196? The result is 338! 
-Please calculate the following: 50 + 74? Correct answer is 124! 
-How much is 60 + 270? Correct answer is 330! 
-What is the answer to 171 + 18? 189 is the result! 
-How much is 155 + 254? 409 is the result! 
-Please calculate the following: 295 + 73? The result is 368! 
-What is 165 + 223? 388 is the result! 
-What is the answer to 24 + 182? The result is 206! 
-What is the total of 23 + 232? The answer is 255! 
-What is the answer to 79 + 250? The result is 329! 
-How much is 19 + 38? 57 is the result! 
-What is the answer to 63 + 31? The result is 94! 
-What is the answer to 68 + 83? 151 is the result! 
-What is the answer to 266 + 112? The sum is 378! 
-How much is 115 + 90? The sum is 205! 
-What is the total of 148 + 90? Correct answer is 238! 
-What is the answer to 42 + 50? 92 is the result! 
-Please calculate the following: 185 + 140? 325 is the result! 
-What is the answer to 273 + 25? The result is 298! 
-Please calculate the following: 22 + 107? The answer is 129! 
-What is 191 + 129? Correct answer is 320! 
-What is the answer to 40 + 104? 144 is the result! 
-Please calculate the following: 111 + 195? 306 is the result! 
-What is the answer to 241 + 6? 247 is the result! 
-How much is 54 + 126? The result is 180! 
-How much is 265 + 287? The result is 552! 
-What is the answer to 16 + 185? The sum is 201! 
-What is the answer to 80 + 208? The answer is 288! 
-What is the total of 276 + 17? The result is 293! 
-What is the answer to 158 + 158? The answer is 316! 
-What is the answer to 39 + 267? The result is 306! 
-How much is 201 + 65? 266 is the result! 
-What is the total of 269 + 123? 392 is the result! 
-Please calculate the following: 214 + 71? The sum is 285! 
-Please calculate the following: 118 + 62? The answer is 180! 
-How much is 65 + 58? The answer is 123! 
-How much is 167 + 290? The result is 457! 
+ <prompt> Please calculate the following: 45 + 142 </prompt> <response> The sum is 187 . </response> 
+ <prompt> What is the total of 53 + 54 </prompt> <response> 107 is the result . </response> 
+ <prompt> What is the total of 252 + 97 </prompt> <response> Correct answer is 349 . </response> 
+ <prompt> What is the answer to 64 + 221 </prompt> <response> 285 is the result . </response> 
+ <prompt> What is the total of 299 + 98 </prompt> <response> 397 is the result . </response> 
+ <prompt> How much is 223 + 228 </prompt> <response> The result is 451 . </response> 
+ <prompt> Please calculate the following: 16 + 1 </prompt> <response> The answer is 17 . </response> 
+ <prompt> What is 257 + 132 </prompt> <response> The result is 389 . </response> 
+ <prompt> How much is 235 + 100 ? </prompt> <response> The result is 335 . </response> 
+ <prompt> What is 29 + 38 </prompt> <response> The result is 67 . </response> 
+ <prompt> How much is 153 + 12 </prompt> <response> The result is 165 . </response> 
+ <prompt> How much is 193 + 205 ? </prompt> <response> Correct answer is 398 . </response> 
+ <prompt> What is the answer to 289 + 6 </prompt> <response> The answer is 295 . </response> 
+ <prompt> What is the total of 208 + 62 </prompt> <response> Correct answer is 270 . </response> 
+ <prompt> Please calculate the following: 79 + 114 </prompt> <response> 193 is the result . </response> 
+ <prompt> What is 37 + 79 </prompt> <response> The answer is 116 . </response> 
+ <prompt> Please calculate the following: 132 + 192 </prompt> <response> Correct answer is 324 . </response> 
+ <prompt> What is 176 + 206 </prompt> <response> The answer is 382 . </response> 
+ <prompt> What is 116 + 106 </prompt> <response> The sum is 222 . </response> 
+ <prompt> How much is 92 + 142 ? </prompt> <response> The result is 234 . </response> 
+ <prompt> What is 136 + 132 </prompt> <response> The sum is 268 . </response> 
+ <prompt> What is 227 + 231 </prompt> <response> The sum is 458 . </response> 
+ <prompt> How much is 65 + 96 ? </prompt> <response> The sum is 161 . </response> 
+ <prompt> What is the answer to 101 + 25 </prompt> <response> The result is 126 . </response> 
+ <prompt> Please calculate the following: 121 + 32 ? </prompt> <response> 153 is the result . </response> 
+ <prompt> How much is 42 + 62 </prompt> <response> The sum is 104 . </response> 
+ <prompt> What is the total of 161 + 203 </prompt> <response> The answer is 364 . </response> 
+ <prompt> What is the total of 19 + 201 </prompt> <response> The result is 220 . </response> 
+ <prompt> How much is 77 + 53 </prompt> <response> The answer is 130 . </response> 
+ <prompt> What is 140 + 185 ? </prompt> <response> 325 is the result . </response> 
+ <prompt> How much is 71 + 294 </prompt> <response> Correct answer is 365 . </response> 
+ <prompt> Please calculate the following: 78 + 283 </prompt> <response> The answer is 361 . </response> 
+ <prompt> How much is 224 + 32 </prompt> <response> The answer is 256 . </response> 
+ <prompt> Please calculate the following: 223 + 294 </prompt> <response> The answer is 517 . </response> 
+ <prompt> Please calculate the following: 221 + 127 ? </prompt> <response> Correct answer is 348 . </response> 
+ <prompt> What is the answer to 222 + 63 </prompt> <response> The result is 285 . </response> 
+ <prompt> What is 69 + 58 </prompt> <response> Correct answer is 127 . </response> 
+ <prompt> What is the total of 185 + 262 ? </prompt> <response> Correct answer is 447 . </response> 
+ <prompt> What is the total of 206 + 180 </prompt> <response> 386 is the result . </response> 
+ <prompt> What is the total of 276 + 30 </prompt> <response> 306 is the result . </response> 
+ <prompt> What is the answer to 65 + 257 </prompt> <response> The result is 322 . </response> 
+ <prompt> Please calculate the following: 10 + 173 </prompt> <response> The answer is 183 . </response> 
+ <prompt> What is 27 + 61 </prompt> <response> The answer is 88 . </response> 
+ <prompt> What is the answer to 237 + 288 </prompt> <response> 525 is the result . </response> 
+ <prompt> What is the total of 63 + 285 </prompt> <response> Correct answer is 348 . </response> 
+ <prompt> What is the total of 274 + 223 </prompt> <response> 497 is the result . </response> 
+ <prompt> What is the total of 199 + 288 ? </prompt> <response> Correct answer is 487 . </response> 
+ <prompt> What is the answer to 88 + 169 </prompt> <response> The result is 257 . </response> 
+ <prompt> What is 274 + 17 </prompt> <response> The sum is 291 . </response> 
+ <prompt> What is 256 + 207 ? </prompt> <response> The answer is 463 . </response> 

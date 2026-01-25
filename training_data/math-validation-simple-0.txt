@@ -1,0 +1,5 @@
+ <prompt> What is the answer to 3 * 257 ? </prompt> <response> The answer is 771 . </response> 
+ <prompt> How much is 184 * 169 </prompt> <response> The answer is 31096 . </response> 
+ <prompt> Please calculate the following: 174 * 50 </prompt> <response> 8700 is the result . </response> 
+ <prompt> What is the answer to 74 * 212 ? </prompt> <response> 15688 is the result . </response> 
+ <prompt> What is the answer to 95 * 138 </prompt> <response> The result is 13110 . </response> 
