@@ -123,6 +123,11 @@ parser.add_argument("--eval_batches", help="Number of batches to run during eval
 parser.add_argument("--usage", help="Print usage examples", nargs='?', type=str2bool, const=True, default=False)
 
 args = parser.parse_args()
+g_dl_data_train = dataloader_lookup(args.train_uri)
+g_dl_data_validate = dataloader_lookup(args.validation_uri)
+
+
+
 
 if args.usage:
     print_usage_examples(sys.argv[0])

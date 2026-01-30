@@ -22,6 +22,7 @@ g_dl_data = dataloader_lookup(g_hugging_face_uri)
 
 g_name = g_dl_data["dataset_name"]
 g_dl_pre_process = g_dl_data["pre_process"]
+g_text_key = g_dl_data["dataset_key"]
 
 # FIXMENM BEGIN
 # g_dl_pre_process = ProcessHumanBot1()
@@ -41,7 +42,6 @@ CFG = {
 }
 
 g_records_to_process = 1000
-g_text_key = 'text'
 g_split = 'train'
 
 tokenizer.setConfig(CFG)

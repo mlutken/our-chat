@@ -63,9 +63,9 @@ class ProcessHumanBot1(ProcessCallbackBase):
 
 
 g_dataloaders = {
-    'hf:HuggingFaceFW/finewiki'                                     : { 'dataset_name': 'en'                , 'pre_process': None    },
-    'hf:HuggingFaceFW/fineweb'                                      : { 'dataset_name': 'CC-MAIN-2025-26'   , 'pre_process': None    },
-    'hf:Fredithefish/Instruction-Tuning-with-GPT-4-RedPajama-Chat'  : { 'dataset_name': 'default'           , 'pre_process': ProcessHumanBot1()    },
+    'hf:HuggingFaceFW/finewiki'                                     : { 'dataset_name': 'en'                , 'dataset_key': 'text', 'pre_process': None    },
+    'hf:HuggingFaceFW/fineweb'                                      : { 'dataset_name': 'CC-MAIN-2025-26'   , 'dataset_key': 'text', 'pre_process': None    },
+    'hf:Fredithefish/Instruction-Tuning-with-GPT-4-RedPajama-Chat'  : { 'dataset_name': 'default'           , 'dataset_key': 'text', 'pre_process': ProcessHumanBot1()    },
 }
 
 
