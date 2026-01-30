@@ -10,14 +10,22 @@ batch_size = 12
 emb_dim = 144
 
 
-# g_hugging_face_uri = "hf:HuggingFaceFW/finewiki"
+
 # g_name = "en"
 
-# g_hugging_face_uri = "hf:HuggingFaceFW/fineweb"
 # g_name = "CC-MAIN-2025-26"
 
+# g_hugging_face_uri = "hf:HuggingFaceFW/finewiki"
+# g_hugging_face_uri = "hf:HuggingFaceFW/fineweb"
 g_hugging_face_uri = "hf:Fredithefish/Instruction-Tuning-with-GPT-4-RedPajama-Chat"
-g_name = "default"
+g_dl_data = dataloader_lookup(g_hugging_face_uri)
+
+g_name = g_dl_data["dataset_name"]
+g_dl_pre_process = g_dl_data["pre_process"]
+
+# FIXMENM BEGIN
+# g_dl_pre_process = ProcessHumanBot1()
+# FIXMENM END
 
 CFG = {
     "vocab_size": vocab_size,
@@ -32,7 +40,7 @@ CFG = {
     "loss_binary_factor": 5.0
 }
 
-g_records_to_process = 10
+g_records_to_process = 1000
 g_text_key = 'text'
 g_split = 'train'
 
@@ -54,7 +62,7 @@ train_loader = create_loader_pretraining(
 )
 
 train_loader.dataset.writeTextToDebugFile(True)
-
+train_loader.dataset.processCallbackSet(g_dl_pre_process)
 
 num_batches = 0
 # for input_batch in train_loader:

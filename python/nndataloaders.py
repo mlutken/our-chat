@@ -3,11 +3,11 @@ import os
 from sympy import false
 from sympy.logic.boolalg import Boolean
 from torch.utils.data import Dataset, IterableDataset, DataLoader
-from tokenizer_utils import *
 import collections
 import datasets
+from tokenizer_utils import *
+from dataloader_pre_processors import *
 
-## import datasets.iterable_dataset
 
 
 
@@ -16,6 +16,7 @@ class IterDataset_Base(IterableDataset):
         super().__init__()
         self.forced_stop_ = False
         self.total_records_processed_ = 0
+        self.records_processed_since_iter_create_ = 0
         self.debug_data_file_name_ = '/tmp/_our_streaming_records_debug.txt'
         self.write_text_to_debug_file_ = False
         self.dbg_print_text_ = False
@@ -72,9 +73,6 @@ class IterDataset_TextFile_PreTrain(IterDataset_Base):
         self.token_queue_capacity_ = 100000
         self.token_queue_ = collections.deque([], maxlen=self.token_queue_capacity_)
 
-        self.total_records_processed_ = 0
-        self.records_processed_since_iter_create_ = 0
-
         # self.token_queue_ = collections.deque([])
 
         # print (f"FIXMENM queue_len: {self.queue_len()}")
@@ -100,16 +98,16 @@ class IterDataset_TextFile_PreTrain(IterDataset_Base):
                 return None, None
                 break
 
-            if self.dbg_print_text_:
-                print (f"TextFile.RECORD[{self.records_processed_since_iter_create_} / {self.total_records_processed_}] text[0:20]: '{line[0:20]}'")
-
             self.total_records_processed_ += 1
             self.records_processed_since_iter_create_ += 1
 
-            tokens = self.tokenizer_.encode(line)
+            if self.dbg_print_text_:
+                print (f"TextFile.RECORD[{self.records_processed_since_iter_create_} / {self.total_records_processed_}] text[0:20]: '{line[0:20]}'")
 
             if self.process_callback_ is not None:
-                self.process_callback_(line)
+                line = self.process_callback_.process(line)
+
+            tokens = self.tokenizer_.encode(line)
 
             for token in tokens:
                 self.token_queue_.appendleft(token)
@@ -223,9 +221,19 @@ class IterDataset_HuggingFace_PreTrain(IterDataset_Base):
                 break
 
             self.total_records_processed_ += 1
+            self.records_processed_since_iter_create_ += 1
             record_dict = dict(record)
 
             text = record_dict[self.text_key_]
+
+            if text == "":
+                print("--------- FIXMENM HuggingFace empty text stop iterating ----------")
+                return self.process_output()
+                break
+
+
+            if self.process_callback_ is not None:
+                text = self.process_callback_.process(text)
 
             if self.write_text_to_debug_file_:
                 with open(self.debug_data_file_name_, 'a') as f:
@@ -235,9 +243,6 @@ class IterDataset_HuggingFace_PreTrain(IterDataset_Base):
                 print (f"HuggingFace.RECORD[{self.total_records_processed_}] text[0:20]: '{text[0:20]}'")
 
             tokens = self.tokenizer_.encode(text)
-
-            if self.process_callback_ is not None:
-                self.process_callback_(text)
 
             for token in tokens:
                 self.token_queue_.appendleft(token)
