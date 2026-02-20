@@ -47,7 +47,7 @@ print (f"g_training_data_path   : {g_training_data_path}")
 #
 # time python our-chat.py --epochs 2 --batch_size 12 --records_to_process 17 --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2025-26 --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1 --print_initial_loss 1
 # time python our-chat.py --epochs 2 --batch_size 12 --records_to_process -1 --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri ../training_data/math-training-simple-2.txt --dataset_name CC-MAIN-2025-26 --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1 --print_initial_loss 1
-# python our-chat.py --run_mode chat-simple
+# python our-chat.py --mode chat-simple
 
 
 # Crash in PositionalEncoding: 'hf:HuggingFaceFW/finewiki'
@@ -85,7 +85,7 @@ def print_usage_examples(exe_name):
     print(f"--- Example 1: ---\npython {exe_name} --start_context 'What is 21 + 15?'  --train_uri ../training_data/math-training-simple-4.txt --validation_uri ../training_data/math-validation-simple-4.txt --epochs 50\n")
     print(f"--- Example 2: ---\npython {exe_name} --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri ../training_data/the-verdict.txt  --model_path mymodel.pth\n")
 
-    print(f"--- Example Chat simple: ---\npython {exe_name}  --run_mode chat-simple\n" )
+    print(f"--- Example Chat simple: ---\npython {exe_name}  --mode chat-simple\n" )
 
     print("")
     print_tested_hugging_face_foundation_training_sets(exe_name)
@@ -100,7 +100,7 @@ parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, defa
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--model_path", help="Model save/load file name", nargs='?', type=str, default="_model.pth")
-parser.add_argument("--run_mode", help="Run mode: train, chat-simple", nargs='?', type=str, default="train")
+parser.add_argument("--mode", help="Run mode: train, chat-simple", nargs='?', type=str, default="train")
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="<prompt> What is 15 + 5 ? </prompt> ")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
@@ -146,7 +146,7 @@ default_start_context = args.start_context
 
 print("Default device           : ", g_device)
 print("device                   : ", device)
-print("run_mode                 : ", args.run_mode)
+print("mode                     : ", args.mode)
 print("num_epochs               : ", args.epochs)
 print("plot                     : ", args.plot)
 print("batch_size               : ", args.batch_size)
@@ -208,7 +208,7 @@ if args.load_model:
 model.to(device)
 model.eval()
 
-if args.run_mode == "chat-simple":
+if args.mode == "chat-simple":
     print("Running chat simple mode")
 
     user_input = input("Enter a sentence to chat ('q' to quit)> ")
