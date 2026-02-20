@@ -16,7 +16,11 @@ class WordIdLookup():
 
     def __init__(self, word_to_id_file_path):
         self.word_to_id_file_path_ = Path(word_to_id_file_path)
+        self.unknown_words_file_path_ = Path("/tmp/_unknown_words.json")
+        self.unknown_words_sorted_file_path_ = Path("/tmp/_unknown_words_sorted_counts.txt")
+        self.unknown_words_sorted_text_file_path_ = Path("/tmp/_unknown_words_sorted.txt")
         # print(f"self.word_to_id_file_path_: {self.word_to_id_file_path_}")
+        self.unknown_words_ = {}
 
         atexit.register(self.saveWordIdFile)
 
@@ -25,6 +29,19 @@ class WordIdLookup():
 
         self._initReservedIds()
         self._buildLookup()
+
+    def checkAddToUnknownWords(self, word):
+        if (word == "") or (self.isKnownBaseWord(word)):
+            return
+
+        # print(f"FIXMENM B checkAddToUnknownWords: '{word}'")
+        if word in self.unknown_words_:
+            self.unknown_words_[word] += 1
+        else:
+            self.unknown_words_[word] = 1
+
+    def isKnownBaseWord(self, word):
+        return word in self.word_to_id_
 
     def maxWordId(self):
         return self._lastId
@@ -50,7 +67,24 @@ class WordIdLookup():
     def saveWordIdFile(self):
         with open(self.word_to_id_file_path_, "w") as fp:
             json.dump(self.word_to_id_, fp, indent=4)
+        with open(self.unknown_words_file_path_, "w") as fp:
+            json.dump(self.unknown_words_, fp, indent=4)
 
+        # Sort by number of occurrences and save
+        listSorted = []
+        for word, cnt in self.unknown_words_.items():
+            listSorted.append([word, cnt])
+
+        listSorted.sort(key=lambda x: x[1], reverse=True)
+        with open(self.unknown_words_sorted_file_path_, "w") as fp:
+            for wordTuple in listSorted:
+                word, cnt = wordTuple
+                fp.write(f"{word} : {cnt}\n")
+
+        with open(self.unknown_words_sorted_text_file_path_, "w") as fp:
+            for wordTuple in listSorted:
+                word, cnt = wordTuple
+                fp.write(word + "\n")
 
     def _buildLookup(self):
         self._initWordToIdDict()
@@ -87,5 +121,6 @@ class WordIdLookup():
     reserved_word_to_id_ = {}
     word_to_id_ = {}
     id_to_word_ = {}
+    unknown_words_ = {}
 
 

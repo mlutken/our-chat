@@ -43,6 +43,7 @@ class DictionaryTokenizer():
 
     def setNumberBitsIntPart(self, number_bits):
         self.number_bits_integer_part = number_bits
+        #self.number_bits_fractional_part = number_bits # TODO: Support fixed point numbers
         self.min_binary_number = minBinaryNumber(self.number_bits_integer_part)
         self.max_binary_number = maxBinaryNumber(self.number_bits_integer_part)
 
@@ -61,6 +62,17 @@ class DictionaryTokenizer():
 
     def idToBaseWord(self, baseWordId):
         return self.wordIdLookup_.idToBaseWord(baseWordId)
+
+    def isKnownWord(self, word):
+        subtree = self.tokenizerTree_
+        for ch in word:
+            if ch not in subtree:
+                return False
+            subtree = subtree[ch]
+            if not subtree:
+                return False
+
+        return True
 
     # def idsToWord(self, baseWordId, wordClassId):
     #     return self.wordIdLookup_.idToBaseWord(id)
@@ -127,6 +139,7 @@ class DictionaryTokenizer():
         return self.idsToText(ids)
 
     def parseTextToIds(self, text):
+        self.addAnyUnknownWords(text)
         words = self.parseTextToWords(text)
         return self.wordsToIds(words)
 
@@ -155,6 +168,18 @@ class DictionaryTokenizer():
             word, currentTxtPos = self.parseNextWordFromParseTree(text, currentTxtPos)
 
         return word, currentTxtPos
+
+    def addAnyUnknownWords(self, text):
+        word = ''
+        for ch in text:
+            ch = ch.lower()
+            if isSeparator(ch):
+                if (not self.isKnownWord(word)) and (not self._tryParseNumber(word)):
+                    self.wordIdLookup_.checkAddToUnknownWords(word)
+                word = ''
+            else:
+                word += ch
+
 
     def tryParseNextWordAsNumber(self, text, currentTxtPos):
         txtLen = len(text)
@@ -299,10 +324,9 @@ class DictionaryTokenizer():
 
         return word, currentPos
 
-    def tokenize(self, str):
-        tokens = []
-
-        return tokens
+    # def tokenize(self, str):
+    #     tokens = []
+    #     return tokens
 
     def listAllFiles(self):
         print("listAllFiles")
@@ -517,6 +541,7 @@ class DictionaryTokenizer():
 
     def _getTemplateInputPath(self, templateName):
         return os.path.join(self.templates_input_files_dir_, f"{templateName}.json")
+
 
     # @staticmethod
     def _processIdVectorForEmbedding(self, idsIn):

@@ -69,16 +69,13 @@ def str2bool(v):
     else:
         raise argparse.ArgumentTypeError('Boolean value expected.')
 
-def print_tested_hugging_face_foundation_training_sets():
+def print_tested_hugging_face_foundation_training_sets(exe_name):
     print("*********************************************************")
     print("*** Tested Hugging Face foundation training data sets ***")
     print("*********************************************************")
-    print(f"--- 'hf:HuggingFaceFW/finewiki' (https://huggingface.co/datasets/HuggingFaceFW/finewiki) ---")
-    print(f"    dataset_name = 'en'; dataset_key = 'text'")
-    print("")
-    print(f"--- 'hf:HuggingFaceFW/fineweb' (https://huggingface.co/datasets/HuggingFaceFW/fineweb) ---")
-    print(f"    dataset_name = 'CC-MAIN-2025-26'; dataset_key = 'text'")
-    print("")
+    for dl_uri, dl in all_dataloaders().items():
+        print(f" --- [{dl["train_type"]}] '{dl_uri}' dataset_name = '{dl["dataset_name"]}'; dataset_key = '{dl["dataset_key"]}' ---")
+        print(f"     cmd:  python {exe_name} --train_uri '{dl_uri}' --epochs 1 --records_to_process 1000")
 
 
 def print_usage_examples(exe_name):
@@ -93,12 +90,12 @@ def print_usage_examples(exe_name):
     print(f"--- Example Chat simple: ---\npython {exe_name}  --run_mode chat-simple\n" )
 
     print("")
-    print_tested_hugging_face_foundation_training_sets()
+    print_tested_hugging_face_foundation_training_sets(exe_name)
 
 
 parser = argparse.ArgumentParser("gpt2-simple-train")
 parser.add_argument("--device", help="Set device 'cuda' or 'cpu'", nargs='?', type=str, default='')
-parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=0)
+parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
@@ -109,8 +106,8 @@ parser.add_argument("--run_mode", help="Run mode: train, chat-simple", nargs='?'
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="<prompt> What is 15 + 5 ? </prompt> ")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
-parser.add_argument("--dataset_name", help="Internal name of Hugging face) dataset: Eg: 'en', 'CC-MAIN-2024-10', ... Depends on concrete dataset.", nargs='?', type=str, default="en")
-parser.add_argument("--dataset_key", help="Dictionary key name of primary text data in each record. Eg.: 'text'", nargs='?', type=str, default="text")
+parser.add_argument("--dataset_name", help="Internal name of Hugging face) dataset: Eg: 'en', 'CC-MAIN-2024-10', ... Depends on concrete dataset.", nargs='?', type=str, default="")
+parser.add_argument("--dataset_key", help="Dictionary key name of primary text data in each record. Eg.: 'text'", nargs='?', type=str, default="")
 parser.add_argument("--dataset_training_split", help="Training split name. Eg.:'train'", nargs='?', type=str, default="train")
 parser.add_argument("--dataset_validation_split", help="Training split name. Eg.:'validation'", nargs='?', type=str, default="train")
 parser.add_argument("--num_workers", help="Number of worker threads. Not tested", nargs='?', type=int, default=0)
@@ -123,10 +120,14 @@ parser.add_argument("--eval_batches", help="Number of batches to run during eval
 parser.add_argument("--usage", help="Print usage examples", nargs='?', type=str2bool, const=True, default=False)
 
 args = parser.parse_args()
+
 g_dl_data_train = dataloader_lookup(args.train_uri)
 g_dl_data_validate = dataloader_lookup(args.validation_uri)
 
-
+# --- Set default arguments from dataloader lookup ---
+if g_dl_data_train is not None:
+    if args.dataset_name == "":  args.dataset_name = g_dl_data_train["dataset_name"]
+    if args.dataset_key == "":  args.dataset_key = g_dl_data_train["dataset_key"]
 
 
 if args.usage:
