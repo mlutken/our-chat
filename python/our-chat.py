@@ -80,12 +80,10 @@ def print_tested_hugging_face_foundation_training_sets(exe_name):
 
 def print_usage_examples(exe_name):
     print("**********************")
-    print("*** usage examples ***")
+    print("*** Usage examples ***")
     print("**********************")
-    print(f"--- Example 1: ---\npython {exe_name} --epochs 10 --batch_size 12 --start_context 'What is 21 + 15?' --load_model 1 --save_model 1 --train_uri ../training_data/math-training-simple-2.txt --validation_uri ../training_data/math-validation-simple-1.txt --device cuda --model_path pass0_dropOutAll2.pth\n")
-    print(f"--- Example 2: ---\npython {exe_name} --epochs 10 --batch_size 12 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri ../training_data/the-verdict.txt  --device cuda --model_path pass0_dropOutAll2.pth\n")
-    print(f"--- Example 3: ---\npython {exe_name} --epochs 1 --batch_size 12 --records_to_process 1000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/finewiki' --dataset_name en --device cuda --model_path mymodel.pth\n" )
-    print(f"--- Example 4: ---\npython {exe_name} --epochs 1 --batch_size 12 --records_to_process 1000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2024-10 --device cuda --model_path mymodel.pth\n" )
+    print(f"--- Example 1: ---\npython {exe_name} --start_context 'What is 21 + 15?'  --train_uri ../training_data/math-training-simple-4.txt --validation_uri ../training_data/math-validation-simple-4.txt --epochs 50\n")
+    print(f"--- Example 2: ---\npython {exe_name} --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri ../training_data/the-verdict.txt  --model_path mymodel.pth\n")
 
     print(f"--- Example Chat simple: ---\npython {exe_name}  --run_mode chat-simple\n" )
 
@@ -229,15 +227,15 @@ print(f"--- Test model before training: device: {device} ---")
 model.generateAndPrintSample(device, default_start_context)
 print(f"--------------------------------------")
 
-train_loader = create_loader_pretraining(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                         split=args.dataset_training_split, records_to_process=args.records_to_process,
-                                         batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
-                                         drop_last=False, shuffle=False, num_workers=args.num_workers)
+train_loader = create_data_loader(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
+                                  split=args.dataset_training_split, records_to_process=args.records_to_process,
+                                  batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
+                                  drop_last=False, shuffle=False, num_workers=args.num_workers)
 
-validation_loader = create_loader_pretraining(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                              split=args.dataset_validation_split, records_to_process=args.records_to_process,
-                                              batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
-                                              drop_last=False, shuffle=False, num_workers=args.num_workers)
+validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
+                                       split=args.dataset_validation_split, records_to_process=args.records_to_process,
+                                       batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
+                                       drop_last=False, shuffle=False, num_workers=args.num_workers)
 
 train_loader.dataset.debugPrintText(args.dbg_print_text)
 train_loader.dataset.writeTextToDebugFile(args.dbg_write_records_to_file)

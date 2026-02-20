@@ -46,7 +46,7 @@ g_split = 'train'
 
 tokenizer.setConfig(CFG)
 
-train_loader = create_loader_pretraining(
+train_loader = create_data_loader(
     tokenizer,
     g_hugging_face_uri,
     name=g_name,

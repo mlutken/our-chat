@@ -57,11 +57,11 @@ class IterDataset_Base(IterableDataset):
 
 
 # ---------------------------------------
-# --- IterDataset_TextFile_PreTrain ---
+# --- IterDataset_TextFile ---
 # ---------------------------------------
 # https://medium.com/@amit25173/how-to-use-dataloader-with-iterabledataset-in-pytorch-an-advanced-practical-guide-898a49ace81c
 # https://docs.python.org/3/library/collections.html#collections.deque
-class IterDataset_TextFile_PreTrain(IterDataset_Base):
+class IterDataset_TextFile(IterDataset_Base):
     def __init__(self, tokenizer, text_file_path, records_to_process, max_length, stride):
         super().__init__()
         self.tokenizer_ = tokenizer
@@ -159,13 +159,13 @@ class IterDataset_TextFile_PreTrain(IterDataset_Base):
         return input_chunk_tensor, target_chunk_tensor
 
 
-def create_iter_loader_TextFile_PreTrain(tokenizer, textFilePath, records_to_process = -1, batch_size=4, max_length=256,
+def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process = -1, batch_size=4, max_length=256,
                                            stride=128, shuffle=False, drop_last=True,
                                            num_workers=0):
     if not os.path.isfile(textFilePath):
         return None
 
-    dataset = IterDataset_TextFile_PreTrain(tokenizer, textFilePath, records_to_process, max_length, stride)
+    dataset = IterDataset_TextFile(tokenizer, textFilePath, records_to_process, max_length, stride)
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
@@ -178,11 +178,11 @@ def create_iter_loader_TextFile_PreTrain(tokenizer, textFilePath, records_to_pro
 
 
 # ------------------------------------------
-# --- IterDataset_HuggingFace_PreTrain ---
+# --- IterDataset_HuggingFace ---
 # ------------------------------------------
 # https://medium.com/@amit25173/how-to-use-dataloader-with-iterabledataset-in-pytorch-an-advanced-practical-guide-898a49ace81c
 # https://docs.python.org/3/library/collections.html#collections.deque
-class IterDataset_HuggingFace_PreTrain(IterDataset_Base):
+class IterDataset_HuggingFace(IterDataset_Base):
     def __init__(self, tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride):
         super().__init__()
         self.tokenizer_ = tokenizer
@@ -296,10 +296,10 @@ class IterDataset_HuggingFace_PreTrain(IterDataset_Base):
         return input_chunk_tensor, target_chunk_tensor
 
 
-def create_iter_loader_HuggingFace_PreTrain(tokenizer, hugging_face_uri, name, text_key, split, records_to_process = -1, batch_size=4, max_length=256,
+def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process = -1, batch_size=4, max_length=256,
                                               stride=128, shuffle=False, drop_last=True,
                                               num_workers=0):
-    dataset = IterDataset_HuggingFace_PreTrain(tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride)
+    dataset = IterDataset_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride)
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
@@ -312,9 +312,9 @@ def create_iter_loader_HuggingFace_PreTrain(tokenizer, hugging_face_uri, name, t
 
 
 
-def create_loader_pretraining(tokenizer, resource_uri, name, text_key, split, records_to_process = -1, batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
+def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_to_process = -1, batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
     if 'hf:' in resource_uri:
-        return create_iter_loader_HuggingFace_PreTrain(
+        return create_iter_loader_HuggingFace(
             tokenizer,
             resource_uri,
             name=name,
@@ -328,7 +328,7 @@ def create_loader_pretraining(tokenizer, resource_uri, name, text_key, split, re
             drop_last=drop_last,
             num_workers=num_workers)
     else:
-        return create_iter_loader_TextFile_PreTrain(
+        return create_iter_loader_TextFile(
             tokenizer,
             resource_uri,
             records_to_process,
