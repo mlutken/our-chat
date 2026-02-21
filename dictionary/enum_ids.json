@@ -18,7 +18,8 @@
         "f":    65,
         "sep":  66,
         "unk":  67,
-        "pad":  68
+        "pad":  68,
+        "misc": 69
     },
     "classforms": {
         "f0": 1,
@@ -64,7 +65,8 @@
                     "[f]    65       : float",
                     "[sep]  66       : separator",
                     "[unk]  67       : unknown word/char",
-                    "[pad]  68       : padding"
+                    "[pad]  68       : padding",
+                    "[misc] 69       : misc words. For now: [be, was/were, been, being, is] as they dont follow normal verb pattern"
                  ],
         "classforms": [
                     "[f0]  : Unknown form",

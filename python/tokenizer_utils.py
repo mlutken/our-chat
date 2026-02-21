@@ -35,11 +35,13 @@ CALC_EVAL_END_TOKEN     = '</calc_eval>'
 CONTEXT_START_TOKEN     = '<context>'
 CONTEXT_END_TOKEN       = '</context>'
 
-SEPARATORS_HMM = [
-    ' ', "\n", '-', '_',
-    '.', ',', '?', '!', ':', ';',
-    "'", '"',
-    '(', ')', '[', ']', '{', '}'
+SEPARATORS_WORD_COUNT = [
+    ' ', "\n", '.', ',', '?', '!', ':', ';',
+    '-', '+', '*', '/','=',
+    '½','¼','€','%','&','@',
+    "'", '"', '“', '|', '#', '—', '_', '~', '^',
+    '(', ')', '[', ']', '{', '}', '<', '>',
+    '•', '…'
 ]
 
 SEPARATORS = [
@@ -60,6 +62,9 @@ def isSpace(ch):
 
 def isSeparator(ch):
     return ch in SEPARATORS
+
+def isSeparatorWordCount(ch):
+    return ch in SEPARATORS_WORD_COUNT
 
 def isNumberChar(ch):
     return ch in NUMBER_CHARS

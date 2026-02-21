@@ -173,7 +173,7 @@ class DictionaryTokenizer():
         word = ''
         for ch in text:
             ch = ch.lower()
-            if isSeparator(ch):
+            if isSeparatorWordCount(ch):
                 if (not self.isKnownWord(word)) and (not self._tryParseNumber(word)):
                     self.wordIdLookup_.checkAddToUnknownWords(word)
                 word = ''

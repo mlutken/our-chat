@@ -7,9 +7,11 @@ dictionary_path     = pathlib.Path(__file__).parent.parent.resolve()
 source_data_path    = (dictionary_path / "_source_data").resolve()
 
 source_names = [
-    "nouns_irregular", "nouns_regular",  # Nouns first. Res in alphabetical order
+    "nouns_irregular", "nouns_regular", "02_nouns",   # Nouns first. Rest in alphabetical order
     "adjectives", "conjunctive_adverbs", "degree_adverbs", "frequency_adverbs", "manner_adverbs",
-    "place_adverbs", "time_adverbs", "verbs_irregular", "verbs_regular"
+    "place_adverbs", "time_adverbs", "verbs_irregular", "verbs_regular",
+    "auxiliary_verbs", "misc_words",
+    "02_verbs"
 ]
 
 print(f"dictionary_path : {dictionary_path}")
