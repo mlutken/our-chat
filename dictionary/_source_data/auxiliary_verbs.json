@@ -1,0 +1,73 @@
+[
+    {
+        "base": "can",
+        "classes": ["aux"],
+        "f0": "can"
+    }
+    ,
+    {
+        "base": "should",
+        "classes": ["aux"],
+        "f0": "should"
+    }
+    ,
+    {
+        "base": "must",
+        "classes": ["aux"],
+        "f0": "must"
+    }
+    ,
+    {
+        "base": "can",
+        "classes": ["aux"],
+        "f0": "can"
+    }
+    ,
+    {
+        "base": "may",
+        "classes": ["aux"],
+        "f0": "may"
+    }
+    ,
+    {
+        "base": "might",
+        "classes": ["aux"],
+        "f0": "might"
+    }
+    ,
+    {
+        "base": "could",
+        "classes": ["aux"],
+        "f0": "could"
+    }
+    ,
+    {
+        "base": "should",
+        "classes": ["aux"],
+        "f0": "should"
+    }
+    ,
+    {
+        "base": "would",
+        "classes": ["aux"],
+        "f0": "would"
+    }
+    ,
+    {
+        "base": "will",
+        "classes": ["aux"],
+        "f0": "will"
+    }
+    ,
+    {
+        "base": "shall",
+        "classes": ["aux"],
+        "f0": "shall"
+    }
+    ,
+    {
+        "base": "ought",
+        "classes": ["aux"],
+        "f0": "ought"
+    }
+]

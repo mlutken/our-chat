@@ -1,0 +1,6129 @@
+[
+    {
+        "base": "team",
+        "classes": [
+            "n"
+        ],
+        "n1": "team",
+        "n2": "teams",
+        "n3": "the team",
+        "n4": "the teams",
+        "n5": "team's"
+    },
+    {
+        "base": "casino",
+        "classes": [
+            "n"
+        ],
+        "n1": "casino",
+        "n2": "casinos",
+        "n3": "the casino",
+        "n4": "the casinos",
+        "n5": "casino's"
+    },
+    {
+        "base": "website",
+        "classes": [
+            "n"
+        ],
+        "n1": "website",
+        "n2": "websites",
+        "n3": "the website",
+        "n4": "the websites",
+        "n5": "website's"
+    },
+    {
+        "base": "content",
+        "classes": [
+            "n"
+        ],
+        "n1": "content",
+        "n2": "contents",
+        "n3": "the content",
+        "n4": "the contents",
+        "n5": "content's"
+    },
+    {
+        "base": "companies",
+        "classes": [
+            "n"
+        ],
+        "n1": "companies",
+        "n2": "companiess",
+        "n3": "the companies",
+        "n4": "the companiess",
+        "n5": "companies's"
+    },
+    {
+        "base": "child",
+        "classes": [
+            "n"
+        ],
+        "n1": "child",
+        "n2": "children",
+        "n3": "the child",
+        "n4": "the childrens",
+        "n5": "children's"
+    },
+    {
+        "base": "others",
+        "classes": [
+            "n"
+        ],
+        "n1": "others",
+        "n2": "otherss",
+        "n3": "the others",
+        "n4": "the otherss",
+        "n5": "others's"
+    },
+    {
+        "base": "national",
+        "classes": [
+            "n"
+        ],
+        "n1": "national",
+        "n2": "nationals",
+        "n3": "the national",
+        "n4": "the nationals",
+        "n5": "national's"
+    },
+    {
+        "base": "special",
+        "classes": [
+            "n"
+        ],
+        "n1": "special",
+        "n2": "specials",
+        "n3": "the special",
+        "n4": "the specials",
+        "n5": "special's"
+    },
+    {
+        "base": "essential",
+        "classes": [
+            "n"
+        ],
+        "n1": "essential",
+        "n2": "essentials",
+        "n3": "the essential",
+        "n4": "the essentials",
+        "n5": "essential's"
+    },
+    {
+        "base": "women",
+        "classes": [
+            "n"
+        ],
+        "n1": "women",
+        "n2": "womens",
+        "n3": "the women",
+        "n4": "the womens",
+        "n5": "women's"
+    },
+    {
+        "base": "american",
+        "classes": [
+            "n"
+        ],
+        "n1": "american",
+        "n2": "americans",
+        "n3": "the american",
+        "n4": "the americans",
+        "n5": "american's"
+    },
+    {
+        "base": "hours",
+        "classes": [
+            "n"
+        ],
+        "n1": "hours",
+        "n2": "hourss",
+        "n3": "the hours",
+        "n4": "the hourss",
+        "n5": "hours's"
+    },
+    {
+        "base": "significant",
+        "classes": [
+            "n"
+        ],
+        "n1": "significant",
+        "n2": "significants",
+        "n3": "the significant",
+        "n4": "the significants",
+        "n5": "significant's"
+    },
+    {
+        "base": "mobile",
+        "classes": [
+            "n"
+        ],
+        "n1": "mobile",
+        "n2": "mobiles",
+        "n3": "the mobile",
+        "n4": "the mobiles",
+        "n5": "mobile's"
+    },
+    {
+        "base": "details",
+        "classes": [
+            "n"
+        ],
+        "n1": "details",
+        "n2": "detailss",
+        "n3": "the details",
+        "n4": "the detailss",
+        "n5": "details's"
+    },
+    {
+        "base": "medical",
+        "classes": [
+            "n"
+        ],
+        "n1": "medical",
+        "n2": "medicals",
+        "n3": "the medical",
+        "n4": "the medicals",
+        "n5": "medical's"
+    },
+    {
+        "base": "human",
+        "classes": [
+            "n"
+        ],
+        "n1": "human",
+        "n2": "humans",
+        "n3": "the human",
+        "n4": "the humans",
+        "n5": "human's"
+    },
+    {
+        "base": "individuals",
+        "classes": [
+            "n"
+        ],
+        "n1": "individuals",
+        "n2": "individualss",
+        "n3": "the individuals",
+        "n4": "the individualss",
+        "n5": "individuals's"
+    },
+    {
+        "base": "center",
+        "classes": [
+            "n"
+        ],
+        "n1": "center",
+        "n2": "centers",
+        "n3": "the center",
+        "n4": "the centers",
+        "n5": "center's"
+    },
+    {
+        "base": "costs",
+        "classes": [
+            "n"
+        ],
+        "n1": "costs",
+        "n2": "costss",
+        "n3": "the costs",
+        "n4": "the costss",
+        "n5": "costs's"
+    },
+    {
+        "base": "activities",
+        "classes": [
+            "n"
+        ],
+        "n1": "activities",
+        "n2": "activitiess",
+        "n3": "the activities",
+        "n4": "the activitiess",
+        "n5": "activities's"
+    },
+    {
+        "base": "sales",
+        "classes": [
+            "n"
+        ],
+        "n1": "sales",
+        "n2": "saless",
+        "n3": "the sales",
+        "n4": "the saless",
+        "n5": "sales's"
+    },
+    {
+        "base": "treatment",
+        "classes": [
+            "n"
+        ],
+        "n1": "treatment",
+        "n2": "treatments",
+        "n3": "the treatment",
+        "n4": "the treatments",
+        "n5": "treatment's"
+    },
+    {
+        "base": "individual",
+        "classes": [
+            "n"
+        ],
+        "n1": "individual",
+        "n2": "individuals",
+        "n3": "the individual",
+        "n4": "the individuals",
+        "n5": "individual's"
+    },
+    {
+        "base": "skin",
+        "classes": [
+            "n"
+        ],
+        "n1": "skin",
+        "n2": "skins",
+        "n3": "the skin",
+        "n4": "the skins",
+        "n5": "skin's"
+    },
+    {
+        "base": "option",
+        "classes": [
+            "n"
+        ],
+        "n1": "option",
+        "n2": "options",
+        "n3": "the option",
+        "n4": "the options",
+        "n5": "option's"
+    },
+    {
+        "base": "rights",
+        "classes": [
+            "n"
+        ],
+        "n1": "rights",
+        "n2": "rightss",
+        "n3": "the rights",
+        "n4": "the rightss",
+        "n5": "rights's"
+    },
+    {
+        "base": "million",
+        "classes": [
+            "n"
+        ],
+        "n1": "million",
+        "n2": "millions",
+        "n3": "the million",
+        "n4": "the millions",
+        "n5": "million's"
+    },
+    {
+        "base": "purchase",
+        "classes": [
+            "n"
+        ],
+        "n1": "purchase",
+        "n2": "purchases",
+        "n3": "the purchase",
+        "n4": "the purchases",
+        "n5": "purchase's"
+    },
+    {
+        "base": "particular",
+        "classes": [
+            "n"
+        ],
+        "n1": "particular",
+        "n2": "particulars",
+        "n3": "the particular",
+        "n4": "the particulars",
+        "n5": "particular's"
+    },
+    {
+        "base": "season",
+        "classes": [
+            "n"
+        ],
+        "n1": "season",
+        "n2": "seasons",
+        "n3": "the season",
+        "n4": "the seasons",
+        "n5": "season's"
+    },
+    {
+        "base": "major",
+        "classes": [
+            "n"
+        ],
+        "n1": "major",
+        "n2": "majors",
+        "n3": "the major",
+        "n4": "the majors",
+        "n5": "major's"
+    },
+    {
+        "base": "opportunities",
+        "classes": [
+            "n"
+        ],
+        "n1": "opportunities",
+        "n2": "opportunitiess",
+        "n3": "the opportunities",
+        "n4": "the opportunitiess",
+        "n5": "opportunities's"
+    },
+    {
+        "base": "projects",
+        "classes": [
+            "n"
+        ],
+        "n1": "projects",
+        "n2": "projectss",
+        "n3": "the projects",
+        "n4": "the projectss",
+        "n5": "projects's"
+    },
+    {
+        "base": "production",
+        "classes": [
+            "n"
+        ],
+        "n1": "production",
+        "n2": "productions",
+        "n3": "the production",
+        "n4": "the productions",
+        "n5": "production's"
+    },
+    {
+        "base": "private",
+        "classes": [
+            "n"
+        ],
+        "n1": "private",
+        "n2": "privates",
+        "n3": "the private",
+        "n4": "the privates",
+        "n5": "private's"
+    },
+    {
+        "base": "casinos",
+        "classes": [
+            "n"
+        ],
+        "n1": "casinos",
+        "n2": "casinoss",
+        "n3": "the casinos",
+        "n4": "the casinoss",
+        "n5": "casinos's"
+    },
+    {
+        "base": "someone",
+        "classes": [
+            "n"
+        ],
+        "n1": "someone",
+        "n2": "someones",
+        "n3": "the someone",
+        "n4": "the someones",
+        "n5": "someone's"
+    },
+    {
+        "base": "extra",
+        "classes": [
+            "n"
+        ],
+        "n1": "extra",
+        "n2": "extras",
+        "n3": "the extra",
+        "n4": "the extras",
+        "n5": "extra's"
+    },
+    {
+        "base": "strategies",
+        "classes": [
+            "n"
+        ],
+        "n1": "strategies",
+        "n2": "strategiess",
+        "n3": "the strategies",
+        "n4": "the strategiess",
+        "n5": "strategies's"
+    },
+    {
+        "base": "staff",
+        "classes": [
+            "n"
+        ],
+        "n1": "staff",
+        "n2": "staffs",
+        "n3": "the staff",
+        "n4": "the staffs",
+        "n5": "staff's"
+    },
+    {
+        "base": "god",
+        "classes": [
+            "n"
+        ],
+        "n1": "god",
+        "n2": "gods",
+        "n3": "the god",
+        "n4": "the gods",
+        "n5": "god's"
+    },
+    {
+        "base": "gaming",
+        "classes": [
+            "n"
+        ],
+        "n1": "gaming",
+        "n2": "gamings",
+        "n3": "the gaming",
+        "n4": "the gamings",
+        "n5": "gaming's"
+    },
+    {
+        "base": "professionals",
+        "classes": [
+            "n"
+        ],
+        "n1": "professionals",
+        "n2": "professionalss",
+        "n3": "the professionals",
+        "n4": "the professionalss",
+        "n5": "professionals's"
+    },
+    {
+        "base": "original",
+        "classes": [
+            "n"
+        ],
+        "n1": "original",
+        "n2": "originals",
+        "n3": "the original",
+        "n4": "the originals",
+        "n5": "original's"
+    },
+    {
+        "base": "slots",
+        "classes": [
+            "n"
+        ],
+        "n1": "slots",
+        "n2": "slotss",
+        "n3": "the slots",
+        "n4": "the slotss",
+        "n5": "slots's"
+    },
+    {
+        "base": "minutes",
+        "classes": [
+            "n"
+        ],
+        "n1": "minutes",
+        "n2": "minutess",
+        "n3": "the minutes",
+        "n4": "the minutess",
+        "n5": "minutes's"
+    },
+    {
+        "base": "anyone",
+        "classes": [
+            "n"
+        ],
+        "n1": "anyone",
+        "n2": "anyones",
+        "n3": "the anyone",
+        "n4": "the anyones",
+        "n5": "anyone's"
+    },
+    {
+        "base": "we",
+        "classes": [
+            "n"
+        ],
+        "n1": "we",
+        "n2": "wes",
+        "n3": "the we",
+        "n4": "the wes",
+        "n5": "we's"
+    },
+    {
+        "base": "court",
+        "classes": [
+            "n"
+        ],
+        "n1": "court",
+        "n2": "courts",
+        "n3": "the court",
+        "n4": "the courts",
+        "n5": "court's"
+    },
+    {
+        "base": "physical",
+        "classes": [
+            "n"
+        ],
+        "n1": "physical",
+        "n2": "physicals",
+        "n3": "the physical",
+        "n4": "the physicals",
+        "n5": "physical's"
+    },
+    {
+        "base": "south",
+        "classes": [
+            "n"
+        ],
+        "n1": "south",
+        "n2": "souths",
+        "n3": "the south",
+        "n4": "the souths",
+        "n5": "south's"
+    },
+    {
+        "base": "front",
+        "classes": [
+            "n"
+        ],
+        "n1": "front",
+        "n2": "fronts",
+        "n3": "the front",
+        "n4": "the fronts",
+        "n5": "front's"
+    },
+    {
+        "base": "bill",
+        "classes": [
+            "n"
+        ],
+        "n1": "bill",
+        "n2": "bills",
+        "n3": "the bill",
+        "n4": "the bills",
+        "n5": "bill's"
+    },
+    {
+        "base": "google",
+        "classes": [
+            "n"
+        ],
+        "n1": "google",
+        "n2": "googles",
+        "n3": "the google",
+        "n4": "the googles",
+        "n5": "google's"
+    },
+    {
+        "base": "factors",
+        "classes": [
+            "n"
+        ],
+        "n1": "factors",
+        "n2": "factorss",
+        "n3": "the factors",
+        "n4": "the factorss",
+        "n5": "factors's"
+    },
+    {
+        "base": "york",
+        "classes": [
+            "n"
+        ],
+        "n1": "york",
+        "n2": "yorks",
+        "n3": "the york",
+        "n4": "the yorks",
+        "n5": "york's"
+    },
+    {
+        "base": "street",
+        "classes": [
+            "n"
+        ],
+        "n1": "street",
+        "n2": "streets",
+        "n3": "the street",
+        "n4": "the streets",
+        "n5": "street's"
+    },
+    {
+        "base": "comprehensive",
+        "classes": [
+            "n"
+        ],
+        "n1": "comprehensive",
+        "n2": "comprehensives",
+        "n3": "the comprehensive",
+        "n4": "the comprehensives",
+        "n5": "comprehensive's"
+    },
+    {
+        "base": "critical",
+        "classes": [
+            "n"
+        ],
+        "n1": "critical",
+        "n2": "criticals",
+        "n3": "the critical",
+        "n4": "the criticals",
+        "n5": "critical's"
+    },
+    {
+        "base": "ideal",
+        "classes": [
+            "n"
+        ],
+        "n1": "ideal",
+        "n2": "ideals",
+        "n3": "the ideal",
+        "n4": "the ideals",
+        "n5": "ideal's"
+    },
+    {
+        "base": "stop",
+        "classes": [
+            "n"
+        ],
+        "n1": "stop",
+        "n2": "stops",
+        "n3": "the stop",
+        "n4": "the stops",
+        "n5": "stop's"
+    },
+    {
+        "base": "commercial",
+        "classes": [
+            "n"
+        ],
+        "n1": "commercial",
+        "n2": "commercials",
+        "n3": "the commercial",
+        "n4": "the commercials",
+        "n5": "commercial's"
+    },
+    {
+        "base": "wine",
+        "classes": [
+            "n"
+        ],
+        "n1": "wine",
+        "n2": "wines",
+        "n3": "the wine",
+        "n4": "the wines",
+        "n5": "wine's"
+    },
+    {
+        "base": "countries",
+        "classes": [
+            "n"
+        ],
+        "n1": "countries",
+        "n2": "countriess",
+        "n3": "the countries",
+        "n4": "the countriess",
+        "n5": "countries's"
+    },
+    {
+        "base": "supply",
+        "classes": [
+            "n"
+        ],
+        "n1": "supply",
+        "n2": "supplys",
+        "n3": "the supply",
+        "n4": "the supplys",
+        "n5": "supply's"
+    },
+    {
+        "base": "function",
+        "classes": [
+            "n"
+        ],
+        "n1": "function",
+        "n2": "functions",
+        "n3": "the function",
+        "n4": "the functions",
+        "n5": "function's"
+    },
+    {
+        "base": "total",
+        "classes": [
+            "n"
+        ],
+        "n1": "total",
+        "n2": "totals",
+        "n3": "the total",
+        "n4": "the totals",
+        "n5": "total's"
+    },
+    {
+        "base": "mr",
+        "classes": [
+            "n"
+        ],
+        "n1": "mr",
+        "n2": "mrs",
+        "n3": "the mr",
+        "n4": "the mrs",
+        "n5": "mr's"
+    },
+    {
+        "base": "patients",
+        "classes": [
+            "n"
+        ],
+        "n1": "patients",
+        "n2": "patientss",
+        "n3": "the patients",
+        "n4": "the patientss",
+        "n5": "patients's"
+    },
+    {
+        "base": "kids",
+        "classes": [
+            "n"
+        ],
+        "n1": "kids",
+        "n2": "kidss",
+        "n3": "the kids",
+        "n4": "the kidss",
+        "n5": "kids's"
+    },
+    {
+        "base": "blog",
+        "classes": [
+            "n"
+        ],
+        "n1": "blog",
+        "n2": "blogs",
+        "n3": "the blog",
+        "n4": "the blogs",
+        "n5": "blog's"
+    },
+    {
+        "base": "they",
+        "classes": [
+            "n"
+        ],
+        "n1": "they",
+        "n2": "theys",
+        "n3": "the they",
+        "n4": "the theys",
+        "n5": "they's"
+    },
+    {
+        "base": "ones",
+        "classes": [
+            "n"
+        ],
+        "n1": "ones",
+        "n2": "oness",
+        "n3": "the ones",
+        "n4": "the oness",
+        "n5": "ones's"
+    },
+    {
+        "base": "shop",
+        "classes": [
+            "n"
+        ],
+        "n1": "shop",
+        "n2": "shops",
+        "n3": "the shop",
+        "n4": "the shops",
+        "n5": "shop's"
+    },
+    {
+        "base": "north",
+        "classes": [
+            "n"
+        ],
+        "n1": "north",
+        "n2": "norths",
+        "n3": "the north",
+        "n4": "the norths",
+        "n5": "north's"
+    },
+    {
+        "base": "door",
+        "classes": [
+            "n"
+        ],
+        "n1": "door",
+        "n2": "doors",
+        "n3": "the door",
+        "n4": "the doors",
+        "n5": "door's"
+    },
+    {
+        "base": "successful",
+        "classes": [
+            "n"
+        ],
+        "n1": "successful",
+        "n2": "successfuls",
+        "n3": "the successful",
+        "n4": "the successfuls",
+        "n5": "successful's"
+    },
+    {
+        "base": "entire",
+        "classes": [
+            "n"
+        ],
+        "n1": "entire",
+        "n2": "entires",
+        "n3": "the entire",
+        "n4": "the entires",
+        "n5": "entire's"
+    },
+    {
+        "base": "deposit",
+        "classes": [
+            "n"
+        ],
+        "n1": "deposit",
+        "n2": "deposits",
+        "n3": "the deposit",
+        "n4": "the deposits",
+        "n5": "deposit's"
+    },
+    {
+        "base": "insights",
+        "classes": [
+            "n"
+        ],
+        "n1": "insights",
+        "n2": "insightss",
+        "n3": "the insights",
+        "n4": "the insightss",
+        "n5": "insights's"
+    },
+    {
+        "base": "beauty",
+        "classes": [
+            "n"
+        ],
+        "n1": "beauty",
+        "n2": "beautys",
+        "n3": "the beauty",
+        "n4": "the beautys",
+        "n5": "beauty's"
+    },
+    {
+        "base": "commitment",
+        "classes": [
+            "n"
+        ],
+        "n1": "commitment",
+        "n2": "commitments",
+        "n3": "the commitment",
+        "n4": "the commitments",
+        "n5": "commitment's"
+    },
+    {
+        "base": "parents",
+        "classes": [
+            "n"
+        ],
+        "n1": "parents",
+        "n2": "parentss",
+        "n3": "the parents",
+        "n4": "the parentss",
+        "n5": "parents's"
+    },
+    {
+        "base": "download",
+        "classes": [
+            "n"
+        ],
+        "n1": "download",
+        "n2": "downloads",
+        "n3": "the download",
+        "n4": "the downloads",
+        "n5": "download's"
+    },
+    {
+        "base": "budget",
+        "classes": [
+            "n"
+        ],
+        "n1": "budget",
+        "n2": "budgets",
+        "n3": "the budget",
+        "n4": "the budgets",
+        "n5": "budget's"
+    },
+    {
+        "base": "speed",
+        "classes": [
+            "n"
+        ],
+        "n1": "speed",
+        "n2": "speeds",
+        "n3": "the speed",
+        "n4": "the speeds",
+        "n5": "speed's"
+    },
+    {
+        "base": "author",
+        "classes": [
+            "n"
+        ],
+        "n1": "author",
+        "n2": "authors",
+        "n3": "the author",
+        "n4": "the authors",
+        "n5": "author's"
+    },
+    {
+        "base": "themselves",
+        "classes": [
+            "n"
+        ],
+        "n1": "themselves",
+        "n2": "themselvess",
+        "n3": "the themselves",
+        "n4": "the themselvess",
+        "n5": "themselves's"
+    },
+    {
+        "base": "summer",
+        "classes": [
+            "n"
+        ],
+        "n1": "summer",
+        "n2": "summers",
+        "n3": "the summer",
+        "n4": "the summers",
+        "n5": "summer's"
+    },
+    {
+        "base": "expertise",
+        "classes": [
+            "n"
+        ],
+        "n1": "expertise",
+        "n2": "expertises",
+        "n3": "the expertise",
+        "n4": "the expertises",
+        "n5": "expertise's"
+    },
+    {
+        "base": "technical",
+        "classes": [
+            "n"
+        ],
+        "n1": "technical",
+        "n2": "technicals",
+        "n3": "the technical",
+        "n4": "the technicals",
+        "n5": "technical's"
+    },
+    {
+        "base": "experienced",
+        "classes": [
+            "n"
+        ],
+        "n1": "experienced",
+        "n2": "experienceds",
+        "n3": "the experienced",
+        "n4": "the experienceds",
+        "n5": "experienced's"
+    },
+    {
+        "base": "wall",
+        "classes": [
+            "n"
+        ],
+        "n1": "wall",
+        "n2": "walls",
+        "n3": "the wall",
+        "n4": "the walls",
+        "n5": "wall's"
+    },
+    {
+        "base": "expert",
+        "classes": [
+            "n"
+        ],
+        "n1": "expert",
+        "n2": "experts",
+        "n3": "the expert",
+        "n4": "the experts",
+        "n5": "expert's"
+    },
+    {
+        "base": "partner",
+        "classes": [
+            "n"
+        ],
+        "n1": "partner",
+        "n2": "partners",
+        "n3": "the partner",
+        "n4": "the partners",
+        "n5": "partner's"
+    },
+    {
+        "base": "teams",
+        "classes": [
+            "n"
+        ],
+        "n1": "teams",
+        "n2": "teamss",
+        "n3": "the teams",
+        "n4": "the teamss",
+        "n5": "teams's"
+    },
+    {
+        "base": "india",
+        "classes": [
+            "n"
+        ],
+        "n1": "india",
+        "n2": "indias",
+        "n3": "the india",
+        "n4": "the indias",
+        "n5": "india's"
+    },
+    {
+        "base": "release",
+        "classes": [
+            "n"
+        ],
+        "n1": "release",
+        "n2": "releases",
+        "n3": "the release",
+        "n4": "the releases",
+        "n5": "release's"
+    },
+    {
+        "base": "sale",
+        "classes": [
+            "n"
+        ],
+        "n1": "sale",
+        "n2": "sales",
+        "n3": "the sale",
+        "n4": "the sales",
+        "n5": "sale's"
+    },
+    {
+        "base": "windows",
+        "classes": [
+            "n"
+        ],
+        "n1": "windows",
+        "n2": "windowss",
+        "n3": "the windows",
+        "n4": "the windowss",
+        "n5": "windows's"
+    },
+    {
+        "base": "experts",
+        "classes": [
+            "n"
+        ],
+        "n1": "experts",
+        "n2": "expertss",
+        "n3": "the experts",
+        "n4": "the expertss",
+        "n5": "experts's"
+    },
+    {
+        "base": "stage",
+        "classes": [
+            "n"
+        ],
+        "n1": "stage",
+        "n2": "stages",
+        "n3": "the stage",
+        "n4": "the stages",
+        "n5": "stage's"
+    },
+    {
+        "base": "award",
+        "classes": [
+            "n"
+        ],
+        "n1": "award",
+        "n2": "awards",
+        "n3": "the award",
+        "n4": "the awards",
+        "n5": "award's"
+    },
+    {
+        "base": "privacy",
+        "classes": [
+            "n"
+        ],
+        "n1": "privacy",
+        "n2": "privacys",
+        "n3": "the privacy",
+        "n4": "the privacys",
+        "n5": "privacy's"
+    },
+    {
+        "base": "innovation",
+        "classes": [
+            "n"
+        ],
+        "n1": "innovation",
+        "n2": "innovations",
+        "n3": "the innovation",
+        "n4": "the innovations",
+        "n5": "innovation's"
+    },
+    {
+        "base": "healthcare",
+        "classes": [
+            "n"
+        ],
+        "n1": "healthcare",
+        "n2": "healthcares",
+        "n3": "the healthcare",
+        "n4": "the healthcares",
+        "n5": "healthcare's"
+    },
+    {
+        "base": "text",
+        "classes": [
+            "n"
+        ],
+        "n1": "text",
+        "n2": "texts",
+        "n3": "the text",
+        "n4": "the texts",
+        "n5": "text's"
+    },
+    {
+        "base": "elements",
+        "classes": [
+            "n"
+        ],
+        "n1": "elements",
+        "n2": "elementss",
+        "n3": "the elements",
+        "n4": "the elementss",
+        "n5": "elements's"
+    },
+    {
+        "base": "techniques",
+        "classes": [
+            "n"
+        ],
+        "n1": "techniques",
+        "n2": "techniquess",
+        "n3": "the techniques",
+        "n4": "the techniquess",
+        "n5": "techniques's"
+    },
+    {
+        "base": "gold",
+        "classes": [
+            "n"
+        ],
+        "n1": "gold",
+        "n2": "golds",
+        "n3": "the gold",
+        "n4": "the golds",
+        "n5": "gold's"
+    },
+    {
+        "base": "testing",
+        "classes": [
+            "n"
+        ],
+        "n1": "testing",
+        "n2": "testings",
+        "n3": "the testing",
+        "n4": "the testings",
+        "n5": "testing's"
+    },
+    {
+        "base": "america",
+        "classes": [
+            "n"
+        ],
+        "n1": "america",
+        "n2": "americas",
+        "n3": "the america",
+        "n4": "the americas",
+        "n5": "america's"
+    },
+    {
+        "base": "studies",
+        "classes": [
+            "n"
+        ],
+        "n1": "studies",
+        "n2": "studiess",
+        "n3": "the studies",
+        "n4": "the studiess",
+        "n5": "studies's"
+    },
+    {
+        "base": "mental",
+        "classes": [
+            "n"
+        ],
+        "n1": "mental",
+        "n2": "mentals",
+        "n3": "the mental",
+        "n4": "the mentals",
+        "n5": "mental's"
+    },
+    {
+        "base": "processing",
+        "classes": [
+            "n"
+        ],
+        "n1": "processing",
+        "n2": "processings",
+        "n3": "the processing",
+        "n4": "the processings",
+        "n5": "processing's"
+    },
+    {
+        "base": "political",
+        "classes": [
+            "n"
+        ],
+        "n1": "political",
+        "n2": "politicals",
+        "n3": "the political",
+        "n4": "the politicals",
+        "n5": "political's"
+    },
+    {
+        "base": "winning",
+        "classes": [
+            "n"
+        ],
+        "n1": "winning",
+        "n2": "winnings",
+        "n3": "the winning",
+        "n4": "the winnings",
+        "n5": "winning's"
+    },
+    {
+        "base": "stories",
+        "classes": [
+            "n"
+        ],
+        "n1": "stories",
+        "n2": "storiess",
+        "n3": "the stories",
+        "n4": "the storiess",
+        "n5": "stories's"
+    },
+    {
+        "base": "partners",
+        "classes": [
+            "n"
+        ],
+        "n1": "partners",
+        "n2": "partnerss",
+        "n3": "the partners",
+        "n4": "the partnerss",
+        "n5": "partners's"
+    },
+    {
+        "base": "status",
+        "classes": [
+            "n"
+        ],
+        "n1": "status",
+        "n2": "statuss",
+        "n3": "the status",
+        "n4": "the statuss",
+        "n5": "status's"
+    },
+    {
+        "base": "installation",
+        "classes": [
+            "n"
+        ],
+        "n1": "installation",
+        "n2": "installations",
+        "n3": "the installation",
+        "n4": "the installations",
+        "n5": "installation's"
+    },
+    {
+        "base": "funds",
+        "classes": [
+            "n"
+        ],
+        "n1": "funds",
+        "n2": "fundss",
+        "n3": "the funds",
+        "n4": "the fundss",
+        "n5": "funds's"
+    },
+    {
+        "base": "cultural",
+        "classes": [
+            "n"
+        ],
+        "n1": "cultural",
+        "n2": "culturals",
+        "n3": "the cultural",
+        "n4": "the culturals",
+        "n5": "cultural's"
+    },
+    {
+        "base": "journal",
+        "classes": [
+            "n"
+        ],
+        "n1": "journal",
+        "n2": "journals",
+        "n3": "the journal",
+        "n4": "the journals",
+        "n5": "journal's"
+    },
+    {
+        "base": "engagement",
+        "classes": [
+            "n"
+        ],
+        "n1": "engagement",
+        "n2": "engagements",
+        "n3": "the engagement",
+        "n4": "the engagements",
+        "n5": "engagement's"
+    },
+    {
+        "base": "federal",
+        "classes": [
+            "n"
+        ],
+        "n1": "federal",
+        "n2": "federals",
+        "n3": "the federal",
+        "n4": "the federals",
+        "n5": "federal's"
+    },
+    {
+        "base": "blue",
+        "classes": [
+            "n"
+        ],
+        "n1": "blue",
+        "n2": "blues",
+        "n3": "the blue",
+        "n4": "the blues",
+        "n5": "blue's"
+    },
+    {
+        "base": "communities",
+        "classes": [
+            "n"
+        ],
+        "n1": "communities",
+        "n2": "communitiess",
+        "n3": "the communities",
+        "n4": "the communitiess",
+        "n5": "communities's"
+    },
+    {
+        "base": "sustainable",
+        "classes": [
+            "n"
+        ],
+        "n1": "sustainable",
+        "n2": "sustainables",
+        "n3": "the sustainable",
+        "n4": "the sustainables",
+        "n5": "sustainable's"
+    },
+    {
+        "base": "equity",
+        "classes": [
+            "n"
+        ],
+        "n1": "equity",
+        "n2": "equitys",
+        "n3": "the equity",
+        "n4": "the equitys",
+        "n5": "equity's"
+    },
+    {
+        "base": "processes",
+        "classes": [
+            "n"
+        ],
+        "n1": "processes",
+        "n2": "processess",
+        "n3": "the processes",
+        "n4": "the processess",
+        "n5": "processes's"
+    },
+    {
+        "base": "compliance",
+        "classes": [
+            "n"
+        ],
+        "n1": "compliance",
+        "n2": "compliances",
+        "n3": "the compliance",
+        "n4": "the compliances",
+        "n5": "compliance's"
+    },
+    {
+        "base": "transfer",
+        "classes": [
+            "n"
+        ],
+        "n1": "transfer",
+        "n2": "transfers",
+        "n3": "the transfer",
+        "n4": "the transfers",
+        "n5": "transfer's"
+    },
+    {
+        "base": "websites",
+        "classes": [
+            "n"
+        ],
+        "n1": "websites",
+        "n2": "websitess",
+        "n3": "the websites",
+        "n4": "the websitess",
+        "n5": "websites's"
+    },
+    {
+        "base": "fees",
+        "classes": [
+            "n"
+        ],
+        "n1": "fees",
+        "n2": "feess",
+        "n3": "the fees",
+        "n4": "the feess",
+        "n5": "fees's"
+    },
+    {
+        "base": "betting",
+        "classes": [
+            "n"
+        ],
+        "n1": "betting",
+        "n2": "bettings",
+        "n3": "the betting",
+        "n4": "the bettings",
+        "n5": "betting's"
+    },
+    {
+        "base": "families",
+        "classes": [
+            "n"
+        ],
+        "n1": "families",
+        "n2": "familiess",
+        "n3": "the families",
+        "n4": "the familiess",
+        "n5": "families's"
+    },
+    {
+        "base": "classic",
+        "classes": [
+            "n"
+        ],
+        "n1": "classic",
+        "n2": "classics",
+        "n3": "the classic",
+        "n4": "the classics",
+        "n5": "classic's"
+    },
+    {
+        "base": "edge",
+        "classes": [
+            "n"
+        ],
+        "n1": "edge",
+        "n2": "edges",
+        "n3": "the edge",
+        "n4": "the edges",
+        "n5": "edge's"
+    },
+    {
+        "base": "cloud",
+        "classes": [
+            "n"
+        ],
+        "n1": "cloud",
+        "n2": "clouds",
+        "n3": "the cloud",
+        "n4": "the clouds",
+        "n5": "cloud's"
+    },
+    {
+        "base": "technologies",
+        "classes": [
+            "n"
+        ],
+        "n1": "technologies",
+        "n2": "technologiess",
+        "n3": "the technologies",
+        "n4": "the technologiess",
+        "n5": "technologies's"
+    },
+    {
+        "base": "capacity",
+        "classes": [
+            "n"
+        ],
+        "n1": "capacity",
+        "n2": "capacitys",
+        "n3": "the capacity",
+        "n4": "the capacitys",
+        "n5": "capacity's"
+    },
+    {
+        "base": "fruit",
+        "classes": [
+            "n"
+        ],
+        "n1": "fruit",
+        "n2": "fruits",
+        "n3": "the fruit",
+        "n4": "the fruits",
+        "n5": "fruit's"
+    },
+    {
+        "base": "middle",
+        "classes": [
+            "n"
+        ],
+        "n1": "middle",
+        "n2": "middles",
+        "n3": "the middle",
+        "n4": "the middles",
+        "n5": "middle's"
+    },
+    {
+        "base": "west",
+        "classes": [
+            "n"
+        ],
+        "n1": "west",
+        "n2": "wests",
+        "n3": "the west",
+        "n4": "the wests",
+        "n5": "west's"
+    },
+    {
+        "base": "ground",
+        "classes": [
+            "n"
+        ],
+        "n1": "ground",
+        "n2": "grounds",
+        "n3": "the ground",
+        "n4": "the grounds",
+        "n5": "ground's"
+    },
+    {
+        "base": "fashion",
+        "classes": [
+            "n"
+        ],
+        "n1": "fashion",
+        "n2": "fashions",
+        "n3": "the fashion",
+        "n4": "the fashions",
+        "n5": "fashion's"
+    },
+    {
+        "base": "traffic",
+        "classes": [
+            "n"
+        ],
+        "n1": "traffic",
+        "n2": "traffics",
+        "n3": "the traffic",
+        "n4": "the traffics",
+        "n5": "traffic's"
+    },
+    {
+        "base": "wear",
+        "classes": [
+            "n"
+        ],
+        "n1": "wear",
+        "n2": "wears",
+        "n3": "the wear",
+        "n4": "the wears",
+        "n5": "wear's"
+    },
+    {
+        "base": "club",
+        "classes": [
+            "n"
+        ],
+        "n1": "club",
+        "n2": "clubs",
+        "n3": "the club",
+        "n4": "the clubs",
+        "n5": "club's"
+    },
+    {
+        "base": "gets",
+        "classes": [
+            "n"
+        ],
+        "n1": "gets",
+        "n2": "getss",
+        "n3": "the gets",
+        "n4": "the getss",
+        "n5": "gets's"
+    },
+    {
+        "base": "vision",
+        "classes": [
+            "n"
+        ],
+        "n1": "vision",
+        "n2": "visions",
+        "n3": "the vision",
+        "n4": "the visions",
+        "n5": "vision's"
+    },
+    {
+        "base": "goods",
+        "classes": [
+            "n"
+        ],
+        "n1": "goods",
+        "n2": "goodss",
+        "n3": "the goods",
+        "n4": "the goodss",
+        "n5": "goods's"
+    },
+    {
+        "base": "outdoor",
+        "classes": [
+            "n"
+        ],
+        "n1": "outdoor",
+        "n2": "outdoors",
+        "n3": "the outdoor",
+        "n4": "the outdoors",
+        "n5": "outdoor's"
+    },
+    {
+        "base": "schedule",
+        "classes": [
+            "n"
+        ],
+        "n1": "schedule",
+        "n2": "schedules",
+        "n3": "the schedule",
+        "n4": "the schedules",
+        "n5": "schedule's"
+    },
+    {
+        "base": "parties",
+        "classes": [
+            "n"
+        ],
+        "n1": "parties",
+        "n2": "partiess",
+        "n3": "the parties",
+        "n4": "the partiess",
+        "n5": "parties's"
+    },
+    {
+        "base": "policies",
+        "classes": [
+            "n"
+        ],
+        "n1": "policies",
+        "n2": "policiess",
+        "n3": "the policies",
+        "n4": "the policiess",
+        "n5": "policies's"
+    },
+    {
+        "base": "core",
+        "classes": [
+            "n"
+        ],
+        "n1": "core",
+        "n2": "cores",
+        "n3": "the core",
+        "n4": "the cores",
+        "n5": "core's"
+    },
+    {
+        "base": "published",
+        "classes": [
+            "n"
+        ],
+        "n1": "published",
+        "n2": "publisheds",
+        "n3": "the published",
+        "n4": "the publisheds",
+        "n5": "published's"
+    },
+    {
+        "base": "initial",
+        "classes": [
+            "n"
+        ],
+        "n1": "initial",
+        "n2": "initials",
+        "n3": "the initial",
+        "n4": "the initials",
+        "n5": "initial's"
+    },
+    {
+        "base": "firm",
+        "classes": [
+            "n"
+        ],
+        "n1": "firm",
+        "n2": "firms",
+        "n3": "the firm",
+        "n4": "the firms",
+        "n5": "firm's"
+    },
+    {
+        "base": "updates",
+        "classes": [
+            "n"
+        ],
+        "n1": "updates",
+        "n2": "updatess",
+        "n3": "the updates",
+        "n4": "the updatess",
+        "n5": "updates's"
+    },
+    {
+        "base": "couple",
+        "classes": [
+            "n"
+        ],
+        "n1": "couple",
+        "n2": "couples",
+        "n3": "the couple",
+        "n4": "the couples",
+        "n5": "couple's"
+    },
+    {
+        "base": "peace",
+        "classes": [
+            "n"
+        ],
+        "n1": "peace",
+        "n2": "peaces",
+        "n3": "the peace",
+        "n4": "the peaces",
+        "n5": "peace's"
+    },
+    {
+        "base": "regulations",
+        "classes": [
+            "n"
+        ],
+        "n1": "regulations",
+        "n2": "regulationss",
+        "n3": "the regulations",
+        "n4": "the regulationss",
+        "n5": "regulations's"
+    },
+    {
+        "base": "chief",
+        "classes": [
+            "n"
+        ],
+        "n1": "chief",
+        "n2": "chiefs",
+        "n3": "the chief",
+        "n4": "the chiefs",
+        "n5": "chief's"
+    },
+    {
+        "base": "symbols",
+        "classes": [
+            "n"
+        ],
+        "n1": "symbols",
+        "n2": "symbolss",
+        "n3": "the symbols",
+        "n4": "the symbolss",
+        "n5": "symbols's"
+    },
+    {
+        "base": "detail",
+        "classes": [
+            "n"
+        ],
+        "n1": "detail",
+        "n2": "details",
+        "n3": "the detail",
+        "n4": "the details",
+        "n5": "detail's"
+    },
+    {
+        "base": "emergency",
+        "classes": [
+            "n"
+        ],
+        "n1": "emergency",
+        "n2": "emergencys",
+        "n3": "the emergency",
+        "n4": "the emergencys",
+        "n5": "emergency's"
+    },
+    {
+        "base": "update",
+        "classes": [
+            "n"
+        ],
+        "n1": "update",
+        "n2": "updates",
+        "n3": "the update",
+        "n4": "the updates",
+        "n5": "update's"
+    },
+    {
+        "base": "provider",
+        "classes": [
+            "n"
+        ],
+        "n1": "provider",
+        "n2": "providers",
+        "n3": "the provider",
+        "n4": "the providers",
+        "n5": "provider's"
+    },
+    {
+        "base": "gain",
+        "classes": [
+            "n"
+        ],
+        "n1": "gain",
+        "n2": "gains",
+        "n3": "the gain",
+        "n4": "the gains",
+        "n5": "gain's"
+    },
+    {
+        "base": "properties",
+        "classes": [
+            "n"
+        ],
+        "n1": "properties",
+        "n2": "propertiess",
+        "n3": "the properties",
+        "n4": "the propertiess",
+        "n5": "properties's"
+    },
+    {
+        "base": "integration",
+        "classes": [
+            "n"
+        ],
+        "n1": "integration",
+        "n2": "integrations",
+        "n3": "the integration",
+        "n4": "the integrations",
+        "n5": "integration's"
+    },
+    {
+        "base": "trends",
+        "classes": [
+            "n"
+        ],
+        "n1": "trends",
+        "n2": "trendss",
+        "n3": "the trends",
+        "n4": "the trendss",
+        "n5": "trends's"
+    },
+    {
+        "base": "european",
+        "classes": [
+            "n"
+        ],
+        "n1": "european",
+        "n2": "europeans",
+        "n3": "the european",
+        "n4": "the europeans",
+        "n5": "european's"
+    },
+    {
+        "base": "australia",
+        "classes": [
+            "n"
+        ],
+        "n1": "australia",
+        "n2": "australias",
+        "n3": "the australia",
+        "n4": "the australias",
+        "n5": "australia's"
+    },
+    {
+        "base": "hit",
+        "classes": [
+            "n"
+        ],
+        "n1": "hit",
+        "n2": "hits",
+        "n3": "the hit",
+        "n4": "the hits",
+        "n5": "hit's"
+    },
+    {
+        "base": "tv",
+        "classes": [
+            "n"
+        ],
+        "n1": "tv",
+        "n2": "tvs",
+        "n3": "the tv",
+        "n4": "the tvs",
+        "n5": "tv's"
+    },
+    {
+        "base": "hour",
+        "classes": [
+            "n"
+        ],
+        "n1": "hour",
+        "n2": "hours",
+        "n3": "the hour",
+        "n4": "the hours",
+        "n5": "hour's"
+    },
+    {
+        "base": "kitchen",
+        "classes": [
+            "n"
+        ],
+        "n1": "kitchen",
+        "n2": "kitchens",
+        "n3": "the kitchen",
+        "n4": "the kitchens",
+        "n5": "kitchen's"
+    },
+    {
+        "base": "china",
+        "classes": [
+            "n"
+        ],
+        "n1": "china",
+        "n2": "chinas",
+        "n3": "the china",
+        "n4": "the chinas",
+        "n5": "china's"
+    },
+    {
+        "base": "mission",
+        "classes": [
+            "n"
+        ],
+        "n1": "mission",
+        "n2": "missions",
+        "n3": "the mission",
+        "n4": "the missions",
+        "n5": "mission's"
+    },
+    {
+        "base": "landscape",
+        "classes": [
+            "n"
+        ],
+        "n1": "landscape",
+        "n2": "landscapes",
+        "n3": "the landscape",
+        "n4": "the landscapes",
+        "n5": "landscape's"
+    },
+    {
+        "base": "surface",
+        "classes": [
+            "n"
+        ],
+        "n1": "surface",
+        "n2": "surfaces",
+        "n3": "the surface",
+        "n4": "the surfaces",
+        "n5": "surface's"
+    },
+    {
+        "base": "patient",
+        "classes": [
+            "n"
+        ],
+        "n1": "patient",
+        "n2": "patients",
+        "n3": "the patient",
+        "n4": "the patients",
+        "n5": "patient's"
+    },
+    {
+        "base": "score",
+        "classes": [
+            "n"
+        ],
+        "n1": "score",
+        "n2": "scores",
+        "n3": "the score",
+        "n4": "the scores",
+        "n5": "score's"
+    },
+    {
+        "base": "canada",
+        "classes": [
+            "n"
+        ],
+        "n1": "canada",
+        "n2": "canadas",
+        "n3": "the canada",
+        "n4": "the canadas",
+        "n5": "canada's"
+    },
+    {
+        "base": "focused",
+        "classes": [
+            "n"
+        ],
+        "n1": "focused",
+        "n2": "focuseds",
+        "n3": "the focused",
+        "n4": "the focuseds",
+        "n5": "focused's"
+    },
+    {
+        "base": "reels",
+        "classes": [
+            "n"
+        ],
+        "n1": "reels",
+        "n2": "reelss",
+        "n3": "the reels",
+        "n4": "the reelss",
+        "n5": "reels's"
+    },
+    {
+        "base": "degree",
+        "classes": [
+            "n"
+        ],
+        "n1": "degree",
+        "n2": "degrees",
+        "n3": "the degree",
+        "n4": "the degrees",
+        "n5": "degree's"
+    },
+    {
+        "base": "beach",
+        "classes": [
+            "n"
+        ],
+        "n1": "beach",
+        "n2": "beachs",
+        "n3": "the beach",
+        "n4": "the beachs",
+        "n5": "beach's"
+    },
+    {
+        "base": "john",
+        "classes": [
+            "n"
+        ],
+        "n1": "john",
+        "n2": "johns",
+        "n3": "the john",
+        "n4": "the johns",
+        "n5": "john's"
+    },
+    {
+        "base": "glass",
+        "classes": [
+            "n"
+        ],
+        "n1": "glass",
+        "n2": "glasss",
+        "n3": "the glass",
+        "n4": "the glasss",
+        "n5": "glass's"
+    },
+    {
+        "base": "confidence",
+        "classes": [
+            "n"
+        ],
+        "n1": "confidence",
+        "n2": "confidences",
+        "n3": "the confidence",
+        "n4": "the confidences",
+        "n5": "confidence's"
+    },
+    {
+        "base": "usa",
+        "classes": [
+            "n"
+        ],
+        "n1": "usa",
+        "n2": "usas",
+        "n3": "the usa",
+        "n4": "the usas",
+        "n5": "usa's"
+    },
+    {
+        "base": "bonuses",
+        "classes": [
+            "n"
+        ],
+        "n1": "bonuses",
+        "n2": "bonusess",
+        "n3": "the bonuses",
+        "n4": "the bonusess",
+        "n5": "bonuses's"
+    },
+    {
+        "base": "april",
+        "classes": [
+            "n"
+        ],
+        "n1": "april",
+        "n2": "aprils",
+        "n3": "the april",
+        "n4": "the aprils",
+        "n5": "april's"
+    },
+    {
+        "base": "title",
+        "classes": [
+            "n"
+        ],
+        "n1": "title",
+        "n2": "titles",
+        "n3": "the title",
+        "n4": "the titles",
+        "n5": "title's"
+    },
+    {
+        "base": "fans",
+        "classes": [
+            "n"
+        ],
+        "n1": "fans",
+        "n2": "fanss",
+        "n3": "the fans",
+        "n4": "the fanss",
+        "n5": "fans's"
+    },
+    {
+        "base": "strength",
+        "classes": [
+            "n"
+        ],
+        "n1": "strength",
+        "n2": "strengths",
+        "n3": "the strength",
+        "n4": "the strengths",
+        "n5": "strength's"
+    },
+    {
+        "base": "theme",
+        "classes": [
+            "n"
+        ],
+        "n1": "theme",
+        "n2": "themes",
+        "n3": "the theme",
+        "n4": "the themes",
+        "n5": "theme's"
+    },
+    {
+        "base": "father",
+        "classes": [
+            "n"
+        ],
+        "n1": "father",
+        "n2": "fathers",
+        "n3": "the father",
+        "n4": "the fathers",
+        "n5": "father's"
+    },
+    {
+        "base": "providers",
+        "classes": [
+            "n"
+        ],
+        "n1": "providers",
+        "n2": "providerss",
+        "n3": "the providers",
+        "n4": "the providerss",
+        "n5": "providers's"
+    },
+    {
+        "base": "covid",
+        "classes": [
+            "n"
+        ],
+        "n1": "covid",
+        "n2": "covids",
+        "n3": "the covid",
+        "n4": "the covids",
+        "n5": "covid's"
+    },
+    {
+        "base": "floor",
+        "classes": [
+            "n"
+        ],
+        "n1": "floor",
+        "n2": "floors",
+        "n3": "the floor",
+        "n4": "the floors",
+        "n5": "floor's"
+    },
+    {
+        "base": "funding",
+        "classes": [
+            "n"
+        ],
+        "n1": "funding",
+        "n2": "fundings",
+        "n3": "the funding",
+        "n4": "the fundings",
+        "n5": "funding's"
+    },
+    {
+        "base": "apps",
+        "classes": [
+            "n"
+        ],
+        "n1": "apps",
+        "n2": "appss",
+        "n3": "the apps",
+        "n4": "the appss",
+        "n5": "apps's"
+    },
+    {
+        "base": "documents",
+        "classes": [
+            "n"
+        ],
+        "n1": "documents",
+        "n2": "documentss",
+        "n3": "the documents",
+        "n4": "the documentss",
+        "n5": "documents's"
+    },
+    {
+        "base": "evidence",
+        "classes": [
+            "n"
+        ],
+        "n1": "evidence",
+        "n2": "evidences",
+        "n3": "the evidence",
+        "n4": "the evidences",
+        "n5": "evidence's"
+    },
+    {
+        "base": "interior",
+        "classes": [
+            "n"
+        ],
+        "n1": "interior",
+        "n2": "interiors",
+        "n3": "the interior",
+        "n4": "the interiors",
+        "n5": "interior's"
+    },
+    {
+        "base": "investing",
+        "classes": [
+            "n"
+        ],
+        "n1": "investing",
+        "n2": "investings",
+        "n3": "the investing",
+        "n4": "the investings",
+        "n5": "investing's"
+    },
+    {
+        "base": "progress",
+        "classes": [
+            "n"
+        ],
+        "n1": "progress",
+        "n2": "progresss",
+        "n3": "the progress",
+        "n4": "the progresss",
+        "n5": "progress's"
+    },
+    {
+        "base": "wines",
+        "classes": [
+            "n"
+        ],
+        "n1": "wines",
+        "n2": "winess",
+        "n3": "the wines",
+        "n4": "the winess",
+        "n5": "wines's"
+    },
+    {
+        "base": "christmas",
+        "classes": [
+            "n"
+        ],
+        "n1": "christmas",
+        "n2": "christmass",
+        "n3": "the christmas",
+        "n4": "the christmass",
+        "n5": "christmas's"
+    },
+    {
+        "base": "movement",
+        "classes": [
+            "n"
+        ],
+        "n1": "movement",
+        "n2": "movements",
+        "n3": "the movement",
+        "n4": "the movements",
+        "n5": "movement's"
+    },
+    {
+        "base": "trial",
+        "classes": [
+            "n"
+        ],
+        "n1": "trial",
+        "n2": "trials",
+        "n3": "the trial",
+        "n4": "the trials",
+        "n5": "trial's"
+    },
+    {
+        "base": "character",
+        "classes": [
+            "n"
+        ],
+        "n1": "character",
+        "n2": "characters",
+        "n3": "the character",
+        "n4": "the characters",
+        "n5": "character's"
+    },
+    {
+        "base": "gamble",
+        "classes": [
+            "n"
+        ],
+        "n1": "gamble",
+        "n2": "gambles",
+        "n3": "the gamble",
+        "n4": "the gambles",
+        "n5": "gamble's"
+    },
+    {
+        "base": "brands",
+        "classes": [
+            "n"
+        ],
+        "n1": "brands",
+        "n2": "brandss",
+        "n3": "the brands",
+        "n4": "the brandss",
+        "n5": "brands's"
+    },
+    {
+        "base": "loan",
+        "classes": [
+            "n"
+        ],
+        "n1": "loan",
+        "n2": "loans",
+        "n3": "the loan",
+        "n4": "the loans",
+        "n5": "loan's"
+    },
+    {
+        "base": "profile",
+        "classes": [
+            "n"
+        ],
+        "n1": "profile",
+        "n2": "profiles",
+        "n3": "the profile",
+        "n4": "the profiles",
+        "n5": "profile's"
+    },
+    {
+        "base": "recovery",
+        "classes": [
+            "n"
+        ],
+        "n1": "recovery",
+        "n2": "recoverys",
+        "n3": "the recovery",
+        "n4": "the recoverys",
+        "n5": "recovery's"
+    },
+    {
+        "base": "shopping",
+        "classes": [
+            "n"
+        ],
+        "n1": "shopping",
+        "n2": "shoppings",
+        "n3": "the shopping",
+        "n4": "the shoppings",
+        "n5": "shopping's"
+    },
+    {
+        "base": "holiday",
+        "classes": [
+            "n"
+        ],
+        "n1": "holiday",
+        "n2": "holidays",
+        "n3": "the holiday",
+        "n4": "the holidays",
+        "n5": "holiday's"
+    },
+    {
+        "base": "gas",
+        "classes": [
+            "n"
+        ],
+        "n1": "gas",
+        "n2": "gass",
+        "n3": "the gas",
+        "n4": "the gass",
+        "n5": "gas's"
+    },
+    {
+        "base": "california",
+        "classes": [
+            "n"
+        ],
+        "n1": "california",
+        "n2": "californias",
+        "n3": "the california",
+        "n4": "the californias",
+        "n5": "california's"
+    },
+    {
+        "base": "ingredients",
+        "classes": [
+            "n"
+        ],
+        "n1": "ingredients",
+        "n2": "ingredientss",
+        "n3": "the ingredients",
+        "n4": "the ingredientss",
+        "n5": "ingredients's"
+    },
+    {
+        "base": "infrastructure",
+        "classes": [
+            "n"
+        ],
+        "n1": "infrastructure",
+        "n2": "infrastructures",
+        "n3": "the infrastructure",
+        "n4": "the infrastructures",
+        "n5": "infrastructure's"
+    },
+    {
+        "base": "document",
+        "classes": [
+            "n"
+        ],
+        "n1": "document",
+        "n2": "documents",
+        "n3": "the document",
+        "n4": "the documents",
+        "n5": "document's"
+    },
+    {
+        "base": "button",
+        "classes": [
+            "n"
+        ],
+        "n1": "button",
+        "n2": "buttons",
+        "n3": "the button",
+        "n4": "the buttons",
+        "n5": "button's"
+    },
+    {
+        "base": "therapy",
+        "classes": [
+            "n"
+        ],
+        "n1": "therapy",
+        "n2": "therapys",
+        "n3": "the therapy",
+        "n4": "the therapys",
+        "n5": "therapy's"
+    },
+    {
+        "base": "fund",
+        "classes": [
+            "n"
+        ],
+        "n1": "fund",
+        "n2": "funds",
+        "n3": "the fund",
+        "n4": "the funds",
+        "n5": "fund's"
+    },
+    {
+        "base": "finish",
+        "classes": [
+            "n"
+        ],
+        "n1": "finish",
+        "n2": "finishs",
+        "n3": "the finish",
+        "n4": "the finishs",
+        "n5": "finish's"
+    },
+    {
+        "base": "campaign",
+        "classes": [
+            "n"
+        ],
+        "n1": "campaign",
+        "n2": "campaigns",
+        "n3": "the campaign",
+        "n4": "the campaigns",
+        "n5": "campaign's"
+    },
+    {
+        "base": "luxury",
+        "classes": [
+            "n"
+        ],
+        "n1": "luxury",
+        "n2": "luxurys",
+        "n3": "the luxury",
+        "n4": "the luxurys",
+        "n5": "luxury's"
+    },
+    {
+        "base": "engineering",
+        "classes": [
+            "n"
+        ],
+        "n1": "engineering",
+        "n2": "engineerings",
+        "n3": "the engineering",
+        "n4": "the engineerings",
+        "n5": "engineering's"
+    },
+    {
+        "base": "texture",
+        "classes": [
+            "n"
+        ],
+        "n1": "texture",
+        "n2": "textures",
+        "n3": "the texture",
+        "n4": "the textures",
+        "n5": "texture's"
+    },
+    {
+        "base": "coverage",
+        "classes": [
+            "n"
+        ],
+        "n1": "coverage",
+        "n2": "coverages",
+        "n3": "the coverage",
+        "n4": "the coverages",
+        "n5": "coverage's"
+    },
+    {
+        "base": "visitors",
+        "classes": [
+            "n"
+        ],
+        "n1": "visitors",
+        "n2": "visitorss",
+        "n3": "the visitors",
+        "n4": "the visitorss",
+        "n5": "visitors's"
+    },
+    {
+        "base": "generation",
+        "classes": [
+            "n"
+        ],
+        "n1": "generation",
+        "n2": "generations",
+        "n3": "the generation",
+        "n4": "the generations",
+        "n5": "generation's"
+    },
+    {
+        "base": "android",
+        "classes": [
+            "n"
+        ],
+        "n1": "android",
+        "n2": "androids",
+        "n3": "the android",
+        "n4": "the androids",
+        "n5": "android's"
+    },
+    {
+        "base": "military",
+        "classes": [
+            "n"
+        ],
+        "n1": "military",
+        "n2": "militarys",
+        "n3": "the military",
+        "n4": "the militarys",
+        "n5": "military's"
+    },
+    {
+        "base": "components",
+        "classes": [
+            "n"
+        ],
+        "n1": "components",
+        "n2": "componentss",
+        "n3": "the components",
+        "n4": "the componentss",
+        "n5": "components's"
+    },
+    {
+        "base": "fight",
+        "classes": [
+            "n"
+        ],
+        "n1": "fight",
+        "n2": "fights",
+        "n3": "the fight",
+        "n4": "the fights",
+        "n5": "fight's"
+    },
+    {
+        "base": "package",
+        "classes": [
+            "n"
+        ],
+        "n1": "package",
+        "n2": "packages",
+        "n3": "the package",
+        "n4": "the packages",
+        "n5": "package's"
+    },
+    {
+        "base": "alternative",
+        "classes": [
+            "n"
+        ],
+        "n1": "alternative",
+        "n2": "alternatives",
+        "n3": "the alternative",
+        "n4": "the alternatives",
+        "n5": "alternative's"
+    },
+    {
+        "base": "island",
+        "classes": [
+            "n"
+        ],
+        "n1": "island",
+        "n2": "islands",
+        "n3": "the island",
+        "n4": "the islands",
+        "n5": "island's"
+    },
+    {
+        "base": "consumer",
+        "classes": [
+            "n"
+        ],
+        "n1": "consumer",
+        "n2": "consumers",
+        "n3": "the consumer",
+        "n4": "the consumers",
+        "n5": "consumer's"
+    },
+    {
+        "base": "brain",
+        "classes": [
+            "n"
+        ],
+        "n1": "brain",
+        "n2": "brains",
+        "n3": "the brain",
+        "n4": "the brains",
+        "n5": "brain's"
+    },
+    {
+        "base": "won",
+        "classes": [
+            "n"
+        ],
+        "n1": "won",
+        "n2": "wons",
+        "n3": "the won",
+        "n4": "the wons",
+        "n5": "won's"
+    },
+    {
+        "base": "spot",
+        "classes": [
+            "n"
+        ],
+        "n1": "spot",
+        "n2": "spots",
+        "n3": "the spot",
+        "n4": "the spots",
+        "n5": "spot's"
+    },
+    {
+        "base": "lack",
+        "classes": [
+            "n"
+        ],
+        "n1": "lack",
+        "n2": "lacks",
+        "n3": "the lack",
+        "n4": "the lacks",
+        "n5": "lack's"
+    },
+    {
+        "base": "senior",
+        "classes": [
+            "n"
+        ],
+        "n1": "senior",
+        "n2": "seniors",
+        "n3": "the senior",
+        "n4": "the seniors",
+        "n5": "senior's"
+    },
+    {
+        "base": "east",
+        "classes": [
+            "n"
+        ],
+        "n1": "east",
+        "n2": "easts",
+        "n3": "the east",
+        "n4": "the easts",
+        "n5": "east's"
+    },
+    {
+        "base": "facebook",
+        "classes": [
+            "n"
+        ],
+        "n1": "facebook",
+        "n2": "facebooks",
+        "n3": "the facebook",
+        "n4": "the facebooks",
+        "n5": "facebook's"
+    },
+    {
+        "base": "limit",
+        "classes": [
+            "n"
+        ],
+        "n1": "limit",
+        "n2": "limits",
+        "n3": "the limit",
+        "n4": "the limits",
+        "n5": "limit's"
+    },
+    {
+        "base": "electric",
+        "classes": [
+            "n"
+        ],
+        "n1": "electric",
+        "n2": "electrics",
+        "n3": "the electric",
+        "n4": "the electrics",
+        "n5": "electric's"
+    },
+    {
+        "base": "collaboration",
+        "classes": [
+            "n"
+        ],
+        "n1": "collaboration",
+        "n2": "collaborations",
+        "n3": "the collaboration",
+        "n4": "the collaborations",
+        "n5": "collaboration's"
+    },
+    {
+        "base": "visual",
+        "classes": [
+            "n"
+        ],
+        "n1": "visual",
+        "n2": "visuals",
+        "n3": "the visual",
+        "n4": "the visuals",
+        "n5": "visual's"
+    },
+    {
+        "base": "route",
+        "classes": [
+            "n"
+        ],
+        "n1": "route",
+        "n2": "routes",
+        "n3": "the route",
+        "n4": "the routes",
+        "n5": "route's"
+    },
+    {
+        "base": "influence",
+        "classes": [
+            "n"
+        ],
+        "n1": "influence",
+        "n2": "influences",
+        "n3": "the influence",
+        "n4": "the influences",
+        "n5": "influence's"
+    },
+    {
+        "base": "corporate",
+        "classes": [
+            "n"
+        ],
+        "n1": "corporate",
+        "n2": "corporates",
+        "n3": "the corporate",
+        "n4": "the corporates",
+        "n5": "corporate's"
+    },
+    {
+        "base": "identity",
+        "classes": [
+            "n"
+        ],
+        "n1": "identity",
+        "n2": "identitys",
+        "n3": "the identity",
+        "n4": "the identitys",
+        "n5": "identity's"
+    },
+    {
+        "base": "supporting",
+        "classes": [
+            "n"
+        ],
+        "n1": "supporting",
+        "n2": "supportings",
+        "n3": "the supporting",
+        "n4": "the supportings",
+        "n5": "supporting's"
+    },
+    {
+        "base": "window",
+        "classes": [
+            "n"
+        ],
+        "n1": "window",
+        "n2": "windows",
+        "n3": "the window",
+        "n4": "the windows",
+        "n5": "window's"
+    },
+    {
+        "base": "council",
+        "classes": [
+            "n"
+        ],
+        "n1": "council",
+        "n2": "councils",
+        "n3": "the council",
+        "n4": "the councils",
+        "n5": "council's"
+    },
+    {
+        "base": "boost",
+        "classes": [
+            "n"
+        ],
+        "n1": "boost",
+        "n2": "boosts",
+        "n3": "the boost",
+        "n4": "the boosts",
+        "n5": "boost's"
+    },
+    {
+        "base": "monitoring",
+        "classes": [
+            "n"
+        ],
+        "n1": "monitoring",
+        "n2": "monitorings",
+        "n3": "the monitoring",
+        "n4": "the monitorings",
+        "n5": "monitoring's"
+    },
+    {
+        "base": "mail",
+        "classes": [
+            "n"
+        ],
+        "n1": "mail",
+        "n2": "mails",
+        "n3": "the mail",
+        "n4": "the mails",
+        "n5": "mail's"
+    },
+    {
+        "base": "registration",
+        "classes": [
+            "n"
+        ],
+        "n1": "registration",
+        "n2": "registrations",
+        "n3": "the registration",
+        "n4": "the registrations",
+        "n5": "registration's"
+    },
+    {
+        "base": "baby",
+        "classes": [
+            "n"
+        ],
+        "n1": "baby",
+        "n2": "babys",
+        "n3": "the baby",
+        "n4": "the babys",
+        "n5": "baby's"
+    },
+    {
+        "base": "extensive",
+        "classes": [
+            "n"
+        ],
+        "n1": "extensive",
+        "n2": "extensives",
+        "n3": "the extensive",
+        "n4": "the extensives",
+        "n5": "extensive's"
+    },
+    {
+        "base": "assets",
+        "classes": [
+            "n"
+        ],
+        "n1": "assets",
+        "n2": "assetss",
+        "n3": "the assets",
+        "n4": "the assetss",
+        "n5": "assets's"
+    },
+    {
+        "base": "respect",
+        "classes": [
+            "n"
+        ],
+        "n1": "respect",
+        "n2": "respects",
+        "n3": "the respect",
+        "n4": "the respects",
+        "n5": "respect's"
+    },
+    {
+        "base": "jesus",
+        "classes": [
+            "n"
+        ],
+        "n1": "jesus",
+        "n2": "jesuss",
+        "n3": "the jesus",
+        "n4": "the jesuss",
+        "n5": "jesus's"
+    },
+    {
+        "base": "billion",
+        "classes": [
+            "n"
+        ],
+        "n1": "billion",
+        "n2": "billions",
+        "n3": "the billion",
+        "n4": "the billions",
+        "n5": "billion's"
+    },
+    {
+        "base": "september",
+        "classes": [
+            "n"
+        ],
+        "n1": "september",
+        "n2": "septembers",
+        "n3": "the september",
+        "n4": "the septembers",
+        "n5": "september's"
+    },
+    {
+        "base": "europe",
+        "classes": [
+            "n"
+        ],
+        "n1": "europe",
+        "n2": "europes",
+        "n3": "the europe",
+        "n4": "the europes",
+        "n5": "europe's"
+    },
+    {
+        "base": "district",
+        "classes": [
+            "n"
+        ],
+        "n1": "district",
+        "n2": "districts",
+        "n3": "the district",
+        "n4": "the districts",
+        "n5": "district's"
+    },
+    {
+        "base": "centre",
+        "classes": [
+            "n"
+        ],
+        "n1": "centre",
+        "n2": "centres",
+        "n3": "the centre",
+        "n4": "the centres",
+        "n5": "centre's"
+    },
+    {
+        "base": "commission",
+        "classes": [
+            "n"
+        ],
+        "n1": "commission",
+        "n2": "commissions",
+        "n3": "the commission",
+        "n4": "the commissions",
+        "n5": "commission's"
+    },
+    {
+        "base": "october",
+        "classes": [
+            "n"
+        ],
+        "n1": "october",
+        "n2": "octobers",
+        "n3": "the october",
+        "n4": "the octobers",
+        "n5": "october's"
+    },
+    {
+        "base": "maximum",
+        "classes": [
+            "n"
+        ],
+        "n1": "maximum",
+        "n2": "maximums",
+        "n3": "the maximum",
+        "n4": "the maximums",
+        "n5": "maximum's"
+    },
+    {
+        "base": "educational",
+        "classes": [
+            "n"
+        ],
+        "n1": "educational",
+        "n2": "educationals",
+        "n3": "the educational",
+        "n4": "the educationals",
+        "n5": "educational's"
+    },
+    {
+        "base": "conference",
+        "classes": [
+            "n"
+        ],
+        "n1": "conference",
+        "n2": "conferences",
+        "n3": "the conference",
+        "n4": "the conferences",
+        "n5": "conference's"
+    },
+    {
+        "base": "industrial",
+        "classes": [
+            "n"
+        ],
+        "n1": "industrial",
+        "n2": "industrials",
+        "n3": "the industrial",
+        "n4": "the industrials",
+        "n5": "industrial's"
+    },
+    {
+        "base": "enterprise",
+        "classes": [
+            "n"
+        ],
+        "n1": "enterprise",
+        "n2": "enterprises",
+        "n3": "the enterprise",
+        "n4": "the enterprises",
+        "n5": "enterprise's"
+    },
+    {
+        "base": "pricing",
+        "classes": [
+            "n"
+        ],
+        "n1": "pricing",
+        "n2": "pricings",
+        "n3": "the pricing",
+        "n4": "the pricings",
+        "n5": "pricing's"
+    },
+    {
+        "base": "facilities",
+        "classes": [
+            "n"
+        ],
+        "n1": "facilities",
+        "n2": "facilitiess",
+        "n3": "the facilities",
+        "n4": "the facilitiess",
+        "n5": "facilities's"
+    },
+    {
+        "base": "joy",
+        "classes": [
+            "n"
+        ],
+        "n1": "joy",
+        "n2": "joys",
+        "n3": "the joy",
+        "n4": "the joys",
+        "n5": "joy's"
+    },
+    {
+        "base": "exclusive",
+        "classes": [
+            "n"
+        ],
+        "n1": "exclusive",
+        "n2": "exclusives",
+        "n3": "the exclusive",
+        "n4": "the exclusives",
+        "n5": "exclusive's"
+    },
+    {
+        "base": "century",
+        "classes": [
+            "n"
+        ],
+        "n1": "century",
+        "n2": "centurys",
+        "n3": "the century",
+        "n4": "the centurys",
+        "n5": "century's"
+    },
+    {
+        "base": "steel",
+        "classes": [
+            "n"
+        ],
+        "n1": "steel",
+        "n2": "steels",
+        "n3": "the steel",
+        "n4": "the steels",
+        "n5": "steel's"
+    },
+    {
+        "base": "manufacturing",
+        "classes": [
+            "n"
+        ],
+        "n1": "manufacturing",
+        "n2": "manufacturings",
+        "n3": "the manufacturing",
+        "n4": "the manufacturings",
+        "n5": "manufacturing's"
+    },
+    {
+        "base": "minimum",
+        "classes": [
+            "n"
+        ],
+        "n1": "minimum",
+        "n2": "minimums",
+        "n3": "the minimum",
+        "n4": "the minimums",
+        "n5": "minimum's"
+    },
+    {
+        "base": "patterns",
+        "classes": [
+            "n"
+        ],
+        "n1": "patterns",
+        "n2": "patternss",
+        "n3": "the patterns",
+        "n4": "the patternss",
+        "n5": "patterns's"
+    },
+    {
+        "base": "leads",
+        "classes": [
+            "n"
+        ],
+        "n1": "leads",
+        "n2": "leadss",
+        "n3": "the leads",
+        "n4": "the leadss",
+        "n5": "leads's"
+    },
+    {
+        "base": "icons",
+        "classes": [
+            "n"
+        ],
+        "n1": "icons",
+        "n2": "iconss",
+        "n3": "the icons",
+        "n4": "the iconss",
+        "n5": "icons's"
+    },
+    {
+        "base": "spring",
+        "classes": [
+            "n"
+        ],
+        "n1": "spring",
+        "n2": "springs",
+        "n3": "the spring",
+        "n4": "the springs",
+        "n5": "spring's"
+    },
+    {
+        "base": "battery",
+        "classes": [
+            "n"
+        ],
+        "n1": "battery",
+        "n2": "batterys",
+        "n3": "the battery",
+        "n4": "the batterys",
+        "n5": "battery's"
+    },
+    {
+        "base": "race",
+        "classes": [
+            "n"
+        ],
+        "n1": "race",
+        "n2": "races",
+        "n3": "the race",
+        "n4": "the races",
+        "n5": "race's"
+    },
+    {
+        "base": "executive",
+        "classes": [
+            "n"
+        ],
+        "n1": "executive",
+        "n2": "executives",
+        "n3": "the executive",
+        "n4": "the executives",
+        "n5": "executive's"
+    },
+    {
+        "base": "element",
+        "classes": [
+            "n"
+        ],
+        "n1": "element",
+        "n2": "elements",
+        "n3": "the element",
+        "n4": "the elements",
+        "n5": "element's"
+    },
+    {
+        "base": "december",
+        "classes": [
+            "n"
+        ],
+        "n1": "december",
+        "n2": "decembers",
+        "n3": "the december",
+        "n4": "the decembers",
+        "n5": "december's"
+    },
+    {
+        "base": "lifestyle",
+        "classes": [
+            "n"
+        ],
+        "n1": "lifestyle",
+        "n2": "lifestyles",
+        "n3": "the lifestyle",
+        "n4": "the lifestyles",
+        "n5": "lifestyle's"
+    },
+    {
+        "base": "friday",
+        "classes": [
+            "n"
+        ],
+        "n1": "friday",
+        "n2": "fridays",
+        "n3": "the friday",
+        "n4": "the fridays",
+        "n5": "friday's"
+    },
+    {
+        "base": "background",
+        "classes": [
+            "n"
+        ],
+        "n1": "background",
+        "n2": "backgrounds",
+        "n3": "the background",
+        "n4": "the backgrounds",
+        "n5": "background's"
+    },
+    {
+        "base": "chain",
+        "classes": [
+            "n"
+        ],
+        "n1": "chain",
+        "n2": "chains",
+        "n3": "the chain",
+        "n4": "the chains",
+        "n5": "chain's"
+    },
+    {
+        "base": "behavior",
+        "classes": [
+            "n"
+        ],
+        "n1": "behavior",
+        "n2": "behaviors",
+        "n3": "the behavior",
+        "n4": "the behaviors",
+        "n5": "behavior's"
+    },
+    {
+        "base": "mother",
+        "classes": [
+            "n"
+        ],
+        "n1": "mother",
+        "n2": "mothers",
+        "n3": "the mother",
+        "n4": "the mothers",
+        "n5": "mother's"
+    },
+    {
+        "base": "finance",
+        "classes": [
+            "n"
+        ],
+        "n1": "finance",
+        "n2": "finances",
+        "n3": "the finance",
+        "n4": "the finances",
+        "n5": "finance's"
+    },
+    {
+        "base": "shift",
+        "classes": [
+            "n"
+        ],
+        "n1": "shift",
+        "n2": "shifts",
+        "n3": "the shift",
+        "n4": "the shifts",
+        "n5": "shift's"
+    },
+    {
+        "base": "dining",
+        "classes": [
+            "n"
+        ],
+        "n1": "dining",
+        "n2": "dinings",
+        "n3": "the dining",
+        "n4": "the dinings",
+        "n5": "dining's"
+    },
+    {
+        "base": "winter",
+        "classes": [
+            "n"
+        ],
+        "n1": "winter",
+        "n2": "winters",
+        "n3": "the winter",
+        "n4": "the winters",
+        "n5": "winter's"
+    },
+    {
+        "base": "capabilities",
+        "classes": [
+            "n"
+        ],
+        "n1": "capabilities",
+        "n2": "capabilitiess",
+        "n3": "the capabilities",
+        "n4": "the capabilitiess",
+        "n5": "capabilities's"
+    },
+    {
+        "base": "spirit",
+        "classes": [
+            "n"
+        ],
+        "n1": "spirit",
+        "n2": "spirits",
+        "n3": "the spirit",
+        "n4": "the spirits",
+        "n5": "spirit's"
+    },
+    {
+        "base": "residents",
+        "classes": [
+            "n"
+        ],
+        "n1": "residents",
+        "n2": "residentss",
+        "n3": "the residents",
+        "n4": "the residentss",
+        "n5": "residents's"
+    },
+    {
+        "base": "server",
+        "classes": [
+            "n"
+        ],
+        "n1": "server",
+        "n2": "servers",
+        "n3": "the server",
+        "n4": "the servers",
+        "n5": "server's"
+    },
+    {
+        "base": "academic",
+        "classes": [
+            "n"
+        ],
+        "n1": "academic",
+        "n2": "academics",
+        "n3": "the academic",
+        "n4": "the academics",
+        "n5": "academic's"
+    },
+    {
+        "base": "london",
+        "classes": [
+            "n"
+        ],
+        "n1": "london",
+        "n2": "londons",
+        "n3": "the london",
+        "n4": "the londons",
+        "n5": "london's"
+    },
+    {
+        "base": "dynamic",
+        "classes": [
+            "n"
+        ],
+        "n1": "dynamic",
+        "n2": "dynamics",
+        "n3": "the dynamic",
+        "n4": "the dynamics",
+        "n5": "dynamic's"
+    },
+    {
+        "base": "analytics",
+        "classes": [
+            "n"
+        ],
+        "n1": "analytics",
+        "n2": "analyticss",
+        "n3": "the analytics",
+        "n4": "the analyticss",
+        "n5": "analytics's"
+    },
+    {
+        "base": "tree",
+        "classes": [
+            "n"
+        ],
+        "n1": "tree",
+        "n2": "trees",
+        "n3": "the tree",
+        "n4": "the trees",
+        "n5": "tree's"
+    },
+    {
+        "base": "foreign",
+        "classes": [
+            "n"
+        ],
+        "n1": "foreign",
+        "n2": "foreigns",
+        "n3": "the foreign",
+        "n4": "the foreigns",
+        "n5": "foreign's"
+    },
+    {
+        "base": "solid",
+        "classes": [
+            "n"
+        ],
+        "n1": "solid",
+        "n2": "solids",
+        "n3": "the solid",
+        "n4": "the solids",
+        "n5": "solid's"
+    },
+    {
+        "base": "investors",
+        "classes": [
+            "n"
+        ],
+        "n1": "investors",
+        "n2": "investorss",
+        "n3": "the investors",
+        "n4": "the investorss",
+        "n5": "investors's"
+    },
+    {
+        "base": "appeal",
+        "classes": [
+            "n"
+        ],
+        "n1": "appeal",
+        "n2": "appeals",
+        "n3": "the appeal",
+        "n4": "the appeals",
+        "n5": "appeal's"
+    },
+    {
+        "base": "pool",
+        "classes": [
+            "n"
+        ],
+        "n1": "pool",
+        "n2": "pools",
+        "n3": "the pool",
+        "n4": "the pools",
+        "n5": "pool's"
+    },
+    {
+        "base": "trump",
+        "classes": [
+            "n"
+        ],
+        "n1": "trump",
+        "n2": "trumps",
+        "n3": "the trump",
+        "n4": "the trumps",
+        "n5": "trump's"
+    },
+    {
+        "base": "potentially",
+        "classes": [
+            "n"
+        ],
+        "n1": "potentially",
+        "n2": "potentiallys",
+        "n3": "the potentially",
+        "n4": "the potentiallys",
+        "n5": "potentially's"
+    },
+    {
+        "base": "chat",
+        "classes": [
+            "n"
+        ],
+        "n1": "chat",
+        "n2": "chats",
+        "n3": "the chat",
+        "n4": "the chats",
+        "n5": "chat's"
+    },
+    {
+        "base": "master",
+        "classes": [
+            "n"
+        ],
+        "n1": "master",
+        "n2": "masters",
+        "n3": "the master",
+        "n4": "the masters",
+        "n5": "master's"
+    },
+    {
+        "base": "internal",
+        "classes": [
+            "n"
+        ],
+        "n1": "internal",
+        "n2": "internals",
+        "n3": "the internal",
+        "n4": "the internals",
+        "n5": "internal's"
+    },
+    {
+        "base": "authority",
+        "classes": [
+            "n"
+        ],
+        "n1": "authority",
+        "n2": "authoritys",
+        "n3": "the authority",
+        "n4": "the authoritys",
+        "n5": "authority's"
+    },
+    {
+        "base": "pet",
+        "classes": [
+            "n"
+        ],
+        "n1": "pet",
+        "n2": "pets",
+        "n3": "the pet",
+        "n4": "the pets",
+        "n5": "pet's"
+    },
+    {
+        "base": "agent",
+        "classes": [
+            "n"
+        ],
+        "n1": "agent",
+        "n2": "agents",
+        "n3": "the agent",
+        "n4": "the agents",
+        "n5": "agent's"
+    },
+    {
+        "base": "login",
+        "classes": [
+            "n"
+        ],
+        "n1": "login",
+        "n2": "logins",
+        "n3": "the login",
+        "n4": "the logins",
+        "n5": "login's"
+    },
+    {
+        "base": "november",
+        "classes": [
+            "n"
+        ],
+        "n1": "november",
+        "n2": "novembers",
+        "n3": "the november",
+        "n4": "the novembers",
+        "n5": "november's"
+    },
+    {
+        "base": "consumers",
+        "classes": [
+            "n"
+        ],
+        "n1": "consumers",
+        "n2": "consumerss",
+        "n3": "the consumers",
+        "n4": "the consumerss",
+        "n5": "consumers's"
+    },
+    {
+        "base": "supports",
+        "classes": [
+            "n"
+        ],
+        "n1": "supports",
+        "n2": "supportss",
+        "n3": "the supports",
+        "n4": "the supportss",
+        "n5": "supports's"
+    },
+    {
+        "base": "decades",
+        "classes": [
+            "n"
+        ],
+        "n1": "decades",
+        "n2": "decadess",
+        "n3": "the decades",
+        "n4": "the decadess",
+        "n5": "decades's"
+    },
+    {
+        "base": "host",
+        "classes": [
+            "n"
+        ],
+        "n1": "host",
+        "n2": "hosts",
+        "n3": "the host",
+        "n4": "the hosts",
+        "n5": "host's"
+    },
+    {
+        "base": "intelligence",
+        "classes": [
+            "n"
+        ],
+        "n1": "intelligence",
+        "n2": "intelligences",
+        "n3": "the intelligence",
+        "n4": "the intelligences",
+        "n5": "intelligence's"
+    },
+    {
+        "base": "reference",
+        "classes": [
+            "n"
+        ],
+        "n1": "reference",
+        "n2": "references",
+        "n3": "the reference",
+        "n4": "the references",
+        "n5": "reference's"
+    },
+    {
+        "base": "blend",
+        "classes": [
+            "n"
+        ],
+        "n1": "blend",
+        "n2": "blends",
+        "n3": "the blend",
+        "n4": "the blends",
+        "n5": "blend's"
+    },
+    {
+        "base": "winnings",
+        "classes": [
+            "n"
+        ],
+        "n1": "winnings",
+        "n2": "winningss",
+        "n3": "the winnings",
+        "n4": "the winningss",
+        "n5": "winnings's"
+    },
+    {
+        "base": "urban",
+        "classes": [
+            "n"
+        ],
+        "n1": "urban",
+        "n2": "urbans",
+        "n3": "the urban",
+        "n4": "the urbans",
+        "n5": "urban's"
+    },
+    {
+        "base": "functionality",
+        "classes": [
+            "n"
+        ],
+        "n1": "functionality",
+        "n2": "functionalitys",
+        "n3": "the functionality",
+        "n4": "the functionalitys",
+        "n5": "functionality's"
+    },
+    {
+        "base": "flexibility",
+        "classes": [
+            "n"
+        ],
+        "n1": "flexibility",
+        "n2": "flexibilitys",
+        "n3": "the flexibility",
+        "n4": "the flexibilitys",
+        "n5": "flexibility's"
+    },
+    {
+        "base": "amazon",
+        "classes": [
+            "n"
+        ],
+        "n1": "amazon",
+        "n2": "amazons",
+        "n3": "the amazon",
+        "n4": "the amazons",
+        "n5": "amazon's"
+    },
+    {
+        "base": "monitor",
+        "classes": [
+            "n"
+        ],
+        "n1": "monitor",
+        "n2": "monitors",
+        "n3": "the monitor",
+        "n4": "the monitors",
+        "n5": "monitor's"
+    },
+    {
+        "base": "thousands",
+        "classes": [
+            "n"
+        ],
+        "n1": "thousands",
+        "n2": "thousandss",
+        "n3": "the thousands",
+        "n4": "the thousandss",
+        "n5": "thousands's"
+    },
+    {
+        "base": "furniture",
+        "classes": [
+            "n"
+        ],
+        "n1": "furniture",
+        "n2": "furnitures",
+        "n3": "the furniture",
+        "n4": "the furnitures",
+        "n5": "furniture's"
+    },
+    {
+        "base": "cup",
+        "classes": [
+            "n"
+        ],
+        "n1": "cup",
+        "n2": "cups",
+        "n3": "the cup",
+        "n4": "the cups",
+        "n5": "cup's"
+    },
+    {
+        "base": "indian",
+        "classes": [
+            "n"
+        ],
+        "n1": "indian",
+        "n2": "indians",
+        "n3": "the indian",
+        "n4": "the indians",
+        "n5": "indian's"
+    },
+    {
+        "base": "vintage",
+        "classes": [
+            "n"
+        ],
+        "n1": "vintage",
+        "n2": "vintages",
+        "n3": "the vintage",
+        "n4": "the vintages",
+        "n5": "vintage's"
+    },
+    {
+        "base": "functions",
+        "classes": [
+            "n"
+        ],
+        "n1": "functions",
+        "n2": "functionss",
+        "n3": "the functions",
+        "n4": "the functionss",
+        "n5": "functions's"
+    },
+    {
+        "base": "solar",
+        "classes": [
+            "n"
+        ],
+        "n1": "solar",
+        "n2": "solars",
+        "n3": "the solar",
+        "n4": "the solars",
+        "n5": "solar's"
+    },
+    {
+        "base": "chinese",
+        "classes": [
+            "n"
+        ],
+        "n1": "chinese",
+        "n2": "chineses",
+        "n3": "the chinese",
+        "n4": "the chineses",
+        "n5": "chinese's"
+    },
+    {
+        "base": "august",
+        "classes": [
+            "n"
+        ],
+        "n1": "august",
+        "n2": "augusts",
+        "n3": "the august",
+        "n4": "the augusts",
+        "n5": "august's"
+    },
+    {
+        "base": "register",
+        "classes": [
+            "n"
+        ],
+        "n1": "register",
+        "n2": "registers",
+        "n3": "the register",
+        "n4": "the registers",
+        "n5": "register's"
+    },
+    {
+        "base": "assessment",
+        "classes": [
+            "n"
+        ],
+        "n1": "assessment",
+        "n2": "assessments",
+        "n3": "the assessment",
+        "n4": "the assessments",
+        "n5": "assessment's"
+    },
+    {
+        "base": "creation",
+        "classes": [
+            "n"
+        ],
+        "n1": "creation",
+        "n2": "creations",
+        "n3": "the creation",
+        "n4": "the creations",
+        "n5": "creation's"
+    },
+    {
+        "base": "teeth",
+        "classes": [
+            "n"
+        ],
+        "n1": "teeth",
+        "n2": "teeths",
+        "n3": "the teeth",
+        "n4": "the teeths",
+        "n5": "teeth's"
+    },
+    {
+        "base": "fantastic",
+        "classes": [
+            "n"
+        ],
+        "n1": "fantastic",
+        "n2": "fantastics",
+        "n3": "the fantastic",
+        "n4": "the fantastics",
+        "n5": "fantastic's"
+    },
+    {
+        "base": "ancient",
+        "classes": [
+            "n"
+        ],
+        "n1": "ancient",
+        "n2": "ancients",
+        "n3": "the ancient",
+        "n4": "the ancients",
+        "n5": "ancient's"
+    },
+    {
+        "base": "adult",
+        "classes": [
+            "n"
+        ],
+        "n1": "adult",
+        "n2": "adults",
+        "n3": "the adult",
+        "n4": "the adults",
+        "n5": "adult's"
+    },
+    {
+        "base": "carbon",
+        "classes": [
+            "n"
+        ],
+        "n1": "carbon",
+        "n2": "carbons",
+        "n3": "the carbon",
+        "n4": "the carbons",
+        "n5": "carbon's"
+    },
+    {
+        "base": "plenty",
+        "classes": [
+            "n"
+        ],
+        "n1": "plenty",
+        "n2": "plentys",
+        "n3": "the plenty",
+        "n4": "the plentys",
+        "n5": "plenty's"
+    },
+    {
+        "base": "defense",
+        "classes": [
+            "n"
+        ],
+        "n1": "defense",
+        "n2": "defenses",
+        "n3": "the defense",
+        "n4": "the defenses",
+        "n5": "defense's"
+    },
+    {
+        "base": "savings",
+        "classes": [
+            "n"
+        ],
+        "n1": "savings",
+        "n2": "savingss",
+        "n3": "the savings",
+        "n4": "the savingss",
+        "n5": "savings's"
+    },
+    {
+        "base": "applicable",
+        "classes": [
+            "n"
+        ],
+        "n1": "applicable",
+        "n2": "applicables",
+        "n3": "the applicable",
+        "n4": "the applicables",
+        "n5": "applicable's"
+    },
+    {
+        "base": "certified",
+        "classes": [
+            "n"
+        ],
+        "n1": "certified",
+        "n2": "certifieds",
+        "n3": "the certified",
+        "n4": "the certifieds",
+        "n5": "certified's"
+    },
+    {
+        "base": "flexible",
+        "classes": [
+            "n"
+        ],
+        "n1": "flexible",
+        "n2": "flexibles",
+        "n3": "the flexible",
+        "n4": "the flexibles",
+        "n5": "flexible's"
+    },
+    {
+        "base": "poker",
+        "classes": [
+            "n"
+        ],
+        "n1": "poker",
+        "n2": "pokers",
+        "n3": "the poker",
+        "n4": "the pokers",
+        "n5": "poker's"
+    },
+    {
+        "base": "aim",
+        "classes": [
+            "n"
+        ],
+        "n1": "aim",
+        "n2": "aims",
+        "n3": "the aim",
+        "n4": "the aims",
+        "n5": "aim's"
+    },
+    {
+        "base": "characters",
+        "classes": [
+            "n"
+        ],
+        "n1": "characters",
+        "n2": "characterss",
+        "n3": "the characters",
+        "n4": "the characterss",
+        "n5": "characters's"
+    },
+    {
+        "base": "remote",
+        "classes": [
+            "n"
+        ],
+        "n1": "remote",
+        "n2": "remotes",
+        "n3": "the remote",
+        "n4": "the remotes",
+        "n5": "remote's"
+    },
+    {
+        "base": "cities",
+        "classes": [
+            "n"
+        ],
+        "n1": "cities",
+        "n2": "citiess",
+        "n3": "the cities",
+        "n4": "the citiess",
+        "n5": "cities's"
+    },
+    {
+        "base": "expectations",
+        "classes": [
+            "n"
+        ],
+        "n1": "expectations",
+        "n2": "expectationss",
+        "n3": "the expectations",
+        "n4": "the expectationss",
+        "n5": "expectations's"
+    },
+    {
+        "base": "justice",
+        "classes": [
+            "n"
+        ],
+        "n1": "justice",
+        "n2": "justices",
+        "n3": "the justice",
+        "n4": "the justices",
+        "n5": "justice's"
+    },
+    {
+        "base": "letter",
+        "classes": [
+            "n"
+        ],
+        "n1": "letter",
+        "n2": "letters",
+        "n3": "the letter",
+        "n4": "the letters",
+        "n5": "letter's"
+    },
+    {
+        "base": "proof",
+        "classes": [
+            "n"
+        ],
+        "n1": "proof",
+        "n2": "proofs",
+        "n3": "the proof",
+        "n4": "the proofs",
+        "n5": "proof's"
+    },
+    {
+        "base": "minute",
+        "classes": [
+            "n"
+        ],
+        "n1": "minute",
+        "n2": "minutes",
+        "n3": "the minute",
+        "n4": "the minutes",
+        "n5": "minute's"
+    },
+    {
+        "base": "comments",
+        "classes": [
+            "n"
+        ],
+        "n1": "comments",
+        "n2": "commentss",
+        "n3": "the comments",
+        "n4": "the commentss",
+        "n5": "comments's"
+    },
+    {
+        "base": "doctor",
+        "classes": [
+            "n"
+        ],
+        "n1": "doctor",
+        "n2": "doctors",
+        "n3": "the doctor",
+        "n4": "the doctors",
+        "n5": "doctor's"
+    },
+    {
+        "base": "diet",
+        "classes": [
+            "n"
+        ],
+        "n1": "diet",
+        "n2": "diets",
+        "n3": "the diet",
+        "n4": "the diets",
+        "n5": "diet's"
+    },
+    {
+        "base": "exploring",
+        "classes": [
+            "n"
+        ],
+        "n1": "exploring",
+        "n2": "explorings",
+        "n3": "the exploring",
+        "n4": "the explorings",
+        "n5": "exploring's"
+    },
+    {
+        "base": "fuel",
+        "classes": [
+            "n"
+        ],
+        "n1": "fuel",
+        "n2": "fuels",
+        "n3": "the fuel",
+        "n4": "the fuels",
+        "n5": "fuel's"
+    },
+    {
+        "base": "lord",
+        "classes": [
+            "n"
+        ],
+        "n1": "lord",
+        "n2": "lords",
+        "n3": "the lord",
+        "n4": "the lords",
+        "n5": "lord's"
+    },
+    {
+        "base": "industries",
+        "classes": [
+            "n"
+        ],
+        "n1": "industries",
+        "n2": "industriess",
+        "n3": "the industries",
+        "n4": "the industriess",
+        "n5": "industries's"
+    },
+    {
+        "base": "doors",
+        "classes": [
+            "n"
+        ],
+        "n1": "doors",
+        "n2": "doorss",
+        "n3": "the doors",
+        "n4": "the doorss",
+        "n5": "doors's"
+    },
+    {
+        "base": "spread",
+        "classes": [
+            "n"
+        ],
+        "n1": "spread",
+        "n2": "spreads",
+        "n3": "the spread",
+        "n4": "the spreads",
+        "n5": "spread's"
+    },
+    {
+        "base": "sustainability",
+        "classes": [
+            "n"
+        ],
+        "n1": "sustainability",
+        "n2": "sustainabilitys",
+        "n3": "the sustainability",
+        "n4": "the sustainabilitys",
+        "n5": "sustainability's"
+    },
+    {
+        "base": "founder",
+        "classes": [
+            "n"
+        ],
+        "n1": "founder",
+        "n2": "founders",
+        "n3": "the founder",
+        "n4": "the founders",
+        "n5": "founder's"
+    },
+    {
+        "base": "faith",
+        "classes": [
+            "n"
+        ],
+        "n1": "faith",
+        "n2": "faiths",
+        "n3": "the faith",
+        "n4": "the faiths",
+        "n5": "faith's"
+    },
+    {
+        "base": "convenience",
+        "classes": [
+            "n"
+        ],
+        "n1": "convenience",
+        "n2": "conveniences",
+        "n3": "the convenience",
+        "n4": "the conveniences",
+        "n5": "convenience's"
+    },
+    {
+        "base": "ease",
+        "classes": [
+            "n"
+        ],
+        "n1": "ease",
+        "n2": "eases",
+        "n3": "the ease",
+        "n4": "the eases",
+        "n5": "ease's"
+    },
+    {
+        "base": "plastic",
+        "classes": [
+            "n"
+        ],
+        "n1": "plastic",
+        "n2": "plastics",
+        "n3": "the plastic",
+        "n4": "the plastics",
+        "n5": "plastic's"
+    },
+    {
+        "base": "drug",
+        "classes": [
+            "n"
+        ],
+        "n1": "drug",
+        "n2": "drugs",
+        "n3": "the drug",
+        "n4": "the drugs",
+        "n5": "drug's"
+    },
+    {
+        "base": "transactions",
+        "classes": [
+            "n"
+        ],
+        "n1": "transactions",
+        "n2": "transactionss",
+        "n3": "the transactions",
+        "n4": "the transactionss",
+        "n5": "transactions's"
+    },
+    {
+        "base": "organic",
+        "classes": [
+            "n"
+        ],
+        "n1": "organic",
+        "n2": "organics",
+        "n3": "the organic",
+        "n4": "the organics",
+        "n5": "organic's"
+    },
+    {
+        "base": "guidelines",
+        "classes": [
+            "n"
+        ],
+        "n1": "guidelines",
+        "n2": "guideliness",
+        "n3": "the guidelines",
+        "n4": "the guideliness",
+        "n5": "guidelines's"
+    },
+    {
+        "base": "fabric",
+        "classes": [
+            "n"
+        ],
+        "n1": "fabric",
+        "n2": "fabrics",
+        "n3": "the fabric",
+        "n4": "the fabrics",
+        "n5": "fabric's"
+    },
+    {
+        "base": "minister",
+        "classes": [
+            "n"
+        ],
+        "n1": "minister",
+        "n2": "ministers",
+        "n3": "the minister",
+        "n4": "the ministers",
+        "n5": "minister's"
+    },
+    {
+        "base": "institute",
+        "classes": [
+            "n"
+        ],
+        "n1": "institute",
+        "n2": "institutes",
+        "n3": "the institute",
+        "n4": "the institutes",
+        "n5": "institute's"
+    },
+    {
+        "base": "factor",
+        "classes": [
+            "n"
+        ],
+        "n1": "factor",
+        "n2": "factors",
+        "n3": "the factor",
+        "n4": "the factors",
+        "n5": "factor's"
+    },
+    {
+        "base": "dental",
+        "classes": [
+            "n"
+        ],
+        "n1": "dental",
+        "n2": "dentals",
+        "n3": "the dental",
+        "n4": "the dentals",
+        "n5": "dental's"
+    },
+    {
+        "base": "classes",
+        "classes": [
+            "n"
+        ],
+        "n1": "classes",
+        "n2": "classess",
+        "n3": "the classes",
+        "n4": "the classess",
+        "n5": "classes's"
+    },
+    {
+        "base": "routine",
+        "classes": [
+            "n"
+        ],
+        "n1": "routine",
+        "n2": "routines",
+        "n3": "the routine",
+        "n4": "the routines",
+        "n5": "routine's"
+    },
+    {
+        "base": "artists",
+        "classes": [
+            "n"
+        ],
+        "n1": "artists",
+        "n2": "artistss",
+        "n3": "the artists",
+        "n4": "the artistss",
+        "n5": "artists's"
+    },
+    {
+        "base": "audio",
+        "classes": [
+            "n"
+        ],
+        "n1": "audio",
+        "n2": "audios",
+        "n3": "the audio",
+        "n4": "the audios",
+        "n5": "audio's"
+    },
+    {
+        "base": "texas",
+        "classes": [
+            "n"
+        ],
+        "n1": "texas",
+        "n2": "texass",
+        "n3": "the texas",
+        "n4": "the texass",
+        "n5": "texas's"
+    },
+    {
+        "base": "sugar",
+        "classes": [
+            "n"
+        ],
+        "n1": "sugar",
+        "n2": "sugars",
+        "n3": "the sugar",
+        "n4": "the sugars",
+        "n5": "sugar's"
+    },
+    {
+        "base": "suit",
+        "classes": [
+            "n"
+        ],
+        "n1": "suit",
+        "n2": "suits",
+        "n3": "the suit",
+        "n4": "the suits",
+        "n5": "suit's"
+    },
+    {
+        "base": "historical",
+        "classes": [
+            "n"
+        ],
+        "n1": "historical",
+        "n2": "historicals",
+        "n3": "the historical",
+        "n4": "the historicals",
+        "n5": "historical's"
+    },
+    {
+        "base": "february",
+        "classes": [
+            "n"
+        ],
+        "n1": "february",
+        "n2": "februarys",
+        "n3": "the february",
+        "n4": "the februarys",
+        "n5": "february's"
+    },
+    {
+        "base": "criminal",
+        "classes": [
+            "n"
+        ],
+        "n1": "criminal",
+        "n2": "criminals",
+        "n3": "the criminal",
+        "n4": "the criminals",
+        "n5": "criminal's"
+    },
+    {
+        "base": "enhanced",
+        "classes": [
+            "n"
+        ],
+        "n1": "enhanced",
+        "n2": "enhanceds",
+        "n3": "the enhanced",
+        "n4": "the enhanceds",
+        "n5": "enhanced's"
+    },
+    {
+        "base": "victory",
+        "classes": [
+            "n"
+        ],
+        "n1": "victory",
+        "n2": "victorys",
+        "n3": "the victory",
+        "n4": "the victorys",
+        "n5": "victory's"
+    },
+    {
+        "base": "husband",
+        "classes": [
+            "n"
+        ],
+        "n1": "husband",
+        "n2": "husbands",
+        "n3": "the husband",
+        "n4": "the husbands",
+        "n5": "husband's"
+    },
+    {
+        "base": "northern",
+        "classes": [
+            "n"
+        ],
+        "n1": "northern",
+        "n2": "northerns",
+        "n3": "the northern",
+        "n4": "the northerns",
+        "n5": "northern's"
+    },
+    {
+        "base": "british",
+        "classes": [
+            "n"
+        ],
+        "n1": "british",
+        "n2": "britishs",
+        "n3": "the british",
+        "n4": "the britishs",
+        "n5": "british's"
+    },
+    {
+        "base": "survey",
+        "classes": [
+            "n"
+        ],
+        "n1": "survey",
+        "n2": "surveys",
+        "n3": "the survey",
+        "n4": "the surveys",
+        "n5": "survey's"
+    },
+    {
+        "base": "destination",
+        "classes": [
+            "n"
+        ],
+        "n1": "destination",
+        "n2": "destinations",
+        "n3": "the destination",
+        "n4": "the destinations",
+        "n5": "destination's"
+    },
+    {
+        "base": "panel",
+        "classes": [
+            "n"
+        ],
+        "n1": "panel",
+        "n2": "panels",
+        "n3": "the panel",
+        "n4": "the panels",
+        "n5": "panel's"
+    },
+    {
+        "base": "retail",
+        "classes": [
+            "n"
+        ],
+        "n1": "retail",
+        "n2": "retails",
+        "n3": "the retail",
+        "n4": "the retails",
+        "n5": "retail's"
+    },
+    {
+        "base": "monthly",
+        "classes": [
+            "n"
+        ],
+        "n1": "monthly",
+        "n2": "monthlys",
+        "n3": "the monthly",
+        "n4": "the monthlys",
+        "n5": "monthly's"
+    },
+    {
+        "base": "england",
+        "classes": [
+            "n"
+        ],
+        "n1": "england",
+        "n2": "englands",
+        "n3": "the england",
+        "n4": "the englands",
+        "n5": "england's"
+    },
+    {
+        "base": "africa",
+        "classes": [
+            "n"
+        ],
+        "n1": "africa",
+        "n2": "africas",
+        "n3": "the africa",
+        "n4": "the africas",
+        "n5": "africa's"
+    },
+    {
+        "base": "distance",
+        "classes": [
+            "n"
+        ],
+        "n1": "distance",
+        "n2": "distances",
+        "n3": "the distance",
+        "n4": "the distances",
+        "n5": "distance's"
+    },
+    {
+        "base": "layer",
+        "classes": [
+            "n"
+        ],
+        "n1": "layer",
+        "n2": "layers",
+        "n3": "the layer",
+        "n4": "the layers",
+        "n5": "layer's"
+    },
+    {
+        "base": "pandemic",
+        "classes": [
+            "n"
+        ],
+        "n1": "pandemic",
+        "n2": "pandemics",
+        "n3": "the pandemic",
+        "n4": "the pandemics",
+        "n5": "pandemic's"
+    },
+    {
+        "base": "clinical",
+        "classes": [
+            "n"
+        ],
+        "n1": "clinical",
+        "n2": "clinicals",
+        "n3": "the clinical",
+        "n4": "the clinicals",
+        "n5": "clinical's"
+    },
+    {
+        "base": "fitness",
+        "classes": [
+            "n"
+        ],
+        "n1": "fitness",
+        "n2": "fitnesss",
+        "n3": "the fitness",
+        "n4": "the fitnesss",
+        "n5": "fitness's"
+    },
+    {
+        "base": "regulatory",
+        "classes": [
+            "n"
+        ],
+        "n1": "regulatory",
+        "n2": "regulatorys",
+        "n3": "the regulatory",
+        "n4": "the regulatorys",
+        "n5": "regulatory's"
+    },
+    {
+        "base": "attorney",
+        "classes": [
+            "n"
+        ],
+        "n1": "attorney",
+        "n2": "attorneys",
+        "n3": "the attorney",
+        "n4": "the attorneys",
+        "n5": "attorney's"
+    },
+    {
+        "base": "instagram",
+        "classes": [
+            "n"
+        ],
+        "n1": "instagram",
+        "n2": "instagrams",
+        "n3": "the instagram",
+        "n4": "the instagrams",
+        "n5": "instagram's"
+    },
+    {
+        "base": "dating",
+        "classes": [
+            "n"
+        ],
+        "n1": "dating",
+        "n2": "datings",
+        "n3": "the dating",
+        "n4": "the datings",
+        "n5": "dating's"
+    },
+    {
+        "base": "officer",
+        "classes": [
+            "n"
+        ],
+        "n1": "officer",
+        "n2": "officers",
+        "n3": "the officer",
+        "n4": "the officers",
+        "n5": "officer's"
+    },
+    {
+        "base": "interview",
+        "classes": [
+            "n"
+        ],
+        "n1": "interview",
+        "n2": "interviews",
+        "n3": "the interview",
+        "n4": "the interviews",
+        "n5": "interview's"
+    },
+    {
+        "base": "electronic",
+        "classes": [
+            "n"
+        ],
+        "n1": "electronic",
+        "n2": "electronics",
+        "n3": "the electronic",
+        "n4": "the electronics",
+        "n5": "electronic's"
+    },
+    {
+        "base": "channel",
+        "classes": [
+            "n"
+        ],
+        "n1": "channel",
+        "n2": "channels",
+        "n3": "the channel",
+        "n4": "the channels",
+        "n5": "channel's"
+    },
+    {
+        "base": "partnership",
+        "classes": [
+            "n"
+        ],
+        "n1": "partnership",
+        "n2": "partnerships",
+        "n3": "the partnership",
+        "n4": "the partnerships",
+        "n5": "partnership's"
+    },
+    {
+        "base": "warranty",
+        "classes": [
+            "n"
+        ],
+        "n1": "warranty",
+        "n2": "warrantys",
+        "n3": "the warranty",
+        "n4": "the warrantys",
+        "n5": "warranty's"
+    },
+    {
+        "base": "interface",
+        "classes": [
+            "n"
+        ],
+        "n1": "interface",
+        "n2": "interfaces",
+        "n3": "the interface",
+        "n4": "the interfaces",
+        "n5": "interface's"
+    },
+    {
+        "base": "enterprises",
+        "classes": [
+            "n"
+        ],
+        "n1": "enterprises",
+        "n2": "enterprisess",
+        "n3": "the enterprises",
+        "n4": "the enterprisess",
+        "n5": "enterprises's"
+    },
+    {
+        "base": "rental",
+        "classes": [
+            "n"
+        ],
+        "n1": "rental",
+        "n2": "rentals",
+        "n3": "the rental",
+        "n4": "the rentals",
+        "n5": "rental's"
+    },
+    {
+        "base": "refund",
+        "classes": [
+            "n"
+        ],
+        "n1": "refund",
+        "n2": "refunds",
+        "n3": "the refund",
+        "n4": "the refunds",
+        "n5": "refund's"
+    },
+    {
+        "base": "roof",
+        "classes": [
+            "n"
+        ],
+        "n1": "roof",
+        "n2": "roofs",
+        "n3": "the roof",
+        "n4": "the roofs",
+        "n5": "roof's"
+    },
+    {
+        "base": "artist",
+        "classes": [
+            "n"
+        ],
+        "n1": "artist",
+        "n2": "artists",
+        "n3": "the artist",
+        "n4": "the artists",
+        "n5": "artist's"
+    },
+    {
+        "base": "expenses",
+        "classes": [
+            "n"
+        ],
+        "n1": "expenses",
+        "n2": "expensess",
+        "n3": "the expenses",
+        "n4": "the expensess",
+        "n5": "expenses's"
+    },
+    {
+        "base": "bag",
+        "classes": [
+            "n"
+        ],
+        "n1": "bag",
+        "n2": "bags",
+        "n3": "the bag",
+        "n4": "the bags",
+        "n5": "bag's"
+    },
+    {
+        "base": "auto",
+        "classes": [
+            "n"
+        ],
+        "n1": "auto",
+        "n2": "autos",
+        "n3": "the auto",
+        "n4": "the autos",
+        "n5": "auto's"
+    },
+    {
+        "base": "french",
+        "classes": [
+            "n"
+        ],
+        "n1": "french",
+        "n2": "frenchs",
+        "n3": "the french",
+        "n4": "the frenchs",
+        "n5": "french's"
+    },
+    {
+        "base": "robust",
+        "classes": [
+            "n"
+        ],
+        "n1": "robust",
+        "n2": "robusts",
+        "n3": "the robust",
+        "n4": "the robusts",
+        "n5": "robust's"
+    },
+    {
+        "base": "aid",
+        "classes": [
+            "n"
+        ],
+        "n1": "aid",
+        "n2": "aids",
+        "n3": "the aid",
+        "n4": "the aids",
+        "n5": "aid's"
+    },
+    {
+        "base": "determined",
+        "classes": [
+            "n"
+        ],
+        "n1": "determined",
+        "n2": "determineds",
+        "n3": "the determined",
+        "n4": "the determineds",
+        "n5": "determined's"
+    },
+    {
+        "base": "block",
+        "classes": [
+            "n"
+        ],
+        "n1": "block",
+        "n2": "blocks",
+        "n3": "the block",
+        "n4": "the blocks",
+        "n5": "block's"
+    },
+    {
+        "base": "avalanche",
+        "classes": [
+            "n"
+        ],
+        "n1": "avalanche",
+        "n2": "avalanches",
+        "n3": "the avalanche",
+        "n4": "the avalanches",
+        "n5": "avalanche's"
+    },
+    {
+        "base": "facility",
+        "classes": [
+            "n"
+        ],
+        "n1": "facility",
+        "n2": "facilitys",
+        "n3": "the facility",
+        "n4": "the facilitys",
+        "n5": "facility's"
+    },
+    {
+        "base": "miles",
+        "classes": [
+            "n"
+        ],
+        "n1": "miles",
+        "n2": "miless",
+        "n3": "the miles",
+        "n4": "the miless",
+        "n5": "miles's"
+    },
+    {
+        "base": "talent",
+        "classes": [
+            "n"
+        ],
+        "n1": "talent",
+        "n2": "talents",
+        "n3": "the talent",
+        "n4": "the talents",
+        "n5": "talent's"
+    },
+    {
+        "base": "sensitive",
+        "classes": [
+            "n"
+        ],
+        "n1": "sensitive",
+        "n2": "sensitives",
+        "n3": "the sensitive",
+        "n4": "the sensitives",
+        "n5": "sensitive's"
+    },
+    {
+        "base": "institutions",
+        "classes": [
+            "n"
+        ],
+        "n1": "institutions",
+        "n2": "institutionss",
+        "n3": "the institutions",
+        "n4": "the institutionss",
+        "n5": "institutions's"
+    },
+    {
+        "base": "packaging",
+        "classes": [
+            "n"
+        ],
+        "n1": "packaging",
+        "n2": "packagings",
+        "n3": "the packaging",
+        "n4": "the packagings",
+        "n5": "packaging's"
+    },
+    {
+        "base": "inspiration",
+        "classes": [
+            "n"
+        ],
+        "n1": "inspiration",
+        "n2": "inspirations",
+        "n3": "the inspiration",
+        "n4": "the inspirations",
+        "n5": "inspiration's"
+    },
+    {
+        "base": "washington",
+        "classes": [
+            "n"
+        ],
+        "n1": "washington",
+        "n2": "washingtons",
+        "n3": "the washington",
+        "n4": "the washingtons",
+        "n5": "washington's"
+    },
+    {
+        "base": "conduct",
+        "classes": [
+            "n"
+        ],
+        "n1": "conduct",
+        "n2": "conducts",
+        "n3": "the conduct",
+        "n4": "the conducts",
+        "n5": "conduct's"
+    },
+    {
+        "base": "durable",
+        "classes": [
+            "n"
+        ],
+        "n1": "durable",
+        "n2": "durables",
+        "n3": "the durable",
+        "n4": "the durables",
+        "n5": "durable's"
+    },
+    {
+        "base": "stuff",
+        "classes": [
+            "n"
+        ],
+        "n1": "stuff",
+        "n2": "stuffs",
+        "n3": "the stuff",
+        "n4": "the stuffs",
+        "n5": "stuff's"
+    },
+    {
+        "base": "sex",
+        "classes": [
+            "n"
+        ],
+        "n1": "sex",
+        "n2": "sexs",
+        "n3": "the sex",
+        "n4": "the sexs",
+        "n5": "sex's"
+    },
+    {
+        "base": "submit",
+        "classes": [
+            "n"
+        ],
+        "n1": "submit",
+        "n2": "submits",
+        "n3": "the submit",
+        "n4": "the submits",
+        "n5": "submit's"
+    },
+    {
+        "base": "circumstances",
+        "classes": [
+            "n"
+        ],
+        "n1": "circumstances",
+        "n2": "circumstancess",
+        "n3": "the circumstances",
+        "n4": "the circumstancess",
+        "n5": "circumstances's"
+    },
+    {
+        "base": "festival",
+        "classes": [
+            "n"
+        ],
+        "n1": "festival",
+        "n2": "festivals",
+        "n3": "the festival",
+        "n4": "the festivals",
+        "n5": "festival's"
+    },
+    {
+        "base": "browser",
+        "classes": [
+            "n"
+        ],
+        "n1": "browser",
+        "n2": "browsers",
+        "n3": "the browser",
+        "n4": "the browsers",
+        "n5": "browser's"
+    },
+    {
+        "base": "western",
+        "classes": [
+            "n"
+        ],
+        "n1": "western",
+        "n2": "westerns",
+        "n3": "the western",
+        "n4": "the westerns",
+        "n5": "western's"
+    },
+    {
+        "base": "barn",
+        "classes": [
+            "n"
+        ],
+        "n1": "barn",
+        "n2": "barns",
+        "n3": "the barn",
+        "n4": "the barns",
+        "n5": "barn's"
+    },
+    {
+        "base": "league",
+        "classes": [
+            "n"
+        ],
+        "n1": "league",
+        "n2": "leagues",
+        "n3": "the league",
+        "n4": "the leagues",
+        "n5": "league's"
+    },
+    {
+        "base": "commerce",
+        "classes": [
+            "n"
+        ],
+        "n1": "commerce",
+        "n2": "commerces",
+        "n3": "the commerce",
+        "n4": "the commerces",
+        "n5": "commerce's"
+    },
+    {
+        "base": "diversity",
+        "classes": [
+            "n"
+        ],
+        "n1": "diversity",
+        "n2": "diversitys",
+        "n3": "the diversity",
+        "n4": "the diversitys",
+        "n5": "diversity's"
+    },
+    {
+        "base": "split",
+        "classes": [
+            "n"
+        ],
+        "n1": "split",
+        "n2": "splits",
+        "n3": "the split",
+        "n4": "the splits",
+        "n5": "split's"
+    },
+    {
+        "base": "celebrate",
+        "classes": [
+            "n"
+        ],
+        "n1": "celebrate",
+        "n2": "celebrates",
+        "n3": "the celebrate",
+        "n4": "the celebrates",
+        "n5": "celebrate's"
+    },
+    {
+        "base": "consumption",
+        "classes": [
+            "n"
+        ],
+        "n1": "consumption",
+        "n2": "consumptions",
+        "n3": "the consumption",
+        "n4": "the consumptions",
+        "n5": "consumption's"
+    },
+    {
+        "base": "australian",
+        "classes": [
+            "n"
+        ],
+        "n1": "australian",
+        "n2": "australians",
+        "n3": "the australian",
+        "n4": "the australians",
+        "n5": "australian's"
+    },
+    {
+        "base": "valley",
+        "classes": [
+            "n"
+        ],
+        "n1": "valley",
+        "n2": "valleys",
+        "n3": "the valley",
+        "n4": "the valleys",
+        "n5": "valley's"
+    },
+    {
+        "base": "mountain",
+        "classes": [
+            "n"
+        ],
+        "n1": "mountain",
+        "n2": "mountains",
+        "n3": "the mountain",
+        "n4": "the mountains",
+        "n5": "mountain's"
+    },
+    {
+        "base": "holds",
+        "classes": [
+            "n"
+        ],
+        "n1": "holds",
+        "n2": "holdss",
+        "n3": "the holds",
+        "n4": "the holdss",
+        "n5": "holds's"
+    },
+    {
+        "base": "purchased",
+        "classes": [
+            "n"
+        ],
+        "n1": "purchased",
+        "n2": "purchaseds",
+        "n3": "the purchased",
+        "n4": "the purchaseds",
+        "n5": "purchased's"
+    },
+    {
+        "base": "microsoft",
+        "classes": [
+            "n"
+        ],
+        "n1": "microsoft",
+        "n2": "microsofts",
+        "n3": "the microsoft",
+        "n4": "the microsofts",
+        "n5": "microsoft's"
+    },
+    {
+        "base": "museum",
+        "classes": [
+            "n"
+        ],
+        "n1": "museum",
+        "n2": "museums",
+        "n3": "the museum",
+        "n4": "the museums",
+        "n5": "museum's"
+    },
+    {
+        "base": "penelope",
+        "classes": [
+            "n"
+        ],
+        "n1": "penelope",
+        "n2": "penelopes",
+        "n3": "the penelope",
+        "n4": "the penelopes",
+        "n5": "penelope's"
+    },
+    {
+        "base": "tickets",
+        "classes": [
+            "n"
+        ],
+        "n1": "tickets",
+        "n2": "ticketss",
+        "n3": "the tickets",
+        "n4": "the ticketss",
+        "n5": "tickets's"
+    },
+    {
+        "base": "firstname",
+        "classes": [
+            "n"
+        ],
+        "n1": "firstname",
+        "n2": "firstnames",
+        "n3": "the firstname",
+        "n4": "the firstnames",
+        "n5": "firstname's"
+    },
+    {
+        "base": "hardware",
+        "classes": [
+            "n"
+        ],
+        "n1": "hardware",
+        "n2": "hardwares",
+        "n3": "the hardware",
+        "n4": "the hardwares",
+        "n5": "hardware's"
+    },
+    {
+        "base": "effectiveness",
+        "classes": [
+            "n"
+        ],
+        "n1": "effectiveness",
+        "n2": "effectivenesss",
+        "n3": "the effectiveness",
+        "n4": "the effectivenesss",
+        "n5": "effectiveness's"
+    },
+    {
+        "base": "specialized",
+        "classes": [
+            "n"
+        ],
+        "n1": "specialized",
+        "n2": "specializeds",
+        "n3": "the specialized",
+        "n4": "the specializeds",
+        "n5": "specialized's"
+    },
+    {
+        "base": "grant",
+        "classes": [
+            "n"
+        ],
+        "n1": "grant",
+        "n2": "grants",
+        "n3": "the grant",
+        "n4": "the grants",
+        "n5": "grant's"
+    },
+    {
+        "base": "architecture",
+        "classes": [
+            "n"
+        ],
+        "n1": "architecture",
+        "n2": "architectures",
+        "n3": "the architecture",
+        "n4": "the architectures",
+        "n5": "architecture's"
+    },
+    {
+        "base": "leather",
+        "classes": [
+            "n"
+        ],
+        "n1": "leather",
+        "n2": "leathers",
+        "n3": "the leather",
+        "n4": "the leathers",
+        "n5": "leather's"
+    },
+    {
+        "base": "tuesday",
+        "classes": [
+            "n"
+        ],
+        "n1": "tuesday",
+        "n2": "tuesdays",
+        "n3": "the tuesday",
+        "n4": "the tuesdays",
+        "n5": "tuesday's"
+    },
+    {
+        "base": "portfolio",
+        "classes": [
+            "n"
+        ],
+        "n1": "portfolio",
+        "n2": "portfolios",
+        "n3": "the portfolio",
+        "n4": "the portfolios",
+        "n5": "portfolio's"
+    },
+    {
+        "base": "pattern",
+        "classes": [
+            "n"
+        ],
+        "n1": "pattern",
+        "n2": "patterns",
+        "n3": "the pattern",
+        "n4": "the patterns",
+        "n5": "pattern's"
+    },
+    {
+        "base": "female",
+        "classes": [
+            "n"
+        ],
+        "n1": "female",
+        "n2": "females",
+        "n3": "the female",
+        "n4": "the females",
+        "n5": "female's"
+    },
+    {
+        "base": "muscle",
+        "classes": [
+            "n"
+        ],
+        "n1": "muscle",
+        "n2": "muscles",
+        "n3": "the muscle",
+        "n4": "the muscles",
+        "n5": "muscle's"
+    },
+    {
+        "base": "log",
+        "classes": [
+            "n"
+        ],
+        "n1": "log",
+        "n2": "logs",
+        "n3": "the log",
+        "n4": "the logs",
+        "n5": "log's"
+    },
+    {
+        "base": "bets",
+        "classes": [
+            "n"
+        ],
+        "n1": "bets",
+        "n2": "betss",
+        "n3": "the bets",
+        "n4": "the betss",
+        "n5": "bets's"
+    },
+    {
+        "base": "pride",
+        "classes": [
+            "n"
+        ],
+        "n1": "pride",
+        "n2": "prides",
+        "n3": "the pride",
+        "n4": "the prides",
+        "n5": "pride's"
+    },
+    {
+        "base": "coach",
+        "classes": [
+            "n"
+        ],
+        "n1": "coach",
+        "n2": "coachs",
+        "n3": "the coach",
+        "n4": "the coachs",
+        "n5": "coach's"
+    },
+    {
+        "base": "chair",
+        "classes": [
+            "n"
+        ],
+        "n1": "chair",
+        "n2": "chairs",
+        "n3": "the chair",
+        "n4": "the chairs",
+        "n5": "chair's"
+    },
+    {
+        "base": "japan",
+        "classes": [
+            "n"
+        ],
+        "n1": "japan",
+        "n2": "japans",
+        "n3": "the japan",
+        "n4": "the japans",
+        "n5": "japan's"
+    },
+    {
+        "base": "defined",
+        "classes": [
+            "n"
+        ],
+        "n1": "defined",
+        "n2": "defineds",
+        "n3": "the defined",
+        "n4": "the defineds",
+        "n5": "defined's"
+    },
+    {
+        "base": "categories",
+        "classes": [
+            "n"
+        ],
+        "n1": "categories",
+        "n2": "categoriess",
+        "n3": "the categories",
+        "n4": "the categoriess",
+        "n5": "categories's"
+    },
+    {
+        "base": "thursday",
+        "classes": [
+            "n"
+        ],
+        "n1": "thursday",
+        "n2": "thursdays",
+        "n3": "the thursday",
+        "n4": "the thursdays",
+        "n5": "thursday's"
+    },
+    {
+        "base": "taxes",
+        "classes": [
+            "n"
+        ],
+        "n1": "taxes",
+        "n2": "taxess",
+        "n3": "the taxes",
+        "n4": "the taxess",
+        "n5": "taxes's"
+    },
+    {
+        "base": "domestic",
+        "classes": [
+            "n"
+        ],
+        "n1": "domestic",
+        "n2": "domestics",
+        "n3": "the domestic",
+        "n4": "the domestics",
+        "n5": "domestic's"
+    },
+    {
+        "base": "african",
+        "classes": [
+            "n"
+        ],
+        "n1": "african",
+        "n2": "africans",
+        "n3": "the african",
+        "n4": "the africans",
+        "n5": "african's"
+    },
+    {
+        "base": "paul",
+        "classes": [
+            "n"
+        ],
+        "n1": "paul",
+        "n2": "pauls",
+        "n3": "the paul",
+        "n4": "the pauls",
+        "n5": "paul's"
+    },
+    {
+        "base": "walls",
+        "classes": [
+            "n"
+        ],
+        "n1": "walls",
+        "n2": "wallss",
+        "n3": "the walls",
+        "n4": "the wallss",
+        "n5": "walls's"
+    },
+    {
+        "base": "hundreds",
+        "classes": [
+            "n"
+        ],
+        "n1": "hundreds",
+        "n2": "hundredss",
+        "n3": "the hundreds",
+        "n4": "the hundredss",
+        "n5": "hundreds's"
+    },
+    {
+        "base": "workplace",
+        "classes": [
+            "n"
+        ],
+        "n1": "workplace",
+        "n2": "workplaces",
+        "n3": "the workplace",
+        "n4": "the workplaces",
+        "n5": "workplace's"
+    },
+    {
+        "base": "era",
+        "classes": [
+            "n"
+        ],
+        "n1": "era",
+        "n2": "eras",
+        "n3": "the era",
+        "n4": "the eras",
+        "n5": "era's"
+    },
+    {
+        "base": "russian",
+        "classes": [
+            "n"
+        ],
+        "n1": "russian",
+        "n2": "russians",
+        "n3": "the russian",
+        "n4": "the russians",
+        "n5": "russian's"
+    },
+    {
+        "base": "heritage",
+        "classes": [
+            "n"
+        ],
+        "n1": "heritage",
+        "n2": "heritages",
+        "n3": "the heritage",
+        "n4": "the heritages",
+        "n5": "heritage's"
+    },
+    {
+        "base": "colour",
+        "classes": [
+            "n"
+        ],
+        "n1": "colour",
+        "n2": "colours",
+        "n3": "the colour",
+        "n4": "the colours",
+        "n5": "colour's"
+    },
+    {
+        "base": "bridge",
+        "classes": [
+            "n"
+        ],
+        "n1": "bridge",
+        "n2": "bridges",
+        "n3": "the bridge",
+        "n4": "the bridges",
+        "n5": "bridge's"
+    },
+    {
+        "base": "technique",
+        "classes": [
+            "n"
+        ],
+        "n1": "technique",
+        "n2": "techniques",
+        "n3": "the technique",
+        "n4": "the techniques",
+        "n5": "technique's"
+    },
+    {
+        "base": "airg",
+        "classes": [
+            "n"
+        ],
+        "n1": "airg",
+        "n2": "airgs",
+        "n3": "the airg",
+        "n4": "the airgs",
+        "n5": "airg's"
+    },
+    {
+        "base": "streaming",
+        "classes": [
+            "n"
+        ],
+        "n1": "streaming",
+        "n2": "streamings",
+        "n3": "the streaming",
+        "n4": "the streamings",
+        "n5": "streaming's"
+    },
+    {
+        "base": "episode",
+        "classes": [
+            "n"
+        ],
+        "n1": "episode",
+        "n2": "episodes",
+        "n3": "the episode",
+        "n4": "the episodes",
+        "n5": "episode's"
+    },
+    {
+        "base": "trend",
+        "classes": [
+            "n"
+        ],
+        "n1": "trend",
+        "n2": "trends",
+        "n3": "the trend",
+        "n4": "the trends",
+        "n5": "trend's"
+    },
+    {
+        "base": "lawyer",
+        "classes": [
+            "n"
+        ],
+        "n1": "lawyer",
+        "n2": "lawyers",
+        "n3": "the lawyer",
+        "n4": "the lawyers",
+        "n5": "lawyer's"
+    },
+    {
+        "base": "israel",
+        "classes": [
+            "n"
+        ],
+        "n1": "israel",
+        "n2": "israels",
+        "n3": "the israel",
+        "n4": "the israels",
+        "n5": "israel's"
+    },
+    {
+        "base": "transformation",
+        "classes": [
+            "n"
+        ],
+        "n1": "transformation",
+        "n2": "transformations",
+        "n3": "the transformation",
+        "n4": "the transformations",
+        "n5": "transformation's"
+    },
+    {
+        "base": "wednesday",
+        "classes": [
+            "n"
+        ],
+        "n1": "wednesday",
+        "n2": "wednesdays",
+        "n3": "the wednesday",
+        "n4": "the wednesdays",
+        "n5": "wednesday's"
+    },
+    {
+        "base": "hiring",
+        "classes": [
+            "n"
+        ],
+        "n1": "hiring",
+        "n2": "hirings",
+        "n3": "the hiring",
+        "n4": "the hirings",
+        "n5": "hiring's"
+    },
+    {
+        "base": "duty",
+        "classes": [
+            "n"
+        ],
+        "n1": "duty",
+        "n2": "dutys",
+        "n3": "the duty",
+        "n4": "the dutys",
+        "n5": "duty's"
+    },
+    {
+        "base": "filter",
+        "classes": [
+            "n"
+        ],
+        "n1": "filter",
+        "n2": "filters",
+        "n3": "the filter",
+        "n4": "the filters",
+        "n5": "filter's"
+    },
+    {
+        "base": "vast",
+        "classes": [
+            "n"
+        ],
+        "n1": "vast",
+        "n2": "vasts",
+        "n3": "the vast",
+        "n4": "the vasts",
+        "n5": "vast's"
+    },
+    {
+        "base": "bible",
+        "classes": [
+            "n"
+        ],
+        "n1": "bible",
+        "n2": "bibles",
+        "n3": "the bible",
+        "n4": "the bibles",
+        "n5": "bible's"
+    },
+    {
+        "base": "organized",
+        "classes": [
+            "n"
+        ],
+        "n1": "organized",
+        "n2": "organizeds",
+        "n3": "the organized",
+        "n4": "the organizeds",
+        "n5": "organized's"
+    },
+    {
+        "base": "stones",
+        "classes": [
+            "n"
+        ],
+        "n1": "stones",
+        "n2": "stoness",
+        "n3": "the stones",
+        "n4": "the stoness",
+        "n5": "stones's"
+    },
+    {
+        "base": "kingdom",
+        "classes": [
+            "n"
+        ],
+        "n1": "kingdom",
+        "n2": "kingdoms",
+        "n3": "the kingdom",
+        "n4": "the kingdoms",
+        "n5": "kingdom's"
+    },
+    {
+        "base": "certificate",
+        "classes": [
+            "n"
+        ],
+        "n1": "certificate",
+        "n2": "certificates",
+        "n3": "the certificate",
+        "n4": "the certificates",
+        "n5": "certificate's"
+    },
+    {
+        "base": "wellness",
+        "classes": [
+            "n"
+        ],
+        "n1": "wellness",
+        "n2": "wellnesss",
+        "n3": "the wellness",
+        "n4": "the wellnesss",
+        "n5": "wellness's"
+    },
+    {
+        "base": "corner",
+        "classes": [
+            "n"
+        ],
+        "n1": "corner",
+        "n2": "corners",
+        "n3": "the corner",
+        "n4": "the corners",
+        "n5": "corner's"
+    },
+    {
+        "base": "moisture",
+        "classes": [
+            "n"
+        ],
+        "n1": "moisture",
+        "n2": "moistures",
+        "n3": "the moisture",
+        "n4": "the moistures",
+        "n5": "moisture's"
+    },
+    {
+        "base": "gender",
+        "classes": [
+            "n"
+        ],
+        "n1": "gender",
+        "n2": "genders",
+        "n3": "the gender",
+        "n4": "the genders",
+        "n5": "gender's"
+    },
+    {
+        "base": "quote",
+        "classes": [
+            "n"
+        ],
+        "n1": "quote",
+        "n2": "quotes",
+        "n3": "the quote",
+        "n4": "the quotes",
+        "n5": "quote's"
+    },
+    {
+        "base": "officials",
+        "classes": [
+            "n"
+        ],
+        "n1": "officials",
+        "n2": "officialss",
+        "n3": "the officials",
+        "n4": "the officialss",
+        "n5": "officials's"
+    },
+    {
+        "base": "chris",
+        "classes": [
+            "n"
+        ],
+        "n1": "chris",
+        "n2": "chriss",
+        "n3": "the chris",
+        "n4": "the chriss",
+        "n5": "chris's"
+    },
+    {
+        "base": "ticket",
+        "classes": [
+            "n"
+        ],
+        "n1": "ticket",
+        "n2": "tickets",
+        "n3": "the ticket",
+        "n4": "the tickets",
+        "n5": "ticket's"
+    },
+    {
+        "base": "protein",
+        "classes": [
+            "n"
+        ],
+        "n1": "protein",
+        "n2": "proteins",
+        "n3": "the protein",
+        "n4": "the proteins",
+        "n5": "protein's"
+    },
+    {
+        "base": "mortgage",
+        "classes": [
+            "n"
+        ],
+        "n1": "mortgage",
+        "n2": "mortgages",
+        "n3": "the mortgage",
+        "n4": "the mortgages",
+        "n5": "mortgage's"
+    }
+]
