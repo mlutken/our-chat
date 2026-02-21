@@ -1,0 +1,11 @@
+{
+    "base": "hour",
+    "classes": [
+        "n"
+    ],
+    "n1": "hour",
+    "n2": "hours",
+    "n3": "the hour",
+    "n4": "the hours",
+    "n5": "hour's"
+}

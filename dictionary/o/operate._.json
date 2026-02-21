@@ -1,0 +1,11 @@
+{
+    "base": "operate",
+    "classes": [
+        "v"
+    ],
+    "v1": "operate",
+    "v2": "operated",
+    "v3": "operated",
+    "v4": "operating",
+    "v5": "operates"
+}

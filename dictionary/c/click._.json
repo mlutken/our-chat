@@ -1,0 +1,11 @@
+{
+    "base": "click",
+    "classes": [
+        "v"
+    ],
+    "v1": "click",
+    "v2": "clicked",
+    "v3": "clicked",
+    "v4": "clicking",
+    "v5": "clicks"
+}

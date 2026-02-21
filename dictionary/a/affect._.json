@@ -1,0 +1,11 @@
+{
+    "base": "affect",
+    "classes": [
+        "v"
+    ],
+    "v1": "affect",
+    "v2": "affected",
+    "v3": "affected",
+    "v4": "affecting",
+    "v5": "affects"
+}

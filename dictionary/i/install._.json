@@ -1,0 +1,11 @@
+{
+    "base": "install",
+    "classes": [
+        "v"
+    ],
+    "v1": "install",
+    "v2": "installed",
+    "v3": "installed",
+    "v4": "installing",
+    "v5": "installs"
+}

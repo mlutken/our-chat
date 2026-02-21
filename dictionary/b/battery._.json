@@ -1,0 +1,11 @@
+{
+    "base": "battery",
+    "classes": [
+        "n"
+    ],
+    "n1": "battery",
+    "n2": "batteries",
+    "n3": "the battery",
+    "n4": "the batteries",
+    "n5": "battery's"
+}

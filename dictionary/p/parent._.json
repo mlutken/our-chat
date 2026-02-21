@@ -1,0 +1,11 @@
+{
+    "base": "parent",
+    "classes": [
+        "n"
+    ],
+    "n1": "parent",
+    "n2": "parents",
+    "n3": "the parent",
+    "n4": "the parents",
+    "n5": "parent's"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "implement",
+    "classes": [
+        "v"
+    ],
+    "v1": "implement",
+    "v2": "implemented",
+    "v3": "implemented",
+    "v4": "implementing",
+    "v5": "implements"
+}

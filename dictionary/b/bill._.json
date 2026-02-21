@@ -1,0 +1,11 @@
+{
+    "base": "bill",
+    "classes": [
+        "n"
+    ],
+    "n1": "bill",
+    "n2": "bills",
+    "n3": "the bill",
+    "n4": "the bills",
+    "n5": "bill's"
+}

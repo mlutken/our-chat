@@ -1,0 +1,11 @@
+{
+    "base": "wine",
+    "classes": [
+        "n"
+    ],
+    "n1": "wine",
+    "n2": "wines",
+    "n3": "the wine",
+    "n4": "the wines",
+    "n5": "wine's"
+}

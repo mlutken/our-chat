@@ -1,0 +1,11 @@
+{
+    "base": "resident",
+    "classes": [
+        "n"
+    ],
+    "n1": "resident",
+    "n2": "residents",
+    "n3": "the resident",
+    "n4": "the residents",
+    "n5": "resident's"
+}

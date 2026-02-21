@@ -1,0 +1,11 @@
+{
+    "base": "stream",
+    "classes": [
+        "v"
+    ],
+    "v1": "stream",
+    "v2": "streamed",
+    "v3": "streamed",
+    "v4": "streaming",
+    "v5": "streams"
+}

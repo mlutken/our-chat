@@ -1,0 +1,11 @@
+{
+    "base": "enable",
+    "classes": [
+        "v"
+    ],
+    "v1": "enable",
+    "v2": "enabled",
+    "v3": "enabled",
+    "v4": "enabling",
+    "v5": "enables"
+}

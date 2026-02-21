@@ -1,0 +1,11 @@
+{
+    "base": "patient",
+    "classes": [
+        "n"
+    ],
+    "n1": "patient",
+    "n2": "patients",
+    "n3": "the patient",
+    "n4": "the patients",
+    "n5": "patient's"
+}

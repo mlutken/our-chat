@@ -1,0 +1,11 @@
+{
+    "base": "switch",
+    "classes": [
+        "v"
+    ],
+    "v1": "switch",
+    "v2": "switched",
+    "v3": "switched",
+    "v4": "switching",
+    "v5": "switches"
+}

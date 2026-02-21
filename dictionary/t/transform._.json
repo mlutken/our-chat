@@ -1,0 +1,11 @@
+{
+    "base": "transform",
+    "classes": [
+        "v"
+    ],
+    "v1": "transform",
+    "v2": "transformed",
+    "v3": "transformed",
+    "v4": "transforming",
+    "v5": "transforms"
+}

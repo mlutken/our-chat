@@ -1,0 +1,11 @@
+{
+    "base": "host",
+    "classes": [
+        "v"
+    ],
+    "v1": "host",
+    "v2": "hosted",
+    "v3": "hosted",
+    "v4": "hosting",
+    "v5": "hosts"
+}

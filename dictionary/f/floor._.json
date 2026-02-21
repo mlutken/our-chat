@@ -1,0 +1,11 @@
+{
+    "base": "floor",
+    "classes": [
+        "n"
+    ],
+    "n1": "floor",
+    "n2": "floors",
+    "n3": "the floor",
+    "n4": "the floors",
+    "n5": "floor's"
+}

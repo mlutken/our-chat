@@ -1,0 +1,11 @@
+{
+    "base": "pet",
+    "classes": [
+        "n"
+    ],
+    "n1": "pet",
+    "n2": "pets",
+    "n3": "the pet",
+    "n4": "the pets",
+    "n5": "pet's"
+}

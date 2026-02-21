@@ -1,0 +1,11 @@
+{
+    "base": "slow",
+    "classes": [
+        "v"
+    ],
+    "v1": "slow",
+    "v2": "slowed",
+    "v3": "slowed",
+    "v4": "slowing",
+    "v5": "slows"
+}

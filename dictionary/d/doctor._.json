@@ -1,0 +1,11 @@
+{
+    "base": "doctor",
+    "classes": [
+        "n"
+    ],
+    "n1": "doctor",
+    "n2": "doctors",
+    "n3": "the doctor",
+    "n4": "the doctors",
+    "n5": "doctor's"
+}

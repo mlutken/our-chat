@@ -1,0 +1,11 @@
+{
+    "base": "apply",
+    "classes": [
+        "v"
+    ],
+    "v1": "apply",
+    "v2": "applied",
+    "v3": "applied",
+    "v4": "applying",
+    "v5": "applies"
+}

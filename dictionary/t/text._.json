@@ -1,0 +1,11 @@
+{
+    "base": "text",
+    "classes": [
+        "n"
+    ],
+    "n1": "text",
+    "n2": "texts",
+    "n3": "the text",
+    "n4": "the texts",
+    "n5": "text's"
+}

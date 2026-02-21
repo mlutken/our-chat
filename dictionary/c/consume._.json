@@ -1,0 +1,11 @@
+{
+    "base": "consume",
+    "classes": [
+        "v"
+    ],
+    "v1": "consume",
+    "v2": "consumed",
+    "v3": "consumed",
+    "v4": "consuming",
+    "v5": "consumes"
+}

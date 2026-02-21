@@ -1,0 +1,11 @@
+{
+    "base": "transaction",
+    "classes": [
+        "n"
+    ],
+    "n1": "transaction",
+    "n2": "transactions",
+    "n3": "the transaction",
+    "n4": "the transactions",
+    "n5": "transaction's"
+}

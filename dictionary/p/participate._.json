@@ -1,0 +1,11 @@
+{
+    "base": "participate",
+    "classes": [
+        "v"
+    ],
+    "v1": "participate",
+    "v2": "participated",
+    "v3": "participated",
+    "v4": "participating",
+    "v5": "participates"
+}

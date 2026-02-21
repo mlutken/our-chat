@@ -1,0 +1,11 @@
+{
+    "base": "equip",
+    "classes": [
+        "v"
+    ],
+    "v1": "equip",
+    "v2": "equipped",
+    "v3": "equipped",
+    "v4": "equipping",
+    "v5": "equips"
+}

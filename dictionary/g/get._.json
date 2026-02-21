@@ -1,0 +1,11 @@
+{
+    "base": "get",
+    "classes": [
+        "v"
+    ],
+    "v1": "get",
+    "v2": "got",
+    "v3": "gotten",
+    "v4": "getting",
+    "v5": "gets"
+}

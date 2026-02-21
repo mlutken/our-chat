@@ -1,0 +1,11 @@
+{
+    "base": "capture",
+    "classes": [
+        "v"
+    ],
+    "v1": "capture",
+    "v2": "captured",
+    "v3": "captured",
+    "v4": "capturing",
+    "v5": "captures"
+}

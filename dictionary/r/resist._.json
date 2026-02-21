@@ -1,0 +1,11 @@
+{
+    "base": "resist",
+    "classes": [
+        "v"
+    ],
+    "v1": "resist",
+    "v2": "resisted",
+    "v3": "resisted",
+    "v4": "resisting",
+    "v5": "resists"
+}

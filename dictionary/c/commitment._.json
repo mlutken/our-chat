@@ -1,0 +1,11 @@
+{
+    "base": "commitment",
+    "classes": [
+        "n"
+    ],
+    "n1": "commitment",
+    "n2": "commitments",
+    "n3": "the commitment",
+    "n4": "the commitments",
+    "n5": "commitment's"
+}

@@ -1,0 +1,17 @@
+{
+    "base": "purchase",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "purchase",
+    "n2": "purchases",
+    "n3": "the purchase",
+    "n4": "the purchases",
+    "n5": "purchase's",
+    "v1": "purchase",
+    "v2": "purchased",
+    "v3": "purchased",
+    "v4": "purchasing",
+    "v5": "purchases"
+}

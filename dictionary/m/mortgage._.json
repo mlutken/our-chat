@@ -1,0 +1,17 @@
+{
+    "base": "mortgage",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "mortgage",
+    "n2": "mortgages",
+    "n3": "the mortgage",
+    "n4": "the mortgages",
+    "n5": "mortgage's",
+    "v1": "mortgage",
+    "v2": "mortgaged",
+    "v3": "mortgaged",
+    "v4": "mortgaging",
+    "v5": "mortgages"
+}

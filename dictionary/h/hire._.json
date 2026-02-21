@@ -1,0 +1,11 @@
+{
+    "base": "hire",
+    "classes": [
+        "v"
+    ],
+    "v1": "hire",
+    "v2": "hired",
+    "v3": "hired",
+    "v4": "hiring",
+    "v5": "hires"
+}

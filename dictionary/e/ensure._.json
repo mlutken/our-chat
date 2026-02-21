@@ -1,0 +1,11 @@
+{
+    "base": "ensure",
+    "classes": [
+        "v"
+    ],
+    "v1": "ensure",
+    "v2": "ensured",
+    "v3": "ensured",
+    "v4": "ensuring",
+    "v5": "ensures"
+}

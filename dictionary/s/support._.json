@@ -1,0 +1,11 @@
+{
+    "base": "support",
+    "classes": [
+        "v"
+    ],
+    "v1": "support",
+    "v2": "supported",
+    "v3": "supported",
+    "v4": "supporting",
+    "v5": "supports"
+}

@@ -1,0 +1,11 @@
+{
+    "base": "release",
+    "classes": [
+        "v"
+    ],
+    "v1": "release",
+    "v2": "released",
+    "v3": "released",
+    "v4": "releasing",
+    "v5": "releases"
+}

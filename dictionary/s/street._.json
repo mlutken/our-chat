@@ -1,0 +1,11 @@
+{
+    "base": "street",
+    "classes": [
+        "n"
+    ],
+    "n1": "street",
+    "n2": "streets",
+    "n3": "the street",
+    "n4": "the streets",
+    "n5": "street's"
+}

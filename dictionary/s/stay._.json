@@ -1,0 +1,17 @@
+{
+    "base": "stay",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "stay",
+    "n2": "stays",
+    "n3": "the stay",
+    "n4": "the stays",
+    "n5": "stay's",
+    "v1": "stay",
+    "v2": "stayed",
+    "v3": "stayed",
+    "v4": "staying",
+    "v5": "stays"
+}

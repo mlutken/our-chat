@@ -1,0 +1,17 @@
+{
+    "base": "hold",
+    "classes": [
+        "n",
+        "v"
+    ],
+    "n1": "hold",
+    "n2": "holds",
+    "n3": "the hold",
+    "n4": "the holds",
+    "n5": "hold's",
+    "v1": "hold",
+    "v2": "held",
+    "v3": "held",
+    "v4": "holding",
+    "v5": "holds"
+}

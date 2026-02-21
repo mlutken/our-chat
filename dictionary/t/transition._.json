@@ -1,0 +1,11 @@
+{
+    "base": "transition",
+    "classes": [
+        "v"
+    ],
+    "v1": "transition",
+    "v2": "transitioned",
+    "v3": "transitioned",
+    "v4": "transitioning",
+    "v5": "transitions"
+}

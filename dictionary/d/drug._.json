@@ -1,0 +1,11 @@
+{
+    "base": "drug",
+    "classes": [
+        "n"
+    ],
+    "n1": "drug",
+    "n2": "drugs",
+    "n3": "the drug",
+    "n4": "the drugs",
+    "n5": "drug's"
+}

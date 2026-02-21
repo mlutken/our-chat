@@ -1,0 +1,11 @@
+{
+    "base": "expose",
+    "classes": [
+        "v"
+    ],
+    "v1": "expose",
+    "v2": "exposed",
+    "v3": "exposed",
+    "v4": "exposing",
+    "v5": "exposes"
+}
