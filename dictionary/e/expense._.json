@@ -1,0 +1,11 @@
+{
+    "base": "expense",
+    "classes": [
+        "n"
+    ],
+    "n1": "expense",
+    "n2": "expenses",
+    "n3": "the expense",
+    "n4": "the expenses",
+    "n5": "expense's"
+}

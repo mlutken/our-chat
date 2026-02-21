@@ -1,11 +1,17 @@
 {
     "base": "comment",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "comment",
     "v2": "commented",
     "v3": "commented",
     "v4": "commenting",
-    "v5": "comments"
+    "v5": "comments",
+    "n1": "comment",
+    "n2": "comments",
+    "n3": "the comment",
+    "n4": "the comments",
+    "n5": "comment's"
 }

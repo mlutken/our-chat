@@ -1,0 +1,11 @@
+{
+    "base": "durability",
+    "classes": [
+        "n"
+    ],
+    "n1": "durability",
+    "n2": "durabilities",
+    "n3": "the durability",
+    "n4": "the durabilities",
+    "n5": "durability's"
+}

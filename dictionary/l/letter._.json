@@ -1,0 +1,11 @@
+{
+    "base": "letter",
+    "classes": [
+        "n"
+    ],
+    "n1": "letter",
+    "n2": "letters",
+    "n3": "the letter",
+    "n4": "the letters",
+    "n5": "letter's"
+}

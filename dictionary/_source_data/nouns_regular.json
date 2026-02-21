@@ -1392,30 +1392,6 @@
         "n5": "cigarette's"
     },
     {
-        "base": "city",
-        "classes": [
-            "n"
-        ],
-
-        "n1": "city",
-        "n2": "citys",
-        "n3": "the city",
-        "n4": "the citys",
-        "n5": "city's"
-    },
-    {
-        "base": "class",
-        "classes": [
-            "n"
-        ],
-
-        "n1": "class",
-        "n2": "class",
-        "n3": "the class",
-        "n4": "the class",
-        "n5": "class's"
-    },
-    {
         "base": "classroom",
         "classes": [
             "n"
@@ -1546,18 +1522,6 @@
         "n3": "the communication",
         "n4": "the communications",
         "n5": "communication's"
-    },
-    {
-        "base": "community",
-        "classes": [
-            "n"
-        ],
-
-        "n1": "community",
-        "n2": "communitys",
-        "n3": "the community",
-        "n4": "the communitys",
-        "n5": "community's"
     },
     {
         "base": "comparison",
@@ -7210,18 +7174,6 @@
         "n3": "the studio",
         "n4": "the studios",
         "n5": "studio's"
-    },
-    {
-        "base": "study",
-        "classes": [
-            "n"
-        ],
-
-        "n1": "study",
-        "n2": "studys",
-        "n3": "the study",
-        "n4": "the studys",
-        "n5": "study's"
     },
     {
         "base": "style",

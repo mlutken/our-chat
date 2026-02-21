@@ -1,0 +1,11 @@
+{
+    "base": "confidence",
+    "classes": [
+        "n"
+    ],
+    "n1": "confidence",
+    "n2": "confidences",
+    "n3": "the confidence",
+    "n4": "the confidences",
+    "n5": "confidence's"
+}

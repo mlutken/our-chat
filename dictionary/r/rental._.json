@@ -1,0 +1,11 @@
+{
+    "base": "rental",
+    "classes": [
+        "n"
+    ],
+    "n1": "rental",
+    "n2": "rentals",
+    "n3": "the rental",
+    "n4": "the rentals",
+    "n5": "rental's"
+}

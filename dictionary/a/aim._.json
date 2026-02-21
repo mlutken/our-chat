@@ -1,11 +1,17 @@
 {
     "base": "aim",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "aim",
     "v2": "aimed",
     "v3": "aimed",
     "v4": "aiming",
-    "v5": "aims"
+    "v5": "aims",
+    "n1": "aim",
+    "n2": "aims",
+    "n3": "the aim",
+    "n4": "the aims",
+    "n5": "aim's"
 }
