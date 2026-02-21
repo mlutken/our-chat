@@ -40,6 +40,8 @@ def merge_dict_into_dict(word_into, word_from):
         word_into['classes'].remove('n')
         word_into['classes'].insert(0, "n")
 
+    if 'n0' in word_into:
+        word_into.pop('n0', None)
 
     return True
 
