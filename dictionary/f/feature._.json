@@ -1,12 +1,18 @@
 {
     "base": "feature",
     "classes": [
-        "n"
+        "n",
+        "v"
     ],
     "n0": "",
     "n1": "feature",
     "n2": "features",
     "n3": "the feature",
     "n4": "the features",
-    "n5": "feature's"
+    "n5": "feature's",
+    "v1": "feature",
+    "v2": "featured",
+    "v3": "featured",
+    "v4": "featuring",
+    "v5": "features"
 }

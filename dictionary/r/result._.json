@@ -1,12 +1,18 @@
 {
     "base": "result",
     "classes": [
-        "n"
+        "n",
+        "v"
     ],
     "n0": "",
     "n1": "result",
     "n2": "results",
     "n3": "the result",
     "n4": "the results",
-    "n5": "result's"
+    "n5": "result's",
+    "v1": "result",
+    "v2": "resulted",
+    "v3": "resulted",
+    "v4": "resulting",
+    "v5": "results"
 }

@@ -1,12 +1,18 @@
 {
     "base": "craft",
     "classes": [
-        "n"
+        "n",
+        "v"
     ],
     "n0": "",
     "n1": "craft",
     "n2": "crafts",
     "n3": "the craft",
     "n4": "the crafts",
-    "n5": "craft's"
+    "n5": "craft's",
+    "v1": "craft",
+    "v2": "crafted",
+    "v3": "crafted",
+    "v4": "crafting",
+    "v5": "crafts"
 }

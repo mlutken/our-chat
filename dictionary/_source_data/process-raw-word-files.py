@@ -33,7 +33,13 @@ def merge_dict_into_dict(word_into, word_from):
                 if not class_name in word_into['classes']:
                     word_into['classes'].append(class_name)
         else:
-            word_into[key] = word_from[key]
+            if word_from[key] != "":
+                word_into[key] = word_from[key]
+
+    if 'n' in word_into['classes']:
+        word_into['classes'].remove('n')
+        word_into['classes'].insert(0, "n")
+
 
     return True
 

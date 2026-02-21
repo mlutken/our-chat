@@ -1,12 +1,18 @@
 {
     "base": "power",
     "classes": [
-        "n"
+        "n",
+        "v"
     ],
     "n0": "",
     "n1": "power",
     "n2": "powers",
     "n3": "the power",
     "n4": "the powers",
-    "n5": "power's"
+    "n5": "power's",
+    "v1": "power",
+    "v2": "powered",
+    "v3": "powered",
+    "v4": "powering",
+    "v5": "powers"
 }

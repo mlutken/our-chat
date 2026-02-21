@@ -1,12 +1,18 @@
 {
     "base": "focus",
     "classes": [
-        "n"
+        "n",
+        "v"
     ],
     "n1": "focus",
     "n2": "focus",
     "n3": "the focus",
     "n4": "the focus",
     "n5": "focus's",
-    "n0": ""
+    "n0": "",
+    "v1": "focus",
+    "v2": "focused",
+    "v3": "focused",
+    "v4": "focusing",
+    "v5": "focuses"
 }

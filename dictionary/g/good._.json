@@ -1,9 +1,15 @@
 {
     "base": "good",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "good",
     "adj2": "better",
-    "adj3": "best"
+    "adj3": "best",
+    "n1": "good",
+    "n2": "goods",
+    "n3": "the good",
+    "n4": "the goods",
+    "n5": "good's"
 }

@@ -1,12 +1,18 @@
 {
     "base": "design",
     "classes": [
-        "n"
+        "n",
+        "v"
     ],
     "n0": "",
     "n1": "design",
     "n2": "designs",
     "n3": "the design",
     "n4": "the designs",
-    "n5": "design's"
+    "n5": "design's",
+    "v1": "design",
+    "v2": "designed",
+    "v3": "designed",
+    "v4": "designing",
+    "v5": "designs"
 }
