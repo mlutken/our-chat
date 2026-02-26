@@ -1,0 +1,9 @@
+{
+    "base": "global",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "global",
+    "adj2": "more global",
+    "adj3": "most global"
+}

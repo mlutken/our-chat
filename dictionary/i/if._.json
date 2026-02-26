@@ -1,5 +1,7 @@
 {
     "base": "if",
-    "classes": ["conj"],
+    "classes": [
+        "conj"
+    ],
     "f0": "if"
 }

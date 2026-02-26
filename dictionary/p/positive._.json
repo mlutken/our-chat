@@ -1,0 +1,9 @@
+{
+    "base": "positive",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "positive",
+    "adj2": "more positive",
+    "adj3": "most positive"
+}

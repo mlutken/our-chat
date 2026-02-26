@@ -1,0 +1,9 @@
+{
+    "base": "complex",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "complex",
+    "adj2": "more complex",
+    "adj3": "most complex"
+}

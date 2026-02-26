@@ -1,0 +1,9 @@
+{
+    "base": "physical",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "physical",
+    "adj2": "more physical",
+    "adj3": "most physical"
+}

@@ -1,0 +1,7 @@
+[
+    {   "base": "overall", "classes": ["adv"], "f0": "overall" },
+    {   "base": "together", "classes": ["adv"], "f0": "together" },
+    {   "base": "sure", "classes": ["adv"], "f0": "sure" },
+    {   "base": "surely", "classes": ["adv"], "f0": "surely" },
+    {   "base": "effectively", "classes": ["adv"], "f0": "effectively" }
+]

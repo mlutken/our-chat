@@ -5237,4 +5237,24 @@
         "v4": "zooming",
         "v5": "zooms"
     }
+    ,
+    {
+        "base": "base",
+        "classes": ["v"],
+        "v1": "base",
+        "v2": "based",
+        "v3": "based",
+        "v4": "basing",
+        "v5": "bases"
+    }
+    ,
+    {
+        "base": "involve",
+        "classes": ["v"],
+        "v1": "involve",
+        "v2": "involved",
+        "v3": "involved",
+        "v4": "involving",
+        "v5": "involves"
+    }
 ]

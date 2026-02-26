@@ -1,0 +1,9 @@
+{
+    "base": "artificial",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "artificial",
+    "adj2": "more artificial",
+    "adj3": "most artificial"
+}

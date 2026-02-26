@@ -1,0 +1,9 @@
+{
+    "base": "financial",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "financial",
+    "adj2": "more financial",
+    "adj3": "most financial"
+}

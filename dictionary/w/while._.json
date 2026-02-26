@@ -1,11 +1,13 @@
 {
     "base": "while",
     "classes": [
-        "n"
+        "n",
+        "conj"
     ],
     "n1": "while",
     "n2": "whiles",
     "n3": "the while",
     "n4": "the whiles",
-    "n5": "while's"
+    "n5": "while's",
+    "f0": "while"
 }

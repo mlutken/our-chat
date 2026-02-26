@@ -8,9 +8,10 @@ source_data_path    = (dictionary_path / "_source_data").resolve()
 
 source_names = [
     "nouns_irregular", "nouns_regular", "02_nouns",   # Nouns first. Rest in alphabetical order
-    "adjectives", "conjunctive_adverbs", "degree_adverbs", "frequency_adverbs", "manner_adverbs",
+    "adjectives", "conjunctive_adverbs", "degree_adverbs", "frequency_adverbs", "manner_adverbs", "relative_adverbs", "adverbs",
     "place_adverbs", "time_adverbs", "verbs_irregular", "verbs_regular",
-    "auxiliary_verbs", "misc_words",
+    "conjunctions",
+    "auxiliary_verbs", "misc_words", "pronoun_words.json", "preposition_words.json",
     "02_verbs"
 ]
 

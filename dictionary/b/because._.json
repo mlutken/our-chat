@@ -1,5 +1,7 @@
 {
     "base": "because",
-    "classes": ["conj"],
+    "classes": [
+        "conj"
+    ],
     "f0": "because"
 }

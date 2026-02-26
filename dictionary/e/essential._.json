@@ -1,0 +1,9 @@
+{
+    "base": "essential",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "essential",
+    "adj2": "more essential",
+    "adj3": "most essential"
+}

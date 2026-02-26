@@ -1,7 +1,8 @@
 {
     "base": "since",
     "classes": [
-        "adv"
+        "adv",
+        "conj"
     ],
     "f0": "since",
     "adv_subtype": "time"

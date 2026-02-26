@@ -1,7 +1,7 @@
 {
-    "base": "but",
+    "base": "unless",
     "classes": [
         "conj"
     ],
-    "f0": "but"
+    "f0": "unless"
 }

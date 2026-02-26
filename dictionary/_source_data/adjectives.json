@@ -1118,5 +1118,138 @@
         "adj1": "ripe",
         "adj2": "riper",
         "adj3": "ripest"
+    },
+    {
+    "base": "social",
+    "classes": ["adj"],
+    "adj1": "social",
+    "adj2": "more social",
+    "adj3": "most social"
+    },
+    {
+    "base": "natural",
+    "classes": ["adj"],
+    "adj1": "natural",
+    "adj2": "more natural",
+    "adj3": "most natural"
+    },
+    {
+    "base": "online",
+    "classes": ["adj"],
+    "adj1": "online",
+    "adj2": "more online",
+    "adj3": "most online"
+    },
+    {
+    "base": "specific",
+    "classes": ["adj"],
+    "adj1": "specific",
+    "adj2": "more specific",
+    "adj3": "most specific"
+    },
+    {
+    "base": "significant",
+    "classes": ["adj"],
+    "adj1": "significant",
+    "adj2": "more significant",
+    "adj3": "most significant"
+    },
+    {
+    "base": "different",
+    "classes": ["adj"],
+    "adj1": "different",
+    "adj2": "more different",
+    "adj3": "most different"
+    },
+    {
+    "base": "possible",
+    "classes": ["adj"],
+    "adj1": "possible",
+    "adj2": "more possible",
+    "adj3": "most possible"
+    },
+    {
+    "base": "only",
+    "classes": ["adj"],
+    "adj1": "only",
+    "adj2": "more only",
+    "adj3": "most only"
+    },
+    {
+    "base": "physical",
+    "classes": ["adj"],
+    "adj1": "physical",
+    "adj2": "more physical",
+    "adj3": "most physical"
+    },
+    {
+    "base": "public",
+    "classes": ["adj"],
+    "adj1": "public",
+    "adj2": "more public",
+    "adj3": "most public"
+    },
+    {
+    "base": "positive",
+    "classes": ["adj"],
+    "adj1": "positive",
+    "adj2": "more positive",
+    "adj3": "most positive"
+    },
+    {
+    "base": "effective",
+    "classes": ["adj"],
+    "adj1": "effective",
+    "adj2": "more effective",
+    "adj3": "most effective"
+    },
+    {
+    "base": "essential",
+    "classes": ["adj"],
+    "adj1": "essential",
+    "adj2": "more essential",
+    "adj3": "most essential"
+    },
+    {
+    "base": "global",
+    "classes": ["adj"],
+    "adj1": "global",
+    "adj2": "more global",
+    "adj3": "most global"
+    },
+    {
+    "base": "efficient",
+    "classes": ["adj"],
+    "adj1": "efficient",
+    "adj2": "more efficient",
+    "adj3": "most efficient"
+    },
+    {
+    "base": "complex",
+    "classes": ["adj"],
+    "adj1": "complex",
+    "adj2": "more complex",
+    "adj3": "most complex"
+    },
+    {
+    "base": "artificial",
+    "classes": ["adj"],
+    "adj1": "artificial",
+    "adj2": "more artificial",
+    "adj3": "most artificial"
+    },
+    {
+    "base": "financial",
+    "classes": ["adj"],
+    "adj1": "financial",
+    "adj2": "more financial",
+    "adj3": "most financial"
+    },
+    {
+    "base": "unique",
+    "classes": ["adj"],
+    "adj1": "unique",
+    "adj2": "more unique",
+    "adj3": "most unique"
     }
 ]

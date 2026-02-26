@@ -1,0 +1,55 @@
+[
+    {
+        "base": "they",
+        "classes": ["pro"],
+        "f0": "they"
+    }
+    ,
+    {
+        "base": "their",
+        "classes": ["pro"],
+        "f0": "their"
+    }
+    ,
+    {
+        "base": "its",
+        "classes": ["pro"],
+        "f0": "its"
+    }
+    ,
+    {
+        "base": "our",
+        "classes": ["pro"],
+        "f0": "our"
+    }
+    ,
+    {
+        "base": "each",
+        "classes": ["pro"],
+        "f0": "each"
+    }
+    ,
+    {
+        "base": "both",
+        "classes": ["pro"],
+        "f0": "both"
+    }
+    ,
+    {
+        "base": "another",
+        "classes": ["pro"],
+        "f0": "another"
+    }
+    ,
+    {
+        "base": "others",
+        "classes": ["pro"],
+        "f0": "others"
+    }
+    ,
+    {
+        "base": "one",
+        "classes": ["pro"],
+        "f0": "one"
+    }
+]

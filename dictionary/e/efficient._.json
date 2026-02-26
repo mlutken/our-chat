@@ -1,0 +1,9 @@
+{
+    "base": "efficient",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "efficient",
+    "adj2": "more efficient",
+    "adj3": "most efficient"
+}

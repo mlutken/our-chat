@@ -1,0 +1,20 @@
+[
+    {
+        "base": "when",
+        "classes": ["adv"],
+        "f0": "when",
+        "adv_subtype": "relative"
+    },
+    {
+        "base": "where",
+        "classes": ["adv"],
+        "f0": "where",
+        "adv_subtype": "relative"
+    },
+    {
+        "base": "why",
+        "classes": ["adv"],
+        "f0": "why",
+        "adv_subtype": "relative"
+    }
+]

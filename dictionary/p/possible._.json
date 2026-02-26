@@ -1,0 +1,9 @@
+{
+    "base": "possible",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "possible",
+    "adj2": "more possible",
+    "adj3": "most possible"
+}

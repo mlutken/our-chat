@@ -1,0 +1,9 @@
+{
+    "base": "unique",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "unique",
+    "adj2": "more unique",
+    "adj3": "most unique"
+}

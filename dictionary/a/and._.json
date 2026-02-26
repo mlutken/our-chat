@@ -1,5 +1,7 @@
 {
     "base": "and",
-    "classes": ["conj"],
+    "classes": [
+        "conj"
+    ],
     "f0": "and"
 }

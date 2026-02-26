@@ -1,0 +1,8 @@
+{
+    "base": "when",
+    "classes": [
+        "adv"
+    ],
+    "f0": "when",
+    "adv_subtype": "relative"
+}

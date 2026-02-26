@@ -1,5 +1,7 @@
 {
     "base": "or",
-    "classes": ["conj"],
+    "classes": [
+        "conj"
+    ],
     "f0": "or"
 }

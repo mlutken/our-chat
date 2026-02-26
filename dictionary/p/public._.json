@@ -1,0 +1,9 @@
+{
+    "base": "public",
+    "classes": [
+        "adj"
+    ],
+    "adj1": "public",
+    "adj2": "more public",
+    "adj3": "most public"
+}

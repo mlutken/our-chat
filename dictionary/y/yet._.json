@@ -1,7 +1,8 @@
 {
     "base": "yet",
     "classes": [
-        "adv"
+        "adv",
+        "conj"
     ],
     "f0": "yet",
     "adv_subtype": "conjunctive"
