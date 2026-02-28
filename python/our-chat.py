@@ -176,19 +176,19 @@ vocab_size = tokenizer.vocabSize()
 
 print (f"FIXMENM tokenizer.max_token_value: {tokenizer.max_token_value}")
 
-emb_dim = 144   # 768, 144, 156
+emb_dim = 768   # 768, 144, 156
 GPT_CONFIG_124M = {
     "vocab_size": vocab_size,
     "context_length": 256,
     "emb_dim": emb_dim, # 768
-    "n_heads": 6,   # 12
-    "n_layers": 6,  # 12
+    "n_heads": 12,   # 12
+    "n_layers": 12,  # 12
     "drop_rate": 0.1,
     "qkv_bias": False,
     "number_bits": 32,    #
     "feed_forward_layer_expansion_multiplier": 4,
     "loss_binary_factor": 5.0,
-    "dropout_all": False            # Dropout all embedding dimensions in the Transformer block and the initial GPTModel.drop_emb including the binary number part
+    "dropout_all": True            # Dropout all embedding dimensions in the Transformer block and the initial GPTModel.drop_emb including the binary number part
 }
 
 tokenizer.setConfig(GPT_CONFIG_124M)

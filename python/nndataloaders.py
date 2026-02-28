@@ -28,6 +28,10 @@ class IterDataset_Base(IterableDataset):
     def forceStop(self):
         self.forced_stop_ = True
 
+    def totalRecordsProcessed(self):
+        return self.total_records_processed_
+
+
     def debugPrintText(self, do_dbg_print_text):
         self.dbg_print_text_ = do_dbg_print_text
 

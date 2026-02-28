@@ -618,6 +618,7 @@ def evaluate_model(model, train_loader, val_loader, device, eval_iter,  do_valid
     return train_loss, val_loss
 
 
+# Note replaced by GPTModel::generateAndPrintSample()
 def generate_and_print_sample(model, device, start_context):
     pass
     # model.eval()
@@ -672,7 +673,7 @@ def train_model_simple(model, train_loader, val_loader,
                 train_losses.append(train_loss)
                 val_losses.append(val_loss)
                 track_tokens_seen.append(tokens_seen)
-                print(f"EVALUATE: Epoch {epoch+1} (Step {global_step:06d}): "
+                print(f"EVALUATE: Epoch {epoch+1} (Step {global_step:06d}): Recs processed: {train_loader.dataset.totalRecordsProcessed()} "
                       f"Train loss {train_loss:.3f}, "
                       f"Val loss {val_loss:.3f}"
                 )
