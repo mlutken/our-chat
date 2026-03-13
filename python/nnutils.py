@@ -594,6 +594,10 @@ def calc_loss_loader(data_loader, model, device, num_batches):
     total_loss = 0.
     actual_number_of_batches = 0
     for input_batch, target_batch in data_loader:
+##        if torch.all(input_batch == 0).item():
+##            print(f" FIXMENM calc loss SKIPPING input_batch: {input_batch}")
+##            continue
+
         actual_number_of_batches += 1
         loss = model.calcLossBatch( input_batch, target_batch, device)
         total_loss += loss.item()
@@ -652,6 +656,13 @@ def train_model_simple(model, train_loader, val_loader,
         model.train()
         current_batch_number = -1
         for input_batch, target_batch in train_loader:
+
+            ## print(f"--- FIXMENM input_batch[0]: {input_batch[0]}")
+            ##print(f"--- FIXMENM input_batch.shape: {input_batch.shape[1]}, target_batch.shape: {target_batch.shape[1]}")
+            ## if torch.all(input_batch == 0).item():
+            ##     print(f" FIXMENM trainer SKIPPING input_batch: {input_batch}")
+            ##     continue
+
             current_batch_number += 1
             if trainingStopRequested:
                 break
@@ -665,6 +676,7 @@ def train_model_simple(model, train_loader, val_loader,
 
             should_evaluate = (global_step % eval_freq) == 0
 
+
             if should_evaluate:
                 # print(f"******************************************************************************************************")
                 # print(f"**** FIXMENM evalutating model START should_evaluate: {should_evaluate} global_step: {global_step} ***")
@@ -673,7 +685,7 @@ def train_model_simple(model, train_loader, val_loader,
                 train_losses.append(train_loss)
                 val_losses.append(val_loss)
                 track_tokens_seen.append(tokens_seen)
-                print(f"EVALUATE: Epoch {epoch+1} (Step {global_step:06d}): Recs processed: {train_loader.dataset.totalRecordsProcessed()} "
+                print(f"EVALUATE: (tot recs: {train_loader.dataset.totalRecordsProcessed()}) Epoch {epoch+1} (Step {global_step:06d}): Rec index / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}] "
                       f"Train loss {train_loss:.3f}, "
                       f"Val loss {val_loss:.3f}"
                 )
@@ -687,5 +699,6 @@ def train_model_simple(model, train_loader, val_loader,
                         val_loader.dataset.forceStop()
                     trainingStopRequested = True
 
+        print(f"EPOCH done: Epoch {epoch + 1} (Step {global_step:06d}): Recs read / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}]")
         model.generateAndPrintSample(device, start_context)
     return train_losses, val_losses, track_tokens_seen

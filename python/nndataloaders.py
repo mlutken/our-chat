@@ -1,6 +1,9 @@
 import torch
 import os
+import traceback
+import gc
 from sympy import false
+import warnings
 from sympy.logic.boolalg import Boolean
 from torch.utils.data import Dataset, IterableDataset, DataLoader
 import collections
@@ -16,11 +19,13 @@ class IterDataset_Base(IterableDataset):
         super().__init__()
         self.forced_stop_ = False
         self.total_records_processed_ = 0
-        self.records_processed_since_iter_create_ = 0
+        self.records_read_this_iteration_ = 0
+        self.records_processed_this_iteration_ = 0
         self.debug_data_file_name_ = '/tmp/_our_streaming_records_debug.txt'
         self.write_text_to_debug_file_ = False
         self.dbg_print_text_ = False
         self.process_callback_ = None
+        self.records_start_index_ = 0
 
     def processCallbackSet(self, process_callback):
         self.process_callback_ = process_callback
@@ -28,9 +33,17 @@ class IterDataset_Base(IterableDataset):
     def forceStop(self):
         self.forced_stop_ = True
 
+    def recordsReadThisIteration(self):
+        return self.records_read_this_iteration_
+
+    def recordsProcessedThisIteration(self):
+        return self.records_processed_this_iteration_
+
     def totalRecordsProcessed(self):
         return self.total_records_processed_
 
+    def recordsStartIndex(self):
+        return self.records_start_index_
 
     def debugPrintText(self, do_dbg_print_text):
         self.dbg_print_text_ = do_dbg_print_text
@@ -44,21 +57,24 @@ class IterDataset_Base(IterableDataset):
 
     def doCheckEndPrematurely(self):
         if self.forced_stop_:
-            print(f"FIXMENM doCheckEndPrematurely FORCED STOP!")
+            print(f"INFO IterDataset_Base::doCheckEndPrematurely FORCED STOP!")
             return True
 
         if self.records_to_process_ == -1:  # -1 means process all records
+            print(f"INFO IterDataset_Base All records in dataset processed!")
             return false
 
-        return self.total_records_processed_ >= self.records_to_process_
-
-    def endPrematurely(self):
-        if self.doCheckEndPrematurely():
-            self.total_records_processed_ = 0
+        if self.records_processed_this_iteration_ >= self.records_to_process_:
+            print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.records_to_process_}) is processed processed!")
             return True
 
         return False
 
+    def endPrematurely(self):
+        if self.doCheckEndPrematurely():
+            return True
+
+        return False
 
 # ---------------------------------------
 # --- IterDataset_TextFile ---
@@ -77,11 +93,6 @@ class IterDataset_TextFile(IterDataset_Base):
         self.token_queue_capacity_ = 100000
         self.token_queue_ = collections.deque([], maxlen=self.token_queue_capacity_)
 
-        # self.token_queue_ = collections.deque([])
-
-        # print (f"FIXMENM queue_len: {self.queue_len()}")
-        # print (f"FIXMENM queue capacity: {self.token_queue_.maxlen}")
-
 
     def queue_len(self):
         return len(self.token_queue_)
@@ -90,8 +101,8 @@ class IterDataset_TextFile(IterDataset_Base):
         return len(self.token_queue_) > 0
 
     def __iter__(self):
-        # print(" **** FIXMENM TextFile __iter__ create")
-        self.records_processed_since_iter_create_ = 0
+        self.records_read_this_iteration_ = 0
+        self.records_processed_this_iteration_ = 0
         # Open file in read mode and yield each line
         file_handle = open(self.text_file_path_, 'r')
 
@@ -103,10 +114,13 @@ class IterDataset_TextFile(IterDataset_Base):
                 break
 
             self.total_records_processed_ += 1
-            self.records_processed_since_iter_create_ += 1
+            self.records_processed_this_iteration_ += 1
+            self.records_read_this_iteration_ += 1
+
+            # TODO: No skipping (self.records_start_index_) implemented for text fiels yet. See IterDataset_HuggingFace for inspiration for how to implement!
 
             if self.dbg_print_text_:
-                print (f"TextFile.RECORD[{self.records_processed_since_iter_create_} / {self.total_records_processed_}] text[0:20]: '{line[0:20]}'")
+                print (f"TextFile.RECORD[{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:20]: '{line[0:20]}'")
 
             if self.process_callback_ is not None:
                 line = self.process_callback_.process(line)
@@ -187,14 +201,19 @@ def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process = -1
 # https://medium.com/@amit25173/how-to-use-dataloader-with-iterabledataset-in-pytorch-an-advanced-practical-guide-898a49ace81c
 # https://docs.python.org/3/library/collections.html#collections.deque
 class IterDataset_HuggingFace(IterDataset_Base):
-    def __init__(self, tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride):
+    def __init__(self, tokenizer, hugging_face_uri, name, text_key, split, records_to_process, records_start_index, max_length, stride):
         super().__init__()
+        warnings.filterwarnings("ignore", category=ResourceWarning)
+        self.hf_dataset_ = None
+        self.hf_iterator_ = None
         self.tokenizer_ = tokenizer
         self.hugging_face_uri_ = hugging_face_uri
         if 'hf:' in self.hugging_face_uri_:
             self.hugging_face_uri_ = self.hugging_face_uri_.replace("hf:", "")
 
         self.records_to_process_ = records_to_process
+        self.records_start_index_ = records_start_index
+        self.records_to_read_ = self.records_start_index_ + self.records_to_process_
         self.name_ = name
         self.text_key_ = text_key
         self.split_ = split
@@ -203,7 +222,35 @@ class IterDataset_HuggingFace(IterDataset_Base):
         self.read_chunk_size_ = int(max_length/4)
         self.token_queue_capacity_ = 100000
         self.token_queue_ = collections.deque([], maxlen=self.token_queue_capacity_)
+        self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
+        self.handle_iteration_done()
+        # Possibly start debug write file
+        if self.write_text_to_debug_file_:
+            with open(self.debug_data_file_name_, 'w') as f:
+                f.write("")
 
+    def iteration_done(self):
+        if (self.hf_dataset_ is None) or (self.hf_iterator_ is None):
+            return True
+
+        if self.records_processed_this_iteration_ >= self.records_to_process_:
+            print(f"!!! ITERATION DONE: IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.records_to_process_}) is processed processed !!!!")
+            return True
+        return False
+
+    def handle_iteration_done(self):
+        print(f"INFO: [{self.records_start_index_}:{self.records_to_process_}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
+
+        if self.hf_dataset_ is None:
+            self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
+
+        self.records_read_this_iteration_ = 0
+        self.records_processed_this_iteration_ = 0
+        if self.records_start_index_ > 0:
+            self.hf_iterator_ = self.hf_dataset_.skip(self.records_start_index_)
+            self.records_read_this_iteration_ = self.records_start_index_
+        else:
+            self.hf_iterator_ = self.hf_dataset_.take(self.records_to_read_)
 
     def queue_len(self):
         return len(self.token_queue_)
@@ -212,48 +259,59 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return len(self.token_queue_) > 0
 
     def __iter__(self):
-        # print(" **** FIXMENM HuggingFace __iter__ create")
-        if self.write_text_to_debug_file_:
-            with open(self.debug_data_file_name_, 'w') as f:
-                f.write("")
+        print(f"INFO: IterDataset_HuggingFace iterator create")
+        # traceback.print_stack()
 
-        fw = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
-        for record in fw:
-            if self.endPrematurely():
-                print("--------- FIXMENM HuggingFace endPrematurely() ----------")
-                return self.process_output()
-                break
+        if self.iteration_done():
+            self.handle_iteration_done()
 
-            self.total_records_processed_ += 1
-            self.records_processed_since_iter_create_ += 1
-            record_dict = dict(record)
+        try:
+            for record in self.hf_iterator_:
+                if self.endPrematurely():
+                    print(f"INFO: IterDataset_HuggingFace::endPrematurely processed recs in iteration: {self.records_processed_this_iteration_}")
+                    return self.process_output()
 
-            text = record_dict[self.text_key_]
+                self.records_read_this_iteration_ += 1
+                self.records_processed_this_iteration_ += 1
+                self.total_records_processed_ += 1
+                record_dict = dict(record)
 
-            if text == "":
-                print("--------- FIXMENM HuggingFace empty text stop iterating ----------")
-                return self.process_output()
-                break
+                text = record_dict[self.text_key_]
 
+                if text == "":
+                    print("--------- FIXMENM HuggingFace empty text stop iterating ----------")
+                    return self.process_output()
+                    break
 
-            if self.process_callback_ is not None:
-                text = self.process_callback_.process(text)
+                if self.process_callback_ is not None:
+                    text = self.process_callback_.process(text)
 
-            if self.write_text_to_debug_file_:
-                with open(self.debug_data_file_name_, 'a') as f:
-                    f.write(text)
+                if self.write_text_to_debug_file_:
+                    with open(self.debug_data_file_name_, 'a') as f:
+                        f.write(text)
 
-            if self.dbg_print_text_:
-                print (f"HuggingFace.RECORD[{self.total_records_processed_}] text[0:20]: '{text[0:20]}'")
+                if self.dbg_print_text_:
+                    print (f"HuggingFace.RECORD ({self.total_records_processed_}) this iteration [rec index / processed]: [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:20]: '{text[0:20]}'")
 
-            tokens = self.tokenizer_.encode(text)
+                tokens = self.tokenizer_.encode(text)
 
-            for token in tokens:
-                self.token_queue_.appendleft(token)
+                for token in tokens:
+                    self.token_queue_.appendleft(token)
 
-            while self.queue_len() > self.max_length_ +1:
-                yield self.process_output()
-
+                while self.queue_len() > self.max_length_ +1:
+                    yield self.process_output()
+        except Exception as e:
+            print(f"Error: {e}")
+        finally:
+            print("FIXMENM Iteration terminated 1. self.hf_iterator_: {self.hf_iterator_}")
+            if hasattr(self, 'hf_iterator'):
+                del self.hf_iterator
+            if hasattr(self, 'hf_dataset'):
+                del self.hf_dataset
+            self.hf_dataset_ = None
+            self.hf_iterator_ = None
+            gc.collect()
+            print("FIXMENM Iteration terminated 2.")
 
         while not self.queue_empty():
             yield self.process_output()
@@ -261,10 +319,6 @@ class IterDataset_HuggingFace(IterDataset_Base):
         print("--------- FIXMENM HuggingFace Iteration done !!!  ----------")
         return self.process_output()
 
-    # # TODO: Seems unused !!!
-    # def preprocess(self, text):
-    #     # Custom preprocessing logic here (e.g., parse JSON or CSV if necessary)
-    #     return text # Simple example, removing newline characters
 
     def process_output(self):
         input_chunk = []
@@ -300,10 +354,9 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return input_chunk_tensor, target_chunk_tensor
 
 
-def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process = -1, batch_size=4, max_length=256,
-                                              stride=128, shuffle=False, drop_last=True,
-                                              num_workers=0):
-    dataset = IterDataset_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride)
+def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process = -1, records_start_index = 0,
+                                    batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
+    dataset = IterDataset_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process, records_start_index, max_length, stride)
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
@@ -316,7 +369,8 @@ def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, 
 
 
 
-def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_to_process = -1, batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
+def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_to_process = -1, records_start_index = 0,
+                       batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
     if 'hf:' in resource_uri:
         return create_iter_loader_HuggingFace(
             tokenizer,
@@ -325,6 +379,7 @@ def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_t
             text_key=text_key,
             split=split,
             records_to_process=records_to_process,
+            records_start_index=records_start_index,
             batch_size=batch_size,
             max_length=max_length,
             stride=stride,

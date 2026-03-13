@@ -96,6 +96,7 @@ parser.add_argument("--device", help="Set device 'cuda' or 'cpu'", nargs='?', ty
 parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
+parser.add_argument("--records_start_index", help="Index of first record to use during training. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=0)
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
@@ -151,6 +152,7 @@ print("num_epochs               : ", args.epochs)
 print("plot                     : ", args.plot)
 print("batch_size               : ", args.batch_size)
 print("records_to_process       : ", args.records_to_process)
+print("records_start_index      : ", args.records_start_index)
 print("save_model               : ", args.save_model)
 print("load_model               : ", args.load_model)
 print("model_path               : ", args.model_path)
@@ -228,12 +230,12 @@ model.generateAndPrintSample(device, default_start_context)
 print(f"--------------------------------------")
 
 train_loader = create_data_loader(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                  split=args.dataset_training_split, records_to_process=args.records_to_process,
+                                  split=args.dataset_training_split, records_to_process=args.records_to_process, records_start_index=args.records_start_index,
                                   batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                   drop_last=False, shuffle=False, num_workers=args.num_workers)
 
 validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                       split=args.dataset_validation_split, records_to_process=args.records_to_process,
+                                       split=args.dataset_validation_split, records_to_process=args.records_to_process, records_start_index=args.records_start_index,
                                        batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
 
