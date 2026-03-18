@@ -648,21 +648,15 @@ def train_model_simple(model, train_loader, val_loader,
     trainingStopRequested = False
     for epoch in range(num_epochs):
         print(f"----------------------- ")
-        print(f"--- Start epoch {epoch} ---")
+        print(f"--- Start epoch {epoch}  eval_freq: {eval_freq} ---")
         print(f"-----------------------")
         if trainingStopRequested:
             break
 
+        train_loader.dataset.epoch_started(epoch)
         model.train()
         current_batch_number = -1
         for input_batch, target_batch in train_loader:
-
-            ## print(f"--- FIXMENM input_batch[0]: {input_batch[0]}")
-            ##print(f"--- FIXMENM input_batch.shape: {input_batch.shape[1]}, target_batch.shape: {target_batch.shape[1]}")
-            ## if torch.all(input_batch == 0).item():
-            ##     print(f" FIXMENM trainer SKIPPING input_batch: {input_batch}")
-            ##     continue
-
             current_batch_number += 1
             if trainingStopRequested:
                 break

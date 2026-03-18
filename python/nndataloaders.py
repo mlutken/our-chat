@@ -10,6 +10,7 @@ import collections
 import datasets
 from tokenizer_utils import *
 from dataloader_pre_processors import *
+from itertools import islice
 
 
 
@@ -17,6 +18,7 @@ from dataloader_pre_processors import *
 class IterDataset_Base(IterableDataset):
     def __init__(self):
         super().__init__()
+        self.epoch_number_ = -1
         self.forced_stop_ = False
         self.total_records_processed_ = 0
         self.records_read_this_iteration_ = 0
@@ -26,6 +28,10 @@ class IterDataset_Base(IterableDataset):
         self.dbg_print_text_ = False
         self.process_callback_ = None
         self.records_start_index_ = 0
+
+    def epoch_started(self, epoch_number):
+        self.epoch_number_ = epoch_number
+        self.do_epoch_started_()
 
     def processCallbackSet(self, process_callback):
         self.process_callback_ = process_callback
@@ -50,22 +56,23 @@ class IterDataset_Base(IterableDataset):
 
     def writeTextToDebugFile(self, do_write):
         self.write_text_to_debug_file_ = do_write
+        self._handleDebugDataFileInit()
 
     def setDebugDataFileName(self, debug_data_file_name):
         self.debug_data_file_name_ = debug_data_file_name
-
+        self._handleDebugDataFileInit()
 
     def doCheckEndPrematurely(self):
         if self.forced_stop_:
-            print(f"INFO IterDataset_Base::doCheckEndPrematurely FORCED STOP!")
+            # print(f"INFO IterDataset_Base::doCheckEndPrematurely FORCED STOP!")
             return True
 
         if self.records_to_process_ == -1:  # -1 means process all records
-            print(f"INFO IterDataset_Base All records in dataset processed!")
+            # print(f"INFO IterDataset_Base All records in dataset processed!")
             return false
 
         if self.records_processed_this_iteration_ >= self.records_to_process_:
-            print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.records_to_process_}) is processed processed!")
+            # print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.records_to_process_}) is processed processed!")
             return True
 
         return False
@@ -75,6 +82,18 @@ class IterDataset_Base(IterableDataset):
             return True
 
         return False
+
+    def do_epoch_started_(self):
+        pass
+
+    def _handleDebugDataFileInit(self):
+        # Possibly start debug write file
+        if self.write_text_to_debug_file_:
+            with open(self.debug_data_file_name_, 'w') as f:
+                print(f"INFO: Writing debug training data to {self.debug_data_file_name_}")
+                f.write("DEBUG FILE START\n")
+
+
 
 # ---------------------------------------
 # --- IterDataset_TextFile ---
@@ -224,10 +243,10 @@ class IterDataset_HuggingFace(IterDataset_Base):
         self.token_queue_ = collections.deque([], maxlen=self.token_queue_capacity_)
         self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
         self.handle_iteration_done()
-        # Possibly start debug write file
-        if self.write_text_to_debug_file_:
-            with open(self.debug_data_file_name_, 'w') as f:
-                f.write("")
+
+
+    def do_epoch_started_(self):
+        self.handle_iteration_done()
 
     def iteration_done(self):
         if (self.hf_dataset_ is None) or (self.hf_iterator_ is None):
@@ -240,6 +259,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
 
     def handle_iteration_done(self):
         print(f"INFO: [{self.records_start_index_}:{self.records_to_process_}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
+        self._handleDebugDataFileInit()
 
         if self.hf_dataset_ is None:
             self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
@@ -259,14 +279,16 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return len(self.token_queue_) > 0
 
     def __iter__(self):
-        print(f"INFO: IterDataset_HuggingFace iterator create")
-        # traceback.print_stack()
+        print(f"INFO: IterDataset_HuggingFace iterator create: self.process_callback_: {self.process_callback_}")
 
         if self.iteration_done():
             self.handle_iteration_done()
 
+        sliced_dataset = islice(self.hf_dataset_, self.records_start_index_, None)
+        sliced_dataset = islice(sliced_dataset, self.records_to_process_)
+
         try:
-            for record in self.hf_iterator_:
+            for record in sliced_dataset:
                 if self.endPrematurely():
                     print(f"INFO: IterDataset_HuggingFace::endPrematurely processed recs in iteration: {self.records_processed_this_iteration_}")
                     return self.process_output()
@@ -291,7 +313,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
                         f.write(text)
 
                 if self.dbg_print_text_:
-                    print (f"HuggingFace.RECORD ({self.total_records_processed_}) this iteration [rec index / processed]: [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:20]: '{text[0:20]}'")
+                    print (f"HuggingFace.RECORD ({self.total_records_processed_}) this iteration [rec index / processed]: [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:50]: '{text[0:50]}'")
 
                 tokens = self.tokenizer_.encode(text)
 
@@ -301,17 +323,10 @@ class IterDataset_HuggingFace(IterDataset_Base):
                 while self.queue_len() > self.max_length_ +1:
                     yield self.process_output()
         except Exception as e:
-            print(f"Error: {e}")
+            print(f"**** ERROR IterDataset_HuggingFace iteration Error: {e} ****")
         finally:
-            print("FIXMENM Iteration terminated 1. self.hf_iterator_: {self.hf_iterator_}")
-            if hasattr(self, 'hf_iterator'):
-                del self.hf_iterator
-            if hasattr(self, 'hf_dataset'):
-                del self.hf_dataset
-            self.hf_dataset_ = None
-            self.hf_iterator_ = None
-            gc.collect()
-            print("FIXMENM Iteration terminated 2.")
+            # print("INFO Iteration terminated!")
+            pass
 
         while not self.queue_empty():
             yield self.process_output()

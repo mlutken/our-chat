@@ -110,7 +110,7 @@ parser.add_argument("--dataset_key", help="Dictionary key name of primary text d
 parser.add_argument("--dataset_training_split", help="Training split name. Eg.:'train'", nargs='?', type=str, default="train")
 parser.add_argument("--dataset_validation_split", help="Training split name. Eg.:'validation'", nargs='?', type=str, default="train")
 parser.add_argument("--num_workers", help="Number of worker threads. Not tested", nargs='?', type=int, default=0)
-parser.add_argument("--print_initial_loss", help="Calculate and print initial model training and validation losses", nargs='?', type=str2bool, const=True, default=True)
+parser.add_argument("--print_initial_loss", help="Calculate and print initial model training and validation losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--dbg_print_text", help="Debug print streaming (text) records text field. Only first 20 chars", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--dbg_write_records_to_file", help="Write streaming (text) records to a file for debug/info. Default file name is '/tmp/_our_streaming_records_debug.txt' ", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--dbg_records_file_name", help="Name to write streaming records text to. Default is: '/tmp/_our_streaming_records_debug.txt'", nargs='?', type=str, default="/tmp/_our_streaming_records_debug.txt")
@@ -229,6 +229,9 @@ print(f"--- Test model before training: device: {device} ---")
 model.generateAndPrintSample(device, default_start_context)
 print(f"--------------------------------------")
 
+# ----------------------------------------------
+# --- Create the loaders to use for training ---
+# ----------------------------------------------
 train_loader = create_data_loader(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
                                   split=args.dataset_training_split, records_to_process=args.records_to_process, records_start_index=args.records_start_index,
                                   batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
@@ -239,11 +242,14 @@ validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_u
                                        batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
 
+if g_dl_data_train is not None:
+    train_loader.dataset.processCallbackSet(g_dl_data_train["pre_process"])     # Set possible preprocessor for training and validation
+if g_dl_data_validate is not None:
+    validation_loader.dataset.processCallbackSet(g_dl_data_validate["pre_process"])     # Set possible preprocessor for training and validation
+
 train_loader.dataset.debugPrintText(args.dbg_print_text)
 train_loader.dataset.writeTextToDebugFile(args.dbg_write_records_to_file)
 train_loader.dataset.setDebugDataFileName(args.dbg_records_file_name)
-
-# validation_loader = create_loader_foundation(tokenizer, args.validation_uri, args.records_to_process, batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"], drop_last=False, shuffle=False, num_workers=0)
 
 # -------------------------------------------------------
 # --- Print initial loos before training if requested ---
