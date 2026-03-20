@@ -260,6 +260,7 @@ class TransformerBlock(nn.Module):
         x = x + shortcut
         return x
 
+# TODO: Perhaps try out RoPE : https://shreyashkar-ml.github.io/posts/rope/
 class PositionalEncoding(nn.Module):
     def __init__(self, max_sequence_length, emb_dim, avoid_begin, avoid_end):
         super().__init__()
