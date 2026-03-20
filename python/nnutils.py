@@ -466,6 +466,7 @@ class GPTModel(nn.Module):
     # def generateTextSimple(self, idx, max_new_tokens, context_size):
     #     return self._generateTextSimpleNumberParsing(idx, max_new_tokens, context_size)
 
+    # TODO: Needs to be updated so it recognizes numbers like generateTextSimple()/generateNextTokenSimple()
     def generateText(self, idx, max_new_tokens, context_size, temperature=0.0, top_k=None, eos_id=None):
         print (f"FIXMENM Number GT: max_new_tokens : {max_new_tokens}, context_size: {context_size}")
         # print (f"GT: idx : {idx}")

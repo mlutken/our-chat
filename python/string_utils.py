@@ -1,4 +1,5 @@
 import torch
+from pathlib import Path
 
 def parse_between(text, start, end, stop_before_end = False):
     p_start = text.find(start)
@@ -25,3 +26,10 @@ def format_prompt_response(prompt, response, context = ""):
         return f"<prompt> {prompt} </prompt>\n<response> {response} </response>\n"
     else:
         return f"<context> {context} </context>\n<prompt> {prompt} </prompt>\n<response> {response} </response>\n"
+
+
+def model_name_from_path(path):
+    return Path(path).stem
+
+def save_path_from_model_name(path):
+    return Path(path).with_suffix(".pth")

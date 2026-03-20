@@ -279,7 +279,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return len(self.token_queue_) > 0
 
     def __iter__(self):
-        print(f"INFO: IterDataset_HuggingFace iterator create: self.process_callback_: {self.process_callback_}")
+        # print(f"INFO: IterDataset_HuggingFace iterator create: self.process_callback_: {self.process_callback_}")
 
         if self.iteration_done():
             self.handle_iteration_done()

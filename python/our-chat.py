@@ -36,8 +36,8 @@ print (f"g_training_data_path   : {g_training_data_path}")
 # time python our-chat.py --epochs 1 --batch_size 12 --records_to_process 10000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:HuggingFaceFW/fineweb' --dataset_name CC-MAIN-2025-26 --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1
 # time python our-chat.py --epochs 1 --batch_size 12 --records_to_process 10000 --start_context 'I would like to' --load_model 1 --save_model 1 --train_uri 'hf:Fredithefish/Instruction-Tuning-with-GPT-4-RedPajama-Chat' --dataset_name default --device cuda --dbg_write_records_to_file 0 --dbg_print_text 1
 
-# time python our-chat.py --epochs 60 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-4.txt --device cuda --model_path m2025-12-24.pth --dbg_print_text 1
-# time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-1.txt --device cuda --model_path m2025-12-24.pth --dbg_print_text 1
+# time python our-chat.py --epochs 60 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-4.txt --device cuda --save_path m2025-12-24.pth --dbg_print_text 1
+# time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 0 --save_model 1 --train_uri ../training_data/math-training-simple-1.txt --device cuda --save_path m2025-12-24.pth --dbg_print_text 1
 # time python our-chat.py --epochs 10 --batch_size 12 --records_to_process -1 --start_context '<prompt> What is 12 + 4 ? </prompt> ' --load_model 1 --save_model 0 --train_uri ../training_data/math-training-simple-2.txt --validation_uri ../training_data/math-validation-simple-2.txt --device cuda --dbg_print_text 0
 # g_device = "cpu"
 
@@ -83,7 +83,7 @@ def print_usage_examples(exe_name):
     print("*** Usage examples ***")
     print("**********************")
     print(f"--- Example 1: ---\npython {exe_name} --start_context 'What is 21 + 15?'  --train_uri ../training_data/math-training-simple-4.txt --validation_uri ../training_data/math-validation-simple-4.txt --epochs 50\n")
-    print(f"--- Example 2: ---\npython {exe_name} --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri ../training_data/the-verdict.txt  --model_path mymodel.pth\n")
+    print(f"--- Example 2: ---\npython {exe_name} --start_context 'I would like to' --load_model 1 --save_model 0 --train_uri ../training_data/the-verdict.txt  --save_path mymodel.pth\n")
 
     print(f"--- Example Chat simple: ---\npython {exe_name}  --mode chat-simple\n" )
 
@@ -93,6 +93,8 @@ def print_usage_examples(exe_name):
 
 parser = argparse.ArgumentParser("gpt2-simple-train")
 parser.add_argument("--device", help="Set device 'cuda' or 'cpu'", nargs='?', type=str, default='')
+parser.add_argument("--model_path", help="Model parameters json file path/name", nargs='?', type=str, default="_model256.json")
+parser.add_argument("--save_path", help="Model save/load file name. If name is leaf blank we default to {model_path}.pth", nargs='?', type=str, default="")
 parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
@@ -100,7 +102,6 @@ parser.add_argument("--records_start_index", help="Index of first record to use 
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
-parser.add_argument("--model_path", help="Model save/load file name", nargs='?', type=str, default="_model.pth")
 parser.add_argument("--mode", help="Run mode: train, chat-simple", nargs='?', type=str, default="train")
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="<prompt> What is 15 + 5 ? </prompt> ")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
@@ -143,9 +144,22 @@ num_epochs = args.epochs
 
 default_start_context = args.start_context
 
+if not Path(args.model_path).is_file():
+    example_model = { "context_length": 256, "emb_dim": 768, "n_heads": 12, "n_layers": 12, "drop_rate": 0.1, "qkv_bias": False, "number_bits": 32, "feed_forward_layer_expansion_multiplier": 4, "dropout_all": True}
+    print (f"ERROR: Model not found at {args.model_path}\n\nPlease provide a path to a json with parameters; Example:\n {json.dumps(example_model, indent=4)}\n")
+    sys.exit(1)
 
+g_model_parameters = json.load(open(args.model_path))
+
+g_model_name = model_name_from_path(args.model_path)
+
+if args.save_path == "":
+    args.save_path = save_path_from_model_name(args.model_path)
 
 print("Default device           : ", g_device)
+print("model_path               : ", args.model_path)
+print("model_name               : ", g_model_name)
+print("save_path                : ", args.save_path)
 print("device                   : ", device)
 print("mode                     : ", args.mode)
 print("num_epochs               : ", args.epochs)
@@ -155,7 +169,6 @@ print("records_to_process       : ", args.records_to_process)
 print("records_start_index      : ", args.records_start_index)
 print("save_model               : ", args.save_model)
 print("load_model               : ", args.load_model)
-print("model_path               : ", args.model_path)
 print("default_start_context    : ", default_start_context)
 print("train_uri                : ", args.train_uri)
 print("validation_uri           : ", args.validation_uri)
@@ -174,37 +187,24 @@ print("eval_batches             : ", args.eval_batches)
 tokenizer = DictionaryTokenizer("../dictionary")
 tokenizer.saveTokenizerTree("/home/ml/temp/_tokenizer_tree.json")
 tokenizer.saveIdsToWordlookup("/home/ml/temp/_ids_to_word_lookup.json")
-vocab_size = tokenizer.vocabSize()
+print("max_token_value          : ", tokenizer.max_token_value)
 
-print (f"FIXMENM tokenizer.max_token_value: {tokenizer.max_token_value}")
 
-emb_dim = 768   # 768, 144, 156
-GPT_CONFIG_124M = {
-    "vocab_size": vocab_size,
-    "context_length": 256,
-    "emb_dim": emb_dim, # 768
-    "n_heads": 12,   # 12
-    "n_layers": 12,  # 12
-    "drop_rate": 0.1,
-    "qkv_bias": False,
-    "number_bits": 32,    #
-    "feed_forward_layer_expansion_multiplier": 4,
-    "loss_binary_factor": 5.0,
-    "dropout_all": True            # Dropout all embedding dimensions in the Transformer block and the initial GPTModel.drop_emb including the binary number part
-}
+g_model_parameters["vocab_size"] = tokenizer.vocabSize()
 
-tokenizer.setConfig(GPT_CONFIG_124M)
+print(f"--- Model parameters ---\n{json.dumps(g_model_parameters, indent=4)}\n")
+
+tokenizer.setConfig(g_model_parameters)
 
 torch.manual_seed(123)
-model = GPTModel(GPT_CONFIG_124M, tokenizer)
-print(f"model.CFG: {model.CFG}")
+model = GPTModel(g_model_parameters, tokenizer)
 print(f"Model parameter count: {round(model.countParameters()/1000000)} M    ({model.countParameters()}) ")
 if args.load_model:
-    if os.path.isfile(args.model_path):
-        print(f"Loading model from {args.model_path} ...")
-        model.load_state_dict(torch.load(args.model_path, weights_only=False))
+    if os.path.isfile(args.save_path):
+        print(f"Loading model from {args.save_path} ...")
+        model.load_state_dict(torch.load(args.save_path, weights_only=False))
     else:
-        print(f"WARNING Could not find and load model file {args.model_path} ...")
+        print(f"WARNING Could not find and load model file {args.save_path} ...")
 
 
 model.to(device)
@@ -266,7 +266,7 @@ if args.print_initial_loss:
 
 
 # torch.manual_seed(123)
-# model = GPTModel(GPT_CONFIG_124M, tokenizer)
+# model = GPTModel(g_model_parameters, tokenizer)
 model.to(device)
 optimizer = torch.optim.AdamW(
      model.parameters(),
@@ -318,9 +318,9 @@ print("[Advanced] Output text:\n", model.tokenIdsToText(token_ids))
 # --- Saving the weights ---
 # --------------------------
 if args.save_model:
-    print(f"Saving model to {args.model_path} ...")
+    print(f"Saving model to {args.save_path} ...")
     model.to("cpu")
-    torch.save(model.state_dict(), args.model_path)
+    torch.save(model.state_dict(), args.save_path)
     model.to(device)
     print(f"Done!")
 

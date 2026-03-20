@@ -1,0 +1,11 @@
+{
+    "context_length": 256,
+    "emb_dim": 768,
+    "n_heads": 12,
+    "n_layers": 12,
+    "drop_rate": 0.1,
+    "qkv_bias": false,
+    "number_bits": 32,
+    "feed_forward_layer_expansion_multiplier": 4,
+    "dropout_all": true
+}
