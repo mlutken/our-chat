@@ -52,7 +52,7 @@ class IterDataset_Base(IterableDataset):
         return self.records_start_index_
 
     def debugPrintText(self, do_dbg_print_text):
-        self.dbg_print_text_ = do_dbg_print_text
+        self.dbg_print_text_ = int(do_dbg_print_text)
 
     def writeTextToDebugFile(self, do_write):
         self.write_text_to_debug_file_ = do_write
@@ -139,7 +139,8 @@ class IterDataset_TextFile(IterDataset_Base):
             # TODO: No skipping (self.records_start_index_) implemented for text fiels yet. See IterDataset_HuggingFace for inspiration for how to implement!
 
             if self.dbg_print_text_:
-                print (f"TextFile.RECORD[{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:20]: '{line[0:20]}'")
+                if self.records_read_this_iteration_ % self.dbg_print_text_ == 0:
+                    print (f"TextFile.RECORD[{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:20]: '{line[0:20]}'")
 
             if self.process_callback_ is not None:
                 line = self.process_callback_.process(line)
@@ -313,7 +314,8 @@ class IterDataset_HuggingFace(IterDataset_Base):
                         f.write(text)
 
                 if self.dbg_print_text_:
-                    print (f"HuggingFace.RECORD ({self.total_records_processed_}) this iteration [rec index / processed]: [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:50]: '{text[0:50]}'")
+                    if self.records_read_this_iteration_ % self.dbg_print_text_ == 0:
+                        print (f"HuggingFace.RECORD ({self.total_records_processed_}) this iteration [rec index / processed]: [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:50]: '{text[0:50]}'")
 
                 tokens = self.tokenizer_.encode(text)
 

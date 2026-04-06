@@ -112,7 +112,7 @@ parser.add_argument("--dataset_training_split", help="Training split name. Eg.:'
 parser.add_argument("--dataset_validation_split", help="Training split name. Eg.:'validation'", nargs='?', type=str, default="train")
 parser.add_argument("--num_workers", help="Number of worker threads. Not tested", nargs='?', type=int, default=0)
 parser.add_argument("--print_initial_loss", help="Calculate and print initial model training and validation losses", nargs='?', type=str2bool, const=True, default=False)
-parser.add_argument("--dbg_print_text", help="Debug print streaming (text) records text field. Only first 20 chars", nargs='?', type=str2bool, const=True, default=False)
+parser.add_argument("--dbg_print_text", help="Debug print streaming (text) records text field. Only first 20 chars", nargs='?', type=int, const=True, default=0)
 parser.add_argument("--dbg_write_records_to_file", help="Write streaming (text) records to a file for debug/info. Default file name is '/tmp/_our_streaming_records_debug.txt' ", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--dbg_records_file_name", help="Name to write streaming records text to. Default is: '/tmp/_our_streaming_records_debug.txt'", nargs='?', type=str, default="/tmp/_our_streaming_records_debug.txt")
 parser.add_argument("--eval_freq", help="Number of batches between each evaluation test of model ", nargs='?', type=int, default=100)

@@ -66,6 +66,113 @@ class EmbeddingWithNumbers(nn.Module):
         # print (f"FIXMENM token_ids: {token_ids.device}, embeddings: {embeddings.device}, token_ids_copy: {token_ids_copy.device}, token_ids_copy2: {token_ids_copy2.device}, bin_numbers_tensor2: {bin_numbers_tensor2.device}")
         return embeddings
 
+# TODO: Perhaps try out RoPE : https://shreyashkar-ml.github.io/posts/rope/
+class PositionalEncoding(nn.Module):
+    def __init__(self, max_sequence_length, emb_dim, avoid_begin, avoid_end):
+        super().__init__()
+        self.max_sequence_length = max_sequence_length
+        self.emb_dim = emb_dim
+        self.avoid_begin = avoid_begin
+        self.avoid_end = avoid_end
+
+        # self.zeroes_PE = torch.zeros(max_sequence_length, emb_dim)
+        self.default_PE = self.calcPE()
+
+    def calcPE(self):
+        even_i = torch.arange(0, self.emb_dim, 2).float()
+        denominator = torch.pow(10000, even_i/self.emb_dim)
+        position = (torch.arange(self.max_sequence_length).reshape(self.max_sequence_length, 1))
+        even_PE = torch.sin(position / denominator)
+        odd_PE = torch.cos(position / denominator)
+        stacked = torch.stack([even_PE, odd_PE], dim=2)
+        PE = torch.flatten(stacked, start_dim=1, end_dim=2)
+        PE[:,self.avoid_begin:self.avoid_end] = 0
+        return PE
+
+    def forward(self, x):
+        position_tensor = self.default_PE[:x.shape[-1], :]
+        # print(f"FIXMENM PositionalEncoding x.shape[-1]: {x.shape[-1]}, self.default_PE.shape: {self.default_PE.shape}., position_tensor.shape: {position_tensor.shape}")
+        # saveTensorToFile("/tmp/_position_tensor", position_tensor)      # FIXMENM
+        # saveTensorToFile("/tmp/_position_default_PE", self.default_PE)  # FIXMENM
+        return position_tensor
+        # return self.default_PE[:x.shape[-1], :]
+
+class RotaryPositionEmbedding(nn.Module):
+    """ NOTE: Just generated from Mistral. NOT tested at all yet!
+    Rotary Position Embedding (RoPE) module.
+
+    Args:
+        dim (int): Dimension of the embeddings.
+        max_seq_len (int): Maximum sequence length.
+        avoid_begin (int): Start index of dimensions to avoid applying RoPE.
+        avoid_end (int): End index of dimensions to avoid applying RoPE.
+    """
+    # def __init__(self, dim, max_seq_len=2048, avoid_begin=0, avoid_end=0):
+    def __init__(self, max_sequence_length, head_dim, avoid_begin, avoid_end):
+        super().__init__()
+        self.dim = head_dim
+        self.max_seq_len = max_sequence_length
+        self.avoid_begin = avoid_begin
+        self.avoid_end = avoid_end
+
+        # Compute inverse frequencies
+        inv_freq = 1.0 / (10000 ** (torch.arange(0, self.dim, 2).float() / self.dim))
+        self.register_buffer("inv_freq", inv_freq)
+
+        # Cache for cosine and sine values
+        self.cos_cached = None
+        self.sin_cached = None
+
+    def _compute_cos_sin(self, seq_len, device):
+        """Compute cosine and sine values for a given sequence length."""
+        t = torch.arange(seq_len, device=device).type_as(self.inv_freq)  # type: ignore
+        freqs = torch.outer(t, self.inv_freq)
+        cos = torch.cos(freqs)
+        sin = torch.sin(freqs)
+        return cos, sin
+
+    def forward(self, x, seq_dim=1):
+        """
+        Apply RoPE to input tensor x.
+
+        Args:
+            x (torch.Tensor): Input tensor of shape (batch_size, seq_len, num_heads, head_dim) or similar.
+            seq_dim (int): Dimension along which the sequence is defined (default: 1).
+
+        Returns:
+            torch.Tensor: Tensor with RoPE applied.
+        """
+        seq_len = x.shape[seq_dim]
+
+        # Initialize cache if needed
+        if self.cos_cached is None or self.cos_cached.shape[0] < seq_len:
+            device = x.device
+            self.cos_cached, self.sin_cached = self._compute_cos_sin(seq_len, device)
+
+        # Get the cosine and sine values for the current sequence length
+        cos = self.cos_cached[:seq_len]
+        sin = self.sin_cached[:seq_len]
+
+        # Reshape for broadcasting
+        cos = cos.unsqueeze(0).unsqueeze(0)  # (1, seq_len, dim/2)
+        sin = sin.unsqueeze(0).unsqueeze(0)  # (1, seq_len, dim/2)
+
+        # Split the input tensor into two parts along the last dimension
+        x1, x2 = x[..., :self.dim//2], x[..., self.dim//2:]
+
+        # Apply rotation
+        rotated_x1 = x1 * cos - x2 * sin
+        rotated_x2 = x2 * cos + x1 * sin
+
+        # Zero out avoided dimensions if specified
+        if self.avoid_begin > 0 or self.avoid_end > 0:
+            rotated_x1[..., self.avoid_begin:self.avoid_end] = x1[..., self.avoid_begin:self.avoid_end]
+            rotated_x2[..., self.avoid_begin:self.avoid_end] = x2[..., self.avoid_begin:self.avoid_end]
+
+        # Concatenate the rotated parts
+        rotated_x = torch.cat([rotated_x1, rotated_x2], dim=-1)
+
+        return rotated_x
 
 
 class DropoutBlock(nn.Module):
@@ -108,7 +215,7 @@ class LinearBlock(nn.Linear):
 
 # TODO: Need to decide if we want to exclude number bits from dropout here as well. Currently I think we should not, but it's worth remembering that we do not do it here!
 class MultiHeadAttention(nn.Module):
-    def __init__(self, d_in, d_out, context_length, dropout, num_heads, qkv_bias):
+    def __init__(self, d_in, d_out, context_length, dropout, num_heads, qkv_bias, rotation_encoder):
         super().__init__()
         assert (d_out % num_heads == 0), \
             "d_out must be divisible by num_heads"
@@ -129,29 +236,52 @@ class MultiHeadAttention(nn.Module):
             torch.triu(torch.ones(context_length, context_length),
                        diagonal=1)
         )
-        # print (f"d_in              : {d_in}")
-        # print (f"self.d_out        : {self.d_out}")
-        # print (f"self.num_heads    : {self.num_heads}")
-        # print (f"self.head_dim     : {self.head_dim}")
-        # print (f"self.W_query.shape: {self.W_query.weight.shape}")
-        # print (f"self.mask.shape   : {self.mask.shape}")
-        # print (f"!!! FIXMENM self.mask\n: {self.mask}")
+        self.rotation_encoder = rotation_encoder
+
+    def _apply_rope(self, x):
+        """Apply RoPE to input tensor with shape (batch, num_tokens, num_heads, head_dim)"""
+        if not self.rotation_encoder:
+            return x
+
+        batch, num_tokens, num_heads, head_dim = x.shape
+
+        # Reshape to (batch * num_heads, num_tokens, head_dim) for RoPE
+        x_reshaped = x.reshape(batch * num_heads, num_tokens, head_dim)
+
+        # Apply RoPE to each head's embeddings
+        x_rotated = self.rotation_encoder(x_reshaped)
+
+        # Reshape back to original shape
+        return x_rotated.reshape(batch, num_tokens, num_heads, head_dim)
 
     def forward(self, x):
         b, num_tokens, d_in = x.shape
+        # print(f"!!! FIXMENM b: {b}, self.head_dim: {self.head_dim}, d_in: {d_in}")
 
         keys = self.W_key(x)
         queries = self.W_query(x)
         values = self.W_value(x)
 
+
         keys = keys.view(b, num_tokens, self.num_heads, self.head_dim)
         queries = queries.view(b, num_tokens, self.num_heads, self.head_dim)
         values = values.view(b, num_tokens, self.num_heads, self.head_dim)
+
+        # print(f"!!! FIXMENM keys.shape: {keys.shape}, queries.shape: {queries.shape}")
 
         keys = keys.transpose(1, 2)
         queries = queries.transpose(1, 2)
         values = values.transpose(1, 2)
 
+        # Apply RoPE to query and key: NOTE: Not working yet
+        if self.rotation_encoder:
+            # seq_dim = int(self.head_dim)
+            # queries = self.rotation_encoder.forward(queries, seq_dim)
+            # keys = self.rotation_encoder.forward(keys, seq_dim)
+            queries = self._apply_rope(queries)
+            keys = self._apply_rope(keys)
+
+        # Compute attention scores
         attn_scores = queries @ keys.transpose(2, 3)
         mask_bool = self.mask.bool()[:num_tokens, :num_tokens]
         # print (f"* FIXMENM * attn_scores before mask:\n{attn_scores}")
@@ -168,20 +298,6 @@ class MultiHeadAttention(nn.Module):
             b, num_tokens, self.d_out
         )
         context_vec = self.out_proj(context_vec)
-
-        # print (f"* self.mask.shape   : {self.mask.shape}")
-        # print (f"* mask_bool.shape   : {mask_bool.shape}")
-        # print (f"* mask_bool:\n{mask_bool}")
-        # print (f"* keys.shape        : {keys.shape}")
-        # print (f"* queries.shape     : {queries.shape}")
-        # print (f"* values.shape      : {values.shape}")
-        # print (f"* mask_bool.shape   : {mask_bool.shape}")
-        # print (f"* num_tokens        : {num_tokens}")
-        # print (f"* attn_scores.shape : {attn_scores.shape}")
-        # print (f"* attn_weights.shape: {attn_weights.shape}")
-        # print (f"* keys.shape[-1]    : {keys.shape[-1]}")
-        # print (f"* keys.shape        : {keys.shape}")
-        # print (f"* context_vec.shape : {context_vec.shape}")
 
         return context_vec
 
@@ -230,7 +346,7 @@ class FeedForward(nn.Module):
 
 
 class TransformerBlock(nn.Module):
-    def __init__(self, cfg):
+    def __init__(self, cfg, rotation_encoder):
         super().__init__()
         self.number_bits = cfg["number_bits"]
         self.att = MultiHeadAttention(
@@ -239,7 +355,8 @@ class TransformerBlock(nn.Module):
             context_length=cfg["context_length"],
             num_heads=cfg["n_heads"],
             dropout=cfg["drop_rate"],
-            qkv_bias = cfg["qkv_bias"]
+            qkv_bias = cfg["qkv_bias"],
+            rotation_encoder=rotation_encoder
         )
         self.ff = FeedForward(cfg)
         self.norm1 = LayerNorm(cfg["emb_dim"])
@@ -260,37 +377,6 @@ class TransformerBlock(nn.Module):
         x = x + shortcut
         return x
 
-# TODO: Perhaps try out RoPE : https://shreyashkar-ml.github.io/posts/rope/
-class PositionalEncoding(nn.Module):
-    def __init__(self, max_sequence_length, emb_dim, avoid_begin, avoid_end):
-        super().__init__()
-        self.max_sequence_length = max_sequence_length
-        self.emb_dim = emb_dim
-        self.avoid_begin = avoid_begin
-        self.avoid_end = avoid_end
-
-        # self.zeroes_PE = torch.zeros(max_sequence_length, emb_dim)
-        self.default_PE = self.calcPE()
-
-    def calcPE(self):
-        even_i = torch.arange(0, self.emb_dim, 2).float()
-        denominator = torch.pow(10000, even_i/self.emb_dim)
-        position = (torch.arange(self.max_sequence_length)
-                          .reshape(self.max_sequence_length, 1))
-        even_PE = torch.sin(position / denominator)
-        odd_PE = torch.cos(position / denominator)
-        stacked = torch.stack([even_PE, odd_PE], dim=2)
-        PE = torch.flatten(stacked, start_dim=1, end_dim=2)
-        PE[:,self.avoid_begin:self.avoid_end] = 0
-        return PE
-
-    def forward(self, x):
-        position_tensor = self.default_PE[:x.shape[-1], :]
-        # print(f"FIXMENM PositionalEncoding x.shape[-1]: {x.shape[-1]}, self.default_PE.shape: {self.default_PE.shape}., position_tensor.shape: {position_tensor.shape}")
-        # saveTensorToFile("/tmp/_position_tensor", position_tensor)      # FIXMENM
-        # saveTensorToFile("/tmp/_position_default_PE", self.default_PE)  # FIXMENM
-        return position_tensor
-        # return self.default_PE[:x.shape[-1], :]
 
 
 class GPTModel(nn.Module):
@@ -305,6 +391,7 @@ class GPTModel(nn.Module):
         self.n_layers = cfg["n_layers"]
         self.number_bits = cfg["number_bits"]
         self.dropout_all = cfg["dropout_all"]
+        self.head_dim = cfg["emb_dim"] //  cfg["n_heads"]
 
         self.number_bits_end  = self.embed_dim
 
@@ -323,17 +410,19 @@ class GPTModel(nn.Module):
         self.CFG["avoid_begin"] = self.avoid_begin
         self.CFG["avoid_end"] = self.avoid_end
 
-        print(f"FIXMENM A pass_through: [number_bits: [{self.number_bits_begin} : {self.number_bits_end}], outhead_input_size; {self.outhead_input_size}")
+        print(f"FIXMENM A pass_through: [number_bits: [{self.number_bits_begin} : {self.number_bits_end}], outhead_input_size; {self.outhead_input_size}, self.head_dim: {self.head_dim}]")
 
         self.tok_emb = EmbeddingWithNumbers(tokenizer, self.vocab_size, self.embed_dim, self.number_bits, self.number_bits_begin, self.number_bits_end)
         # self.tok_emb = CustomEmbedding(self.vocab_size, self.embed_dim)
         ### self.pos_emb = nn.Embedding(self.context_length, self.embed_dim)
 
         self.position_encoder = PositionalEncoding(self.context_length, self.embed_dim, self.avoid_begin, self.avoid_end)
+        self.rotation_encoder = None
+        # self.rotation_encoder = RotaryPositionEmbedding(self.context_length, self.head_dim, self.avoid_begin, self.avoid_end)
         self.drop_emb = DropoutBlock(self.drop_rate, self.avoid_begin, self.avoid_end, self.dropout_all)
 
         self.trf_blocks = nn.Sequential(
-            *[TransformerBlock(self.CFG) for _ in range(self.n_layers)])
+            *[TransformerBlock(self.CFG, self.rotation_encoder) for _ in range(self.n_layers)])
 
         self.final_norm = LayerNorm(self.embed_dim)
         self.out_head = nn.Linear(
