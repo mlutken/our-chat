@@ -2,6 +2,9 @@ import random
 
 from sympy.strategies.core import switch
 
+global g_avoid_negative_numbers
+g_avoid_negative_numbers = True
+
 
 def initFiles(trainFilePath, validateFilePath):
     with open(trainFilePath, "w") as f:
@@ -66,9 +69,10 @@ def traingen_math_minus(a, b, choice: int = None):
     res = a - b
 
     # FIXME: We still do not support negative numbers. Should be simple though to add!
-    if res < 0:
-        a, b = b, a     # SWAP
-        res = a - b
+    if g_avoid_negative_numbers:
+        if res < 0:
+            a, b = b, a     # SWAP
+            res = a - b
 
     s = startPrompt()
 

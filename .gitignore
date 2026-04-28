@@ -210,3 +210,5 @@ __marimo__/
 *.pth
 .idea/
 
+training_data/math-training-simple-5.txt
+training_data/math-validation-simple-5.txt
