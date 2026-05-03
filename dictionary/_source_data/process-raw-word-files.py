@@ -75,16 +75,24 @@ def merge_dict_into_file(word_from):
 
 
 def merge_source_file(source_name):
-    source_file_path = source_data_path / f"{source_name}.json"
-    if not os.path.exists(source_file_path):
-        print(f"ERROR: {source_file_path} does not exist")
-        return
-
-    with open(source_file_path) as f:
-        words_from = json.load(f)
-        for words_from in words_from:
-            merge_dict_into_file(words_from)
-
+    source_file_path_jsonl = source_data_path / f"{source_name}.jsonl"
+    source_file_path_json  = source_data_path / f"{source_name}.json"
+    if  os.path.exists(source_file_path_json):
+        with open(source_file_path_json) as f:
+            words_from = json.load(f)
+            for words_from in words_from:
+                merge_dict_into_file(words_from)
+    elif  os.path.exists(source_file_path_jsonl):
+        with open(source_file_path_jsonl) as f:
+            for line in f:
+                try:
+                    words_from = json.loads(line)
+                except:
+                    pass
+                print(words_from)
+                merge_dict_into_file(words_from)
+    else:
+        print(f"ERROR: {source_file_path_json} or {source_file_path_jsonl} not found!")
 
 
 for source_name in source_names:
