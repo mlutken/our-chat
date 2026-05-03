@@ -1,0 +1,1091 @@
+[
+    {
+        "base": "addendum",
+        "classes": [
+            "n"
+        ],
+        "n1": "addendum",
+        "n2": "addenda",
+        "n3": "the addendum",
+        "n4": "the addenda",
+        "n5": "addendum's"
+    },
+    {
+        "base": "aircraft",
+        "classes": [
+            "n"
+        ],
+        "n1": "aircraft",
+        "n2": "aircraft",
+        "n3": "the aircraft",
+        "n4": "the aircraft",
+        "n5": "aircraft's"
+    },
+    {
+        "base": "alumna",
+        "classes": [
+            "n"
+        ],
+        "n1": "alumna",
+        "n2": "alumnae",
+        "n3": "the alumna",
+        "n4": "the alumnae",
+        "n5": "alumna's"
+    },
+    {
+        "base": "alumnus",
+        "classes": [
+            "n"
+        ],
+        "n1": "alumnus",
+        "n2": "alumni",
+        "n3": "the alumnus",
+        "n4": "the alumni",
+        "n5": "alumnus's"
+    },
+    {
+        "base": "analysis",
+        "classes": [
+            "n"
+        ],
+        "n1": "analysis",
+        "n2": "analyses",
+        "n3": "the analysis",
+        "n4": "the analyses",
+        "n5": "analysis's"
+    },
+    {
+        "base": "antenna",
+        "classes": [
+            "n"
+        ],
+        "n1": "antenna",
+        "n2": "antennae",
+        "n3": "the antenna",
+        "n4": "the antennae",
+        "n5": "antenna's"
+    },
+    {
+        "base": "antithesis",
+        "classes": [
+            "n"
+        ],
+        "n1": "antithesis",
+        "n2": "antitheses",
+        "n3": "the antithesis",
+        "n4": "the antitheses",
+        "n5": "antithesis's"
+    },
+    {
+        "base": "apex",
+        "classes": [
+            "n"
+        ],
+        "n1": "apex",
+        "n2": "apices",
+        "n3": "the apex",
+        "n4": "the apices",
+        "n5": "apex's"
+    },
+    {
+        "base": "appendix",
+        "classes": [
+            "n"
+        ],
+        "n1": "appendix",
+        "n2": "appendices",
+        "n3": "the appendix",
+        "n4": "the appendices",
+        "n5": "appendix's"
+    },
+    {
+        "base": "axis",
+        "classes": [
+            "n"
+        ],
+        "n1": "axis",
+        "n2": "axes",
+        "n3": "the axis",
+        "n4": "the axes",
+        "n5": "axis's"
+    },
+    {
+        "base": "bacillus",
+        "classes": [
+            "n"
+        ],
+        "n1": "bacillus",
+        "n2": "bacilli",
+        "n3": "the bacillus",
+        "n4": "the bacilli",
+        "n5": "bacillus's"
+    },
+    {
+        "base": "bacterium",
+        "classes": [
+            "n"
+        ],
+        "n1": "bacterium",
+        "n2": "bacteria",
+        "n3": "the bacterium",
+        "n4": "the bacteria",
+        "n5": "bacterium's"
+    },
+    {
+        "base": "basis",
+        "classes": [
+            "n"
+        ],
+        "n1": "basis",
+        "n2": "bases",
+        "n3": "the basis",
+        "n4": "the bases",
+        "n5": "basis's"
+    },
+    {
+        "base": "beau",
+        "classes": [
+            "n"
+        ],
+        "n1": "beau",
+        "n2": "beaux",
+        "n3": "the beau",
+        "n4": "the beaux",
+        "n5": "beau's"
+    },
+    {
+        "base": "bison",
+        "classes": [
+            "n"
+        ],
+        "n1": "bison",
+        "n2": "bison",
+        "n3": "the bison",
+        "n4": "the bison",
+        "n5": "bison's"
+    },
+    {
+        "base": "bureau",
+        "classes": [
+            "n"
+        ],
+        "n1": "bureau",
+        "n2": "bureaus",
+        "n3": "the bureau",
+        "n4": "the bureaus",
+        "n5": "bureau's"
+    },
+    {
+        "base": "cactus",
+        "classes": [
+            "n"
+        ],
+        "n1": "cactus",
+        "n2": "cacti",
+        "n3": "the cactus",
+        "n4": "the cacti",
+        "n5": "cactus's"
+    },
+    {
+        "base": "ch\u00e2teau",
+        "classes": [
+            "n"
+        ],
+        "n1": "ch\u00e2teau",
+        "n2": "ch\u00e2teaus",
+        "n3": "the ch\u00e2teau",
+        "n4": "the ch\u00e2teaus",
+        "n5": "ch\u00e2teau's"
+    },
+    {
+        "base": "child",
+        "classes": [
+            "n"
+        ],
+        "n1": "child",
+        "n2": "children",
+        "n3": "the child",
+        "n4": "the children",
+        "n5": "child's"
+    },
+    {
+        "base": "codex",
+        "classes": [
+            "n"
+        ],
+        "n1": "codex",
+        "n2": "codices",
+        "n3": "the codex",
+        "n4": "the codices",
+        "n5": "codex's"
+    },
+    {
+        "base": "concerto",
+        "classes": [
+            "n"
+        ],
+        "n1": "concerto",
+        "n2": "concerti",
+        "n3": "the concerto",
+        "n4": "the concerti",
+        "n5": "concerto's"
+    },
+    {
+        "base": "corpus",
+        "classes": [
+            "n"
+        ],
+        "n1": "corpus",
+        "n2": "corpora",
+        "n3": "the corpus",
+        "n4": "the corpora",
+        "n5": "corpus's"
+    },
+    {
+        "base": "crisis",
+        "classes": [
+            "n"
+        ],
+        "n1": "crisis",
+        "n2": "crises",
+        "n3": "the crisis",
+        "n4": "the crises",
+        "n5": "crisis's"
+    },
+    {
+        "base": "criterion",
+        "classes": [
+            "n"
+        ],
+        "n1": "criterion",
+        "n2": "criteria",
+        "n3": "the criterion",
+        "n4": "the criteria",
+        "n5": "criterion's"
+    },
+    {
+        "base": "curriculum",
+        "classes": [
+            "n"
+        ],
+        "n1": "curriculum",
+        "n2": "curricula",
+        "n3": "the curriculum",
+        "n4": "the curricula",
+        "n5": "curriculum's"
+    },
+    {
+        "base": "datum",
+        "classes": [
+            "n"
+        ],
+        "n1": "datum",
+        "n2": "data",
+        "n3": "the datum",
+        "n4": "the data",
+        "n5": "datum's"
+    },
+    {
+        "base": "deer",
+        "classes": [
+            "n"
+        ],
+        "n1": "deer",
+        "n2": "deers",
+        "n3": "the deer",
+        "n4": "the deers",
+        "n5": "deer's"
+    },
+    {
+        "base": "diagnosis",
+        "classes": [
+            "n"
+        ],
+        "n1": "diagnosis",
+        "n2": "diagnoses",
+        "n3": "the diagnosis",
+        "n4": "the diagnoses",
+        "n5": "diagnosis's"
+    },
+    {
+        "base": "die",
+        "classes": [
+            "n"
+        ],
+        "n1": "die",
+        "n2": "dice",
+        "n3": "the die",
+        "n4": "the dice",
+        "n5": "die's"
+    },
+    {
+        "base": "dwarf",
+        "classes": [
+            "n"
+        ],
+        "n1": "dwarf",
+        "n2": "dwarves",
+        "n3": "the dwarf",
+        "n4": "the dwarves",
+        "n5": "dwarf's"
+    },
+    {
+        "base": "ellipsis",
+        "classes": [
+            "n"
+        ],
+        "n1": "ellipsis",
+        "n2": "ellipses",
+        "n3": "the ellipsis",
+        "n4": "the ellipses",
+        "n5": "ellipsis's"
+    },
+    {
+        "base": "erratum",
+        "classes": [
+            "n"
+        ],
+        "n1": "erratum",
+        "n2": "errata",
+        "n3": "the erratum",
+        "n4": "the errata",
+        "n5": "erratum's"
+    },
+    {
+        "base": "faux pas",
+        "classes": [
+            "n"
+        ],
+        "n1": "faux pas",
+        "n2": "faux pas",
+        "n3": "the faux pas",
+        "n4": "the faux pas",
+        "n5": "faux pas's"
+    },
+    {
+        "base": "fez",
+        "classes": [
+            "n"
+        ],
+        "n1": "fez",
+        "n2": "fezzes",
+        "n3": "the fez",
+        "n4": "the fezzes",
+        "n5": "fez's"
+    },
+    {
+        "base": "fish",
+        "classes": [
+            "n"
+        ],
+        "n1": "fish",
+        "n2": "fishes",
+        "n3": "the fish",
+        "n4": "the fishes",
+        "n5": "fish's"
+    },
+    {
+        "base": "focus",
+        "classes": [
+            "n"
+        ],
+        "n1": "focus",
+        "n2": "foci",
+        "n3": "the focus",
+        "n4": "the foci",
+        "n5": "focus's"
+    },
+    {
+        "base": "foot",
+        "classes": [
+            "n"
+        ],
+        "n1": "foot",
+        "n2": "feet",
+        "n3": "the foot",
+        "n4": "the feet",
+        "n5": "foot's"
+    },
+    {
+        "base": "formula",
+        "classes": [
+            "n"
+        ],
+        "n1": "formula",
+        "n2": "formulae",
+        "n3": "the formula",
+        "n4": "the formulae",
+        "n5": "formula's"
+    },
+    {
+        "base": "fungus",
+        "classes": [
+            "n"
+        ],
+        "n1": "fungus",
+        "n2": "fungi",
+        "n3": "the fungus",
+        "n4": "the fungi",
+        "n5": "fungus's"
+    },
+    {
+        "base": "genus",
+        "classes": [
+            "n"
+        ],
+        "n1": "genus",
+        "n2": "genera",
+        "n3": "the genus",
+        "n4": "the genera",
+        "n5": "genus's"
+    },
+    {
+        "base": "goose",
+        "classes": [
+            "n"
+        ],
+        "n1": "goose",
+        "n2": "geese",
+        "n3": "the goose",
+        "n4": "the geese",
+        "n5": "goose's"
+    },
+    {
+        "base": "graffito",
+        "classes": [
+            "n"
+        ],
+        "n1": "graffito",
+        "n2": "graffiti",
+        "n3": "the graffito",
+        "n4": "the graffiti",
+        "n5": "graffito's"
+    },
+    {
+        "base": "grouse",
+        "classes": [
+            "n"
+        ],
+        "n1": "grouse",
+        "n2": "grouses",
+        "n3": "the grouse",
+        "n4": "the grouses",
+        "n5": "grouse's"
+    },
+    {
+        "base": "half",
+        "classes": [
+            "n"
+        ],
+        "n1": "half",
+        "n2": "halves",
+        "n3": "the half",
+        "n4": "the halves",
+        "n5": "half's"
+    },
+    {
+        "base": "hoof",
+        "classes": [
+            "n"
+        ],
+        "n1": "hoof",
+        "n2": "hooves",
+        "n3": "the hoof",
+        "n4": "the hooves",
+        "n5": "hoof's"
+    },
+    {
+        "base": "hypothesis",
+        "classes": [
+            "n"
+        ],
+        "n1": "hypothesis",
+        "n2": "hypotheses",
+        "n3": "the hypothesis",
+        "n4": "the hypotheses",
+        "n5": "hypothesis's"
+    },
+    {
+        "base": "index",
+        "classes": [
+            "n"
+        ],
+        "n1": "index",
+        "n2": "indices",
+        "n3": "the index",
+        "n4": "the indices",
+        "n5": "index's"
+    },
+    {
+        "base": "larva",
+        "classes": [
+            "n"
+        ],
+        "n1": "larva",
+        "n2": "larvae",
+        "n3": "the larva",
+        "n4": "the larvae",
+        "n5": "larva's"
+    },
+    {
+        "base": "libretto",
+        "classes": [
+            "n"
+        ],
+        "n1": "libretto",
+        "n2": "libretti",
+        "n3": "the libretto",
+        "n4": "the libretti",
+        "n5": "libretto's"
+    },
+    {
+        "base": "loaf",
+        "classes": [
+            "n"
+        ],
+        "n1": "loaf",
+        "n2": "loaves",
+        "n3": "the loaf",
+        "n4": "the loaves",
+        "n5": "loaf's"
+    },
+    {
+        "base": "locus",
+        "classes": [
+            "n"
+        ],
+        "n1": "locus",
+        "n2": "loci",
+        "n3": "the locus",
+        "n4": "the loci",
+        "n5": "locus's"
+    },
+    {
+        "base": "louse",
+        "classes": [
+            "n"
+        ],
+        "n1": "louse",
+        "n2": "lice",
+        "n3": "the louse",
+        "n4": "the lice",
+        "n5": "louse's"
+    },
+    {
+        "base": "man",
+        "classes": [
+            "n"
+        ],
+        "n1": "man",
+        "n2": "men",
+        "n3": "the man",
+        "n4": "the men",
+        "n5": "man's"
+    },
+    {
+        "base": "matrix",
+        "classes": [
+            "n"
+        ],
+        "n1": "matrix",
+        "n2": "matrices",
+        "n3": "the matrix",
+        "n4": "the matrices",
+        "n5": "matrix's"
+    },
+    {
+        "base": "medium",
+        "classes": [
+            "n"
+        ],
+        "n1": "medium",
+        "n2": "media",
+        "n3": "the medium",
+        "n4": "the media",
+        "n5": "medium's"
+    },
+    {
+        "base": "memorandum",
+        "classes": [
+            "n"
+        ],
+        "n1": "memorandum",
+        "n2": "memoranda",
+        "n3": "the memorandum",
+        "n4": "the memoranda",
+        "n5": "memorandum's"
+    },
+    {
+        "base": "minutia",
+        "classes": [
+            "n"
+        ],
+        "n1": "minutia",
+        "n2": "minutiae",
+        "n3": "the minutia",
+        "n4": "the minutiae",
+        "n5": "minutia's"
+    },
+    {
+        "base": "moose",
+        "classes": [
+            "n"
+        ],
+        "n1": "moose",
+        "n2": "moose",
+        "n3": "the moose",
+        "n4": "the moose",
+        "n5": "moose's"
+    },
+    {
+        "base": "mouse",
+        "classes": [
+            "n"
+        ],
+        "n1": "mouse",
+        "n2": "mice",
+        "n3": "the mouse",
+        "n4": "the mice",
+        "n5": "mouse's"
+    },
+    {
+        "base": "nebula",
+        "classes": [
+            "n"
+        ],
+        "n1": "nebula",
+        "n2": "nebulae",
+        "n3": "the nebula",
+        "n4": "the nebulae",
+        "n5": "nebula's"
+    },
+    {
+        "base": "nucleus",
+        "classes": [
+            "n"
+        ],
+        "n1": "nucleus",
+        "n2": "nuclei",
+        "n3": "the nucleus",
+        "n4": "the nuclei",
+        "n5": "nucleus's"
+    },
+    {
+        "base": "oasis",
+        "classes": [
+            "n"
+        ],
+        "n1": "oasis",
+        "n2": "oases",
+        "n3": "the oasis",
+        "n4": "the oases",
+        "n5": "oasis's"
+    },
+    {
+        "base": "offspring",
+        "classes": [
+            "n"
+        ],
+        "n1": "offspring",
+        "n2": "offsprings",
+        "n3": "the offspring",
+        "n4": "the offsprings",
+        "n5": "offspring's"
+    },
+    {
+        "base": "opus",
+        "classes": [
+            "n"
+        ],
+        "n1": "opus",
+        "n2": "opuses",
+        "n3": "the opus",
+        "n4": "the opuses",
+        "n5": "opus's"
+    },
+    {
+        "base": "ovum",
+        "classes": [
+            "n"
+        ],
+        "n1": "ovum",
+        "n2": "ova",
+        "n3": "the ovum",
+        "n4": "the ova",
+        "n5": "ovum's"
+    },
+    {
+        "base": "ox",
+        "classes": [
+            "n"
+        ],
+        "n1": "ox",
+        "n2": "oxen",
+        "n3": "the ox",
+        "n4": "the oxen",
+        "n5": "ox's"
+    },
+    {
+        "base": "parenthesis",
+        "classes": [
+            "n"
+        ],
+        "n1": "parenthesis",
+        "n2": "parentheses",
+        "n3": "the parenthesis",
+        "n4": "the parentheses",
+        "n5": "parenthesis's"
+    },
+    {
+        "base": "phenomenon",
+        "classes": [
+            "n"
+        ],
+        "n1": "phenomenon",
+        "n2": "phenomena",
+        "n3": "the phenomenon",
+        "n4": "the phenomena",
+        "n5": "phenomenon's"
+    },
+    {
+        "base": "phylum",
+        "classes": [
+            "n"
+        ],
+        "n1": "phylum",
+        "n2": "phyla",
+        "n3": "the phylum",
+        "n4": "the phyla",
+        "n5": "phylum's"
+    },
+    {
+        "base": "quiz",
+        "classes": [
+            "n"
+        ],
+        "n1": "quiz",
+        "n2": "quizzes",
+        "n3": "the quiz",
+        "n4": "the quizzes",
+        "n5": "quiz's"
+    },
+    {
+        "base": "radius",
+        "classes": [
+            "n"
+        ],
+        "n1": "radius",
+        "n2": "radiuses",
+        "n3": "the radius",
+        "n4": "the radiuses",
+        "n5": "radius's"
+    },
+    {
+        "base": "referendum",
+        "classes": [
+            "n"
+        ],
+        "n1": "referendum",
+        "n2": "referendums",
+        "n3": "the referendum",
+        "n4": "the referendums",
+        "n5": "referendum's"
+    },
+    {
+        "base": "salmon",
+        "classes": [
+            "n"
+        ],
+        "n1": "salmon",
+        "n2": "salmons",
+        "n3": "the salmon",
+        "n4": "the salmons",
+        "n5": "salmon's"
+    },
+    {
+        "base": "scarf",
+        "classes": [
+            "n"
+        ],
+        "n1": "scarf",
+        "n2": "scarves",
+        "n3": "the scarf",
+        "n4": "the scarves",
+        "n5": "scarf's"
+    },
+    {
+        "base": "self",
+        "classes": [
+            "n"
+        ],
+        "n1": "self",
+        "n2": "selves",
+        "n3": "the self",
+        "n4": "the selves",
+        "n5": "self's"
+    },
+    {
+        "base": "series",
+        "classes": [
+            "n"
+        ],
+        "n1": "series",
+        "n2": "series",
+        "n3": "the series",
+        "n4": "the series",
+        "n5": "series's"
+    },
+    {
+        "base": "sheep",
+        "classes": [
+            "n"
+        ],
+        "n1": "sheep",
+        "n2": "sheep",
+        "n3": "the sheep",
+        "n4": "the sheep",
+        "n5": "sheep's"
+    },
+    {
+        "base": "shrimp",
+        "classes": [
+            "n"
+        ],
+        "n1": "shrimp",
+        "n2": "shrimps",
+        "n3": "the shrimp",
+        "n4": "the shrimps",
+        "n5": "shrimp's"
+    },
+    {
+        "base": "species",
+        "classes": [
+            "n"
+        ],
+        "n1": "species",
+        "n2": "species",
+        "n3": "the species",
+        "n4": "the species",
+        "n5": "species's"
+    },
+    {
+        "base": "stimulus",
+        "classes": [
+            "n"
+        ],
+        "n1": "stimulus",
+        "n2": "stimuli",
+        "n3": "the stimulus",
+        "n4": "the stimuli",
+        "n5": "stimulus's"
+    },
+    {
+        "base": "stratum",
+        "classes": [
+            "n"
+        ],
+        "n1": "stratum",
+        "n2": "strata",
+        "n3": "the stratum",
+        "n4": "the strata",
+        "n5": "stratum's"
+    },
+    {
+        "base": "swine",
+        "classes": [
+            "n"
+        ],
+        "n1": "swine",
+        "n2": "swine",
+        "n3": "the swine",
+        "n4": "the swine",
+        "n5": "swine's"
+    },
+    {
+        "base": "syllabus",
+        "classes": [
+            "n"
+        ],
+        "n1": "syllabus",
+        "n2": "syllabi",
+        "n3": "the syllabus",
+        "n4": "the syllabi",
+        "n5": "syllabus's"
+    },
+    {
+        "base": "symposium",
+        "classes": [
+            "n"
+        ],
+        "n1": "symposium",
+        "n2": "symposia",
+        "n3": "the symposium",
+        "n4": "the symposia",
+        "n5": "symposium's"
+    },
+    {
+        "base": "synopsis",
+        "classes": [
+            "n"
+        ],
+        "n1": "synopsis",
+        "n2": "synopses",
+        "n3": "the synopsis",
+        "n4": "the synopses",
+        "n5": "synopsis's"
+    },
+    {
+        "base": "tableau",
+        "classes": [
+            "n"
+        ],
+        "n1": "tableau",
+        "n2": "tableaus",
+        "n3": "the tableau",
+        "n4": "the tableaus",
+        "n5": "tableau's"
+    },
+    {
+        "base": "thesis",
+        "classes": [
+            "n"
+        ],
+        "n1": "thesis",
+        "n2": "theses",
+        "n3": "the thesis",
+        "n4": "the theses",
+        "n5": "thesis's"
+    },
+    {
+        "base": "thief",
+        "classes": [
+            "n"
+        ],
+        "n1": "thief",
+        "n2": "thieves",
+        "n3": "the thief",
+        "n4": "the thieves",
+        "n5": "thief's"
+    },
+    {
+        "base": "tooth",
+        "classes": [
+            "n"
+        ],
+        "n1": "tooth",
+        "n2": "teeth",
+        "n3": "the tooth",
+        "n4": "the teeth",
+        "n5": "tooth's"
+    },
+    {
+        "base": "trout",
+        "classes": [
+            "n"
+        ],
+        "n1": "trout",
+        "n2": "trouts",
+        "n3": "the trout",
+        "n4": "the trouts",
+        "n5": "trout's"
+    },
+    {
+        "base": "tuna",
+        "classes": [
+            "n"
+        ],
+        "n1": "tuna",
+        "n2": "tunas",
+        "n3": "the tuna",
+        "n4": "the tunas",
+        "n5": "tuna's"
+    },
+    {
+        "base": "vertebra",
+        "classes": [
+            "n"
+        ],
+        "n1": "vertebra",
+        "n2": "vertebrae",
+        "n3": "the vertebra",
+        "n4": "the vertebrae",
+        "n5": "vertebra's"
+    },
+    {
+        "base": "vertex",
+        "classes": [
+            "n"
+        ],
+        "n1": "vertex",
+        "n2": "vertices",
+        "n3": "the vertex",
+        "n4": "the vertices",
+        "n5": "vertex's"
+    },
+    {
+        "base": "vita",
+        "classes": [
+            "n"
+        ],
+        "n1": "vita",
+        "n2": "vitae",
+        "n3": "the vita",
+        "n4": "the vitae",
+        "n5": "vita's"
+    },
+    {
+        "base": "vortex",
+        "classes": [
+            "n"
+        ],
+        "n1": "vortex",
+        "n2": "vortices",
+        "n3": "the vortex",
+        "n4": "the vortices",
+        "n5": "vortex's"
+    },
+    {
+        "base": "wharf",
+        "classes": [
+            "n"
+        ],
+        "n1": "wharf",
+        "n2": "wharves",
+        "n3": "the wharf",
+        "n4": "the wharves",
+        "n5": "wharf's"
+    },
+    {
+        "base": "wife",
+        "classes": [
+            "n"
+        ],
+        "n1": "wife",
+        "n2": "wives",
+        "n3": "the wife",
+        "n4": "the wives",
+        "n5": "wife's"
+    },
+    {
+        "base": "wolf",
+        "classes": [
+            "n"
+        ],
+        "n1": "wolf",
+        "n2": "wolves",
+        "n3": "the wolf",
+        "n4": "the wolves",
+        "n5": "wolf's"
+    },
+    {
+        "base": "woman",
+        "classes": [
+            "n"
+        ],
+        "n1": "woman",
+        "n2": "women",
+        "n3": "the woman",
+        "n4": "the women",
+        "n5": "woman's"
+    }
+]
