@@ -22,6 +22,8 @@ print(f"source_names    : {source_names}")
 global g_total_words
 g_total_words  =0
 
+def str_contains_number(str):
+    return any(char.isdigit() for char in str)
 
 def merge_dict_into_dict(word_into, word_from):
     if word_into['base'] != word_from['base']:
