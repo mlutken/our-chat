@@ -1,0 +1,18 @@
+{
+    "base": "absence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n1": "absence",
+    "n2": "absences",
+    "n3": "the absence",
+    "n4": "the absences",
+    "n5": "absence's",
+    "n6": "absences'",
+    "n7": "an absence",
+    "n8": "many absences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "accordance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "accordance",
+    "n2": "accordances",
+    "n3": "the accordance",
+    "n4": "the accordances",
+    "n5": "accordance's",
+    "n6": "accordances'",
+    "n7": "an accordance",
+    "n8": "many accordances"
+}

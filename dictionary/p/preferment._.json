@@ -1,0 +1,18 @@
+{
+    "base": "preferment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preferment",
+    "n2": "preferments",
+    "n3": "the preferment",
+    "n4": "the preferments",
+    "n5": "preferment's",
+    "n6": "preferments'",
+    "n7": "a preferment",
+    "n8": "many preferments"
+}

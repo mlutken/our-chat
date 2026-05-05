@@ -1,0 +1,18 @@
+{
+    "base": "bloom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "bloom",
+    "n2": "blooms",
+    "n3": "the bloom",
+    "n4": "the blooms",
+    "n5": "bloom's",
+    "n6": "blooms'",
+    "n7": "a bloom",
+    "n8": "many blooms"
+}

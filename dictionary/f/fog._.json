@@ -1,0 +1,18 @@
+{
+    "base": "fog",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "fog",
+    "n2": "fogs",
+    "n3": "the fog",
+    "n4": "the fogs",
+    "n5": "fog's",
+    "n6": "fogs'",
+    "n7": "a fog",
+    "n8": "many fogs"
+}

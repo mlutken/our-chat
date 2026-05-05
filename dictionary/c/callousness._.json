@@ -1,0 +1,18 @@
+{
+    "base": "callousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "callousness",
+    "n2": "callousnesses",
+    "n3": "the callousness",
+    "n4": "the callousnesses",
+    "n5": "callousness'",
+    "n6": "callousnesses'",
+    "n7": "a callousness",
+    "n8": "many callousnesses"
+}

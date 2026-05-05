@@ -7,5 +7,12 @@
     "n2": "assumptions",
     "n3": "the assumption",
     "n4": "the assumptions",
-    "n5": "assumption's"
+    "n5": "assumption's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "assumptions'",
+    "n7": "an assumption",
+    "n8": "many assumptions"
 }

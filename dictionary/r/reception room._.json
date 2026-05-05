@@ -1,0 +1,18 @@
+{
+    "base": "reception room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reception room",
+    "n2": "reception rooms",
+    "n3": "the reception room",
+    "n4": "the reception rooms",
+    "n5": "reception room's",
+    "n6": "reception rooms'",
+    "n7": "a reception room",
+    "n8": "many reception rooms"
+}

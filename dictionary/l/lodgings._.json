@@ -1,0 +1,18 @@
+{
+    "base": "lodgings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lodgings",
+    "n2": "lodgingses",
+    "n3": "the lodgings",
+    "n4": "the lodgingses",
+    "n5": "lodgings'",
+    "n6": "lodgingses'",
+    "n7": "a lodgings",
+    "n8": "many lodgingses"
+}

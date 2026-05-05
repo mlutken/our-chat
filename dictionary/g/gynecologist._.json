@@ -1,0 +1,18 @@
+{
+    "base": "gynecologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gynecologist",
+    "n2": "gynecologists",
+    "n3": "the gynecologist",
+    "n4": "the gynecologists",
+    "n5": "gynecologist's",
+    "n6": "gynecologists'",
+    "n7": "a gynecologist",
+    "n8": "many gynecologists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "moderate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moderate",
+    "n2": "moderates",
+    "n3": "the moderate",
+    "n4": "the moderates",
+    "n5": "moderate's",
+    "n6": "moderates'",
+    "n7": "a moderate",
+    "n8": "many moderates"
+}

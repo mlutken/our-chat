@@ -1,0 +1,18 @@
+{
+    "base": "affirmation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "affirmation",
+    "n2": "affirmations",
+    "n3": "the affirmation",
+    "n4": "the affirmations",
+    "n5": "affirmation's",
+    "n6": "affirmations'",
+    "n7": "an affirmation",
+    "n8": "many affirmations"
+}

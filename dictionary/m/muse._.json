@@ -1,0 +1,18 @@
+{
+    "base": "muse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muse",
+    "n2": "muses",
+    "n3": "the muse",
+    "n4": "the muses",
+    "n5": "muse's",
+    "n6": "muses'",
+    "n7": "a muse",
+    "n8": "many muses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "religionist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "religionist",
+    "n2": "religionists",
+    "n3": "the religionist",
+    "n4": "the religionists",
+    "n5": "religionist's",
+    "n6": "religionists'",
+    "n7": "a religionist",
+    "n8": "many religionists"
+}

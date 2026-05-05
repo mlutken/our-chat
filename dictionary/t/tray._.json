@@ -1,0 +1,18 @@
+{
+    "base": "tray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "tray",
+    "n2": "trays",
+    "n3": "the tray",
+    "n4": "the trays",
+    "n5": "tray's",
+    "n6": "trays'",
+    "n7": "a tray",
+    "n8": "many trays"
+}

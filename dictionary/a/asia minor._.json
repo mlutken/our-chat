@@ -1,0 +1,18 @@
+{
+    "base": "asia minor",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "asia minor",
+    "n2": "asia minors",
+    "n3": "the asia minor",
+    "n4": "the asia minors",
+    "n5": "asia minor's",
+    "n6": "asia minors'",
+    "n7": "an asia minor",
+    "n8": "many asia minors"
+}

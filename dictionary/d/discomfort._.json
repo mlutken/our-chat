@@ -1,0 +1,18 @@
+{
+    "base": "discomfort",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "discomfort",
+    "n2": "discomforts",
+    "n3": "the discomfort",
+    "n4": "the discomforts",
+    "n5": "discomfort's",
+    "n6": "discomforts'",
+    "n7": "a discomfort",
+    "n8": "many discomforts"
+}

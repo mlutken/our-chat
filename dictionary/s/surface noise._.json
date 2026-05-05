@@ -1,0 +1,18 @@
+{
+    "base": "surface noise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "surface noise",
+    "n2": "surface noises",
+    "n3": "the surface noise",
+    "n4": "the surface noises",
+    "n5": "surface noise's",
+    "n6": "surface noises'",
+    "n7": "a surface noise",
+    "n8": "many surface noises"
+}

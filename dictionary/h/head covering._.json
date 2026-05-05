@@ -1,0 +1,18 @@
+{
+    "base": "head covering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "head covering",
+    "n2": "head coverings",
+    "n3": "the head covering",
+    "n4": "the head coverings",
+    "n5": "head covering's",
+    "n6": "head coverings'",
+    "n7": "a head covering",
+    "n8": "many head coverings"
+}

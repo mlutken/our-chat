@@ -1,0 +1,18 @@
+{
+    "base": "crucifixion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crucifixion",
+    "n2": "crucifixions",
+    "n3": "the crucifixion",
+    "n4": "the crucifixions",
+    "n5": "crucifixion's",
+    "n6": "crucifixions'",
+    "n7": "a crucifixion",
+    "n8": "many crucifixions"
+}

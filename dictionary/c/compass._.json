@@ -1,0 +1,18 @@
+{
+    "base": "compass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "compass",
+    "n2": "compasses",
+    "n3": "the compass",
+    "n4": "the compasses",
+    "n5": "compass'",
+    "n6": "compasses'",
+    "n7": "a compass",
+    "n8": "many compasses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "abstract art",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abstract art",
+    "n2": "abstract arts",
+    "n3": "the abstract art",
+    "n4": "the abstract arts",
+    "n5": "abstract art's",
+    "n6": "abstract arts'",
+    "n7": "an abstract art",
+    "n8": "many abstract arts"
+}

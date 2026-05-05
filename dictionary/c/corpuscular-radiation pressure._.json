@@ -1,0 +1,18 @@
+{
+    "base": "corpuscular-radiation pressure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corpuscular-radiation pressure",
+    "n2": "corpuscular-radiation pressures",
+    "n3": "the corpuscular-radiation pressure",
+    "n4": "the corpuscular-radiation pressures",
+    "n5": "corpuscular-radiation pressure's",
+    "n6": "corpuscular-radiation pressures'",
+    "n7": "a corpuscular-radiation pressure",
+    "n8": "many corpuscular-radiation pressures"
+}

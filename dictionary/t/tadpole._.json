@@ -1,0 +1,18 @@
+{
+    "base": "tadpole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tadpole",
+    "n2": "tadpoles",
+    "n3": "the tadpole",
+    "n4": "the tadpoles",
+    "n5": "tadpole's",
+    "n6": "tadpoles'",
+    "n7": "a tadpole",
+    "n8": "many tadpoles"
+}

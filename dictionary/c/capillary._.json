@@ -1,0 +1,18 @@
+{
+    "base": "capillary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "capillary",
+    "n2": "capillaries",
+    "n3": "the capillary",
+    "n4": "the capillaries",
+    "n5": "capillary's",
+    "n6": "capillaries'",
+    "n7": "a capillary",
+    "n8": "many capillaries"
+}

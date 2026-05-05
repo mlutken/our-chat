@@ -1,0 +1,18 @@
+{
+    "base": "loyalty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "loyalty",
+    "n2": "loyalties",
+    "n3": "the loyalty",
+    "n4": "the loyalties",
+    "n5": "loyalty's",
+    "n6": "loyalties'",
+    "n7": "a loyalty",
+    "n8": "many loyalties"
+}

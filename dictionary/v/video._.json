@@ -7,5 +7,12 @@
     "n2": "videos",
     "n3": "the video",
     "n4": "the videos",
-    "n5": "video's"
+    "n5": "video's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "videos'",
+    "n7": "a video",
+    "n8": "many videos"
 }

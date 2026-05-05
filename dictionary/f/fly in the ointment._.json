@@ -1,0 +1,18 @@
+{
+    "base": "fly in the ointment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fly in the ointment",
+    "n2": "fly in the ointments",
+    "n3": "the fly in the ointment",
+    "n4": "the fly in the ointments",
+    "n5": "fly in the ointment's",
+    "n6": "fly in the ointments'",
+    "n7": "a fly in the ointment",
+    "n8": "many fly in the ointments"
+}

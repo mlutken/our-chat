@@ -1,0 +1,18 @@
+{
+    "base": "relic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "relic",
+    "n2": "relics",
+    "n3": "the relic",
+    "n4": "the relics",
+    "n5": "relic's",
+    "n6": "relics'",
+    "n7": "a relic",
+    "n8": "many relics"
+}

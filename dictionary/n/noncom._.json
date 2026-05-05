@@ -1,0 +1,18 @@
+{
+    "base": "noncom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "noncom",
+    "n2": "noncoms",
+    "n3": "the noncom",
+    "n4": "the noncoms",
+    "n5": "noncom's",
+    "n6": "noncoms'",
+    "n7": "a noncom",
+    "n8": "many noncoms"
+}

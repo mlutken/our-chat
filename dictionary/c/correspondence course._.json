@@ -1,0 +1,18 @@
+{
+    "base": "correspondence course",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "correspondence course",
+    "n2": "correspondence courses",
+    "n3": "the correspondence course",
+    "n4": "the correspondence courses",
+    "n5": "correspondence course's",
+    "n6": "correspondence courses'",
+    "n7": "a correspondence course",
+    "n8": "many correspondence courses"
+}

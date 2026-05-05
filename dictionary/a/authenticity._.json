@@ -1,0 +1,18 @@
+{
+    "base": "authenticity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "authenticity",
+    "n2": "authenticities",
+    "n3": "the authenticity",
+    "n4": "the authenticities",
+    "n5": "authenticity's",
+    "n6": "authenticities'",
+    "n7": "an authenticity",
+    "n8": "many authenticities"
+}

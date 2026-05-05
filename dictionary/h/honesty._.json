@@ -1,0 +1,18 @@
+{
+    "base": "honesty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "honesty",
+    "n2": "honesties",
+    "n3": "the honesty",
+    "n4": "the honesties",
+    "n5": "honesty's",
+    "n6": "honesties'",
+    "n7": "an honesty",
+    "n8": "many honesties"
+}

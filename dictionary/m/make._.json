@@ -1,11 +1,24 @@
 {
     "base": "make",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "make",
     "v2": "made",
     "v3": "made",
     "v4": "making",
-    "v5": "makes"
+    "v5": "makes",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "make",
+    "n2": "makes",
+    "n3": "the make",
+    "n4": "the makes",
+    "n5": "make's",
+    "n6": "makes'",
+    "n7": "a make",
+    "n8": "many makes"
 }

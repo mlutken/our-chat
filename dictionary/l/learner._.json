@@ -1,0 +1,18 @@
+{
+    "base": "learner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "learner",
+    "n2": "learners",
+    "n3": "the learner",
+    "n4": "the learners",
+    "n5": "learner's",
+    "n6": "learners'",
+    "n7": "a learner",
+    "n8": "many learners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "thiouracil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "thiouracil",
+    "n2": "thiouracils",
+    "n3": "the thiouracil",
+    "n4": "the thiouracils",
+    "n5": "thiouracil's",
+    "n6": "thiouracils'",
+    "n7": "a thiouracil",
+    "n8": "many thiouracils"
+}

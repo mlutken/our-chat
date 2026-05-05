@@ -1,0 +1,18 @@
+{
+    "base": "instructions",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "instructions",
+    "n2": "instructionses",
+    "n3": "the instructions",
+    "n4": "the instructionses",
+    "n5": "instructions'",
+    "n6": "instructionses'",
+    "n7": "an instructions",
+    "n8": "many instructionses"
+}

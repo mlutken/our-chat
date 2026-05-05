@@ -1,0 +1,18 @@
+{
+    "base": "trisodium orthophosphate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trisodium orthophosphate",
+    "n2": "trisodium orthophosphates",
+    "n3": "the trisodium orthophosphate",
+    "n4": "the trisodium orthophosphates",
+    "n5": "trisodium orthophosphate's",
+    "n6": "trisodium orthophosphates'",
+    "n7": "a trisodium orthophosphate",
+    "n8": "many trisodium orthophosphates"
+}

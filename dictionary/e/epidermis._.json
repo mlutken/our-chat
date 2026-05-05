@@ -1,0 +1,18 @@
+{
+    "base": "epidermis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epidermis",
+    "n2": "epidermises",
+    "n3": "the epidermis",
+    "n4": "the epidermises",
+    "n5": "epidermis'",
+    "n6": "epidermises'",
+    "n7": "an epidermis",
+    "n8": "many epidermises"
+}

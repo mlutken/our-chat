@@ -7,5 +7,12 @@
     "n2": "profiles",
     "n3": "the profile",
     "n4": "the profiles",
-    "n5": "profile's"
+    "n5": "profile's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "profiles'",
+    "n7": "a profile",
+    "n8": "many profiles"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "warsaw",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "warsaw",
+    "n2": "warsaws",
+    "n3": "the warsaw",
+    "n4": "the warsaws",
+    "n5": "warsaw's",
+    "n6": "warsaws'",
+    "n7": "a warsaw",
+    "n8": "many warsaws"
+}

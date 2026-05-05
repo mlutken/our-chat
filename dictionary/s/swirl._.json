@@ -1,0 +1,18 @@
+{
+    "base": "swirl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "swirl",
+    "n2": "swirls",
+    "n3": "the swirl",
+    "n4": "the swirls",
+    "n5": "swirl's",
+    "n6": "swirls'",
+    "n7": "a swirl",
+    "n8": "many swirls"
+}

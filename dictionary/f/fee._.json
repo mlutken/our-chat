@@ -7,5 +7,12 @@
     "n2": "fees",
     "n3": "the fee",
     "n4": "the fees",
-    "n5": "fee's"
+    "n5": "fee's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "fees'",
+    "n7": "a fee",
+    "n8": "many fees"
 }

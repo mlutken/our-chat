@@ -1,0 +1,18 @@
+{
+    "base": "push",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "push",
+    "n2": "pushes",
+    "n3": "the push",
+    "n4": "the pushes",
+    "n5": "push's",
+    "n6": "pushes'",
+    "n7": "a push",
+    "n8": "many pushes"
+}

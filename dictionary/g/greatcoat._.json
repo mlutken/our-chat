@@ -1,0 +1,18 @@
+{
+    "base": "greatcoat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "greatcoat",
+    "n2": "greatcoats",
+    "n3": "the greatcoat",
+    "n4": "the greatcoats",
+    "n5": "greatcoat's",
+    "n6": "greatcoats'",
+    "n7": "a greatcoat",
+    "n8": "many greatcoats"
+}

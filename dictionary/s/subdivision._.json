@@ -1,0 +1,18 @@
+{
+    "base": "subdivision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "subdivision",
+    "n2": "subdivisions",
+    "n3": "the subdivision",
+    "n4": "the subdivisions",
+    "n5": "subdivision's",
+    "n6": "subdivisions'",
+    "n7": "a subdivision",
+    "n8": "many subdivisions"
+}

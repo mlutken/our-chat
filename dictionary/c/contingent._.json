@@ -1,0 +1,18 @@
+{
+    "base": "contingent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contingent",
+    "n2": "contingents",
+    "n3": "the contingent",
+    "n4": "the contingents",
+    "n5": "contingent's",
+    "n6": "contingents'",
+    "n7": "a contingent",
+    "n8": "many contingents"
+}

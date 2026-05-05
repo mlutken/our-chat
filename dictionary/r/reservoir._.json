@@ -1,0 +1,18 @@
+{
+    "base": "reservoir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "reservoir",
+    "n2": "reservoirs",
+    "n3": "the reservoir",
+    "n4": "the reservoirs",
+    "n5": "reservoir's",
+    "n6": "reservoirs'",
+    "n7": "a reservoir",
+    "n8": "many reservoirs"
+}

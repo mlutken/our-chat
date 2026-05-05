@@ -1,0 +1,18 @@
+{
+    "base": "mon-khmer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mon-khmer",
+    "n2": "mon-khmers",
+    "n3": "the mon-khmer",
+    "n4": "the mon-khmers",
+    "n5": "mon-khmer's",
+    "n6": "mon-khmers'",
+    "n7": "a mon-khmer",
+    "n8": "many mon-khmers"
+}

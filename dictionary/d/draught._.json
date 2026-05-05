@@ -1,0 +1,18 @@
+{
+    "base": "draught",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "draught",
+    "n2": "draughts",
+    "n3": "the draught",
+    "n4": "the draughts",
+    "n5": "draught's",
+    "n6": "draughts'",
+    "n7": "a draught",
+    "n8": "many draughts"
+}

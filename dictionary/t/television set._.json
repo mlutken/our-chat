@@ -1,0 +1,18 @@
+{
+    "base": "television set",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "television set",
+    "n2": "television sets",
+    "n3": "the television set",
+    "n4": "the television sets",
+    "n5": "television set's",
+    "n6": "television sets'",
+    "n7": "a television set",
+    "n8": "many television sets"
+}

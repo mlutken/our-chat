@@ -1,0 +1,18 @@
+{
+    "base": "comparative literature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "comparative literature",
+    "n2": "comparative literatures",
+    "n3": "the comparative literature",
+    "n4": "the comparative literatures",
+    "n5": "comparative literature's",
+    "n6": "comparative literatures'",
+    "n7": "a comparative literature",
+    "n8": "many comparative literatures"
+}

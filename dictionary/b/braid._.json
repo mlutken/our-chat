@@ -1,0 +1,18 @@
+{
+    "base": "braid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "braid",
+    "n2": "braids",
+    "n3": "the braid",
+    "n4": "the braids",
+    "n5": "braid's",
+    "n6": "braids'",
+    "n7": "a braid",
+    "n8": "many braids"
+}

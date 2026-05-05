@@ -7,5 +7,12 @@
     "n2": "bonuses",
     "n3": "the bonus",
     "n4": "the bonuses",
-    "n5": "bonus's"
+    "n5": "bonus'",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "bonuses'",
+    "n7": "a bonus",
+    "n8": "many bonuses"
 }

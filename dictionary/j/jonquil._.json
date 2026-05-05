@@ -1,0 +1,18 @@
+{
+    "base": "jonquil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jonquil",
+    "n2": "jonquils",
+    "n3": "the jonquil",
+    "n4": "the jonquils",
+    "n5": "jonquil's",
+    "n6": "jonquils'",
+    "n7": "a jonquil",
+    "n8": "many jonquils"
+}

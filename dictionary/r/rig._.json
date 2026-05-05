@@ -1,0 +1,18 @@
+{
+    "base": "rig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rig",
+    "n2": "rigs",
+    "n3": "the rig",
+    "n4": "the rigs",
+    "n5": "rig's",
+    "n6": "rigs'",
+    "n7": "a rig",
+    "n8": "many rigs"
+}

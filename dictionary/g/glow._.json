@@ -1,11 +1,24 @@
 {
     "base": "glow",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "glow",
     "v2": "glowed",
     "v3": "glowed",
     "v4": "glowing",
-    "v5": "glows"
+    "v5": "glows",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "glow",
+    "n2": "glows",
+    "n3": "the glow",
+    "n4": "the glows",
+    "n5": "glow's",
+    "n6": "glows'",
+    "n7": "a glow",
+    "n8": "many glows"
 }

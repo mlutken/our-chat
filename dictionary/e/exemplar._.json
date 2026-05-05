@@ -1,0 +1,18 @@
+{
+    "base": "exemplar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exemplar",
+    "n2": "exemplars",
+    "n3": "the exemplar",
+    "n4": "the exemplars",
+    "n5": "exemplar's",
+    "n6": "exemplars'",
+    "n7": "an exemplar",
+    "n8": "many exemplars"
+}

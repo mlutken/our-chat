@@ -1,0 +1,18 @@
+{
+    "base": "corpulence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corpulence",
+    "n2": "corpulences",
+    "n3": "the corpulence",
+    "n4": "the corpulences",
+    "n5": "corpulence's",
+    "n6": "corpulences'",
+    "n7": "a corpulence",
+    "n8": "many corpulences"
+}

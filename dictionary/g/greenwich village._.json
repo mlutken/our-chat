@@ -1,0 +1,18 @@
+{
+    "base": "greenwich village",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "greenwich village",
+    "n2": "greenwich villages",
+    "n3": "the greenwich village",
+    "n4": "the greenwich villages",
+    "n5": "greenwich village's",
+    "n6": "greenwich villages'",
+    "n7": "a greenwich village",
+    "n8": "many greenwich villages"
+}

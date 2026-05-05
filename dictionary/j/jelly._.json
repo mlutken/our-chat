@@ -1,0 +1,18 @@
+{
+    "base": "jelly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jelly",
+    "n2": "jellies",
+    "n3": "the jelly",
+    "n4": "the jellies",
+    "n5": "jelly's",
+    "n6": "jellies'",
+    "n7": "a jelly",
+    "n8": "many jellies"
+}

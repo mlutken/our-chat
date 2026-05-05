@@ -1,0 +1,18 @@
+{
+    "base": "ellipsoid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ellipsoid",
+    "n2": "ellipsoids",
+    "n3": "the ellipsoid",
+    "n4": "the ellipsoids",
+    "n5": "ellipsoid's",
+    "n6": "ellipsoids'",
+    "n7": "an ellipsoid",
+    "n8": "many ellipsoids"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "denver",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "denver",
+    "n2": "denvers",
+    "n3": "the denver",
+    "n4": "the denvers",
+    "n5": "denver's",
+    "n6": "denvers'",
+    "n7": "a denver",
+    "n8": "many denvers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hopscotch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hopscotch",
+    "n2": "hopscotches",
+    "n3": "the hopscotch",
+    "n4": "the hopscotches",
+    "n5": "hopscotch's",
+    "n6": "hopscotches'",
+    "n7": "a hopscotch",
+    "n8": "many hopscotches"
+}

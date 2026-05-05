@@ -1,0 +1,18 @@
+{
+    "base": "seeker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seeker",
+    "n2": "seekers",
+    "n3": "the seeker",
+    "n4": "the seekers",
+    "n5": "seeker's",
+    "n6": "seekers'",
+    "n7": "a seeker",
+    "n8": "many seekers"
+}

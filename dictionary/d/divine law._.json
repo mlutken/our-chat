@@ -1,0 +1,18 @@
+{
+    "base": "divine law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "divine law",
+    "n2": "divine laws",
+    "n3": "the divine law",
+    "n4": "the divine laws",
+    "n5": "divine law's",
+    "n6": "divine laws'",
+    "n7": "a divine law",
+    "n8": "many divine laws"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "haberdashery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "haberdashery",
+    "n2": "haberdasheries",
+    "n3": "the haberdashery",
+    "n4": "the haberdasheries",
+    "n5": "haberdashery's",
+    "n6": "haberdasheries'",
+    "n7": "a haberdashery",
+    "n8": "many haberdasheries"
+}

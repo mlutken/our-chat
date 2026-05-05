@@ -1,0 +1,18 @@
+{
+    "base": "social relation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "social relation",
+    "n2": "social relations",
+    "n3": "the social relation",
+    "n4": "the social relations",
+    "n5": "social relation's",
+    "n6": "social relations'",
+    "n7": "a social relation",
+    "n8": "many social relations"
+}

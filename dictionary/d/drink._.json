@@ -13,5 +13,12 @@
     "v2": "drank",
     "v3": "drunk",
     "v4": "drinking",
-    "v5": "drinks"
+    "v5": "drinks",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "drinks'",
+    "n7": "a drink",
+    "n8": "many drinks"
 }

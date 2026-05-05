@@ -1,0 +1,18 @@
+{
+    "base": "lustre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lustre",
+    "n2": "lustra",
+    "n3": "the lustre",
+    "n4": "the lustra",
+    "n5": "lustre's",
+    "n6": "lustra's",
+    "n7": "a lustre",
+    "n8": "many lustra"
+}

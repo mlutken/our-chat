@@ -1,0 +1,18 @@
+{
+    "base": "prevention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "prevention",
+    "n2": "preventions",
+    "n3": "the prevention",
+    "n4": "the preventions",
+    "n5": "prevention's",
+    "n6": "preventions'",
+    "n7": "a prevention",
+    "n8": "many preventions"
+}

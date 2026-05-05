@@ -1,0 +1,18 @@
+{
+    "base": "comic book",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "comic book",
+    "n2": "comic books",
+    "n3": "the comic book",
+    "n4": "the comic books",
+    "n5": "comic book's",
+    "n6": "comic books'",
+    "n7": "a comic book",
+    "n8": "many comic books"
+}

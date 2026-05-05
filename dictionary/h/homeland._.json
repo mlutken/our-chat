@@ -1,0 +1,18 @@
+{
+    "base": "homeland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "homeland",
+    "n2": "homelands",
+    "n3": "the homeland",
+    "n4": "the homelands",
+    "n5": "homeland's",
+    "n6": "homelands'",
+    "n7": "a homeland",
+    "n8": "many homelands"
+}

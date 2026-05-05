@@ -1,0 +1,18 @@
+{
+    "base": "ice chest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ice chest",
+    "n2": "ice chests",
+    "n3": "the ice chest",
+    "n4": "the ice chests",
+    "n5": "ice chest's",
+    "n6": "ice chests'",
+    "n7": "an ice chest",
+    "n8": "many ice chests"
+}

@@ -1,9 +1,22 @@
 {
     "base": "social",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "social",
     "adj2": "more social",
-    "adj3": "most social"
+    "adj3": "most social",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "social",
+    "n2": "socials",
+    "n3": "the social",
+    "n4": "the socials",
+    "n5": "social's",
+    "n6": "socials'",
+    "n7": "a social",
+    "n8": "many socials"
 }

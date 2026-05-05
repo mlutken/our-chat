@@ -1,0 +1,18 @@
+{
+    "base": "appalling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "appalling",
+    "n2": "appallings",
+    "n3": "the appalling",
+    "n4": "the appallings",
+    "n5": "appalling's",
+    "n6": "appallings'",
+    "n7": "an appalling",
+    "n8": "many appallings"
+}

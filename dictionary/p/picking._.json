@@ -1,0 +1,18 @@
+{
+    "base": "picking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picking",
+    "n2": "pickings",
+    "n3": "the picking",
+    "n4": "the pickings",
+    "n5": "picking's",
+    "n6": "pickings'",
+    "n7": "a picking",
+    "n8": "many pickings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "clangor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clangor",
+    "n2": "clangors",
+    "n3": "the clangor",
+    "n4": "the clangors",
+    "n5": "clangor's",
+    "n6": "clangors'",
+    "n7": "a clangor",
+    "n8": "many clangors"
+}

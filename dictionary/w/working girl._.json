@@ -1,0 +1,18 @@
+{
+    "base": "working girl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "working girl",
+    "n2": "working girls",
+    "n3": "the working girl",
+    "n4": "the working girls",
+    "n5": "working girl's",
+    "n6": "working girls'",
+    "n7": "a working girl",
+    "n8": "many working girls"
+}

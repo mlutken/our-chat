@@ -1,0 +1,18 @@
+{
+    "base": "pursued",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pursued",
+    "n2": "pursueds",
+    "n3": "the pursued",
+    "n4": "the pursueds",
+    "n5": "pursued's",
+    "n6": "pursueds'",
+    "n7": "a pursued",
+    "n8": "many pursueds"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shallowness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shallowness",
+    "n2": "shallownesses",
+    "n3": "the shallowness",
+    "n4": "the shallownesses",
+    "n5": "shallowness'",
+    "n6": "shallownesses'",
+    "n7": "a shallowness",
+    "n8": "many shallownesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sniveling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sniveling",
+    "n2": "snivelings",
+    "n3": "the sniveling",
+    "n4": "the snivelings",
+    "n5": "sniveling's",
+    "n6": "snivelings'",
+    "n7": "a sniveling",
+    "n8": "many snivelings"
+}

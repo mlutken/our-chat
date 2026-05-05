@@ -1,0 +1,18 @@
+{
+    "base": "register",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "register",
+    "n2": "registers",
+    "n3": "the register",
+    "n4": "the registers",
+    "n5": "register's",
+    "n6": "registers'",
+    "n7": "a register",
+    "n8": "many registers"
+}

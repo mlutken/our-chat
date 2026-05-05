@@ -1,11 +1,24 @@
 {
     "base": "hop",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "hop",
     "v2": "hopped",
     "v3": "hopped",
     "v4": "hopping",
-    "v5": "hops"
+    "v5": "hops",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hop",
+    "n2": "hops",
+    "n3": "the hop",
+    "n4": "the hops",
+    "n5": "hop's",
+    "n6": "hops'",
+    "n7": "a hop",
+    "n8": "many hops"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "build",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "build",
+    "n2": "builds",
+    "n3": "the build",
+    "n4": "the builds",
+    "n5": "build's",
+    "n6": "builds'",
+    "n7": "a build",
+    "n8": "many builds"
+}

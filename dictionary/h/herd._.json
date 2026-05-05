@@ -1,0 +1,18 @@
+{
+    "base": "herd",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "herd",
+    "n2": "herds",
+    "n3": "the herd",
+    "n4": "the herds",
+    "n5": "herd's",
+    "n6": "herds'",
+    "n7": "a herd",
+    "n8": "many herds"
+}

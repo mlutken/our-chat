@@ -7,5 +7,12 @@
     "n2": "throats",
     "n3": "the throat",
     "n4": "the throats",
-    "n5": "throat's"
+    "n5": "throat's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "throats'",
+    "n7": "a throat",
+    "n8": "many throats"
 }

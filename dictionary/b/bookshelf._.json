@@ -1,0 +1,18 @@
+{
+    "base": "bookshelf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bookshelf",
+    "n2": "bookshelves",
+    "n3": "the bookshelf",
+    "n4": "the bookshelves",
+    "n5": "bookshelf's",
+    "n6": "bookshelves'",
+    "n7": "a bookshelf",
+    "n8": "many bookshelves"
+}

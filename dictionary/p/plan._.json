@@ -13,5 +13,12 @@
     "v2": "planned",
     "v3": "planned",
     "v4": "planning",
-    "v5": "plans"
+    "v5": "plans",
+    "proper": false,
+    "commonness": 79,
+    "max_commonness": 6834,
+    "commonness_ge_count": 169,
+    "n6": "plans'",
+    "n7": "a plan",
+    "n8": "many plans"
 }

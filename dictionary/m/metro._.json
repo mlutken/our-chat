@@ -1,0 +1,18 @@
+{
+    "base": "metro",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "metro",
+    "n2": "metros",
+    "n3": "the metro",
+    "n4": "the metros",
+    "n5": "metro's",
+    "n6": "metros'",
+    "n7": "a metro",
+    "n8": "many metros"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "solvent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solvent",
+    "n2": "solvents",
+    "n3": "the solvent",
+    "n4": "the solvents",
+    "n5": "solvent's",
+    "n6": "solvents'",
+    "n7": "a solvent",
+    "n8": "many solvents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fleck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fleck",
+    "n2": "flecks",
+    "n3": "the fleck",
+    "n4": "the flecks",
+    "n5": "fleck's",
+    "n6": "flecks'",
+    "n7": "a fleck",
+    "n8": "many flecks"
+}

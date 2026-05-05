@@ -1,0 +1,18 @@
+{
+    "base": "somersaulting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "somersaulting",
+    "n2": "somersaultings",
+    "n3": "the somersaulting",
+    "n4": "the somersaultings",
+    "n5": "somersaulting's",
+    "n6": "somersaultings'",
+    "n7": "a somersaulting",
+    "n8": "many somersaultings"
+}

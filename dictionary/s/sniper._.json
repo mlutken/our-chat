@@ -1,0 +1,18 @@
+{
+    "base": "sniper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sniper",
+    "n2": "snipers",
+    "n3": "the sniper",
+    "n4": "the snipers",
+    "n5": "sniper's",
+    "n6": "snipers'",
+    "n7": "a sniper",
+    "n8": "many snipers"
+}

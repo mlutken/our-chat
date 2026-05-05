@@ -1,0 +1,18 @@
+{
+    "base": "ligament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ligament",
+    "n2": "ligaments",
+    "n3": "the ligament",
+    "n4": "the ligaments",
+    "n5": "ligament's",
+    "n6": "ligaments'",
+    "n7": "a ligament",
+    "n8": "many ligaments"
+}

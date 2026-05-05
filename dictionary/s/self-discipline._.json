@@ -1,0 +1,18 @@
+{
+    "base": "self-discipline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-discipline",
+    "n2": "self-disciplines",
+    "n3": "the self-discipline",
+    "n4": "the self-disciplines",
+    "n5": "self-discipline's",
+    "n6": "self-disciplines'",
+    "n7": "a self-discipline",
+    "n8": "many self-disciplines"
+}

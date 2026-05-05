@@ -1,0 +1,18 @@
+{
+    "base": "reversibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reversibility",
+    "n2": "reversibilities",
+    "n3": "the reversibility",
+    "n4": "the reversibilities",
+    "n5": "reversibility's",
+    "n6": "reversibilities'",
+    "n7": "a reversibility",
+    "n8": "many reversibilities"
+}

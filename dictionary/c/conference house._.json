@@ -1,0 +1,18 @@
+{
+    "base": "conference house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conference house",
+    "n2": "conference houses",
+    "n3": "the conference house",
+    "n4": "the conference houses",
+    "n5": "conference house's",
+    "n6": "conference houses'",
+    "n7": "a conference house",
+    "n8": "many conference houses"
+}

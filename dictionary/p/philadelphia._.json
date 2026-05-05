@@ -1,0 +1,18 @@
+{
+    "base": "philadelphia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "philadelphia",
+    "n2": "philadelphias",
+    "n3": "the philadelphia",
+    "n4": "the philadelphias",
+    "n5": "philadelphia's",
+    "n6": "philadelphias'",
+    "n7": "a philadelphia",
+    "n8": "many philadelphias"
+}

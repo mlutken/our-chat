@@ -1,0 +1,18 @@
+{
+    "base": "whip hand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whip hand",
+    "n2": "whip hands",
+    "n3": "the whip hand",
+    "n4": "the whip hands",
+    "n5": "whip hand's",
+    "n6": "whip hands'",
+    "n7": "a whip hand",
+    "n8": "many whip hands"
+}

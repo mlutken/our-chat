@@ -1,0 +1,18 @@
+{
+    "base": "orchard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "orchard",
+    "n2": "orchards",
+    "n3": "the orchard",
+    "n4": "the orchards",
+    "n5": "orchard's",
+    "n6": "orchards'",
+    "n7": "an orchard",
+    "n8": "many orchards"
+}

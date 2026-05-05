@@ -1,0 +1,18 @@
+{
+    "base": "neurotic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neurotic",
+    "n2": "neurotics",
+    "n3": "the neurotic",
+    "n4": "the neurotics",
+    "n5": "neurotic's",
+    "n6": "neurotics'",
+    "n7": "a neurotic",
+    "n8": "many neurotics"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mississippi river",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mississippi river",
+    "n2": "mississippi rivers",
+    "n3": "the mississippi river",
+    "n4": "the mississippi rivers",
+    "n5": "mississippi river's",
+    "n6": "mississippi rivers'",
+    "n7": "a mississippi river",
+    "n8": "many mississippi rivers"
+}

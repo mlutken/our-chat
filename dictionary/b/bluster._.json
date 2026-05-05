@@ -1,0 +1,18 @@
+{
+    "base": "bluster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bluster",
+    "n2": "blusters",
+    "n3": "the bluster",
+    "n4": "the blusters",
+    "n5": "bluster's",
+    "n6": "blusters'",
+    "n7": "a bluster",
+    "n8": "many blusters"
+}

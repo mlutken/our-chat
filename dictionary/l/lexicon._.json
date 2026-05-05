@@ -1,0 +1,18 @@
+{
+    "base": "lexicon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lexicon",
+    "n2": "lexicons",
+    "n3": "the lexicon",
+    "n4": "the lexicons",
+    "n5": "lexicon's",
+    "n6": "lexicons'",
+    "n7": "a lexicon",
+    "n8": "many lexicons"
+}

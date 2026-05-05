@@ -1,0 +1,18 @@
+{
+    "base": "human action",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "human action",
+    "n2": "human actions",
+    "n3": "the human action",
+    "n4": "the human actions",
+    "n5": "human action's",
+    "n6": "human actions'",
+    "n7": "a human action",
+    "n8": "many human actions"
+}

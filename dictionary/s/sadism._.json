@@ -1,0 +1,18 @@
+{
+    "base": "sadism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sadism",
+    "n2": "sadisms",
+    "n3": "the sadism",
+    "n4": "the sadisms",
+    "n5": "sadism's",
+    "n6": "sadisms'",
+    "n7": "a sadism",
+    "n8": "many sadisms"
+}

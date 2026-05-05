@@ -1,0 +1,18 @@
+{
+    "base": "chemical",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "chemical",
+    "n2": "chemicals",
+    "n3": "the chemical",
+    "n4": "the chemicals",
+    "n5": "chemical's",
+    "n6": "chemicals'",
+    "n7": "a chemical",
+    "n8": "many chemicals"
+}

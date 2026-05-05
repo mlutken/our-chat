@@ -1,0 +1,18 @@
+{
+    "base": "scotland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scotland",
+    "n2": "scotlands",
+    "n3": "the scotland",
+    "n4": "the scotlands",
+    "n5": "scotland's",
+    "n6": "scotlands'",
+    "n7": "a scotland",
+    "n8": "many scotlands"
+}

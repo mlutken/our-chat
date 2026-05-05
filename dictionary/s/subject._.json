@@ -7,5 +7,12 @@
     "n2": "subjects",
     "n3": "the subject",
     "n4": "the subjects",
-    "n5": "subject's"
+    "n5": "subject's",
+    "proper": false,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n6": "subjects'",
+    "n7": "a subject",
+    "n8": "many subjects"
 }

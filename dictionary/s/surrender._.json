@@ -1,0 +1,18 @@
+{
+    "base": "surrender",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "surrender",
+    "n2": "surrenders",
+    "n3": "the surrender",
+    "n4": "the surrenders",
+    "n5": "surrender's",
+    "n6": "surrenders'",
+    "n7": "a surrender",
+    "n8": "many surrenders"
+}

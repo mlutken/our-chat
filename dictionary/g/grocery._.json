@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "grocery",
-    "n2": "grocerys",
+    "n2": "groceries",
     "n3": "the grocery",
-    "n4": "the grocerys",
-    "n5": "grocery's"
+    "n4": "the groceries",
+    "n5": "grocery's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "groceries'",
+    "n7": "a grocery",
+    "n8": "many groceries"
 }

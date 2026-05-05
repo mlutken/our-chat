@@ -1,0 +1,18 @@
+{
+    "base": "pulmonary artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "pulmonary artery",
+    "n2": "pulmonary arteries",
+    "n3": "the pulmonary artery",
+    "n4": "the pulmonary arteries",
+    "n5": "pulmonary artery's",
+    "n6": "pulmonary arteries'",
+    "n7": "a pulmonary artery",
+    "n8": "many pulmonary arteries"
+}

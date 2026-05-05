@@ -1,0 +1,18 @@
+{
+    "base": "waiting list",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waiting list",
+    "n2": "waiting lists",
+    "n3": "the waiting list",
+    "n4": "the waiting lists",
+    "n5": "waiting list's",
+    "n6": "waiting lists'",
+    "n7": "a waiting list",
+    "n8": "many waiting lists"
+}

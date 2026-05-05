@@ -1,0 +1,18 @@
+{
+    "base": "consolidation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "consolidation",
+    "n2": "consolidations",
+    "n3": "the consolidation",
+    "n4": "the consolidations",
+    "n5": "consolidation's",
+    "n6": "consolidations'",
+    "n7": "a consolidation",
+    "n8": "many consolidations"
+}

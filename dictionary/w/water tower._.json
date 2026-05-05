@@ -1,0 +1,18 @@
+{
+    "base": "water tower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water tower",
+    "n2": "water towers",
+    "n3": "the water tower",
+    "n4": "the water towers",
+    "n5": "water tower's",
+    "n6": "water towers'",
+    "n7": "a water tower",
+    "n8": "many water towers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "payday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "payday",
+    "n2": "paydays",
+    "n3": "the payday",
+    "n4": "the paydays",
+    "n5": "payday's",
+    "n6": "paydays'",
+    "n7": "a payday",
+    "n8": "many paydays"
+}

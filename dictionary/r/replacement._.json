@@ -7,5 +7,12 @@
     "n2": "replacements",
     "n3": "the replacement",
     "n4": "the replacements",
-    "n5": "replacement's"
+    "n5": "replacement's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "replacements'",
+    "n7": "a replacement",
+    "n8": "many replacements"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "tread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tread",
+    "n2": "treads",
+    "n3": "the tread",
+    "n4": "the treads",
+    "n5": "tread's",
+    "n6": "treads'",
+    "n7": "a tread",
+    "n8": "many treads"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "neutron bomb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neutron bomb",
+    "n2": "neutron bombs",
+    "n3": "the neutron bomb",
+    "n4": "the neutron bombs",
+    "n5": "neutron bomb's",
+    "n6": "neutron bombs'",
+    "n7": "a neutron bomb",
+    "n8": "many neutron bombs"
+}

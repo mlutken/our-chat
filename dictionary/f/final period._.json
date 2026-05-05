@@ -1,0 +1,18 @@
+{
+    "base": "final period",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "final period",
+    "n2": "final periods",
+    "n3": "the final period",
+    "n4": "the final periods",
+    "n5": "final period's",
+    "n6": "final periods'",
+    "n7": "a final period",
+    "n8": "many final periods"
+}

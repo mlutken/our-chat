@@ -7,5 +7,12 @@
     "n2": "respects",
     "n3": "the respect",
     "n4": "the respects",
-    "n5": "respect's"
+    "n5": "respect's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "respects'",
+    "n7": "a respect",
+    "n8": "many respects"
 }

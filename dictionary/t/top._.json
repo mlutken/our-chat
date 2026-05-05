@@ -7,5 +7,12 @@
     "n2": "tops",
     "n3": "the top",
     "n4": "the tops",
-    "n5": "top's"
+    "n5": "top's",
+    "proper": false,
+    "commonness": 53,
+    "max_commonness": 6834,
+    "commonness_ge_count": 300,
+    "n6": "tops'",
+    "n7": "a top",
+    "n8": "many tops"
 }

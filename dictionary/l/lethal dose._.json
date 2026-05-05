@@ -1,0 +1,18 @@
+{
+    "base": "lethal dose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lethal dose",
+    "n2": "lethal doses",
+    "n3": "the lethal dose",
+    "n4": "the lethal doses",
+    "n5": "lethal dose's",
+    "n6": "lethal doses'",
+    "n7": "a lethal dose",
+    "n8": "many lethal doses"
+}

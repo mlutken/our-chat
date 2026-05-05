@@ -1,0 +1,18 @@
+{
+    "base": "scours",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "scours",
+    "n2": "scourses",
+    "n3": "the scours",
+    "n4": "the scourses",
+    "n5": "scours'",
+    "n6": "scourses'",
+    "n7": "a scours",
+    "n8": "many scourses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cheerfulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cheerfulness",
+    "n2": "cheerfulnesses",
+    "n3": "the cheerfulness",
+    "n4": "the cheerfulnesses",
+    "n5": "cheerfulness'",
+    "n6": "cheerfulnesses'",
+    "n7": "a cheerfulness",
+    "n8": "many cheerfulnesses"
+}

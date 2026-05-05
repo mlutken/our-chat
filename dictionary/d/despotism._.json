@@ -1,0 +1,18 @@
+{
+    "base": "despotism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "despotism",
+    "n2": "despotisms",
+    "n3": "the despotism",
+    "n4": "the despotisms",
+    "n5": "despotism's",
+    "n6": "despotisms'",
+    "n7": "a despotism",
+    "n8": "many despotisms"
+}

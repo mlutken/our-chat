@@ -1,0 +1,18 @@
+{
+    "base": "widower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "widower",
+    "n2": "widowers",
+    "n3": "the widower",
+    "n4": "the widowers",
+    "n5": "widower's",
+    "n6": "widowers'",
+    "n7": "a widower",
+    "n8": "many widowers"
+}

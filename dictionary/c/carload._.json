@@ -1,0 +1,18 @@
+{
+    "base": "carload",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carload",
+    "n2": "carloads",
+    "n3": "the carload",
+    "n4": "the carloads",
+    "n5": "carload's",
+    "n6": "carloads'",
+    "n7": "a carload",
+    "n8": "many carloads"
+}

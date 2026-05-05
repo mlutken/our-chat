@@ -1,0 +1,18 @@
+{
+    "base": "trimming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trimming",
+    "n2": "trimmings",
+    "n3": "the trimming",
+    "n4": "the trimmings",
+    "n5": "trimming's",
+    "n6": "trimmings'",
+    "n7": "a trimming",
+    "n8": "many trimmings"
+}

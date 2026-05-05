@@ -1,0 +1,18 @@
+{
+    "base": "swearing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swearing",
+    "n2": "swearings",
+    "n3": "the swearing",
+    "n4": "the swearings",
+    "n5": "swearing's",
+    "n6": "swearings'",
+    "n7": "a swearing",
+    "n8": "many swearings"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "bus",
-    "n2": "bus",
+    "n2": "busses",
     "n3": "the bus",
-    "n4": "the bus",
-    "n5": "bus's"
+    "n4": "the busses",
+    "n5": "bus'",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "busses'",
+    "n7": "a bus",
+    "n8": "many busses"
 }

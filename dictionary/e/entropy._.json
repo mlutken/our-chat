@@ -1,0 +1,18 @@
+{
+    "base": "entropy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "entropy",
+    "n2": "entropies",
+    "n3": "the entropy",
+    "n4": "the entropies",
+    "n5": "entropy's",
+    "n6": "entropies'",
+    "n7": "an entropy",
+    "n8": "many entropies"
+}

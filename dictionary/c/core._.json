@@ -1,0 +1,18 @@
+{
+    "base": "core",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "core",
+    "n2": "cores",
+    "n3": "the core",
+    "n4": "the cores",
+    "n5": "core's",
+    "n6": "cores'",
+    "n7": "a core",
+    "n8": "many cores"
+}

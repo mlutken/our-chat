@@ -1,0 +1,18 @@
+{
+    "base": "idiosyncrasy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "idiosyncrasy",
+    "n2": "idiosyncrasies",
+    "n3": "the idiosyncrasy",
+    "n4": "the idiosyncrasies",
+    "n5": "idiosyncrasy's",
+    "n6": "idiosyncrasies'",
+    "n7": "an idiosyncrasy",
+    "n8": "many idiosyncrasies"
+}

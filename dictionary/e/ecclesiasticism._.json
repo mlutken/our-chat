@@ -1,0 +1,18 @@
+{
+    "base": "ecclesiasticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ecclesiasticism",
+    "n2": "ecclesiasticisms",
+    "n3": "the ecclesiasticism",
+    "n4": "the ecclesiasticisms",
+    "n5": "ecclesiasticism's",
+    "n6": "ecclesiasticisms'",
+    "n7": "an ecclesiasticism",
+    "n8": "many ecclesiasticisms"
+}

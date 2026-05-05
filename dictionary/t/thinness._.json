@@ -1,0 +1,18 @@
+{
+    "base": "thinness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thinness",
+    "n2": "thinnesses",
+    "n3": "the thinness",
+    "n4": "the thinnesses",
+    "n5": "thinness'",
+    "n6": "thinnesses'",
+    "n7": "a thinness",
+    "n8": "many thinnesses"
+}

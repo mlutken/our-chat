@@ -1,0 +1,18 @@
+{
+    "base": "howl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "howl",
+    "n2": "howls",
+    "n3": "the howl",
+    "n4": "the howls",
+    "n5": "howl's",
+    "n6": "howls'",
+    "n7": "a howl",
+    "n8": "many howls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hotelman",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hotelman",
+    "n2": "hotelmen",
+    "n3": "the hotelman",
+    "n4": "the hotelmen",
+    "n5": "hotelman's",
+    "n6": "hotelmen's",
+    "n7": "a hotelman",
+    "n8": "many hotelmen"
+}

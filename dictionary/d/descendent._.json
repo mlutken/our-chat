@@ -1,0 +1,18 @@
+{
+    "base": "descendent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "descendent",
+    "n2": "descendents",
+    "n3": "the descendent",
+    "n4": "the descendents",
+    "n5": "descendent's",
+    "n6": "descendents'",
+    "n7": "a descendent",
+    "n8": "many descendents"
+}

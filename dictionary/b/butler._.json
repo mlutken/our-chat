@@ -1,0 +1,18 @@
+{
+    "base": "butler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "butler",
+    "n2": "butlers",
+    "n3": "the butler",
+    "n4": "the butlers",
+    "n5": "butler's",
+    "n6": "butlers'",
+    "n7": "a butler",
+    "n8": "many butlers"
+}

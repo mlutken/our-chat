@@ -1,0 +1,18 @@
+{
+    "base": "sneer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sneer",
+    "n2": "sneers",
+    "n3": "the sneer",
+    "n4": "the sneers",
+    "n5": "sneer's",
+    "n6": "sneers'",
+    "n7": "a sneer",
+    "n8": "many sneers"
+}

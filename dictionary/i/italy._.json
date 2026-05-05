@@ -1,0 +1,18 @@
+{
+    "base": "italy",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "italy",
+    "n2": "italies",
+    "n3": "the italy",
+    "n4": "the italies",
+    "n5": "italy's",
+    "n6": "italies'",
+    "n7": "an italy",
+    "n8": "many italies"
+}

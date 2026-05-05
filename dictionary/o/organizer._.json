@@ -1,0 +1,18 @@
+{
+    "base": "organizer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "organizer",
+    "n2": "organizers",
+    "n3": "the organizer",
+    "n4": "the organizers",
+    "n5": "organizer's",
+    "n6": "organizers'",
+    "n7": "an organizer",
+    "n8": "many organizers"
+}

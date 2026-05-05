@@ -1,0 +1,18 @@
+{
+    "base": "bastion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bastion",
+    "n2": "bastions",
+    "n3": "the bastion",
+    "n4": "the bastions",
+    "n5": "bastion's",
+    "n6": "bastions'",
+    "n7": "a bastion",
+    "n8": "many bastions"
+}

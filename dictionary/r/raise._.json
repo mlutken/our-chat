@@ -1,11 +1,24 @@
 {
     "base": "raise",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "raise",
     "v2": "raised",
     "v3": "raised",
     "v4": "raising",
-    "v5": "raises"
+    "v5": "raises",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "raise",
+    "n2": "raises",
+    "n3": "the raise",
+    "n4": "the raises",
+    "n5": "raise's",
+    "n6": "raises'",
+    "n7": "a raise",
+    "n8": "many raises"
 }

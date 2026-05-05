@@ -1,0 +1,18 @@
+{
+    "base": "texture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "texture",
+    "n2": "textures",
+    "n3": "the texture",
+    "n4": "the textures",
+    "n5": "texture's",
+    "n6": "textures'",
+    "n7": "a texture",
+    "n8": "many textures"
+}

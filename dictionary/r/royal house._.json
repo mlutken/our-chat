@@ -1,0 +1,18 @@
+{
+    "base": "royal house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "royal house",
+    "n2": "royal houses",
+    "n3": "the royal house",
+    "n4": "the royal houses",
+    "n5": "royal house's",
+    "n6": "royal houses'",
+    "n7": "a royal house",
+    "n8": "many royal houses"
+}

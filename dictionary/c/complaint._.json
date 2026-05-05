@@ -7,5 +7,12 @@
     "n2": "complaints",
     "n3": "the complaint",
     "n4": "the complaints",
-    "n5": "complaint's"
+    "n5": "complaint's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "complaints'",
+    "n7": "a complaint",
+    "n8": "many complaints"
 }

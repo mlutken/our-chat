@@ -1,0 +1,18 @@
+{
+    "base": "apprentice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "apprentice",
+    "n2": "apprentices",
+    "n3": "the apprentice",
+    "n4": "the apprentices",
+    "n5": "apprentice's",
+    "n6": "apprentices'",
+    "n7": "an apprentice",
+    "n8": "many apprentices"
+}

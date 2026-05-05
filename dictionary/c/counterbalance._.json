@@ -1,0 +1,18 @@
+{
+    "base": "counterbalance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "counterbalance",
+    "n2": "counterbalances",
+    "n3": "the counterbalance",
+    "n4": "the counterbalances",
+    "n5": "counterbalance's",
+    "n6": "counterbalances'",
+    "n7": "a counterbalance",
+    "n8": "many counterbalances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rate of pay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rate of pay",
+    "n2": "rate of pays",
+    "n3": "the rate of pay",
+    "n4": "the rate of pays",
+    "n5": "rate of pay's",
+    "n6": "rate of pays'",
+    "n7": "a rate of pay",
+    "n8": "many rate of pays"
+}

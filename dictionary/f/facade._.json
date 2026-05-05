@@ -1,0 +1,18 @@
+{
+    "base": "facade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "facade",
+    "n2": "facades",
+    "n3": "the facade",
+    "n4": "the facades",
+    "n5": "facade's",
+    "n6": "facades'",
+    "n7": "a facade",
+    "n8": "many facades"
+}

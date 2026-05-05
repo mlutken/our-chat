@@ -1,0 +1,18 @@
+{
+    "base": "vowel sound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vowel sound",
+    "n2": "vowel sounds",
+    "n3": "the vowel sound",
+    "n4": "the vowel sounds",
+    "n5": "vowel sound's",
+    "n6": "vowel sounds'",
+    "n7": "a vowel sound",
+    "n8": "many vowel sounds"
+}

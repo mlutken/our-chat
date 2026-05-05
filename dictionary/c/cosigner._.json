@@ -1,0 +1,18 @@
+{
+    "base": "cosigner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cosigner",
+    "n2": "cosigners",
+    "n3": "the cosigner",
+    "n4": "the cosigners",
+    "n5": "cosigner's",
+    "n6": "cosigners'",
+    "n7": "a cosigner",
+    "n8": "many cosigners"
+}

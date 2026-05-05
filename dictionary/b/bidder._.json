@@ -1,0 +1,18 @@
+{
+    "base": "bidder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bidder",
+    "n2": "bidders",
+    "n3": "the bidder",
+    "n4": "the bidders",
+    "n5": "bidder's",
+    "n6": "bidders'",
+    "n7": "a bidder",
+    "n8": "many bidders"
+}

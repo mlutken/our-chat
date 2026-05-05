@@ -1,0 +1,18 @@
+{
+    "base": "rhyme",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rhyme",
+    "n2": "rhymes",
+    "n3": "the rhyme",
+    "n4": "the rhymes",
+    "n5": "rhyme's",
+    "n6": "rhymes'",
+    "n7": "a rhyme",
+    "n8": "many rhymes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "street corner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "street corner",
+    "n2": "street corners",
+    "n3": "the street corner",
+    "n4": "the street corners",
+    "n5": "street corner's",
+    "n6": "street corners'",
+    "n7": "a street corner",
+    "n8": "many street corners"
+}

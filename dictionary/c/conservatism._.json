@@ -1,0 +1,18 @@
+{
+    "base": "conservatism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "conservatism",
+    "n2": "conservatisms",
+    "n3": "the conservatism",
+    "n4": "the conservatisms",
+    "n5": "conservatism's",
+    "n6": "conservatisms'",
+    "n7": "a conservatism",
+    "n8": "many conservatisms"
+}

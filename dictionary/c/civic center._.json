@@ -1,0 +1,18 @@
+{
+    "base": "civic center",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "civic center",
+    "n2": "civic centers",
+    "n3": "the civic center",
+    "n4": "the civic centers",
+    "n5": "civic center's",
+    "n6": "civic centers'",
+    "n7": "a civic center",
+    "n8": "many civic centers"
+}

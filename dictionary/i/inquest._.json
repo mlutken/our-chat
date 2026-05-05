@@ -1,0 +1,18 @@
+{
+    "base": "inquest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inquest",
+    "n2": "inquests",
+    "n3": "the inquest",
+    "n4": "the inquests",
+    "n5": "inquest's",
+    "n6": "inquests'",
+    "n7": "an inquest",
+    "n8": "many inquests"
+}

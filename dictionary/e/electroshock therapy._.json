@@ -1,0 +1,18 @@
+{
+    "base": "electroshock therapy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electroshock therapy",
+    "n2": "electroshock therapies",
+    "n3": "the electroshock therapy",
+    "n4": "the electroshock therapies",
+    "n5": "electroshock therapy's",
+    "n6": "electroshock therapies'",
+    "n7": "an electroshock therapy",
+    "n8": "many electroshock therapies"
+}

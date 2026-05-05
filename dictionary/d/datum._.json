@@ -7,5 +7,12 @@
     "n2": "data",
     "n3": "the datum",
     "n4": "the data",
-    "n5": "datum's"
+    "n5": "datum's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "data's",
+    "n7": "a datum",
+    "n8": "many data"
 }

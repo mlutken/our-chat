@@ -1,0 +1,18 @@
+{
+    "base": "heretic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heretic",
+    "n2": "heretics",
+    "n3": "the heretic",
+    "n4": "the heretics",
+    "n5": "heretic's",
+    "n6": "heretics'",
+    "n7": "a heretic",
+    "n8": "many heretics"
+}

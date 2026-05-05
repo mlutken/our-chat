@@ -1,0 +1,18 @@
+{
+    "base": "pay cut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pay cut",
+    "n2": "pay cuts",
+    "n3": "the pay cut",
+    "n4": "the pay cuts",
+    "n5": "pay cut's",
+    "n6": "pay cuts'",
+    "n7": "a pay cut",
+    "n8": "many pay cuts"
+}

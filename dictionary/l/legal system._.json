@@ -1,0 +1,18 @@
+{
+    "base": "legal system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legal system",
+    "n2": "legal systems",
+    "n3": "the legal system",
+    "n4": "the legal systems",
+    "n5": "legal system's",
+    "n6": "legal systems'",
+    "n7": "a legal system",
+    "n8": "many legal systems"
+}

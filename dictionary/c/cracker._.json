@@ -1,0 +1,18 @@
+{
+    "base": "cracker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cracker",
+    "n2": "crackers",
+    "n3": "the cracker",
+    "n4": "the crackers",
+    "n5": "cracker's",
+    "n6": "crackers'",
+    "n7": "a cracker",
+    "n8": "many crackers"
+}

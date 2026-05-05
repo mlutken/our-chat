@@ -1,0 +1,18 @@
+{
+    "base": "dislocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dislocation",
+    "n2": "dislocations",
+    "n3": "the dislocation",
+    "n4": "the dislocations",
+    "n5": "dislocation's",
+    "n6": "dislocations'",
+    "n7": "a dislocation",
+    "n8": "many dislocations"
+}

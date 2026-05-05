@@ -1,0 +1,18 @@
+{
+    "base": "voyage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "voyage",
+    "n2": "voyages",
+    "n3": "the voyage",
+    "n4": "the voyages",
+    "n5": "voyage's",
+    "n6": "voyages'",
+    "n7": "a voyage",
+    "n8": "many voyages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "swarm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "swarm",
+    "n2": "swarms",
+    "n3": "the swarm",
+    "n4": "the swarms",
+    "n5": "swarm's",
+    "n6": "swarms'",
+    "n7": "a swarm",
+    "n8": "many swarms"
+}

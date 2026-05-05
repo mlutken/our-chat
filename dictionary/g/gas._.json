@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "gas",
-    "n2": "gases",
+    "n2": "gas",
     "n3": "the gas",
-    "n4": "the gases",
-    "n5": "gas's"
+    "n4": "the gas",
+    "n5": "gas'",
+    "proper": false,
+    "commonness": 37,
+    "max_commonness": 6834,
+    "commonness_ge_count": 486,
+    "n6": "gas'",
+    "n7": "a gas",
+    "n8": "many gas"
 }

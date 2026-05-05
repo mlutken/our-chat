@@ -1,0 +1,18 @@
+{
+    "base": "field glasses",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "field glasses",
+    "n2": "field glasseses",
+    "n3": "the field glasses",
+    "n4": "the field glasseses",
+    "n5": "field glasses'",
+    "n6": "field glasseses'",
+    "n7": "a field glasses",
+    "n8": "many field glasseses"
+}

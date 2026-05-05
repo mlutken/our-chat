@@ -1,0 +1,18 @@
+{
+    "base": "cowpuncher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cowpuncher",
+    "n2": "cowpunchers",
+    "n3": "the cowpuncher",
+    "n4": "the cowpunchers",
+    "n5": "cowpuncher's",
+    "n6": "cowpunchers'",
+    "n7": "a cowpuncher",
+    "n8": "many cowpunchers"
+}

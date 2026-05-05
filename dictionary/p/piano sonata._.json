@@ -1,0 +1,18 @@
+{
+    "base": "piano sonata",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piano sonata",
+    "n2": "piano sonatas",
+    "n3": "the piano sonata",
+    "n4": "the piano sonatas",
+    "n5": "piano sonata's",
+    "n6": "piano sonatas'",
+    "n7": "a piano sonata",
+    "n8": "many piano sonatas"
+}

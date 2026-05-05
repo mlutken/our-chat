@@ -1,0 +1,18 @@
+{
+    "base": "clergy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clergy",
+    "n2": "clergies",
+    "n3": "the clergy",
+    "n4": "the clergies",
+    "n5": "clergy's",
+    "n6": "clergies'",
+    "n7": "a clergy",
+    "n8": "many clergies"
+}

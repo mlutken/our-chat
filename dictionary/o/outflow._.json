@@ -1,0 +1,18 @@
+{
+    "base": "outflow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outflow",
+    "n2": "outflows",
+    "n3": "the outflow",
+    "n4": "the outflows",
+    "n5": "outflow's",
+    "n6": "outflows'",
+    "n7": "an outflow",
+    "n8": "many outflows"
+}

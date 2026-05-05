@@ -1,0 +1,18 @@
+{
+    "base": "hoot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hoot",
+    "n2": "hoots",
+    "n3": "the hoot",
+    "n4": "the hoots",
+    "n5": "hoot's",
+    "n6": "hoots'",
+    "n7": "a hoot",
+    "n8": "many hoots"
+}

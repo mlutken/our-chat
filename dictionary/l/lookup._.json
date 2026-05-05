@@ -1,0 +1,18 @@
+{
+    "base": "lookup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "lookup",
+    "n2": "lookups",
+    "n3": "the lookup",
+    "n4": "the lookups",
+    "n5": "lookup's",
+    "n6": "lookups'",
+    "n7": "a lookup",
+    "n8": "many lookups"
+}

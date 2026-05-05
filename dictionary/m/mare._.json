@@ -1,0 +1,18 @@
+{
+    "base": "mare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mare",
+    "n2": "mares",
+    "n3": "the mare",
+    "n4": "the mares",
+    "n5": "mare's",
+    "n6": "mares'",
+    "n7": "a mare",
+    "n8": "many mares"
+}

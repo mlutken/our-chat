@@ -1,0 +1,18 @@
+{
+    "base": "closure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "closure",
+    "n2": "closures",
+    "n3": "the closure",
+    "n4": "the closures",
+    "n5": "closure's",
+    "n6": "closures'",
+    "n7": "a closure",
+    "n8": "many closures"
+}

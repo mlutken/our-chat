@@ -1,0 +1,18 @@
+{
+    "base": "infidelity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "infidelity",
+    "n2": "infidelities",
+    "n3": "the infidelity",
+    "n4": "the infidelities",
+    "n5": "infidelity's",
+    "n6": "infidelities'",
+    "n7": "an infidelity",
+    "n8": "many infidelities"
+}

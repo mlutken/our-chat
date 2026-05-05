@@ -1,0 +1,18 @@
+{
+    "base": "agriculture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "agriculture",
+    "n2": "agricultures",
+    "n3": "the agriculture",
+    "n4": "the agricultures",
+    "n5": "agriculture's",
+    "n6": "agricultures'",
+    "n7": "an agriculture",
+    "n8": "many agricultures"
+}

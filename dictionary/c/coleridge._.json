@@ -1,0 +1,18 @@
+{
+    "base": "coleridge",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coleridge",
+    "n2": "coleridges",
+    "n3": "the coleridge",
+    "n4": "the coleridges",
+    "n5": "coleridge's",
+    "n6": "coleridges'",
+    "n7": "a coleridge",
+    "n8": "many coleridges"
+}

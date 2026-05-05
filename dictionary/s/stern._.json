@@ -1,0 +1,18 @@
+{
+    "base": "stern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stern",
+    "n2": "sterns",
+    "n3": "the stern",
+    "n4": "the sterns",
+    "n5": "stern's",
+    "n6": "sterns'",
+    "n7": "a stern",
+    "n8": "many sterns"
+}

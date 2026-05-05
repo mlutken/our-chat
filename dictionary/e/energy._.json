@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "energy",
-    "n2": "energys",
+    "n2": "energies",
     "n3": "the energy",
-    "n4": "the energys",
-    "n5": "energy's"
+    "n4": "the energies",
+    "n5": "energy's",
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n6": "energies'",
+    "n7": "an energy",
+    "n8": "many energies"
 }

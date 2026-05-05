@@ -1,0 +1,18 @@
+{
+    "base": "gingham",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gingham",
+    "n2": "ginghams",
+    "n3": "the gingham",
+    "n4": "the ginghams",
+    "n5": "gingham's",
+    "n6": "ginghams'",
+    "n7": "a gingham",
+    "n8": "many ginghams"
+}

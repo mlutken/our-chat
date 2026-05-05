@@ -1,0 +1,18 @@
+{
+    "base": "cleaning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "cleaning",
+    "n2": "cleanings",
+    "n3": "the cleaning",
+    "n4": "the cleanings",
+    "n5": "cleaning's",
+    "n6": "cleanings'",
+    "n7": "a cleaning",
+    "n8": "many cleanings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dissolving agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dissolving agent",
+    "n2": "dissolving agents",
+    "n3": "the dissolving agent",
+    "n4": "the dissolving agents",
+    "n5": "dissolving agent's",
+    "n6": "dissolving agents'",
+    "n7": "a dissolving agent",
+    "n8": "many dissolving agents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "roaring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "roaring",
+    "n2": "roarings",
+    "n3": "the roaring",
+    "n4": "the roarings",
+    "n5": "roaring's",
+    "n6": "roarings'",
+    "n7": "a roaring",
+    "n8": "many roarings"
+}

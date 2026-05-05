@@ -1,0 +1,18 @@
+{
+    "base": "xenon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "xenon",
+    "n2": "xenons",
+    "n3": "the xenon",
+    "n4": "the xenons",
+    "n5": "xenon's",
+    "n6": "xenons'",
+    "n7": "a xenon",
+    "n8": "many xenons"
+}

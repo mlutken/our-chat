@@ -1,0 +1,18 @@
+{
+    "base": "continuum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "continuum",
+    "n2": "continua",
+    "n3": "the continuum",
+    "n4": "the continua",
+    "n5": "continuum's",
+    "n6": "continua's",
+    "n7": "a continuum",
+    "n8": "many continua"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "crevice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crevice",
+    "n2": "crevices",
+    "n3": "the crevice",
+    "n4": "the crevices",
+    "n5": "crevice's",
+    "n6": "crevices'",
+    "n7": "a crevice",
+    "n8": "many crevices"
+}

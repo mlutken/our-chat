@@ -1,0 +1,18 @@
+{
+    "base": "agitation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "agitation",
+    "n2": "agitations",
+    "n3": "the agitation",
+    "n4": "the agitations",
+    "n5": "agitation's",
+    "n6": "agitations'",
+    "n7": "an agitation",
+    "n8": "many agitations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bonfire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bonfire",
+    "n2": "bonfires",
+    "n3": "the bonfire",
+    "n4": "the bonfires",
+    "n5": "bonfire's",
+    "n6": "bonfires'",
+    "n7": "a bonfire",
+    "n8": "many bonfires"
+}

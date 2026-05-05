@@ -1,0 +1,18 @@
+{
+    "base": "lump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "lump",
+    "n2": "lumps",
+    "n3": "the lump",
+    "n4": "the lumps",
+    "n5": "lump's",
+    "n6": "lumps'",
+    "n7": "a lump",
+    "n8": "many lumps"
+}

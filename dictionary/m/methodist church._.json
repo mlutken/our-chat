@@ -1,0 +1,18 @@
+{
+    "base": "methodist church",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "methodist church",
+    "n2": "methodist churches",
+    "n3": "the methodist church",
+    "n4": "the methodist churches",
+    "n5": "methodist church's",
+    "n6": "methodist churches'",
+    "n7": "a methodist church",
+    "n8": "many methodist churches"
+}

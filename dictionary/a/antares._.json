@@ -1,0 +1,18 @@
+{
+    "base": "antares",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "antares",
+    "n2": "antareses",
+    "n3": "the antares",
+    "n4": "the antareses",
+    "n5": "antares'",
+    "n6": "antareses'",
+    "n7": "an antares",
+    "n8": "many antareses"
+}

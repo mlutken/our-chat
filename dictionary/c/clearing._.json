@@ -1,0 +1,18 @@
+{
+    "base": "clearing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "clearing",
+    "n2": "clearings",
+    "n3": "the clearing",
+    "n4": "the clearings",
+    "n5": "clearing's",
+    "n6": "clearings'",
+    "n7": "a clearing",
+    "n8": "many clearings"
+}

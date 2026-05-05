@@ -1,0 +1,18 @@
+{
+    "base": "sidewalk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "sidewalk",
+    "n2": "sidewalks",
+    "n3": "the sidewalk",
+    "n4": "the sidewalks",
+    "n5": "sidewalk's",
+    "n6": "sidewalks'",
+    "n7": "a sidewalk",
+    "n8": "many sidewalks"
+}

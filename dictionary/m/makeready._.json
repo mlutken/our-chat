@@ -1,0 +1,18 @@
+{
+    "base": "makeready",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "makeready",
+    "n2": "makereadies",
+    "n3": "the makeready",
+    "n4": "the makereadies",
+    "n5": "makeready's",
+    "n6": "makereadies'",
+    "n7": "a makeready",
+    "n8": "many makereadies"
+}

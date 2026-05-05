@@ -1,0 +1,18 @@
+{
+    "base": "graphite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "graphite",
+    "n2": "graphites",
+    "n3": "the graphite",
+    "n4": "the graphites",
+    "n5": "graphite's",
+    "n6": "graphites'",
+    "n7": "a graphite",
+    "n8": "many graphites"
+}

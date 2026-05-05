@@ -1,0 +1,18 @@
+{
+    "base": "requisition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "requisition",
+    "n2": "requisitions",
+    "n3": "the requisition",
+    "n4": "the requisitions",
+    "n5": "requisition's",
+    "n6": "requisitions'",
+    "n7": "a requisition",
+    "n8": "many requisitions"
+}

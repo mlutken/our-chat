@@ -1,0 +1,18 @@
+{
+    "base": "booty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "booty",
+    "n2": "booties",
+    "n3": "the booty",
+    "n4": "the booties",
+    "n5": "booty's",
+    "n6": "booties'",
+    "n7": "a booty",
+    "n8": "many booties"
+}

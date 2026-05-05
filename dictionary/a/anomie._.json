@@ -1,0 +1,18 @@
+{
+    "base": "anomie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anomie",
+    "n2": "anomies",
+    "n3": "the anomie",
+    "n4": "the anomies",
+    "n5": "anomie's",
+    "n6": "anomies'",
+    "n7": "an anomie",
+    "n8": "many anomies"
+}

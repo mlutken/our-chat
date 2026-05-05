@@ -1,0 +1,18 @@
+{
+    "base": "helper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "helper",
+    "n2": "helpers",
+    "n3": "the helper",
+    "n4": "the helpers",
+    "n5": "helper's",
+    "n6": "helpers'",
+    "n7": "a helper",
+    "n8": "many helpers"
+}

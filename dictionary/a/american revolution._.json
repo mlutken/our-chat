@@ -1,0 +1,18 @@
+{
+    "base": "american revolution",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "american revolution",
+    "n2": "american revolutions",
+    "n3": "the american revolution",
+    "n4": "the american revolutions",
+    "n5": "american revolution's",
+    "n6": "american revolutions'",
+    "n7": "an american revolution",
+    "n8": "many american revolutions"
+}

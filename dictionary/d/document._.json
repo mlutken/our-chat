@@ -7,5 +7,12 @@
     "n2": "documents",
     "n3": "the document",
     "n4": "the documents",
-    "n5": "document's"
+    "n5": "document's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "documents'",
+    "n7": "a document",
+    "n8": "many documents"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "ten",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "ten",
+    "n2": "tens",
+    "n3": "the ten",
+    "n4": "the tens",
+    "n5": "ten's",
+    "n6": "tens'",
+    "n7": "a ten",
+    "n8": "many tens"
+}

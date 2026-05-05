@@ -1,0 +1,18 @@
+{
+    "base": "sally",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sally",
+    "n2": "sallies",
+    "n3": "the sally",
+    "n4": "the sallies",
+    "n5": "sally's",
+    "n6": "sallies'",
+    "n7": "a sally",
+    "n8": "many sallies"
+}

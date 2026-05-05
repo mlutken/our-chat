@@ -1,0 +1,18 @@
+{
+    "base": "dressing room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "dressing room",
+    "n2": "dressing rooms",
+    "n3": "the dressing room",
+    "n4": "the dressing rooms",
+    "n5": "dressing room's",
+    "n6": "dressing rooms'",
+    "n7": "a dressing room",
+    "n8": "many dressing rooms"
+}

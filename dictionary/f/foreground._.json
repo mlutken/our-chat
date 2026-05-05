@@ -1,0 +1,18 @@
+{
+    "base": "foreground",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "foreground",
+    "n2": "foregrounds",
+    "n3": "the foreground",
+    "n4": "the foregrounds",
+    "n5": "foreground's",
+    "n6": "foregrounds'",
+    "n7": "a foreground",
+    "n8": "many foregrounds"
+}

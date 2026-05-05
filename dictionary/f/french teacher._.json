@@ -1,0 +1,18 @@
+{
+    "base": "french teacher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "french teacher",
+    "n2": "french teachers",
+    "n3": "the french teacher",
+    "n4": "the french teachers",
+    "n5": "french teacher's",
+    "n6": "french teachers'",
+    "n7": "a french teacher",
+    "n8": "many french teachers"
+}

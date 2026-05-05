@@ -1,0 +1,18 @@
+{
+    "base": "talking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "talking",
+    "n2": "talkings",
+    "n3": "the talking",
+    "n4": "the talkings",
+    "n5": "talking's",
+    "n6": "talkings'",
+    "n7": "a talking",
+    "n8": "many talkings"
+}

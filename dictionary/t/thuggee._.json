@@ -1,0 +1,18 @@
+{
+    "base": "thuggee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thuggee",
+    "n2": "thuggees",
+    "n3": "the thuggee",
+    "n4": "the thuggees",
+    "n5": "thuggee's",
+    "n6": "thuggees'",
+    "n7": "a thuggee",
+    "n8": "many thuggees"
+}

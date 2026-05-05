@@ -1,0 +1,18 @@
+{
+    "base": "calendar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "calendar",
+    "n2": "calendars",
+    "n3": "the calendar",
+    "n4": "the calendars",
+    "n5": "calendar's",
+    "n6": "calendars'",
+    "n7": "a calendar",
+    "n8": "many calendars"
+}

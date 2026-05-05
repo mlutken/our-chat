@@ -1,0 +1,18 @@
+{
+    "base": "high time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "high time",
+    "n2": "high times",
+    "n3": "the high time",
+    "n4": "the high times",
+    "n5": "high time's",
+    "n6": "high times'",
+    "n7": "a high time",
+    "n8": "many high times"
+}

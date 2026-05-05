@@ -1,0 +1,18 @@
+{
+    "base": "stucco",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stucco",
+    "n2": "stuccoes",
+    "n3": "the stucco",
+    "n4": "the stuccoes",
+    "n5": "stucco's",
+    "n6": "stuccoes'",
+    "n7": "a stucco",
+    "n8": "many stuccoes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "figurine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "figurine",
+    "n2": "figurines",
+    "n3": "the figurine",
+    "n4": "the figurines",
+    "n5": "figurine's",
+    "n6": "figurines'",
+    "n7": "a figurine",
+    "n8": "many figurines"
+}

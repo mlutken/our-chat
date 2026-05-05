@@ -1,0 +1,18 @@
+{
+    "base": "post office",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "post office",
+    "n2": "post offices",
+    "n3": "the post office",
+    "n4": "the post offices",
+    "n5": "post office's",
+    "n6": "post offices'",
+    "n7": "a post office",
+    "n8": "many post offices"
+}

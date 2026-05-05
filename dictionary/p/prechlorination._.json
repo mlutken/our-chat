@@ -1,0 +1,18 @@
+{
+    "base": "prechlorination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prechlorination",
+    "n2": "prechlorinations",
+    "n3": "the prechlorination",
+    "n4": "the prechlorinations",
+    "n5": "prechlorination's",
+    "n6": "prechlorinations'",
+    "n7": "a prechlorination",
+    "n8": "many prechlorinations"
+}

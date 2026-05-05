@@ -1,0 +1,18 @@
+{
+    "base": "blackness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "blackness",
+    "n2": "blacknesses",
+    "n3": "the blackness",
+    "n4": "the blacknesses",
+    "n5": "blackness'",
+    "n6": "blacknesses'",
+    "n7": "a blackness",
+    "n8": "many blacknesses"
+}

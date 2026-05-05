@@ -1,0 +1,18 @@
+{
+    "base": "condescension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "condescension",
+    "n2": "condescensions",
+    "n3": "the condescension",
+    "n4": "the condescensions",
+    "n5": "condescension's",
+    "n6": "condescensions'",
+    "n7": "a condescension",
+    "n8": "many condescensions"
+}

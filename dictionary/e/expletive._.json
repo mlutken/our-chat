@@ -1,0 +1,18 @@
+{
+    "base": "expletive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "expletive",
+    "n2": "expletives",
+    "n3": "the expletive",
+    "n4": "the expletives",
+    "n5": "expletive's",
+    "n6": "expletives'",
+    "n7": "an expletive",
+    "n8": "many expletives"
+}

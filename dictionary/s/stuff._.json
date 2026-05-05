@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "stuff",
-    "n2": "stuffs",
+    "n2": "stufves",
     "n3": "the stuff",
-    "n4": "the stuffs",
-    "n5": "stuff's"
+    "n4": "the stufves",
+    "n5": "stuff's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "stufves'",
+    "n7": "a stuff",
+    "n8": "many stufves"
 }

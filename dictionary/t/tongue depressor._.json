@@ -1,0 +1,18 @@
+{
+    "base": "tongue depressor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tongue depressor",
+    "n2": "tongue depressors",
+    "n3": "the tongue depressor",
+    "n4": "the tongue depressors",
+    "n5": "tongue depressor's",
+    "n6": "tongue depressors'",
+    "n7": "a tongue depressor",
+    "n8": "many tongue depressors"
+}

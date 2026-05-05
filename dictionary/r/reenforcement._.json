@@ -1,0 +1,18 @@
+{
+    "base": "reenforcement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reenforcement",
+    "n2": "reenforcements",
+    "n3": "the reenforcement",
+    "n4": "the reenforcements",
+    "n5": "reenforcement's",
+    "n6": "reenforcements'",
+    "n7": "a reenforcement",
+    "n8": "many reenforcements"
+}

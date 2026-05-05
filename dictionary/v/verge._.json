@@ -1,0 +1,18 @@
+{
+    "base": "verge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "verge",
+    "n2": "verges",
+    "n3": "the verge",
+    "n4": "the verges",
+    "n5": "verge's",
+    "n6": "verges'",
+    "n7": "a verge",
+    "n8": "many verges"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "meteor stream",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "meteor stream",
+    "n2": "meteor streams",
+    "n3": "the meteor stream",
+    "n4": "the meteor streams",
+    "n5": "meteor stream's",
+    "n6": "meteor streams'",
+    "n7": "a meteor stream",
+    "n8": "many meteor streams"
+}

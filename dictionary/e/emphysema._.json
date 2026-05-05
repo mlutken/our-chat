@@ -1,0 +1,18 @@
+{
+    "base": "emphysema",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "emphysema",
+    "n2": "emphysemas",
+    "n3": "the emphysema",
+    "n4": "the emphysemas",
+    "n5": "emphysema's",
+    "n6": "emphysemas'",
+    "n7": "an emphysema",
+    "n8": "many emphysemas"
+}

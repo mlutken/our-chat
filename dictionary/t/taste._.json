@@ -1,11 +1,24 @@
 {
     "base": "taste",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "taste",
     "v2": "tasted",
     "v3": "tasted",
     "v4": "tasting",
-    "v5": "tastes"
+    "v5": "tastes",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "taste",
+    "n2": "tastes",
+    "n3": "the taste",
+    "n4": "the tastes",
+    "n5": "taste's",
+    "n6": "tastes'",
+    "n7": "a taste",
+    "n8": "many tastes"
 }

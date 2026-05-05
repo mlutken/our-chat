@@ -1,0 +1,18 @@
+{
+    "base": "cupboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cupboard",
+    "n2": "cupboards",
+    "n3": "the cupboard",
+    "n4": "the cupboards",
+    "n5": "cupboard's",
+    "n6": "cupboards'",
+    "n7": "a cupboard",
+    "n8": "many cupboards"
+}

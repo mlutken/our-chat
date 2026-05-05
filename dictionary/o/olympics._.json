@@ -1,0 +1,18 @@
+{
+    "base": "olympics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "olympics",
+    "n2": "olympicses",
+    "n3": "the olympics",
+    "n4": "the olympicses",
+    "n5": "olympics'",
+    "n6": "olympicses'",
+    "n7": "an olympics",
+    "n8": "many olympicses"
+}

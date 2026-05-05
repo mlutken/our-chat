@@ -1,0 +1,18 @@
+{
+    "base": "time machine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "time machine",
+    "n2": "time machines",
+    "n3": "the time machine",
+    "n4": "the time machines",
+    "n5": "time machine's",
+    "n6": "time machines'",
+    "n7": "a time machine",
+    "n8": "many time machines"
+}

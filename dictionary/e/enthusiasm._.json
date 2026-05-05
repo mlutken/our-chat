@@ -7,5 +7,12 @@
     "n2": "enthusiasms",
     "n3": "the enthusiasm",
     "n4": "the enthusiasms",
-    "n5": "enthusiasm's"
+    "n5": "enthusiasm's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "enthusiasms'",
+    "n7": "an enthusiasm",
+    "n8": "many enthusiasms"
 }

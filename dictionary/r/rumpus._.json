@@ -1,0 +1,18 @@
+{
+    "base": "rumpus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rumpus",
+    "n2": "rumpuses",
+    "n3": "the rumpus",
+    "n4": "the rumpuses",
+    "n5": "rumpus'",
+    "n6": "rumpuses'",
+    "n7": "a rumpus",
+    "n8": "many rumpuses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "oxford english",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oxford english",
+    "n2": "oxford englishes",
+    "n3": "the oxford english",
+    "n4": "the oxford englishes",
+    "n5": "oxford english's",
+    "n6": "oxford englishes'",
+    "n7": "an oxford english",
+    "n8": "many oxford englishes"
+}

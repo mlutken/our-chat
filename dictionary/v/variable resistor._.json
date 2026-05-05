@@ -1,0 +1,18 @@
+{
+    "base": "variable resistor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "variable resistor",
+    "n2": "variable resistors",
+    "n3": "the variable resistor",
+    "n4": "the variable resistors",
+    "n5": "variable resistor's",
+    "n6": "variable resistors'",
+    "n7": "a variable resistor",
+    "n8": "many variable resistors"
+}

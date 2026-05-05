@@ -1,0 +1,18 @@
+{
+    "base": "corpus delicti",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corpus delicti",
+    "n2": "corpus delictis",
+    "n3": "the corpus delicti",
+    "n4": "the corpus delictis",
+    "n5": "corpus delicti's",
+    "n6": "corpus delictis'",
+    "n7": "a corpus delicti",
+    "n8": "many corpus delictis"
+}

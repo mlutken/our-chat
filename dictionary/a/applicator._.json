@@ -1,0 +1,18 @@
+{
+    "base": "applicator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "applicator",
+    "n2": "applicators",
+    "n3": "the applicator",
+    "n4": "the applicators",
+    "n5": "applicator's",
+    "n6": "applicators'",
+    "n7": "an applicator",
+    "n8": "many applicators"
+}

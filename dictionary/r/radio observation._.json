@@ -1,0 +1,18 @@
+{
+    "base": "radio observation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "radio observation",
+    "n2": "radio observations",
+    "n3": "the radio observation",
+    "n4": "the radio observations",
+    "n5": "radio observation's",
+    "n6": "radio observations'",
+    "n7": "a radio observation",
+    "n8": "many radio observations"
+}

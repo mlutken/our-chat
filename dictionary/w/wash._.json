@@ -1,11 +1,24 @@
 {
     "base": "wash",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wash",
     "v2": "washed",
     "v3": "washed",
     "v4": "washing",
-    "v5": "washes"
+    "v5": "washes",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "wash",
+    "n2": "washes",
+    "n3": "the wash",
+    "n4": "the washes",
+    "n5": "wash's",
+    "n6": "washes'",
+    "n7": "a wash",
+    "n8": "many washes"
 }

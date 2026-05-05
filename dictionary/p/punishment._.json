@@ -1,0 +1,18 @@
+{
+    "base": "punishment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "punishment",
+    "n2": "punishments",
+    "n3": "the punishment",
+    "n4": "the punishments",
+    "n5": "punishment's",
+    "n6": "punishments'",
+    "n7": "a punishment",
+    "n8": "many punishments"
+}

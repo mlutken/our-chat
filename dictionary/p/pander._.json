@@ -1,0 +1,18 @@
+{
+    "base": "pander",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pander",
+    "n2": "panders",
+    "n3": "the pander",
+    "n4": "the panders",
+    "n5": "pander's",
+    "n6": "panders'",
+    "n7": "a pander",
+    "n8": "many panders"
+}

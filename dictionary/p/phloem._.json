@@ -1,0 +1,18 @@
+{
+    "base": "phloem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phloem",
+    "n2": "phloems",
+    "n3": "the phloem",
+    "n4": "the phloems",
+    "n5": "phloem's",
+    "n6": "phloems'",
+    "n7": "a phloem",
+    "n8": "many phloems"
+}

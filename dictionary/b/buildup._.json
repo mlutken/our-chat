@@ -1,0 +1,18 @@
+{
+    "base": "buildup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "buildup",
+    "n2": "buildups",
+    "n3": "the buildup",
+    "n4": "the buildups",
+    "n5": "buildup's",
+    "n6": "buildups'",
+    "n7": "a buildup",
+    "n8": "many buildups"
+}

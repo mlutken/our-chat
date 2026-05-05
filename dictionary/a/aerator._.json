@@ -1,0 +1,18 @@
+{
+    "base": "aerator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "aerator",
+    "n2": "aerators",
+    "n3": "the aerator",
+    "n4": "the aerators",
+    "n5": "aerator's",
+    "n6": "aerators'",
+    "n7": "an aerator",
+    "n8": "many aerators"
+}

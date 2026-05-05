@@ -1,0 +1,18 @@
+{
+    "base": "great power",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "great power",
+    "n2": "great powers",
+    "n3": "the great power",
+    "n4": "the great powers",
+    "n5": "great power's",
+    "n6": "great powers'",
+    "n7": "a great power",
+    "n8": "many great powers"
+}

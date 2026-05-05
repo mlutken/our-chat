@@ -1,0 +1,18 @@
+{
+    "base": "living arrangement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "living arrangement",
+    "n2": "living arrangements",
+    "n3": "the living arrangement",
+    "n4": "the living arrangements",
+    "n5": "living arrangement's",
+    "n6": "living arrangements'",
+    "n7": "a living arrangement",
+    "n8": "many living arrangements"
+}

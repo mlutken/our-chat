@@ -7,5 +7,12 @@
     "n2": "campaigns",
     "n3": "the campaign",
     "n4": "the campaigns",
-    "n5": "campaign's"
+    "n5": "campaign's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "campaigns'",
+    "n7": "a campaign",
+    "n8": "many campaigns"
 }

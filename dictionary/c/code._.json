@@ -1,0 +1,18 @@
+{
+    "base": "code",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "code",
+    "n2": "codes",
+    "n3": "the code",
+    "n4": "the codes",
+    "n5": "code's",
+    "n6": "codes'",
+    "n7": "a code",
+    "n8": "many codes"
+}

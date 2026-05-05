@@ -1,0 +1,18 @@
+{
+    "base": "tuesday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "tuesday",
+    "n2": "tuesdays",
+    "n3": "the tuesday",
+    "n4": "the tuesdays",
+    "n5": "tuesday's",
+    "n6": "tuesdays'",
+    "n7": "a tuesday",
+    "n8": "many tuesdays"
+}

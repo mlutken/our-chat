@@ -1,11 +1,24 @@
 {
     "base": "double",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "double",
     "v2": "doubled",
     "v3": "doubled",
     "v4": "doubling",
-    "v5": "doubles"
+    "v5": "doubles",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "double",
+    "n2": "doubles",
+    "n3": "the double",
+    "n4": "the doubles",
+    "n5": "double's",
+    "n6": "doubles'",
+    "n7": "a double",
+    "n8": "many doubles"
 }

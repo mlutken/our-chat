@@ -1,0 +1,18 @@
+{
+    "base": "out-of-doors",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "out-of-doors",
+    "n2": "out-of-doorses",
+    "n3": "the out-of-doors",
+    "n4": "the out-of-doorses",
+    "n5": "out-of-doors'",
+    "n6": "out-of-doorses'",
+    "n7": "an out-of-doors",
+    "n8": "many out-of-doorses"
+}

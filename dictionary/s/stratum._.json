@@ -7,5 +7,12 @@
     "n2": "strata",
     "n3": "the stratum",
     "n4": "the strata",
-    "n5": "stratum's"
+    "n5": "stratum's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "strata's",
+    "n7": "a stratum",
+    "n8": "many strata"
 }

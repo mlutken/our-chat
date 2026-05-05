@@ -1,0 +1,18 @@
+{
+    "base": "lunation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lunation",
+    "n2": "lunations",
+    "n3": "the lunation",
+    "n4": "the lunations",
+    "n5": "lunation's",
+    "n6": "lunations'",
+    "n7": "a lunation",
+    "n8": "many lunations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aloneness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aloneness",
+    "n2": "alonenesses",
+    "n3": "the aloneness",
+    "n4": "the alonenesses",
+    "n5": "aloneness'",
+    "n6": "alonenesses'",
+    "n7": "an aloneness",
+    "n8": "many alonenesses"
+}

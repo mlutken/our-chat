@@ -1,0 +1,18 @@
+{
+    "base": "mineral oil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mineral oil",
+    "n2": "mineral oils",
+    "n3": "the mineral oil",
+    "n4": "the mineral oils",
+    "n5": "mineral oil's",
+    "n6": "mineral oils'",
+    "n7": "a mineral oil",
+    "n8": "many mineral oils"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ex-husband",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ex-husband",
+    "n2": "ex-husbands",
+    "n3": "the ex-husband",
+    "n4": "the ex-husbands",
+    "n5": "ex-husband's",
+    "n6": "ex-husbands'",
+    "n7": "an ex-husband",
+    "n8": "many ex-husbands"
+}

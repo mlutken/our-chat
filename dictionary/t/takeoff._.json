@@ -1,0 +1,18 @@
+{
+    "base": "takeoff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "takeoff",
+    "n2": "takeofves",
+    "n3": "the takeoff",
+    "n4": "the takeofves",
+    "n5": "takeoff's",
+    "n6": "takeofves'",
+    "n7": "a takeoff",
+    "n8": "many takeofves"
+}

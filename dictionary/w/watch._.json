@@ -1,11 +1,24 @@
 {
     "base": "watch",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "watch",
     "v2": "watched",
     "v3": "watched",
     "v4": "watching",
-    "v5": "watches"
+    "v5": "watches",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "watch",
+    "n2": "watches",
+    "n3": "the watch",
+    "n4": "the watches",
+    "n5": "watch's",
+    "n6": "watches'",
+    "n7": "a watch",
+    "n8": "many watches"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "blob",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blob",
+    "n2": "blobs",
+    "n3": "the blob",
+    "n4": "the blobs",
+    "n5": "blob's",
+    "n6": "blobs'",
+    "n7": "a blob",
+    "n8": "many blobs"
+}

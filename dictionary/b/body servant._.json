@@ -1,0 +1,18 @@
+{
+    "base": "body servant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "body servant",
+    "n2": "body servants",
+    "n3": "the body servant",
+    "n4": "the body servants",
+    "n5": "body servant's",
+    "n6": "body servants'",
+    "n7": "a body servant",
+    "n8": "many body servants"
+}

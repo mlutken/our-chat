@@ -1,0 +1,18 @@
+{
+    "base": "mama",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "mama",
+    "n2": "mamas",
+    "n3": "the mama",
+    "n4": "the mamas",
+    "n5": "mama's",
+    "n6": "mamas'",
+    "n7": "a mama",
+    "n8": "many mamas"
+}

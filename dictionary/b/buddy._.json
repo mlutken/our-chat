@@ -1,0 +1,18 @@
+{
+    "base": "buddy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "buddy",
+    "n2": "buddies",
+    "n3": "the buddy",
+    "n4": "the buddies",
+    "n5": "buddy's",
+    "n6": "buddies'",
+    "n7": "a buddy",
+    "n8": "many buddies"
+}

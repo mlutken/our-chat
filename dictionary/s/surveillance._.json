@@ -1,0 +1,18 @@
+{
+    "base": "surveillance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "surveillance",
+    "n2": "surveillances",
+    "n3": "the surveillance",
+    "n4": "the surveillances",
+    "n5": "surveillance's",
+    "n6": "surveillances'",
+    "n7": "a surveillance",
+    "n8": "many surveillances"
+}

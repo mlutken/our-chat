@@ -1,0 +1,18 @@
+{
+    "base": "gegenschein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gegenschein",
+    "n2": "gegenscheins",
+    "n3": "the gegenschein",
+    "n4": "the gegenscheins",
+    "n5": "gegenschein's",
+    "n6": "gegenscheins'",
+    "n7": "a gegenschein",
+    "n8": "many gegenscheins"
+}

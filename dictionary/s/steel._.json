@@ -1,0 +1,18 @@
+{
+    "base": "steel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "steel",
+    "n2": "steels",
+    "n3": "the steel",
+    "n4": "the steels",
+    "n5": "steel's",
+    "n6": "steels'",
+    "n7": "a steel",
+    "n8": "many steels"
+}

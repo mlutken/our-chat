@@ -1,0 +1,18 @@
+{
+    "base": "ideologist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ideologist",
+    "n2": "ideologists",
+    "n3": "the ideologist",
+    "n4": "the ideologists",
+    "n5": "ideologist's",
+    "n6": "ideologists'",
+    "n7": "an ideologist",
+    "n8": "many ideologists"
+}

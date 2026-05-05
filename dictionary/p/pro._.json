@@ -1,0 +1,18 @@
+{
+    "base": "pro",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pro",
+    "n2": "pros",
+    "n3": "the pro",
+    "n4": "the pros",
+    "n5": "pro's",
+    "n6": "pros'",
+    "n7": "a pro",
+    "n8": "many pros"
+}

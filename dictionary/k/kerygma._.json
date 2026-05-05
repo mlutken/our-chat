@@ -1,0 +1,18 @@
+{
+    "base": "kerygma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "kerygma",
+    "n2": "kerygmas",
+    "n3": "the kerygma",
+    "n4": "the kerygmas",
+    "n5": "kerygma's",
+    "n6": "kerygmas'",
+    "n7": "a kerygma",
+    "n8": "many kerygmas"
+}

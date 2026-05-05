@@ -1,0 +1,18 @@
+{
+    "base": "camper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "camper",
+    "n2": "campers",
+    "n3": "the camper",
+    "n4": "the campers",
+    "n5": "camper's",
+    "n6": "campers'",
+    "n7": "a camper",
+    "n8": "many campers"
+}

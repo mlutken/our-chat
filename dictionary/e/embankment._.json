@@ -1,0 +1,18 @@
+{
+    "base": "embankment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "embankment",
+    "n2": "embankments",
+    "n3": "the embankment",
+    "n4": "the embankments",
+    "n5": "embankment's",
+    "n6": "embankments'",
+    "n7": "an embankment",
+    "n8": "many embankments"
+}

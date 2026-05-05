@@ -1,0 +1,18 @@
+{
+    "base": "musical theater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "musical theater",
+    "n2": "musical theaters",
+    "n3": "the musical theater",
+    "n4": "the musical theaters",
+    "n5": "musical theater's",
+    "n6": "musical theaters'",
+    "n7": "a musical theater",
+    "n8": "many musical theaters"
+}

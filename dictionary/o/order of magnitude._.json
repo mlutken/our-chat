@@ -1,0 +1,18 @@
+{
+    "base": "order of magnitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "order of magnitude",
+    "n2": "order of magnitudes",
+    "n3": "the order of magnitude",
+    "n4": "the order of magnitudes",
+    "n5": "order of magnitude's",
+    "n6": "order of magnitudes'",
+    "n7": "an order of magnitude",
+    "n8": "many order of magnitudes"
+}

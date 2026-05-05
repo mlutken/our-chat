@@ -1,0 +1,18 @@
+{
+    "base": "exodus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exodus",
+    "n2": "exoduses",
+    "n3": "the exodus",
+    "n4": "the exoduses",
+    "n5": "exodus'",
+    "n6": "exoduses'",
+    "n7": "an exodus",
+    "n8": "many exoduses"
+}

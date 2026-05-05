@@ -1,0 +1,18 @@
+{
+    "base": "picturing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "picturing",
+    "n2": "picturings",
+    "n3": "the picturing",
+    "n4": "the picturings",
+    "n5": "picturing's",
+    "n6": "picturings'",
+    "n7": "a picturing",
+    "n8": "many picturings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "paving stone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paving stone",
+    "n2": "paving stones",
+    "n3": "the paving stone",
+    "n4": "the paving stones",
+    "n5": "paving stone's",
+    "n6": "paving stones'",
+    "n7": "a paving stone",
+    "n8": "many paving stones"
+}

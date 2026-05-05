@@ -1,0 +1,18 @@
+{
+    "base": "morphology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "morphology",
+    "n2": "morphologies",
+    "n3": "the morphology",
+    "n4": "the morphologies",
+    "n5": "morphology's",
+    "n6": "morphologies'",
+    "n7": "a morphology",
+    "n8": "many morphologies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nobel prize",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nobel prize",
+    "n2": "nobel prizes",
+    "n3": "the nobel prize",
+    "n4": "the nobel prizes",
+    "n5": "nobel prize's",
+    "n6": "nobel prizes'",
+    "n7": "a nobel prize",
+    "n8": "many nobel prizes"
+}

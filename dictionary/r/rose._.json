@@ -1,0 +1,18 @@
+{
+    "base": "rose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "rose",
+    "n2": "roses",
+    "n3": "the rose",
+    "n4": "the roses",
+    "n5": "rose's",
+    "n6": "roses'",
+    "n7": "a rose",
+    "n8": "many roses"
+}

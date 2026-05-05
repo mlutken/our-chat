@@ -7,5 +7,12 @@
     "n2": "independences",
     "n3": "the independence",
     "n4": "the independences",
-    "n5": "independence's"
+    "n5": "independence's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "independences'",
+    "n7": "an independence",
+    "n8": "many independences"
 }

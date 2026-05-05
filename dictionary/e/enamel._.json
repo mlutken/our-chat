@@ -1,0 +1,18 @@
+{
+    "base": "enamel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enamel",
+    "n2": "enamels",
+    "n3": "the enamel",
+    "n4": "the enamels",
+    "n5": "enamel's",
+    "n6": "enamels'",
+    "n7": "an enamel",
+    "n8": "many enamels"
+}

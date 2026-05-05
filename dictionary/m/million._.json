@@ -7,5 +7,12 @@
     "n2": "millions",
     "n3": "the million",
     "n4": "the millions",
-    "n5": "million's"
+    "n5": "million's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "millions'",
+    "n7": "a million",
+    "n8": "many millions"
 }

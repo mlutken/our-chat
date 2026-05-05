@@ -1,0 +1,18 @@
+{
+    "base": "demolition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "demolition",
+    "n2": "demolitions",
+    "n3": "the demolition",
+    "n4": "the demolitions",
+    "n5": "demolition's",
+    "n6": "demolitions'",
+    "n7": "a demolition",
+    "n8": "many demolitions"
+}

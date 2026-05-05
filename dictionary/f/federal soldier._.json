@@ -1,0 +1,18 @@
+{
+    "base": "federal soldier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "federal soldier",
+    "n2": "federal soldiers",
+    "n3": "the federal soldier",
+    "n4": "the federal soldiers",
+    "n5": "federal soldier's",
+    "n6": "federal soldiers'",
+    "n7": "a federal soldier",
+    "n8": "many federal soldiers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "self-government",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "self-government",
+    "n2": "self-governments",
+    "n3": "the self-government",
+    "n4": "the self-governments",
+    "n5": "self-government's",
+    "n6": "self-governments'",
+    "n7": "a self-government",
+    "n8": "many self-governments"
+}

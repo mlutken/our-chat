@@ -1,0 +1,18 @@
+{
+    "base": "leaf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "leaf",
+    "n2": "leaves",
+    "n3": "the leaf",
+    "n4": "the leaves",
+    "n5": "leaf's",
+    "n6": "leaves'",
+    "n7": "a leaf",
+    "n8": "many leaves"
+}

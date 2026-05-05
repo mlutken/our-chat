@@ -1,0 +1,18 @@
+{
+    "base": "fulfillment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "fulfillment",
+    "n2": "fulfillments",
+    "n3": "the fulfillment",
+    "n4": "the fulfillments",
+    "n5": "fulfillment's",
+    "n6": "fulfillments'",
+    "n7": "a fulfillment",
+    "n8": "many fulfillments"
+}

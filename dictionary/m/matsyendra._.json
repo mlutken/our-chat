@@ -1,0 +1,18 @@
+{
+    "base": "matsyendra",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "matsyendra",
+    "n2": "matsyendras",
+    "n3": "the matsyendra",
+    "n4": "the matsyendras",
+    "n5": "matsyendra's",
+    "n6": "matsyendras'",
+    "n7": "a matsyendra",
+    "n8": "many matsyendras"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "race problem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "race problem",
+    "n2": "race problems",
+    "n3": "the race problem",
+    "n4": "the race problems",
+    "n5": "race problem's",
+    "n6": "race problems'",
+    "n7": "a race problem",
+    "n8": "many race problems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "throbbing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "throbbing",
+    "n2": "throbbings",
+    "n3": "the throbbing",
+    "n4": "the throbbings",
+    "n5": "throbbing's",
+    "n6": "throbbings'",
+    "n7": "a throbbing",
+    "n8": "many throbbings"
+}

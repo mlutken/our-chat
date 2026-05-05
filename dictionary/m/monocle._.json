@@ -1,0 +1,18 @@
+{
+    "base": "monocle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "monocle",
+    "n2": "monocles",
+    "n3": "the monocle",
+    "n4": "the monocles",
+    "n5": "monocle's",
+    "n6": "monocles'",
+    "n7": "a monocle",
+    "n8": "many monocles"
+}

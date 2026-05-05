@@ -1,0 +1,18 @@
+{
+    "base": "wordsworth",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wordsworth",
+    "n2": "wordsworths",
+    "n3": "the wordsworth",
+    "n4": "the wordsworths",
+    "n5": "wordsworth's",
+    "n6": "wordsworths'",
+    "n7": "a wordsworth",
+    "n8": "many wordsworths"
+}

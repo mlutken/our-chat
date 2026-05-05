@@ -1,0 +1,18 @@
+{
+    "base": "directionality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "directionality",
+    "n2": "directionalities",
+    "n3": "the directionality",
+    "n4": "the directionalities",
+    "n5": "directionality's",
+    "n6": "directionalities'",
+    "n7": "a directionality",
+    "n8": "many directionalities"
+}

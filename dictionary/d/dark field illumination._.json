@@ -1,0 +1,18 @@
+{
+    "base": "dark field illumination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dark field illumination",
+    "n2": "dark field illuminations",
+    "n3": "the dark field illumination",
+    "n4": "the dark field illuminations",
+    "n5": "dark field illumination's",
+    "n6": "dark field illuminations'",
+    "n7": "a dark field illumination",
+    "n8": "many dark field illuminations"
+}

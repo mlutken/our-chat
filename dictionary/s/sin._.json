@@ -1,0 +1,18 @@
+{
+    "base": "sin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "sin",
+    "n2": "sins",
+    "n3": "the sin",
+    "n4": "the sins",
+    "n5": "sin's",
+    "n6": "sins'",
+    "n7": "a sin",
+    "n8": "many sins"
+}

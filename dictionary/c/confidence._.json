@@ -7,5 +7,12 @@
     "n2": "confidences",
     "n3": "the confidence",
     "n4": "the confidences",
-    "n5": "confidence's"
+    "n5": "confidence's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "confidences'",
+    "n7": "a confidence",
+    "n8": "many confidences"
 }

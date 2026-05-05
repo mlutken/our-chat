@@ -7,5 +7,12 @@
     "n2": "identities",
     "n3": "the identity",
     "n4": "the identities",
-    "n5": "identity's"
+    "n5": "identity's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "identities'",
+    "n7": "an identity",
+    "n8": "many identities"
 }

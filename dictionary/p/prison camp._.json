@@ -1,0 +1,18 @@
+{
+    "base": "prison camp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prison camp",
+    "n2": "prison camps",
+    "n3": "the prison camp",
+    "n4": "the prison camps",
+    "n5": "prison camp's",
+    "n6": "prison camps'",
+    "n7": "a prison camp",
+    "n8": "many prison camps"
+}

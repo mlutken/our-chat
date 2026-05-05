@@ -1,0 +1,18 @@
+{
+    "base": "asia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "asia",
+    "n2": "asias",
+    "n3": "the asia",
+    "n4": "the asias",
+    "n5": "asia's",
+    "n6": "asias'",
+    "n7": "an asia",
+    "n8": "many asias"
+}

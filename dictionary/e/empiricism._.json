@@ -1,0 +1,18 @@
+{
+    "base": "empiricism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "empiricism",
+    "n2": "empiricisms",
+    "n3": "the empiricism",
+    "n4": "the empiricisms",
+    "n5": "empiricism's",
+    "n6": "empiricisms'",
+    "n7": "an empiricism",
+    "n8": "many empiricisms"
+}

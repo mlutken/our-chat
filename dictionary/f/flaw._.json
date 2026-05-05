@@ -1,0 +1,18 @@
+{
+    "base": "flaw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flaw",
+    "n2": "flaws",
+    "n3": "the flaw",
+    "n4": "the flaws",
+    "n5": "flaw's",
+    "n6": "flaws'",
+    "n7": "a flaw",
+    "n8": "many flaws"
+}

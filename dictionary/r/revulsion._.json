@@ -1,0 +1,18 @@
+{
+    "base": "revulsion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "revulsion",
+    "n2": "revulsions",
+    "n3": "the revulsion",
+    "n4": "the revulsions",
+    "n5": "revulsion's",
+    "n6": "revulsions'",
+    "n7": "a revulsion",
+    "n8": "many revulsions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "deltoid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "deltoid",
+    "n2": "deltoids",
+    "n3": "the deltoid",
+    "n4": "the deltoids",
+    "n5": "deltoid's",
+    "n6": "deltoids'",
+    "n7": "a deltoid",
+    "n8": "many deltoids"
+}

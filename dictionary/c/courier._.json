@@ -1,0 +1,18 @@
+{
+    "base": "courier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "courier",
+    "n2": "couriers",
+    "n3": "the courier",
+    "n4": "the couriers",
+    "n5": "courier's",
+    "n6": "couriers'",
+    "n7": "a courier",
+    "n8": "many couriers"
+}

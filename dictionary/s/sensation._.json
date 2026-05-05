@@ -1,0 +1,18 @@
+{
+    "base": "sensation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "sensation",
+    "n2": "sensations",
+    "n3": "the sensation",
+    "n4": "the sensations",
+    "n5": "sensation's",
+    "n6": "sensations'",
+    "n7": "a sensation",
+    "n8": "many sensations"
+}

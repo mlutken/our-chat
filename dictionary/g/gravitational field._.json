@@ -1,0 +1,18 @@
+{
+    "base": "gravitational field",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gravitational field",
+    "n2": "gravitational fields",
+    "n3": "the gravitational field",
+    "n4": "the gravitational fields",
+    "n5": "gravitational field's",
+    "n6": "gravitational fields'",
+    "n7": "a gravitational field",
+    "n8": "many gravitational fields"
+}

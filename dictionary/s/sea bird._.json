@@ -1,0 +1,18 @@
+{
+    "base": "sea bird",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sea bird",
+    "n2": "sea birds",
+    "n3": "the sea bird",
+    "n4": "the sea birds",
+    "n5": "sea bird's",
+    "n6": "sea birds'",
+    "n7": "a sea bird",
+    "n8": "many sea birds"
+}

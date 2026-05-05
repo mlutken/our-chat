@@ -1,0 +1,18 @@
+{
+    "base": "syndicate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "syndicate",
+    "n2": "syndicates",
+    "n3": "the syndicate",
+    "n4": "the syndicates",
+    "n5": "syndicate's",
+    "n6": "syndicates'",
+    "n7": "a syndicate",
+    "n8": "many syndicates"
+}

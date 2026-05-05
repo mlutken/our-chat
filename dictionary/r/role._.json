@@ -7,5 +7,12 @@
     "n2": "roles",
     "n3": "the role",
     "n4": "the roles",
-    "n5": "role's"
+    "n5": "role's",
+    "proper": false,
+    "commonness": 58,
+    "max_commonness": 6834,
+    "commonness_ge_count": 266,
+    "n6": "roles'",
+    "n7": "a role",
+    "n8": "many roles"
 }

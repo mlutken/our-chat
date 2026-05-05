@@ -1,0 +1,18 @@
+{
+    "base": "clutches",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clutches",
+    "n2": "clutcheses",
+    "n3": "the clutches",
+    "n4": "the clutcheses",
+    "n5": "clutches'",
+    "n6": "clutcheses'",
+    "n7": "a clutches",
+    "n8": "many clutcheses"
+}

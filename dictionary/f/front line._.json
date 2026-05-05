@@ -1,0 +1,18 @@
+{
+    "base": "front line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "front line",
+    "n2": "front lines",
+    "n3": "the front line",
+    "n4": "the front lines",
+    "n5": "front line's",
+    "n6": "front lines'",
+    "n7": "a front line",
+    "n8": "many front lines"
+}

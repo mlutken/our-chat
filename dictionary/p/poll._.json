@@ -1,0 +1,18 @@
+{
+    "base": "poll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "poll",
+    "n2": "polls",
+    "n3": "the poll",
+    "n4": "the polls",
+    "n5": "poll's",
+    "n6": "polls'",
+    "n7": "a poll",
+    "n8": "many polls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "heaving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heaving",
+    "n2": "heavings",
+    "n3": "the heaving",
+    "n4": "the heavings",
+    "n5": "heaving's",
+    "n6": "heavings'",
+    "n7": "a heaving",
+    "n8": "many heavings"
+}

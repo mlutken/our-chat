@@ -1,0 +1,18 @@
+{
+    "base": "preposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "preposition",
+    "n2": "prepositions",
+    "n3": "the preposition",
+    "n4": "the prepositions",
+    "n5": "preposition's",
+    "n6": "prepositions'",
+    "n7": "a preposition",
+    "n8": "many prepositions"
+}

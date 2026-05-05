@@ -1,0 +1,18 @@
+{
+    "base": "ounce",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "ounce",
+    "n2": "ounces",
+    "n3": "the ounce",
+    "n4": "the ounces",
+    "n5": "ounce's",
+    "n6": "ounces'",
+    "n7": "an ounce",
+    "n8": "many ounces"
+}

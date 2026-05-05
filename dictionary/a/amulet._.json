@@ -1,0 +1,18 @@
+{
+    "base": "amulet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amulet",
+    "n2": "amulets",
+    "n3": "the amulet",
+    "n4": "the amulets",
+    "n5": "amulet's",
+    "n6": "amulets'",
+    "n7": "an amulet",
+    "n8": "many amulets"
+}

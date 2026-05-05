@@ -1,0 +1,18 @@
+{
+    "base": "membrane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "membrane",
+    "n2": "membranes",
+    "n3": "the membrane",
+    "n4": "the membranes",
+    "n5": "membrane's",
+    "n6": "membranes'",
+    "n7": "a membrane",
+    "n8": "many membranes"
+}

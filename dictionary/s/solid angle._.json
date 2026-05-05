@@ -1,0 +1,18 @@
+{
+    "base": "solid angle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "solid angle",
+    "n2": "solid angles",
+    "n3": "the solid angle",
+    "n4": "the solid angles",
+    "n5": "solid angle's",
+    "n6": "solid angles'",
+    "n7": "a solid angle",
+    "n8": "many solid angles"
+}

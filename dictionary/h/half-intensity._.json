@@ -1,0 +1,18 @@
+{
+    "base": "half-intensity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "half-intensity",
+    "n2": "half-intensities",
+    "n3": "the half-intensity",
+    "n4": "the half-intensities",
+    "n5": "half-intensity's",
+    "n6": "half-intensities'",
+    "n7": "a half-intensity",
+    "n8": "many half-intensities"
+}

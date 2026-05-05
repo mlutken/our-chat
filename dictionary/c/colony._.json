@@ -1,0 +1,18 @@
+{
+    "base": "colony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "colony",
+    "n2": "colonies",
+    "n3": "the colony",
+    "n4": "the colonies",
+    "n5": "colony's",
+    "n6": "colonies'",
+    "n7": "a colony",
+    "n8": "many colonies"
+}

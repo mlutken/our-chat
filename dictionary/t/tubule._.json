@@ -1,0 +1,18 @@
+{
+    "base": "tubule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tubule",
+    "n2": "tubules",
+    "n3": "the tubule",
+    "n4": "the tubules",
+    "n5": "tubule's",
+    "n6": "tubules'",
+    "n7": "a tubule",
+    "n8": "many tubules"
+}

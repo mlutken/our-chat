@@ -1,0 +1,18 @@
+{
+    "base": "jargon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jargon",
+    "n2": "jargons",
+    "n3": "the jargon",
+    "n4": "the jargons",
+    "n5": "jargon's",
+    "n6": "jargons'",
+    "n7": "a jargon",
+    "n8": "many jargons"
+}

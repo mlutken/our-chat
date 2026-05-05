@@ -1,0 +1,18 @@
+{
+    "base": "droppings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "droppings",
+    "n2": "droppingses",
+    "n3": "the droppings",
+    "n4": "the droppingses",
+    "n5": "droppings'",
+    "n6": "droppingses'",
+    "n7": "a droppings",
+    "n8": "many droppingses"
+}

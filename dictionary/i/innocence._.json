@@ -1,0 +1,18 @@
+{
+    "base": "innocence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "innocence",
+    "n2": "innocences",
+    "n3": "the innocence",
+    "n4": "the innocences",
+    "n5": "innocence's",
+    "n6": "innocences'",
+    "n7": "an innocence",
+    "n8": "many innocences"
+}

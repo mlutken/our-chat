@@ -1,0 +1,18 @@
+{
+    "base": "vestige",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vestige",
+    "n2": "vestiges",
+    "n3": "the vestige",
+    "n4": "the vestiges",
+    "n5": "vestige's",
+    "n6": "vestiges'",
+    "n7": "a vestige",
+    "n8": "many vestiges"
+}

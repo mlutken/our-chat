@@ -1,0 +1,18 @@
+{
+    "base": "splatter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "splatter",
+    "n2": "splatters",
+    "n3": "the splatter",
+    "n4": "the splatters",
+    "n5": "splatter's",
+    "n6": "splatters'",
+    "n7": "a splatter",
+    "n8": "many splatters"
+}

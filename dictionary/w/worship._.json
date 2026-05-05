@@ -1,0 +1,18 @@
+{
+    "base": "worship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "worship",
+    "n2": "worships",
+    "n3": "the worship",
+    "n4": "the worships",
+    "n5": "worship's",
+    "n6": "worships'",
+    "n7": "a worship",
+    "n8": "many worships"
+}

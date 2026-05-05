@@ -1,0 +1,18 @@
+{
+    "base": "playwright",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "playwright",
+    "n2": "playwrights",
+    "n3": "the playwright",
+    "n4": "the playwrights",
+    "n5": "playwright's",
+    "n6": "playwrights'",
+    "n7": "a playwright",
+    "n8": "many playwrights"
+}

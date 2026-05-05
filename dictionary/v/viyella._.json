@@ -1,0 +1,18 @@
+{
+    "base": "viyella",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "viyella",
+    "n2": "viyellas",
+    "n3": "the viyella",
+    "n4": "the viyellas",
+    "n5": "viyella's",
+    "n6": "viyellas'",
+    "n7": "a viyella",
+    "n8": "many viyellas"
+}

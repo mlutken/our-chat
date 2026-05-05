@@ -1,0 +1,18 @@
+{
+    "base": "someone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "someone",
+    "n2": "someones",
+    "n3": "the someone",
+    "n4": "the someones",
+    "n5": "someone's",
+    "n6": "someones'",
+    "n7": "a someone",
+    "n8": "many someones"
+}

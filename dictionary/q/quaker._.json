@@ -1,0 +1,18 @@
+{
+    "base": "quaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quaker",
+    "n2": "quakers",
+    "n3": "the quaker",
+    "n4": "the quakers",
+    "n5": "quaker's",
+    "n6": "quakers'",
+    "n7": "a quaker",
+    "n8": "many quakers"
+}

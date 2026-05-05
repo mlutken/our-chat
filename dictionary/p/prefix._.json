@@ -1,0 +1,18 @@
+{
+    "base": "prefix",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prefix",
+    "n2": "prefixes",
+    "n3": "the prefix",
+    "n4": "the prefixes",
+    "n5": "prefix's",
+    "n6": "prefixes'",
+    "n7": "a prefix",
+    "n8": "many prefixes"
+}

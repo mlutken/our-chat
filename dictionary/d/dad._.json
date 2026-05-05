@@ -7,5 +7,12 @@
     "n2": "dads",
     "n3": "the dad",
     "n4": "the dads",
-    "n5": "dad's"
+    "n5": "dad's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "dads'",
+    "n7": "a dad",
+    "n8": "many dads"
 }

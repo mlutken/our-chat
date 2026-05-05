@@ -1,0 +1,18 @@
+{
+    "base": "oratorio",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oratorio",
+    "n2": "oratorios",
+    "n3": "the oratorio",
+    "n4": "the oratorios",
+    "n5": "oratorio's",
+    "n6": "oratorios'",
+    "n7": "an oratorio",
+    "n8": "many oratorios"
+}

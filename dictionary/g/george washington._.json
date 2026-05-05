@@ -1,0 +1,18 @@
+{
+    "base": "george washington",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "george washington",
+    "n2": "george washingtons",
+    "n3": "the george washington",
+    "n4": "the george washingtons",
+    "n5": "george washington's",
+    "n6": "george washingtons'",
+    "n7": "a george washington",
+    "n8": "many george washingtons"
+}

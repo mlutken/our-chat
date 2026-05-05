@@ -1,0 +1,18 @@
+{
+    "base": "thinker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thinker",
+    "n2": "thinkers",
+    "n3": "the thinker",
+    "n4": "the thinkers",
+    "n5": "thinker's",
+    "n6": "thinkers'",
+    "n7": "a thinker",
+    "n8": "many thinkers"
+}

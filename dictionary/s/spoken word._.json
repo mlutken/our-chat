@@ -1,0 +1,18 @@
+{
+    "base": "spoken word",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spoken word",
+    "n2": "spoken words",
+    "n3": "the spoken word",
+    "n4": "the spoken words",
+    "n5": "spoken word's",
+    "n6": "spoken words'",
+    "n7": "a spoken word",
+    "n8": "many spoken words"
+}

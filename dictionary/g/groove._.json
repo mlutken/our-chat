@@ -1,0 +1,18 @@
+{
+    "base": "groove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "groove",
+    "n2": "grooves",
+    "n3": "the groove",
+    "n4": "the grooves",
+    "n5": "groove's",
+    "n6": "grooves'",
+    "n7": "a groove",
+    "n8": "many grooves"
+}

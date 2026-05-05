@@ -1,0 +1,18 @@
+{
+    "base": "vineyard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vineyard",
+    "n2": "vineyards",
+    "n3": "the vineyard",
+    "n4": "the vineyards",
+    "n5": "vineyard's",
+    "n6": "vineyards'",
+    "n7": "a vineyard",
+    "n8": "many vineyards"
+}

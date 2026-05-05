@@ -1,0 +1,18 @@
+{
+    "base": "work force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "work force",
+    "n2": "work forces",
+    "n3": "the work force",
+    "n4": "the work forces",
+    "n5": "work force's",
+    "n6": "work forces'",
+    "n7": "a work force",
+    "n8": "many work forces"
+}

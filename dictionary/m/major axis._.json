@@ -1,0 +1,18 @@
+{
+    "base": "major axis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "major axis",
+    "n2": "major-axes",
+    "n3": "the major axis",
+    "n4": "the major-axes",
+    "n5": "major axis'",
+    "n6": "major-axes'",
+    "n7": "a major axis",
+    "n8": "many major-axes"
+}

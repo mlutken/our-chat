@@ -1,0 +1,18 @@
+{
+    "base": "prerequisite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prerequisite",
+    "n2": "prerequisites",
+    "n3": "the prerequisite",
+    "n4": "the prerequisites",
+    "n5": "prerequisite's",
+    "n6": "prerequisites'",
+    "n7": "a prerequisite",
+    "n8": "many prerequisites"
+}

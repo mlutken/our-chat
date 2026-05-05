@@ -1,0 +1,18 @@
+{
+    "base": "drunkard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "drunkard",
+    "n2": "drunkards",
+    "n3": "the drunkard",
+    "n4": "the drunkards",
+    "n5": "drunkard's",
+    "n6": "drunkards'",
+    "n7": "a drunkard",
+    "n8": "many drunkards"
+}

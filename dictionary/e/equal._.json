@@ -1,0 +1,18 @@
+{
+    "base": "equal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "equal",
+    "n2": "equals",
+    "n3": "the equal",
+    "n4": "the equals",
+    "n5": "equal's",
+    "n6": "equals'",
+    "n7": "an equal",
+    "n8": "many equals"
+}

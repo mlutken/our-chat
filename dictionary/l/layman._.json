@@ -1,0 +1,18 @@
+{
+    "base": "layman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "layman",
+    "n2": "laymen",
+    "n3": "the layman",
+    "n4": "the laymen",
+    "n5": "layman's",
+    "n6": "laymen's",
+    "n7": "a layman",
+    "n8": "many laymen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "viscosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "viscosity",
+    "n2": "viscosities",
+    "n3": "the viscosity",
+    "n4": "the viscosities",
+    "n5": "viscosity's",
+    "n6": "viscosities'",
+    "n7": "a viscosity",
+    "n8": "many viscosities"
+}

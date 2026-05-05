@@ -1,0 +1,18 @@
+{
+    "base": "headache",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "headache",
+    "n2": "headaches",
+    "n3": "the headache",
+    "n4": "the headaches",
+    "n5": "headache's",
+    "n6": "headaches'",
+    "n7": "a headache",
+    "n8": "many headaches"
+}

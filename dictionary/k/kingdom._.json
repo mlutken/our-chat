@@ -1,0 +1,18 @@
+{
+    "base": "kingdom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "kingdom",
+    "n2": "kingdoms",
+    "n3": "the kingdom",
+    "n4": "the kingdoms",
+    "n5": "kingdom's",
+    "n6": "kingdoms'",
+    "n7": "a kingdom",
+    "n8": "many kingdoms"
+}

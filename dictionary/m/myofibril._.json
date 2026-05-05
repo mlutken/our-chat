@@ -1,0 +1,18 @@
+{
+    "base": "myofibril",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "myofibril",
+    "n2": "myofibrils",
+    "n3": "the myofibril",
+    "n4": "the myofibrils",
+    "n5": "myofibril's",
+    "n6": "myofibrils'",
+    "n7": "a myofibril",
+    "n8": "many myofibrils"
+}

@@ -7,5 +7,12 @@
     "n2": "residents",
     "n3": "the resident",
     "n4": "the residents",
-    "n5": "resident's"
+    "n5": "resident's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "residents'",
+    "n7": "a resident",
+    "n8": "many residents"
 }

@@ -1,11 +1,24 @@
 {
     "base": "turn",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "turn",
     "v2": "turned",
     "v3": "turned",
     "v4": "turning",
-    "v5": "turns"
+    "v5": "turns",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "turn",
+    "n2": "turns",
+    "n3": "the turn",
+    "n4": "the turns",
+    "n5": "turn's",
+    "n6": "turns'",
+    "n7": "a turn",
+    "n8": "many turns"
 }

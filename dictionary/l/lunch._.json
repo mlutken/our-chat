@@ -1,0 +1,18 @@
+{
+    "base": "lunch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "lunch",
+    "n2": "lunches",
+    "n3": "the lunch",
+    "n4": "the lunches",
+    "n5": "lunch's",
+    "n6": "lunches'",
+    "n7": "a lunch",
+    "n8": "many lunches"
+}

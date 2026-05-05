@@ -1,0 +1,18 @@
+{
+    "base": "viewers",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "viewers",
+    "n2": "viewerses",
+    "n3": "the viewers",
+    "n4": "the viewerses",
+    "n5": "viewers'",
+    "n6": "viewerses'",
+    "n7": "a viewers",
+    "n8": "many viewerses"
+}

@@ -1,11 +1,24 @@
 {
     "base": "kill",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "kill",
     "v2": "killed",
     "v3": "killed",
     "v4": "killing",
-    "v5": "kills"
+    "v5": "kills",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "kill",
+    "n2": "kills",
+    "n3": "the kill",
+    "n4": "the kills",
+    "n5": "kill's",
+    "n6": "kills'",
+    "n7": "a kill",
+    "n8": "many kills"
 }

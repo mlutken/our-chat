@@ -1,0 +1,18 @@
+{
+    "base": "looking at",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "looking at",
+    "n2": "looking ats",
+    "n3": "the looking at",
+    "n4": "the looking ats",
+    "n5": "looking at's",
+    "n6": "looking ats'",
+    "n7": "a looking at",
+    "n8": "many looking ats"
+}

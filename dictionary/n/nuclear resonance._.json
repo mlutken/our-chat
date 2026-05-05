@@ -1,0 +1,18 @@
+{
+    "base": "nuclear resonance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nuclear resonance",
+    "n2": "nuclear resonances",
+    "n3": "the nuclear resonance",
+    "n4": "the nuclear resonances",
+    "n5": "nuclear resonance's",
+    "n6": "nuclear resonances'",
+    "n7": "a nuclear resonance",
+    "n8": "many nuclear resonances"
+}

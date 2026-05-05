@@ -1,0 +1,18 @@
+{
+    "base": "bellow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bellow",
+    "n2": "bellows",
+    "n3": "the bellow",
+    "n4": "the bellows",
+    "n5": "bellow's",
+    "n6": "bellows'",
+    "n7": "a bellow",
+    "n8": "many bellows"
+}

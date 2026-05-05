@@ -1,0 +1,18 @@
+{
+    "base": "remains",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "remains",
+    "n2": "remainses",
+    "n3": "the remains",
+    "n4": "the remainses",
+    "n5": "remains'",
+    "n6": "remainses'",
+    "n7": "a remains",
+    "n8": "many remainses"
+}

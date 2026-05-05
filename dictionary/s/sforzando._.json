@@ -1,0 +1,18 @@
+{
+    "base": "sforzando",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sforzando",
+    "n2": "sforzandos",
+    "n3": "the sforzando",
+    "n4": "the sforzandos",
+    "n5": "sforzando's",
+    "n6": "sforzandos'",
+    "n7": "a sforzando",
+    "n8": "many sforzandos"
+}

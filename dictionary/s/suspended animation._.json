@@ -1,0 +1,18 @@
+{
+    "base": "suspended animation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "suspended animation",
+    "n2": "suspended animations",
+    "n3": "the suspended animation",
+    "n4": "the suspended animations",
+    "n5": "suspended animation's",
+    "n6": "suspended animations'",
+    "n7": "a suspended animation",
+    "n8": "many suspended animations"
+}

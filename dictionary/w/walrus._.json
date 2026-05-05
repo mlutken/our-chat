@@ -1,0 +1,18 @@
+{
+    "base": "walrus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "walrus",
+    "n2": "walruses",
+    "n3": "the walrus",
+    "n4": "the walruses",
+    "n5": "walrus'",
+    "n6": "walruses'",
+    "n7": "a walrus",
+    "n8": "many walruses"
+}

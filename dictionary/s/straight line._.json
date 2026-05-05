@@ -1,0 +1,18 @@
+{
+    "base": "straight line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "straight line",
+    "n2": "straight lines",
+    "n3": "the straight line",
+    "n4": "the straight lines",
+    "n5": "straight line's",
+    "n6": "straight lines'",
+    "n7": "a straight line",
+    "n8": "many straight lines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "catecholamine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "catecholamine",
+    "n2": "catecholamines",
+    "n3": "the catecholamine",
+    "n4": "the catecholamines",
+    "n5": "catecholamine's",
+    "n6": "catecholamines'",
+    "n7": "a catecholamine",
+    "n8": "many catecholamines"
+}

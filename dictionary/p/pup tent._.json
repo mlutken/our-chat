@@ -1,0 +1,18 @@
+{
+    "base": "pup tent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pup tent",
+    "n2": "pup tents",
+    "n3": "the pup tent",
+    "n4": "the pup tents",
+    "n5": "pup tent's",
+    "n6": "pup tents'",
+    "n7": "a pup tent",
+    "n8": "many pup tents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bin",
+    "n2": "bins",
+    "n3": "the bin",
+    "n4": "the bins",
+    "n5": "bin's",
+    "n6": "bins'",
+    "n7": "a bin",
+    "n8": "many bins"
+}

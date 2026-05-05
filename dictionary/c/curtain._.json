@@ -1,0 +1,18 @@
+{
+    "base": "curtain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "curtain",
+    "n2": "curtains",
+    "n3": "the curtain",
+    "n4": "the curtains",
+    "n5": "curtain's",
+    "n6": "curtains'",
+    "n7": "a curtain",
+    "n8": "many curtains"
+}

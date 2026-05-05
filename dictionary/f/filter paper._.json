@@ -1,0 +1,18 @@
+{
+    "base": "filter paper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "filter paper",
+    "n2": "filter papers",
+    "n3": "the filter paper",
+    "n4": "the filter papers",
+    "n5": "filter paper's",
+    "n6": "filter papers'",
+    "n7": "a filter paper",
+    "n8": "many filter papers"
+}

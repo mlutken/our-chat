@@ -1,0 +1,18 @@
+{
+    "base": "unawareness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "unawareness",
+    "n2": "unawarenesses",
+    "n3": "the unawareness",
+    "n4": "the unawarenesses",
+    "n5": "unawareness'",
+    "n6": "unawarenesses'",
+    "n7": "an unawareness",
+    "n8": "many unawarenesses"
+}

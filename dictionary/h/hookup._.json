@@ -1,0 +1,18 @@
+{
+    "base": "hookup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hookup",
+    "n2": "hookups",
+    "n3": "the hookup",
+    "n4": "the hookups",
+    "n5": "hookup's",
+    "n6": "hookups'",
+    "n7": "a hookup",
+    "n8": "many hookups"
+}

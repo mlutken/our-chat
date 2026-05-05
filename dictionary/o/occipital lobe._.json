@@ -1,0 +1,18 @@
+{
+    "base": "occipital lobe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "occipital lobe",
+    "n2": "occipital lobes",
+    "n3": "the occipital lobe",
+    "n4": "the occipital lobes",
+    "n5": "occipital lobe's",
+    "n6": "occipital lobes'",
+    "n7": "an occipital lobe",
+    "n8": "many occipital lobes"
+}

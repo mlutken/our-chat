@@ -1,0 +1,18 @@
+{
+    "base": "holland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holland",
+    "n2": "hollands",
+    "n3": "the holland",
+    "n4": "the hollands",
+    "n5": "holland's",
+    "n6": "hollands'",
+    "n7": "a holland",
+    "n8": "many hollands"
+}

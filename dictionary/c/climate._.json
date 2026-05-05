@@ -7,5 +7,12 @@
     "n2": "climates",
     "n3": "the climate",
     "n4": "the climates",
-    "n5": "climate's"
+    "n5": "climate's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "climates'",
+    "n7": "a climate",
+    "n8": "many climates"
 }

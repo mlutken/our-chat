@@ -1,0 +1,18 @@
+{
+    "base": "keyboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "keyboard",
+    "n2": "keyboards",
+    "n3": "the keyboard",
+    "n4": "the keyboards",
+    "n5": "keyboard's",
+    "n6": "keyboards'",
+    "n7": "a keyboard",
+    "n8": "many keyboards"
+}

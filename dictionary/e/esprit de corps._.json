@@ -1,0 +1,18 @@
+{
+    "base": "esprit de corps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "esprit de corps",
+    "n2": "esprit de corpses",
+    "n3": "the esprit de corps",
+    "n4": "the esprit de corpses",
+    "n5": "esprit de corps'",
+    "n6": "esprit de corpses'",
+    "n7": "an esprit de corps",
+    "n8": "many esprit de corpses"
+}

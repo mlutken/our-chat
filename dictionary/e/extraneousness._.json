@@ -1,0 +1,18 @@
+{
+    "base": "extraneousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "extraneousness",
+    "n2": "extraneousnesses",
+    "n3": "the extraneousness",
+    "n4": "the extraneousnesses",
+    "n5": "extraneousness'",
+    "n6": "extraneousnesses'",
+    "n7": "an extraneousness",
+    "n8": "many extraneousnesses"
+}

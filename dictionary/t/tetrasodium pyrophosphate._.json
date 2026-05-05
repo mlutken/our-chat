@@ -1,0 +1,18 @@
+{
+    "base": "tetrasodium pyrophosphate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tetrasodium pyrophosphate",
+    "n2": "tetrasodium pyrophosphates",
+    "n3": "the tetrasodium pyrophosphate",
+    "n4": "the tetrasodium pyrophosphates",
+    "n5": "tetrasodium pyrophosphate's",
+    "n6": "tetrasodium pyrophosphates'",
+    "n7": "a tetrasodium pyrophosphate",
+    "n8": "many tetrasodium pyrophosphates"
+}

@@ -7,5 +7,12 @@
     "n2": "deers",
     "n3": "the deer",
     "n4": "the deers",
-    "n5": "deer's"
+    "n5": "deer's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "deers'",
+    "n7": "a deer",
+    "n8": "many deers"
 }

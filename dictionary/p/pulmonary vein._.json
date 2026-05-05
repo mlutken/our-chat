@@ -1,0 +1,18 @@
+{
+    "base": "pulmonary vein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "pulmonary vein",
+    "n2": "pulmonary veins",
+    "n3": "the pulmonary vein",
+    "n4": "the pulmonary veins",
+    "n5": "pulmonary vein's",
+    "n6": "pulmonary veins'",
+    "n7": "a pulmonary vein",
+    "n8": "many pulmonary veins"
+}

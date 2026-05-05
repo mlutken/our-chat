@@ -1,0 +1,18 @@
+{
+    "base": "differentiation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "differentiation",
+    "n2": "differentiations",
+    "n3": "the differentiation",
+    "n4": "the differentiations",
+    "n5": "differentiation's",
+    "n6": "differentiations'",
+    "n7": "a differentiation",
+    "n8": "many differentiations"
+}

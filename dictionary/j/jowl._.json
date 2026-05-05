@@ -1,0 +1,18 @@
+{
+    "base": "jowl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jowl",
+    "n2": "jowls",
+    "n3": "the jowl",
+    "n4": "the jowls",
+    "n5": "jowl's",
+    "n6": "jowls'",
+    "n7": "a jowl",
+    "n8": "many jowls"
+}

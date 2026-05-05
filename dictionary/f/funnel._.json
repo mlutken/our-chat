@@ -1,0 +1,18 @@
+{
+    "base": "funnel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "funnel",
+    "n2": "funnels",
+    "n3": "the funnel",
+    "n4": "the funnels",
+    "n5": "funnel's",
+    "n6": "funnels'",
+    "n7": "a funnel",
+    "n8": "many funnels"
+}

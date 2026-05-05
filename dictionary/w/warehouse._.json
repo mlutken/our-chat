@@ -1,0 +1,18 @@
+{
+    "base": "warehouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "warehouse",
+    "n2": "warehouses",
+    "n3": "the warehouse",
+    "n4": "the warehouses",
+    "n5": "warehouse's",
+    "n6": "warehouses'",
+    "n7": "a warehouse",
+    "n8": "many warehouses"
+}

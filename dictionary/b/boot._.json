@@ -1,0 +1,18 @@
+{
+    "base": "boot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "boot",
+    "n2": "boots",
+    "n3": "the boot",
+    "n4": "the boots",
+    "n5": "boot's",
+    "n6": "boots'",
+    "n7": "a boot",
+    "n8": "many boots"
+}

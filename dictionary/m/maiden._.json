@@ -1,0 +1,18 @@
+{
+    "base": "maiden",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "maiden",
+    "n2": "maidens",
+    "n3": "the maiden",
+    "n4": "the maidens",
+    "n5": "maiden's",
+    "n6": "maidens'",
+    "n7": "a maiden",
+    "n8": "many maidens"
+}

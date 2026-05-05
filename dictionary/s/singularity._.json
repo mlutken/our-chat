@@ -1,0 +1,18 @@
+{
+    "base": "singularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "singularity",
+    "n2": "singularities",
+    "n3": "the singularity",
+    "n4": "the singularities",
+    "n5": "singularity's",
+    "n6": "singularities'",
+    "n7": "a singularity",
+    "n8": "many singularities"
+}

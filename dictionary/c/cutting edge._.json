@@ -1,0 +1,18 @@
+{
+    "base": "cutting edge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cutting edge",
+    "n2": "cutting edges",
+    "n3": "the cutting edge",
+    "n4": "the cutting edges",
+    "n5": "cutting edge's",
+    "n6": "cutting edges'",
+    "n7": "a cutting edge",
+    "n8": "many cutting edges"
+}

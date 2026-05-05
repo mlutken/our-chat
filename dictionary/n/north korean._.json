@@ -1,0 +1,18 @@
+{
+    "base": "north korean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "north korean",
+    "n2": "north koreans",
+    "n3": "the north korean",
+    "n4": "the north koreans",
+    "n5": "north korean's",
+    "n6": "north koreans'",
+    "n7": "a north korean",
+    "n8": "many north koreans"
+}

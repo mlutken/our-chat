@@ -1,0 +1,18 @@
+{
+    "base": "yardstick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yardstick",
+    "n2": "yardsticks",
+    "n3": "the yardstick",
+    "n4": "the yardsticks",
+    "n5": "yardstick's",
+    "n6": "yardsticks'",
+    "n7": "a yardstick",
+    "n8": "many yardsticks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "operating procedure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "operating procedure",
+    "n2": "operating procedures",
+    "n3": "the operating procedure",
+    "n4": "the operating procedures",
+    "n5": "operating procedure's",
+    "n6": "operating procedures'",
+    "n7": "an operating procedure",
+    "n8": "many operating procedures"
+}

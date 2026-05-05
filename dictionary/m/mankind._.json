@@ -1,0 +1,18 @@
+{
+    "base": "mankind",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "mankind",
+    "n2": "mankinds",
+    "n3": "the mankind",
+    "n4": "the mankinds",
+    "n5": "mankind's",
+    "n6": "mankinds'",
+    "n7": "a mankind",
+    "n8": "many mankinds"
+}

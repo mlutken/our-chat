@@ -1,6 +1,7 @@
 {
     "base": "close",
     "classes": [
+        "n",
         "adj",
         "adv",
         "v"
@@ -14,5 +15,17 @@
     "v2": "closed",
     "v3": "closed",
     "v4": "closing",
-    "v5": "closes"
+    "v5": "closes",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "close",
+    "n2": "closes",
+    "n3": "the close",
+    "n4": "the closes",
+    "n5": "close's",
+    "n6": "closes'",
+    "n7": "a close",
+    "n8": "many closes"
 }

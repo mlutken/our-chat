@@ -1,0 +1,18 @@
+{
+    "base": "rainfall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rainfall",
+    "n2": "rainfalls",
+    "n3": "the rainfall",
+    "n4": "the rainfalls",
+    "n5": "rainfall's",
+    "n6": "rainfalls'",
+    "n7": "a rainfall",
+    "n8": "many rainfalls"
+}

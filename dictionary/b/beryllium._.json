@@ -1,0 +1,18 @@
+{
+    "base": "beryllium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beryllium",
+    "n2": "berylliums",
+    "n3": "the beryllium",
+    "n4": "the berylliums",
+    "n5": "beryllium's",
+    "n6": "berylliums'",
+    "n7": "a beryllium",
+    "n8": "many berylliums"
+}

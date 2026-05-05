@@ -1,0 +1,18 @@
+{
+    "base": "washbowl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "washbowl",
+    "n2": "washbowls",
+    "n3": "the washbowl",
+    "n4": "the washbowls",
+    "n5": "washbowl's",
+    "n6": "washbowls'",
+    "n7": "a washbowl",
+    "n8": "many washbowls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "grocer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "grocer",
+    "n2": "grocers",
+    "n3": "the grocer",
+    "n4": "the grocers",
+    "n5": "grocer's",
+    "n6": "grocers'",
+    "n7": "a grocer",
+    "n8": "many grocers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "broiler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "broiler",
+    "n2": "broilers",
+    "n3": "the broiler",
+    "n4": "the broilers",
+    "n5": "broiler's",
+    "n6": "broilers'",
+    "n7": "a broiler",
+    "n8": "many broilers"
+}

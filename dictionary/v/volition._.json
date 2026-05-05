@@ -1,0 +1,18 @@
+{
+    "base": "volition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "volition",
+    "n2": "volitions",
+    "n3": "the volition",
+    "n4": "the volitions",
+    "n5": "volition's",
+    "n6": "volitions'",
+    "n7": "a volition",
+    "n8": "many volitions"
+}

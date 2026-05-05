@@ -1,0 +1,18 @@
+{
+    "base": "military unit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "military unit",
+    "n2": "military units",
+    "n3": "the military unit",
+    "n4": "the military units",
+    "n5": "military unit's",
+    "n6": "military units'",
+    "n7": "a military unit",
+    "n8": "many military units"
+}

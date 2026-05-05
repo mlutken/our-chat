@@ -1,0 +1,18 @@
+{
+    "base": "thyronine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thyronine",
+    "n2": "thyronines",
+    "n3": "the thyronine",
+    "n4": "the thyronines",
+    "n5": "thyronine's",
+    "n6": "thyronines'",
+    "n7": "a thyronine",
+    "n8": "many thyronines"
+}

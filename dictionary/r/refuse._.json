@@ -1,11 +1,24 @@
 {
     "base": "refuse",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "refuse",
     "v2": "refused",
     "v3": "refused",
     "v4": "refusing",
-    "v5": "refuses"
+    "v5": "refuses",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "refuse",
+    "n2": "refuses",
+    "n3": "the refuse",
+    "n4": "the refuses",
+    "n5": "refuse's",
+    "n6": "refuses'",
+    "n7": "a refuse",
+    "n8": "many refuses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "collar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "collar",
+    "n2": "collars",
+    "n3": "the collar",
+    "n4": "the collars",
+    "n5": "collar's",
+    "n6": "collars'",
+    "n7": "a collar",
+    "n8": "many collars"
+}

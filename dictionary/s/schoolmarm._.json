@@ -1,0 +1,18 @@
+{
+    "base": "schoolmarm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "schoolmarm",
+    "n2": "schoolmarms",
+    "n3": "the schoolmarm",
+    "n4": "the schoolmarms",
+    "n5": "schoolmarm's",
+    "n6": "schoolmarms'",
+    "n7": "a schoolmarm",
+    "n8": "many schoolmarms"
+}

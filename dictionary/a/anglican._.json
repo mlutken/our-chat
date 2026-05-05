@@ -1,0 +1,18 @@
+{
+    "base": "anglican",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anglican",
+    "n2": "anglicans",
+    "n3": "the anglican",
+    "n4": "the anglicans",
+    "n5": "anglican's",
+    "n6": "anglicans'",
+    "n7": "an anglican",
+    "n8": "many anglicans"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "knuckle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "knuckle",
+    "n2": "knuckles",
+    "n3": "the knuckle",
+    "n4": "the knuckles",
+    "n5": "knuckle's",
+    "n6": "knuckles'",
+    "n7": "a knuckle",
+    "n8": "many knuckles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wildcat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "wildcat",
+    "n2": "wildcats",
+    "n3": "the wildcat",
+    "n4": "the wildcats",
+    "n5": "wildcat's",
+    "n6": "wildcats'",
+    "n7": "a wildcat",
+    "n8": "many wildcats"
+}

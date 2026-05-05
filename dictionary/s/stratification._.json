@@ -1,0 +1,18 @@
+{
+    "base": "stratification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stratification",
+    "n2": "stratifications",
+    "n3": "the stratification",
+    "n4": "the stratifications",
+    "n5": "stratification's",
+    "n6": "stratifications'",
+    "n7": "a stratification",
+    "n8": "many stratifications"
+}

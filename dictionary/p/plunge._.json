@@ -1,0 +1,18 @@
+{
+    "base": "plunge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plunge",
+    "n2": "plunges",
+    "n3": "the plunge",
+    "n4": "the plunges",
+    "n5": "plunge's",
+    "n6": "plunges'",
+    "n7": "a plunge",
+    "n8": "many plunges"
+}

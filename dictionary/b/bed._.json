@@ -1,0 +1,18 @@
+{
+    "base": "bed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 56,
+    "max_commonness": 6834,
+    "commonness_ge_count": 277,
+    "n1": "bed",
+    "n2": "beds",
+    "n3": "the bed",
+    "n4": "the beds",
+    "n5": "bed's",
+    "n6": "beds'",
+    "n7": "a bed",
+    "n8": "many beds"
+}

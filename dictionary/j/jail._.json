@@ -1,11 +1,24 @@
 {
     "base": "jail",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "jail",
     "v2": "jailed",
     "v3": "jailed",
     "v4": "jailing",
-    "v5": "jails"
+    "v5": "jails",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "jail",
+    "n2": "jails",
+    "n3": "the jail",
+    "n4": "the jails",
+    "n5": "jail's",
+    "n6": "jails'",
+    "n7": "a jail",
+    "n8": "many jails"
 }

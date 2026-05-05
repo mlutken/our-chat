@@ -1,0 +1,18 @@
+{
+    "base": "instant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "instant",
+    "n2": "instants",
+    "n3": "the instant",
+    "n4": "the instants",
+    "n5": "instant's",
+    "n6": "instants'",
+    "n7": "an instant",
+    "n8": "many instants"
+}

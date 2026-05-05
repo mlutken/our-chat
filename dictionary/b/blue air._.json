@@ -1,0 +1,18 @@
+{
+    "base": "blue air",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blue air",
+    "n2": "blue airs",
+    "n3": "the blue air",
+    "n4": "the blue airs",
+    "n5": "blue air's",
+    "n6": "blue airs'",
+    "n7": "a blue air",
+    "n8": "many blue airs"
+}

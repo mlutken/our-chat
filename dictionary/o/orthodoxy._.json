@@ -1,0 +1,18 @@
+{
+    "base": "orthodoxy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orthodoxy",
+    "n2": "orthodoxies",
+    "n3": "the orthodoxy",
+    "n4": "the orthodoxies",
+    "n5": "orthodoxy's",
+    "n6": "orthodoxies'",
+    "n7": "an orthodoxy",
+    "n8": "many orthodoxies"
+}

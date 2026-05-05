@@ -1,0 +1,18 @@
+{
+    "base": "ivory tower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ivory tower",
+    "n2": "ivory towers",
+    "n3": "the ivory tower",
+    "n4": "the ivory towers",
+    "n5": "ivory tower's",
+    "n6": "ivory towers'",
+    "n7": "an ivory tower",
+    "n8": "many ivory towers"
+}

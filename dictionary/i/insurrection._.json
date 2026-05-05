@@ -1,0 +1,18 @@
+{
+    "base": "insurrection",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "insurrection",
+    "n2": "insurrections",
+    "n3": "the insurrection",
+    "n4": "the insurrections",
+    "n5": "insurrection's",
+    "n6": "insurrections'",
+    "n7": "an insurrection",
+    "n8": "many insurrections"
+}

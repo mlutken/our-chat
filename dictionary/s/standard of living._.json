@@ -1,0 +1,18 @@
+{
+    "base": "standard of living",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "standard of living",
+    "n2": "standard of livings",
+    "n3": "the standard of living",
+    "n4": "the standard of livings",
+    "n5": "standard of living's",
+    "n6": "standard of livings'",
+    "n7": "a standard of living",
+    "n8": "many standard of livings"
+}

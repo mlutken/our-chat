@@ -1,0 +1,18 @@
+{
+    "base": "weekly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "weekly",
+    "n2": "weeklies",
+    "n3": "the weekly",
+    "n4": "the weeklies",
+    "n5": "weekly's",
+    "n6": "weeklies'",
+    "n7": "a weekly",
+    "n8": "many weeklies"
+}

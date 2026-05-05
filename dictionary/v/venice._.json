@@ -1,0 +1,18 @@
+{
+    "base": "venice",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "venice",
+    "n2": "venices",
+    "n3": "the venice",
+    "n4": "the venices",
+    "n5": "venice's",
+    "n6": "venices'",
+    "n7": "a venice",
+    "n8": "many venices"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rubbish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rubbish",
+    "n2": "rubbishes",
+    "n3": "the rubbish",
+    "n4": "the rubbishes",
+    "n5": "rubbish's",
+    "n6": "rubbishes'",
+    "n7": "a rubbish",
+    "n8": "many rubbishes"
+}

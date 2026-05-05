@@ -1,0 +1,18 @@
+{
+    "base": "hillbilly music",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hillbilly music",
+    "n2": "hillbilly musics",
+    "n3": "the hillbilly music",
+    "n4": "the hillbilly musics",
+    "n5": "hillbilly music's",
+    "n6": "hillbilly musics'",
+    "n7": "a hillbilly music",
+    "n8": "many hillbilly musics"
+}

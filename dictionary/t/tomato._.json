@@ -1,0 +1,18 @@
+{
+    "base": "tomato",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tomato",
+    "n2": "tomatoes",
+    "n3": "the tomato",
+    "n4": "the tomatoes",
+    "n5": "tomato's",
+    "n6": "tomatoes'",
+    "n7": "a tomato",
+    "n8": "many tomatoes"
+}

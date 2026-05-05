@@ -1,0 +1,18 @@
+{
+    "base": "charm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "charm",
+    "n2": "charms",
+    "n3": "the charm",
+    "n4": "the charms",
+    "n5": "charm's",
+    "n6": "charms'",
+    "n7": "a charm",
+    "n8": "many charms"
+}

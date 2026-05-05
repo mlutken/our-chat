@@ -1,0 +1,18 @@
+{
+    "base": "blood transfusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blood transfusion",
+    "n2": "blood transfusions",
+    "n3": "the blood transfusion",
+    "n4": "the blood transfusions",
+    "n5": "blood transfusion's",
+    "n6": "blood transfusions'",
+    "n7": "a blood transfusion",
+    "n8": "many blood transfusions"
+}

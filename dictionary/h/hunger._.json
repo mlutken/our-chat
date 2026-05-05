@@ -1,0 +1,18 @@
+{
+    "base": "hunger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "hunger",
+    "n2": "hungers",
+    "n3": "the hunger",
+    "n4": "the hungers",
+    "n5": "hunger's",
+    "n6": "hungers'",
+    "n7": "a hunger",
+    "n8": "many hungers"
+}

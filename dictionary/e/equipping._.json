@@ -1,0 +1,18 @@
+{
+    "base": "equipping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "equipping",
+    "n2": "equippings",
+    "n3": "the equipping",
+    "n4": "the equippings",
+    "n5": "equipping's",
+    "n6": "equippings'",
+    "n7": "an equipping",
+    "n8": "many equippings"
+}

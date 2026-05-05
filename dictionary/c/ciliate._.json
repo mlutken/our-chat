@@ -1,0 +1,18 @@
+{
+    "base": "ciliate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ciliate",
+    "n2": "ciliates",
+    "n3": "the ciliate",
+    "n4": "the ciliates",
+    "n5": "ciliate's",
+    "n6": "ciliates'",
+    "n7": "a ciliate",
+    "n8": "many ciliates"
+}

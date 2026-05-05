@@ -7,5 +7,12 @@
     "n2": "suits",
     "n3": "the suit",
     "n4": "the suits",
-    "n5": "suit's"
+    "n5": "suit's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "suits'",
+    "n7": "a suit",
+    "n8": "many suits"
 }

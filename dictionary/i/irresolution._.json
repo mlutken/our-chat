@@ -1,0 +1,18 @@
+{
+    "base": "irresolution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "irresolution",
+    "n2": "irresolutions",
+    "n3": "the irresolution",
+    "n4": "the irresolutions",
+    "n5": "irresolution's",
+    "n6": "irresolutions'",
+    "n7": "an irresolution",
+    "n8": "many irresolutions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "swashbuckler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swashbuckler",
+    "n2": "swashbucklers",
+    "n3": "the swashbuckler",
+    "n4": "the swashbucklers",
+    "n5": "swashbuckler's",
+    "n6": "swashbucklers'",
+    "n7": "a swashbuckler",
+    "n8": "many swashbucklers"
+}

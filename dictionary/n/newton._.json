@@ -1,0 +1,18 @@
+{
+    "base": "newton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "newton",
+    "n2": "newtons",
+    "n3": "the newton",
+    "n4": "the newtons",
+    "n5": "newton's",
+    "n6": "newtons'",
+    "n7": "a newton",
+    "n8": "many newtons"
+}

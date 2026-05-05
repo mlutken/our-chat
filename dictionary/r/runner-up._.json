@@ -1,0 +1,18 @@
+{
+    "base": "runner-up",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "runner-up",
+    "n2": "runners-up",
+    "n3": "the runner-up",
+    "n4": "the runners-up",
+    "n5": "runner-up's",
+    "n6": "runners-up's",
+    "n7": "a runner-up",
+    "n8": "many runners-up"
+}

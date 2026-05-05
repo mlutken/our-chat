@@ -1,0 +1,18 @@
+{
+    "base": "parthenon",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parthenon",
+    "n2": "parthenons",
+    "n3": "the parthenon",
+    "n4": "the parthenons",
+    "n5": "parthenon's",
+    "n6": "parthenons'",
+    "n7": "a parthenon",
+    "n8": "many parthenons"
+}

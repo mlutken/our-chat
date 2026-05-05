@@ -7,5 +7,12 @@
     "n2": "poems",
     "n3": "the poem",
     "n4": "the poems",
-    "n5": "poem's"
+    "n5": "poem's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "poems'",
+    "n7": "a poem",
+    "n8": "many poems"
 }

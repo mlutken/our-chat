@@ -1,0 +1,18 @@
+{
+    "base": "straggler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "straggler",
+    "n2": "stragglers",
+    "n3": "the straggler",
+    "n4": "the stragglers",
+    "n5": "straggler's",
+    "n6": "stragglers'",
+    "n7": "a straggler",
+    "n8": "many stragglers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "forte-piano",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forte-piano",
+    "n2": "forte-pianos",
+    "n3": "the forte-piano",
+    "n4": "the forte-pianos",
+    "n5": "forte-piano's",
+    "n6": "forte-pianos'",
+    "n7": "a forte-piano",
+    "n8": "many forte-pianos"
+}

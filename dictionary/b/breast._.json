@@ -1,0 +1,18 @@
+{
+    "base": "breast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "breast",
+    "n2": "breasts",
+    "n3": "the breast",
+    "n4": "the breasts",
+    "n5": "breast's",
+    "n6": "breasts'",
+    "n7": "a breast",
+    "n8": "many breasts"
+}

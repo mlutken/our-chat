@@ -1,0 +1,18 @@
+{
+    "base": "roarer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roarer",
+    "n2": "roarers",
+    "n3": "the roarer",
+    "n4": "the roarers",
+    "n5": "roarer's",
+    "n6": "roarers'",
+    "n7": "a roarer",
+    "n8": "many roarers"
+}

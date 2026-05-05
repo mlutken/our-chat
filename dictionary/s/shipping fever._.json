@@ -1,0 +1,18 @@
+{
+    "base": "shipping fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "shipping fever",
+    "n2": "shipping fevers",
+    "n3": "the shipping fever",
+    "n4": "the shipping fevers",
+    "n5": "shipping fever's",
+    "n6": "shipping fevers'",
+    "n7": "a shipping fever",
+    "n8": "many shipping fevers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "subjugation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subjugation",
+    "n2": "subjugations",
+    "n3": "the subjugation",
+    "n4": "the subjugations",
+    "n5": "subjugation's",
+    "n6": "subjugations'",
+    "n7": "a subjugation",
+    "n8": "many subjugations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "duty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "duty",
+    "n2": "duties",
+    "n3": "the duty",
+    "n4": "the duties",
+    "n5": "duty's",
+    "n6": "duties'",
+    "n7": "a duty",
+    "n8": "many duties"
+}

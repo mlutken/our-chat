@@ -1,0 +1,18 @@
+{
+    "base": "ballet company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ballet company",
+    "n2": "ballet companies",
+    "n3": "the ballet company",
+    "n4": "the ballet companies",
+    "n5": "ballet company's",
+    "n6": "ballet companies'",
+    "n7": "a ballet company",
+    "n8": "many ballet companies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "four hundred",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "four hundred",
+    "n2": "four hundreds",
+    "n3": "the four hundred",
+    "n4": "the four hundreds",
+    "n5": "four hundred's",
+    "n6": "four hundreds'",
+    "n7": "a four hundred",
+    "n8": "many four hundreds"
+}

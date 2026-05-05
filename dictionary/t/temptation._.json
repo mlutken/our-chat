@@ -1,0 +1,18 @@
+{
+    "base": "temptation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "temptation",
+    "n2": "temptations",
+    "n3": "the temptation",
+    "n4": "the temptations",
+    "n5": "temptation's",
+    "n6": "temptations'",
+    "n7": "a temptation",
+    "n8": "many temptations"
+}

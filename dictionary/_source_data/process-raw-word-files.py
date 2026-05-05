@@ -3,7 +3,7 @@ import json
 import copy
 import pathlib
 
-g_commoness_minimum_value = 100
+g_commoness_minimum_value = 1
 
 dictionary_path     = pathlib.Path(__file__).parent.parent.resolve()
 source_data_path    = (dictionary_path / "_source_data").resolve()
@@ -85,6 +85,8 @@ def merge_dict_into_file(word_from):
         # else:
         #     print(f"FIXMENM WE WOULD IMPORT '{base_name}' WORD INTO [{g_total_words}]: {word_from} -> {wfp}")
         #     return
+
+    # return # FIXMENM
 
     g_total_words += 1
     merge_dict_into_dict(word_into, word_from)

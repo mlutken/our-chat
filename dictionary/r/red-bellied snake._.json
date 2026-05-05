@@ -1,0 +1,18 @@
+{
+    "base": "red-bellied snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red-bellied snake",
+    "n2": "red-bellied snakes",
+    "n3": "the red-bellied snake",
+    "n4": "the red-bellied snakes",
+    "n5": "red-bellied snake's",
+    "n6": "red-bellied snakes'",
+    "n7": "a red-bellied snake",
+    "n8": "many red-bellied snakes"
+}

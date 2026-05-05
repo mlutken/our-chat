@@ -1,0 +1,18 @@
+{
+    "base": "transfusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transfusion",
+    "n2": "transfusions",
+    "n3": "the transfusion",
+    "n4": "the transfusions",
+    "n5": "transfusion's",
+    "n6": "transfusions'",
+    "n7": "a transfusion",
+    "n8": "many transfusions"
+}

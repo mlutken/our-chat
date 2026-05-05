@@ -1,0 +1,18 @@
+{
+    "base": "gatepost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gatepost",
+    "n2": "gateposts",
+    "n3": "the gatepost",
+    "n4": "the gateposts",
+    "n5": "gatepost's",
+    "n6": "gateposts'",
+    "n7": "a gatepost",
+    "n8": "many gateposts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bite",
+    "n2": "bites",
+    "n3": "the bite",
+    "n4": "the bites",
+    "n5": "bite's",
+    "n6": "bites'",
+    "n7": "a bite",
+    "n8": "many bites"
+}

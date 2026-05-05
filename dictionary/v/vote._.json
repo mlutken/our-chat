@@ -1,0 +1,18 @@
+{
+    "base": "vote",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "vote",
+    "n2": "votes",
+    "n3": "the vote",
+    "n4": "the votes",
+    "n5": "vote's",
+    "n6": "votes'",
+    "n7": "a vote",
+    "n8": "many votes"
+}

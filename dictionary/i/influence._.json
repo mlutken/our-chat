@@ -7,5 +7,12 @@
     "n2": "influences",
     "n3": "the influence",
     "n4": "the influences",
-    "n5": "influence's"
+    "n5": "influence's",
+    "proper": false,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n6": "influences'",
+    "n7": "an influence",
+    "n8": "many influences"
 }

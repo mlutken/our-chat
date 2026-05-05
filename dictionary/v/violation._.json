@@ -1,0 +1,18 @@
+{
+    "base": "violation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "violation",
+    "n2": "violations",
+    "n3": "the violation",
+    "n4": "the violations",
+    "n5": "violation's",
+    "n6": "violations'",
+    "n7": "a violation",
+    "n8": "many violations"
+}

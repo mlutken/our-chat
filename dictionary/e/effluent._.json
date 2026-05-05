@@ -1,0 +1,18 @@
+{
+    "base": "effluent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "effluent",
+    "n2": "effluents",
+    "n3": "the effluent",
+    "n4": "the effluents",
+    "n5": "effluent's",
+    "n6": "effluents'",
+    "n7": "an effluent",
+    "n8": "many effluents"
+}

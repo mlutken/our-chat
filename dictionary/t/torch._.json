@@ -1,0 +1,18 @@
+{
+    "base": "torch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "torch",
+    "n2": "torches",
+    "n3": "the torch",
+    "n4": "the torches",
+    "n5": "torch's",
+    "n6": "torches'",
+    "n7": "a torch",
+    "n8": "many torches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rattlesnake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rattlesnake",
+    "n2": "rattlesnakes",
+    "n3": "the rattlesnake",
+    "n4": "the rattlesnakes",
+    "n5": "rattlesnake's",
+    "n6": "rattlesnakes'",
+    "n7": "a rattlesnake",
+    "n8": "many rattlesnakes"
+}

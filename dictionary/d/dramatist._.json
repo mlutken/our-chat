@@ -1,0 +1,18 @@
+{
+    "base": "dramatist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dramatist",
+    "n2": "dramatists",
+    "n3": "the dramatist",
+    "n4": "the dramatists",
+    "n5": "dramatist's",
+    "n6": "dramatists'",
+    "n7": "a dramatist",
+    "n8": "many dramatists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "threshing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "threshing",
+    "n2": "threshings",
+    "n3": "the threshing",
+    "n4": "the threshings",
+    "n5": "threshing's",
+    "n6": "threshings'",
+    "n7": "a threshing",
+    "n8": "many threshings"
+}

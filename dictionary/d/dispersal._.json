@@ -1,0 +1,18 @@
+{
+    "base": "dispersal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dispersal",
+    "n2": "dispersals",
+    "n3": "the dispersal",
+    "n4": "the dispersals",
+    "n5": "dispersal's",
+    "n6": "dispersals'",
+    "n7": "a dispersal",
+    "n8": "many dispersals"
+}

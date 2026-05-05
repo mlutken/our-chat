@@ -1,0 +1,18 @@
+{
+    "base": "assigning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assigning",
+    "n2": "assignings",
+    "n3": "the assigning",
+    "n4": "the assignings",
+    "n5": "assigning's",
+    "n6": "assignings'",
+    "n7": "an assigning",
+    "n8": "many assignings"
+}

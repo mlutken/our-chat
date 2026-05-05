@@ -1,0 +1,18 @@
+{
+    "base": "desorption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "desorption",
+    "n2": "desorptions",
+    "n3": "the desorption",
+    "n4": "the desorptions",
+    "n5": "desorption's",
+    "n6": "desorptions'",
+    "n7": "a desorption",
+    "n8": "many desorptions"
+}

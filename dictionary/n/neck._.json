@@ -1,0 +1,18 @@
+{
+    "base": "neck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "neck",
+    "n2": "necks",
+    "n3": "the neck",
+    "n4": "the necks",
+    "n5": "neck's",
+    "n6": "necks'",
+    "n7": "a neck",
+    "n8": "many necks"
+}

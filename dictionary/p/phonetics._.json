@@ -1,0 +1,18 @@
+{
+    "base": "phonetics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phonetics",
+    "n2": "phoneticses",
+    "n3": "the phonetics",
+    "n4": "the phoneticses",
+    "n5": "phonetics'",
+    "n6": "phoneticses'",
+    "n7": "a phonetics",
+    "n8": "many phoneticses"
+}

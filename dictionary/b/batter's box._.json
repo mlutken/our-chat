@@ -1,0 +1,18 @@
+{
+    "base": "batter's box",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "batter's box",
+    "n2": "batter's boxes",
+    "n3": "the batter's box",
+    "n4": "the batter's boxes",
+    "n5": "batter's box's",
+    "n6": "batter's boxes'",
+    "n7": "a batter's box",
+    "n8": "many batter's boxes"
+}

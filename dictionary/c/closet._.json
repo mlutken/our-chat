@@ -1,0 +1,18 @@
+{
+    "base": "closet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "closet",
+    "n2": "closets",
+    "n3": "the closet",
+    "n4": "the closets",
+    "n5": "closet's",
+    "n6": "closets'",
+    "n7": "a closet",
+    "n8": "many closets"
+}

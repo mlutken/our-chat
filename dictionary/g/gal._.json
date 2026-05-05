@@ -1,0 +1,18 @@
+{
+    "base": "gal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gal",
+    "n2": "gals",
+    "n3": "the gal",
+    "n4": "the gals",
+    "n5": "gal's",
+    "n6": "gals'",
+    "n7": "a gal",
+    "n8": "many gals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "taxidriver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "taxidriver",
+    "n2": "taxidrivers",
+    "n3": "the taxidriver",
+    "n4": "the taxidrivers",
+    "n5": "taxidriver's",
+    "n6": "taxidrivers'",
+    "n7": "a taxidriver",
+    "n8": "many taxidrivers"
+}

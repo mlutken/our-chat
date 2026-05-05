@@ -1,0 +1,18 @@
+{
+    "base": "world affairs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "world affairs",
+    "n2": "world affairses",
+    "n3": "the world affairs",
+    "n4": "the world affairses",
+    "n5": "world affairs'",
+    "n6": "world affairses'",
+    "n7": "a world affairs",
+    "n8": "many world affairses"
+}

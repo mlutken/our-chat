@@ -1,0 +1,18 @@
+{
+    "base": "rapist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rapist",
+    "n2": "rapists",
+    "n3": "the rapist",
+    "n4": "the rapists",
+    "n5": "rapist's",
+    "n6": "rapists'",
+    "n7": "a rapist",
+    "n8": "many rapists"
+}

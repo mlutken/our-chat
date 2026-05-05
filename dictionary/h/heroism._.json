@@ -1,0 +1,18 @@
+{
+    "base": "heroism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "heroism",
+    "n2": "heroisms",
+    "n3": "the heroism",
+    "n4": "the heroisms",
+    "n5": "heroism's",
+    "n6": "heroisms'",
+    "n7": "a heroism",
+    "n8": "many heroisms"
+}

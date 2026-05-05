@@ -1,11 +1,24 @@
 {
     "base": "dance",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "dance",
     "v2": "danced",
     "v3": "danced",
     "v4": "dancing",
-    "v5": "dances"
+    "v5": "dances",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "dance",
+    "n2": "dances",
+    "n3": "the dance",
+    "n4": "the dances",
+    "n5": "dance's",
+    "n6": "dances'",
+    "n7": "a dance",
+    "n8": "many dances"
 }

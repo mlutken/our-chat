@@ -1,0 +1,18 @@
+{
+    "base": "morphophonemic system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "morphophonemic system",
+    "n2": "morphophonemic systems",
+    "n3": "the morphophonemic system",
+    "n4": "the morphophonemic systems",
+    "n5": "morphophonemic system's",
+    "n6": "morphophonemic systems'",
+    "n7": "a morphophonemic system",
+    "n8": "many morphophonemic systems"
+}

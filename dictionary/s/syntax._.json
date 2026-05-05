@@ -1,0 +1,18 @@
+{
+    "base": "syntax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "syntax",
+    "n2": "syntaxes",
+    "n3": "the syntax",
+    "n4": "the syntaxes",
+    "n5": "syntax's",
+    "n6": "syntaxes'",
+    "n7": "a syntax",
+    "n8": "many syntaxes"
+}

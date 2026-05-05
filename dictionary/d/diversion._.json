@@ -1,0 +1,18 @@
+{
+    "base": "diversion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "diversion",
+    "n2": "diversions",
+    "n3": "the diversion",
+    "n4": "the diversions",
+    "n5": "diversion's",
+    "n6": "diversions'",
+    "n7": "a diversion",
+    "n8": "many diversions"
+}

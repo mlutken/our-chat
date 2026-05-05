@@ -1,0 +1,18 @@
+{
+    "base": "dump truck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dump truck",
+    "n2": "dump trucks",
+    "n3": "the dump truck",
+    "n4": "the dump trucks",
+    "n5": "dump truck's",
+    "n6": "dump trucks'",
+    "n7": "a dump truck",
+    "n8": "many dump trucks"
+}

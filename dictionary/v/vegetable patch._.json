@@ -1,0 +1,18 @@
+{
+    "base": "vegetable patch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vegetable patch",
+    "n2": "vegetable patches",
+    "n3": "the vegetable patch",
+    "n4": "the vegetable patches",
+    "n5": "vegetable patch's",
+    "n6": "vegetable patches'",
+    "n7": "a vegetable patch",
+    "n8": "many vegetable patches"
+}

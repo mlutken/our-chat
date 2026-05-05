@@ -1,0 +1,18 @@
+{
+    "base": "root cellar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "root cellar",
+    "n2": "root cellars",
+    "n3": "the root cellar",
+    "n4": "the root cellars",
+    "n5": "root cellar's",
+    "n6": "root cellars'",
+    "n7": "a root cellar",
+    "n8": "many root cellars"
+}

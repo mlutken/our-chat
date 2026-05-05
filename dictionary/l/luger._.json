@@ -1,0 +1,18 @@
+{
+    "base": "luger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "luger",
+    "n2": "lugers",
+    "n3": "the luger",
+    "n4": "the lugers",
+    "n5": "luger's",
+    "n6": "lugers'",
+    "n7": "a luger",
+    "n8": "many lugers"
+}

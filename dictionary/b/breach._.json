@@ -1,0 +1,18 @@
+{
+    "base": "breach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breach",
+    "n2": "breaches",
+    "n3": "the breach",
+    "n4": "the breaches",
+    "n5": "breach's",
+    "n6": "breaches'",
+    "n7": "a breach",
+    "n8": "many breaches"
+}

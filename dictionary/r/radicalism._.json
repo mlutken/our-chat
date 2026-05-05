@@ -1,0 +1,18 @@
+{
+    "base": "radicalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "radicalism",
+    "n2": "radicalisms",
+    "n3": "the radicalism",
+    "n4": "the radicalisms",
+    "n5": "radicalism's",
+    "n6": "radicalisms'",
+    "n7": "a radicalism",
+    "n8": "many radicalisms"
+}

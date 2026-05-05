@@ -1,11 +1,24 @@
 {
     "base": "knot",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "knot",
     "v2": "knotted",
     "v3": "knotted",
     "v4": "knotting",
-    "v5": "knots"
+    "v5": "knots",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "knot",
+    "n2": "knots",
+    "n3": "the knot",
+    "n4": "the knots",
+    "n5": "knot's",
+    "n6": "knots'",
+    "n7": "a knot",
+    "n8": "many knots"
 }

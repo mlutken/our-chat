@@ -1,0 +1,18 @@
+{
+    "base": "high frequency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "high frequency",
+    "n2": "high frequencies",
+    "n3": "the high frequency",
+    "n4": "the high frequencies",
+    "n5": "high frequency's",
+    "n6": "high frequencies'",
+    "n7": "a high frequency",
+    "n8": "many high frequencies"
+}

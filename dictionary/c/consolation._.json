@@ -1,0 +1,18 @@
+{
+    "base": "consolation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "consolation",
+    "n2": "consolations",
+    "n3": "the consolation",
+    "n4": "the consolations",
+    "n5": "consolation's",
+    "n6": "consolations'",
+    "n7": "a consolation",
+    "n8": "many consolations"
+}

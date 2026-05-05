@@ -1,0 +1,18 @@
+{
+    "base": "differential",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "differential",
+    "n2": "differentials",
+    "n3": "the differential",
+    "n4": "the differentials",
+    "n5": "differential's",
+    "n6": "differentials'",
+    "n7": "a differential",
+    "n8": "many differentials"
+}

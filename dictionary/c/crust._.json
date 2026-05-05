@@ -1,0 +1,18 @@
+{
+    "base": "crust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crust",
+    "n2": "crusts",
+    "n3": "the crust",
+    "n4": "the crusts",
+    "n5": "crust's",
+    "n6": "crusts'",
+    "n7": "a crust",
+    "n8": "many crusts"
+}

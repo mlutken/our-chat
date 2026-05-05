@@ -1,0 +1,18 @@
+{
+    "base": "unemployment compensation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unemployment compensation",
+    "n2": "unemployment compensations",
+    "n3": "the unemployment compensation",
+    "n4": "the unemployment compensations",
+    "n5": "unemployment compensation's",
+    "n6": "unemployment compensations'",
+    "n7": "an unemployment compensation",
+    "n8": "many unemployment compensations"
+}

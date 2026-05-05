@@ -7,5 +7,12 @@
     "n2": "crimes",
     "n3": "the crime",
     "n4": "the crimes",
-    "n5": "crime's"
+    "n5": "crime's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "crimes'",
+    "n7": "a crime",
+    "n8": "many crimes"
 }

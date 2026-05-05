@@ -1,0 +1,18 @@
+{
+    "base": "conspirator",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conspirator",
+    "n2": "conspirators",
+    "n3": "the conspirator",
+    "n4": "the conspirators",
+    "n5": "conspirator's",
+    "n6": "conspirators'",
+    "n7": "a conspirator",
+    "n8": "many conspirators"
+}

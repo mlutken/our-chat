@@ -1,0 +1,18 @@
+{
+    "base": "screeching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "screeching",
+    "n2": "screechings",
+    "n3": "the screeching",
+    "n4": "the screechings",
+    "n5": "screeching's",
+    "n6": "screechings'",
+    "n7": "a screeching",
+    "n8": "many screechings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "elizabethan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "elizabethan",
+    "n2": "elizabethans",
+    "n3": "the elizabethan",
+    "n4": "the elizabethans",
+    "n5": "elizabethan's",
+    "n6": "elizabethans'",
+    "n7": "an elizabethan",
+    "n8": "many elizabethans"
+}

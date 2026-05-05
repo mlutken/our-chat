@@ -1,0 +1,18 @@
+{
+    "base": "repairman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repairman",
+    "n2": "repairmen",
+    "n3": "the repairman",
+    "n4": "the repairmen",
+    "n5": "repairman's",
+    "n6": "repairmen's",
+    "n7": "a repairman",
+    "n8": "many repairmen"
+}

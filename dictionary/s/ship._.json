@@ -1,11 +1,24 @@
 {
     "base": "ship",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "ship",
     "v2": "shipped",
     "v3": "shipped",
     "v4": "shipping",
-    "v5": "ships"
+    "v5": "ships",
+    "proper": true,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n1": "ship",
+    "n2": "ships",
+    "n3": "the ship",
+    "n4": "the ships",
+    "n5": "ship's",
+    "n6": "ships'",
+    "n7": "a ship",
+    "n8": "many ships"
 }

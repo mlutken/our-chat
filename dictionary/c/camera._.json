@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "camera",
-    "n2": "cameras",
+    "n2": "camerae",
     "n3": "the camera",
-    "n4": "the cameras",
-    "n5": "camera's"
+    "n4": "the camerae",
+    "n5": "camera's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "camerae's",
+    "n7": "a camera",
+    "n8": "many camerae"
 }

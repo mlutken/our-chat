@@ -1,0 +1,18 @@
+{
+    "base": "pilgrim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pilgrim",
+    "n2": "pilgrims",
+    "n3": "the pilgrim",
+    "n4": "the pilgrims",
+    "n5": "pilgrim's",
+    "n6": "pilgrims'",
+    "n7": "a pilgrim",
+    "n8": "many pilgrims"
+}

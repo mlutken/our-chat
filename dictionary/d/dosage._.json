@@ -1,0 +1,18 @@
+{
+    "base": "dosage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dosage",
+    "n2": "dosages",
+    "n3": "the dosage",
+    "n4": "the dosages",
+    "n5": "dosage's",
+    "n6": "dosages'",
+    "n7": "a dosage",
+    "n8": "many dosages"
+}

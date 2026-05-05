@@ -7,5 +7,12 @@
     "n2": "guests",
     "n3": "the guest",
     "n4": "the guests",
-    "n5": "guest's"
+    "n5": "guest's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "guests'",
+    "n7": "a guest",
+    "n8": "many guests"
 }

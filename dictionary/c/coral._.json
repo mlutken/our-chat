@@ -1,0 +1,18 @@
+{
+    "base": "coral",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coral",
+    "n2": "corals",
+    "n3": "the coral",
+    "n4": "the corals",
+    "n5": "coral's",
+    "n6": "corals'",
+    "n7": "a coral",
+    "n8": "many corals"
+}

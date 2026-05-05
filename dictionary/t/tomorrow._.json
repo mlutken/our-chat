@@ -1,8 +1,21 @@
 {
     "base": "tomorrow",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "tomorrow",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "tomorrow",
+    "n2": "tomorrows",
+    "n3": "the tomorrow",
+    "n4": "the tomorrows",
+    "n5": "tomorrow's",
+    "n6": "tomorrows'",
+    "n7": "a tomorrow",
+    "n8": "many tomorrows"
 }

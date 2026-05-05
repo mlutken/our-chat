@@ -1,0 +1,18 @@
+{
+    "base": "dissent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dissent",
+    "n2": "dissents",
+    "n3": "the dissent",
+    "n4": "the dissents",
+    "n5": "dissent's",
+    "n6": "dissents'",
+    "n7": "a dissent",
+    "n8": "many dissents"
+}

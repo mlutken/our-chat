@@ -1,0 +1,18 @@
+{
+    "base": "target language",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "target language",
+    "n2": "target languages",
+    "n3": "the target language",
+    "n4": "the target languages",
+    "n5": "target language's",
+    "n6": "target languages'",
+    "n7": "a target language",
+    "n8": "many target languages"
+}

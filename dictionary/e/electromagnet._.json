@@ -1,0 +1,18 @@
+{
+    "base": "electromagnet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electromagnet",
+    "n2": "electromagnets",
+    "n3": "the electromagnet",
+    "n4": "the electromagnets",
+    "n5": "electromagnet's",
+    "n6": "electromagnets'",
+    "n7": "an electromagnet",
+    "n8": "many electromagnets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "greek",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "greek",
+    "n2": "greeks",
+    "n3": "the greek",
+    "n4": "the greeks",
+    "n5": "greek's",
+    "n6": "greeks'",
+    "n7": "a greek",
+    "n8": "many greeks"
+}

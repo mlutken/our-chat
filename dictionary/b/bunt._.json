@@ -1,0 +1,18 @@
+{
+    "base": "bunt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bunt",
+    "n2": "bunts",
+    "n3": "the bunt",
+    "n4": "the bunts",
+    "n5": "bunt's",
+    "n6": "bunts'",
+    "n7": "a bunt",
+    "n8": "many bunts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "whim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whim",
+    "n2": "whims",
+    "n3": "the whim",
+    "n4": "the whims",
+    "n5": "whim's",
+    "n6": "whims'",
+    "n7": "a whim",
+    "n8": "many whims"
+}

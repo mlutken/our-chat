@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "tableau",
-    "n2": "tableaus",
+    "n2": "tableaux",
     "n3": "the tableau",
-    "n4": "the tableaus",
-    "n5": "tableau's"
+    "n4": "the tableaux",
+    "n5": "tableau's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "tableaux's",
+    "n7": "a tableau",
+    "n8": "many tableaux"
 }

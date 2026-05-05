@@ -1,11 +1,24 @@
 {
     "base": "park",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "park",
     "v2": "parked",
     "v3": "parked",
     "v4": "parking",
-    "v5": "parks"
+    "v5": "parks",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "park",
+    "n2": "parks",
+    "n3": "the park",
+    "n4": "the parks",
+    "n5": "park's",
+    "n6": "parks'",
+    "n7": "a park",
+    "n8": "many parks"
 }

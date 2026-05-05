@@ -1,0 +1,18 @@
+{
+    "base": "follower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "follower",
+    "n2": "followers",
+    "n3": "the follower",
+    "n4": "the followers",
+    "n5": "follower's",
+    "n6": "followers'",
+    "n7": "a follower",
+    "n8": "many followers"
+}

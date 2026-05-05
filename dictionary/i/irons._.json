@@ -1,0 +1,18 @@
+{
+    "base": "irons",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "irons",
+    "n2": "ironses",
+    "n3": "the irons",
+    "n4": "the ironses",
+    "n5": "irons'",
+    "n6": "ironses'",
+    "n7": "an irons",
+    "n8": "many ironses"
+}

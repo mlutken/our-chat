@@ -1,0 +1,18 @@
+{
+    "base": "skulking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skulking",
+    "n2": "skulkings",
+    "n3": "the skulking",
+    "n4": "the skulkings",
+    "n5": "skulking's",
+    "n6": "skulkings'",
+    "n7": "a skulking",
+    "n8": "many skulkings"
+}

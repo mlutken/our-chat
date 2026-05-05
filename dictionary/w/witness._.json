@@ -1,0 +1,18 @@
+{
+    "base": "witness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "witness",
+    "n2": "witnesses",
+    "n3": "the witness",
+    "n4": "the witnesses",
+    "n5": "witness'",
+    "n6": "witnesses'",
+    "n7": "a witness",
+    "n8": "many witnesses"
+}

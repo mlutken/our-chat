@@ -1,0 +1,18 @@
+{
+    "base": "malfeasant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "malfeasant",
+    "n2": "malfeasants",
+    "n3": "the malfeasant",
+    "n4": "the malfeasants",
+    "n5": "malfeasant's",
+    "n6": "malfeasants'",
+    "n7": "a malfeasant",
+    "n8": "many malfeasants"
+}

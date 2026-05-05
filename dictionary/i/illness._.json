@@ -1,0 +1,18 @@
+{
+    "base": "illness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "illness",
+    "n2": "illnesses",
+    "n3": "the illness",
+    "n4": "the illnesses",
+    "n5": "illness'",
+    "n6": "illnesses'",
+    "n7": "an illness",
+    "n8": "many illnesses"
+}

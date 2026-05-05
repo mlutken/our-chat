@@ -1,0 +1,18 @@
+{
+    "base": "despair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "despair",
+    "n2": "despairs",
+    "n3": "the despair",
+    "n4": "the despairs",
+    "n5": "despair's",
+    "n6": "despairs'",
+    "n7": "a despair",
+    "n8": "many despairs"
+}

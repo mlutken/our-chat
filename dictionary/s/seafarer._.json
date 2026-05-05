@@ -1,0 +1,18 @@
+{
+    "base": "seafarer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seafarer",
+    "n2": "seafarers",
+    "n3": "the seafarer",
+    "n4": "the seafarers",
+    "n5": "seafarer's",
+    "n6": "seafarers'",
+    "n7": "a seafarer",
+    "n8": "many seafarers"
+}

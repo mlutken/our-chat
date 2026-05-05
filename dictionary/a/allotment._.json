@@ -1,0 +1,18 @@
+{
+    "base": "allotment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "allotment",
+    "n2": "allotments",
+    "n3": "the allotment",
+    "n4": "the allotments",
+    "n5": "allotment's",
+    "n6": "allotments'",
+    "n7": "an allotment",
+    "n8": "many allotments"
+}

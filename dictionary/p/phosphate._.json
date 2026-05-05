@@ -1,0 +1,18 @@
+{
+    "base": "phosphate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "phosphate",
+    "n2": "phosphates",
+    "n3": "the phosphate",
+    "n4": "the phosphates",
+    "n5": "phosphate's",
+    "n6": "phosphates'",
+    "n7": "a phosphate",
+    "n8": "many phosphates"
+}

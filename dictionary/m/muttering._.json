@@ -1,0 +1,18 @@
+{
+    "base": "muttering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muttering",
+    "n2": "mutterings",
+    "n3": "the muttering",
+    "n4": "the mutterings",
+    "n5": "muttering's",
+    "n6": "mutterings'",
+    "n7": "a muttering",
+    "n8": "many mutterings"
+}

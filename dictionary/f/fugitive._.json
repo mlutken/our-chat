@@ -1,0 +1,18 @@
+{
+    "base": "fugitive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fugitive",
+    "n2": "fugitives",
+    "n3": "the fugitive",
+    "n4": "the fugitives",
+    "n5": "fugitive's",
+    "n6": "fugitives'",
+    "n7": "a fugitive",
+    "n8": "many fugitives"
+}

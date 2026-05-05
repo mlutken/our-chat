@@ -1,0 +1,18 @@
+{
+    "base": "dessert",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dessert",
+    "n2": "desserts",
+    "n3": "the dessert",
+    "n4": "the desserts",
+    "n5": "dessert's",
+    "n6": "desserts'",
+    "n7": "a dessert",
+    "n8": "many desserts"
+}

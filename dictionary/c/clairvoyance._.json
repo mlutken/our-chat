@@ -1,0 +1,18 @@
+{
+    "base": "clairvoyance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clairvoyance",
+    "n2": "clairvoyances",
+    "n3": "the clairvoyance",
+    "n4": "the clairvoyances",
+    "n5": "clairvoyance's",
+    "n6": "clairvoyances'",
+    "n7": "a clairvoyance",
+    "n8": "many clairvoyances"
+}

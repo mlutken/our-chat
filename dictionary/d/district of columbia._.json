@@ -1,0 +1,18 @@
+{
+    "base": "district of columbia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "district of columbia",
+    "n2": "district of columbias",
+    "n3": "the district of columbia",
+    "n4": "the district of columbias",
+    "n5": "district of columbia's",
+    "n6": "district of columbias'",
+    "n7": "a district of columbia",
+    "n8": "many district of columbias"
+}

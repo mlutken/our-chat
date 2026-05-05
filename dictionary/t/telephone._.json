@@ -1,0 +1,18 @@
+{
+    "base": "telephone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "telephone",
+    "n2": "telephones",
+    "n3": "the telephone",
+    "n4": "the telephones",
+    "n5": "telephone's",
+    "n6": "telephones'",
+    "n7": "a telephone",
+    "n8": "many telephones"
+}

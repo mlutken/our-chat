@@ -1,0 +1,18 @@
+{
+    "base": "administrative official",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "administrative official",
+    "n2": "administrative officials",
+    "n3": "the administrative official",
+    "n4": "the administrative officials",
+    "n5": "administrative official's",
+    "n6": "administrative officials'",
+    "n7": "an administrative official",
+    "n8": "many administrative officials"
+}

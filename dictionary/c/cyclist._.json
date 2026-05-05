@@ -1,0 +1,18 @@
+{
+    "base": "cyclist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "cyclist",
+    "n2": "cyclists",
+    "n3": "the cyclist",
+    "n4": "the cyclists",
+    "n5": "cyclist's",
+    "n6": "cyclists'",
+    "n7": "a cyclist",
+    "n8": "many cyclists"
+}

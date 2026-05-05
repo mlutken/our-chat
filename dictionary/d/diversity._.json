@@ -7,5 +7,12 @@
     "n2": "diversities",
     "n3": "the diversity",
     "n4": "the diversities",
-    "n5": "diversity's"
+    "n5": "diversity's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "diversities'",
+    "n7": "a diversity",
+    "n8": "many diversities"
 }

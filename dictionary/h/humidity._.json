@@ -1,0 +1,18 @@
+{
+    "base": "humidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "humidity",
+    "n2": "humidities",
+    "n3": "the humidity",
+    "n4": "the humidities",
+    "n5": "humidity's",
+    "n6": "humidities'",
+    "n7": "a humidity",
+    "n8": "many humidities"
+}

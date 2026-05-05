@@ -1,0 +1,18 @@
+{
+    "base": "bartender",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bartender",
+    "n2": "bartenders",
+    "n3": "the bartender",
+    "n4": "the bartenders",
+    "n5": "bartender's",
+    "n6": "bartenders'",
+    "n7": "a bartender",
+    "n8": "many bartenders"
+}

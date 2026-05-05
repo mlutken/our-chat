@@ -1,0 +1,18 @@
+{
+    "base": "blunder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blunder",
+    "n2": "blunders",
+    "n3": "the blunder",
+    "n4": "the blunders",
+    "n5": "blunder's",
+    "n6": "blunders'",
+    "n7": "a blunder",
+    "n8": "many blunders"
+}

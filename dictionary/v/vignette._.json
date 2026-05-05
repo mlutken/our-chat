@@ -1,0 +1,18 @@
+{
+    "base": "vignette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vignette",
+    "n2": "vignettes",
+    "n3": "the vignette",
+    "n4": "the vignettes",
+    "n5": "vignette's",
+    "n6": "vignettes'",
+    "n7": "a vignette",
+    "n8": "many vignettes"
+}

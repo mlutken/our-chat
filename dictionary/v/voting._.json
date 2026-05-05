@@ -1,0 +1,18 @@
+{
+    "base": "voting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "voting",
+    "n2": "votings",
+    "n3": "the voting",
+    "n4": "the votings",
+    "n5": "voting's",
+    "n6": "votings'",
+    "n7": "a voting",
+    "n8": "many votings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fifty-cent piece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fifty-cent piece",
+    "n2": "fifty-cent pieces",
+    "n3": "the fifty-cent piece",
+    "n4": "the fifty-cent pieces",
+    "n5": "fifty-cent piece's",
+    "n6": "fifty-cent pieces'",
+    "n7": "a fifty-cent piece",
+    "n8": "many fifty-cent pieces"
+}

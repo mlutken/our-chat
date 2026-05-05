@@ -1,0 +1,18 @@
+{
+    "base": "transducer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "transducer",
+    "n2": "transducers",
+    "n3": "the transducer",
+    "n4": "the transducers",
+    "n5": "transducer's",
+    "n6": "transducers'",
+    "n7": "a transducer",
+    "n8": "many transducers"
+}

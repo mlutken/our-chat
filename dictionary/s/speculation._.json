@@ -1,0 +1,18 @@
+{
+    "base": "speculation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "speculation",
+    "n2": "speculations",
+    "n3": "the speculation",
+    "n4": "the speculations",
+    "n5": "speculation's",
+    "n6": "speculations'",
+    "n7": "a speculation",
+    "n8": "many speculations"
+}

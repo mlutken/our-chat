@@ -1,0 +1,18 @@
+{
+    "base": "room temperature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "room temperature",
+    "n2": "room temperatures",
+    "n3": "the room temperature",
+    "n4": "the room temperatures",
+    "n5": "room temperature's",
+    "n6": "room temperatures'",
+    "n7": "a room temperature",
+    "n8": "many room temperatures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "footnote",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "footnote",
+    "n2": "footnotes",
+    "n3": "the footnote",
+    "n4": "the footnotes",
+    "n5": "footnote's",
+    "n6": "footnotes'",
+    "n7": "a footnote",
+    "n8": "many footnotes"
+}

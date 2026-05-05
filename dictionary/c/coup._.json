@@ -1,0 +1,18 @@
+{
+    "base": "coup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coup",
+    "n2": "coups",
+    "n3": "the coup",
+    "n4": "the coups",
+    "n5": "coup's",
+    "n6": "coups'",
+    "n7": "a coup",
+    "n8": "many coups"
+}

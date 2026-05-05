@@ -1,0 +1,18 @@
+{
+    "base": "raising",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "raising",
+    "n2": "raisings",
+    "n3": "the raising",
+    "n4": "the raisings",
+    "n5": "raising's",
+    "n6": "raisings'",
+    "n7": "a raising",
+    "n8": "many raisings"
+}

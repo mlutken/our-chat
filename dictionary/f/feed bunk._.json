@@ -1,0 +1,18 @@
+{
+    "base": "feed bunk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "feed bunk",
+    "n2": "feed bunks",
+    "n3": "the feed bunk",
+    "n4": "the feed bunks",
+    "n5": "feed bunk's",
+    "n6": "feed bunks'",
+    "n7": "a feed bunk",
+    "n8": "many feed bunks"
+}

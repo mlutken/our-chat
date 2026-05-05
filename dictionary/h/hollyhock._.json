@@ -1,0 +1,18 @@
+{
+    "base": "hollyhock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hollyhock",
+    "n2": "hollyhocks",
+    "n3": "the hollyhock",
+    "n4": "the hollyhocks",
+    "n5": "hollyhock's",
+    "n6": "hollyhocks'",
+    "n7": "a hollyhock",
+    "n8": "many hollyhocks"
+}

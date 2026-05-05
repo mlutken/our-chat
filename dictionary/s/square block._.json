@@ -1,0 +1,18 @@
+{
+    "base": "square block",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "square block",
+    "n2": "square blocks",
+    "n3": "the square block",
+    "n4": "the square blocks",
+    "n5": "square block's",
+    "n6": "square blocks'",
+    "n7": "a square block",
+    "n8": "many square blocks"
+}

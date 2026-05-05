@@ -1,0 +1,18 @@
+{
+    "base": "personal pronoun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "personal pronoun",
+    "n2": "personal pronouns",
+    "n3": "the personal pronoun",
+    "n4": "the personal pronouns",
+    "n5": "personal pronoun's",
+    "n6": "personal pronouns'",
+    "n7": "a personal pronoun",
+    "n8": "many personal pronouns"
+}

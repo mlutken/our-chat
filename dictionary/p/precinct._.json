@@ -1,0 +1,18 @@
+{
+    "base": "precinct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "precinct",
+    "n2": "precincts",
+    "n3": "the precinct",
+    "n4": "the precincts",
+    "n5": "precinct's",
+    "n6": "precincts'",
+    "n7": "a precinct",
+    "n8": "many precincts"
+}

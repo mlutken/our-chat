@@ -1,0 +1,18 @@
+{
+    "base": "palm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "palm",
+    "n2": "palms",
+    "n3": "the palm",
+    "n4": "the palms",
+    "n5": "palm's",
+    "n6": "palms'",
+    "n7": "a palm",
+    "n8": "many palms"
+}

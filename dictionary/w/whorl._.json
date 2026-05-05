@@ -1,0 +1,18 @@
+{
+    "base": "whorl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whorl",
+    "n2": "whorls",
+    "n3": "the whorl",
+    "n4": "the whorls",
+    "n5": "whorl's",
+    "n6": "whorls'",
+    "n7": "a whorl",
+    "n8": "many whorls"
+}

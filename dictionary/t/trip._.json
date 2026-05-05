@@ -1,11 +1,24 @@
 {
     "base": "trip",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trip",
     "v2": "tripped",
     "v3": "tripped",
     "v4": "tripping",
-    "v5": "trips"
+    "v5": "trips",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "trip",
+    "n2": "trips",
+    "n3": "the trip",
+    "n4": "the trips",
+    "n5": "trip's",
+    "n6": "trips'",
+    "n7": "a trip",
+    "n8": "many trips"
 }

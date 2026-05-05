@@ -7,5 +7,12 @@
     "n2": "justices",
     "n3": "the justice",
     "n4": "the justices",
-    "n5": "justice's"
+    "n5": "justice's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "justices'",
+    "n7": "a justice",
+    "n8": "many justices"
 }

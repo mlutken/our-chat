@@ -1,0 +1,18 @@
+{
+    "base": "land site",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "land site",
+    "n2": "land sites",
+    "n3": "the land site",
+    "n4": "the land sites",
+    "n5": "land site's",
+    "n6": "land sites'",
+    "n7": "a land site",
+    "n8": "many land sites"
+}

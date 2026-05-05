@@ -1,0 +1,18 @@
+{
+    "base": "dissatisfaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dissatisfaction",
+    "n2": "dissatisfactions",
+    "n3": "the dissatisfaction",
+    "n4": "the dissatisfactions",
+    "n5": "dissatisfaction's",
+    "n6": "dissatisfactions'",
+    "n7": "a dissatisfaction",
+    "n8": "many dissatisfactions"
+}

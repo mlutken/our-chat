@@ -7,5 +7,12 @@
     "n2": "progresses",
     "n3": "the progress",
     "n4": "the progresses",
-    "n5": "progress's"
+    "n5": "progress'",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "progresses'",
+    "n7": "a progress",
+    "n8": "many progresses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "son of a bitch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "son of a bitch",
+    "n2": "son of a bitches",
+    "n3": "the son of a bitch",
+    "n4": "the son of a bitches",
+    "n5": "son of a bitch's",
+    "n6": "son of a bitches'",
+    "n7": "a son of a bitch",
+    "n8": "many son of a bitches"
+}

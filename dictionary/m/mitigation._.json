@@ -1,0 +1,18 @@
+{
+    "base": "mitigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mitigation",
+    "n2": "mitigations",
+    "n3": "the mitigation",
+    "n4": "the mitigations",
+    "n5": "mitigation's",
+    "n6": "mitigations'",
+    "n7": "a mitigation",
+    "n8": "many mitigations"
+}

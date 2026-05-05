@@ -1,0 +1,18 @@
+{
+    "base": "scratch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scratch",
+    "n2": "scratches",
+    "n3": "the scratch",
+    "n4": "the scratches",
+    "n5": "scratch's",
+    "n6": "scratches'",
+    "n7": "a scratch",
+    "n8": "many scratches"
+}

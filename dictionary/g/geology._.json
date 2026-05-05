@@ -1,0 +1,18 @@
+{
+    "base": "geology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "geology",
+    "n2": "geologies",
+    "n3": "the geology",
+    "n4": "the geologies",
+    "n5": "geology's",
+    "n6": "geologies'",
+    "n7": "a geology",
+    "n8": "many geologies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "greenwich time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "greenwich time",
+    "n2": "greenwich times",
+    "n3": "the greenwich time",
+    "n4": "the greenwich times",
+    "n5": "greenwich time's",
+    "n6": "greenwich times'",
+    "n7": "a greenwich time",
+    "n8": "many greenwich times"
+}

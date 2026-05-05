@@ -7,5 +7,12 @@
     "n2": "assets",
     "n3": "the asset",
     "n4": "the assets",
-    "n5": "asset's"
+    "n5": "asset's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "assets'",
+    "n7": "an asset",
+    "n8": "many assets"
 }

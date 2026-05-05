@@ -1,0 +1,18 @@
+{
+    "base": "hilum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "hilum",
+    "n2": "hila",
+    "n3": "the hilum",
+    "n4": "the hila",
+    "n5": "hilum's",
+    "n6": "hila's",
+    "n7": "a hilum",
+    "n8": "many hila"
+}

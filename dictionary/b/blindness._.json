@@ -1,0 +1,18 @@
+{
+    "base": "blindness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "blindness",
+    "n2": "blindnesses",
+    "n3": "the blindness",
+    "n4": "the blindnesses",
+    "n5": "blindness'",
+    "n6": "blindnesses'",
+    "n7": "a blindness",
+    "n8": "many blindnesses"
+}

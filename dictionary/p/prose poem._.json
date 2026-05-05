@@ -1,0 +1,18 @@
+{
+    "base": "prose poem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prose poem",
+    "n2": "prose poems",
+    "n3": "the prose poem",
+    "n4": "the prose poems",
+    "n5": "prose poem's",
+    "n6": "prose poems'",
+    "n7": "a prose poem",
+    "n8": "many prose poems"
+}

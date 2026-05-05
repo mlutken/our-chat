@@ -7,5 +7,12 @@
     "n2": "backgrounds",
     "n3": "the background",
     "n4": "the backgrounds",
-    "n5": "background's"
+    "n5": "background's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "backgrounds'",
+    "n7": "a background",
+    "n8": "many backgrounds"
 }

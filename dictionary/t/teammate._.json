@@ -1,0 +1,18 @@
+{
+    "base": "teammate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "teammate",
+    "n2": "teammates",
+    "n3": "the teammate",
+    "n4": "the teammates",
+    "n5": "teammate's",
+    "n6": "teammates'",
+    "n7": "a teammate",
+    "n8": "many teammates"
+}

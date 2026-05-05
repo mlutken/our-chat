@@ -1,0 +1,18 @@
+{
+    "base": "chimney corner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chimney corner",
+    "n2": "chimney corners",
+    "n3": "the chimney corner",
+    "n4": "the chimney corners",
+    "n5": "chimney corner's",
+    "n6": "chimney corners'",
+    "n7": "a chimney corner",
+    "n8": "many chimney corners"
+}

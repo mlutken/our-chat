@@ -1,0 +1,18 @@
+{
+    "base": "disarmament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disarmament",
+    "n2": "disarmaments",
+    "n3": "the disarmament",
+    "n4": "the disarmaments",
+    "n5": "disarmament's",
+    "n6": "disarmaments'",
+    "n7": "a disarmament",
+    "n8": "many disarmaments"
+}

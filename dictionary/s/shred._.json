@@ -1,0 +1,18 @@
+{
+    "base": "shred",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "shred",
+    "n2": "shreds",
+    "n3": "the shred",
+    "n4": "the shreds",
+    "n5": "shred's",
+    "n6": "shreds'",
+    "n7": "a shred",
+    "n8": "many shreds"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "lady",
-    "n2": "ladys",
+    "n2": "ladies",
     "n3": "the lady",
-    "n4": "the ladys",
-    "n5": "lady's"
+    "n4": "the ladies",
+    "n5": "lady's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "ladies'",
+    "n7": "a lady",
+    "n8": "many ladies"
 }

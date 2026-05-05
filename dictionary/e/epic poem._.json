@@ -1,0 +1,18 @@
+{
+    "base": "epic poem",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epic poem",
+    "n2": "epic poems",
+    "n3": "the epic poem",
+    "n4": "the epic poems",
+    "n5": "epic poem's",
+    "n6": "epic poems'",
+    "n7": "an epic poem",
+    "n8": "many epic poems"
+}

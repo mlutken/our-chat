@@ -1,11 +1,24 @@
 {
     "base": "sigh",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "sigh",
     "v2": "sighed",
     "v3": "sighed",
     "v4": "sighing",
-    "v5": "sighs"
+    "v5": "sighs",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "sigh",
+    "n2": "sighs",
+    "n3": "the sigh",
+    "n4": "the sighs",
+    "n5": "sigh's",
+    "n6": "sighs'",
+    "n7": "a sigh",
+    "n8": "many sighs"
 }

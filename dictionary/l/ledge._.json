@@ -1,0 +1,18 @@
+{
+    "base": "ledge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ledge",
+    "n2": "ledges",
+    "n3": "the ledge",
+    "n4": "the ledges",
+    "n5": "ledge's",
+    "n6": "ledges'",
+    "n7": "a ledge",
+    "n8": "many ledges"
+}

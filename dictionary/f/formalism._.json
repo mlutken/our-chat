@@ -1,0 +1,18 @@
+{
+    "base": "formalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "formalism",
+    "n2": "formalisms",
+    "n3": "the formalism",
+    "n4": "the formalisms",
+    "n5": "formalism's",
+    "n6": "formalisms'",
+    "n7": "a formalism",
+    "n8": "many formalisms"
+}

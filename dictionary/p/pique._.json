@@ -1,0 +1,18 @@
+{
+    "base": "pique",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pique",
+    "n2": "piques",
+    "n3": "the pique",
+    "n4": "the piques",
+    "n5": "pique's",
+    "n6": "piques'",
+    "n7": "a pique",
+    "n8": "many piques"
+}

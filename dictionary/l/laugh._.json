@@ -1,11 +1,24 @@
 {
     "base": "laugh",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "laugh",
     "v2": "laughed",
     "v3": "laughed",
     "v4": "laughing",
-    "v5": "laughs"
+    "v5": "laughs",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "laugh",
+    "n2": "laughs",
+    "n3": "the laugh",
+    "n4": "the laughs",
+    "n5": "laugh's",
+    "n6": "laughs'",
+    "n7": "a laugh",
+    "n8": "many laughs"
 }

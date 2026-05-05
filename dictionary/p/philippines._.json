@@ -1,0 +1,18 @@
+{
+    "base": "philippines",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "philippines",
+    "n2": "philippineses",
+    "n3": "the philippines",
+    "n4": "the philippineses",
+    "n5": "philippines'",
+    "n6": "philippineses'",
+    "n7": "a philippines",
+    "n8": "many philippineses"
+}

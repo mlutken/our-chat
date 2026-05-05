@@ -1,0 +1,18 @@
+{
+    "base": "st. louis",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "st. louis",
+    "n2": "st. louises",
+    "n3": "the st. louis",
+    "n4": "the st. louises",
+    "n5": "st. louis'",
+    "n6": "st. louises'",
+    "n7": "a st. louis",
+    "n8": "many st. louises"
+}

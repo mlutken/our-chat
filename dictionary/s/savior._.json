@@ -1,0 +1,18 @@
+{
+    "base": "savior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "savior",
+    "n2": "saviors",
+    "n3": "the savior",
+    "n4": "the saviors",
+    "n5": "savior's",
+    "n6": "saviors'",
+    "n7": "a savior",
+    "n8": "many saviors"
+}

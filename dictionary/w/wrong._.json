@@ -1,0 +1,18 @@
+{
+    "base": "wrong",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "wrong",
+    "n2": "wrongs",
+    "n3": "the wrong",
+    "n4": "the wrongs",
+    "n5": "wrong's",
+    "n6": "wrongs'",
+    "n7": "a wrong",
+    "n8": "many wrongs"
+}

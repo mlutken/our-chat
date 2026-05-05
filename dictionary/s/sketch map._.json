@@ -1,0 +1,18 @@
+{
+    "base": "sketch map",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sketch map",
+    "n2": "sketch maps",
+    "n3": "the sketch map",
+    "n4": "the sketch maps",
+    "n5": "sketch map's",
+    "n6": "sketch maps'",
+    "n7": "a sketch map",
+    "n8": "many sketch maps"
+}

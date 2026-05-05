@@ -7,5 +7,12 @@
     "n2": "limits",
     "n3": "the limit",
     "n4": "the limits",
-    "n5": "limit's"
+    "n5": "limit's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "limits'",
+    "n7": "a limit",
+    "n8": "many limits"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "drift",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "drift",
+    "n2": "drifts",
+    "n3": "the drift",
+    "n4": "the drifts",
+    "n5": "drift's",
+    "n6": "drifts'",
+    "n7": "a drift",
+    "n8": "many drifts"
+}

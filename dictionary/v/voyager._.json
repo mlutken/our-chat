@@ -1,0 +1,18 @@
+{
+    "base": "voyager",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voyager",
+    "n2": "voyagers",
+    "n3": "the voyager",
+    "n4": "the voyagers",
+    "n5": "voyager's",
+    "n6": "voyagers'",
+    "n7": "a voyager",
+    "n8": "many voyagers"
+}

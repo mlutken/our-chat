@@ -1,0 +1,18 @@
+{
+    "base": "watchman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "watchman",
+    "n2": "watchmen",
+    "n3": "the watchman",
+    "n4": "the watchmen",
+    "n5": "watchman's",
+    "n6": "watchmen's",
+    "n7": "a watchman",
+    "n8": "many watchmen"
+}

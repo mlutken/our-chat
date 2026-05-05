@@ -1,0 +1,18 @@
+{
+    "base": "scores",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scores",
+    "n2": "scoreses",
+    "n3": "the scores",
+    "n4": "the scoreses",
+    "n5": "scores'",
+    "n6": "scoreses'",
+    "n7": "a scores",
+    "n8": "many scoreses"
+}

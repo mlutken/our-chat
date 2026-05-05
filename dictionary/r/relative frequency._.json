@@ -1,0 +1,18 @@
+{
+    "base": "relative frequency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "relative frequency",
+    "n2": "relative frequencies",
+    "n3": "the relative frequency",
+    "n4": "the relative frequencies",
+    "n5": "relative frequency's",
+    "n6": "relative frequencies'",
+    "n7": "a relative frequency",
+    "n8": "many relative frequencies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "adjunct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "adjunct",
+    "n2": "adjuncts",
+    "n3": "the adjunct",
+    "n4": "the adjuncts",
+    "n5": "adjunct's",
+    "n6": "adjuncts'",
+    "n7": "an adjunct",
+    "n8": "many adjuncts"
+}

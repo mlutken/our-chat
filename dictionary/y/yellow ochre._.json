@@ -1,0 +1,18 @@
+{
+    "base": "yellow ochre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yellow ochre",
+    "n2": "yellow ochres",
+    "n3": "the yellow ochre",
+    "n4": "the yellow ochres",
+    "n5": "yellow ochre's",
+    "n6": "yellow ochres'",
+    "n7": "a yellow ochre",
+    "n8": "many yellow ochres"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dodging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dodging",
+    "n2": "dodgings",
+    "n3": "the dodging",
+    "n4": "the dodgings",
+    "n5": "dodging's",
+    "n6": "dodgings'",
+    "n7": "a dodging",
+    "n8": "many dodgings"
+}

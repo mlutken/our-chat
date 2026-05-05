@@ -1,0 +1,18 @@
+{
+    "base": "upheaval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "upheaval",
+    "n2": "upheavals",
+    "n3": "the upheaval",
+    "n4": "the upheavals",
+    "n5": "upheaval's",
+    "n6": "upheavals'",
+    "n7": "an upheaval",
+    "n8": "many upheavals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fumble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fumble",
+    "n2": "fumbles",
+    "n3": "the fumble",
+    "n4": "the fumbles",
+    "n5": "fumble's",
+    "n6": "fumbles'",
+    "n7": "a fumble",
+    "n8": "many fumbles"
+}

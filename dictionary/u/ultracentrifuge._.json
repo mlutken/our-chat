@@ -1,0 +1,18 @@
+{
+    "base": "ultracentrifuge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ultracentrifuge",
+    "n2": "ultracentrifuges",
+    "n3": "the ultracentrifuge",
+    "n4": "the ultracentrifuges",
+    "n5": "ultracentrifuge's",
+    "n6": "ultracentrifuges'",
+    "n7": "an ultracentrifuge",
+    "n8": "many ultracentrifuges"
+}

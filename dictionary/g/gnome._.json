@@ -1,0 +1,18 @@
+{
+    "base": "gnome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gnome",
+    "n2": "gnomes",
+    "n3": "the gnome",
+    "n4": "the gnomes",
+    "n5": "gnome's",
+    "n6": "gnomes'",
+    "n7": "a gnome",
+    "n8": "many gnomes"
+}

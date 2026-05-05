@@ -1,0 +1,18 @@
+{
+    "base": "bark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bark",
+    "n2": "barks",
+    "n3": "the bark",
+    "n4": "the barks",
+    "n5": "bark's",
+    "n6": "barks'",
+    "n7": "a bark",
+    "n8": "many barks"
+}

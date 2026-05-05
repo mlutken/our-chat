@@ -1,0 +1,18 @@
+{
+    "base": "lentil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lentil",
+    "n2": "lentils",
+    "n3": "the lentil",
+    "n4": "the lentils",
+    "n5": "lentil's",
+    "n6": "lentils'",
+    "n7": "a lentil",
+    "n8": "many lentils"
+}

@@ -7,5 +7,12 @@
     "n2": "samples",
     "n3": "the sample",
     "n4": "the samples",
-    "n5": "sample's"
+    "n5": "sample's",
+    "proper": false,
+    "commonness": 61,
+    "max_commonness": 6834,
+    "commonness_ge_count": 253,
+    "n6": "samples'",
+    "n7": "a sample",
+    "n8": "many samples"
 }

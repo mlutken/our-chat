@@ -1,0 +1,18 @@
+{
+    "base": "woe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "woe",
+    "n2": "woes",
+    "n3": "the woe",
+    "n4": "the woes",
+    "n5": "woe's",
+    "n6": "woes'",
+    "n7": "a woe",
+    "n8": "many woes"
+}

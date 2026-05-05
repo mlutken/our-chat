@@ -1,0 +1,18 @@
+{
+    "base": "time of arrival",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "time of arrival",
+    "n2": "time of arrivals",
+    "n3": "the time of arrival",
+    "n4": "the time of arrivals",
+    "n5": "time of arrival's",
+    "n6": "time of arrivals'",
+    "n7": "a time of arrival",
+    "n8": "many time of arrivals"
+}

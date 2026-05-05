@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "safety",
-    "n2": "safetys",
+    "n2": "safeties",
     "n3": "the safety",
-    "n4": "the safetys",
-    "n5": "safety's"
+    "n4": "the safeties",
+    "n5": "safety's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "safeties'",
+    "n7": "a safety",
+    "n8": "many safeties"
 }

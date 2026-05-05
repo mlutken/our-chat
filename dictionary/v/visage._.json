@@ -1,0 +1,18 @@
+{
+    "base": "visage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "visage",
+    "n2": "visages",
+    "n3": "the visage",
+    "n4": "the visages",
+    "n5": "visage's",
+    "n6": "visages'",
+    "n7": "a visage",
+    "n8": "many visages"
+}

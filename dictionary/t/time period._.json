@@ -1,0 +1,18 @@
+{
+    "base": "time period",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "time period",
+    "n2": "time periods",
+    "n3": "the time period",
+    "n4": "the time periods",
+    "n5": "time period's",
+    "n6": "time periods'",
+    "n7": "a time period",
+    "n8": "many time periods"
+}

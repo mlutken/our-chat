@@ -1,0 +1,18 @@
+{
+    "base": "franchise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "franchise",
+    "n2": "franchises",
+    "n3": "the franchise",
+    "n4": "the franchises",
+    "n5": "franchise's",
+    "n6": "franchises'",
+    "n7": "a franchise",
+    "n8": "many franchises"
+}

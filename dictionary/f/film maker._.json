@@ -1,0 +1,18 @@
+{
+    "base": "film maker",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "film maker",
+    "n2": "film makers",
+    "n3": "the film maker",
+    "n4": "the film makers",
+    "n5": "film maker's",
+    "n6": "film makers'",
+    "n7": "a film maker",
+    "n8": "many film makers"
+}

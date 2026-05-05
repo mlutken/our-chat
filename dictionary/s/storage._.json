@@ -7,5 +7,12 @@
     "n2": "storages",
     "n3": "the storage",
     "n4": "the storages",
-    "n5": "storage's"
+    "n5": "storage's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "storages'",
+    "n7": "a storage",
+    "n8": "many storages"
 }

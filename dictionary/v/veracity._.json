@@ -1,0 +1,18 @@
+{
+    "base": "veracity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "veracity",
+    "n2": "veracities",
+    "n3": "the veracity",
+    "n4": "the veracities",
+    "n5": "veracity's",
+    "n6": "veracities'",
+    "n7": "a veracity",
+    "n8": "many veracities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "radius of curvature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "radius of curvature",
+    "n2": "radius of curvatures",
+    "n3": "the radius of curvature",
+    "n4": "the radius of curvatures",
+    "n5": "radius of curvature's",
+    "n6": "radius of curvatures'",
+    "n7": "a radius of curvature",
+    "n8": "many radius of curvatures"
+}

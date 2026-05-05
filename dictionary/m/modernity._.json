@@ -1,0 +1,18 @@
+{
+    "base": "modernity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "modernity",
+    "n2": "modernities",
+    "n3": "the modernity",
+    "n4": "the modernities",
+    "n5": "modernity's",
+    "n6": "modernities'",
+    "n7": "a modernity",
+    "n8": "many modernities"
+}

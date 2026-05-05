@@ -1,0 +1,18 @@
+{
+    "base": "julius caesar",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "julius caesar",
+    "n2": "julius caesars",
+    "n3": "the julius caesar",
+    "n4": "the julius caesars",
+    "n5": "julius caesar's",
+    "n6": "julius caesars'",
+    "n7": "a julius caesar",
+    "n8": "many julius caesars"
+}

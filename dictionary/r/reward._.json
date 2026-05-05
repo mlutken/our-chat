@@ -1,11 +1,24 @@
 {
     "base": "reward",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "reward",
     "v2": "rewarded",
     "v3": "rewarded",
     "v4": "rewarding",
-    "v5": "rewards"
+    "v5": "rewards",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "reward",
+    "n2": "rewards",
+    "n3": "the reward",
+    "n4": "the rewards",
+    "n5": "reward's",
+    "n6": "rewards'",
+    "n7": "a reward",
+    "n8": "many rewards"
 }

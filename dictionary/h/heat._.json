@@ -13,5 +13,12 @@
     "v2": "heated",
     "v3": "heated",
     "v4": "heating",
-    "v5": "heats"
+    "v5": "heats",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "heats'",
+    "n7": "a heat",
+    "n8": "many heats"
 }

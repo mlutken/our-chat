@@ -1,0 +1,18 @@
+{
+    "base": "convection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "convection",
+    "n2": "convections",
+    "n3": "the convection",
+    "n4": "the convections",
+    "n5": "convection's",
+    "n6": "convections'",
+    "n7": "a convection",
+    "n8": "many convections"
+}

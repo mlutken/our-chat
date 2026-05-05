@@ -1,0 +1,18 @@
+{
+    "base": "surface-active agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "surface-active agent",
+    "n2": "surface-active agents",
+    "n3": "the surface-active agent",
+    "n4": "the surface-active agents",
+    "n5": "surface-active agent's",
+    "n6": "surface-active agents'",
+    "n7": "a surface-active agent",
+    "n8": "many surface-active agents"
+}

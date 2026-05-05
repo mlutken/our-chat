@@ -1,0 +1,18 @@
+{
+    "base": "england",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "england",
+    "n2": "englands",
+    "n3": "the england",
+    "n4": "the englands",
+    "n5": "england's",
+    "n6": "englands'",
+    "n7": "an england",
+    "n8": "many englands"
+}

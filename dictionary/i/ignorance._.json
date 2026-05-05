@@ -1,0 +1,18 @@
+{
+    "base": "ignorance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ignorance",
+    "n2": "ignorances",
+    "n3": "the ignorance",
+    "n4": "the ignorances",
+    "n5": "ignorance's",
+    "n6": "ignorances'",
+    "n7": "an ignorance",
+    "n8": "many ignorances"
+}

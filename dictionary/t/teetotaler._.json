@@ -1,0 +1,18 @@
+{
+    "base": "teetotaler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "teetotaler",
+    "n2": "teetotalers",
+    "n3": "the teetotaler",
+    "n4": "the teetotalers",
+    "n5": "teetotaler's",
+    "n6": "teetotalers'",
+    "n7": "a teetotaler",
+    "n8": "many teetotalers"
+}

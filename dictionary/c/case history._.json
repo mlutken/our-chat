@@ -1,0 +1,18 @@
+{
+    "base": "case history",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "case history",
+    "n2": "case histories",
+    "n3": "the case history",
+    "n4": "the case histories",
+    "n5": "case history's",
+    "n6": "case histories'",
+    "n7": "a case history",
+    "n8": "many case histories"
+}

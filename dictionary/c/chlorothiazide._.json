@@ -1,0 +1,18 @@
+{
+    "base": "chlorothiazide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chlorothiazide",
+    "n2": "chlorothiazides",
+    "n3": "the chlorothiazide",
+    "n4": "the chlorothiazides",
+    "n5": "chlorothiazide's",
+    "n6": "chlorothiazides'",
+    "n7": "a chlorothiazide",
+    "n8": "many chlorothiazides"
+}

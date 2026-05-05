@@ -1,0 +1,18 @@
+{
+    "base": "ireland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ireland",
+    "n2": "irelands",
+    "n3": "the ireland",
+    "n4": "the irelands",
+    "n5": "ireland's",
+    "n6": "irelands'",
+    "n7": "an ireland",
+    "n8": "many irelands"
+}

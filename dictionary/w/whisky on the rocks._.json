@@ -1,0 +1,18 @@
+{
+    "base": "whisky on the rocks",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whisky on the rocks",
+    "n2": "whisky on the rockses",
+    "n3": "the whisky on the rocks",
+    "n4": "the whisky on the rockses",
+    "n5": "whisky on the rocks'",
+    "n6": "whisky on the rockses'",
+    "n7": "a whisky on the rocks",
+    "n8": "many whisky on the rockses"
+}

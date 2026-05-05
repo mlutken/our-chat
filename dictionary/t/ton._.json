@@ -1,0 +1,18 @@
+{
+    "base": "ton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "ton",
+    "n2": "tons",
+    "n3": "the ton",
+    "n4": "the tons",
+    "n5": "ton's",
+    "n6": "tons'",
+    "n7": "a ton",
+    "n8": "many tons"
+}

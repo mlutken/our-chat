@@ -1,0 +1,18 @@
+{
+    "base": "strap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "strap",
+    "n2": "straps",
+    "n3": "the strap",
+    "n4": "the straps",
+    "n5": "strap's",
+    "n6": "straps'",
+    "n7": "a strap",
+    "n8": "many straps"
+}

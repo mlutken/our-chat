@@ -1,0 +1,18 @@
+{
+    "base": "business executive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business executive",
+    "n2": "business executives",
+    "n3": "the business executive",
+    "n4": "the business executives",
+    "n5": "business executive's",
+    "n6": "business executives'",
+    "n7": "a business executive",
+    "n8": "many business executives"
+}

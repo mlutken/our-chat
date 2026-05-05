@@ -1,0 +1,18 @@
+{
+    "base": "holmes",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "holmes",
+    "n2": "holmeses",
+    "n3": "the holmes",
+    "n4": "the holmeses",
+    "n5": "holmes'",
+    "n6": "holmeses'",
+    "n7": "a holmes",
+    "n8": "many holmeses"
+}

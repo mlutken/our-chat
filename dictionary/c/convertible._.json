@@ -1,0 +1,18 @@
+{
+    "base": "convertible",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "convertible",
+    "n2": "convertibles",
+    "n3": "the convertible",
+    "n4": "the convertibles",
+    "n5": "convertible's",
+    "n6": "convertibles'",
+    "n7": "a convertible",
+    "n8": "many convertibles"
+}

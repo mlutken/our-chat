@@ -1,0 +1,18 @@
+{
+    "base": "gravity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "gravity",
+    "n2": "gravities",
+    "n3": "the gravity",
+    "n4": "the gravities",
+    "n5": "gravity's",
+    "n6": "gravities'",
+    "n7": "a gravity",
+    "n8": "many gravities"
+}

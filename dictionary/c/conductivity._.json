@@ -1,0 +1,18 @@
+{
+    "base": "conductivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conductivity",
+    "n2": "conductivities",
+    "n3": "the conductivity",
+    "n4": "the conductivities",
+    "n5": "conductivity's",
+    "n6": "conductivities'",
+    "n7": "a conductivity",
+    "n8": "many conductivities"
+}

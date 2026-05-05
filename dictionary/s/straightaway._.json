@@ -1,0 +1,18 @@
+{
+    "base": "straightaway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "straightaway",
+    "n2": "straightaways",
+    "n3": "the straightaway",
+    "n4": "the straightaways",
+    "n5": "straightaway's",
+    "n6": "straightaways'",
+    "n7": "a straightaway",
+    "n8": "many straightaways"
+}

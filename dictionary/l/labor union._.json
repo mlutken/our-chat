@@ -1,0 +1,18 @@
+{
+    "base": "labor union",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "labor union",
+    "n2": "labor unions",
+    "n3": "the labor union",
+    "n4": "the labor unions",
+    "n5": "labor union's",
+    "n6": "labor unions'",
+    "n7": "a labor union",
+    "n8": "many labor unions"
+}

@@ -1,11 +1,24 @@
 {
     "base": "rise",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "rise",
     "v2": "rose",
     "v3": "risen",
     "v4": "rising",
-    "v5": "rises"
+    "v5": "rises",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "rise",
+    "n2": "rises",
+    "n3": "the rise",
+    "n4": "the rises",
+    "n5": "rise's",
+    "n6": "rises'",
+    "n7": "a rise",
+    "n8": "many rises"
 }

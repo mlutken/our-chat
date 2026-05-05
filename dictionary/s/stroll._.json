@@ -1,0 +1,18 @@
+{
+    "base": "stroll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stroll",
+    "n2": "strolls",
+    "n3": "the stroll",
+    "n4": "the strolls",
+    "n5": "stroll's",
+    "n6": "strolls'",
+    "n7": "a stroll",
+    "n8": "many strolls"
+}

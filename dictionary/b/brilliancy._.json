@@ -1,0 +1,18 @@
+{
+    "base": "brilliancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brilliancy",
+    "n2": "brilliancies",
+    "n3": "the brilliancy",
+    "n4": "the brilliancies",
+    "n5": "brilliancy's",
+    "n6": "brilliancies'",
+    "n7": "a brilliancy",
+    "n8": "many brilliancies"
+}

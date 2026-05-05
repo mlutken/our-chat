@@ -1,0 +1,18 @@
+{
+    "base": "oleander",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oleander",
+    "n2": "oleanders",
+    "n3": "the oleander",
+    "n4": "the oleanders",
+    "n5": "oleander's",
+    "n6": "oleanders'",
+    "n7": "an oleander",
+    "n8": "many oleanders"
+}

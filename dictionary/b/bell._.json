@@ -1,0 +1,18 @@
+{
+    "base": "bell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "bell",
+    "n2": "bells",
+    "n3": "the bell",
+    "n4": "the bells",
+    "n5": "bell's",
+    "n6": "bells'",
+    "n7": "a bell",
+    "n8": "many bells"
+}

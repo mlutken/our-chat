@@ -1,0 +1,18 @@
+{
+    "base": "radish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "radish",
+    "n2": "radishes",
+    "n3": "the radish",
+    "n4": "the radishes",
+    "n5": "radish's",
+    "n6": "radishes'",
+    "n7": "a radish",
+    "n8": "many radishes"
+}

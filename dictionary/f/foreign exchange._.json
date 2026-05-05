@@ -1,0 +1,18 @@
+{
+    "base": "foreign exchange",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foreign exchange",
+    "n2": "foreign exchanges",
+    "n3": "the foreign exchange",
+    "n4": "the foreign exchanges",
+    "n5": "foreign exchange's",
+    "n6": "foreign exchanges'",
+    "n7": "a foreign exchange",
+    "n8": "many foreign exchanges"
+}

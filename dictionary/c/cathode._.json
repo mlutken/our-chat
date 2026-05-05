@@ -1,0 +1,18 @@
+{
+    "base": "cathode",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "cathode",
+    "n2": "cathodes",
+    "n3": "the cathode",
+    "n4": "the cathodes",
+    "n5": "cathode's",
+    "n6": "cathodes'",
+    "n7": "a cathode",
+    "n8": "many cathodes"
+}

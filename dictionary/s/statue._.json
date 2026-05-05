@@ -1,0 +1,18 @@
+{
+    "base": "statue",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "statue",
+    "n2": "statues",
+    "n3": "the statue",
+    "n4": "the statues",
+    "n5": "statue's",
+    "n6": "statues'",
+    "n7": "a statue",
+    "n8": "many statues"
+}

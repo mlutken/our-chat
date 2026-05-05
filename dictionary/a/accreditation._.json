@@ -1,0 +1,18 @@
+{
+    "base": "accreditation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "accreditation",
+    "n2": "accreditations",
+    "n3": "the accreditation",
+    "n4": "the accreditations",
+    "n5": "accreditation's",
+    "n6": "accreditations'",
+    "n7": "an accreditation",
+    "n8": "many accreditations"
+}

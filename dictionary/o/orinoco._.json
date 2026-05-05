@@ -1,0 +1,18 @@
+{
+    "base": "orinoco",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orinoco",
+    "n2": "orinocos",
+    "n3": "the orinoco",
+    "n4": "the orinocos",
+    "n5": "orinoco's",
+    "n6": "orinocos'",
+    "n7": "an orinoco",
+    "n8": "many orinocos"
+}

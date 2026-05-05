@@ -1,0 +1,18 @@
+{
+    "base": "congressman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "congressman",
+    "n2": "congressmen",
+    "n3": "the congressman",
+    "n4": "the congressmen",
+    "n5": "congressman's",
+    "n6": "congressmen's",
+    "n7": "a congressman",
+    "n8": "many congressmen"
+}

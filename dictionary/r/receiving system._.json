@@ -1,0 +1,18 @@
+{
+    "base": "receiving system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "receiving system",
+    "n2": "receiving systems",
+    "n3": "the receiving system",
+    "n4": "the receiving systems",
+    "n5": "receiving system's",
+    "n6": "receiving systems'",
+    "n7": "a receiving system",
+    "n8": "many receiving systems"
+}

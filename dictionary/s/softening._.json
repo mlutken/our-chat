@@ -1,0 +1,18 @@
+{
+    "base": "softening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "softening",
+    "n2": "softenings",
+    "n3": "the softening",
+    "n4": "the softenings",
+    "n5": "softening's",
+    "n6": "softenings'",
+    "n7": "a softening",
+    "n8": "many softenings"
+}

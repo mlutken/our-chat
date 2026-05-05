@@ -1,0 +1,18 @@
+{
+    "base": "statistician",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "statistician",
+    "n2": "statisticians",
+    "n3": "the statistician",
+    "n4": "the statisticians",
+    "n5": "statistician's",
+    "n6": "statisticians'",
+    "n7": "a statistician",
+    "n8": "many statisticians"
+}

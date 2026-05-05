@@ -1,0 +1,18 @@
+{
+    "base": "condenser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "condenser",
+    "n2": "condensers",
+    "n3": "the condenser",
+    "n4": "the condensers",
+    "n5": "condenser's",
+    "n6": "condensers'",
+    "n7": "a condenser",
+    "n8": "many condensers"
+}

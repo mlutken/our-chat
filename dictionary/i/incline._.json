@@ -1,0 +1,18 @@
+{
+    "base": "incline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "incline",
+    "n2": "inclines",
+    "n3": "the incline",
+    "n4": "the inclines",
+    "n5": "incline's",
+    "n6": "inclines'",
+    "n7": "an incline",
+    "n8": "many inclines"
+}

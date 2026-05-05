@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "entry",
-    "n2": "entrys",
+    "n2": "entries",
     "n3": "the entry",
-    "n4": "the entrys",
-    "n5": "entry's"
+    "n4": "the entries",
+    "n5": "entry's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "entries'",
+    "n7": "an entry",
+    "n8": "many entries"
 }

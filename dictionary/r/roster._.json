@@ -1,0 +1,18 @@
+{
+    "base": "roster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "roster",
+    "n2": "rosters",
+    "n3": "the roster",
+    "n4": "the rosters",
+    "n5": "roster's",
+    "n6": "rosters'",
+    "n7": "a roster",
+    "n8": "many rosters"
+}

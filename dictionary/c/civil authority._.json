@@ -1,0 +1,18 @@
+{
+    "base": "civil authority",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "civil authority",
+    "n2": "civil authorities",
+    "n3": "the civil authority",
+    "n4": "the civil authorities",
+    "n5": "civil authority's",
+    "n6": "civil authorities'",
+    "n7": "a civil authority",
+    "n8": "many civil authorities"
+}

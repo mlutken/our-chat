@@ -1,0 +1,18 @@
+{
+    "base": "mike",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mike",
+    "n2": "mikes",
+    "n3": "the mike",
+    "n4": "the mikes",
+    "n5": "mike's",
+    "n6": "mikes'",
+    "n7": "a mike",
+    "n8": "many mikes"
+}

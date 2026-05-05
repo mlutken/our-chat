@@ -1,0 +1,18 @@
+{
+    "base": "obverse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "obverse",
+    "n2": "obverses",
+    "n3": "the obverse",
+    "n4": "the obverses",
+    "n5": "obverse's",
+    "n6": "obverses'",
+    "n7": "an obverse",
+    "n8": "many obverses"
+}

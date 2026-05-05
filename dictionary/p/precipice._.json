@@ -1,0 +1,18 @@
+{
+    "base": "precipice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "precipice",
+    "n2": "precipices",
+    "n3": "the precipice",
+    "n4": "the precipices",
+    "n5": "precipice's",
+    "n6": "precipices'",
+    "n7": "a precipice",
+    "n8": "many precipices"
+}

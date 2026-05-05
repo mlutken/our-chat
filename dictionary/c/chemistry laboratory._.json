@@ -1,0 +1,18 @@
+{
+    "base": "chemistry laboratory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chemistry laboratory",
+    "n2": "chemistry laboratories",
+    "n3": "the chemistry laboratory",
+    "n4": "the chemistry laboratories",
+    "n5": "chemistry laboratory's",
+    "n6": "chemistry laboratories'",
+    "n7": "a chemistry laboratory",
+    "n8": "many chemistry laboratories"
+}

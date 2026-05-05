@@ -1,11 +1,24 @@
 {
     "base": "guess",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "guess",
     "v2": "guessed",
     "v3": "guessed",
     "v4": "guessing",
-    "v5": "guesses"
+    "v5": "guesses",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "guess",
+    "n2": "guesses",
+    "n3": "the guess",
+    "n4": "the guesses",
+    "n5": "guess'",
+    "n6": "guesses'",
+    "n7": "a guess",
+    "n8": "many guesses"
 }

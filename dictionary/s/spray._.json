@@ -1,0 +1,18 @@
+{
+    "base": "spray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "spray",
+    "n2": "sprays",
+    "n3": "the spray",
+    "n4": "the sprays",
+    "n5": "spray's",
+    "n6": "sprays'",
+    "n7": "a spray",
+    "n8": "many sprays"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tenement house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tenement house",
+    "n2": "tenement houses",
+    "n3": "the tenement house",
+    "n4": "the tenement houses",
+    "n5": "tenement house's",
+    "n6": "tenement houses'",
+    "n7": "a tenement house",
+    "n8": "many tenement houses"
+}

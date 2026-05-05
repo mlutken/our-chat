@@ -1,0 +1,18 @@
+{
+    "base": "realism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "realism",
+    "n2": "realisms",
+    "n3": "the realism",
+    "n4": "the realisms",
+    "n5": "realism's",
+    "n6": "realisms'",
+    "n7": "a realism",
+    "n8": "many realisms"
+}

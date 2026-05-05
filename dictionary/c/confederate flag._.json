@@ -1,0 +1,18 @@
+{
+    "base": "confederate flag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confederate flag",
+    "n2": "confederate flags",
+    "n3": "the confederate flag",
+    "n4": "the confederate flags",
+    "n5": "confederate flag's",
+    "n6": "confederate flags'",
+    "n7": "a confederate flag",
+    "n8": "many confederate flags"
+}

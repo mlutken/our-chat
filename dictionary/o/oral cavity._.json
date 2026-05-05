@@ -1,0 +1,18 @@
+{
+    "base": "oral cavity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oral cavity",
+    "n2": "oral cavities",
+    "n3": "the oral cavity",
+    "n4": "the oral cavities",
+    "n5": "oral cavity's",
+    "n6": "oral cavities'",
+    "n7": "an oral cavity",
+    "n8": "many oral cavities"
+}

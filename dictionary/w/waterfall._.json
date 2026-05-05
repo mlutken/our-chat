@@ -1,0 +1,18 @@
+{
+    "base": "waterfall",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "waterfall",
+    "n2": "waterfalls",
+    "n3": "the waterfall",
+    "n4": "the waterfalls",
+    "n5": "waterfall's",
+    "n6": "waterfalls'",
+    "n7": "a waterfall",
+    "n8": "many waterfalls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "number one",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "number one",
+    "n2": "number ones",
+    "n3": "the number one",
+    "n4": "the number ones",
+    "n5": "number one's",
+    "n6": "number ones'",
+    "n7": "a number one",
+    "n8": "many number ones"
+}

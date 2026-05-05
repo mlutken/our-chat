@@ -1,0 +1,18 @@
+{
+    "base": "ruck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ruck",
+    "n2": "rucks",
+    "n3": "the ruck",
+    "n4": "the rucks",
+    "n5": "ruck's",
+    "n6": "rucks'",
+    "n7": "a ruck",
+    "n8": "many rucks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "new edition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new edition",
+    "n2": "new editions",
+    "n3": "the new edition",
+    "n4": "the new editions",
+    "n5": "new edition's",
+    "n6": "new editions'",
+    "n7": "a new edition",
+    "n8": "many new editions"
+}

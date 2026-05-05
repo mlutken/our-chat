@@ -1,0 +1,18 @@
+{
+    "base": "public square",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "public square",
+    "n2": "public squares",
+    "n3": "the public square",
+    "n4": "the public squares",
+    "n5": "public square's",
+    "n6": "public squares'",
+    "n7": "a public square",
+    "n8": "many public squares"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "colorado",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "colorado",
+    "n2": "colorados",
+    "n3": "the colorado",
+    "n4": "the colorados",
+    "n5": "colorado's",
+    "n6": "colorados'",
+    "n7": "a colorado",
+    "n8": "many colorados"
+}

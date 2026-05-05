@@ -1,0 +1,18 @@
+{
+    "base": "smell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "smell",
+    "n2": "smells",
+    "n3": "the smell",
+    "n4": "the smells",
+    "n5": "smell's",
+    "n6": "smells'",
+    "n7": "a smell",
+    "n8": "many smells"
+}

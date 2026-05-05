@@ -1,0 +1,18 @@
+{
+    "base": "dogma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "dogma",
+    "n2": "dogmata",
+    "n3": "the dogma",
+    "n4": "the dogmata",
+    "n5": "dogma's",
+    "n6": "dogmata's",
+    "n7": "a dogma",
+    "n8": "many dogmata"
+}

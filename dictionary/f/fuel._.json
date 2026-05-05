@@ -7,5 +7,12 @@
     "n2": "fuels",
     "n3": "the fuel",
     "n4": "the fuels",
-    "n5": "fuel's"
+    "n5": "fuel's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "fuels'",
+    "n7": "a fuel",
+    "n8": "many fuels"
 }

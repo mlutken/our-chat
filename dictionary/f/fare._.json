@@ -1,0 +1,18 @@
+{
+    "base": "fare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fare",
+    "n2": "fares",
+    "n3": "the fare",
+    "n4": "the fares",
+    "n5": "fare's",
+    "n6": "fares'",
+    "n7": "a fare",
+    "n8": "many fares"
+}

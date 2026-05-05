@@ -1,0 +1,18 @@
+{
+    "base": "virtuoso",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "virtuoso",
+    "n2": "virtuosi",
+    "n3": "the virtuoso",
+    "n4": "the virtuosi",
+    "n5": "virtuoso's",
+    "n6": "virtuosi's",
+    "n7": "a virtuoso",
+    "n8": "many virtuosi"
+}

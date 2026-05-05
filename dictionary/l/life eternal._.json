@@ -1,0 +1,18 @@
+{
+    "base": "life eternal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "life eternal",
+    "n2": "life eternals",
+    "n3": "the life eternal",
+    "n4": "the life eternals",
+    "n5": "life eternal's",
+    "n6": "life eternals'",
+    "n7": "a life eternal",
+    "n8": "many life eternals"
+}

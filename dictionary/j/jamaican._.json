@@ -1,0 +1,18 @@
+{
+    "base": "jamaican",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jamaican",
+    "n2": "jamaicans",
+    "n3": "the jamaican",
+    "n4": "the jamaicans",
+    "n5": "jamaican's",
+    "n6": "jamaicans'",
+    "n7": "a jamaican",
+    "n8": "many jamaicans"
+}

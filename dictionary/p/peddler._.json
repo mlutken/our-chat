@@ -1,0 +1,18 @@
+{
+    "base": "peddler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "peddler",
+    "n2": "peddlers",
+    "n3": "the peddler",
+    "n4": "the peddlers",
+    "n5": "peddler's",
+    "n6": "peddlers'",
+    "n7": "a peddler",
+    "n8": "many peddlers"
+}

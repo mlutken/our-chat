@@ -1,0 +1,18 @@
+{
+    "base": "clientele",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clientele",
+    "n2": "clienteles",
+    "n3": "the clientele",
+    "n4": "the clienteles",
+    "n5": "clientele's",
+    "n6": "clienteles'",
+    "n7": "a clientele",
+    "n8": "many clienteles"
+}

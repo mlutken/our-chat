@@ -1,0 +1,18 @@
+{
+    "base": "gym",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "gym",
+    "n2": "gyms",
+    "n3": "the gym",
+    "n4": "the gyms",
+    "n5": "gym's",
+    "n6": "gyms'",
+    "n7": "a gym",
+    "n8": "many gyms"
+}

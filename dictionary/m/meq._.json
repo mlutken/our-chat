@@ -1,0 +1,18 @@
+{
+    "base": "meq",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "meq",
+    "n2": "meqs",
+    "n3": "the meq",
+    "n4": "the meqs",
+    "n5": "meq's",
+    "n6": "meqs'",
+    "n7": "a meq",
+    "n8": "many meqs"
+}

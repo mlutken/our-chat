@@ -1,0 +1,18 @@
+{
+    "base": "little finger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "little finger",
+    "n2": "little fingers",
+    "n3": "the little finger",
+    "n4": "the little fingers",
+    "n5": "little finger's",
+    "n6": "little fingers'",
+    "n7": "a little finger",
+    "n8": "many little fingers"
+}

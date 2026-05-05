@@ -1,0 +1,18 @@
+{
+    "base": "cake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cake",
+    "n2": "cakes",
+    "n3": "the cake",
+    "n4": "the cakes",
+    "n5": "cake's",
+    "n6": "cakes'",
+    "n7": "a cake",
+    "n8": "many cakes"
+}

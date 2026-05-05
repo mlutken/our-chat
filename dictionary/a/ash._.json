@@ -1,0 +1,18 @@
+{
+    "base": "ash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ash",
+    "n2": "ashes",
+    "n3": "the ash",
+    "n4": "the ashes",
+    "n5": "ash's",
+    "n6": "ashes'",
+    "n7": "an ash",
+    "n8": "many ashes"
+}

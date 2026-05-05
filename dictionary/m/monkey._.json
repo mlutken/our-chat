@@ -1,0 +1,18 @@
+{
+    "base": "monkey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "monkey",
+    "n2": "monkeys",
+    "n3": "the monkey",
+    "n4": "the monkeys",
+    "n5": "monkey's",
+    "n6": "monkeys'",
+    "n7": "a monkey",
+    "n8": "many monkeys"
+}

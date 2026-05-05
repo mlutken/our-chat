@@ -1,0 +1,18 @@
+{
+    "base": "dropout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dropout",
+    "n2": "dropouts",
+    "n3": "the dropout",
+    "n4": "the dropouts",
+    "n5": "dropout's",
+    "n6": "dropouts'",
+    "n7": "a dropout",
+    "n8": "many dropouts"
+}

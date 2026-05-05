@@ -1,0 +1,18 @@
+{
+    "base": "back porch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "back porch",
+    "n2": "back porches",
+    "n3": "the back porch",
+    "n4": "the back porches",
+    "n5": "back porch's",
+    "n6": "back porches'",
+    "n7": "a back porch",
+    "n8": "many back porches"
+}

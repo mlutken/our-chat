@@ -1,0 +1,18 @@
+{
+    "base": "cytolysis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cytolysis",
+    "n2": "cytolysises",
+    "n3": "the cytolysis",
+    "n4": "the cytolysises",
+    "n5": "cytolysis'",
+    "n6": "cytolysises'",
+    "n7": "a cytolysis",
+    "n8": "many cytolysises"
+}

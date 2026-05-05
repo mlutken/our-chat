@@ -1,0 +1,18 @@
+{
+    "base": "fallout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "fallout",
+    "n2": "fallouts",
+    "n3": "the fallout",
+    "n4": "the fallouts",
+    "n5": "fallout's",
+    "n6": "fallouts'",
+    "n7": "a fallout",
+    "n8": "many fallouts"
+}

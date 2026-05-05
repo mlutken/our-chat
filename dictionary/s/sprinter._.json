@@ -1,0 +1,18 @@
+{
+    "base": "sprinter",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sprinter",
+    "n2": "sprinters",
+    "n3": "the sprinter",
+    "n4": "the sprinters",
+    "n5": "sprinter's",
+    "n6": "sprinters'",
+    "n7": "a sprinter",
+    "n8": "many sprinters"
+}

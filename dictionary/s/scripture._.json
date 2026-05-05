@@ -1,0 +1,18 @@
+{
+    "base": "scripture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "scripture",
+    "n2": "scriptures",
+    "n3": "the scripture",
+    "n4": "the scriptures",
+    "n5": "scripture's",
+    "n6": "scriptures'",
+    "n7": "a scripture",
+    "n8": "many scriptures"
+}

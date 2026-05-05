@@ -7,5 +7,12 @@
     "n2": "insights",
     "n3": "the insight",
     "n4": "the insights",
-    "n5": "insight's"
+    "n5": "insight's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "insights'",
+    "n7": "an insight",
+    "n8": "many insights"
 }

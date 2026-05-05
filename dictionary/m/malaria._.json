@@ -1,0 +1,18 @@
+{
+    "base": "malaria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "malaria",
+    "n2": "malarias",
+    "n3": "the malaria",
+    "n4": "the malarias",
+    "n5": "malaria's",
+    "n6": "malarias'",
+    "n7": "a malaria",
+    "n8": "many malarias"
+}

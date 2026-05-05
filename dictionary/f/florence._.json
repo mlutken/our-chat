@@ -1,0 +1,18 @@
+{
+    "base": "florence",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "florence",
+    "n2": "florences",
+    "n3": "the florence",
+    "n4": "the florences",
+    "n5": "florence's",
+    "n6": "florences'",
+    "n7": "a florence",
+    "n8": "many florences"
+}

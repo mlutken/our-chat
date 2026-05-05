@@ -1,0 +1,18 @@
+{
+    "base": "abbey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abbey",
+    "n2": "abbeys",
+    "n3": "the abbey",
+    "n4": "the abbeys",
+    "n5": "abbey's",
+    "n6": "abbeys'",
+    "n7": "an abbey",
+    "n8": "many abbeys"
+}

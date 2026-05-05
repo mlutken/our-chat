@@ -1,0 +1,18 @@
+{
+    "base": "tenting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tenting",
+    "n2": "tentings",
+    "n3": "the tenting",
+    "n4": "the tentings",
+    "n5": "tenting's",
+    "n6": "tentings'",
+    "n7": "a tenting",
+    "n8": "many tentings"
+}

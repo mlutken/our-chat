@@ -1,0 +1,18 @@
+{
+    "base": "sculptor",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sculptor",
+    "n2": "sculptors",
+    "n3": "the sculptor",
+    "n4": "the sculptors",
+    "n5": "sculptor's",
+    "n6": "sculptors'",
+    "n7": "a sculptor",
+    "n8": "many sculptors"
+}

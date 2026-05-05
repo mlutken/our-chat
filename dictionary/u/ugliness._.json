@@ -1,0 +1,18 @@
+{
+    "base": "ugliness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ugliness",
+    "n2": "uglinesses",
+    "n3": "the ugliness",
+    "n4": "the uglinesses",
+    "n5": "ugliness'",
+    "n6": "uglinesses'",
+    "n7": "an ugliness",
+    "n8": "many uglinesses"
+}

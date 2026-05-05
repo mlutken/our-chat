@@ -1,0 +1,18 @@
+{
+    "base": "saddlebag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "saddlebag",
+    "n2": "saddlebags",
+    "n3": "the saddlebag",
+    "n4": "the saddlebags",
+    "n5": "saddlebag's",
+    "n6": "saddlebags'",
+    "n7": "a saddlebag",
+    "n8": "many saddlebags"
+}

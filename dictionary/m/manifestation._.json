@@ -1,0 +1,18 @@
+{
+    "base": "manifestation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "manifestation",
+    "n2": "manifestations",
+    "n3": "the manifestation",
+    "n4": "the manifestations",
+    "n5": "manifestation's",
+    "n6": "manifestations'",
+    "n7": "a manifestation",
+    "n8": "many manifestations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "foot rot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "foot rot",
+    "n2": "foot rots",
+    "n3": "the foot rot",
+    "n4": "the foot rots",
+    "n5": "foot rot's",
+    "n6": "foot rots'",
+    "n7": "a foot rot",
+    "n8": "many foot rots"
+}

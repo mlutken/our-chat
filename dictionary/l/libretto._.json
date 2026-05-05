@@ -7,5 +7,12 @@
     "n2": "libretti",
     "n3": "the libretto",
     "n4": "the libretti",
-    "n5": "libretto's"
+    "n5": "libretto's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "libretti's",
+    "n7": "a libretto",
+    "n8": "many libretti"
 }

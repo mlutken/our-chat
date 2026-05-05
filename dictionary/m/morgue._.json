@@ -1,0 +1,18 @@
+{
+    "base": "morgue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "morgue",
+    "n2": "morgues",
+    "n3": "the morgue",
+    "n4": "the morgues",
+    "n5": "morgue's",
+    "n6": "morgues'",
+    "n7": "a morgue",
+    "n8": "many morgues"
+}

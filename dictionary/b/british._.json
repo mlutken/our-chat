@@ -1,0 +1,18 @@
+{
+    "base": "british",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "british",
+    "n2": "britishes",
+    "n3": "the british",
+    "n4": "the britishes",
+    "n5": "british's",
+    "n6": "britishes'",
+    "n7": "a british",
+    "n8": "many britishes"
+}

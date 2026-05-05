@@ -1,0 +1,18 @@
+{
+    "base": "knuckleball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "knuckleball",
+    "n2": "knuckleballs",
+    "n3": "the knuckleball",
+    "n4": "the knuckleballs",
+    "n5": "knuckleball's",
+    "n6": "knuckleballs'",
+    "n7": "a knuckleball",
+    "n8": "many knuckleballs"
+}

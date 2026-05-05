@@ -1,0 +1,18 @@
+{
+    "base": "commuting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "commuting",
+    "n2": "commutings",
+    "n3": "the commuting",
+    "n4": "the commutings",
+    "n5": "commuting's",
+    "n6": "commutings'",
+    "n7": "a commuting",
+    "n8": "many commutings"
+}

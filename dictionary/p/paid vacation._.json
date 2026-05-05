@@ -1,0 +1,18 @@
+{
+    "base": "paid vacation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paid vacation",
+    "n2": "paid vacations",
+    "n3": "the paid vacation",
+    "n4": "the paid vacations",
+    "n5": "paid vacation's",
+    "n6": "paid vacations'",
+    "n7": "a paid vacation",
+    "n8": "many paid vacations"
+}

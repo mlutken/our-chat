@@ -1,0 +1,18 @@
+{
+    "base": "estimate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "estimate",
+    "n2": "estimates",
+    "n3": "the estimate",
+    "n4": "the estimates",
+    "n5": "estimate's",
+    "n6": "estimates'",
+    "n7": "an estimate",
+    "n8": "many estimates"
+}

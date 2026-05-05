@@ -1,0 +1,18 @@
+{
+    "base": "clubfoot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clubfoot",
+    "n2": "clubfoots",
+    "n3": "the clubfoot",
+    "n4": "the clubfoots",
+    "n5": "clubfoot's",
+    "n6": "clubfoots'",
+    "n7": "a clubfoot",
+    "n8": "many clubfoots"
+}

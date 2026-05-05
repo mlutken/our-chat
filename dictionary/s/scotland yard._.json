@@ -1,0 +1,18 @@
+{
+    "base": "scotland yard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scotland yard",
+    "n2": "scotland yards",
+    "n3": "the scotland yard",
+    "n4": "the scotland yards",
+    "n5": "scotland yard's",
+    "n6": "scotland yards'",
+    "n7": "a scotland yard",
+    "n8": "many scotland yards"
+}

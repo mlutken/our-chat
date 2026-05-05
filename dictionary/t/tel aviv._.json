@@ -1,0 +1,18 @@
+{
+    "base": "tel aviv",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tel aviv",
+    "n2": "tel avivs",
+    "n3": "the tel aviv",
+    "n4": "the tel avivs",
+    "n5": "tel aviv's",
+    "n6": "tel avivs'",
+    "n7": "a tel aviv",
+    "n8": "many tel avivs"
+}

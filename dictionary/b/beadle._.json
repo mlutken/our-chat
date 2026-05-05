@@ -1,0 +1,18 @@
+{
+    "base": "beadle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beadle",
+    "n2": "beadles",
+    "n3": "the beadle",
+    "n4": "the beadles",
+    "n5": "beadle's",
+    "n6": "beadles'",
+    "n7": "a beadle",
+    "n8": "many beadles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "workweek",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "workweek",
+    "n2": "workweeks",
+    "n3": "the workweek",
+    "n4": "the workweeks",
+    "n5": "workweek's",
+    "n6": "workweeks'",
+    "n7": "a workweek",
+    "n8": "many workweeks"
+}

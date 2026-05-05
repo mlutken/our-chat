@@ -1,11 +1,24 @@
 {
     "base": "thaw",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "thaw",
     "v2": "thawed",
     "v3": "thawed",
     "v4": "thawing",
-    "v5": "thaws"
+    "v5": "thaws",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thaw",
+    "n2": "thaws",
+    "n3": "the thaw",
+    "n4": "the thaws",
+    "n5": "thaw's",
+    "n6": "thaws'",
+    "n7": "a thaw",
+    "n8": "many thaws"
 }

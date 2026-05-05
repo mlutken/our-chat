@@ -1,0 +1,18 @@
+{
+    "base": "necklace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "necklace",
+    "n2": "necklaces",
+    "n3": "the necklace",
+    "n4": "the necklaces",
+    "n5": "necklace's",
+    "n6": "necklaces'",
+    "n7": "a necklace",
+    "n8": "many necklaces"
+}

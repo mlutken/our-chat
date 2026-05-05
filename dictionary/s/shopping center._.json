@@ -1,0 +1,18 @@
+{
+    "base": "shopping center",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "shopping center",
+    "n2": "shopping centers",
+    "n3": "the shopping center",
+    "n4": "the shopping centers",
+    "n5": "shopping center's",
+    "n6": "shopping centers'",
+    "n7": "a shopping center",
+    "n8": "many shopping centers"
+}

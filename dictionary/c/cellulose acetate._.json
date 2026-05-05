@@ -1,0 +1,18 @@
+{
+    "base": "cellulose acetate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cellulose acetate",
+    "n2": "cellulose acetates",
+    "n3": "the cellulose acetate",
+    "n4": "the cellulose acetates",
+    "n5": "cellulose acetate's",
+    "n6": "cellulose acetates'",
+    "n7": "a cellulose acetate",
+    "n8": "many cellulose acetates"
+}

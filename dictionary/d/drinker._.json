@@ -1,0 +1,18 @@
+{
+    "base": "drinker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drinker",
+    "n2": "drinkers",
+    "n3": "the drinker",
+    "n4": "the drinkers",
+    "n5": "drinker's",
+    "n6": "drinkers'",
+    "n7": "a drinker",
+    "n8": "many drinkers"
+}

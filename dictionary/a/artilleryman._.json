@@ -1,0 +1,18 @@
+{
+    "base": "artilleryman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artilleryman",
+    "n2": "artillerymen",
+    "n3": "the artilleryman",
+    "n4": "the artillerymen",
+    "n5": "artilleryman's",
+    "n6": "artillerymen's",
+    "n7": "an artilleryman",
+    "n8": "many artillerymen"
+}

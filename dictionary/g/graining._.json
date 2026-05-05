@@ -1,0 +1,18 @@
+{
+    "base": "graining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "graining",
+    "n2": "grainings",
+    "n3": "the graining",
+    "n4": "the grainings",
+    "n5": "graining's",
+    "n6": "grainings'",
+    "n7": "a graining",
+    "n8": "many grainings"
+}

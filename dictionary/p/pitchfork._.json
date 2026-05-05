@@ -1,0 +1,18 @@
+{
+    "base": "pitchfork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pitchfork",
+    "n2": "pitchforks",
+    "n3": "the pitchfork",
+    "n4": "the pitchforks",
+    "n5": "pitchfork's",
+    "n6": "pitchforks'",
+    "n7": "a pitchfork",
+    "n8": "many pitchforks"
+}

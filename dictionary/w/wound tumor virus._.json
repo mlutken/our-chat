@@ -1,0 +1,18 @@
+{
+    "base": "wound tumor virus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wound tumor virus",
+    "n2": "wound tumor viruses",
+    "n3": "the wound tumor virus",
+    "n4": "the wound tumor viruses",
+    "n5": "wound tumor virus'",
+    "n6": "wound tumor viruses'",
+    "n7": "a wound tumor virus",
+    "n8": "many wound tumor viruses"
+}

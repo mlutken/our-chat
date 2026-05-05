@@ -1,0 +1,18 @@
+{
+    "base": "district",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n1": "district",
+    "n2": "districts",
+    "n3": "the district",
+    "n4": "the districts",
+    "n5": "district's",
+    "n6": "districts'",
+    "n7": "a district",
+    "n8": "many districts"
+}

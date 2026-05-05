@@ -1,0 +1,18 @@
+{
+    "base": "pea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pea",
+    "n2": "pease",
+    "n3": "the pea",
+    "n4": "the pease",
+    "n5": "pea's",
+    "n6": "pease's",
+    "n7": "a pea",
+    "n8": "many pease"
+}

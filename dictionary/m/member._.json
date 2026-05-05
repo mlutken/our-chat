@@ -7,5 +7,12 @@
     "n2": "members",
     "n3": "the member",
     "n4": "the members",
-    "n5": "member's"
+    "n5": "member's",
+    "proper": false,
+    "commonness": 78,
+    "max_commonness": 6834,
+    "commonness_ge_count": 174,
+    "n6": "members'",
+    "n7": "a member",
+    "n8": "many members"
 }

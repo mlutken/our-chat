@@ -1,0 +1,18 @@
+{
+    "base": "last rites",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "last rites",
+    "n2": "last riteses",
+    "n3": "the last rites",
+    "n4": "the last riteses",
+    "n5": "last rites'",
+    "n6": "last riteses'",
+    "n7": "a last rites",
+    "n8": "many last riteses"
+}

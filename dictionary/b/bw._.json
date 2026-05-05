@@ -1,0 +1,18 @@
+{
+    "base": "bw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "bw",
+    "n2": "bws",
+    "n3": "the bw",
+    "n4": "the bws",
+    "n5": "bw's",
+    "n6": "bws'",
+    "n7": "a bw",
+    "n8": "many bws"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "west indies",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "west indies",
+    "n2": "west indieses",
+    "n3": "the west indies",
+    "n4": "the west indieses",
+    "n5": "west indies'",
+    "n6": "west indieses'",
+    "n7": "a west indies",
+    "n8": "many west indieses"
+}

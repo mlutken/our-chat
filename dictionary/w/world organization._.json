@@ -1,0 +1,18 @@
+{
+    "base": "world organization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "world organization",
+    "n2": "world organizations",
+    "n3": "the world organization",
+    "n4": "the world organizations",
+    "n5": "world organization's",
+    "n6": "world organizations'",
+    "n7": "a world organization",
+    "n8": "many world organizations"
+}

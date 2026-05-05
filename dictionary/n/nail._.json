@@ -1,11 +1,24 @@
 {
     "base": "nail",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "nail",
     "v2": "nailed",
     "v3": "nailed",
     "v4": "nailing",
-    "v5": "nails"
+    "v5": "nails",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "nail",
+    "n2": "nails",
+    "n3": "the nail",
+    "n4": "the nails",
+    "n5": "nail's",
+    "n6": "nails'",
+    "n7": "a nail",
+    "n8": "many nails"
 }

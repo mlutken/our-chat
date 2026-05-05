@@ -1,11 +1,24 @@
 {
     "base": "haunt",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "haunt",
     "v2": "haunted",
     "v3": "haunted",
     "v4": "haunting",
-    "v5": "haunts"
+    "v5": "haunts",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "haunt",
+    "n2": "haunts",
+    "n3": "the haunt",
+    "n4": "the haunts",
+    "n5": "haunt's",
+    "n6": "haunts'",
+    "n7": "a haunt",
+    "n8": "many haunts"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "cadre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cadre",
+    "n2": "cadres",
+    "n3": "the cadre",
+    "n4": "the cadres",
+    "n5": "cadre's",
+    "n6": "cadres'",
+    "n7": "a cadre",
+    "n8": "many cadres"
+}

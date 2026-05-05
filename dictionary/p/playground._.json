@@ -1,0 +1,18 @@
+{
+    "base": "playground",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "playground",
+    "n2": "playgrounds",
+    "n3": "the playground",
+    "n4": "the playgrounds",
+    "n5": "playground's",
+    "n6": "playgrounds'",
+    "n7": "a playground",
+    "n8": "many playgrounds"
+}

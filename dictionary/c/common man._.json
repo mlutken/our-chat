@@ -1,0 +1,18 @@
+{
+    "base": "common man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "common man",
+    "n2": "common mans",
+    "n3": "the common man",
+    "n4": "the common mans",
+    "n5": "common man's",
+    "n6": "common mans'",
+    "n7": "a common man",
+    "n8": "many common mans"
+}

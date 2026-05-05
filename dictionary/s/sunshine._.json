@@ -1,0 +1,18 @@
+{
+    "base": "sunshine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sunshine",
+    "n2": "sunshines",
+    "n3": "the sunshine",
+    "n4": "the sunshines",
+    "n5": "sunshine's",
+    "n6": "sunshines'",
+    "n7": "a sunshine",
+    "n8": "many sunshines"
+}

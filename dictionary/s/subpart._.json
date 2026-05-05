@@ -1,0 +1,18 @@
+{
+    "base": "subpart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subpart",
+    "n2": "subparts",
+    "n3": "the subpart",
+    "n4": "the subparts",
+    "n5": "subpart's",
+    "n6": "subparts'",
+    "n7": "a subpart",
+    "n8": "many subparts"
+}

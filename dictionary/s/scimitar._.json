@@ -1,0 +1,18 @@
+{
+    "base": "scimitar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scimitar",
+    "n2": "scimitars",
+    "n3": "the scimitar",
+    "n4": "the scimitars",
+    "n5": "scimitar's",
+    "n6": "scimitars'",
+    "n7": "a scimitar",
+    "n8": "many scimitars"
+}

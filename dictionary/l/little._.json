@@ -1,9 +1,22 @@
 {
     "base": "little",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "little",
     "adj2": "less",
-    "adj3": "least"
+    "adj3": "least",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "little",
+    "n2": "littles",
+    "n3": "the little",
+    "n4": "the littles",
+    "n5": "little's",
+    "n6": "littles'",
+    "n7": "a little",
+    "n8": "many littles"
 }

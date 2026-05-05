@@ -1,0 +1,18 @@
+{
+    "base": "grill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grill",
+    "n2": "grills",
+    "n3": "the grill",
+    "n4": "the grills",
+    "n5": "grill's",
+    "n6": "grills'",
+    "n7": "a grill",
+    "n8": "many grills"
+}

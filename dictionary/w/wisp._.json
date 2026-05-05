@@ -1,0 +1,18 @@
+{
+    "base": "wisp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wisp",
+    "n2": "wisps",
+    "n3": "the wisp",
+    "n4": "the wisps",
+    "n5": "wisp's",
+    "n6": "wisps'",
+    "n7": "a wisp",
+    "n8": "many wisps"
+}

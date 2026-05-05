@@ -7,5 +7,12 @@
     "n2": "techniques",
     "n3": "the technique",
     "n4": "the techniques",
-    "n5": "technique's"
+    "n5": "technique's",
+    "proper": false,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n6": "techniques'",
+    "n7": "a technique",
+    "n8": "many techniques"
 }

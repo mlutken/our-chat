@@ -1,0 +1,18 @@
+{
+    "base": "privilege",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "privilege",
+    "n2": "privileges",
+    "n3": "the privilege",
+    "n4": "the privileges",
+    "n5": "privilege's",
+    "n6": "privileges'",
+    "n7": "a privilege",
+    "n8": "many privileges"
+}

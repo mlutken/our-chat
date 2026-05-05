@@ -1,0 +1,18 @@
+{
+    "base": "hay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "hay",
+    "n2": "hays",
+    "n3": "the hay",
+    "n4": "the hays",
+    "n5": "hay's",
+    "n6": "hays'",
+    "n7": "a hay",
+    "n8": "many hays"
+}

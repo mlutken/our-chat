@@ -1,0 +1,18 @@
+{
+    "base": "degree of freedom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "degree of freedom",
+    "n2": "degree of freedoms",
+    "n3": "the degree of freedom",
+    "n4": "the degree of freedoms",
+    "n5": "degree of freedom's",
+    "n6": "degree of freedoms'",
+    "n7": "a degree of freedom",
+    "n8": "many degree of freedoms"
+}

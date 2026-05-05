@@ -1,0 +1,18 @@
+{
+    "base": "cleveland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "cleveland",
+    "n2": "clevelands",
+    "n3": "the cleveland",
+    "n4": "the clevelands",
+    "n5": "cleveland's",
+    "n6": "clevelands'",
+    "n7": "a cleveland",
+    "n8": "many clevelands"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pamphlet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pamphlet",
+    "n2": "pamphlets",
+    "n3": "the pamphlet",
+    "n4": "the pamphlets",
+    "n5": "pamphlet's",
+    "n6": "pamphlets'",
+    "n7": "a pamphlet",
+    "n8": "many pamphlets"
+}

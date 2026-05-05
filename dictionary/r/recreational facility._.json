@@ -1,0 +1,18 @@
+{
+    "base": "recreational facility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "recreational facility",
+    "n2": "recreational facilities",
+    "n3": "the recreational facility",
+    "n4": "the recreational facilities",
+    "n5": "recreational facility's",
+    "n6": "recreational facilities'",
+    "n7": "a recreational facility",
+    "n8": "many recreational facilities"
+}

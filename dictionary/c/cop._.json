@@ -1,0 +1,18 @@
+{
+    "base": "cop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "cop",
+    "n2": "cops",
+    "n3": "the cop",
+    "n4": "the cops",
+    "n5": "cop's",
+    "n6": "cops'",
+    "n7": "a cop",
+    "n8": "many cops"
+}

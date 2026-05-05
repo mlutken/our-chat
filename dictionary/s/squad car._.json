@@ -1,0 +1,18 @@
+{
+    "base": "squad car",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "squad car",
+    "n2": "squad cars",
+    "n3": "the squad car",
+    "n4": "the squad cars",
+    "n5": "squad car's",
+    "n6": "squad cars'",
+    "n7": "a squad car",
+    "n8": "many squad cars"
+}

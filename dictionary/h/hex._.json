@@ -1,0 +1,18 @@
+{
+    "base": "hex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hex",
+    "n2": "hexes",
+    "n3": "the hex",
+    "n4": "the hexes",
+    "n5": "hex's",
+    "n6": "hexes'",
+    "n7": "a hex",
+    "n8": "many hexes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sense of touch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "sense of touch",
+    "n2": "sense of touches",
+    "n3": "the sense of touch",
+    "n4": "the sense of touches",
+    "n5": "sense of touch's",
+    "n6": "sense of touches'",
+    "n7": "a sense of touch",
+    "n8": "many sense of touches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "prime time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prime time",
+    "n2": "prime times",
+    "n3": "the prime time",
+    "n4": "the prime times",
+    "n5": "prime time's",
+    "n6": "prime times'",
+    "n7": "a prime time",
+    "n8": "many prime times"
+}

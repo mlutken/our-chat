@@ -1,0 +1,18 @@
+{
+    "base": "parts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parts",
+    "n2": "partses",
+    "n3": "the parts",
+    "n4": "the partses",
+    "n5": "parts'",
+    "n6": "partses'",
+    "n7": "a parts",
+    "n8": "many partses"
+}

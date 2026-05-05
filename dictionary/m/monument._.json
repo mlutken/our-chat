@@ -1,0 +1,18 @@
+{
+    "base": "monument",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "monument",
+    "n2": "monuments",
+    "n3": "the monument",
+    "n4": "the monuments",
+    "n5": "monument's",
+    "n6": "monuments'",
+    "n7": "a monument",
+    "n8": "many monuments"
+}

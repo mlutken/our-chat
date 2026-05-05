@@ -1,0 +1,18 @@
+{
+    "base": "box kodak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "box kodak",
+    "n2": "box-kodaks",
+    "n3": "the box kodak",
+    "n4": "the box-kodaks",
+    "n5": "box kodak's",
+    "n6": "box-kodaks'",
+    "n7": "a box kodak",
+    "n8": "many box-kodaks"
+}

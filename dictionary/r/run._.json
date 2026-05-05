@@ -13,5 +13,12 @@
     "v2": "ran",
     "v3": "run",
     "v4": "running",
-    "v5": "runs"
+    "v5": "runs",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "runs'",
+    "n7": "a run",
+    "n8": "many runs"
 }

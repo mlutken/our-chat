@@ -1,0 +1,18 @@
+{
+    "base": "pastime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pastime",
+    "n2": "pastimes",
+    "n3": "the pastime",
+    "n4": "the pastimes",
+    "n5": "pastime's",
+    "n6": "pastimes'",
+    "n7": "a pastime",
+    "n8": "many pastimes"
+}

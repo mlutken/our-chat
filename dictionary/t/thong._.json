@@ -1,0 +1,18 @@
+{
+    "base": "thong",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thong",
+    "n2": "thongs",
+    "n3": "the thong",
+    "n4": "the thongs",
+    "n5": "thong's",
+    "n6": "thongs'",
+    "n7": "a thong",
+    "n8": "many thongs"
+}

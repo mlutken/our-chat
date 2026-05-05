@@ -1,0 +1,18 @@
+{
+    "base": "intima",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "intima",
+    "n2": "intimae",
+    "n3": "the intima",
+    "n4": "the intimae",
+    "n5": "intima's",
+    "n6": "intimae's",
+    "n7": "an intima",
+    "n8": "many intimae"
+}

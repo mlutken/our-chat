@@ -1,0 +1,18 @@
+{
+    "base": "satirist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "satirist",
+    "n2": "satirists",
+    "n3": "the satirist",
+    "n4": "the satirists",
+    "n5": "satirist's",
+    "n6": "satirists'",
+    "n7": "a satirist",
+    "n8": "many satirists"
+}

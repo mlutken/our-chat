@@ -1,0 +1,18 @@
+{
+    "base": "clamshell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clamshell",
+    "n2": "clamshells",
+    "n3": "the clamshell",
+    "n4": "the clamshells",
+    "n5": "clamshell's",
+    "n6": "clamshells'",
+    "n7": "a clamshell",
+    "n8": "many clamshells"
+}

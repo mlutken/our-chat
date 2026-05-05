@@ -1,0 +1,18 @@
+{
+    "base": "form of government",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "form of government",
+    "n2": "form of governments",
+    "n3": "the form of government",
+    "n4": "the form of governments",
+    "n5": "form of government's",
+    "n6": "form of governments'",
+    "n7": "a form of government",
+    "n8": "many form of governments"
+}

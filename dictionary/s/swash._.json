@@ -1,0 +1,18 @@
+{
+    "base": "swash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swash",
+    "n2": "swashes",
+    "n3": "the swash",
+    "n4": "the swashes",
+    "n5": "swash's",
+    "n6": "swashes'",
+    "n7": "a swash",
+    "n8": "many swashes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aristotle",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "aristotle",
+    "n2": "aristotles",
+    "n3": "the aristotle",
+    "n4": "the aristotles",
+    "n5": "aristotle's",
+    "n6": "aristotles'",
+    "n7": "an aristotle",
+    "n8": "many aristotles"
+}

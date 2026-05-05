@@ -1,0 +1,18 @@
+{
+    "base": "fille de chambre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "fille de chambre",
+    "n2": "fille de chambres",
+    "n3": "the fille de chambre",
+    "n4": "the fille de chambres",
+    "n5": "fille de chambre's",
+    "n6": "fille de chambres'",
+    "n7": "a fille de chambre",
+    "n8": "many fille de chambres"
+}

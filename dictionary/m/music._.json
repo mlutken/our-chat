@@ -7,5 +7,12 @@
     "n2": "musics",
     "n3": "the music",
     "n4": "the musics",
-    "n5": "music's"
+    "n5": "music's",
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n6": "musics'",
+    "n7": "a music",
+    "n8": "many musics"
 }

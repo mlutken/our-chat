@@ -1,0 +1,18 @@
+{
+    "base": "fullness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fullness",
+    "n2": "fullnesses",
+    "n3": "the fullness",
+    "n4": "the fullnesses",
+    "n5": "fullness'",
+    "n6": "fullnesses'",
+    "n7": "a fullness",
+    "n8": "many fullnesses"
+}

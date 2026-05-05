@@ -1,0 +1,18 @@
+{
+    "base": "resignation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "resignation",
+    "n2": "resignations",
+    "n3": "the resignation",
+    "n4": "the resignations",
+    "n5": "resignation's",
+    "n6": "resignations'",
+    "n7": "a resignation",
+    "n8": "many resignations"
+}

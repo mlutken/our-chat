@@ -1,0 +1,18 @@
+{
+    "base": "longshoreman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "longshoreman",
+    "n2": "longshoremen",
+    "n3": "the longshoreman",
+    "n4": "the longshoremen",
+    "n5": "longshoreman's",
+    "n6": "longshoremen's",
+    "n7": "a longshoreman",
+    "n8": "many longshoremen"
+}

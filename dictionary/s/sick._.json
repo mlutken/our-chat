@@ -1,0 +1,18 @@
+{
+    "base": "sick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sick",
+    "n2": "sicks",
+    "n3": "the sick",
+    "n4": "the sicks",
+    "n5": "sick's",
+    "n6": "sicks'",
+    "n7": "a sick",
+    "n8": "many sicks"
+}

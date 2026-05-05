@@ -1,0 +1,18 @@
+{
+    "base": "tibialis anticus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tibialis anticus",
+    "n2": "tibialis anticuses",
+    "n3": "the tibialis anticus",
+    "n4": "the tibialis anticuses",
+    "n5": "tibialis anticus'",
+    "n6": "tibialis anticuses'",
+    "n7": "a tibialis anticus",
+    "n8": "many tibialis anticuses"
+}

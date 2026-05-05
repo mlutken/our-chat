@@ -1,0 +1,18 @@
+{
+    "base": "logarithm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "logarithm",
+    "n2": "logarithms",
+    "n3": "the logarithm",
+    "n4": "the logarithms",
+    "n5": "logarithm's",
+    "n6": "logarithms'",
+    "n7": "a logarithm",
+    "n8": "many logarithms"
+}

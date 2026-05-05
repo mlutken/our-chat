@@ -1,0 +1,18 @@
+{
+    "base": "crusade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "crusade",
+    "n2": "crusades",
+    "n3": "the crusade",
+    "n4": "the crusades",
+    "n5": "crusade's",
+    "n6": "crusades'",
+    "n7": "a crusade",
+    "n8": "many crusades"
+}

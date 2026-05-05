@@ -1,0 +1,18 @@
+{
+    "base": "united states dollar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "united states dollar",
+    "n2": "united states dollars",
+    "n3": "the united states dollar",
+    "n4": "the united states dollars",
+    "n5": "united states dollar's",
+    "n6": "united states dollars'",
+    "n7": "a united states dollar",
+    "n8": "many united states dollars"
+}

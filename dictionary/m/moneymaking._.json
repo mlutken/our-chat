@@ -1,0 +1,18 @@
+{
+    "base": "moneymaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moneymaking",
+    "n2": "moneymakings",
+    "n3": "the moneymaking",
+    "n4": "the moneymakings",
+    "n5": "moneymaking's",
+    "n6": "moneymakings'",
+    "n7": "a moneymaking",
+    "n8": "many moneymakings"
+}

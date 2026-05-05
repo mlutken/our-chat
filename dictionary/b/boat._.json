@@ -7,5 +7,12 @@
     "n2": "boats",
     "n3": "the boat",
     "n4": "the boats",
-    "n5": "boat's"
+    "n5": "boat's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "boats'",
+    "n7": "a boat",
+    "n8": "many boats"
 }

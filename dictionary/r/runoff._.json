@@ -1,0 +1,18 @@
+{
+    "base": "runoff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "runoff",
+    "n2": "runofves",
+    "n3": "the runoff",
+    "n4": "the runofves",
+    "n5": "runoff's",
+    "n6": "runofves'",
+    "n7": "a runoff",
+    "n8": "many runofves"
+}

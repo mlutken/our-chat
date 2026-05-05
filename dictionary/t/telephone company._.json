@@ -1,0 +1,18 @@
+{
+    "base": "telephone company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telephone company",
+    "n2": "telephone companies",
+    "n3": "the telephone company",
+    "n4": "the telephone companies",
+    "n5": "telephone company's",
+    "n6": "telephone companies'",
+    "n7": "a telephone company",
+    "n8": "many telephone companies"
+}

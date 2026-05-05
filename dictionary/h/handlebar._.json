@@ -1,0 +1,18 @@
+{
+    "base": "handlebar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "handlebar",
+    "n2": "handlebars",
+    "n3": "the handlebar",
+    "n4": "the handlebars",
+    "n5": "handlebar's",
+    "n6": "handlebars'",
+    "n7": "a handlebar",
+    "n8": "many handlebars"
+}

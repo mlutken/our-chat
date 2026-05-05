@@ -1,0 +1,18 @@
+{
+    "base": "italian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "italian",
+    "n2": "italians",
+    "n3": "the italian",
+    "n4": "the italians",
+    "n5": "italian's",
+    "n6": "italians'",
+    "n7": "an italian",
+    "n8": "many italians"
+}

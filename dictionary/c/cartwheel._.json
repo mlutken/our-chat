@@ -1,0 +1,18 @@
+{
+    "base": "cartwheel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cartwheel",
+    "n2": "cartwheels",
+    "n3": "the cartwheel",
+    "n4": "the cartwheels",
+    "n5": "cartwheel's",
+    "n6": "cartwheels'",
+    "n7": "a cartwheel",
+    "n8": "many cartwheels"
+}

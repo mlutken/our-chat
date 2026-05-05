@@ -1,0 +1,18 @@
+{
+    "base": "borate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "borate",
+    "n2": "borates",
+    "n3": "the borate",
+    "n4": "the borates",
+    "n5": "borate's",
+    "n6": "borates'",
+    "n7": "a borate",
+    "n8": "many borates"
+}

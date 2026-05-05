@@ -1,0 +1,18 @@
+{
+    "base": "banister",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "banister",
+    "n2": "banisters",
+    "n3": "the banister",
+    "n4": "the banisters",
+    "n5": "banister's",
+    "n6": "banisters'",
+    "n7": "a banister",
+    "n8": "many banisters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "killer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "killer",
+    "n2": "killers",
+    "n3": "the killer",
+    "n4": "the killers",
+    "n5": "killer's",
+    "n6": "killers'",
+    "n7": "a killer",
+    "n8": "many killers"
+}

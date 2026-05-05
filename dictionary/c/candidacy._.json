@@ -1,0 +1,18 @@
+{
+    "base": "candidacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "candidacy",
+    "n2": "candidacies",
+    "n3": "the candidacy",
+    "n4": "the candidacies",
+    "n5": "candidacy's",
+    "n6": "candidacies'",
+    "n7": "a candidacy",
+    "n8": "many candidacies"
+}

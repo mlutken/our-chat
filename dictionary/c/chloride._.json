@@ -1,0 +1,18 @@
+{
+    "base": "chloride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chloride",
+    "n2": "chlorides",
+    "n3": "the chloride",
+    "n4": "the chlorides",
+    "n5": "chloride's",
+    "n6": "chlorides'",
+    "n7": "a chloride",
+    "n8": "many chlorides"
+}

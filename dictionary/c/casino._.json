@@ -1,0 +1,18 @@
+{
+    "base": "casino",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "casino",
+    "n2": "casinos",
+    "n3": "the casino",
+    "n4": "the casinos",
+    "n5": "casino's",
+    "n6": "casinos'",
+    "n7": "a casino",
+    "n8": "many casinos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "abscess",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "abscess",
+    "n2": "abscesses",
+    "n3": "the abscess",
+    "n4": "the abscesses",
+    "n5": "abscess'",
+    "n6": "abscesses'",
+    "n7": "an abscess",
+    "n8": "many abscesses"
+}

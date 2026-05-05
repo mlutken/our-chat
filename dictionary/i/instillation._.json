@@ -1,0 +1,18 @@
+{
+    "base": "instillation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "instillation",
+    "n2": "instillations",
+    "n3": "the instillation",
+    "n4": "the instillations",
+    "n5": "instillation's",
+    "n6": "instillations'",
+    "n7": "an instillation",
+    "n8": "many instillations"
+}

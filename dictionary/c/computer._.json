@@ -7,5 +7,12 @@
     "n2": "computers",
     "n3": "the computer",
     "n4": "the computers",
-    "n5": "computer's"
+    "n5": "computer's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "computers'",
+    "n7": "a computer",
+    "n8": "many computers"
 }

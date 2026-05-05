@@ -1,0 +1,18 @@
+{
+    "base": "bait",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bait",
+    "n2": "baits",
+    "n3": "the bait",
+    "n4": "the baits",
+    "n5": "bait's",
+    "n6": "baits'",
+    "n7": "a bait",
+    "n8": "many baits"
+}

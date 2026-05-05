@@ -1,0 +1,18 @@
+{
+    "base": "glanders",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glanders",
+    "n2": "glanderses",
+    "n3": "the glanders",
+    "n4": "the glanderses",
+    "n5": "glanders'",
+    "n6": "glanderses'",
+    "n7": "a glanders",
+    "n8": "many glanderses"
+}

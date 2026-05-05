@@ -1,0 +1,18 @@
+{
+    "base": "filipino",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "filipino",
+    "n2": "filipinos",
+    "n3": "the filipino",
+    "n4": "the filipinos",
+    "n5": "filipino's",
+    "n6": "filipinos'",
+    "n7": "a filipino",
+    "n8": "many filipinos"
+}

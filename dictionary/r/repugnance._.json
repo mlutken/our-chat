@@ -1,0 +1,18 @@
+{
+    "base": "repugnance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repugnance",
+    "n2": "repugnances",
+    "n3": "the repugnance",
+    "n4": "the repugnances",
+    "n5": "repugnance's",
+    "n6": "repugnances'",
+    "n7": "a repugnance",
+    "n8": "many repugnances"
+}

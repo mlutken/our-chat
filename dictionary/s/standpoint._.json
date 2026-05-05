@@ -1,0 +1,18 @@
+{
+    "base": "standpoint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "standpoint",
+    "n2": "standpoints",
+    "n3": "the standpoint",
+    "n4": "the standpoints",
+    "n5": "standpoint's",
+    "n6": "standpoints'",
+    "n7": "a standpoint",
+    "n8": "many standpoints"
+}

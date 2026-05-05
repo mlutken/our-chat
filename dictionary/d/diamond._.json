@@ -7,5 +7,12 @@
     "n2": "diamonds",
     "n3": "the diamond",
     "n4": "the diamonds",
-    "n5": "diamond's"
+    "n5": "diamond's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "diamonds'",
+    "n7": "a diamond",
+    "n8": "many diamonds"
 }

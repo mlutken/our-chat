@@ -1,0 +1,18 @@
+{
+    "base": "vista",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vista",
+    "n2": "vistas",
+    "n3": "the vista",
+    "n4": "the vistas",
+    "n5": "vista's",
+    "n6": "vistas'",
+    "n7": "a vista",
+    "n8": "many vistas"
+}

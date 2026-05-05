@@ -1,0 +1,18 @@
+{
+    "base": "potentiometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "potentiometer",
+    "n2": "potentiometers",
+    "n3": "the potentiometer",
+    "n4": "the potentiometers",
+    "n5": "potentiometer's",
+    "n6": "potentiometers'",
+    "n7": "a potentiometer",
+    "n8": "many potentiometers"
+}

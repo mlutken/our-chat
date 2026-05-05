@@ -1,0 +1,18 @@
+{
+    "base": "misogynist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misogynist",
+    "n2": "misogynists",
+    "n3": "the misogynist",
+    "n4": "the misogynists",
+    "n5": "misogynist's",
+    "n6": "misogynists'",
+    "n7": "a misogynist",
+    "n8": "many misogynists"
+}

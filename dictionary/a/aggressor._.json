@@ -1,0 +1,18 @@
+{
+    "base": "aggressor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "aggressor",
+    "n2": "aggressors",
+    "n3": "the aggressor",
+    "n4": "the aggressors",
+    "n5": "aggressor's",
+    "n6": "aggressors'",
+    "n7": "an aggressor",
+    "n8": "many aggressors"
+}

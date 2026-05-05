@@ -1,0 +1,18 @@
+{
+    "base": "coalescence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coalescence",
+    "n2": "coalescences",
+    "n3": "the coalescence",
+    "n4": "the coalescences",
+    "n5": "coalescence's",
+    "n6": "coalescences'",
+    "n7": "a coalescence",
+    "n8": "many coalescences"
+}

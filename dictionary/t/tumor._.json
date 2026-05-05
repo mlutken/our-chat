@@ -1,0 +1,18 @@
+{
+    "base": "tumor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "tumor",
+    "n2": "tumors",
+    "n3": "the tumor",
+    "n4": "the tumors",
+    "n5": "tumor's",
+    "n6": "tumors'",
+    "n7": "a tumor",
+    "n8": "many tumors"
+}

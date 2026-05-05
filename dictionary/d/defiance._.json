@@ -1,0 +1,18 @@
+{
+    "base": "defiance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "defiance",
+    "n2": "defiances",
+    "n3": "the defiance",
+    "n4": "the defiances",
+    "n5": "defiance's",
+    "n6": "defiances'",
+    "n7": "a defiance",
+    "n8": "many defiances"
+}

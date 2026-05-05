@@ -1,0 +1,18 @@
+{
+    "base": "dependence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dependence",
+    "n2": "dependences",
+    "n3": "the dependence",
+    "n4": "the dependences",
+    "n5": "dependence's",
+    "n6": "dependences'",
+    "n7": "a dependence",
+    "n8": "many dependences"
+}

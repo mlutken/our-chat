@@ -1,0 +1,18 @@
+{
+    "base": "flyer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flyer",
+    "n2": "flyers",
+    "n3": "the flyer",
+    "n4": "the flyers",
+    "n5": "flyer's",
+    "n6": "flyers'",
+    "n7": "a flyer",
+    "n8": "many flyers"
+}

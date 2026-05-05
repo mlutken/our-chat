@@ -1,0 +1,18 @@
+{
+    "base": "wart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wart",
+    "n2": "warts",
+    "n3": "the wart",
+    "n4": "the warts",
+    "n5": "wart's",
+    "n6": "warts'",
+    "n7": "a wart",
+    "n8": "many warts"
+}

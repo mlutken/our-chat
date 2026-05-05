@@ -1,0 +1,18 @@
+{
+    "base": "stimulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "stimulation",
+    "n2": "stimulations",
+    "n3": "the stimulation",
+    "n4": "the stimulations",
+    "n5": "stimulation's",
+    "n6": "stimulations'",
+    "n7": "a stimulation",
+    "n8": "many stimulations"
+}

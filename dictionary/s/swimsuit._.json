@@ -1,0 +1,18 @@
+{
+    "base": "swimsuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swimsuit",
+    "n2": "swimsuits",
+    "n3": "the swimsuit",
+    "n4": "the swimsuits",
+    "n5": "swimsuit's",
+    "n6": "swimsuits'",
+    "n7": "a swimsuit",
+    "n8": "many swimsuits"
+}

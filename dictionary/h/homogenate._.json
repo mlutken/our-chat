@@ -1,0 +1,18 @@
+{
+    "base": "homogenate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "homogenate",
+    "n2": "homogenates",
+    "n3": "the homogenate",
+    "n4": "the homogenates",
+    "n5": "homogenate's",
+    "n6": "homogenates'",
+    "n7": "a homogenate",
+    "n8": "many homogenates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "president of the united states",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "president of the united states",
+    "n2": "president of the united stateses",
+    "n3": "the president of the united states",
+    "n4": "the president of the united stateses",
+    "n5": "president of the united states'",
+    "n6": "president of the united stateses'",
+    "n7": "a president of the united states",
+    "n8": "many president of the united stateses"
+}

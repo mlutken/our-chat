@@ -1,0 +1,18 @@
+{
+    "base": "precipitate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "precipitate",
+    "n2": "precipitates",
+    "n3": "the precipitate",
+    "n4": "the precipitates",
+    "n5": "precipitate's",
+    "n6": "precipitates'",
+    "n7": "a precipitate",
+    "n8": "many precipitates"
+}

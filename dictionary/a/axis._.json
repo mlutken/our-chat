@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "axis",
-    "n2": "axes",
+    "n2": "axises",
     "n3": "the axis",
-    "n4": "the axes",
-    "n5": "axis's"
+    "n4": "the axises",
+    "n5": "axis'",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "axises'",
+    "n7": "an axis",
+    "n8": "many axises"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sojourn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sojourn",
+    "n2": "sojourns",
+    "n3": "the sojourn",
+    "n4": "the sojourns",
+    "n5": "sojourn's",
+    "n6": "sojourns'",
+    "n7": "a sojourn",
+    "n8": "many sojourns"
+}

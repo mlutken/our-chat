@@ -1,0 +1,18 @@
+{
+    "base": "molecule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "molecule",
+    "n2": "molecules",
+    "n3": "the molecule",
+    "n4": "the molecules",
+    "n5": "molecule's",
+    "n6": "molecules'",
+    "n7": "a molecule",
+    "n8": "many molecules"
+}

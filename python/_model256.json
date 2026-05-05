@@ -6,6 +6,6 @@
     "drop_rate": 0.1,
     "qkv_bias": false,
     "number_bits": 32,
-    "feed_forward_layer_expansion_multiplier": 4,
+    "feed_forward_layer_expansion_multiplier": 3,
     "dropout_all": true
 }

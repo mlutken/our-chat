@@ -1,0 +1,18 @@
+{
+    "base": "sultan",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sultan",
+    "n2": "sultans",
+    "n3": "the sultan",
+    "n4": "the sultans",
+    "n5": "sultan's",
+    "n6": "sultans'",
+    "n7": "a sultan",
+    "n8": "many sultans"
+}

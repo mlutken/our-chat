@@ -1,0 +1,18 @@
+{
+    "base": "musical composition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "musical composition",
+    "n2": "musical compositions",
+    "n3": "the musical composition",
+    "n4": "the musical compositions",
+    "n5": "musical composition's",
+    "n6": "musical compositions'",
+    "n7": "a musical composition",
+    "n8": "many musical compositions"
+}

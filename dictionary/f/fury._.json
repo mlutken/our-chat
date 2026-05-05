@@ -1,0 +1,18 @@
+{
+    "base": "fury",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "fury",
+    "n2": "furies",
+    "n3": "the fury",
+    "n4": "the furies",
+    "n5": "fury's",
+    "n6": "furies'",
+    "n7": "a fury",
+    "n8": "many furies"
+}

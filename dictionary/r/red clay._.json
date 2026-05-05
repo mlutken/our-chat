@@ -1,0 +1,18 @@
+{
+    "base": "red clay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red clay",
+    "n2": "red clays",
+    "n3": "the red clay",
+    "n4": "the red clays",
+    "n5": "red clay's",
+    "n6": "red clays'",
+    "n7": "a red clay",
+    "n8": "many red clays"
+}

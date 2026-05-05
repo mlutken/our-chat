@@ -1,0 +1,18 @@
+{
+    "base": "floridian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "floridian",
+    "n2": "floridians",
+    "n3": "the floridian",
+    "n4": "the floridians",
+    "n5": "floridian's",
+    "n6": "floridians'",
+    "n7": "a floridian",
+    "n8": "many floridians"
+}

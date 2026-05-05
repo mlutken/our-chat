@@ -1,0 +1,18 @@
+{
+    "base": "instructor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "instructor",
+    "n2": "instructors",
+    "n3": "the instructor",
+    "n4": "the instructors",
+    "n5": "instructor's",
+    "n6": "instructors'",
+    "n7": "an instructor",
+    "n8": "many instructors"
+}

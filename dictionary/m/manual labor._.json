@@ -1,0 +1,18 @@
+{
+    "base": "manual labor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manual labor",
+    "n2": "manual labors",
+    "n3": "the manual labor",
+    "n4": "the manual labors",
+    "n5": "manual labor's",
+    "n6": "manual labors'",
+    "n7": "a manual labor",
+    "n8": "many manual labors"
+}

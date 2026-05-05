@@ -1,0 +1,18 @@
+{
+    "base": "chap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chap",
+    "n2": "chaps",
+    "n3": "the chap",
+    "n4": "the chaps",
+    "n5": "chap's",
+    "n6": "chaps'",
+    "n7": "a chap",
+    "n8": "many chaps"
+}

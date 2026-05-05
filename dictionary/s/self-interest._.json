@@ -1,0 +1,18 @@
+{
+    "base": "self-interest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-interest",
+    "n2": "self-interests",
+    "n3": "the self-interest",
+    "n4": "the self-interests",
+    "n5": "self-interest's",
+    "n6": "self-interests'",
+    "n7": "a self-interest",
+    "n8": "many self-interests"
+}

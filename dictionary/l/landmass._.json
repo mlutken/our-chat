@@ -1,0 +1,18 @@
+{
+    "base": "landmass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "landmass",
+    "n2": "landmasses",
+    "n3": "the landmass",
+    "n4": "the landmasses",
+    "n5": "landmass'",
+    "n6": "landmasses'",
+    "n7": "a landmass",
+    "n8": "many landmasses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "intercontinental ballistic missile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intercontinental ballistic missile",
+    "n2": "intercontinental ballistic missiles",
+    "n3": "the intercontinental ballistic missile",
+    "n4": "the intercontinental ballistic missiles",
+    "n5": "intercontinental ballistic missile's",
+    "n6": "intercontinental ballistic missiles'",
+    "n7": "an intercontinental ballistic missile",
+    "n8": "many intercontinental ballistic missiles"
+}

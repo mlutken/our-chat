@@ -1,0 +1,18 @@
+{
+    "base": "reproducibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "reproducibility",
+    "n2": "reproducibilities",
+    "n3": "the reproducibility",
+    "n4": "the reproducibilities",
+    "n5": "reproducibility's",
+    "n6": "reproducibilities'",
+    "n7": "a reproducibility",
+    "n8": "many reproducibilities"
+}

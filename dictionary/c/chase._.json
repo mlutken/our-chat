@@ -1,11 +1,24 @@
 {
     "base": "chase",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "chase",
     "v2": "chased",
     "v3": "chased",
     "v4": "chasing",
-    "v5": "chases"
+    "v5": "chases",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "chase",
+    "n2": "chases",
+    "n3": "the chase",
+    "n4": "the chases",
+    "n5": "chase's",
+    "n6": "chases'",
+    "n7": "a chase",
+    "n8": "many chases"
 }

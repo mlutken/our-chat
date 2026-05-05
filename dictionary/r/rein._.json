@@ -1,0 +1,18 @@
+{
+    "base": "rein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "rein",
+    "n2": "reins",
+    "n3": "the rein",
+    "n4": "the reins",
+    "n5": "rein's",
+    "n6": "reins'",
+    "n7": "a rein",
+    "n8": "many reins"
+}

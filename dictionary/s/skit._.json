@@ -1,0 +1,18 @@
+{
+    "base": "skit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skit",
+    "n2": "skits",
+    "n3": "the skit",
+    "n4": "the skits",
+    "n5": "skit's",
+    "n6": "skits'",
+    "n7": "a skit",
+    "n8": "many skits"
+}

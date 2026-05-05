@@ -1,0 +1,18 @@
+{
+    "base": "criminal",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "criminal",
+    "n2": "criminals",
+    "n3": "the criminal",
+    "n4": "the criminals",
+    "n5": "criminal's",
+    "n6": "criminals'",
+    "n7": "a criminal",
+    "n8": "many criminals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "quatrain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quatrain",
+    "n2": "quatrains",
+    "n3": "the quatrain",
+    "n4": "the quatrains",
+    "n5": "quatrain's",
+    "n6": "quatrains'",
+    "n7": "a quatrain",
+    "n8": "many quatrains"
+}

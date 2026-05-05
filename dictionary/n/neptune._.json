@@ -1,0 +1,18 @@
+{
+    "base": "neptune",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neptune",
+    "n2": "neptunes",
+    "n3": "the neptune",
+    "n4": "the neptunes",
+    "n5": "neptune's",
+    "n6": "neptunes'",
+    "n7": "a neptune",
+    "n8": "many neptunes"
+}

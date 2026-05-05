@@ -1,0 +1,18 @@
+{
+    "base": "code of behavior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "code of behavior",
+    "n2": "code of behaviors",
+    "n3": "the code of behavior",
+    "n4": "the code of behaviors",
+    "n5": "code of behavior's",
+    "n6": "code of behaviors'",
+    "n7": "a code of behavior",
+    "n8": "many code of behaviors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aimlessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aimlessness",
+    "n2": "aimlessnesses",
+    "n3": "the aimlessness",
+    "n4": "the aimlessnesses",
+    "n5": "aimlessness'",
+    "n6": "aimlessnesses'",
+    "n7": "an aimlessness",
+    "n8": "many aimlessnesses"
+}

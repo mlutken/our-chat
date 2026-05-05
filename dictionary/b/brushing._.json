@@ -1,0 +1,18 @@
+{
+    "base": "brushing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brushing",
+    "n2": "brushings",
+    "n3": "the brushing",
+    "n4": "the brushings",
+    "n5": "brushing's",
+    "n6": "brushings'",
+    "n7": "a brushing",
+    "n8": "many brushings"
+}

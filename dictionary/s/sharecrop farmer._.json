@@ -1,0 +1,18 @@
+{
+    "base": "sharecrop farmer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sharecrop farmer",
+    "n2": "sharecrop farmers",
+    "n3": "the sharecrop farmer",
+    "n4": "the sharecrop farmers",
+    "n5": "sharecrop farmer's",
+    "n6": "sharecrop farmers'",
+    "n7": "a sharecrop farmer",
+    "n8": "many sharecrop farmers"
+}

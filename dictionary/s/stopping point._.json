@@ -1,0 +1,18 @@
+{
+    "base": "stopping point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stopping point",
+    "n2": "stopping points",
+    "n3": "the stopping point",
+    "n4": "the stopping points",
+    "n5": "stopping point's",
+    "n6": "stopping points'",
+    "n7": "a stopping point",
+    "n8": "many stopping points"
+}

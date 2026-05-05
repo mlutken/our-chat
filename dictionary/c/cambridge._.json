@@ -1,0 +1,18 @@
+{
+    "base": "cambridge",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cambridge",
+    "n2": "cambridges",
+    "n3": "the cambridge",
+    "n4": "the cambridges",
+    "n5": "cambridge's",
+    "n6": "cambridges'",
+    "n7": "a cambridge",
+    "n8": "many cambridges"
+}

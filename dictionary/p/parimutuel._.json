@@ -1,0 +1,18 @@
+{
+    "base": "parimutuel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parimutuel",
+    "n2": "parimutuels",
+    "n3": "the parimutuel",
+    "n4": "the parimutuels",
+    "n5": "parimutuel's",
+    "n6": "parimutuels'",
+    "n7": "a parimutuel",
+    "n8": "many parimutuels"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "screwdriver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "screwdriver",
+    "n2": "screwdrivers",
+    "n3": "the screwdriver",
+    "n4": "the screwdrivers",
+    "n5": "screwdriver's",
+    "n6": "screwdrivers'",
+    "n7": "a screwdriver",
+    "n8": "many screwdrivers"
+}

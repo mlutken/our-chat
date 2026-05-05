@@ -1,0 +1,18 @@
+{
+    "base": "synthesis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "synthesis",
+    "n2": "syntheses",
+    "n3": "the synthesis",
+    "n4": "the syntheses",
+    "n5": "synthesis'",
+    "n6": "syntheses'",
+    "n7": "a synthesis",
+    "n8": "many syntheses"
+}

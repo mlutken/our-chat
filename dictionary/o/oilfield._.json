@@ -1,0 +1,18 @@
+{
+    "base": "oilfield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oilfield",
+    "n2": "oilfields",
+    "n3": "the oilfield",
+    "n4": "the oilfields",
+    "n5": "oilfield's",
+    "n6": "oilfields'",
+    "n7": "an oilfield",
+    "n8": "many oilfields"
+}

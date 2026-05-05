@@ -1,0 +1,18 @@
+{
+    "base": "clue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "clue",
+    "n2": "clues",
+    "n3": "the clue",
+    "n4": "the clues",
+    "n5": "clue's",
+    "n6": "clues'",
+    "n7": "a clue",
+    "n8": "many clues"
+}

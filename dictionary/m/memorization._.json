@@ -1,0 +1,18 @@
+{
+    "base": "memorization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "memorization",
+    "n2": "memorizations",
+    "n3": "the memorization",
+    "n4": "the memorizations",
+    "n5": "memorization's",
+    "n6": "memorizations'",
+    "n7": "a memorization",
+    "n8": "many memorizations"
+}

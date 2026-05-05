@@ -1,0 +1,18 @@
+{
+    "base": "phoenix",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phoenix",
+    "n2": "phoenixes",
+    "n3": "the phoenix",
+    "n4": "the phoenixes",
+    "n5": "phoenix's",
+    "n6": "phoenixes'",
+    "n7": "a phoenix",
+    "n8": "many phoenixes"
+}

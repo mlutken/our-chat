@@ -1,0 +1,18 @@
+{
+    "base": "stretch pants",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stretch pants",
+    "n2": "stretch pantses",
+    "n3": "the stretch pants",
+    "n4": "the stretch pantses",
+    "n5": "stretch pants'",
+    "n6": "stretch pantses'",
+    "n7": "a stretch pants",
+    "n8": "many stretch pantses"
+}

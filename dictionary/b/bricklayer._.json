@@ -1,0 +1,18 @@
+{
+    "base": "bricklayer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bricklayer",
+    "n2": "bricklayers",
+    "n3": "the bricklayer",
+    "n4": "the bricklayers",
+    "n5": "bricklayer's",
+    "n6": "bricklayers'",
+    "n7": "a bricklayer",
+    "n8": "many bricklayers"
+}

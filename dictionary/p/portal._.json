@@ -1,0 +1,18 @@
+{
+    "base": "portal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "portal",
+    "n2": "portals",
+    "n3": "the portal",
+    "n4": "the portals",
+    "n5": "portal's",
+    "n6": "portals'",
+    "n7": "a portal",
+    "n8": "many portals"
+}

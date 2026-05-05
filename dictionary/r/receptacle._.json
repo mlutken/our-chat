@@ -1,0 +1,18 @@
+{
+    "base": "receptacle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "receptacle",
+    "n2": "receptacles",
+    "n3": "the receptacle",
+    "n4": "the receptacles",
+    "n5": "receptacle's",
+    "n6": "receptacles'",
+    "n7": "a receptacle",
+    "n8": "many receptacles"
+}

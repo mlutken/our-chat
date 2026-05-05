@@ -7,5 +7,12 @@
     "n2": "generations",
     "n3": "the generation",
     "n4": "the generations",
-    "n5": "generation's"
+    "n5": "generation's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "generations'",
+    "n7": "a generation",
+    "n8": "many generations"
 }

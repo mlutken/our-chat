@@ -1,0 +1,18 @@
+{
+    "base": "licking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "licking",
+    "n2": "lickings",
+    "n3": "the licking",
+    "n4": "the lickings",
+    "n5": "licking's",
+    "n6": "lickings'",
+    "n7": "a licking",
+    "n8": "many lickings"
+}

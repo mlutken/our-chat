@@ -1,0 +1,18 @@
+{
+    "base": "portfolio",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "portfolio",
+    "n2": "portfolios",
+    "n3": "the portfolio",
+    "n4": "the portfolios",
+    "n5": "portfolio's",
+    "n6": "portfolios'",
+    "n7": "a portfolio",
+    "n8": "many portfolios"
+}

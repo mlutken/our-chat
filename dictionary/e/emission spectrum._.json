@@ -1,0 +1,18 @@
+{
+    "base": "emission spectrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "emission spectrum",
+    "n2": "emission spectrums",
+    "n3": "the emission spectrum",
+    "n4": "the emission spectrums",
+    "n5": "emission spectrum's",
+    "n6": "emission spectrums'",
+    "n7": "an emission spectrum",
+    "n8": "many emission spectrums"
+}

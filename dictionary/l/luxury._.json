@@ -1,0 +1,18 @@
+{
+    "base": "luxury",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "luxury",
+    "n2": "luxuries",
+    "n3": "the luxury",
+    "n4": "the luxuries",
+    "n5": "luxury's",
+    "n6": "luxuries'",
+    "n7": "a luxury",
+    "n8": "many luxuries"
+}

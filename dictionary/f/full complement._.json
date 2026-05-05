@@ -1,0 +1,18 @@
+{
+    "base": "full complement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "full complement",
+    "n2": "full complements",
+    "n3": "the full complement",
+    "n4": "the full complements",
+    "n5": "full complement's",
+    "n6": "full complements'",
+    "n7": "a full complement",
+    "n8": "many full complements"
+}

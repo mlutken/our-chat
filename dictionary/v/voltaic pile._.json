@@ -1,0 +1,18 @@
+{
+    "base": "voltaic pile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "voltaic pile",
+    "n2": "voltaic piles",
+    "n3": "the voltaic pile",
+    "n4": "the voltaic piles",
+    "n5": "voltaic pile's",
+    "n6": "voltaic piles'",
+    "n7": "a voltaic pile",
+    "n8": "many voltaic piles"
+}

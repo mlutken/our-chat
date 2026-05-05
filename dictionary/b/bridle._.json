@@ -1,0 +1,18 @@
+{
+    "base": "bridle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "bridle",
+    "n2": "bridles",
+    "n3": "the bridle",
+    "n4": "the bridles",
+    "n5": "bridle's",
+    "n6": "bridles'",
+    "n7": "a bridle",
+    "n8": "many bridles"
+}

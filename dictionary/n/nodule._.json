@@ -1,0 +1,18 @@
+{
+    "base": "nodule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nodule",
+    "n2": "nodules",
+    "n3": "the nodule",
+    "n4": "the nodules",
+    "n5": "nodule's",
+    "n6": "nodules'",
+    "n7": "a nodule",
+    "n8": "many nodules"
+}

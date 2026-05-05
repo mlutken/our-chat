@@ -1,0 +1,18 @@
+{
+    "base": "coldness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coldness",
+    "n2": "coldnesses",
+    "n3": "the coldness",
+    "n4": "the coldnesses",
+    "n5": "coldness'",
+    "n6": "coldnesses'",
+    "n7": "a coldness",
+    "n8": "many coldnesses"
+}

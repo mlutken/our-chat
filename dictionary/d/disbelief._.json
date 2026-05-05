@@ -1,0 +1,18 @@
+{
+    "base": "disbelief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "disbelief",
+    "n2": "disbelieves",
+    "n3": "the disbelief",
+    "n4": "the disbelieves",
+    "n5": "disbelief's",
+    "n6": "disbelieves'",
+    "n7": "a disbelief",
+    "n8": "many disbelieves"
+}

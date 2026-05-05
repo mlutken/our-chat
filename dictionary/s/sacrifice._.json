@@ -1,0 +1,18 @@
+{
+    "base": "sacrifice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "sacrifice",
+    "n2": "sacrifices",
+    "n3": "the sacrifice",
+    "n4": "the sacrifices",
+    "n5": "sacrifice's",
+    "n6": "sacrifices'",
+    "n7": "a sacrifice",
+    "n8": "many sacrifices"
+}

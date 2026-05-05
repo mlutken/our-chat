@@ -1,0 +1,18 @@
+{
+    "base": "bombproof",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bombproof",
+    "n2": "bombprooves",
+    "n3": "the bombproof",
+    "n4": "the bombprooves",
+    "n5": "bombproof's",
+    "n6": "bombprooves'",
+    "n7": "a bombproof",
+    "n8": "many bombprooves"
+}

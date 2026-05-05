@@ -1,0 +1,18 @@
+{
+    "base": "minstrel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "minstrel",
+    "n2": "minstrels",
+    "n3": "the minstrel",
+    "n4": "the minstrels",
+    "n5": "minstrel's",
+    "n6": "minstrels'",
+    "n7": "a minstrel",
+    "n8": "many minstrels"
+}

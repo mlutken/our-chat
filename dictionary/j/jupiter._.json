@@ -1,0 +1,18 @@
+{
+    "base": "jupiter",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "jupiter",
+    "n2": "jupiters",
+    "n3": "the jupiter",
+    "n4": "the jupiters",
+    "n5": "jupiter's",
+    "n6": "jupiters'",
+    "n7": "a jupiter",
+    "n8": "many jupiters"
+}

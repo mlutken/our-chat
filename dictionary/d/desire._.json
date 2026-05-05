@@ -1,11 +1,24 @@
 {
     "base": "desire",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "desire",
     "v2": "desired",
     "v3": "desired",
     "v4": "desiring",
-    "v5": "desires"
+    "v5": "desires",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n1": "desire",
+    "n2": "desires",
+    "n3": "the desire",
+    "n4": "the desires",
+    "n5": "desire's",
+    "n6": "desires'",
+    "n7": "a desire",
+    "n8": "many desires"
 }

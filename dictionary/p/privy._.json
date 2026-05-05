@@ -1,0 +1,18 @@
+{
+    "base": "privy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "privy",
+    "n2": "privies",
+    "n3": "the privy",
+    "n4": "the privies",
+    "n5": "privy's",
+    "n6": "privies'",
+    "n7": "a privy",
+    "n8": "many privies"
+}

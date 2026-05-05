@@ -1,0 +1,18 @@
+{
+    "base": "battleground",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "battleground",
+    "n2": "battlegrounds",
+    "n3": "the battleground",
+    "n4": "the battlegrounds",
+    "n5": "battleground's",
+    "n6": "battlegrounds'",
+    "n7": "a battleground",
+    "n8": "many battlegrounds"
+}

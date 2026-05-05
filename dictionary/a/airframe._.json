@@ -1,0 +1,18 @@
+{
+    "base": "airframe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "airframe",
+    "n2": "airframes",
+    "n3": "the airframe",
+    "n4": "the airframes",
+    "n5": "airframe's",
+    "n6": "airframes'",
+    "n7": "an airframe",
+    "n8": "many airframes"
+}

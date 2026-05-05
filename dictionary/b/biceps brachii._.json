@@ -1,0 +1,18 @@
+{
+    "base": "biceps brachii",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "biceps brachii",
+    "n2": "biceps brachiis",
+    "n3": "the biceps brachii",
+    "n4": "the biceps brachiis",
+    "n5": "biceps brachii's",
+    "n6": "biceps brachiis'",
+    "n7": "a biceps brachii",
+    "n8": "many biceps brachiis"
+}

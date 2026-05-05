@@ -1,0 +1,18 @@
+{
+    "base": "paging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paging",
+    "n2": "pagings",
+    "n3": "the paging",
+    "n4": "the pagings",
+    "n5": "paging's",
+    "n6": "pagings'",
+    "n7": "a paging",
+    "n8": "many pagings"
+}

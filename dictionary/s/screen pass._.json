@@ -1,0 +1,18 @@
+{
+    "base": "screen pass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "screen pass",
+    "n2": "screen passes",
+    "n3": "the screen pass",
+    "n4": "the screen passes",
+    "n5": "screen pass'",
+    "n6": "screen passes'",
+    "n7": "a screen pass",
+    "n8": "many screen passes"
+}

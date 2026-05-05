@@ -1,0 +1,18 @@
+{
+    "base": "herpetologist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "herpetologist",
+    "n2": "herpetologists",
+    "n3": "the herpetologist",
+    "n4": "the herpetologists",
+    "n5": "herpetologist's",
+    "n6": "herpetologists'",
+    "n7": "a herpetologist",
+    "n8": "many herpetologists"
+}

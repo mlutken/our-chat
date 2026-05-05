@@ -1,0 +1,18 @@
+{
+    "base": "solid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "solid",
+    "n2": "solids",
+    "n3": "the solid",
+    "n4": "the solids",
+    "n5": "solid's",
+    "n6": "solids'",
+    "n7": "a solid",
+    "n8": "many solids"
+}

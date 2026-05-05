@@ -1,0 +1,18 @@
+{
+    "base": "languor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "languor",
+    "n2": "languors",
+    "n3": "the languor",
+    "n4": "the languors",
+    "n5": "languor's",
+    "n6": "languors'",
+    "n7": "a languor",
+    "n8": "many languors"
+}

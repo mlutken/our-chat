@@ -1,0 +1,18 @@
+{
+    "base": "town house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "town house",
+    "n2": "town houses",
+    "n3": "the town house",
+    "n4": "the town houses",
+    "n5": "town house's",
+    "n6": "town houses'",
+    "n7": "a town house",
+    "n8": "many town houses"
+}

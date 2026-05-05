@@ -1,0 +1,18 @@
+{
+    "base": "prestige",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "prestige",
+    "n2": "prestiges",
+    "n3": "the prestige",
+    "n4": "the prestiges",
+    "n5": "prestige's",
+    "n6": "prestiges'",
+    "n7": "a prestige",
+    "n8": "many prestiges"
+}

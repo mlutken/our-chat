@@ -1,0 +1,18 @@
+{
+    "base": "trooper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "trooper",
+    "n2": "troopers",
+    "n3": "the trooper",
+    "n4": "the troopers",
+    "n5": "trooper's",
+    "n6": "troopers'",
+    "n7": "a trooper",
+    "n8": "many troopers"
+}

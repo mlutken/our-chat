@@ -1,0 +1,18 @@
+{
+    "base": "ruler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ruler",
+    "n2": "rulers",
+    "n3": "the ruler",
+    "n4": "the rulers",
+    "n5": "ruler's",
+    "n6": "rulers'",
+    "n7": "a ruler",
+    "n8": "many rulers"
+}

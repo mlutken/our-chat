@@ -1,0 +1,18 @@
+{
+    "base": "telephone line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "telephone line",
+    "n2": "telephone lines",
+    "n3": "the telephone line",
+    "n4": "the telephone lines",
+    "n5": "telephone line's",
+    "n6": "telephone lines'",
+    "n7": "a telephone line",
+    "n8": "many telephone lines"
+}

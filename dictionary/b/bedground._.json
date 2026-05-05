@@ -1,0 +1,18 @@
+{
+    "base": "bedground",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bedground",
+    "n2": "bedgrounds",
+    "n3": "the bedground",
+    "n4": "the bedgrounds",
+    "n5": "bedground's",
+    "n6": "bedgrounds'",
+    "n7": "a bedground",
+    "n8": "many bedgrounds"
+}

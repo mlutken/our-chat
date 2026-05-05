@@ -1,0 +1,18 @@
+{
+    "base": "paraphrase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "paraphrase",
+    "n2": "paraphrases",
+    "n3": "the paraphrase",
+    "n4": "the paraphrases",
+    "n5": "paraphrase's",
+    "n6": "paraphrases'",
+    "n7": "a paraphrase",
+    "n8": "many paraphrases"
+}

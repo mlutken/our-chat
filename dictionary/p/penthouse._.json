@@ -1,0 +1,18 @@
+{
+    "base": "penthouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "penthouse",
+    "n2": "penthouses",
+    "n3": "the penthouse",
+    "n4": "the penthouses",
+    "n5": "penthouse's",
+    "n6": "penthouses'",
+    "n7": "a penthouse",
+    "n8": "many penthouses"
+}

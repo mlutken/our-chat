@@ -1,0 +1,18 @@
+{
+    "base": "gully",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gully",
+    "n2": "gullies",
+    "n3": "the gully",
+    "n4": "the gullies",
+    "n5": "gully's",
+    "n6": "gullies'",
+    "n7": "a gully",
+    "n8": "many gullies"
+}

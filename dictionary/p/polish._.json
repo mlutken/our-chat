@@ -1,11 +1,24 @@
 {
     "base": "polish",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "polish",
     "v2": "polished",
     "v3": "polished",
     "v4": "polishing",
-    "v5": "polishes"
+    "v5": "polishes",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "polish",
+    "n2": "polishes",
+    "n3": "the polish",
+    "n4": "the polishes",
+    "n5": "polish's",
+    "n6": "polishes'",
+    "n7": "a polish",
+    "n8": "many polishes"
 }

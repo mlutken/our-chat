@@ -1,0 +1,18 @@
+{
+    "base": "stealth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stealth",
+    "n2": "stealths",
+    "n3": "the stealth",
+    "n4": "the stealths",
+    "n5": "stealth's",
+    "n6": "stealths'",
+    "n7": "a stealth",
+    "n8": "many stealths"
+}

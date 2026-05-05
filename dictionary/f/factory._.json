@@ -1,0 +1,18 @@
+{
+    "base": "factory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "factory",
+    "n2": "factories",
+    "n3": "the factory",
+    "n4": "the factories",
+    "n5": "factory's",
+    "n6": "factories'",
+    "n7": "a factory",
+    "n8": "many factories"
+}

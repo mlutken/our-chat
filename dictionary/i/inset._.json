@@ -1,0 +1,18 @@
+{
+    "base": "inset",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inset",
+    "n2": "insets",
+    "n3": "the inset",
+    "n4": "the insets",
+    "n5": "inset's",
+    "n6": "insets'",
+    "n7": "an inset",
+    "n8": "many insets"
+}

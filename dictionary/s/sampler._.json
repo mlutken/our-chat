@@ -1,0 +1,18 @@
+{
+    "base": "sampler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sampler",
+    "n2": "samplers",
+    "n3": "the sampler",
+    "n4": "the samplers",
+    "n5": "sampler's",
+    "n6": "samplers'",
+    "n7": "a sampler",
+    "n8": "many samplers"
+}

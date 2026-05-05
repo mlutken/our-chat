@@ -1,0 +1,18 @@
+{
+    "base": "beggar",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beggar",
+    "n2": "beggars",
+    "n3": "the beggar",
+    "n4": "the beggars",
+    "n5": "beggar's",
+    "n6": "beggars'",
+    "n7": "a beggar",
+    "n8": "many beggars"
+}

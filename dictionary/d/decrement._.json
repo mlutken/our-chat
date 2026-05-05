@@ -1,0 +1,18 @@
+{
+    "base": "decrement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "decrement",
+    "n2": "decrements",
+    "n3": "the decrement",
+    "n4": "the decrements",
+    "n5": "decrement's",
+    "n6": "decrements'",
+    "n7": "a decrement",
+    "n8": "many decrements"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bootlegger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bootlegger",
+    "n2": "bootleggers",
+    "n3": "the bootlegger",
+    "n4": "the bootleggers",
+    "n5": "bootlegger's",
+    "n6": "bootleggers'",
+    "n7": "a bootlegger",
+    "n8": "many bootleggers"
+}

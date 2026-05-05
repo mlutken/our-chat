@@ -7,5 +7,12 @@
     "n2": "distances",
     "n3": "the distance",
     "n4": "the distances",
-    "n5": "distance's"
+    "n5": "distance's",
+    "proper": false,
+    "commonness": 82,
+    "max_commonness": 6834,
+    "commonness_ge_count": 158,
+    "n6": "distances'",
+    "n7": "a distance",
+    "n8": "many distances"
 }

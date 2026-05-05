@@ -1,0 +1,18 @@
+{
+    "base": "pile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "pile",
+    "n2": "piles",
+    "n3": "the pile",
+    "n4": "the piles",
+    "n5": "pile's",
+    "n6": "piles'",
+    "n7": "a pile",
+    "n8": "many piles"
+}

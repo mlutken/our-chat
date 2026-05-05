@@ -1,0 +1,18 @@
+{
+    "base": "tarpaulin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tarpaulin",
+    "n2": "tarpaulins",
+    "n3": "the tarpaulin",
+    "n4": "the tarpaulins",
+    "n5": "tarpaulin's",
+    "n6": "tarpaulins'",
+    "n7": "a tarpaulin",
+    "n8": "many tarpaulins"
+}

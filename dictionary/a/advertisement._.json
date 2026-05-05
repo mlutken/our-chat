@@ -1,0 +1,18 @@
+{
+    "base": "advertisement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "advertisement",
+    "n2": "advertisements",
+    "n3": "the advertisement",
+    "n4": "the advertisements",
+    "n5": "advertisement's",
+    "n6": "advertisements'",
+    "n7": "an advertisement",
+    "n8": "many advertisements"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "motherland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "motherland",
+    "n2": "motherlands",
+    "n3": "the motherland",
+    "n4": "the motherlands",
+    "n5": "motherland's",
+    "n6": "motherlands'",
+    "n7": "a motherland",
+    "n8": "many motherlands"
+}

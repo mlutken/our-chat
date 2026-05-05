@@ -1,0 +1,18 @@
+{
+    "base": "reprint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reprint",
+    "n2": "reprints",
+    "n3": "the reprint",
+    "n4": "the reprints",
+    "n5": "reprint's",
+    "n6": "reprints'",
+    "n7": "a reprint",
+    "n8": "many reprints"
+}

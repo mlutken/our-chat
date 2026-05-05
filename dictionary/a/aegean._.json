@@ -1,0 +1,18 @@
+{
+    "base": "aegean",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "aegean",
+    "n2": "aegeans",
+    "n3": "the aegean",
+    "n4": "the aegeans",
+    "n5": "aegean's",
+    "n6": "aegeans'",
+    "n7": "an aegean",
+    "n8": "many aegeans"
+}

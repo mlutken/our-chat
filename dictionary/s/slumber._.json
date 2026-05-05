@@ -1,0 +1,18 @@
+{
+    "base": "slumber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slumber",
+    "n2": "slumbers",
+    "n3": "the slumber",
+    "n4": "the slumbers",
+    "n5": "slumber's",
+    "n6": "slumbers'",
+    "n7": "a slumber",
+    "n8": "many slumbers"
+}

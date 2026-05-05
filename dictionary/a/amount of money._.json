@@ -1,0 +1,18 @@
+{
+    "base": "amount of money",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amount of money",
+    "n2": "amount of moneys",
+    "n3": "the amount of money",
+    "n4": "the amount of moneys",
+    "n5": "amount of money's",
+    "n6": "amount of moneys'",
+    "n7": "an amount of money",
+    "n8": "many amount of moneys"
+}

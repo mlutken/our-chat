@@ -1,0 +1,18 @@
+{
+    "base": "artificial lake",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artificial lake",
+    "n2": "artificial lakes",
+    "n3": "the artificial lake",
+    "n4": "the artificial lakes",
+    "n5": "artificial lake's",
+    "n6": "artificial lakes'",
+    "n7": "an artificial lake",
+    "n8": "many artificial lakes"
+}

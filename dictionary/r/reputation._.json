@@ -7,5 +7,12 @@
     "n2": "reputations",
     "n3": "the reputation",
     "n4": "the reputations",
-    "n5": "reputation's"
+    "n5": "reputation's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "reputations'",
+    "n7": "a reputation",
+    "n8": "many reputations"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "landowner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "landowner",
+    "n2": "landowners",
+    "n3": "the landowner",
+    "n4": "the landowners",
+    "n5": "landowner's",
+    "n6": "landowners'",
+    "n7": "a landowner",
+    "n8": "many landowners"
+}

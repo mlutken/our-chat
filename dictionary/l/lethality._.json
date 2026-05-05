@@ -1,0 +1,18 @@
+{
+    "base": "lethality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lethality",
+    "n2": "lethalities",
+    "n3": "the lethality",
+    "n4": "the lethalities",
+    "n5": "lethality's",
+    "n6": "lethalities'",
+    "n7": "a lethality",
+    "n8": "many lethalities"
+}

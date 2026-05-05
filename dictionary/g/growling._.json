@@ -1,0 +1,18 @@
+{
+    "base": "growling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "growling",
+    "n2": "growlings",
+    "n3": "the growling",
+    "n4": "the growlings",
+    "n5": "growling's",
+    "n6": "growlings'",
+    "n7": "a growling",
+    "n8": "many growlings"
+}

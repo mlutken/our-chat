@@ -1,0 +1,18 @@
+{
+    "base": "bandit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bandit",
+    "n2": "banditti",
+    "n3": "the bandit",
+    "n4": "the banditti",
+    "n5": "bandit's",
+    "n6": "banditti's",
+    "n7": "a bandit",
+    "n8": "many banditti"
+}

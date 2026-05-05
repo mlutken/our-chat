@@ -1,0 +1,18 @@
+{
+    "base": "salamander",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "salamander",
+    "n2": "salamanders",
+    "n3": "the salamander",
+    "n4": "the salamanders",
+    "n5": "salamander's",
+    "n6": "salamanders'",
+    "n7": "a salamander",
+    "n8": "many salamanders"
+}

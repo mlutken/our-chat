@@ -1,0 +1,18 @@
+{
+    "base": "anguish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "anguish",
+    "n2": "anguishes",
+    "n3": "the anguish",
+    "n4": "the anguishes",
+    "n5": "anguish's",
+    "n6": "anguishes'",
+    "n7": "an anguish",
+    "n8": "many anguishes"
+}

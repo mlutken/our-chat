@@ -1,0 +1,18 @@
+{
+    "base": "marriage mart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marriage mart",
+    "n2": "marriage marts",
+    "n3": "the marriage mart",
+    "n4": "the marriage marts",
+    "n5": "marriage mart's",
+    "n6": "marriage marts'",
+    "n7": "a marriage mart",
+    "n8": "many marriage marts"
+}

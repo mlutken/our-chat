@@ -1,0 +1,18 @@
+{
+    "base": "easter card",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "easter card",
+    "n2": "easter cards",
+    "n3": "the easter card",
+    "n4": "the easter cards",
+    "n5": "easter card's",
+    "n6": "easter cards'",
+    "n7": "an easter card",
+    "n8": "many easter cards"
+}

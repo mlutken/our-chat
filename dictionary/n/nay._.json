@@ -1,0 +1,18 @@
+{
+    "base": "nay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nay",
+    "n2": "nays",
+    "n3": "the nay",
+    "n4": "the nays",
+    "n5": "nay's",
+    "n6": "nays'",
+    "n7": "a nay",
+    "n8": "many nays"
+}

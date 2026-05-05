@@ -7,5 +7,12 @@
     "n2": "intelligences",
     "n3": "the intelligence",
     "n4": "the intelligences",
-    "n5": "intelligence's"
+    "n5": "intelligence's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "intelligences'",
+    "n7": "an intelligence",
+    "n8": "many intelligences"
 }

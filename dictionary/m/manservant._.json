@@ -1,0 +1,18 @@
+{
+    "base": "manservant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manservant",
+    "n2": "menservants",
+    "n3": "the manservant",
+    "n4": "the menservants",
+    "n5": "manservant's",
+    "n6": "menservants'",
+    "n7": "a manservant",
+    "n8": "many menservants"
+}

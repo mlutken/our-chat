@@ -1,0 +1,18 @@
+{
+    "base": "disabled",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disabled",
+    "n2": "disableds",
+    "n3": "the disabled",
+    "n4": "the disableds",
+    "n5": "disabled's",
+    "n6": "disableds'",
+    "n7": "a disabled",
+    "n8": "many disableds"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tally",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "tally",
+    "n2": "tallies",
+    "n3": "the tally",
+    "n4": "the tallies",
+    "n5": "tally's",
+    "n6": "tallies'",
+    "n7": "a tally",
+    "n8": "many tallies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "matting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "matting",
+    "n2": "mattings",
+    "n3": "the matting",
+    "n4": "the mattings",
+    "n5": "matting's",
+    "n6": "mattings'",
+    "n7": "a matting",
+    "n8": "many mattings"
+}

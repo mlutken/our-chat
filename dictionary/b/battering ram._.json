@@ -1,0 +1,18 @@
+{
+    "base": "battering ram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "battering ram",
+    "n2": "battering rams",
+    "n3": "the battering ram",
+    "n4": "the battering rams",
+    "n5": "battering ram's",
+    "n6": "battering rams'",
+    "n7": "a battering ram",
+    "n8": "many battering rams"
+}

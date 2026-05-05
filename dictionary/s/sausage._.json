@@ -1,0 +1,18 @@
+{
+    "base": "sausage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sausage",
+    "n2": "sausages",
+    "n3": "the sausage",
+    "n4": "the sausages",
+    "n5": "sausage's",
+    "n6": "sausages'",
+    "n7": "a sausage",
+    "n8": "many sausages"
+}

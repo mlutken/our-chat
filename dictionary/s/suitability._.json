@@ -1,0 +1,18 @@
+{
+    "base": "suitability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suitability",
+    "n2": "suitabilities",
+    "n3": "the suitability",
+    "n4": "the suitabilities",
+    "n5": "suitability's",
+    "n6": "suitabilities'",
+    "n7": "a suitability",
+    "n8": "many suitabilities"
+}

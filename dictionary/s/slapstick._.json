@@ -1,0 +1,18 @@
+{
+    "base": "slapstick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slapstick",
+    "n2": "slapsticks",
+    "n3": "the slapstick",
+    "n4": "the slapsticks",
+    "n5": "slapstick's",
+    "n6": "slapsticks'",
+    "n7": "a slapstick",
+    "n8": "many slapsticks"
+}

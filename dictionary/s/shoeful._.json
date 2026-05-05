@@ -1,0 +1,18 @@
+{
+    "base": "shoeful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoeful",
+    "n2": "shoefuls",
+    "n3": "the shoeful",
+    "n4": "the shoefuls",
+    "n5": "shoeful's",
+    "n6": "shoefuls'",
+    "n7": "a shoeful",
+    "n8": "many shoefuls"
+}

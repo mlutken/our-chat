@@ -1,0 +1,18 @@
+{
+    "base": "arthritis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "arthritis",
+    "n2": "arthritises",
+    "n3": "the arthritis",
+    "n4": "the arthritises",
+    "n5": "arthritis'",
+    "n6": "arthritises'",
+    "n7": "an arthritis",
+    "n8": "many arthritises"
+}

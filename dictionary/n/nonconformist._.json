@@ -1,0 +1,18 @@
+{
+    "base": "nonconformist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nonconformist",
+    "n2": "nonconformists",
+    "n3": "the nonconformist",
+    "n4": "the nonconformists",
+    "n5": "nonconformist's",
+    "n6": "nonconformists'",
+    "n7": "a nonconformist",
+    "n8": "many nonconformists"
+}

@@ -1,11 +1,24 @@
 {
     "base": "increase",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "increase",
     "v2": "increased",
     "v3": "increased",
     "v4": "increasing",
-    "v5": "increases"
+    "v5": "increases",
+    "proper": false,
+    "commonness": 83,
+    "max_commonness": 6834,
+    "commonness_ge_count": 153,
+    "n1": "increase",
+    "n2": "increases",
+    "n3": "the increase",
+    "n4": "the increases",
+    "n5": "increase's",
+    "n6": "increases'",
+    "n7": "an increase",
+    "n8": "many increases"
 }

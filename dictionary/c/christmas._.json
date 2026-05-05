@@ -1,0 +1,18 @@
+{
+    "base": "christmas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "christmas",
+    "n2": "christmases",
+    "n3": "the christmas",
+    "n4": "the christmases",
+    "n5": "christmas'",
+    "n6": "christmases'",
+    "n7": "a christmas",
+    "n8": "many christmases"
+}

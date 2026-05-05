@@ -7,5 +7,12 @@
     "n2": "geese",
     "n3": "the goose",
     "n4": "the geese",
-    "n5": "goose's"
+    "n5": "goose's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "geese's",
+    "n7": "a goose",
+    "n8": "many geese"
 }

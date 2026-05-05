@@ -1,0 +1,18 @@
+{
+    "base": "communique",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "communique",
+    "n2": "communiques",
+    "n3": "the communique",
+    "n4": "the communiques",
+    "n5": "communique's",
+    "n6": "communiques'",
+    "n7": "a communique",
+    "n8": "many communiques"
+}

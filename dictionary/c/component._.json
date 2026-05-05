@@ -7,5 +7,12 @@
     "n2": "components",
     "n3": "the component",
     "n4": "the components",
-    "n5": "component's"
+    "n5": "component's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "components'",
+    "n7": "a component",
+    "n8": "many components"
 }

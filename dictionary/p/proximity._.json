@@ -1,0 +1,18 @@
+{
+    "base": "proximity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proximity",
+    "n2": "proximities",
+    "n3": "the proximity",
+    "n4": "the proximities",
+    "n5": "proximity's",
+    "n6": "proximities'",
+    "n7": "a proximity",
+    "n8": "many proximities"
+}

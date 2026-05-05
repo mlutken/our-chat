@@ -7,5 +7,12 @@
     "n2": "letters",
     "n3": "the letter",
     "n4": "the letters",
-    "n5": "letter's"
+    "n5": "letter's",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n6": "letters'",
+    "n7": "a letter",
+    "n8": "many letters"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "waffle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waffle",
+    "n2": "waffles",
+    "n3": "the waffle",
+    "n4": "the waffles",
+    "n5": "waffle's",
+    "n6": "waffles'",
+    "n7": "a waffle",
+    "n8": "many waffles"
+}

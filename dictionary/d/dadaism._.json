@@ -1,0 +1,18 @@
+{
+    "base": "dadaism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dadaism",
+    "n2": "dadaisms",
+    "n3": "the dadaism",
+    "n4": "the dadaisms",
+    "n5": "dadaism's",
+    "n6": "dadaisms'",
+    "n7": "a dadaism",
+    "n8": "many dadaisms"
+}

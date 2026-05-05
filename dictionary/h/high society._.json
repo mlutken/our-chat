@@ -1,0 +1,18 @@
+{
+    "base": "high society",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "high society",
+    "n2": "high societies",
+    "n3": "the high society",
+    "n4": "the high societies",
+    "n5": "high society's",
+    "n6": "high societies'",
+    "n7": "a high society",
+    "n8": "many high societies"
+}

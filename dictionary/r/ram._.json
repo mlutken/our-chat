@@ -1,0 +1,18 @@
+{
+    "base": "ram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ram",
+    "n2": "rams",
+    "n3": "the ram",
+    "n4": "the rams",
+    "n5": "ram's",
+    "n6": "rams'",
+    "n7": "a ram",
+    "n8": "many rams"
+}

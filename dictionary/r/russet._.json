@@ -1,0 +1,18 @@
+{
+    "base": "russet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "russet",
+    "n2": "russets",
+    "n3": "the russet",
+    "n4": "the russets",
+    "n5": "russet's",
+    "n6": "russets'",
+    "n7": "a russet",
+    "n8": "many russets"
+}

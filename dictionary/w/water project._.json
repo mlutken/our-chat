@@ -1,0 +1,18 @@
+{
+    "base": "water project",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water project",
+    "n2": "water projects",
+    "n3": "the water project",
+    "n4": "the water projects",
+    "n5": "water project's",
+    "n6": "water projects'",
+    "n7": "a water project",
+    "n8": "many water projects"
+}

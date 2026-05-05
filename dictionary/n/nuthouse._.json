@@ -1,0 +1,18 @@
+{
+    "base": "nuthouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nuthouse",
+    "n2": "nuthouses",
+    "n3": "the nuthouse",
+    "n4": "the nuthouses",
+    "n5": "nuthouse's",
+    "n6": "nuthouses'",
+    "n7": "a nuthouse",
+    "n8": "many nuthouses"
+}

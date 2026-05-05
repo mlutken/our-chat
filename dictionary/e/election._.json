@@ -7,5 +7,12 @@
     "n2": "elections",
     "n3": "the election",
     "n4": "the elections",
-    "n5": "election's"
+    "n5": "election's",
+    "proper": false,
+    "commonness": 68,
+    "max_commonness": 6834,
+    "commonness_ge_count": 222,
+    "n6": "elections'",
+    "n7": "an election",
+    "n8": "many elections"
 }

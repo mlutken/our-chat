@@ -1,0 +1,18 @@
+{
+    "base": "peer group",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peer group",
+    "n2": "peer groups",
+    "n3": "the peer group",
+    "n4": "the peer groups",
+    "n5": "peer group's",
+    "n6": "peer groups'",
+    "n7": "a peer group",
+    "n8": "many peer groups"
+}

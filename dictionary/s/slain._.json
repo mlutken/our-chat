@@ -1,0 +1,18 @@
+{
+    "base": "slain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slain",
+    "n2": "slains",
+    "n3": "the slain",
+    "n4": "the slains",
+    "n5": "slain's",
+    "n6": "slains'",
+    "n7": "a slain",
+    "n8": "many slains"
+}

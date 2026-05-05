@@ -1,0 +1,18 @@
+{
+    "base": "loose end",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loose end",
+    "n2": "loose ends",
+    "n3": "the loose end",
+    "n4": "the loose ends",
+    "n5": "loose end's",
+    "n6": "loose ends'",
+    "n7": "a loose end",
+    "n8": "many loose ends"
+}

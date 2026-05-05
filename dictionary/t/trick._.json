@@ -1,11 +1,24 @@
 {
     "base": "trick",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trick",
     "v2": "tricked",
     "v3": "tricked",
     "v4": "tricking",
-    "v5": "tricks"
+    "v5": "tricks",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "trick",
+    "n2": "tricks",
+    "n3": "the trick",
+    "n4": "the tricks",
+    "n5": "trick's",
+    "n6": "tricks'",
+    "n7": "a trick",
+    "n8": "many tricks"
 }

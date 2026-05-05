@@ -7,5 +7,12 @@
     "n2": "directions",
     "n3": "the direction",
     "n4": "the directions",
-    "n5": "direction's"
+    "n5": "direction's",
+    "proper": false,
+    "commonness": 77,
+    "max_commonness": 6834,
+    "commonness_ge_count": 176,
+    "n6": "directions'",
+    "n7": "a direction",
+    "n8": "many directions"
 }

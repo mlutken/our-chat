@@ -1,0 +1,18 @@
+{
+    "base": "soup bowl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soup bowl",
+    "n2": "soup bowls",
+    "n3": "the soup bowl",
+    "n4": "the soup bowls",
+    "n5": "soup bowl's",
+    "n6": "soup bowls'",
+    "n7": "a soup bowl",
+    "n8": "many soup bowls"
+}

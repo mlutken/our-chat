@@ -1,0 +1,18 @@
+{
+    "base": "thyrotrophin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thyrotrophin",
+    "n2": "thyrotrophins",
+    "n3": "the thyrotrophin",
+    "n4": "the thyrotrophins",
+    "n5": "thyrotrophin's",
+    "n6": "thyrotrophins'",
+    "n7": "a thyrotrophin",
+    "n8": "many thyrotrophins"
+}

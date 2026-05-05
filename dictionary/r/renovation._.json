@@ -1,0 +1,18 @@
+{
+    "base": "renovation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "renovation",
+    "n2": "renovations",
+    "n3": "the renovation",
+    "n4": "the renovations",
+    "n5": "renovation's",
+    "n6": "renovations'",
+    "n7": "a renovation",
+    "n8": "many renovations"
+}

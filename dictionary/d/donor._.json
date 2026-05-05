@@ -1,0 +1,18 @@
+{
+    "base": "donor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "donor",
+    "n2": "donors",
+    "n3": "the donor",
+    "n4": "the donors",
+    "n5": "donor's",
+    "n6": "donors'",
+    "n7": "a donor",
+    "n8": "many donors"
+}

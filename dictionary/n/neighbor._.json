@@ -1,0 +1,18 @@
+{
+    "base": "neighbor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "neighbor",
+    "n2": "neighbors",
+    "n3": "the neighbor",
+    "n4": "the neighbors",
+    "n5": "neighbor's",
+    "n6": "neighbors'",
+    "n7": "a neighbor",
+    "n8": "many neighbors"
+}

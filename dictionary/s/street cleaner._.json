@@ -1,0 +1,18 @@
+{
+    "base": "street cleaner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "street cleaner",
+    "n2": "street cleaners",
+    "n3": "the street cleaner",
+    "n4": "the street cleaners",
+    "n5": "street cleaner's",
+    "n6": "street cleaners'",
+    "n7": "a street cleaner",
+    "n8": "many street cleaners"
+}

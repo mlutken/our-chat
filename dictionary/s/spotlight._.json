@@ -1,0 +1,18 @@
+{
+    "base": "spotlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spotlight",
+    "n2": "spotlights",
+    "n3": "the spotlight",
+    "n4": "the spotlights",
+    "n5": "spotlight's",
+    "n6": "spotlights'",
+    "n7": "a spotlight",
+    "n8": "many spotlights"
+}

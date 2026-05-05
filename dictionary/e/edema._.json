@@ -1,0 +1,18 @@
+{
+    "base": "edema",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "edema",
+    "n2": "edemata",
+    "n3": "the edema",
+    "n4": "the edemata",
+    "n5": "edema's",
+    "n6": "edemata's",
+    "n7": "an edema",
+    "n8": "many edemata"
+}

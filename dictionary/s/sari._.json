@@ -1,0 +1,18 @@
+{
+    "base": "sari",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sari",
+    "n2": "saris",
+    "n3": "the sari",
+    "n4": "the saris",
+    "n5": "sari's",
+    "n6": "saris'",
+    "n7": "a sari",
+    "n8": "many saris"
+}

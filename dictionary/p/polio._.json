@@ -1,0 +1,18 @@
+{
+    "base": "polio",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "polio",
+    "n2": "polios",
+    "n3": "the polio",
+    "n4": "the polios",
+    "n5": "polio's",
+    "n6": "polios'",
+    "n7": "a polio",
+    "n8": "many polios"
+}

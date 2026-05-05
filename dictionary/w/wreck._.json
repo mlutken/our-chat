@@ -1,11 +1,24 @@
 {
     "base": "wreck",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wreck",
     "v2": "wrecked",
     "v3": "wrecked",
     "v4": "wrecking",
-    "v5": "wrecks"
+    "v5": "wrecks",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wreck",
+    "n2": "wrecks",
+    "n3": "the wreck",
+    "n4": "the wrecks",
+    "n5": "wreck's",
+    "n6": "wrecks'",
+    "n7": "a wreck",
+    "n8": "many wrecks"
 }

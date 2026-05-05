@@ -1,0 +1,18 @@
+{
+    "base": "perfectibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perfectibility",
+    "n2": "perfectibilities",
+    "n3": "the perfectibility",
+    "n4": "the perfectibilities",
+    "n5": "perfectibility's",
+    "n6": "perfectibilities'",
+    "n7": "a perfectibility",
+    "n8": "many perfectibilities"
+}

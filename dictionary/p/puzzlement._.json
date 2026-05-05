@@ -1,0 +1,18 @@
+{
+    "base": "puzzlement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "puzzlement",
+    "n2": "puzzlements",
+    "n3": "the puzzlement",
+    "n4": "the puzzlements",
+    "n5": "puzzlement's",
+    "n6": "puzzlements'",
+    "n7": "a puzzlement",
+    "n8": "many puzzlements"
+}

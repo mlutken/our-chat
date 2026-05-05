@@ -1,0 +1,18 @@
+{
+    "base": "bower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bower",
+    "n2": "bowers",
+    "n3": "the bower",
+    "n4": "the bowers",
+    "n5": "bower's",
+    "n6": "bowers'",
+    "n7": "a bower",
+    "n8": "many bowers"
+}

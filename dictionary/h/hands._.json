@@ -1,0 +1,18 @@
+{
+    "base": "hands",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "hands",
+    "n2": "handses",
+    "n3": "the hands",
+    "n4": "the handses",
+    "n5": "hands'",
+    "n6": "handses'",
+    "n7": "a hands",
+    "n8": "many handses"
+}

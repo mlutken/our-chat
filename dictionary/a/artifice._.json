@@ -1,0 +1,18 @@
+{
+    "base": "artifice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artifice",
+    "n2": "artifices",
+    "n3": "the artifice",
+    "n4": "the artifices",
+    "n5": "artifice's",
+    "n6": "artifices'",
+    "n7": "an artifice",
+    "n8": "many artifices"
+}

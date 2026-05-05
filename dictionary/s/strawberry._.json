@@ -1,0 +1,18 @@
+{
+    "base": "strawberry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "strawberry",
+    "n2": "strawberries",
+    "n3": "the strawberry",
+    "n4": "the strawberries",
+    "n5": "strawberry's",
+    "n6": "strawberries'",
+    "n7": "a strawberry",
+    "n8": "many strawberries"
+}

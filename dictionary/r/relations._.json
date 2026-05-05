@@ -1,0 +1,18 @@
+{
+    "base": "relations",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "relations",
+    "n2": "relationses",
+    "n3": "the relations",
+    "n4": "the relationses",
+    "n5": "relations'",
+    "n6": "relationses'",
+    "n7": "a relations",
+    "n8": "many relationses"
+}

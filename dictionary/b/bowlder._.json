@@ -1,0 +1,18 @@
+{
+    "base": "bowlder",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bowlder",
+    "n2": "bowlders",
+    "n3": "the bowlder",
+    "n4": "the bowlders",
+    "n5": "bowlder's",
+    "n6": "bowlders'",
+    "n7": "a bowlder",
+    "n8": "many bowlders"
+}

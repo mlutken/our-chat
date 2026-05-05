@@ -1,0 +1,18 @@
+{
+    "base": "infection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "infection",
+    "n2": "infections",
+    "n3": "the infection",
+    "n4": "the infections",
+    "n5": "infection's",
+    "n6": "infections'",
+    "n7": "an infection",
+    "n8": "many infections"
+}

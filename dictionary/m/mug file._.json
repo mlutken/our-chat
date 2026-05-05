@@ -1,0 +1,18 @@
+{
+    "base": "mug file",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mug file",
+    "n2": "mug files",
+    "n3": "the mug file",
+    "n4": "the mug files",
+    "n5": "mug file's",
+    "n6": "mug files'",
+    "n7": "a mug file",
+    "n8": "many mug files"
+}

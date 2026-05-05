@@ -7,5 +7,12 @@
     "n2": "budgets",
     "n3": "the budget",
     "n4": "the budgets",
-    "n5": "budget's"
+    "n5": "budget's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "budgets'",
+    "n7": "a budget",
+    "n8": "many budgets"
 }

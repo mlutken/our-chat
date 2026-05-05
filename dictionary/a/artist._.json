@@ -7,5 +7,12 @@
     "n2": "artists",
     "n3": "the artist",
     "n4": "the artists",
-    "n5": "artist's"
+    "n5": "artist's",
+    "proper": true,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n6": "artists'",
+    "n7": "an artist",
+    "n8": "many artists"
 }

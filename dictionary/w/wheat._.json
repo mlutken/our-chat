@@ -1,0 +1,18 @@
+{
+    "base": "wheat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wheat",
+    "n2": "wheats",
+    "n3": "the wheat",
+    "n4": "the wheats",
+    "n5": "wheat's",
+    "n6": "wheats'",
+    "n7": "a wheat",
+    "n8": "many wheats"
+}

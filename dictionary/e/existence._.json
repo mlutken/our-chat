@@ -1,0 +1,18 @@
+{
+    "base": "existence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n1": "existence",
+    "n2": "existences",
+    "n3": "the existence",
+    "n4": "the existences",
+    "n5": "existence's",
+    "n6": "existences'",
+    "n7": "an existence",
+    "n8": "many existences"
+}

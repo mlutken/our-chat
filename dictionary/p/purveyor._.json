@@ -1,0 +1,18 @@
+{
+    "base": "purveyor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "purveyor",
+    "n2": "purveyors",
+    "n3": "the purveyor",
+    "n4": "the purveyors",
+    "n5": "purveyor's",
+    "n6": "purveyors'",
+    "n7": "a purveyor",
+    "n8": "many purveyors"
+}

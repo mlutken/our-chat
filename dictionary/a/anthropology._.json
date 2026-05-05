@@ -1,0 +1,18 @@
+{
+    "base": "anthropology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anthropology",
+    "n2": "anthropologies",
+    "n3": "the anthropology",
+    "n4": "the anthropologies",
+    "n5": "anthropology's",
+    "n6": "anthropologies'",
+    "n7": "an anthropology",
+    "n8": "many anthropologies"
+}

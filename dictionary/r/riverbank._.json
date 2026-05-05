@@ -1,0 +1,18 @@
+{
+    "base": "riverbank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "riverbank",
+    "n2": "riverbanks",
+    "n3": "the riverbank",
+    "n4": "the riverbanks",
+    "n5": "riverbank's",
+    "n6": "riverbanks'",
+    "n7": "a riverbank",
+    "n8": "many riverbanks"
+}

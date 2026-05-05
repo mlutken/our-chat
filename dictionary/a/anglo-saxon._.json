@@ -1,0 +1,18 @@
+{
+    "base": "anglo-saxon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anglo-saxon",
+    "n2": "anglo-saxons",
+    "n3": "the anglo-saxon",
+    "n4": "the anglo-saxons",
+    "n5": "anglo-saxon's",
+    "n6": "anglo-saxons'",
+    "n7": "an anglo-saxon",
+    "n8": "many anglo-saxons"
+}

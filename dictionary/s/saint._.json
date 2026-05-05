@@ -1,0 +1,18 @@
+{
+    "base": "saint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "saint",
+    "n2": "saints",
+    "n3": "the saint",
+    "n4": "the saints",
+    "n5": "saint's",
+    "n6": "saints'",
+    "n7": "a saint",
+    "n8": "many saints"
+}

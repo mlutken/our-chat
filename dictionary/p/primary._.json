@@ -1,0 +1,18 @@
+{
+    "base": "primary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "primary",
+    "n2": "primaries",
+    "n3": "the primary",
+    "n4": "the primaries",
+    "n5": "primary's",
+    "n6": "primaries'",
+    "n7": "a primary",
+    "n8": "many primaries"
+}

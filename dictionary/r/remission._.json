@@ -1,0 +1,18 @@
+{
+    "base": "remission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "remission",
+    "n2": "remissions",
+    "n3": "the remission",
+    "n4": "the remissions",
+    "n5": "remission's",
+    "n6": "remissions'",
+    "n7": "a remission",
+    "n8": "many remissions"
+}

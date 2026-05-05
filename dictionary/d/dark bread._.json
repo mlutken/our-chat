@@ -1,0 +1,18 @@
+{
+    "base": "dark bread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dark bread",
+    "n2": "dark breads",
+    "n3": "the dark bread",
+    "n4": "the dark breads",
+    "n5": "dark bread's",
+    "n6": "dark breads'",
+    "n7": "a dark bread",
+    "n8": "many dark breads"
+}

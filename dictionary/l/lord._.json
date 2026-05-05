@@ -1,0 +1,18 @@
+{
+    "base": "lord",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "lord",
+    "n2": "lords",
+    "n3": "the lord",
+    "n4": "the lords",
+    "n5": "lord's",
+    "n6": "lords'",
+    "n7": "a lord",
+    "n8": "many lords"
+}

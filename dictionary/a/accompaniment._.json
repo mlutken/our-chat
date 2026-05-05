@@ -1,0 +1,18 @@
+{
+    "base": "accompaniment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "accompaniment",
+    "n2": "accompaniments",
+    "n3": "the accompaniment",
+    "n4": "the accompaniments",
+    "n5": "accompaniment's",
+    "n6": "accompaniments'",
+    "n7": "an accompaniment",
+    "n8": "many accompaniments"
+}

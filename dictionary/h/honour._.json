@@ -1,0 +1,18 @@
+{
+    "base": "honour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "honour",
+    "n2": "honours",
+    "n3": "the honour",
+    "n4": "the honours",
+    "n5": "honour's",
+    "n6": "honours'",
+    "n7": "a honour",
+    "n8": "many honours"
+}

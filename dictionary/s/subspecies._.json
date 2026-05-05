@@ -1,0 +1,18 @@
+{
+    "base": "subspecies",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "subspecies",
+    "n2": "subspecieses",
+    "n3": "the subspecies",
+    "n4": "the subspecieses",
+    "n5": "subspecies'",
+    "n6": "subspecieses'",
+    "n7": "a subspecies",
+    "n8": "many subspecieses"
+}

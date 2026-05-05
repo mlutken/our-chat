@@ -1,0 +1,18 @@
+{
+    "base": "overestimation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overestimation",
+    "n2": "overestimations",
+    "n3": "the overestimation",
+    "n4": "the overestimations",
+    "n5": "overestimation's",
+    "n6": "overestimations'",
+    "n7": "an overestimation",
+    "n8": "many overestimations"
+}

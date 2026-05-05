@@ -1,0 +1,18 @@
+{
+    "base": "thermodynamics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thermodynamics",
+    "n2": "thermodynamicses",
+    "n3": "the thermodynamics",
+    "n4": "the thermodynamicses",
+    "n5": "thermodynamics'",
+    "n6": "thermodynamicses'",
+    "n7": "a thermodynamics",
+    "n8": "many thermodynamicses"
+}

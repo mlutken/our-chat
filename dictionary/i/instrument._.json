@@ -1,0 +1,18 @@
+{
+    "base": "instrument",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "instrument",
+    "n2": "instruments",
+    "n3": "the instrument",
+    "n4": "the instruments",
+    "n5": "instrument's",
+    "n6": "instruments'",
+    "n7": "an instrument",
+    "n8": "many instruments"
+}

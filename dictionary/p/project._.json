@@ -7,5 +7,12 @@
     "n2": "projects",
     "n3": "the project",
     "n4": "the projects",
-    "n5": "project's"
+    "n5": "project's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "projects'",
+    "n7": "a project",
+    "n8": "many projects"
 }

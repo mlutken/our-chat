@@ -13,5 +13,12 @@
     "v2": "fired",
     "v3": "fired",
     "v4": "firing",
-    "v5": "fires"
+    "v5": "fires",
+    "proper": false,
+    "commonness": 78,
+    "max_commonness": 6834,
+    "commonness_ge_count": 174,
+    "n6": "fires'",
+    "n7": "a fire",
+    "n8": "many fires"
 }

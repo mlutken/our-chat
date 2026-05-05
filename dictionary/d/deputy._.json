@@ -1,0 +1,18 @@
+{
+    "base": "deputy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "deputy",
+    "n2": "deputies",
+    "n3": "the deputy",
+    "n4": "the deputies",
+    "n5": "deputy's",
+    "n6": "deputies'",
+    "n7": "a deputy",
+    "n8": "many deputies"
+}

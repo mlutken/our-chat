@@ -1,0 +1,18 @@
+{
+    "base": "referee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "referee",
+    "n2": "referees",
+    "n3": "the referee",
+    "n4": "the referees",
+    "n5": "referee's",
+    "n6": "referees'",
+    "n7": "a referee",
+    "n8": "many referees"
+}

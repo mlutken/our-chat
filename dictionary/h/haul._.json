@@ -1,0 +1,18 @@
+{
+    "base": "haul",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "haul",
+    "n2": "hauls",
+    "n3": "the haul",
+    "n4": "the hauls",
+    "n5": "haul's",
+    "n6": "hauls'",
+    "n7": "a haul",
+    "n8": "many hauls"
+}

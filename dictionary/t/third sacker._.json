@@ -1,0 +1,18 @@
+{
+    "base": "third sacker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "third sacker",
+    "n2": "third sackers",
+    "n3": "the third sacker",
+    "n4": "the third sackers",
+    "n5": "third sacker's",
+    "n6": "third sackers'",
+    "n7": "a third sacker",
+    "n8": "many third sackers"
+}

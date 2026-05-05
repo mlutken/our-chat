@@ -1,0 +1,18 @@
+{
+    "base": "living room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "living room",
+    "n2": "living rooms",
+    "n3": "the living room",
+    "n4": "the living rooms",
+    "n5": "living room's",
+    "n6": "living rooms'",
+    "n7": "a living room",
+    "n8": "many living rooms"
+}

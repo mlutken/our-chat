@@ -1,0 +1,18 @@
+{
+    "base": "vitamin c",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vitamin c",
+    "n2": "vitamin cs",
+    "n3": "the vitamin c",
+    "n4": "the vitamin cs",
+    "n5": "vitamin c's",
+    "n6": "vitamin cs'",
+    "n7": "a vitamin c",
+    "n8": "many vitamin cs"
+}

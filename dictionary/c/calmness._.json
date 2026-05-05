@@ -1,0 +1,18 @@
+{
+    "base": "calmness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "calmness",
+    "n2": "calmnesses",
+    "n3": "the calmness",
+    "n4": "the calmnesses",
+    "n5": "calmness'",
+    "n6": "calmnesses'",
+    "n7": "a calmness",
+    "n8": "many calmnesses"
+}

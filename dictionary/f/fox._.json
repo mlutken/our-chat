@@ -1,0 +1,18 @@
+{
+    "base": "fox",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "fox",
+    "n2": "foxes",
+    "n3": "the fox",
+    "n4": "the foxes",
+    "n5": "fox's",
+    "n6": "foxes'",
+    "n7": "a fox",
+    "n8": "many foxes"
+}

@@ -1,7 +1,20 @@
 {
     "base": "overall",
     "classes": [
+        "n",
         "adv"
     ],
-    "f0": "overall"
+    "f0": "overall",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "overall",
+    "n2": "overalls",
+    "n3": "the overall",
+    "n4": "the overalls",
+    "n5": "overall's",
+    "n6": "overalls'",
+    "n7": "an overall",
+    "n8": "many overalls"
 }

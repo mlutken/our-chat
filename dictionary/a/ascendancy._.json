@@ -1,0 +1,18 @@
+{
+    "base": "ascendancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ascendancy",
+    "n2": "ascendancies",
+    "n3": "the ascendancy",
+    "n4": "the ascendancies",
+    "n5": "ascendancy's",
+    "n6": "ascendancies'",
+    "n7": "an ascendancy",
+    "n8": "many ascendancies"
+}

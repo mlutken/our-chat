@@ -1,0 +1,18 @@
+{
+    "base": "roman catholicism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roman catholicism",
+    "n2": "roman catholicisms",
+    "n3": "the roman catholicism",
+    "n4": "the roman catholicisms",
+    "n5": "roman catholicism's",
+    "n6": "roman catholicisms'",
+    "n7": "a roman catholicism",
+    "n8": "many roman catholicisms"
+}

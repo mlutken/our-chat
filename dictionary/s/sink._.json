@@ -1,11 +1,24 @@
 {
     "base": "sink",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "sink",
     "v2": "sank",
     "v3": "sunk",
     "v4": "sinking",
-    "v5": "sinks"
+    "v5": "sinks",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "sink",
+    "n2": "sinks",
+    "n3": "the sink",
+    "n4": "the sinks",
+    "n5": "sink's",
+    "n6": "sinks'",
+    "n7": "a sink",
+    "n8": "many sinks"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "lavatory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lavatory",
+    "n2": "lavatories",
+    "n3": "the lavatory",
+    "n4": "the lavatories",
+    "n5": "lavatory's",
+    "n6": "lavatories'",
+    "n7": "a lavatory",
+    "n8": "many lavatories"
+}

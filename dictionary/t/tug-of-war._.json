@@ -1,0 +1,18 @@
+{
+    "base": "tug-of-war",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tug-of-war",
+    "n2": "tug-of-wars",
+    "n3": "the tug-of-war",
+    "n4": "the tug-of-wars",
+    "n5": "tug-of-war's",
+    "n6": "tug-of-wars'",
+    "n7": "a tug-of-war",
+    "n8": "many tug-of-wars"
+}

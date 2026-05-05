@@ -1,0 +1,18 @@
+{
+    "base": "picnic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "picnic",
+    "n2": "picnics",
+    "n3": "the picnic",
+    "n4": "the picnics",
+    "n5": "picnic's",
+    "n6": "picnics'",
+    "n7": "a picnic",
+    "n8": "many picnics"
+}

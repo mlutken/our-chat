@@ -1,0 +1,18 @@
+{
+    "base": "criminal law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "criminal law",
+    "n2": "criminal laws",
+    "n3": "the criminal law",
+    "n4": "the criminal laws",
+    "n5": "criminal law's",
+    "n6": "criminal laws'",
+    "n7": "a criminal law",
+    "n8": "many criminal laws"
+}

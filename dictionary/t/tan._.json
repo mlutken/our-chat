@@ -1,9 +1,22 @@
 {
     "base": "tan",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "tan",
     "adj2": "tanner",
-    "adj3": "tannest"
+    "adj3": "tannest",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tan",
+    "n2": "tans",
+    "n3": "the tan",
+    "n4": "the tans",
+    "n5": "tan's",
+    "n6": "tans'",
+    "n7": "a tan",
+    "n8": "many tans"
 }

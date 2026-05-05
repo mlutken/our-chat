@@ -1,0 +1,18 @@
+{
+    "base": "dugout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "dugout",
+    "n2": "dugouts",
+    "n3": "the dugout",
+    "n4": "the dugouts",
+    "n5": "dugout's",
+    "n6": "dugouts'",
+    "n7": "a dugout",
+    "n8": "many dugouts"
+}

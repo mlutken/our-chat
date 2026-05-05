@@ -1,0 +1,18 @@
+{
+    "base": "smiling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "smiling",
+    "n2": "smilings",
+    "n3": "the smiling",
+    "n4": "the smilings",
+    "n5": "smiling's",
+    "n6": "smilings'",
+    "n7": "a smiling",
+    "n8": "many smilings"
+}

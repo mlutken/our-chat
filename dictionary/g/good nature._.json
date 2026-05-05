@@ -1,0 +1,18 @@
+{
+    "base": "good nature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "good nature",
+    "n2": "good natures",
+    "n3": "the good nature",
+    "n4": "the good natures",
+    "n5": "good nature's",
+    "n6": "good natures'",
+    "n7": "a good nature",
+    "n8": "many good natures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "astronomy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "astronomy",
+    "n2": "astronomies",
+    "n3": "the astronomy",
+    "n4": "the astronomies",
+    "n5": "astronomy's",
+    "n6": "astronomies'",
+    "n7": "an astronomy",
+    "n8": "many astronomies"
+}

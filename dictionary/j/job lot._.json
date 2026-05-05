@@ -1,0 +1,18 @@
+{
+    "base": "job lot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "job lot",
+    "n2": "job lots",
+    "n3": "the job lot",
+    "n4": "the job lots",
+    "n5": "job lot's",
+    "n6": "job lots'",
+    "n7": "a job lot",
+    "n8": "many job lots"
+}

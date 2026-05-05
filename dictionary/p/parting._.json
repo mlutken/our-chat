@@ -1,0 +1,18 @@
+{
+    "base": "parting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parting",
+    "n2": "partings",
+    "n3": "the parting",
+    "n4": "the partings",
+    "n5": "parting's",
+    "n6": "partings'",
+    "n7": "a parting",
+    "n8": "many partings"
+}

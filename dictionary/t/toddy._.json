@@ -1,0 +1,18 @@
+{
+    "base": "toddy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toddy",
+    "n2": "toddies",
+    "n3": "the toddy",
+    "n4": "the toddies",
+    "n5": "toddy's",
+    "n6": "toddies'",
+    "n7": "a toddy",
+    "n8": "many toddies"
+}

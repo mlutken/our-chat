@@ -1,0 +1,18 @@
+{
+    "base": "taxi strip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "taxi strip",
+    "n2": "taxi strips",
+    "n3": "the taxi strip",
+    "n4": "the taxi strips",
+    "n5": "taxi strip's",
+    "n6": "taxi strips'",
+    "n7": "a taxi strip",
+    "n8": "many taxi strips"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "subterfuge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subterfuge",
+    "n2": "subterfuges",
+    "n3": "the subterfuge",
+    "n4": "the subterfuges",
+    "n5": "subterfuge's",
+    "n6": "subterfuges'",
+    "n7": "a subterfuge",
+    "n8": "many subterfuges"
+}

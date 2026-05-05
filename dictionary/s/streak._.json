@@ -1,0 +1,18 @@
+{
+    "base": "streak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "streak",
+    "n2": "streaks",
+    "n3": "the streak",
+    "n4": "the streaks",
+    "n5": "streak's",
+    "n6": "streaks'",
+    "n7": "a streak",
+    "n8": "many streaks"
+}

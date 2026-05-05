@@ -1,0 +1,18 @@
+{
+    "base": "homefolk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "homefolk",
+    "n2": "homefolks",
+    "n3": "the homefolk",
+    "n4": "the homefolks",
+    "n5": "homefolk's",
+    "n6": "homefolks'",
+    "n7": "a homefolk",
+    "n8": "many homefolks"
+}

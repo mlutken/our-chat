@@ -7,5 +7,12 @@
     "n2": "customers",
     "n3": "the customer",
     "n4": "the customers",
-    "n5": "customer's"
+    "n5": "customer's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "customers'",
+    "n7": "a customer",
+    "n8": "many customers"
 }

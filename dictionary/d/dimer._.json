@@ -1,0 +1,18 @@
+{
+    "base": "dimer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dimer",
+    "n2": "dimers",
+    "n3": "the dimer",
+    "n4": "the dimers",
+    "n5": "dimer's",
+    "n6": "dimers'",
+    "n7": "a dimer",
+    "n8": "many dimers"
+}

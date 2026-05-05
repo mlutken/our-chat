@@ -1,0 +1,18 @@
+{
+    "base": "switch-hitter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "switch-hitter",
+    "n2": "switch-hitters",
+    "n3": "the switch-hitter",
+    "n4": "the switch-hitters",
+    "n5": "switch-hitter's",
+    "n6": "switch-hitters'",
+    "n7": "a switch-hitter",
+    "n8": "many switch-hitters"
+}

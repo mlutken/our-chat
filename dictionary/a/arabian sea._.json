@@ -1,0 +1,18 @@
+{
+    "base": "arabian sea",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arabian sea",
+    "n2": "arabian seas",
+    "n3": "the arabian sea",
+    "n4": "the arabian seas",
+    "n5": "arabian sea's",
+    "n6": "arabian seas'",
+    "n7": "an arabian sea",
+    "n8": "many arabian seas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "welfare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "welfare",
+    "n2": "welfares",
+    "n3": "the welfare",
+    "n4": "the welfares",
+    "n5": "welfare's",
+    "n6": "welfares'",
+    "n7": "a welfare",
+    "n8": "many welfares"
+}

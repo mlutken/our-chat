@@ -1,0 +1,18 @@
+{
+    "base": "send-off",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "send-off",
+    "n2": "send-ofves",
+    "n3": "the send-off",
+    "n4": "the send-ofves",
+    "n5": "send-off's",
+    "n6": "send-ofves'",
+    "n7": "a send-off",
+    "n8": "many send-ofves"
+}

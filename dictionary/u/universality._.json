@@ -1,0 +1,18 @@
+{
+    "base": "universality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "universality",
+    "n2": "universalities",
+    "n3": "the universality",
+    "n4": "the universalities",
+    "n5": "universality's",
+    "n6": "universalities'",
+    "n7": "a universality",
+    "n8": "many universalities"
+}

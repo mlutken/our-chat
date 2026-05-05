@@ -1,0 +1,18 @@
+{
+    "base": "dun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dun",
+    "n2": "duns",
+    "n3": "the dun",
+    "n4": "the duns",
+    "n5": "dun's",
+    "n6": "duns'",
+    "n7": "a dun",
+    "n8": "many duns"
+}

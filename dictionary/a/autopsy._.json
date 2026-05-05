@@ -1,0 +1,18 @@
+{
+    "base": "autopsy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "autopsy",
+    "n2": "autopsies",
+    "n3": "the autopsy",
+    "n4": "the autopsies",
+    "n5": "autopsy's",
+    "n6": "autopsies'",
+    "n7": "an autopsy",
+    "n8": "many autopsies"
+}

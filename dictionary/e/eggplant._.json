@@ -1,0 +1,18 @@
+{
+    "base": "eggplant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eggplant",
+    "n2": "eggplants",
+    "n3": "the eggplant",
+    "n4": "the eggplants",
+    "n5": "eggplant's",
+    "n6": "eggplants'",
+    "n7": "an eggplant",
+    "n8": "many eggplants"
+}

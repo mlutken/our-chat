@@ -1,0 +1,18 @@
+{
+    "base": "trade policy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trade policy",
+    "n2": "trade policies",
+    "n3": "the trade policy",
+    "n4": "the trade policies",
+    "n5": "trade policy's",
+    "n6": "trade policies'",
+    "n7": "a trade policy",
+    "n8": "many trade policies"
+}

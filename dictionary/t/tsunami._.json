@@ -1,0 +1,18 @@
+{
+    "base": "tsunami",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "tsunami",
+    "n2": "tsunamis",
+    "n3": "the tsunami",
+    "n4": "the tsunamis",
+    "n5": "tsunami's",
+    "n6": "tsunamis'",
+    "n7": "a tsunami",
+    "n8": "many tsunamis"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "grounder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grounder",
+    "n2": "grounders",
+    "n3": "the grounder",
+    "n4": "the grounders",
+    "n5": "grounder's",
+    "n6": "grounders'",
+    "n7": "a grounder",
+    "n8": "many grounders"
+}

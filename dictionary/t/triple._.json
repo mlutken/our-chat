@@ -1,0 +1,18 @@
+{
+    "base": "triple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "triple",
+    "n2": "triples",
+    "n3": "the triple",
+    "n4": "the triples",
+    "n5": "triple's",
+    "n6": "triples'",
+    "n7": "a triple",
+    "n8": "many triples"
+}

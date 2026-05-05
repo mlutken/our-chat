@@ -1,0 +1,18 @@
+{
+    "base": "cant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cant",
+    "n2": "cants",
+    "n3": "the cant",
+    "n4": "the cants",
+    "n5": "cant's",
+    "n6": "cants'",
+    "n7": "a cant",
+    "n8": "many cants"
+}

@@ -7,5 +7,12 @@
     "n2": "conversations",
     "n3": "the conversation",
     "n4": "the conversations",
-    "n5": "conversation's"
+    "n5": "conversation's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "conversations'",
+    "n7": "a conversation",
+    "n8": "many conversations"
 }

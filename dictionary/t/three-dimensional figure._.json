@@ -1,0 +1,18 @@
+{
+    "base": "three-dimensional figure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "three-dimensional figure",
+    "n2": "three-dimensional figures",
+    "n3": "the three-dimensional figure",
+    "n4": "the three-dimensional figures",
+    "n5": "three-dimensional figure's",
+    "n6": "three-dimensional figures'",
+    "n7": "a three-dimensional figure",
+    "n8": "many three-dimensional figures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dedication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "dedication",
+    "n2": "dedications",
+    "n3": "the dedication",
+    "n4": "the dedications",
+    "n5": "dedication's",
+    "n6": "dedications'",
+    "n7": "a dedication",
+    "n8": "many dedications"
+}

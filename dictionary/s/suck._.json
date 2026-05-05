@@ -1,0 +1,18 @@
+{
+    "base": "suck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suck",
+    "n2": "sucks",
+    "n3": "the suck",
+    "n4": "the sucks",
+    "n5": "suck's",
+    "n6": "sucks'",
+    "n7": "a suck",
+    "n8": "many sucks"
+}

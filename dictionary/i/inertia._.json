@@ -1,0 +1,18 @@
+{
+    "base": "inertia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inertia",
+    "n2": "inertias",
+    "n3": "the inertia",
+    "n4": "the inertias",
+    "n5": "inertia's",
+    "n6": "inertias'",
+    "n7": "an inertia",
+    "n8": "many inertias"
+}

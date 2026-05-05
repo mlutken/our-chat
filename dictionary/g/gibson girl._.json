@@ -1,0 +1,18 @@
+{
+    "base": "gibson girl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gibson girl",
+    "n2": "gibson girls",
+    "n3": "the gibson girl",
+    "n4": "the gibson girls",
+    "n5": "gibson girl's",
+    "n6": "gibson girls'",
+    "n7": "a gibson girl",
+    "n8": "many gibson girls"
+}

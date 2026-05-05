@@ -1,0 +1,18 @@
+{
+    "base": "left fielder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "left fielder",
+    "n2": "left fielders",
+    "n3": "the left fielder",
+    "n4": "the left fielders",
+    "n5": "left fielder's",
+    "n6": "left fielders'",
+    "n7": "a left fielder",
+    "n8": "many left fielders"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "epidemic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "epidemic",
+    "n2": "epidemics",
+    "n3": "the epidemic",
+    "n4": "the epidemics",
+    "n5": "epidemic's",
+    "n6": "epidemics'",
+    "n7": "an epidemic",
+    "n8": "many epidemics"
+}

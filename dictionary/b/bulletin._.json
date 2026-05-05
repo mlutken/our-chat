@@ -1,0 +1,18 @@
+{
+    "base": "bulletin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bulletin",
+    "n2": "bulletins",
+    "n3": "the bulletin",
+    "n4": "the bulletins",
+    "n5": "bulletin's",
+    "n6": "bulletins'",
+    "n7": "a bulletin",
+    "n8": "many bulletins"
+}

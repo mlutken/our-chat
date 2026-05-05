@@ -1,0 +1,18 @@
+{
+    "base": "barony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barony",
+    "n2": "baronies",
+    "n3": "the barony",
+    "n4": "the baronies",
+    "n5": "barony's",
+    "n6": "baronies'",
+    "n7": "a barony",
+    "n8": "many baronies"
+}

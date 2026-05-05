@@ -7,5 +7,12 @@
     "n2": "imaginations",
     "n3": "the imagination",
     "n4": "the imaginations",
-    "n5": "imagination's"
+    "n5": "imagination's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "imaginations'",
+    "n7": "an imagination",
+    "n8": "many imaginations"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "disarray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disarray",
+    "n2": "disarrays",
+    "n3": "the disarray",
+    "n4": "the disarrays",
+    "n5": "disarray's",
+    "n6": "disarrays'",
+    "n7": "a disarray",
+    "n8": "many disarrays"
+}

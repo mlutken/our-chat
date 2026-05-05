@@ -1,0 +1,18 @@
+{
+    "base": "prevalence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prevalence",
+    "n2": "prevalences",
+    "n3": "the prevalence",
+    "n4": "the prevalences",
+    "n5": "prevalence's",
+    "n6": "prevalences'",
+    "n7": "a prevalence",
+    "n8": "many prevalences"
+}

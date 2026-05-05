@@ -1,0 +1,18 @@
+{
+    "base": "cumulus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cumulus",
+    "n2": "cumuli",
+    "n3": "the cumulus",
+    "n4": "the cumuli",
+    "n5": "cumulus'",
+    "n6": "cumuli's",
+    "n7": "a cumulus",
+    "n8": "many cumuli"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "growing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "growing",
+    "n2": "growings",
+    "n3": "the growing",
+    "n4": "the growings",
+    "n5": "growing's",
+    "n6": "growings'",
+    "n7": "a growing",
+    "n8": "many growings"
+}

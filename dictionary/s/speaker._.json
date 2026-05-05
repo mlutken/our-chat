@@ -7,5 +7,12 @@
     "n2": "speakers",
     "n3": "the speaker",
     "n4": "the speakers",
-    "n5": "speaker's"
+    "n5": "speaker's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "speakers'",
+    "n7": "a speaker",
+    "n8": "many speakers"
 }

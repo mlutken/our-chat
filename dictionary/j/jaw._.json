@@ -1,0 +1,18 @@
+{
+    "base": "jaw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "jaw",
+    "n2": "jaws",
+    "n3": "the jaw",
+    "n4": "the jaws",
+    "n5": "jaw's",
+    "n6": "jaws'",
+    "n7": "a jaw",
+    "n8": "many jaws"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "athens",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "athens",
+    "n2": "athenses",
+    "n3": "the athens",
+    "n4": "the athenses",
+    "n5": "athens'",
+    "n6": "athenses'",
+    "n7": "an athens",
+    "n8": "many athenses"
+}

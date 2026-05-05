@@ -1,0 +1,18 @@
+{
+    "base": "adoption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "adoption",
+    "n2": "adoptions",
+    "n3": "the adoption",
+    "n4": "the adoptions",
+    "n5": "adoption's",
+    "n6": "adoptions'",
+    "n7": "an adoption",
+    "n8": "many adoptions"
+}

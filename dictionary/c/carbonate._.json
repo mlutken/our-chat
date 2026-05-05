@@ -1,0 +1,18 @@
+{
+    "base": "carbonate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carbonate",
+    "n2": "carbonates",
+    "n3": "the carbonate",
+    "n4": "the carbonates",
+    "n5": "carbonate's",
+    "n6": "carbonates'",
+    "n7": "a carbonate",
+    "n8": "many carbonates"
+}

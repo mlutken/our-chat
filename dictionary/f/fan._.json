@@ -1,0 +1,18 @@
+{
+    "base": "fan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "fan",
+    "n2": "fans",
+    "n3": "the fan",
+    "n4": "the fans",
+    "n5": "fan's",
+    "n6": "fans'",
+    "n7": "a fan",
+    "n8": "many fans"
+}

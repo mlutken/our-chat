@@ -1,0 +1,18 @@
+{
+    "base": "exposure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "exposure",
+    "n2": "exposures",
+    "n3": "the exposure",
+    "n4": "the exposures",
+    "n5": "exposure's",
+    "n6": "exposures'",
+    "n7": "an exposure",
+    "n8": "many exposures"
+}

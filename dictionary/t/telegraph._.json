@@ -1,0 +1,18 @@
+{
+    "base": "telegraph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "telegraph",
+    "n2": "telegraphs",
+    "n3": "the telegraph",
+    "n4": "the telegraphs",
+    "n5": "telegraph's",
+    "n6": "telegraphs'",
+    "n7": "a telegraph",
+    "n8": "many telegraphs"
+}

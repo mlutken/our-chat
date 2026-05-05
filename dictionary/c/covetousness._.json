@@ -1,0 +1,18 @@
+{
+    "base": "covetousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "covetousness",
+    "n2": "covetousnesses",
+    "n3": "the covetousness",
+    "n4": "the covetousnesses",
+    "n5": "covetousness'",
+    "n6": "covetousnesses'",
+    "n7": "a covetousness",
+    "n8": "many covetousnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "participation loan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "participation loan",
+    "n2": "participation loans",
+    "n3": "the participation loan",
+    "n4": "the participation loans",
+    "n5": "participation loan's",
+    "n6": "participation loans'",
+    "n7": "a participation loan",
+    "n8": "many participation loans"
+}

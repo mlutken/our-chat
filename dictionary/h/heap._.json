@@ -1,11 +1,24 @@
 {
     "base": "heap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "heap",
     "v2": "heaped",
     "v3": "heaped",
     "v4": "heaping",
-    "v5": "heaps"
+    "v5": "heaps",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "heap",
+    "n2": "heaps",
+    "n3": "the heap",
+    "n4": "the heaps",
+    "n5": "heap's",
+    "n6": "heaps'",
+    "n7": "a heap",
+    "n8": "many heaps"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "outcry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "outcry",
+    "n2": "outcries",
+    "n3": "the outcry",
+    "n4": "the outcries",
+    "n5": "outcry's",
+    "n6": "outcries'",
+    "n7": "an outcry",
+    "n8": "many outcries"
+}

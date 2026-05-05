@@ -1,0 +1,18 @@
+{
+    "base": "synchronism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "synchronism",
+    "n2": "synchronisms",
+    "n3": "the synchronism",
+    "n4": "the synchronisms",
+    "n5": "synchronism's",
+    "n6": "synchronisms'",
+    "n7": "a synchronism",
+    "n8": "many synchronisms"
+}

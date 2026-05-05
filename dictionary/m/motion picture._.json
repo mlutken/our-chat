@@ -1,0 +1,18 @@
+{
+    "base": "motion picture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "motion picture",
+    "n2": "motion pictures",
+    "n3": "the motion picture",
+    "n4": "the motion pictures",
+    "n5": "motion picture's",
+    "n6": "motion pictures'",
+    "n7": "a motion picture",
+    "n8": "many motion pictures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sculpture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "sculpture",
+    "n2": "sculptures",
+    "n3": "the sculpture",
+    "n4": "the sculptures",
+    "n5": "sculpture's",
+    "n6": "sculptures'",
+    "n7": "a sculpture",
+    "n8": "many sculptures"
+}

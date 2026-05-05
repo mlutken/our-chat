@@ -1,0 +1,18 @@
+{
+    "base": "sake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "sake",
+    "n2": "sakes",
+    "n3": "the sake",
+    "n4": "the sakes",
+    "n5": "sake's",
+    "n6": "sakes'",
+    "n7": "a sake",
+    "n8": "many sakes"
+}

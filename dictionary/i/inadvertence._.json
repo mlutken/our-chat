@@ -1,0 +1,18 @@
+{
+    "base": "inadvertence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inadvertence",
+    "n2": "inadvertences",
+    "n3": "the inadvertence",
+    "n4": "the inadvertences",
+    "n5": "inadvertence's",
+    "n6": "inadvertences'",
+    "n7": "an inadvertence",
+    "n8": "many inadvertences"
+}

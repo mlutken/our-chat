@@ -7,5 +7,12 @@
     "n2": "woods",
     "n3": "the wood",
     "n4": "the woods",
-    "n5": "wood's"
+    "n5": "wood's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "woods'",
+    "n7": "a wood",
+    "n8": "many woods"
 }

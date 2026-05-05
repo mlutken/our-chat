@@ -1,0 +1,18 @@
+{
+    "base": "leash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "leash",
+    "n2": "leashes",
+    "n3": "the leash",
+    "n4": "the leashes",
+    "n5": "leash's",
+    "n6": "leashes'",
+    "n7": "a leash",
+    "n8": "many leashes"
+}

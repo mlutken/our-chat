@@ -1,0 +1,18 @@
+{
+    "base": "ulceration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ulceration",
+    "n2": "ulcerations",
+    "n3": "the ulceration",
+    "n4": "the ulcerations",
+    "n5": "ulceration's",
+    "n6": "ulcerations'",
+    "n7": "an ulceration",
+    "n8": "many ulcerations"
+}

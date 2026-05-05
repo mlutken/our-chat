@@ -1,0 +1,18 @@
+{
+    "base": "blandness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blandness",
+    "n2": "blandnesses",
+    "n3": "the blandness",
+    "n4": "the blandnesses",
+    "n5": "blandness'",
+    "n6": "blandnesses'",
+    "n7": "a blandness",
+    "n8": "many blandnesses"
+}

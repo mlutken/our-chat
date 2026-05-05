@@ -1,0 +1,18 @@
+{
+    "base": "satire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "satire",
+    "n2": "satires",
+    "n3": "the satire",
+    "n4": "the satires",
+    "n5": "satire's",
+    "n6": "satires'",
+    "n7": "a satire",
+    "n8": "many satires"
+}

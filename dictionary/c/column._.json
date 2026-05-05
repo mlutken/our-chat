@@ -1,0 +1,18 @@
+{
+    "base": "column",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n1": "column",
+    "n2": "columns",
+    "n3": "the column",
+    "n4": "the columns",
+    "n5": "column's",
+    "n6": "columns'",
+    "n7": "a column",
+    "n8": "many columns"
+}

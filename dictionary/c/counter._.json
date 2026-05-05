@@ -1,0 +1,18 @@
+{
+    "base": "counter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "counter",
+    "n2": "counters",
+    "n3": "the counter",
+    "n4": "the counters",
+    "n5": "counter's",
+    "n6": "counters'",
+    "n7": "a counter",
+    "n8": "many counters"
+}

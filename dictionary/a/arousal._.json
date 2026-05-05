@@ -1,0 +1,18 @@
+{
+    "base": "arousal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arousal",
+    "n2": "arousals",
+    "n3": "the arousal",
+    "n4": "the arousals",
+    "n5": "arousal's",
+    "n6": "arousals'",
+    "n7": "an arousal",
+    "n8": "many arousals"
+}

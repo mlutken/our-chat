@@ -1,0 +1,18 @@
+{
+    "base": "mental picture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mental picture",
+    "n2": "mental pictures",
+    "n3": "the mental picture",
+    "n4": "the mental pictures",
+    "n5": "mental picture's",
+    "n6": "mental pictures'",
+    "n7": "a mental picture",
+    "n8": "many mental pictures"
+}

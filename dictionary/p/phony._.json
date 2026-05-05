@@ -1,0 +1,18 @@
+{
+    "base": "phony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phony",
+    "n2": "phonies",
+    "n3": "the phony",
+    "n4": "the phonies",
+    "n5": "phony's",
+    "n6": "phonies'",
+    "n7": "a phony",
+    "n8": "many phonies"
+}

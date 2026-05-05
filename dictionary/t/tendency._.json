@@ -1,0 +1,18 @@
+{
+    "base": "tendency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "tendency",
+    "n2": "tendencies",
+    "n3": "the tendency",
+    "n4": "the tendencies",
+    "n5": "tendency's",
+    "n6": "tendencies'",
+    "n7": "a tendency",
+    "n8": "many tendencies"
+}

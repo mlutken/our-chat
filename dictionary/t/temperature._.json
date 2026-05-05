@@ -7,5 +7,12 @@
     "n2": "temperatures",
     "n3": "the temperature",
     "n4": "the temperatures",
-    "n5": "temperature's"
+    "n5": "temperature's",
+    "proper": false,
+    "commonness": 92,
+    "max_commonness": 6834,
+    "commonness_ge_count": 137,
+    "n6": "temperatures'",
+    "n7": "a temperature",
+    "n8": "many temperatures"
 }

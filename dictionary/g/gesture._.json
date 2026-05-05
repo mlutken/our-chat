@@ -1,0 +1,18 @@
+{
+    "base": "gesture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "gesture",
+    "n2": "gestures",
+    "n3": "the gesture",
+    "n4": "the gestures",
+    "n5": "gesture's",
+    "n6": "gestures'",
+    "n7": "a gesture",
+    "n8": "many gestures"
+}

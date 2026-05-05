@@ -1,0 +1,18 @@
+{
+    "base": "vermont",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "vermont",
+    "n2": "vermonts",
+    "n3": "the vermont",
+    "n4": "the vermonts",
+    "n5": "vermont's",
+    "n6": "vermonts'",
+    "n7": "a vermont",
+    "n8": "many vermonts"
+}

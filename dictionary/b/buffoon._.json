@@ -1,0 +1,18 @@
+{
+    "base": "buffoon",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "buffoon",
+    "n2": "buffoons",
+    "n3": "the buffoon",
+    "n4": "the buffoons",
+    "n5": "buffoon's",
+    "n6": "buffoons'",
+    "n7": "a buffoon",
+    "n8": "many buffoons"
+}

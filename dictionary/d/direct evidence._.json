@@ -1,0 +1,18 @@
+{
+    "base": "direct evidence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "direct evidence",
+    "n2": "direct evidences",
+    "n3": "the direct evidence",
+    "n4": "the direct evidences",
+    "n5": "direct evidence's",
+    "n6": "direct evidences'",
+    "n7": "a direct evidence",
+    "n8": "many direct evidences"
+}

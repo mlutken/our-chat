@@ -1,0 +1,18 @@
+{
+    "base": "sowbelly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sowbelly",
+    "n2": "sowbellies",
+    "n3": "the sowbelly",
+    "n4": "the sowbellies",
+    "n5": "sowbelly's",
+    "n6": "sowbellies'",
+    "n7": "a sowbelly",
+    "n8": "many sowbellies"
+}

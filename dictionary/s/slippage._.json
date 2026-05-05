@@ -1,0 +1,18 @@
+{
+    "base": "slippage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slippage",
+    "n2": "slippages",
+    "n3": "the slippage",
+    "n4": "the slippages",
+    "n5": "slippage's",
+    "n6": "slippages'",
+    "n7": "a slippage",
+    "n8": "many slippages"
+}

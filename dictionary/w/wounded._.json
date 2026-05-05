@@ -1,0 +1,18 @@
+{
+    "base": "wounded",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wounded",
+    "n2": "woundeds",
+    "n3": "the wounded",
+    "n4": "the woundeds",
+    "n5": "wounded's",
+    "n6": "woundeds'",
+    "n7": "a wounded",
+    "n8": "many woundeds"
+}

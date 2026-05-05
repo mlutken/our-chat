@@ -1,0 +1,18 @@
+{
+    "base": "miles per hour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "miles per hour",
+    "n2": "miles per hours",
+    "n3": "the miles per hour",
+    "n4": "the miles per hours",
+    "n5": "miles per hour's",
+    "n6": "miles per hours'",
+    "n7": "a miles per hour",
+    "n8": "many miles per hours"
+}

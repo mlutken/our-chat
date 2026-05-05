@@ -1,0 +1,18 @@
+{
+    "base": "defining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "defining",
+    "n2": "definings",
+    "n3": "the defining",
+    "n4": "the definings",
+    "n5": "defining's",
+    "n6": "definings'",
+    "n7": "a defining",
+    "n8": "many definings"
+}

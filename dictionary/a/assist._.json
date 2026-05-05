@@ -1,0 +1,18 @@
+{
+    "base": "assist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "assist",
+    "n2": "assists",
+    "n3": "the assist",
+    "n4": "the assists",
+    "n5": "assist's",
+    "n6": "assists'",
+    "n7": "an assist",
+    "n8": "many assists"
+}

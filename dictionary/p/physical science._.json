@@ -1,0 +1,18 @@
+{
+    "base": "physical science",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "physical science",
+    "n2": "physical sciences",
+    "n3": "the physical science",
+    "n4": "the physical sciences",
+    "n5": "physical science's",
+    "n6": "physical sciences'",
+    "n7": "a physical science",
+    "n8": "many physical sciences"
+}

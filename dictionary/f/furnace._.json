@@ -1,0 +1,18 @@
+{
+    "base": "furnace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "furnace",
+    "n2": "furnaces",
+    "n3": "the furnace",
+    "n4": "the furnaces",
+    "n5": "furnace's",
+    "n6": "furnaces'",
+    "n7": "a furnace",
+    "n8": "many furnaces"
+}

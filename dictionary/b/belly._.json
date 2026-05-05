@@ -1,0 +1,18 @@
+{
+    "base": "belly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "belly",
+    "n2": "bellies",
+    "n3": "the belly",
+    "n4": "the bellies",
+    "n5": "belly's",
+    "n6": "bellies'",
+    "n7": "a belly",
+    "n8": "many bellies"
+}

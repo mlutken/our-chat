@@ -7,5 +7,12 @@
     "n2": "introductions",
     "n3": "the introduction",
     "n4": "the introductions",
-    "n5": "introduction's"
+    "n5": "introduction's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "introductions'",
+    "n7": "an introduction",
+    "n8": "many introductions"
 }

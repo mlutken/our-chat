@@ -1,0 +1,18 @@
+{
+    "base": "shit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shit",
+    "n2": "shits",
+    "n3": "the shit",
+    "n4": "the shits",
+    "n5": "shit's",
+    "n6": "shits'",
+    "n7": "a shit",
+    "n8": "many shits"
+}

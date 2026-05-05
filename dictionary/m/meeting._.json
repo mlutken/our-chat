@@ -1,0 +1,18 @@
+{
+    "base": "meeting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "meeting",
+    "n2": "meetings",
+    "n3": "the meeting",
+    "n4": "the meetings",
+    "n5": "meeting's",
+    "n6": "meetings'",
+    "n7": "a meeting",
+    "n8": "many meetings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "americanism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "americanism",
+    "n2": "americanisms",
+    "n3": "the americanism",
+    "n4": "the americanisms",
+    "n5": "americanism's",
+    "n6": "americanisms'",
+    "n7": "an americanism",
+    "n8": "many americanisms"
+}

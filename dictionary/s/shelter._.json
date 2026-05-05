@@ -1,11 +1,24 @@
 {
     "base": "shelter",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "shelter",
     "v2": "sheltered",
     "v3": "sheltered",
     "v4": "sheltering",
-    "v5": "shelters"
+    "v5": "shelters",
+    "proper": false,
+    "commonness": 59,
+    "max_commonness": 6834,
+    "commonness_ge_count": 262,
+    "n1": "shelter",
+    "n2": "shelters",
+    "n3": "the shelter",
+    "n4": "the shelters",
+    "n5": "shelter's",
+    "n6": "shelters'",
+    "n7": "a shelter",
+    "n8": "many shelters"
 }

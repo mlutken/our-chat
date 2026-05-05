@@ -1,0 +1,18 @@
+{
+    "base": "barnburner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barnburner",
+    "n2": "barnburners",
+    "n3": "the barnburner",
+    "n4": "the barnburners",
+    "n5": "barnburner's",
+    "n6": "barnburners'",
+    "n7": "a barnburner",
+    "n8": "many barnburners"
+}

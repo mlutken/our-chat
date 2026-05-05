@@ -1,0 +1,18 @@
+{
+    "base": "pulpit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pulpit",
+    "n2": "pulpits",
+    "n3": "the pulpit",
+    "n4": "the pulpits",
+    "n5": "pulpit's",
+    "n6": "pulpits'",
+    "n7": "a pulpit",
+    "n8": "many pulpits"
+}

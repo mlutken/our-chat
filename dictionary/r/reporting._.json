@@ -1,0 +1,18 @@
+{
+    "base": "reporting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reporting",
+    "n2": "reportings",
+    "n3": "the reporting",
+    "n4": "the reportings",
+    "n5": "reporting's",
+    "n6": "reportings'",
+    "n7": "a reporting",
+    "n8": "many reportings"
+}

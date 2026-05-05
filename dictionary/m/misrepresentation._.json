@@ -1,0 +1,18 @@
+{
+    "base": "misrepresentation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misrepresentation",
+    "n2": "misrepresentations",
+    "n3": "the misrepresentation",
+    "n4": "the misrepresentations",
+    "n5": "misrepresentation's",
+    "n6": "misrepresentations'",
+    "n7": "a misrepresentation",
+    "n8": "many misrepresentations"
+}

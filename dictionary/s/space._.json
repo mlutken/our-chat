@@ -7,5 +7,12 @@
     "n2": "spaces",
     "n3": "the space",
     "n4": "the spaces",
-    "n5": "space's"
+    "n5": "space's",
+    "proper": false,
+    "commonness": 81,
+    "max_commonness": 6834,
+    "commonness_ge_count": 162,
+    "n6": "spaces'",
+    "n7": "a space",
+    "n8": "many spaces"
 }

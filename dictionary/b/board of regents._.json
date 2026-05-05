@@ -1,0 +1,18 @@
+{
+    "base": "board of regents",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "board of regents",
+    "n2": "board of regentses",
+    "n3": "the board of regents",
+    "n4": "the board of regentses",
+    "n5": "board of regents'",
+    "n6": "board of regentses'",
+    "n7": "a board of regents",
+    "n8": "many board of regentses"
+}

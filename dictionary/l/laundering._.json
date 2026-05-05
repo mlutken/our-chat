@@ -1,0 +1,18 @@
+{
+    "base": "laundering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laundering",
+    "n2": "launderings",
+    "n3": "the laundering",
+    "n4": "the launderings",
+    "n5": "laundering's",
+    "n6": "launderings'",
+    "n7": "a laundering",
+    "n8": "many launderings"
+}

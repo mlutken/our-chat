@@ -1,0 +1,18 @@
+{
+    "base": "aorta",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "aorta",
+    "n2": "aortae",
+    "n3": "the aorta",
+    "n4": "the aortae",
+    "n5": "aorta's",
+    "n6": "aortae's",
+    "n7": "an aorta",
+    "n8": "many aortae"
+}

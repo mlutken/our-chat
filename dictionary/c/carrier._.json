@@ -1,0 +1,18 @@
+{
+    "base": "carrier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "carrier",
+    "n2": "carriers",
+    "n3": "the carrier",
+    "n4": "the carriers",
+    "n5": "carrier's",
+    "n6": "carriers'",
+    "n7": "a carrier",
+    "n8": "many carriers"
+}

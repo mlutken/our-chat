@@ -1,0 +1,18 @@
+{
+    "base": "virulence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "virulence",
+    "n2": "virulences",
+    "n3": "the virulence",
+    "n4": "the virulences",
+    "n5": "virulence's",
+    "n6": "virulences'",
+    "n7": "a virulence",
+    "n8": "many virulences"
+}

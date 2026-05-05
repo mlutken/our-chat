@@ -1,11 +1,24 @@
 {
     "base": "win",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "win",
     "v2": "won",
     "v3": "won",
     "v4": "winning",
-    "v5": "wins"
+    "v5": "wins",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "win",
+    "n2": "wins",
+    "n3": "the win",
+    "n4": "the wins",
+    "n5": "win's",
+    "n6": "wins'",
+    "n7": "a win",
+    "n8": "many wins"
 }

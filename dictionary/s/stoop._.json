@@ -1,0 +1,18 @@
+{
+    "base": "stoop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stoop",
+    "n2": "stoops",
+    "n3": "the stoop",
+    "n4": "the stoops",
+    "n5": "stoop's",
+    "n6": "stoops'",
+    "n7": "a stoop",
+    "n8": "many stoops"
+}

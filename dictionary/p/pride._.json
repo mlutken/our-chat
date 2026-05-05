@@ -1,0 +1,18 @@
+{
+    "base": "pride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "pride",
+    "n2": "prides",
+    "n3": "the pride",
+    "n4": "the prides",
+    "n5": "pride's",
+    "n6": "prides'",
+    "n7": "a pride",
+    "n8": "many prides"
+}

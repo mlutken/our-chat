@@ -1,0 +1,18 @@
+{
+    "base": "property settlement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "property settlement",
+    "n2": "property settlements",
+    "n3": "the property settlement",
+    "n4": "the property settlements",
+    "n5": "property settlement's",
+    "n6": "property settlements'",
+    "n7": "a property settlement",
+    "n8": "many property settlements"
+}

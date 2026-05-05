@@ -1,0 +1,18 @@
+{
+    "base": "legislator",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "legislator",
+    "n2": "legislators",
+    "n3": "the legislator",
+    "n4": "the legislators",
+    "n5": "legislator's",
+    "n6": "legislators'",
+    "n7": "a legislator",
+    "n8": "many legislators"
+}

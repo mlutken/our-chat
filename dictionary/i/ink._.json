@@ -1,0 +1,18 @@
+{
+    "base": "ink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ink",
+    "n2": "inks",
+    "n3": "the ink",
+    "n4": "the inks",
+    "n5": "ink's",
+    "n6": "inks'",
+    "n7": "an ink",
+    "n8": "many inks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "collegian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "collegian",
+    "n2": "collegians",
+    "n3": "the collegian",
+    "n4": "the collegians",
+    "n5": "collegian's",
+    "n6": "collegians'",
+    "n7": "a collegian",
+    "n8": "many collegians"
+}

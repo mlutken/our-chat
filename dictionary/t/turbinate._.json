@@ -1,0 +1,18 @@
+{
+    "base": "turbinate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turbinate",
+    "n2": "turbinates",
+    "n3": "the turbinate",
+    "n4": "the turbinates",
+    "n5": "turbinate's",
+    "n6": "turbinates'",
+    "n7": "a turbinate",
+    "n8": "many turbinates"
+}

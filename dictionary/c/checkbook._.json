@@ -1,0 +1,18 @@
+{
+    "base": "checkbook",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "checkbook",
+    "n2": "checkbooks",
+    "n3": "the checkbook",
+    "n4": "the checkbooks",
+    "n5": "checkbook's",
+    "n6": "checkbooks'",
+    "n7": "a checkbook",
+    "n8": "many checkbooks"
+}

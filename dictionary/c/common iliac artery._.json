@@ -1,0 +1,18 @@
+{
+    "base": "common iliac artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "common iliac artery",
+    "n2": "common iliac arteries",
+    "n3": "the common iliac artery",
+    "n4": "the common iliac arteries",
+    "n5": "common iliac artery's",
+    "n6": "common iliac arteries'",
+    "n7": "a common iliac artery",
+    "n8": "many common iliac arteries"
+}

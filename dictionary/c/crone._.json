@@ -1,0 +1,18 @@
+{
+    "base": "crone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crone",
+    "n2": "crones",
+    "n3": "the crone",
+    "n4": "the crones",
+    "n5": "crone's",
+    "n6": "crones'",
+    "n7": "a crone",
+    "n8": "many crones"
+}

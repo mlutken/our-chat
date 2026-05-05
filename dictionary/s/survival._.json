@@ -1,0 +1,18 @@
+{
+    "base": "survival",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "survival",
+    "n2": "survivals",
+    "n3": "the survival",
+    "n4": "the survivals",
+    "n5": "survival's",
+    "n6": "survivals'",
+    "n7": "a survival",
+    "n8": "many survivals"
+}

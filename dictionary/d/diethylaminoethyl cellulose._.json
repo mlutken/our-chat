@@ -1,0 +1,18 @@
+{
+    "base": "diethylaminoethyl cellulose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "diethylaminoethyl cellulose",
+    "n2": "diethylaminoethyl celluloses",
+    "n3": "the diethylaminoethyl cellulose",
+    "n4": "the diethylaminoethyl celluloses",
+    "n5": "diethylaminoethyl cellulose's",
+    "n6": "diethylaminoethyl celluloses'",
+    "n7": "a diethylaminoethyl cellulose",
+    "n8": "many diethylaminoethyl celluloses"
+}

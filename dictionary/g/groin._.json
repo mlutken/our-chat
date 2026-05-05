@@ -1,0 +1,18 @@
+{
+    "base": "groin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "groin",
+    "n2": "groins",
+    "n3": "the groin",
+    "n4": "the groins",
+    "n5": "groin's",
+    "n6": "groins'",
+    "n7": "a groin",
+    "n8": "many groins"
+}

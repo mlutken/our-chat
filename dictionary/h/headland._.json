@@ -1,0 +1,18 @@
+{
+    "base": "headland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "headland",
+    "n2": "headlands",
+    "n3": "the headland",
+    "n4": "the headlands",
+    "n5": "headland's",
+    "n6": "headlands'",
+    "n7": "a headland",
+    "n8": "many headlands"
+}

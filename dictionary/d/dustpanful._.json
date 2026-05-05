@@ -1,0 +1,18 @@
+{
+    "base": "dustpanful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dustpanful",
+    "n2": "dustpanfuls",
+    "n3": "the dustpanful",
+    "n4": "the dustpanfuls",
+    "n5": "dustpanful's",
+    "n6": "dustpanfuls'",
+    "n7": "a dustpanful",
+    "n8": "many dustpanfuls"
+}

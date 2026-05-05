@@ -1,0 +1,18 @@
+{
+    "base": "uncle sam",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "uncle sam",
+    "n2": "uncle sams",
+    "n3": "the uncle sam",
+    "n4": "the uncle sams",
+    "n5": "uncle sam's",
+    "n6": "uncle sams'",
+    "n7": "an uncle sam",
+    "n8": "many uncle sams"
+}

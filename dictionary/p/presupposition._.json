@@ -1,0 +1,18 @@
+{
+    "base": "presupposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "presupposition",
+    "n2": "presuppositions",
+    "n3": "the presupposition",
+    "n4": "the presuppositions",
+    "n5": "presupposition's",
+    "n6": "presuppositions'",
+    "n7": "a presupposition",
+    "n8": "many presuppositions"
+}

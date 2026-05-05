@@ -1,11 +1,24 @@
 {
     "base": "grease",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "grease",
     "v2": "greased",
     "v3": "greased",
     "v4": "greasing",
-    "v5": "greases"
+    "v5": "greases",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "grease",
+    "n2": "greases",
+    "n3": "the grease",
+    "n4": "the greases",
+    "n5": "grease's",
+    "n6": "greases'",
+    "n7": "a grease",
+    "n8": "many greases"
 }

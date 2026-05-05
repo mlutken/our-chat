@@ -1,0 +1,18 @@
+{
+    "base": "permian",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "permian",
+    "n2": "permians",
+    "n3": "the permian",
+    "n4": "the permians",
+    "n5": "permian's",
+    "n6": "permians'",
+    "n7": "a permian",
+    "n8": "many permians"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "swig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swig",
+    "n2": "swigs",
+    "n3": "the swig",
+    "n4": "the swigs",
+    "n5": "swig's",
+    "n6": "swigs'",
+    "n7": "a swig",
+    "n8": "many swigs"
+}

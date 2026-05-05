@@ -1,0 +1,18 @@
+{
+    "base": "israeli",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "israeli",
+    "n2": "israelis",
+    "n3": "the israeli",
+    "n4": "the israelis",
+    "n5": "israeli's",
+    "n6": "israelis'",
+    "n7": "an israeli",
+    "n8": "many israelis"
+}

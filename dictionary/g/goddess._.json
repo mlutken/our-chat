@@ -1,0 +1,18 @@
+{
+    "base": "goddess",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "goddess",
+    "n2": "goddesses",
+    "n3": "the goddess",
+    "n4": "the goddesses",
+    "n5": "goddess'",
+    "n6": "goddesses'",
+    "n7": "a goddess",
+    "n8": "many goddesses"
+}

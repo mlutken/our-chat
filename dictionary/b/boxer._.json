@@ -1,0 +1,18 @@
+{
+    "base": "boxer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boxer",
+    "n2": "boxers",
+    "n3": "the boxer",
+    "n4": "the boxers",
+    "n5": "boxer's",
+    "n6": "boxers'",
+    "n7": "a boxer",
+    "n8": "many boxers"
+}

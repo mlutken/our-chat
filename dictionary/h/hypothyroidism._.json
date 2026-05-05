@@ -1,0 +1,18 @@
+{
+    "base": "hypothyroidism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hypothyroidism",
+    "n2": "hypothyroidisms",
+    "n3": "the hypothyroidism",
+    "n4": "the hypothyroidisms",
+    "n5": "hypothyroidism's",
+    "n6": "hypothyroidisms'",
+    "n7": "a hypothyroidism",
+    "n8": "many hypothyroidisms"
+}

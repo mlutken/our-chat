@@ -1,0 +1,18 @@
+{
+    "base": "dying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dying",
+    "n2": "dyings",
+    "n3": "the dying",
+    "n4": "the dyings",
+    "n5": "dying's",
+    "n6": "dyings'",
+    "n7": "a dying",
+    "n8": "many dyings"
+}

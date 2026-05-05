@@ -1,0 +1,18 @@
+{
+    "base": "apartment house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "apartment house",
+    "n2": "apartment houses",
+    "n3": "the apartment house",
+    "n4": "the apartment houses",
+    "n5": "apartment house's",
+    "n6": "apartment houses'",
+    "n7": "an apartment house",
+    "n8": "many apartment houses"
+}

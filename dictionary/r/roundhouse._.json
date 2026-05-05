@@ -1,0 +1,18 @@
+{
+    "base": "roundhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "roundhouse",
+    "n2": "roundhouses",
+    "n3": "the roundhouse",
+    "n4": "the roundhouses",
+    "n5": "roundhouse's",
+    "n6": "roundhouses'",
+    "n7": "a roundhouse",
+    "n8": "many roundhouses"
+}

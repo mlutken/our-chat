@@ -1,0 +1,18 @@
+{
+    "base": "forced sale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forced sale",
+    "n2": "forced sales",
+    "n3": "the forced sale",
+    "n4": "the forced sales",
+    "n5": "forced sale's",
+    "n6": "forced sales'",
+    "n7": "a forced sale",
+    "n8": "many forced sales"
+}

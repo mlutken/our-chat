@@ -1,0 +1,18 @@
+{
+    "base": "fishmonger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fishmonger",
+    "n2": "fishmongers",
+    "n3": "the fishmonger",
+    "n4": "the fishmongers",
+    "n5": "fishmonger's",
+    "n6": "fishmongers'",
+    "n7": "a fishmonger",
+    "n8": "many fishmongers"
+}

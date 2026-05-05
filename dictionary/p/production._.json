@@ -7,5 +7,12 @@
     "n2": "productions",
     "n3": "the production",
     "n4": "the productions",
-    "n5": "production's"
+    "n5": "production's",
+    "proper": false,
+    "commonness": 56,
+    "max_commonness": 6834,
+    "commonness_ge_count": 277,
+    "n6": "productions'",
+    "n7": "a production",
+    "n8": "many productions"
 }

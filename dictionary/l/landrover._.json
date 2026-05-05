@@ -1,0 +1,18 @@
+{
+    "base": "landrover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "landrover",
+    "n2": "landrovers",
+    "n3": "the landrover",
+    "n4": "the landrovers",
+    "n5": "landrover's",
+    "n6": "landrovers'",
+    "n7": "a landrover",
+    "n8": "many landrovers"
+}

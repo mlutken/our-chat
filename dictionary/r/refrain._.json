@@ -1,0 +1,18 @@
+{
+    "base": "refrain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "refrain",
+    "n2": "refrains",
+    "n3": "the refrain",
+    "n4": "the refrains",
+    "n5": "refrain's",
+    "n6": "refrains'",
+    "n7": "a refrain",
+    "n8": "many refrains"
+}

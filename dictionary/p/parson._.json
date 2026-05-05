@@ -1,0 +1,18 @@
+{
+    "base": "parson",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parson",
+    "n2": "parsons",
+    "n3": "the parson",
+    "n4": "the parsons",
+    "n5": "parson's",
+    "n6": "parsons'",
+    "n7": "a parson",
+    "n8": "many parsons"
+}

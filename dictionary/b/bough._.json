@@ -1,0 +1,18 @@
+{
+    "base": "bough",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bough",
+    "n2": "boughs",
+    "n3": "the bough",
+    "n4": "the boughs",
+    "n5": "bough's",
+    "n6": "boughs'",
+    "n7": "a bough",
+    "n8": "many boughs"
+}

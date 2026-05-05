@@ -1,0 +1,18 @@
+{
+    "base": "face powder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "face powder",
+    "n2": "face powders",
+    "n3": "the face powder",
+    "n4": "the face powders",
+    "n5": "face powder's",
+    "n6": "face powders'",
+    "n7": "a face powder",
+    "n8": "many face powders"
+}

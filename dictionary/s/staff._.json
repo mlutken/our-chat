@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "staff",
-    "n2": "staffs",
+    "n2": "stafves",
     "n3": "the staff",
-    "n4": "the staffs",
-    "n5": "staff's"
+    "n4": "the stafves",
+    "n5": "staff's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "stafves'",
+    "n7": "a staff",
+    "n8": "many stafves"
 }

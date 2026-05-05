@@ -1,0 +1,18 @@
+{
+    "base": "hedge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hedge",
+    "n2": "hedges",
+    "n3": "the hedge",
+    "n4": "the hedges",
+    "n5": "hedge's",
+    "n6": "hedges'",
+    "n7": "a hedge",
+    "n8": "many hedges"
+}

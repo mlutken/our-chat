@@ -1,0 +1,18 @@
+{
+    "base": "evening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n1": "evening",
+    "n2": "evenings",
+    "n3": "the evening",
+    "n4": "the evenings",
+    "n5": "evening's",
+    "n6": "evenings'",
+    "n7": "an evening",
+    "n8": "many evenings"
+}

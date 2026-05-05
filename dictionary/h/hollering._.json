@@ -1,0 +1,18 @@
+{
+    "base": "hollering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hollering",
+    "n2": "hollerings",
+    "n3": "the hollering",
+    "n4": "the hollerings",
+    "n5": "hollering's",
+    "n6": "hollerings'",
+    "n7": "a hollering",
+    "n8": "many hollerings"
+}

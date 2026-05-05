@@ -1,9 +1,22 @@
 {
     "base": "complex",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "complex",
     "adj2": "more complex",
-    "adj3": "most complex"
+    "adj3": "most complex",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "complex",
+    "n2": "complexes",
+    "n3": "the complex",
+    "n4": "the complexes",
+    "n5": "complex's",
+    "n6": "complexes'",
+    "n7": "a complex",
+    "n8": "many complexes"
 }

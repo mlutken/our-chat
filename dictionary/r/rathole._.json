@@ -1,0 +1,18 @@
+{
+    "base": "rathole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rathole",
+    "n2": "ratholes",
+    "n3": "the rathole",
+    "n4": "the ratholes",
+    "n5": "rathole's",
+    "n6": "ratholes'",
+    "n7": "a rathole",
+    "n8": "many ratholes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "envy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "envy",
+    "n2": "envies",
+    "n3": "the envy",
+    "n4": "the envies",
+    "n5": "envy's",
+    "n6": "envies'",
+    "n7": "an envy",
+    "n8": "many envies"
+}

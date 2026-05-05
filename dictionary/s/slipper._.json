@@ -1,0 +1,18 @@
+{
+    "base": "slipper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "slipper",
+    "n2": "slippers",
+    "n3": "the slipper",
+    "n4": "the slippers",
+    "n5": "slipper's",
+    "n6": "slippers'",
+    "n7": "a slipper",
+    "n8": "many slippers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cost of living",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cost of living",
+    "n2": "cost of livings",
+    "n3": "the cost of living",
+    "n4": "the cost of livings",
+    "n5": "cost of living's",
+    "n6": "cost of livings'",
+    "n7": "a cost of living",
+    "n8": "many cost of livings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "understatement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "understatement",
+    "n2": "understatements",
+    "n3": "the understatement",
+    "n4": "the understatements",
+    "n5": "understatement's",
+    "n6": "understatements'",
+    "n7": "an understatement",
+    "n8": "many understatements"
+}

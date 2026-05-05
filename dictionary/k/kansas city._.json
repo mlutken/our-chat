@@ -1,0 +1,18 @@
+{
+    "base": "kansas city",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "kansas city",
+    "n2": "kansas cities",
+    "n3": "the kansas city",
+    "n4": "the kansas cities",
+    "n5": "kansas city's",
+    "n6": "kansas cities'",
+    "n7": "a kansas city",
+    "n8": "many kansas cities"
+}

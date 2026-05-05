@@ -1,0 +1,18 @@
+{
+    "base": "carping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carping",
+    "n2": "carpings",
+    "n3": "the carping",
+    "n4": "the carpings",
+    "n5": "carping's",
+    "n6": "carpings'",
+    "n7": "a carping",
+    "n8": "many carpings"
+}

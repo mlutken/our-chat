@@ -1,0 +1,18 @@
+{
+    "base": "fingering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fingering",
+    "n2": "fingerings",
+    "n3": "the fingering",
+    "n4": "the fingerings",
+    "n5": "fingering's",
+    "n6": "fingerings'",
+    "n7": "a fingering",
+    "n8": "many fingerings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gristmill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gristmill",
+    "n2": "gristmills",
+    "n3": "the gristmill",
+    "n4": "the gristmills",
+    "n5": "gristmill's",
+    "n6": "gristmills'",
+    "n7": "a gristmill",
+    "n8": "many gristmills"
+}

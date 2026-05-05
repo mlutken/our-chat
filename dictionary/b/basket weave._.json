@@ -1,0 +1,18 @@
+{
+    "base": "basket weave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "basket weave",
+    "n2": "basket weaves",
+    "n3": "the basket weave",
+    "n4": "the basket weaves",
+    "n5": "basket weave's",
+    "n6": "basket weaves'",
+    "n7": "a basket weave",
+    "n8": "many basket weaves"
+}

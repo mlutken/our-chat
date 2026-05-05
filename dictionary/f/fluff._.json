@@ -1,0 +1,18 @@
+{
+    "base": "fluff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fluff",
+    "n2": "flufves",
+    "n3": "the fluff",
+    "n4": "the flufves",
+    "n5": "fluff's",
+    "n6": "flufves'",
+    "n7": "a fluff",
+    "n8": "many flufves"
+}

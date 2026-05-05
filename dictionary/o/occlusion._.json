@@ -1,0 +1,18 @@
+{
+    "base": "occlusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "occlusion",
+    "n2": "occlusions",
+    "n3": "the occlusion",
+    "n4": "the occlusions",
+    "n5": "occlusion's",
+    "n6": "occlusions'",
+    "n7": "an occlusion",
+    "n8": "many occlusions"
+}

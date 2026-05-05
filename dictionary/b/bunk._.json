@@ -1,0 +1,18 @@
+{
+    "base": "bunk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "bunk",
+    "n2": "bunks",
+    "n3": "the bunk",
+    "n4": "the bunks",
+    "n5": "bunk's",
+    "n6": "bunks'",
+    "n7": "a bunk",
+    "n8": "many bunks"
+}

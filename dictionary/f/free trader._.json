@@ -1,0 +1,18 @@
+{
+    "base": "free trader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "free trader",
+    "n2": "free traders",
+    "n3": "the free trader",
+    "n4": "the free traders",
+    "n5": "free trader's",
+    "n6": "free traders'",
+    "n7": "a free trader",
+    "n8": "many free traders"
+}

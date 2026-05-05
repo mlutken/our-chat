@@ -1,0 +1,18 @@
+{
+    "base": "antagonism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "antagonism",
+    "n2": "antagonisms",
+    "n3": "the antagonism",
+    "n4": "the antagonisms",
+    "n5": "antagonism's",
+    "n6": "antagonisms'",
+    "n7": "an antagonism",
+    "n8": "many antagonisms"
+}

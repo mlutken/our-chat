@@ -1,0 +1,18 @@
+{
+    "base": "leyte",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "leyte",
+    "n2": "leytes",
+    "n3": "the leyte",
+    "n4": "the leytes",
+    "n5": "leyte's",
+    "n6": "leytes'",
+    "n7": "a leyte",
+    "n8": "many leytes"
+}

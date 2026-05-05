@@ -1,0 +1,18 @@
+{
+    "base": "pessimism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pessimism",
+    "n2": "pessimisms",
+    "n3": "the pessimism",
+    "n4": "the pessimisms",
+    "n5": "pessimism's",
+    "n6": "pessimisms'",
+    "n7": "a pessimism",
+    "n8": "many pessimisms"
+}

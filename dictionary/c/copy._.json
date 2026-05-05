@@ -1,11 +1,24 @@
 {
     "base": "copy",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "copy",
     "v2": "copied",
     "v3": "copied",
     "v4": "copying",
-    "v5": "copies"
+    "v5": "copies",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "copy",
+    "n2": "copies",
+    "n3": "the copy",
+    "n4": "the copies",
+    "n5": "copy's",
+    "n6": "copies'",
+    "n7": "a copy",
+    "n8": "many copies"
 }

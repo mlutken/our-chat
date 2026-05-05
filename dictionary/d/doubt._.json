@@ -1,11 +1,24 @@
 {
     "base": "doubt",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "doubt",
     "v2": "doubted",
     "v3": "doubted",
     "v4": "doubting",
-    "v5": "doubts"
+    "v5": "doubts",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "doubt",
+    "n2": "doubts",
+    "n3": "the doubt",
+    "n4": "the doubts",
+    "n5": "doubt's",
+    "n6": "doubts'",
+    "n7": "a doubt",
+    "n8": "many doubts"
 }

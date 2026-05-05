@@ -1,0 +1,18 @@
+{
+    "base": "stream of consciousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stream of consciousness",
+    "n2": "stream of consciousnesses",
+    "n3": "the stream of consciousness",
+    "n4": "the stream of consciousnesses",
+    "n5": "stream of consciousness'",
+    "n6": "stream of consciousnesses'",
+    "n7": "a stream of consciousness",
+    "n8": "many stream of consciousnesses"
+}

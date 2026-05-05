@@ -1,0 +1,18 @@
+{
+    "base": "adjustment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "adjustment",
+    "n2": "adjustments",
+    "n3": "the adjustment",
+    "n4": "the adjustments",
+    "n5": "adjustment's",
+    "n6": "adjustments'",
+    "n7": "an adjustment",
+    "n8": "many adjustments"
+}

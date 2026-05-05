@@ -1,0 +1,18 @@
+{
+    "base": "impotence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impotence",
+    "n2": "impotences",
+    "n3": "the impotence",
+    "n4": "the impotences",
+    "n5": "impotence's",
+    "n6": "impotences'",
+    "n7": "an impotence",
+    "n8": "many impotences"
+}

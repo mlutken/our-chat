@@ -1,0 +1,18 @@
+{
+    "base": "middle ages",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "middle ages",
+    "n2": "middle ageses",
+    "n3": "the middle ages",
+    "n4": "the middle ageses",
+    "n5": "middle ages'",
+    "n6": "middle ageses'",
+    "n7": "a middle ages",
+    "n8": "many middle ageses"
+}

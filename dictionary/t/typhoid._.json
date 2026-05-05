@@ -1,0 +1,18 @@
+{
+    "base": "typhoid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "typhoid",
+    "n2": "typhoids",
+    "n3": "the typhoid",
+    "n4": "the typhoids",
+    "n5": "typhoid's",
+    "n6": "typhoids'",
+    "n7": "a typhoid",
+    "n8": "many typhoids"
+}

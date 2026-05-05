@@ -1,0 +1,18 @@
+{
+    "base": "guard duty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guard duty",
+    "n2": "guard duties",
+    "n3": "the guard duty",
+    "n4": "the guard duties",
+    "n5": "guard duty's",
+    "n6": "guard duties'",
+    "n7": "a guard duty",
+    "n8": "many guard duties"
+}

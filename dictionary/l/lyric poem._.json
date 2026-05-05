@@ -1,0 +1,18 @@
+{
+    "base": "lyric poem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lyric poem",
+    "n2": "lyric poems",
+    "n3": "the lyric poem",
+    "n4": "the lyric poems",
+    "n5": "lyric poem's",
+    "n6": "lyric poems'",
+    "n7": "a lyric poem",
+    "n8": "many lyric poems"
+}

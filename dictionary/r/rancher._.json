@@ -1,0 +1,18 @@
+{
+    "base": "rancher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "rancher",
+    "n2": "ranchers",
+    "n3": "the rancher",
+    "n4": "the ranchers",
+    "n5": "rancher's",
+    "n6": "ranchers'",
+    "n7": "a rancher",
+    "n8": "many ranchers"
+}

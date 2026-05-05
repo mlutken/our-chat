@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "theory",
-    "n2": "theorys",
+    "n2": "theories",
     "n3": "the theory",
-    "n4": "the theorys",
-    "n5": "theory's"
+    "n4": "the theories",
+    "n5": "theory's",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n6": "theories'",
+    "n7": "a theory",
+    "n8": "many theories"
 }

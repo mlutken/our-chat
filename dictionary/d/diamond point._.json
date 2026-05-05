@@ -1,0 +1,18 @@
+{
+    "base": "diamond point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diamond point",
+    "n2": "diamond points",
+    "n3": "the diamond point",
+    "n4": "the diamond points",
+    "n5": "diamond point's",
+    "n6": "diamond points'",
+    "n7": "a diamond point",
+    "n8": "many diamond points"
+}

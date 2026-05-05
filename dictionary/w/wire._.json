@@ -1,0 +1,18 @@
+{
+    "base": "wire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "wire",
+    "n2": "wires",
+    "n3": "the wire",
+    "n4": "the wires",
+    "n5": "wire's",
+    "n6": "wires'",
+    "n7": "a wire",
+    "n8": "many wires"
+}

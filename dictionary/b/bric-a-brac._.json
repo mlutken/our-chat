@@ -1,0 +1,18 @@
+{
+    "base": "bric-a-brac",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bric-a-brac",
+    "n2": "bric-a-bracs",
+    "n3": "the bric-a-brac",
+    "n4": "the bric-a-bracs",
+    "n5": "bric-a-brac's",
+    "n6": "bric-a-bracs'",
+    "n7": "a bric-a-brac",
+    "n8": "many bric-a-bracs"
+}

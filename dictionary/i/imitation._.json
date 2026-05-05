@@ -1,0 +1,18 @@
+{
+    "base": "imitation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "imitation",
+    "n2": "imitations",
+    "n3": "the imitation",
+    "n4": "the imitations",
+    "n5": "imitation's",
+    "n6": "imitations'",
+    "n7": "an imitation",
+    "n8": "many imitations"
+}

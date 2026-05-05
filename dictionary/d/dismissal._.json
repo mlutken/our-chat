@@ -1,0 +1,18 @@
+{
+    "base": "dismissal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dismissal",
+    "n2": "dismissals",
+    "n3": "the dismissal",
+    "n4": "the dismissals",
+    "n5": "dismissal's",
+    "n6": "dismissals'",
+    "n7": "a dismissal",
+    "n8": "many dismissals"
+}

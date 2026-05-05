@@ -1,0 +1,18 @@
+{
+    "base": "hopper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hopper",
+    "n2": "hoppers",
+    "n3": "the hopper",
+    "n4": "the hoppers",
+    "n5": "hopper's",
+    "n6": "hoppers'",
+    "n7": "a hopper",
+    "n8": "many hoppers"
+}

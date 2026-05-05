@@ -1,0 +1,18 @@
+{
+    "base": "hyalinization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hyalinization",
+    "n2": "hyalinizations",
+    "n3": "the hyalinization",
+    "n4": "the hyalinizations",
+    "n5": "hyalinization's",
+    "n6": "hyalinizations'",
+    "n7": "a hyalinization",
+    "n8": "many hyalinizations"
+}

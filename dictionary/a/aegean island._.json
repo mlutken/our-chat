@@ -1,0 +1,18 @@
+{
+    "base": "aegean island",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aegean island",
+    "n2": "aegean islands",
+    "n3": "the aegean island",
+    "n4": "the aegean islands",
+    "n5": "aegean island's",
+    "n6": "aegean islands'",
+    "n7": "an aegean island",
+    "n8": "many aegean islands"
+}

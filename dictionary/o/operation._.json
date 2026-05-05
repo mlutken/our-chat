@@ -7,5 +7,12 @@
     "n2": "operations",
     "n3": "the operation",
     "n4": "the operations",
-    "n5": "operation's"
+    "n5": "operation's",
+    "proper": false,
+    "commonness": 51,
+    "max_commonness": 6834,
+    "commonness_ge_count": 322,
+    "n6": "operations'",
+    "n7": "an operation",
+    "n8": "many operations"
 }

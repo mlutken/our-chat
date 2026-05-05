@@ -1,0 +1,18 @@
+{
+    "base": "tax advantage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tax advantage",
+    "n2": "tax advantages",
+    "n3": "the tax advantage",
+    "n4": "the tax advantages",
+    "n5": "tax advantage's",
+    "n6": "tax advantages'",
+    "n7": "a tax advantage",
+    "n8": "many tax advantages"
+}

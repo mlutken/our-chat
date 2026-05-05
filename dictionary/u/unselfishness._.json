@@ -1,0 +1,18 @@
+{
+    "base": "unselfishness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unselfishness",
+    "n2": "unselfishnesses",
+    "n3": "the unselfishness",
+    "n4": "the unselfishnesses",
+    "n5": "unselfishness'",
+    "n6": "unselfishnesses'",
+    "n7": "an unselfishness",
+    "n8": "many unselfishnesses"
+}

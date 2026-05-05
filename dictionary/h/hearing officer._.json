@@ -1,0 +1,18 @@
+{
+    "base": "hearing officer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "hearing officer",
+    "n2": "hearing officers",
+    "n3": "the hearing officer",
+    "n4": "the hearing officers",
+    "n5": "hearing officer's",
+    "n6": "hearing officers'",
+    "n7": "a hearing officer",
+    "n8": "many hearing officers"
+}

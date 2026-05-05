@@ -1,0 +1,18 @@
+{
+    "base": "throw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "throw",
+    "n2": "throws",
+    "n3": "the throw",
+    "n4": "the throws",
+    "n5": "throw's",
+    "n6": "throws'",
+    "n7": "a throw",
+    "n8": "many throws"
+}

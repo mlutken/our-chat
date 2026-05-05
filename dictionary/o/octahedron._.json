@@ -1,0 +1,18 @@
+{
+    "base": "octahedron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "octahedron",
+    "n2": "octahedra",
+    "n3": "the octahedron",
+    "n4": "the octahedra",
+    "n5": "octahedron's",
+    "n6": "octahedra's",
+    "n7": "an octahedron",
+    "n8": "many octahedra"
+}

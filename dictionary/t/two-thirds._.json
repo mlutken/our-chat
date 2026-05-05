@@ -1,0 +1,18 @@
+{
+    "base": "two-thirds",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "two-thirds",
+    "n2": "two-thirdses",
+    "n3": "the two-thirds",
+    "n4": "the two-thirdses",
+    "n5": "two-thirds'",
+    "n6": "two-thirdses'",
+    "n7": "a two-thirds",
+    "n8": "many two-thirdses"
+}

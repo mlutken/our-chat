@@ -1,0 +1,18 @@
+{
+    "base": "cattleman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cattleman",
+    "n2": "cattlemen",
+    "n3": "the cattleman",
+    "n4": "the cattlemen",
+    "n5": "cattleman's",
+    "n6": "cattlemen's",
+    "n7": "a cattleman",
+    "n8": "many cattlemen"
+}

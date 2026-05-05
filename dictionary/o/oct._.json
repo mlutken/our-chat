@@ -1,0 +1,18 @@
+{
+    "base": "oct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "oct",
+    "n2": "octs",
+    "n3": "the oct",
+    "n4": "the octs",
+    "n5": "oct's",
+    "n6": "octs'",
+    "n7": "an oct",
+    "n8": "many octs"
+}

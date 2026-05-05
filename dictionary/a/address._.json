@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "address",
-    "n2": "address",
+    "n2": "addresses",
     "n3": "the address",
-    "n4": "the address",
-    "n5": "address's"
+    "n4": "the addresses",
+    "n5": "address'",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "addresses'",
+    "n7": "an address",
+    "n8": "many addresses"
 }

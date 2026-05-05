@@ -1,0 +1,18 @@
+{
+    "base": "rear end",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rear end",
+    "n2": "rear ends",
+    "n3": "the rear end",
+    "n4": "the rear ends",
+    "n5": "rear end's",
+    "n6": "rear ends'",
+    "n7": "a rear end",
+    "n8": "many rear ends"
+}

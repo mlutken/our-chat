@@ -1,0 +1,18 @@
+{
+    "base": "launcher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "launcher",
+    "n2": "launchers",
+    "n3": "the launcher",
+    "n4": "the launchers",
+    "n5": "launcher's",
+    "n6": "launchers'",
+    "n7": "a launcher",
+    "n8": "many launchers"
+}

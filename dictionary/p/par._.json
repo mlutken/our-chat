@@ -1,0 +1,18 @@
+{
+    "base": "par",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "par",
+    "n2": "pars",
+    "n3": "the par",
+    "n4": "the pars",
+    "n5": "par's",
+    "n6": "pars'",
+    "n7": "a par",
+    "n8": "many pars"
+}

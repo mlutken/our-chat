@@ -1,0 +1,18 @@
+{
+    "base": "peacock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "peacock",
+    "n2": "peacocks",
+    "n3": "the peacock",
+    "n4": "the peacocks",
+    "n5": "peacock's",
+    "n6": "peacocks'",
+    "n7": "a peacock",
+    "n8": "many peacocks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "citizen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "citizen",
+    "n2": "citizens",
+    "n3": "the citizen",
+    "n4": "the citizens",
+    "n5": "citizen's",
+    "n6": "citizens'",
+    "n7": "a citizen",
+    "n8": "many citizens"
+}

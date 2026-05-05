@@ -1,0 +1,18 @@
+{
+    "base": "half-moon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "half-moon",
+    "n2": "half-moons",
+    "n3": "the half-moon",
+    "n4": "the half-moons",
+    "n5": "half-moon's",
+    "n6": "half-moons'",
+    "n7": "a half-moon",
+    "n8": "many half-moons"
+}

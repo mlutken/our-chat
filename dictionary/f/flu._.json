@@ -1,0 +1,18 @@
+{
+    "base": "flu",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flu",
+    "n2": "flus",
+    "n3": "the flu",
+    "n4": "the flus",
+    "n5": "flu's",
+    "n6": "flus'",
+    "n7": "a flu",
+    "n8": "many flus"
+}

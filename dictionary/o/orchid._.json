@@ -1,0 +1,18 @@
+{
+    "base": "orchid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orchid",
+    "n2": "orchids",
+    "n3": "the orchid",
+    "n4": "the orchids",
+    "n5": "orchid's",
+    "n6": "orchids'",
+    "n7": "an orchid",
+    "n8": "many orchids"
+}

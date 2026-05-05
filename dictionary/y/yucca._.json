@@ -1,0 +1,18 @@
+{
+    "base": "yucca",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yucca",
+    "n2": "yuccas",
+    "n3": "the yucca",
+    "n4": "the yuccas",
+    "n5": "yucca's",
+    "n6": "yuccas'",
+    "n7": "a yucca",
+    "n8": "many yuccas"
+}

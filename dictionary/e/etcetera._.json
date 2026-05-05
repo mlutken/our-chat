@@ -1,0 +1,18 @@
+{
+    "base": "etcetera",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "etcetera",
+    "n2": "etceteras",
+    "n3": "the etcetera",
+    "n4": "the etceteras",
+    "n5": "etcetera's",
+    "n6": "etceteras'",
+    "n7": "an etcetera",
+    "n8": "many etceteras"
+}

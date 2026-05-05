@@ -1,0 +1,18 @@
+{
+    "base": "senora",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "senora",
+    "n2": "senoras",
+    "n3": "the senora",
+    "n4": "the senoras",
+    "n5": "senora's",
+    "n6": "senoras'",
+    "n7": "a senora",
+    "n8": "many senoras"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "chariot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chariot",
+    "n2": "chariots",
+    "n3": "the chariot",
+    "n4": "the chariots",
+    "n5": "chariot's",
+    "n6": "chariots'",
+    "n7": "a chariot",
+    "n8": "many chariots"
+}

@@ -1,11 +1,24 @@
 {
     "base": "delight",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "delight",
     "v2": "delighted",
     "v3": "delighted",
     "v4": "delighting",
-    "v5": "delights"
+    "v5": "delights",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "delight",
+    "n2": "delights",
+    "n3": "the delight",
+    "n4": "the delights",
+    "n5": "delight's",
+    "n6": "delights'",
+    "n7": "a delight",
+    "n8": "many delights"
 }

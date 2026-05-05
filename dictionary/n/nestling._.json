@@ -1,0 +1,18 @@
+{
+    "base": "nestling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nestling",
+    "n2": "nestlings",
+    "n3": "the nestling",
+    "n4": "the nestlings",
+    "n5": "nestling's",
+    "n6": "nestlings'",
+    "n7": "a nestling",
+    "n8": "many nestlings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "communion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "communion",
+    "n2": "communions",
+    "n3": "the communion",
+    "n4": "the communions",
+    "n5": "communion's",
+    "n6": "communions'",
+    "n7": "a communion",
+    "n8": "many communions"
+}

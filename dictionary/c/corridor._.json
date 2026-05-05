@@ -1,0 +1,18 @@
+{
+    "base": "corridor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "corridor",
+    "n2": "corridors",
+    "n3": "the corridor",
+    "n4": "the corridors",
+    "n5": "corridor's",
+    "n6": "corridors'",
+    "n7": "a corridor",
+    "n8": "many corridors"
+}

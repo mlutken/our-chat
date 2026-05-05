@@ -1,0 +1,18 @@
+{
+    "base": "prednisone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "prednisone",
+    "n2": "prednisones",
+    "n3": "the prednisone",
+    "n4": "the prednisones",
+    "n5": "prednisone's",
+    "n6": "prednisones'",
+    "n7": "a prednisone",
+    "n8": "many prednisones"
+}

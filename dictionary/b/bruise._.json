@@ -1,0 +1,18 @@
+{
+    "base": "bruise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bruise",
+    "n2": "bruises",
+    "n3": "the bruise",
+    "n4": "the bruises",
+    "n5": "bruise's",
+    "n6": "bruises'",
+    "n7": "a bruise",
+    "n8": "many bruises"
+}

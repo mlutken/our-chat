@@ -1,0 +1,18 @@
+{
+    "base": "bandage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bandage",
+    "n2": "bandages",
+    "n3": "the bandage",
+    "n4": "the bandages",
+    "n5": "bandage's",
+    "n6": "bandages'",
+    "n7": "a bandage",
+    "n8": "many bandages"
+}

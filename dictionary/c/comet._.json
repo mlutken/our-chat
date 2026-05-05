@@ -1,0 +1,18 @@
+{
+    "base": "comet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "comet",
+    "n2": "comets",
+    "n3": "the comet",
+    "n4": "the comets",
+    "n5": "comet's",
+    "n6": "comets'",
+    "n7": "a comet",
+    "n8": "many comets"
+}

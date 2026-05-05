@@ -1,0 +1,18 @@
+{
+    "base": "high temperature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "high temperature",
+    "n2": "high temperatures",
+    "n3": "the high temperature",
+    "n4": "the high temperatures",
+    "n5": "high temperature's",
+    "n6": "high temperatures'",
+    "n7": "a high temperature",
+    "n8": "many high temperatures"
+}

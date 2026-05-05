@@ -1,0 +1,18 @@
+{
+    "base": "double play",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "double play",
+    "n2": "double plays",
+    "n3": "the double play",
+    "n4": "the double plays",
+    "n5": "double play's",
+    "n6": "double plays'",
+    "n7": "a double play",
+    "n8": "many double plays"
+}

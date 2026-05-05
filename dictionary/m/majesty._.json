@@ -1,0 +1,18 @@
+{
+    "base": "majesty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "majesty",
+    "n2": "majesties",
+    "n3": "the majesty",
+    "n4": "the majesties",
+    "n5": "majesty's",
+    "n6": "majesties'",
+    "n7": "a majesty",
+    "n8": "many majesties"
+}

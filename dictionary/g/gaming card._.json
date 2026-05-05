@@ -1,0 +1,18 @@
+{
+    "base": "gaming card",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gaming card",
+    "n2": "gaming cards",
+    "n3": "the gaming card",
+    "n4": "the gaming cards",
+    "n5": "gaming card's",
+    "n6": "gaming cards'",
+    "n7": "a gaming card",
+    "n8": "many gaming cards"
+}

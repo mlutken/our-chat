@@ -7,5 +7,12 @@
     "n2": "dates",
     "n3": "the date",
     "n4": "the dates",
-    "n5": "date's"
+    "n5": "date's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "dates'",
+    "n7": "a date",
+    "n8": "many dates"
 }

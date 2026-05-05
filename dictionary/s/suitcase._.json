@@ -1,0 +1,18 @@
+{
+    "base": "suitcase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "suitcase",
+    "n2": "suitcases",
+    "n3": "the suitcase",
+    "n4": "the suitcases",
+    "n5": "suitcase's",
+    "n6": "suitcases'",
+    "n7": "a suitcase",
+    "n8": "many suitcases"
+}

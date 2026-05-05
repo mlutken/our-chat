@@ -1,0 +1,18 @@
+{
+    "base": "pontoon bridge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pontoon bridge",
+    "n2": "pontoon bridges",
+    "n3": "the pontoon bridge",
+    "n4": "the pontoon bridges",
+    "n5": "pontoon bridge's",
+    "n6": "pontoon bridges'",
+    "n7": "a pontoon bridge",
+    "n8": "many pontoon bridges"
+}

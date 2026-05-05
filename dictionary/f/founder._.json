@@ -7,5 +7,12 @@
     "n2": "founders",
     "n3": "the founder",
     "n4": "the founders",
-    "n5": "founder's"
+    "n5": "founder's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "founders'",
+    "n7": "a founder",
+    "n8": "many founders"
 }

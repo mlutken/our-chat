@@ -1,0 +1,18 @@
+{
+    "base": "compulsivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "compulsivity",
+    "n2": "compulsivities",
+    "n3": "the compulsivity",
+    "n4": "the compulsivities",
+    "n5": "compulsivity's",
+    "n6": "compulsivities'",
+    "n7": "a compulsivity",
+    "n8": "many compulsivities"
+}

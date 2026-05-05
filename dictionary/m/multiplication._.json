@@ -1,0 +1,18 @@
+{
+    "base": "multiplication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "multiplication",
+    "n2": "multiplications",
+    "n3": "the multiplication",
+    "n4": "the multiplications",
+    "n5": "multiplication's",
+    "n6": "multiplications'",
+    "n7": "a multiplication",
+    "n8": "many multiplications"
+}

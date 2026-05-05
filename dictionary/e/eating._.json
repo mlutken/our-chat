@@ -1,0 +1,18 @@
+{
+    "base": "eating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "eating",
+    "n2": "eatings",
+    "n3": "the eating",
+    "n4": "the eatings",
+    "n5": "eating's",
+    "n6": "eatings'",
+    "n7": "an eating",
+    "n8": "many eatings"
+}

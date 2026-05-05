@@ -1,0 +1,18 @@
+{
+    "base": "georgian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "georgian",
+    "n2": "georgians",
+    "n3": "the georgian",
+    "n4": "the georgians",
+    "n5": "georgian's",
+    "n6": "georgians'",
+    "n7": "a georgian",
+    "n8": "many georgians"
+}

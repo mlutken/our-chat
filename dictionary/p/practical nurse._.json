@@ -1,0 +1,18 @@
+{
+    "base": "practical nurse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "practical nurse",
+    "n2": "practical nurses",
+    "n3": "the practical nurse",
+    "n4": "the practical nurses",
+    "n5": "practical nurse's",
+    "n6": "practical nurses'",
+    "n7": "a practical nurse",
+    "n8": "many practical nurses"
+}

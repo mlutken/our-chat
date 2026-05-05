@@ -1,0 +1,18 @@
+{
+    "base": "constatation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "constatation",
+    "n2": "constatations",
+    "n3": "the constatation",
+    "n4": "the constatations",
+    "n5": "constatation's",
+    "n6": "constatations'",
+    "n7": "a constatation",
+    "n8": "many constatations"
+}

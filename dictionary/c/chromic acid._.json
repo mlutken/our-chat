@@ -1,0 +1,18 @@
+{
+    "base": "chromic acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chromic acid",
+    "n2": "chromic acids",
+    "n3": "the chromic acid",
+    "n4": "the chromic acids",
+    "n5": "chromic acid's",
+    "n6": "chromic acids'",
+    "n7": "a chromic acid",
+    "n8": "many chromic acids"
+}

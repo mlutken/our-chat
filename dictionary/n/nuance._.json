@@ -1,0 +1,18 @@
+{
+    "base": "nuance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nuance",
+    "n2": "nuances",
+    "n3": "the nuance",
+    "n4": "the nuances",
+    "n5": "nuance's",
+    "n6": "nuances'",
+    "n7": "a nuance",
+    "n8": "many nuances"
+}

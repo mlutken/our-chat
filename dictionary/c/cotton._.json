@@ -1,0 +1,18 @@
+{
+    "base": "cotton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "cotton",
+    "n2": "cottons",
+    "n3": "the cotton",
+    "n4": "the cottons",
+    "n5": "cotton's",
+    "n6": "cottons'",
+    "n7": "a cotton",
+    "n8": "many cottons"
+}

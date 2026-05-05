@@ -1,0 +1,18 @@
+{
+    "base": "dangling modifier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dangling modifier",
+    "n2": "dangling modifiers",
+    "n3": "the dangling modifier",
+    "n4": "the dangling modifiers",
+    "n5": "dangling modifier's",
+    "n6": "dangling modifiers'",
+    "n7": "a dangling modifier",
+    "n8": "many dangling modifiers"
+}

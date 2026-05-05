@@ -1,0 +1,18 @@
+{
+    "base": "blanket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "blanket",
+    "n2": "blankets",
+    "n3": "the blanket",
+    "n4": "the blankets",
+    "n5": "blanket's",
+    "n6": "blankets'",
+    "n7": "a blanket",
+    "n8": "many blankets"
+}

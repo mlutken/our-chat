@@ -1,0 +1,18 @@
+{
+    "base": "conductor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "conductor",
+    "n2": "conductors",
+    "n3": "the conductor",
+    "n4": "the conductors",
+    "n5": "conductor's",
+    "n6": "conductors'",
+    "n7": "a conductor",
+    "n8": "many conductors"
+}

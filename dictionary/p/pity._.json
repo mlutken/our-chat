@@ -1,0 +1,18 @@
+{
+    "base": "pity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "pity",
+    "n2": "pities",
+    "n3": "the pity",
+    "n4": "the pities",
+    "n5": "pity's",
+    "n6": "pities'",
+    "n7": "a pity",
+    "n8": "many pities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cotter pin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cotter pin",
+    "n2": "cotter pins",
+    "n3": "the cotter pin",
+    "n4": "the cotter pins",
+    "n5": "cotter pin's",
+    "n6": "cotter pins'",
+    "n7": "a cotter pin",
+    "n8": "many cotter pins"
+}

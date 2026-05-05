@@ -1,11 +1,24 @@
 {
     "base": "pack",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pack",
     "v2": "packed",
     "v3": "packed",
     "v4": "packing",
-    "v5": "packs"
+    "v5": "packs",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pack",
+    "n2": "packs",
+    "n3": "the pack",
+    "n4": "the packs",
+    "n5": "pack's",
+    "n6": "packs'",
+    "n7": "a pack",
+    "n8": "many packs"
 }

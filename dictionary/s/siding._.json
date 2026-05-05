@@ -1,0 +1,18 @@
+{
+    "base": "siding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "siding",
+    "n2": "sidings",
+    "n3": "the siding",
+    "n4": "the sidings",
+    "n5": "siding's",
+    "n6": "sidings'",
+    "n7": "a siding",
+    "n8": "many sidings"
+}

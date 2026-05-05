@@ -1,0 +1,18 @@
+{
+    "base": "confines",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confines",
+    "n2": "confineses",
+    "n3": "the confines",
+    "n4": "the confineses",
+    "n5": "confines'",
+    "n6": "confineses'",
+    "n7": "a confines",
+    "n8": "many confineses"
+}

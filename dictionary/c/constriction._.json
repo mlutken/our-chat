@@ -1,0 +1,18 @@
+{
+    "base": "constriction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "constriction",
+    "n2": "constrictions",
+    "n3": "the constriction",
+    "n4": "the constrictions",
+    "n5": "constriction's",
+    "n6": "constrictions'",
+    "n7": "a constriction",
+    "n8": "many constrictions"
+}

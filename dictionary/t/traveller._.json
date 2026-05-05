@@ -1,0 +1,18 @@
+{
+    "base": "traveller",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "traveller",
+    "n2": "travellers",
+    "n3": "the traveller",
+    "n4": "the travellers",
+    "n5": "traveller's",
+    "n6": "travellers'",
+    "n7": "a traveller",
+    "n8": "many travellers"
+}

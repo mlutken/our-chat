@@ -1,0 +1,18 @@
+{
+    "base": "specter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "specter",
+    "n2": "specters",
+    "n3": "the specter",
+    "n4": "the specters",
+    "n5": "specter's",
+    "n6": "specters'",
+    "n7": "a specter",
+    "n8": "many specters"
+}

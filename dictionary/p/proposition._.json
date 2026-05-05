@@ -1,0 +1,18 @@
+{
+    "base": "proposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "proposition",
+    "n2": "propositions",
+    "n3": "the proposition",
+    "n4": "the propositions",
+    "n5": "proposition's",
+    "n6": "propositions'",
+    "n7": "a proposition",
+    "n8": "many propositions"
+}

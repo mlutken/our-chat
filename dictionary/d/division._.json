@@ -1,0 +1,18 @@
+{
+    "base": "division",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "division",
+    "n2": "divisions",
+    "n3": "the division",
+    "n4": "the divisions",
+    "n5": "division's",
+    "n6": "divisions'",
+    "n7": "a division",
+    "n8": "many divisions"
+}

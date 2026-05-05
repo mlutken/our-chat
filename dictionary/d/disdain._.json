@@ -1,0 +1,18 @@
+{
+    "base": "disdain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disdain",
+    "n2": "disdains",
+    "n3": "the disdain",
+    "n4": "the disdains",
+    "n5": "disdain's",
+    "n6": "disdains'",
+    "n7": "a disdain",
+    "n8": "many disdains"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "infirmary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infirmary",
+    "n2": "infirmaries",
+    "n3": "the infirmary",
+    "n4": "the infirmaries",
+    "n5": "infirmary's",
+    "n6": "infirmaries'",
+    "n7": "an infirmary",
+    "n8": "many infirmaries"
+}

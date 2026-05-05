@@ -1,0 +1,18 @@
+{
+    "base": "vegetation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vegetation",
+    "n2": "vegetations",
+    "n3": "the vegetation",
+    "n4": "the vegetations",
+    "n5": "vegetation's",
+    "n6": "vegetations'",
+    "n7": "a vegetation",
+    "n8": "many vegetations"
+}

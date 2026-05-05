@@ -1,0 +1,18 @@
+{
+    "base": "lamb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "lamb",
+    "n2": "lambs",
+    "n3": "the lamb",
+    "n4": "the lambs",
+    "n5": "lamb's",
+    "n6": "lambs'",
+    "n7": "a lamb",
+    "n8": "many lambs"
+}

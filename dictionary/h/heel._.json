@@ -1,0 +1,18 @@
+{
+    "base": "heel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "heel",
+    "n2": "heels",
+    "n3": "the heel",
+    "n4": "the heels",
+    "n5": "heel's",
+    "n6": "heels'",
+    "n7": "a heel",
+    "n8": "many heels"
+}

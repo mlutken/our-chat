@@ -1,0 +1,18 @@
+{
+    "base": "corticotropin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corticotropin",
+    "n2": "corticotropins",
+    "n3": "the corticotropin",
+    "n4": "the corticotropins",
+    "n5": "corticotropin's",
+    "n6": "corticotropins'",
+    "n7": "a corticotropin",
+    "n8": "many corticotropins"
+}

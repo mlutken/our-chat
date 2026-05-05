@@ -1,0 +1,18 @@
+{
+    "base": "reef",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reef",
+    "n2": "reeves",
+    "n3": "the reef",
+    "n4": "the reeves",
+    "n5": "reef's",
+    "n6": "reeves'",
+    "n7": "a reef",
+    "n8": "many reeves"
+}

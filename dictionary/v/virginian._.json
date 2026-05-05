@@ -1,0 +1,18 @@
+{
+    "base": "virginian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "virginian",
+    "n2": "virginians",
+    "n3": "the virginian",
+    "n4": "the virginians",
+    "n5": "virginian's",
+    "n6": "virginians'",
+    "n7": "a virginian",
+    "n8": "many virginians"
+}

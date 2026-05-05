@@ -1,0 +1,18 @@
+{
+    "base": "souvenir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "souvenir",
+    "n2": "souvenirs",
+    "n3": "the souvenir",
+    "n4": "the souvenirs",
+    "n5": "souvenir's",
+    "n6": "souvenirs'",
+    "n7": "a souvenir",
+    "n8": "many souvenirs"
+}

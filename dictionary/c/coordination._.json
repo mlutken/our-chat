@@ -1,0 +1,18 @@
+{
+    "base": "coordination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coordination",
+    "n2": "coordinations",
+    "n3": "the coordination",
+    "n4": "the coordinations",
+    "n5": "coordination's",
+    "n6": "coordinations'",
+    "n7": "a coordination",
+    "n8": "many coordinations"
+}

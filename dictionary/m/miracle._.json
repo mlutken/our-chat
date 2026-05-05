@@ -1,0 +1,18 @@
+{
+    "base": "miracle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "miracle",
+    "n2": "miracles",
+    "n3": "the miracle",
+    "n4": "the miracles",
+    "n5": "miracle's",
+    "n6": "miracles'",
+    "n7": "a miracle",
+    "n8": "many miracles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rafter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rafter",
+    "n2": "rafters",
+    "n3": "the rafter",
+    "n4": "the rafters",
+    "n5": "rafter's",
+    "n6": "rafters'",
+    "n7": "a rafter",
+    "n8": "many rafters"
+}

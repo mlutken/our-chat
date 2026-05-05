@@ -1,0 +1,18 @@
+{
+    "base": "edition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "edition",
+    "n2": "editions",
+    "n3": "the edition",
+    "n4": "the editions",
+    "n5": "edition's",
+    "n6": "editions'",
+    "n7": "an edition",
+    "n8": "many editions"
+}

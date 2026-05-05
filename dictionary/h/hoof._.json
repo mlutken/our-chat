@@ -7,5 +7,12 @@
     "n2": "hooves",
     "n3": "the hoof",
     "n4": "the hooves",
-    "n5": "hoof's"
+    "n5": "hoof's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "hooves'",
+    "n7": "a hoof",
+    "n8": "many hooves"
 }

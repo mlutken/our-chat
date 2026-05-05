@@ -7,5 +7,12 @@
     "n2": "sirs",
     "n3": "the sir",
     "n4": "the sirs",
-    "n5": "sir's"
+    "n5": "sir's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "sirs'",
+    "n7": "a sir",
+    "n8": "many sirs"
 }

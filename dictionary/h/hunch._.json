@@ -1,0 +1,18 @@
+{
+    "base": "hunch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "hunch",
+    "n2": "hunches",
+    "n3": "the hunch",
+    "n4": "the hunches",
+    "n5": "hunch's",
+    "n6": "hunches'",
+    "n7": "a hunch",
+    "n8": "many hunches"
+}

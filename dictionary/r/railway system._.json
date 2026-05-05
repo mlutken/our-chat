@@ -1,0 +1,18 @@
+{
+    "base": "railway system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "railway system",
+    "n2": "railway systems",
+    "n3": "the railway system",
+    "n4": "the railway systems",
+    "n5": "railway system's",
+    "n6": "railway systems'",
+    "n7": "a railway system",
+    "n8": "many railway systems"
+}

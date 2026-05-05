@@ -1,0 +1,18 @@
+{
+    "base": "disrepute",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disrepute",
+    "n2": "disreputes",
+    "n3": "the disrepute",
+    "n4": "the disreputes",
+    "n5": "disrepute's",
+    "n6": "disreputes'",
+    "n7": "a disrepute",
+    "n8": "many disreputes"
+}

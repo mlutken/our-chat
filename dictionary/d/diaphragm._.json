@@ -1,0 +1,18 @@
+{
+    "base": "diaphragm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "diaphragm",
+    "n2": "diaphragms",
+    "n3": "the diaphragm",
+    "n4": "the diaphragms",
+    "n5": "diaphragm's",
+    "n6": "diaphragms'",
+    "n7": "a diaphragm",
+    "n8": "many diaphragms"
+}

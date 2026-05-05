@@ -1,0 +1,18 @@
+{
+    "base": "bacteria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bacteria",
+    "n2": "bacterias",
+    "n3": "the bacteria",
+    "n4": "the bacterias",
+    "n5": "bacteria's",
+    "n6": "bacterias'",
+    "n7": "a bacteria",
+    "n8": "many bacterias"
+}

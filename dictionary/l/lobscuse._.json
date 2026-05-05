@@ -1,0 +1,18 @@
+{
+    "base": "lobscuse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lobscuse",
+    "n2": "lobscuses",
+    "n3": "the lobscuse",
+    "n4": "the lobscuses",
+    "n5": "lobscuse's",
+    "n6": "lobscuses'",
+    "n7": "a lobscuse",
+    "n8": "many lobscuses"
+}

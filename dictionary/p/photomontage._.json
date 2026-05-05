@@ -1,0 +1,18 @@
+{
+    "base": "photomontage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "photomontage",
+    "n2": "photomontages",
+    "n3": "the photomontage",
+    "n4": "the photomontages",
+    "n5": "photomontage's",
+    "n6": "photomontages'",
+    "n7": "a photomontage",
+    "n8": "many photomontages"
+}

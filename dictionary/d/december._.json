@@ -1,0 +1,18 @@
+{
+    "base": "december",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "december",
+    "n2": "decembers",
+    "n3": "the december",
+    "n4": "the decembers",
+    "n5": "december's",
+    "n6": "decembers'",
+    "n7": "a december",
+    "n8": "many decembers"
+}

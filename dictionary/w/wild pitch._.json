@@ -1,0 +1,18 @@
+{
+    "base": "wild pitch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wild pitch",
+    "n2": "wild pitches",
+    "n3": "the wild pitch",
+    "n4": "the wild pitches",
+    "n5": "wild pitch's",
+    "n6": "wild pitches'",
+    "n7": "a wild pitch",
+    "n8": "many wild pitches"
+}

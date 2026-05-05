@@ -1,0 +1,18 @@
+{
+    "base": "rumen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rumen",
+    "n2": "rumina",
+    "n3": "the rumen",
+    "n4": "the rumina",
+    "n5": "rumen's",
+    "n6": "rumina's",
+    "n7": "a rumen",
+    "n8": "many rumina"
+}

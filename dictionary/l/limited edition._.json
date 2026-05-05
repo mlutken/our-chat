@@ -1,0 +1,18 @@
+{
+    "base": "limited edition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "limited edition",
+    "n2": "limited editions",
+    "n3": "the limited edition",
+    "n4": "the limited editions",
+    "n5": "limited edition's",
+    "n6": "limited editions'",
+    "n7": "a limited edition",
+    "n8": "many limited editions"
+}

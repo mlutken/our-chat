@@ -1,0 +1,18 @@
+{
+    "base": "prometheus",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prometheus",
+    "n2": "prometheuses",
+    "n3": "the prometheus",
+    "n4": "the prometheuses",
+    "n5": "prometheus'",
+    "n6": "prometheuses'",
+    "n7": "a prometheus",
+    "n8": "many prometheuses"
+}

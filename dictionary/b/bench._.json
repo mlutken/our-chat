@@ -1,0 +1,18 @@
+{
+    "base": "bench",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "bench",
+    "n2": "benches",
+    "n3": "the bench",
+    "n4": "the benches",
+    "n5": "bench's",
+    "n6": "benches'",
+    "n7": "a bench",
+    "n8": "many benches"
+}

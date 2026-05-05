@@ -1,0 +1,18 @@
+{
+    "base": "phraseology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phraseology",
+    "n2": "phraseologies",
+    "n3": "the phraseology",
+    "n4": "the phraseologies",
+    "n5": "phraseology's",
+    "n6": "phraseologies'",
+    "n7": "a phraseology",
+    "n8": "many phraseologies"
+}

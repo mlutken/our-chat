@@ -1,0 +1,18 @@
+{
+    "base": "stem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "stem",
+    "n2": "stems",
+    "n3": "the stem",
+    "n4": "the stems",
+    "n5": "stem's",
+    "n6": "stems'",
+    "n7": "a stem",
+    "n8": "many stems"
+}

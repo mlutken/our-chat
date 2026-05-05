@@ -1,0 +1,18 @@
+{
+    "base": "stage direction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stage direction",
+    "n2": "stage directions",
+    "n3": "the stage direction",
+    "n4": "the stage directions",
+    "n5": "stage direction's",
+    "n6": "stage directions'",
+    "n7": "a stage direction",
+    "n8": "many stage directions"
+}

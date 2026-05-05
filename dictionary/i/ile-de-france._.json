@@ -1,0 +1,18 @@
+{
+    "base": "ile-de-france",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ile-de-france",
+    "n2": "ile-de-frances",
+    "n3": "the ile-de-france",
+    "n4": "the ile-de-frances",
+    "n5": "ile-de-france's",
+    "n6": "ile-de-frances'",
+    "n7": "an ile-de-france",
+    "n8": "many ile-de-frances"
+}

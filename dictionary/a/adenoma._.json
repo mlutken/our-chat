@@ -1,0 +1,18 @@
+{
+    "base": "adenoma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adenoma",
+    "n2": "adenomata",
+    "n3": "the adenoma",
+    "n4": "the adenomata",
+    "n5": "adenoma's",
+    "n6": "adenomata's",
+    "n7": "an adenoma",
+    "n8": "many adenomata"
+}

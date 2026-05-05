@@ -1,0 +1,18 @@
+{
+    "base": "wildness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wildness",
+    "n2": "wildnesses",
+    "n3": "the wildness",
+    "n4": "the wildnesses",
+    "n5": "wildness'",
+    "n6": "wildnesses'",
+    "n7": "a wildness",
+    "n8": "many wildnesses"
+}

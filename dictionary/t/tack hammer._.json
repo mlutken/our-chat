@@ -1,0 +1,18 @@
+{
+    "base": "tack hammer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tack hammer",
+    "n2": "tack hammers",
+    "n3": "the tack hammer",
+    "n4": "the tack hammers",
+    "n5": "tack hammer's",
+    "n6": "tack hammers'",
+    "n7": "a tack hammer",
+    "n8": "many tack hammers"
+}

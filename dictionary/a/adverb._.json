@@ -1,0 +1,18 @@
+{
+    "base": "adverb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "adverb",
+    "n2": "adverbs",
+    "n3": "the adverb",
+    "n4": "the adverbs",
+    "n5": "adverb's",
+    "n6": "adverbs'",
+    "n7": "an adverb",
+    "n8": "many adverbs"
+}

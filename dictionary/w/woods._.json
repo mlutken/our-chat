@@ -1,0 +1,18 @@
+{
+    "base": "woods",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n1": "woods",
+    "n2": "woodses",
+    "n3": "the woods",
+    "n4": "the woodses",
+    "n5": "woods'",
+    "n6": "woodses'",
+    "n7": "a woods",
+    "n8": "many woodses"
+}

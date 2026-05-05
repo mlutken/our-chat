@@ -1,0 +1,18 @@
+{
+    "base": "crouch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "crouch",
+    "n2": "crouches",
+    "n3": "the crouch",
+    "n4": "the crouches",
+    "n5": "crouch's",
+    "n6": "crouches'",
+    "n7": "a crouch",
+    "n8": "many crouches"
+}

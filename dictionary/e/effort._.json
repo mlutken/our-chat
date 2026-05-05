@@ -7,5 +7,12 @@
     "n2": "efforts",
     "n3": "the effort",
     "n4": "the efforts",
-    "n5": "effort's"
+    "n5": "effort's",
+    "proper": false,
+    "commonness": 98,
+    "max_commonness": 6834,
+    "commonness_ge_count": 123,
+    "n6": "efforts'",
+    "n7": "an effort",
+    "n8": "many efforts"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "buffer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "buffer",
+    "n2": "buffers",
+    "n3": "the buffer",
+    "n4": "the buffers",
+    "n5": "buffer's",
+    "n6": "buffers'",
+    "n7": "a buffer",
+    "n8": "many buffers"
+}

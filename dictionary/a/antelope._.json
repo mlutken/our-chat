@@ -1,0 +1,18 @@
+{
+    "base": "antelope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "antelope",
+    "n2": "antelopes",
+    "n3": "the antelope",
+    "n4": "the antelopes",
+    "n5": "antelope's",
+    "n6": "antelopes'",
+    "n7": "an antelope",
+    "n8": "many antelopes"
+}

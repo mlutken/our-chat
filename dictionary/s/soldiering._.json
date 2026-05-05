@@ -1,0 +1,18 @@
+{
+    "base": "soldiering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soldiering",
+    "n2": "soldierings",
+    "n3": "the soldiering",
+    "n4": "the soldierings",
+    "n5": "soldiering's",
+    "n6": "soldierings'",
+    "n7": "a soldiering",
+    "n8": "many soldierings"
+}

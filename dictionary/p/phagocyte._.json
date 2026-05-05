@@ -1,0 +1,18 @@
+{
+    "base": "phagocyte",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phagocyte",
+    "n2": "phagocytes",
+    "n3": "the phagocyte",
+    "n4": "the phagocytes",
+    "n5": "phagocyte's",
+    "n6": "phagocytes'",
+    "n7": "a phagocyte",
+    "n8": "many phagocytes"
+}

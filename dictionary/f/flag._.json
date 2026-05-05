@@ -1,0 +1,18 @@
+{
+    "base": "flag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "flag",
+    "n2": "flags",
+    "n3": "the flag",
+    "n4": "the flags",
+    "n5": "flag's",
+    "n6": "flags'",
+    "n7": "a flag",
+    "n8": "many flags"
+}

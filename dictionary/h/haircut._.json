@@ -1,0 +1,18 @@
+{
+    "base": "haircut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "haircut",
+    "n2": "haircuts",
+    "n3": "the haircut",
+    "n4": "the haircuts",
+    "n5": "haircut's",
+    "n6": "haircuts'",
+    "n7": "a haircut",
+    "n8": "many haircuts"
+}

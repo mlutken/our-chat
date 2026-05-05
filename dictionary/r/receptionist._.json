@@ -1,0 +1,18 @@
+{
+    "base": "receptionist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "receptionist",
+    "n2": "receptionists",
+    "n3": "the receptionist",
+    "n4": "the receptionists",
+    "n5": "receptionist's",
+    "n6": "receptionists'",
+    "n7": "a receptionist",
+    "n8": "many receptionists"
+}

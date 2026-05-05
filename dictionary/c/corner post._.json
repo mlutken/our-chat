@@ -1,0 +1,18 @@
+{
+    "base": "corner post",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corner post",
+    "n2": "corner posts",
+    "n3": "the corner post",
+    "n4": "the corner posts",
+    "n5": "corner post's",
+    "n6": "corner posts'",
+    "n7": "a corner post",
+    "n8": "many corner posts"
+}

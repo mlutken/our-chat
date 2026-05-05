@@ -1,0 +1,18 @@
+{
+    "base": "con game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "con game",
+    "n2": "con games",
+    "n3": "the con game",
+    "n4": "the con games",
+    "n5": "con game's",
+    "n6": "con games'",
+    "n7": "a con game",
+    "n8": "many con games"
+}

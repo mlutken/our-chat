@@ -1,0 +1,18 @@
+{
+    "base": "waterproofing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waterproofing",
+    "n2": "waterproofings",
+    "n3": "the waterproofing",
+    "n4": "the waterproofings",
+    "n5": "waterproofing's",
+    "n6": "waterproofings'",
+    "n7": "a waterproofing",
+    "n8": "many waterproofings"
+}

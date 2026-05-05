@@ -1,0 +1,18 @@
+{
+    "base": "bewilderment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bewilderment",
+    "n2": "bewilderments",
+    "n3": "the bewilderment",
+    "n4": "the bewilderments",
+    "n5": "bewilderment's",
+    "n6": "bewilderments'",
+    "n7": "a bewilderment",
+    "n8": "many bewilderments"
+}

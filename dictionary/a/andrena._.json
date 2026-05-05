@@ -1,0 +1,18 @@
+{
+    "base": "andrena",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "andrena",
+    "n2": "andrenas",
+    "n3": "the andrena",
+    "n4": "the andrenas",
+    "n5": "andrena's",
+    "n6": "andrenas'",
+    "n7": "an andrena",
+    "n8": "many andrenas"
+}

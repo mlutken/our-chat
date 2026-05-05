@@ -1,0 +1,18 @@
+{
+    "base": "similitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "similitude",
+    "n2": "similitudes",
+    "n3": "the similitude",
+    "n4": "the similitudes",
+    "n5": "similitude's",
+    "n6": "similitudes'",
+    "n7": "a similitude",
+    "n8": "many similitudes"
+}

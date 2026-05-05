@@ -1,0 +1,18 @@
+{
+    "base": "tollhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tollhouse",
+    "n2": "tollhouses",
+    "n3": "the tollhouse",
+    "n4": "the tollhouses",
+    "n5": "tollhouse's",
+    "n6": "tollhouses'",
+    "n7": "a tollhouse",
+    "n8": "many tollhouses"
+}

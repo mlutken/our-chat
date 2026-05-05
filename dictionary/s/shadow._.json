@@ -1,0 +1,18 @@
+{
+    "base": "shadow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "shadow",
+    "n2": "shadows",
+    "n3": "the shadow",
+    "n4": "the shadows",
+    "n5": "shadow's",
+    "n6": "shadows'",
+    "n7": "a shadow",
+    "n8": "many shadows"
+}

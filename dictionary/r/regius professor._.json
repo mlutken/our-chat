@@ -1,0 +1,18 @@
+{
+    "base": "regius professor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "regius professor",
+    "n2": "regius professors",
+    "n3": "the regius professor",
+    "n4": "the regius professors",
+    "n5": "regius professor's",
+    "n6": "regius professors'",
+    "n7": "a regius professor",
+    "n8": "many regius professors"
+}

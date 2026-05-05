@@ -1,9 +1,22 @@
 {
     "base": "gray",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "gray",
     "adj2": "grayer",
-    "adj3": "grayest"
+    "adj3": "grayest",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "gray",
+    "n2": "grays",
+    "n3": "the gray",
+    "n4": "the grays",
+    "n5": "gray's",
+    "n6": "grays'",
+    "n7": "a gray",
+    "n8": "many grays"
 }

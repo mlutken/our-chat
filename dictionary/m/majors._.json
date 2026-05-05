@@ -1,0 +1,18 @@
+{
+    "base": "majors",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "majors",
+    "n2": "majorses",
+    "n3": "the majors",
+    "n4": "the majorses",
+    "n5": "majors'",
+    "n6": "majorses'",
+    "n7": "a majors",
+    "n8": "many majorses"
+}

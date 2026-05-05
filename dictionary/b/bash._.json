@@ -1,0 +1,18 @@
+{
+    "base": "bash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bash",
+    "n2": "bashes",
+    "n3": "the bash",
+    "n4": "the bashes",
+    "n5": "bash's",
+    "n6": "bashes'",
+    "n7": "a bash",
+    "n8": "many bashes"
+}

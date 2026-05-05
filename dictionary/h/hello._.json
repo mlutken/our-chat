@@ -1,0 +1,18 @@
+{
+    "base": "hello",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hello",
+    "n2": "hellos",
+    "n3": "the hello",
+    "n4": "the hellos",
+    "n5": "hello's",
+    "n6": "hellos'",
+    "n7": "a hello",
+    "n8": "many hellos"
+}

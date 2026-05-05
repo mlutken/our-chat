@@ -1,0 +1,18 @@
+{
+    "base": "sinner",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "sinner",
+    "n2": "sinners",
+    "n3": "the sinner",
+    "n4": "the sinners",
+    "n5": "sinner's",
+    "n6": "sinners'",
+    "n7": "a sinner",
+    "n8": "many sinners"
+}

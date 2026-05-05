@@ -1,0 +1,18 @@
+{
+    "base": "movie camera",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "movie camera",
+    "n2": "movie cameras",
+    "n3": "the movie camera",
+    "n4": "the movie cameras",
+    "n5": "movie camera's",
+    "n6": "movie cameras'",
+    "n7": "a movie camera",
+    "n8": "many movie cameras"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "marrowbone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marrowbone",
+    "n2": "marrowbones",
+    "n3": "the marrowbone",
+    "n4": "the marrowbones",
+    "n5": "marrowbone's",
+    "n6": "marrowbones'",
+    "n7": "a marrowbone",
+    "n8": "many marrowbones"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "victory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n1": "victory",
+    "n2": "victories",
+    "n3": "the victory",
+    "n4": "the victories",
+    "n5": "victory's",
+    "n6": "victories'",
+    "n7": "a victory",
+    "n8": "many victories"
+}

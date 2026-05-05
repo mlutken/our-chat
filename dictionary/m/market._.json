@@ -7,5 +7,12 @@
     "n2": "markets",
     "n3": "the market",
     "n4": "the markets",
-    "n5": "market's"
+    "n5": "market's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "markets'",
+    "n7": "a market",
+    "n8": "many markets"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "shipbuilding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shipbuilding",
+    "n2": "shipbuildings",
+    "n3": "the shipbuilding",
+    "n4": "the shipbuildings",
+    "n5": "shipbuilding's",
+    "n6": "shipbuildings'",
+    "n7": "a shipbuilding",
+    "n8": "many shipbuildings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "percussive instrument",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "percussive instrument",
+    "n2": "percussive instruments",
+    "n3": "the percussive instrument",
+    "n4": "the percussive instruments",
+    "n5": "percussive instrument's",
+    "n6": "percussive instruments'",
+    "n7": "a percussive instrument",
+    "n8": "many percussive instruments"
+}

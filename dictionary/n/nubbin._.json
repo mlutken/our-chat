@@ -1,0 +1,18 @@
+{
+    "base": "nubbin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nubbin",
+    "n2": "nubbins",
+    "n3": "the nubbin",
+    "n4": "the nubbins",
+    "n5": "nubbin's",
+    "n6": "nubbins'",
+    "n7": "a nubbin",
+    "n8": "many nubbins"
+}

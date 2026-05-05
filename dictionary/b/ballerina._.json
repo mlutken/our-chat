@@ -1,0 +1,18 @@
+{
+    "base": "ballerina",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ballerina",
+    "n2": "ballerinas",
+    "n3": "the ballerina",
+    "n4": "the ballerinas",
+    "n5": "ballerina's",
+    "n6": "ballerinas'",
+    "n7": "a ballerina",
+    "n8": "many ballerinas"
+}

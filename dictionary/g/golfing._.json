@@ -1,0 +1,18 @@
+{
+    "base": "golfing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "golfing",
+    "n2": "golfings",
+    "n3": "the golfing",
+    "n4": "the golfings",
+    "n5": "golfing's",
+    "n6": "golfings'",
+    "n7": "a golfing",
+    "n8": "many golfings"
+}

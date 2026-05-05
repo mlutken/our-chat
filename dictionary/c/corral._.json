@@ -1,0 +1,18 @@
+{
+    "base": "corral",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "corral",
+    "n2": "corrals",
+    "n3": "the corral",
+    "n4": "the corrals",
+    "n5": "corral's",
+    "n6": "corrals'",
+    "n7": "a corral",
+    "n8": "many corrals"
+}

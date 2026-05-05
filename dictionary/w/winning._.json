@@ -7,5 +7,12 @@
     "n2": "winnings",
     "n3": "the winning",
     "n4": "the winnings",
-    "n5": "winning's"
+    "n5": "winning's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "winnings'",
+    "n7": "a winning",
+    "n8": "many winnings"
 }

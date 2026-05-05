@@ -1,0 +1,18 @@
+{
+    "base": "territory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "territory",
+    "n2": "territories",
+    "n3": "the territory",
+    "n4": "the territories",
+    "n5": "territory's",
+    "n6": "territories'",
+    "n7": "a territory",
+    "n8": "many territories"
+}

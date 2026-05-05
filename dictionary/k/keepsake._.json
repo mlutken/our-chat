@@ -1,0 +1,18 @@
+{
+    "base": "keepsake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "keepsake",
+    "n2": "keepsakes",
+    "n3": "the keepsake",
+    "n4": "the keepsakes",
+    "n5": "keepsake's",
+    "n6": "keepsakes'",
+    "n7": "a keepsake",
+    "n8": "many keepsakes"
+}

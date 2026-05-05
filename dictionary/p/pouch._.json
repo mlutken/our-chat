@@ -1,0 +1,18 @@
+{
+    "base": "pouch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pouch",
+    "n2": "pouches",
+    "n3": "the pouch",
+    "n4": "the pouches",
+    "n5": "pouch's",
+    "n6": "pouches'",
+    "n7": "a pouch",
+    "n8": "many pouches"
+}

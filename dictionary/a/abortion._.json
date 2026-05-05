@@ -1,0 +1,18 @@
+{
+    "base": "abortion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "abortion",
+    "n2": "abortions",
+    "n3": "the abortion",
+    "n4": "the abortions",
+    "n5": "abortion's",
+    "n6": "abortions'",
+    "n7": "an abortion",
+    "n8": "many abortions"
+}

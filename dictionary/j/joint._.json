@@ -1,0 +1,18 @@
+{
+    "base": "joint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "joint",
+    "n2": "joints",
+    "n3": "the joint",
+    "n4": "the joints",
+    "n5": "joint's",
+    "n6": "joints'",
+    "n7": "a joint",
+    "n8": "many joints"
+}

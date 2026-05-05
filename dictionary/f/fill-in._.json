@@ -1,0 +1,18 @@
+{
+    "base": "fill-in",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fill-in",
+    "n2": "fill-ins",
+    "n3": "the fill-in",
+    "n4": "the fill-ins",
+    "n5": "fill-in's",
+    "n6": "fill-ins'",
+    "n7": "a fill-in",
+    "n8": "many fill-ins"
+}

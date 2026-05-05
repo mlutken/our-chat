@@ -1,0 +1,18 @@
+{
+    "base": "pastel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pastel",
+    "n2": "pastels",
+    "n3": "the pastel",
+    "n4": "the pastels",
+    "n5": "pastel's",
+    "n6": "pastels'",
+    "n7": "a pastel",
+    "n8": "many pastels"
+}

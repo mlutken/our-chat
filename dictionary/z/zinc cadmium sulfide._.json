@@ -1,0 +1,18 @@
+{
+    "base": "zinc cadmium sulfide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zinc cadmium sulfide",
+    "n2": "zinc cadmium sulfides",
+    "n3": "the zinc cadmium sulfide",
+    "n4": "the zinc cadmium sulfides",
+    "n5": "zinc cadmium sulfide's",
+    "n6": "zinc cadmium sulfides'",
+    "n7": "a zinc cadmium sulfide",
+    "n8": "many zinc cadmium sulfides"
+}

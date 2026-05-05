@@ -1,0 +1,18 @@
+{
+    "base": "flour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flour",
+    "n2": "flours",
+    "n3": "the flour",
+    "n4": "the flours",
+    "n5": "flour's",
+    "n6": "flours'",
+    "n7": "a flour",
+    "n8": "many flours"
+}

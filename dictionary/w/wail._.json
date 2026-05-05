@@ -1,0 +1,18 @@
+{
+    "base": "wail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wail",
+    "n2": "wails",
+    "n3": "the wail",
+    "n4": "the wails",
+    "n5": "wail's",
+    "n6": "wails'",
+    "n7": "a wail",
+    "n8": "many wails"
+}

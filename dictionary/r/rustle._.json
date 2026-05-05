@@ -1,0 +1,18 @@
+{
+    "base": "rustle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rustle",
+    "n2": "rustles",
+    "n3": "the rustle",
+    "n4": "the rustles",
+    "n5": "rustle's",
+    "n6": "rustles'",
+    "n7": "a rustle",
+    "n8": "many rustles"
+}

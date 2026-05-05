@@ -1,0 +1,18 @@
+{
+    "base": "learned reaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "learned reaction",
+    "n2": "learned reactions",
+    "n3": "the learned reaction",
+    "n4": "the learned reactions",
+    "n5": "learned reaction's",
+    "n6": "learned reactions'",
+    "n7": "a learned reaction",
+    "n8": "many learned reactions"
+}

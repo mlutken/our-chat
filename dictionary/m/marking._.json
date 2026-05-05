@@ -1,0 +1,18 @@
+{
+    "base": "marking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "marking",
+    "n2": "markings",
+    "n3": "the marking",
+    "n4": "the markings",
+    "n5": "marking's",
+    "n6": "markings'",
+    "n7": "a marking",
+    "n8": "many markings"
+}

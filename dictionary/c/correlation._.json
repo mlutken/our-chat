@@ -1,0 +1,18 @@
+{
+    "base": "correlation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "correlation",
+    "n2": "correlations",
+    "n3": "the correlation",
+    "n4": "the correlations",
+    "n5": "correlation's",
+    "n6": "correlations'",
+    "n7": "a correlation",
+    "n8": "many correlations"
+}

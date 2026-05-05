@@ -1,0 +1,18 @@
+{
+    "base": "irruption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "irruption",
+    "n2": "irruptions",
+    "n3": "the irruption",
+    "n4": "the irruptions",
+    "n5": "irruption's",
+    "n6": "irruptions'",
+    "n7": "an irruption",
+    "n8": "many irruptions"
+}

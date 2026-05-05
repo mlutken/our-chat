@@ -1,0 +1,18 @@
+{
+    "base": "obliteration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "obliteration",
+    "n2": "obliterations",
+    "n3": "the obliteration",
+    "n4": "the obliterations",
+    "n5": "obliteration's",
+    "n6": "obliterations'",
+    "n7": "an obliteration",
+    "n8": "many obliterations"
+}

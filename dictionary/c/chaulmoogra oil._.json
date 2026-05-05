@@ -1,0 +1,18 @@
+{
+    "base": "chaulmoogra oil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chaulmoogra oil",
+    "n2": "chaulmoogra oils",
+    "n3": "the chaulmoogra oil",
+    "n4": "the chaulmoogra oils",
+    "n5": "chaulmoogra oil's",
+    "n6": "chaulmoogra oils'",
+    "n7": "a chaulmoogra oil",
+    "n8": "many chaulmoogra oils"
+}

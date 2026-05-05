@@ -1,0 +1,18 @@
+{
+    "base": "celebrant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "celebrant",
+    "n2": "celebrants",
+    "n3": "the celebrant",
+    "n4": "the celebrants",
+    "n5": "celebrant's",
+    "n6": "celebrants'",
+    "n7": "a celebrant",
+    "n8": "many celebrants"
+}

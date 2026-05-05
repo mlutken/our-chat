@@ -1,0 +1,18 @@
+{
+    "base": "double-crosser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "double-crosser",
+    "n2": "double-crossers",
+    "n3": "the double-crosser",
+    "n4": "the double-crossers",
+    "n5": "double-crosser's",
+    "n6": "double-crossers'",
+    "n7": "a double-crosser",
+    "n8": "many double-crossers"
+}

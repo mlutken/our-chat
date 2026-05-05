@@ -1,0 +1,18 @@
+{
+    "base": "april",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "april",
+    "n2": "aprils",
+    "n3": "the april",
+    "n4": "the aprils",
+    "n5": "april's",
+    "n6": "aprils'",
+    "n7": "an april",
+    "n8": "many aprils"
+}

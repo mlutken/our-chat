@@ -1,0 +1,18 @@
+{
+    "base": "iodination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "iodination",
+    "n2": "iodinations",
+    "n3": "the iodination",
+    "n4": "the iodinations",
+    "n5": "iodination's",
+    "n6": "iodinations'",
+    "n7": "an iodination",
+    "n8": "many iodinations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gout",
+    "n2": "gouts",
+    "n3": "the gout",
+    "n4": "the gouts",
+    "n5": "gout's",
+    "n6": "gouts'",
+    "n7": "a gout",
+    "n8": "many gouts"
+}

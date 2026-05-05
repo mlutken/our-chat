@@ -1,0 +1,18 @@
+{
+    "base": "alundum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alundum",
+    "n2": "alundums",
+    "n3": "the alundum",
+    "n4": "the alundums",
+    "n5": "alundum's",
+    "n6": "alundums'",
+    "n7": "an alundum",
+    "n8": "many alundums"
+}

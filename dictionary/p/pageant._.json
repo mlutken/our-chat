@@ -1,0 +1,18 @@
+{
+    "base": "pageant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pageant",
+    "n2": "pageants",
+    "n3": "the pageant",
+    "n4": "the pageants",
+    "n5": "pageant's",
+    "n6": "pageants'",
+    "n7": "a pageant",
+    "n8": "many pageants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "alchemy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alchemy",
+    "n2": "alchemies",
+    "n3": "the alchemy",
+    "n4": "the alchemies",
+    "n5": "alchemy's",
+    "n6": "alchemies'",
+    "n7": "an alchemy",
+    "n8": "many alchemies"
+}

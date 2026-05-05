@@ -1,0 +1,18 @@
+{
+    "base": "sheepskin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sheepskin",
+    "n2": "sheepskins",
+    "n3": "the sheepskin",
+    "n4": "the sheepskins",
+    "n5": "sheepskin's",
+    "n6": "sheepskins'",
+    "n7": "a sheepskin",
+    "n8": "many sheepskins"
+}

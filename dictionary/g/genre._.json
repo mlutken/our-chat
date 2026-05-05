@@ -1,0 +1,18 @@
+{
+    "base": "genre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "genre",
+    "n2": "genres",
+    "n3": "the genre",
+    "n4": "the genres",
+    "n5": "genre's",
+    "n6": "genres'",
+    "n7": "a genre",
+    "n8": "many genres"
+}

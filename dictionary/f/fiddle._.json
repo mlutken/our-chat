@@ -1,0 +1,18 @@
+{
+    "base": "fiddle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fiddle",
+    "n2": "fiddles",
+    "n3": "the fiddle",
+    "n4": "the fiddles",
+    "n5": "fiddle's",
+    "n6": "fiddles'",
+    "n7": "a fiddle",
+    "n8": "many fiddles"
+}

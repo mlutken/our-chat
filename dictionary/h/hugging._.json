@@ -1,0 +1,18 @@
+{
+    "base": "hugging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hugging",
+    "n2": "huggings",
+    "n3": "the hugging",
+    "n4": "the huggings",
+    "n5": "hugging's",
+    "n6": "huggings'",
+    "n7": "a hugging",
+    "n8": "many huggings"
+}

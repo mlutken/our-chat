@@ -1,0 +1,18 @@
+{
+    "base": "hyperplasia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hyperplasia",
+    "n2": "hyperplasias",
+    "n3": "the hyperplasia",
+    "n4": "the hyperplasias",
+    "n5": "hyperplasia's",
+    "n6": "hyperplasias'",
+    "n7": "a hyperplasia",
+    "n8": "many hyperplasias"
+}

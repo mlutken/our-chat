@@ -1,0 +1,18 @@
+{
+    "base": "bathing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bathing",
+    "n2": "bathings",
+    "n3": "the bathing",
+    "n4": "the bathings",
+    "n5": "bathing's",
+    "n6": "bathings'",
+    "n7": "a bathing",
+    "n8": "many bathings"
+}

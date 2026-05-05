@@ -1,0 +1,18 @@
+{
+    "base": "hypoadrenocorticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hypoadrenocorticism",
+    "n2": "hypoadrenocorticisms",
+    "n3": "the hypoadrenocorticism",
+    "n4": "the hypoadrenocorticisms",
+    "n5": "hypoadrenocorticism's",
+    "n6": "hypoadrenocorticisms'",
+    "n7": "a hypoadrenocorticism",
+    "n8": "many hypoadrenocorticisms"
+}

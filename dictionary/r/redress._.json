@@ -1,0 +1,18 @@
+{
+    "base": "redress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "redress",
+    "n2": "redresses",
+    "n3": "the redress",
+    "n4": "the redresses",
+    "n5": "redress'",
+    "n6": "redresses'",
+    "n7": "a redress",
+    "n8": "many redresses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "pail",
+    "n2": "pails",
+    "n3": "the pail",
+    "n4": "the pails",
+    "n5": "pail's",
+    "n6": "pails'",
+    "n7": "a pail",
+    "n8": "many pails"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "misconstruction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "misconstruction",
+    "n2": "misconstructions",
+    "n3": "the misconstruction",
+    "n4": "the misconstructions",
+    "n5": "misconstruction's",
+    "n6": "misconstructions'",
+    "n7": "a misconstruction",
+    "n8": "many misconstructions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "intercourse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intercourse",
+    "n2": "intercourses",
+    "n3": "the intercourse",
+    "n4": "the intercourses",
+    "n5": "intercourse's",
+    "n6": "intercourses'",
+    "n7": "an intercourse",
+    "n8": "many intercourses"
+}

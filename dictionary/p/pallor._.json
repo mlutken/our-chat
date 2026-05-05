@@ -1,0 +1,18 @@
+{
+    "base": "pallor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pallor",
+    "n2": "pallors",
+    "n3": "the pallor",
+    "n4": "the pallors",
+    "n5": "pallor's",
+    "n6": "pallors'",
+    "n7": "a pallor",
+    "n8": "many pallors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bucket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bucket",
+    "n2": "buckets",
+    "n3": "the bucket",
+    "n4": "the buckets",
+    "n5": "bucket's",
+    "n6": "buckets'",
+    "n7": "a bucket",
+    "n8": "many buckets"
+}

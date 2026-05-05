@@ -1,0 +1,18 @@
+{
+    "base": "local option",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "local option",
+    "n2": "local options",
+    "n3": "the local option",
+    "n4": "the local options",
+    "n5": "local option's",
+    "n6": "local options'",
+    "n7": "a local option",
+    "n8": "many local options"
+}

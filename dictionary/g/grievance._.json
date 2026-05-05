@@ -1,0 +1,18 @@
+{
+    "base": "grievance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "grievance",
+    "n2": "grievances",
+    "n3": "the grievance",
+    "n4": "the grievances",
+    "n5": "grievance's",
+    "n6": "grievances'",
+    "n7": "a grievance",
+    "n8": "many grievances"
+}

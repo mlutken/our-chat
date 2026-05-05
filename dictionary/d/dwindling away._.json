@@ -1,0 +1,18 @@
+{
+    "base": "dwindling away",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dwindling away",
+    "n2": "dwindling aways",
+    "n3": "the dwindling away",
+    "n4": "the dwindling aways",
+    "n5": "dwindling away's",
+    "n6": "dwindling aways'",
+    "n7": "a dwindling away",
+    "n8": "many dwindling aways"
+}

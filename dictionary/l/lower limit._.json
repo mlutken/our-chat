@@ -1,0 +1,18 @@
+{
+    "base": "lower limit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "lower limit",
+    "n2": "lower limits",
+    "n3": "the lower limit",
+    "n4": "the lower limits",
+    "n5": "lower limit's",
+    "n6": "lower limits'",
+    "n7": "a lower limit",
+    "n8": "many lower limits"
+}

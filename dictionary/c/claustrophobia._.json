@@ -1,0 +1,18 @@
+{
+    "base": "claustrophobia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "claustrophobia",
+    "n2": "claustrophobias",
+    "n3": "the claustrophobia",
+    "n4": "the claustrophobias",
+    "n5": "claustrophobia's",
+    "n6": "claustrophobias'",
+    "n7": "a claustrophobia",
+    "n8": "many claustrophobias"
+}

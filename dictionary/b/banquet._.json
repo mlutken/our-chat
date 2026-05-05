@@ -1,0 +1,18 @@
+{
+    "base": "banquet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "banquet",
+    "n2": "banquets",
+    "n3": "the banquet",
+    "n4": "the banquets",
+    "n5": "banquet's",
+    "n6": "banquets'",
+    "n7": "a banquet",
+    "n8": "many banquets"
+}

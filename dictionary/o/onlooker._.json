@@ -1,0 +1,18 @@
+{
+    "base": "onlooker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "onlooker",
+    "n2": "onlookers",
+    "n3": "the onlooker",
+    "n4": "the onlookers",
+    "n5": "onlooker's",
+    "n6": "onlookers'",
+    "n7": "an onlooker",
+    "n8": "many onlookers"
+}

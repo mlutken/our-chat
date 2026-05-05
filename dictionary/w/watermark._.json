@@ -1,0 +1,18 @@
+{
+    "base": "watermark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "watermark",
+    "n2": "watermarks",
+    "n3": "the watermark",
+    "n4": "the watermarks",
+    "n5": "watermark's",
+    "n6": "watermarks'",
+    "n7": "a watermark",
+    "n8": "many watermarks"
+}

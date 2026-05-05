@@ -1,11 +1,24 @@
 {
     "base": "smoke",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "smoke",
     "v2": "smoked",
     "v3": "smoked",
     "v4": "smoking",
-    "v5": "smokes"
+    "v5": "smokes",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n1": "smoke",
+    "n2": "smokes",
+    "n3": "the smoke",
+    "n4": "the smokes",
+    "n5": "smoke's",
+    "n6": "smokes'",
+    "n7": "a smoke",
+    "n8": "many smokes"
 }

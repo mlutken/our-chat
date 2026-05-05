@@ -1,0 +1,18 @@
+{
+    "base": "police investigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "police investigation",
+    "n2": "police investigations",
+    "n3": "the police investigation",
+    "n4": "the police investigations",
+    "n5": "police investigation's",
+    "n6": "police investigations'",
+    "n7": "a police investigation",
+    "n8": "many police investigations"
+}

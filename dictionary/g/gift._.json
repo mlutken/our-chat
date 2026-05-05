@@ -7,5 +7,12 @@
     "n2": "gifts",
     "n3": "the gift",
     "n4": "the gifts",
-    "n5": "gift's"
+    "n5": "gift's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "gifts'",
+    "n7": "a gift",
+    "n8": "many gifts"
 }

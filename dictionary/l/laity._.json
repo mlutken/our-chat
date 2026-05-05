@@ -1,0 +1,18 @@
+{
+    "base": "laity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "laity",
+    "n2": "laities",
+    "n3": "the laity",
+    "n4": "the laities",
+    "n5": "laity's",
+    "n6": "laities'",
+    "n7": "a laity",
+    "n8": "many laities"
+}

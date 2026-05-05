@@ -1,0 +1,18 @@
+{
+    "base": "administrator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "administrator",
+    "n2": "administrators",
+    "n3": "the administrator",
+    "n4": "the administrators",
+    "n5": "administrator's",
+    "n6": "administrators'",
+    "n7": "an administrator",
+    "n8": "many administrators"
+}

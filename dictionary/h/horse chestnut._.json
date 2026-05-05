@@ -1,0 +1,18 @@
+{
+    "base": "horse chestnut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horse chestnut",
+    "n2": "horse chestnuts",
+    "n3": "the horse chestnut",
+    "n4": "the horse chestnuts",
+    "n5": "horse chestnut's",
+    "n6": "horse chestnuts'",
+    "n7": "a horse chestnut",
+    "n8": "many horse chestnuts"
+}

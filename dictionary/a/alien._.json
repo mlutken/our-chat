@@ -1,0 +1,18 @@
+{
+    "base": "alien",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "alien",
+    "n2": "aliens",
+    "n3": "the alien",
+    "n4": "the aliens",
+    "n5": "alien's",
+    "n6": "aliens'",
+    "n7": "an alien",
+    "n8": "many aliens"
+}

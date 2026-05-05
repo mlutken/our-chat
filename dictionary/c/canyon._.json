@@ -1,0 +1,18 @@
+{
+    "base": "canyon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "canyon",
+    "n2": "canyons",
+    "n3": "the canyon",
+    "n4": "the canyons",
+    "n5": "canyon's",
+    "n6": "canyons'",
+    "n7": "a canyon",
+    "n8": "many canyons"
+}

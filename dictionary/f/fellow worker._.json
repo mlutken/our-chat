@@ -1,0 +1,18 @@
+{
+    "base": "fellow worker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fellow worker",
+    "n2": "fellow workers",
+    "n3": "the fellow worker",
+    "n4": "the fellow workers",
+    "n5": "fellow worker's",
+    "n6": "fellow workers'",
+    "n7": "a fellow worker",
+    "n8": "many fellow workers"
+}

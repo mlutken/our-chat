@@ -1,0 +1,18 @@
+{
+    "base": "sensitivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "sensitivity",
+    "n2": "sensitivities",
+    "n3": "the sensitivity",
+    "n4": "the sensitivities",
+    "n5": "sensitivity's",
+    "n6": "sensitivities'",
+    "n7": "a sensitivity",
+    "n8": "many sensitivities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "top executive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "top executive",
+    "n2": "top executives",
+    "n3": "the top executive",
+    "n4": "the top executives",
+    "n5": "top executive's",
+    "n6": "top executives'",
+    "n7": "a top executive",
+    "n8": "many top executives"
+}

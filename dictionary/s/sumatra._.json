@@ -1,0 +1,18 @@
+{
+    "base": "sumatra",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sumatra",
+    "n2": "sumatras",
+    "n3": "the sumatra",
+    "n4": "the sumatras",
+    "n5": "sumatra's",
+    "n6": "sumatras'",
+    "n7": "a sumatra",
+    "n8": "many sumatras"
+}

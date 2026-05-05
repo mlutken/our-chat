@@ -1,0 +1,18 @@
+{
+    "base": "japanese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "japanese",
+    "n2": "japaneses",
+    "n3": "the japanese",
+    "n4": "the japaneses",
+    "n5": "japanese's",
+    "n6": "japaneses'",
+    "n7": "a japanese",
+    "n8": "many japaneses"
+}

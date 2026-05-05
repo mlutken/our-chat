@@ -13,5 +13,12 @@
     "v2": "posted",
     "v3": "posted",
     "v4": "posting",
-    "v5": "posts"
+    "v5": "posts",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "posts'",
+    "n7": "a post",
+    "n8": "many posts"
 }

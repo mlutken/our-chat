@@ -1,0 +1,18 @@
+{
+    "base": "absentee rate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "absentee rate",
+    "n2": "absentee rates",
+    "n3": "the absentee rate",
+    "n4": "the absentee rates",
+    "n5": "absentee rate's",
+    "n6": "absentee rates'",
+    "n7": "an absentee rate",
+    "n8": "many absentee rates"
+}

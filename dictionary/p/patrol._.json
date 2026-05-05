@@ -1,0 +1,18 @@
+{
+    "base": "patrol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "patrol",
+    "n2": "patrols",
+    "n3": "the patrol",
+    "n4": "the patrols",
+    "n5": "patrol's",
+    "n6": "patrols'",
+    "n7": "a patrol",
+    "n8": "many patrols"
+}

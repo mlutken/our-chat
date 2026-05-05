@@ -1,0 +1,18 @@
+{
+    "base": "rebellion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "rebellion",
+    "n2": "rebellions",
+    "n3": "the rebellion",
+    "n4": "the rebellions",
+    "n5": "rebellion's",
+    "n6": "rebellions'",
+    "n7": "a rebellion",
+    "n8": "many rebellions"
+}

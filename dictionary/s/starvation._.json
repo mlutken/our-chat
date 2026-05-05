@@ -1,0 +1,18 @@
+{
+    "base": "starvation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "starvation",
+    "n2": "starvations",
+    "n3": "the starvation",
+    "n4": "the starvations",
+    "n5": "starvation's",
+    "n6": "starvations'",
+    "n7": "a starvation",
+    "n8": "many starvations"
+}

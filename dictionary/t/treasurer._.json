@@ -1,0 +1,18 @@
+{
+    "base": "treasurer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "treasurer",
+    "n2": "treasurers",
+    "n3": "the treasurer",
+    "n4": "the treasurers",
+    "n5": "treasurer's",
+    "n6": "treasurers'",
+    "n7": "a treasurer",
+    "n8": "many treasurers"
+}

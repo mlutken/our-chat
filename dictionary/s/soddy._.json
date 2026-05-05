@@ -1,0 +1,18 @@
+{
+    "base": "soddy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soddy",
+    "n2": "soddies",
+    "n3": "the soddy",
+    "n4": "the soddies",
+    "n5": "soddy's",
+    "n6": "soddies'",
+    "n7": "a soddy",
+    "n8": "many soddies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lawn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "lawn",
+    "n2": "lawns",
+    "n3": "the lawn",
+    "n4": "the lawns",
+    "n5": "lawn's",
+    "n6": "lawns'",
+    "n7": "a lawn",
+    "n8": "many lawns"
+}

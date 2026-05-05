@@ -1,0 +1,18 @@
+{
+    "base": "tournament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "tournament",
+    "n2": "tournaments",
+    "n3": "the tournament",
+    "n4": "the tournaments",
+    "n5": "tournament's",
+    "n6": "tournaments'",
+    "n7": "a tournament",
+    "n8": "many tournaments"
+}

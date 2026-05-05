@@ -1,0 +1,18 @@
+{
+    "base": "dispensation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dispensation",
+    "n2": "dispensations",
+    "n3": "the dispensation",
+    "n4": "the dispensations",
+    "n5": "dispensation's",
+    "n6": "dispensations'",
+    "n7": "a dispensation",
+    "n8": "many dispensations"
+}

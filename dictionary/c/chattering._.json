@@ -1,0 +1,18 @@
+{
+    "base": "chattering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chattering",
+    "n2": "chatterings",
+    "n3": "the chattering",
+    "n4": "the chatterings",
+    "n5": "chattering's",
+    "n6": "chatterings'",
+    "n7": "a chattering",
+    "n8": "many chatterings"
+}

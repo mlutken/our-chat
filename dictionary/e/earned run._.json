@@ -1,0 +1,18 @@
+{
+    "base": "earned run",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "earned run",
+    "n2": "earned runs",
+    "n3": "the earned run",
+    "n4": "the earned runs",
+    "n5": "earned run's",
+    "n6": "earned runs'",
+    "n7": "an earned run",
+    "n8": "many earned runs"
+}

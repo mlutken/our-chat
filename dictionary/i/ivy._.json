@@ -1,0 +1,18 @@
+{
+    "base": "ivy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ivy",
+    "n2": "ivies",
+    "n3": "the ivy",
+    "n4": "the ivies",
+    "n5": "ivy's",
+    "n6": "ivies'",
+    "n7": "an ivy",
+    "n8": "many ivies"
+}

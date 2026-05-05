@@ -1,0 +1,18 @@
+{
+    "base": "providence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "providence",
+    "n2": "providences",
+    "n3": "the providence",
+    "n4": "the providences",
+    "n5": "providence's",
+    "n6": "providences'",
+    "n7": "a providence",
+    "n8": "many providences"
+}

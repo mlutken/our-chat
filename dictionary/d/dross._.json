@@ -1,0 +1,18 @@
+{
+    "base": "dross",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dross",
+    "n2": "drosses",
+    "n3": "the dross",
+    "n4": "the drosses",
+    "n5": "dross'",
+    "n6": "drosses'",
+    "n7": "a dross",
+    "n8": "many drosses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tongue twister",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tongue twister",
+    "n2": "tongue twisters",
+    "n3": "the tongue twister",
+    "n4": "the tongue twisters",
+    "n5": "tongue twister's",
+    "n6": "tongue twisters'",
+    "n7": "a tongue twister",
+    "n8": "many tongue twisters"
+}

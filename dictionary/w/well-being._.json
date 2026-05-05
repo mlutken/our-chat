@@ -1,0 +1,18 @@
+{
+    "base": "well-being",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "well-being",
+    "n2": "well-beings",
+    "n3": "the well-being",
+    "n4": "the well-beings",
+    "n5": "well-being's",
+    "n6": "well-beings'",
+    "n7": "a well-being",
+    "n8": "many well-beings"
+}

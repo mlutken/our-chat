@@ -1,0 +1,18 @@
+{
+    "base": "drugging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drugging",
+    "n2": "druggings",
+    "n3": "the drugging",
+    "n4": "the druggings",
+    "n5": "drugging's",
+    "n6": "druggings'",
+    "n7": "a drugging",
+    "n8": "many druggings"
+}

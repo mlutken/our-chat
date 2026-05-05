@@ -1,0 +1,18 @@
+{
+    "base": "expurgation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "expurgation",
+    "n2": "expurgations",
+    "n3": "the expurgation",
+    "n4": "the expurgations",
+    "n5": "expurgation's",
+    "n6": "expurgations'",
+    "n7": "an expurgation",
+    "n8": "many expurgations"
+}

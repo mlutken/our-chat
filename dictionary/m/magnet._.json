@@ -1,0 +1,18 @@
+{
+    "base": "magnet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "magnet",
+    "n2": "magnets",
+    "n3": "the magnet",
+    "n4": "the magnets",
+    "n5": "magnet's",
+    "n6": "magnets'",
+    "n7": "a magnet",
+    "n8": "many magnets"
+}

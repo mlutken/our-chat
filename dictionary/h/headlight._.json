@@ -1,0 +1,18 @@
+{
+    "base": "headlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "headlight",
+    "n2": "headlights",
+    "n3": "the headlight",
+    "n4": "the headlights",
+    "n5": "headlight's",
+    "n6": "headlights'",
+    "n7": "a headlight",
+    "n8": "many headlights"
+}

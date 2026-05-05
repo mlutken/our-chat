@@ -1,0 +1,18 @@
+{
+    "base": "keeping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "keeping",
+    "n2": "keepings",
+    "n3": "the keeping",
+    "n4": "the keepings",
+    "n5": "keeping's",
+    "n6": "keepings'",
+    "n7": "a keeping",
+    "n8": "many keepings"
+}

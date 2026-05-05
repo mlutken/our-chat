@@ -1,0 +1,18 @@
+{
+    "base": "threat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "threat",
+    "n2": "threats",
+    "n3": "the threat",
+    "n4": "the threats",
+    "n5": "threat's",
+    "n6": "threats'",
+    "n7": "a threat",
+    "n8": "many threats"
+}

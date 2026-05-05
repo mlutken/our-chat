@@ -1,0 +1,18 @@
+{
+    "base": "galaxy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "galaxy",
+    "n2": "galaxies",
+    "n3": "the galaxy",
+    "n4": "the galaxies",
+    "n5": "galaxy's",
+    "n6": "galaxies'",
+    "n7": "a galaxy",
+    "n8": "many galaxies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nasal cavity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nasal cavity",
+    "n2": "nasal cavities",
+    "n3": "the nasal cavity",
+    "n4": "the nasal cavities",
+    "n5": "nasal cavity's",
+    "n6": "nasal cavities'",
+    "n7": "a nasal cavity",
+    "n8": "many nasal cavities"
+}

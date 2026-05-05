@@ -1,0 +1,18 @@
+{
+    "base": "drinking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "drinking",
+    "n2": "drinkings",
+    "n3": "the drinking",
+    "n4": "the drinkings",
+    "n5": "drinking's",
+    "n6": "drinkings'",
+    "n7": "a drinking",
+    "n8": "many drinkings"
+}

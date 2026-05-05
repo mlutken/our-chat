@@ -7,5 +7,12 @@
     "n2": "technologies",
     "n3": "the technology",
     "n4": "the technologies",
-    "n5": "technology's"
+    "n5": "technology's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "technologies'",
+    "n7": "a technology",
+    "n8": "many technologies"
 }

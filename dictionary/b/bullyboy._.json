@@ -1,0 +1,18 @@
+{
+    "base": "bullyboy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bullyboy",
+    "n2": "bullyboys",
+    "n3": "the bullyboy",
+    "n4": "the bullyboys",
+    "n5": "bullyboy's",
+    "n6": "bullyboys'",
+    "n7": "a bullyboy",
+    "n8": "many bullyboys"
+}

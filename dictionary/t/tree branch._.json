@@ -1,0 +1,18 @@
+{
+    "base": "tree branch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tree branch",
+    "n2": "tree branches",
+    "n3": "the tree branch",
+    "n4": "the tree branches",
+    "n5": "tree branch's",
+    "n6": "tree branches'",
+    "n7": "a tree branch",
+    "n8": "many tree branches"
+}

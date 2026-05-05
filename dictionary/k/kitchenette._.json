@@ -1,0 +1,18 @@
+{
+    "base": "kitchenette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "kitchenette",
+    "n2": "kitchenettes",
+    "n3": "the kitchenette",
+    "n4": "the kitchenettes",
+    "n5": "kitchenette's",
+    "n6": "kitchenettes'",
+    "n7": "a kitchenette",
+    "n8": "many kitchenettes"
+}

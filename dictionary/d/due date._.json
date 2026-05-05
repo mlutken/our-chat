@@ -1,0 +1,18 @@
+{
+    "base": "due date",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "due date",
+    "n2": "due dates",
+    "n3": "the due date",
+    "n4": "the due dates",
+    "n5": "due date's",
+    "n6": "due dates'",
+    "n7": "a due date",
+    "n8": "many due dates"
+}

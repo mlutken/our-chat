@@ -1,0 +1,18 @@
+{
+    "base": "promotion system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "promotion system",
+    "n2": "promotion systems",
+    "n3": "the promotion system",
+    "n4": "the promotion systems",
+    "n5": "promotion system's",
+    "n6": "promotion systems'",
+    "n7": "a promotion system",
+    "n8": "many promotion systems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "vase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "vase",
+    "n2": "vases",
+    "n3": "the vase",
+    "n4": "the vases",
+    "n5": "vase's",
+    "n6": "vases'",
+    "n7": "a vase",
+    "n8": "many vases"
+}

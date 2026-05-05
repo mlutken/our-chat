@@ -1,0 +1,18 @@
+{
+    "base": "dinner pail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dinner pail",
+    "n2": "dinner pails",
+    "n3": "the dinner pail",
+    "n4": "the dinner pails",
+    "n5": "dinner pail's",
+    "n6": "dinner pails'",
+    "n7": "a dinner pail",
+    "n8": "many dinner pails"
+}

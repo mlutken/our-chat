@@ -1,0 +1,18 @@
+{
+    "base": "margin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "margin",
+    "n2": "margins",
+    "n3": "the margin",
+    "n4": "the margins",
+    "n5": "margin's",
+    "n6": "margins'",
+    "n7": "a margin",
+    "n8": "many margins"
+}

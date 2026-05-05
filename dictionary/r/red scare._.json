@@ -1,0 +1,18 @@
+{
+    "base": "red scare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red scare",
+    "n2": "red scares",
+    "n3": "the red scare",
+    "n4": "the red scares",
+    "n5": "red scare's",
+    "n6": "red scares'",
+    "n7": "a red scare",
+    "n8": "many red scares"
+}

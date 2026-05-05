@@ -1,0 +1,18 @@
+{
+    "base": "semester hour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "semester hour",
+    "n2": "semester hours",
+    "n3": "the semester hour",
+    "n4": "the semester hours",
+    "n5": "semester hour's",
+    "n6": "semester hours'",
+    "n7": "a semester hour",
+    "n8": "many semester hours"
+}

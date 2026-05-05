@@ -1,0 +1,18 @@
+{
+    "base": "jump seat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jump seat",
+    "n2": "jump seats",
+    "n3": "the jump seat",
+    "n4": "the jump seats",
+    "n5": "jump seat's",
+    "n6": "jump seats'",
+    "n7": "a jump seat",
+    "n8": "many jump seats"
+}

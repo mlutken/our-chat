@@ -1,0 +1,18 @@
+{
+    "base": "triumph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "triumph",
+    "n2": "triumphs",
+    "n3": "the triumph",
+    "n4": "the triumphs",
+    "n5": "triumph's",
+    "n6": "triumphs'",
+    "n7": "a triumph",
+    "n8": "many triumphs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dust cloud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dust cloud",
+    "n2": "dust clouds",
+    "n3": "the dust cloud",
+    "n4": "the dust clouds",
+    "n5": "dust cloud's",
+    "n6": "dust clouds'",
+    "n7": "a dust cloud",
+    "n8": "many dust clouds"
+}

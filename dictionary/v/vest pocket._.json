@@ -1,0 +1,18 @@
+{
+    "base": "vest pocket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vest pocket",
+    "n2": "vest pockets",
+    "n3": "the vest pocket",
+    "n4": "the vest pockets",
+    "n5": "vest pocket's",
+    "n6": "vest pockets'",
+    "n7": "a vest pocket",
+    "n8": "many vest pockets"
+}

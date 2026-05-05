@@ -1,0 +1,18 @@
+{
+    "base": "smoking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "smoking",
+    "n2": "smokings",
+    "n3": "the smoking",
+    "n4": "the smokings",
+    "n5": "smoking's",
+    "n6": "smokings'",
+    "n7": "a smoking",
+    "n8": "many smokings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "realm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "realm",
+    "n2": "realms",
+    "n3": "the realm",
+    "n4": "the realms",
+    "n5": "realm's",
+    "n6": "realms'",
+    "n7": "a realm",
+    "n8": "many realms"
+}

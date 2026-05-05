@@ -1,0 +1,18 @@
+{
+    "base": "peasanthood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peasanthood",
+    "n2": "peasanthoods",
+    "n3": "the peasanthood",
+    "n4": "the peasanthoods",
+    "n5": "peasanthood's",
+    "n6": "peasanthoods'",
+    "n7": "a peasanthood",
+    "n8": "many peasanthoods"
+}

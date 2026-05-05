@@ -1,0 +1,18 @@
+{
+    "base": "continuance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "continuance",
+    "n2": "continuances",
+    "n3": "the continuance",
+    "n4": "the continuances",
+    "n5": "continuance's",
+    "n6": "continuances'",
+    "n7": "a continuance",
+    "n8": "many continuances"
+}

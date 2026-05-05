@@ -1,0 +1,18 @@
+{
+    "base": "mass rapid transit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mass rapid transit",
+    "n2": "mass rapid transits",
+    "n3": "the mass rapid transit",
+    "n4": "the mass rapid transits",
+    "n5": "mass rapid transit's",
+    "n6": "mass rapid transits'",
+    "n7": "a mass rapid transit",
+    "n8": "many mass rapid transits"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "semiminor axis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "semiminor axis",
+    "n2": "semiminor axises",
+    "n3": "the semiminor axis",
+    "n4": "the semiminor axises",
+    "n5": "semiminor axis'",
+    "n6": "semiminor axises'",
+    "n7": "a semiminor axis",
+    "n8": "many semiminor axises"
+}

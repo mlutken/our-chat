@@ -1,0 +1,18 @@
+{
+    "base": "steam turbine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steam turbine",
+    "n2": "steam turbines",
+    "n3": "the steam turbine",
+    "n4": "the steam turbines",
+    "n5": "steam turbine's",
+    "n6": "steam turbines'",
+    "n7": "a steam turbine",
+    "n8": "many steam turbines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "heater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heater",
+    "n2": "heaters",
+    "n3": "the heater",
+    "n4": "the heaters",
+    "n5": "heater's",
+    "n6": "heaters'",
+    "n7": "a heater",
+    "n8": "many heaters"
+}

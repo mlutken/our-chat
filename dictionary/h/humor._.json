@@ -1,0 +1,18 @@
+{
+    "base": "humor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "humor",
+    "n2": "humors",
+    "n3": "the humor",
+    "n4": "the humors",
+    "n5": "humor's",
+    "n6": "humors'",
+    "n7": "a humor",
+    "n8": "many humors"
+}

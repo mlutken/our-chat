@@ -1,0 +1,18 @@
+{
+    "base": "punctuation mark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "punctuation mark",
+    "n2": "punctuation marks",
+    "n3": "the punctuation mark",
+    "n4": "the punctuation marks",
+    "n5": "punctuation mark's",
+    "n6": "punctuation marks'",
+    "n7": "a punctuation mark",
+    "n8": "many punctuation marks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "alteration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "alteration",
+    "n2": "alterations",
+    "n3": "the alteration",
+    "n4": "the alterations",
+    "n5": "alteration's",
+    "n6": "alterations'",
+    "n7": "an alteration",
+    "n8": "many alterations"
+}

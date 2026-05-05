@@ -1,0 +1,18 @@
+{
+    "base": "crudity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "crudity",
+    "n2": "crudities",
+    "n3": "the crudity",
+    "n4": "the crudities",
+    "n5": "crudity's",
+    "n6": "crudities'",
+    "n7": "a crudity",
+    "n8": "many crudities"
+}

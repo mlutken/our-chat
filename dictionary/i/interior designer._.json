@@ -1,0 +1,18 @@
+{
+    "base": "interior designer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "interior designer",
+    "n2": "interior designers",
+    "n3": "the interior designer",
+    "n4": "the interior designers",
+    "n5": "interior designer's",
+    "n6": "interior designers'",
+    "n7": "an interior designer",
+    "n8": "many interior designers"
+}

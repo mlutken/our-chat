@@ -1,0 +1,18 @@
+{
+    "base": "first half",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "first half",
+    "n2": "first halves",
+    "n3": "the first half",
+    "n4": "the first halves",
+    "n5": "first half's",
+    "n6": "first halves'",
+    "n7": "a first half",
+    "n8": "many first halves"
+}

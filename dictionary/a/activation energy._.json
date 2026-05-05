@@ -1,0 +1,18 @@
+{
+    "base": "activation energy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "activation energy",
+    "n2": "activation energies",
+    "n3": "the activation energy",
+    "n4": "the activation energies",
+    "n5": "activation energy's",
+    "n6": "activation energies'",
+    "n7": "an activation energy",
+    "n8": "many activation energies"
+}

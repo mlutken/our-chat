@@ -7,5 +7,12 @@
     "n2": "reactions",
     "n3": "the reaction",
     "n4": "the reactions",
-    "n5": "reaction's"
+    "n5": "reaction's",
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n6": "reactions'",
+    "n7": "a reaction",
+    "n8": "many reactions"
 }

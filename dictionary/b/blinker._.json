@@ -1,0 +1,18 @@
+{
+    "base": "blinker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blinker",
+    "n2": "blinkers",
+    "n3": "the blinker",
+    "n4": "the blinkers",
+    "n5": "blinker's",
+    "n6": "blinkers'",
+    "n7": "a blinker",
+    "n8": "many blinkers"
+}

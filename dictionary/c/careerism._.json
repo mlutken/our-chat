@@ -1,0 +1,18 @@
+{
+    "base": "careerism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "careerism",
+    "n2": "careerisms",
+    "n3": "the careerism",
+    "n4": "the careerisms",
+    "n5": "careerism's",
+    "n6": "careerisms'",
+    "n7": "a careerism",
+    "n8": "many careerisms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "letdown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "letdown",
+    "n2": "letdowns",
+    "n3": "the letdown",
+    "n4": "the letdowns",
+    "n5": "letdown's",
+    "n6": "letdowns'",
+    "n7": "a letdown",
+    "n8": "many letdowns"
+}

@@ -7,5 +7,12 @@
     "n2": "skills",
     "n3": "the skill",
     "n4": "the skills",
-    "n5": "skill's"
+    "n5": "skill's",
+    "proper": false,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n6": "skills'",
+    "n7": "a skill",
+    "n8": "many skills"
 }

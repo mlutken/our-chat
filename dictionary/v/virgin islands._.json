@@ -1,0 +1,18 @@
+{
+    "base": "virgin islands",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "virgin islands",
+    "n2": "virgin islandses",
+    "n3": "the virgin islands",
+    "n4": "the virgin islandses",
+    "n5": "virgin islands'",
+    "n6": "virgin islandses'",
+    "n7": "a virgin islands",
+    "n8": "many virgin islandses"
+}

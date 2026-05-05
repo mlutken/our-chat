@@ -1,0 +1,18 @@
+{
+    "base": "centimeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "centimeter",
+    "n2": "centimeters",
+    "n3": "the centimeter",
+    "n4": "the centimeters",
+    "n5": "centimeter's",
+    "n6": "centimeters'",
+    "n7": "a centimeter",
+    "n8": "many centimeters"
+}

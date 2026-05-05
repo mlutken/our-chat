@@ -1,0 +1,18 @@
+{
+    "base": "incorruptibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incorruptibility",
+    "n2": "incorruptibilities",
+    "n3": "the incorruptibility",
+    "n4": "the incorruptibilities",
+    "n5": "incorruptibility's",
+    "n6": "incorruptibilities'",
+    "n7": "an incorruptibility",
+    "n8": "many incorruptibilities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rifleman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "rifleman",
+    "n2": "riflemen",
+    "n3": "the rifleman",
+    "n4": "the riflemen",
+    "n5": "rifleman's",
+    "n6": "riflemen's",
+    "n7": "a rifleman",
+    "n8": "many riflemen"
+}

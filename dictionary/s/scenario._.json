@@ -1,0 +1,18 @@
+{
+    "base": "scenario",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scenario",
+    "n2": "scenarios",
+    "n3": "the scenario",
+    "n4": "the scenarios",
+    "n5": "scenario's",
+    "n6": "scenarios'",
+    "n7": "a scenario",
+    "n8": "many scenarios"
+}

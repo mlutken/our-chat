@@ -1,0 +1,18 @@
+{
+    "base": "fabric",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "fabric",
+    "n2": "fabrics",
+    "n3": "the fabric",
+    "n4": "the fabrics",
+    "n5": "fabric's",
+    "n6": "fabrics'",
+    "n7": "a fabric",
+    "n8": "many fabrics"
+}

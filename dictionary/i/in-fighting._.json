@@ -1,0 +1,18 @@
+{
+    "base": "in-fighting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "in-fighting",
+    "n2": "in-fightings",
+    "n3": "the in-fighting",
+    "n4": "the in-fightings",
+    "n5": "in-fighting's",
+    "n6": "in-fightings'",
+    "n7": "an in-fighting",
+    "n8": "many in-fightings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "scotch and soda",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scotch and soda",
+    "n2": "scotch and sodas",
+    "n3": "the scotch and soda",
+    "n4": "the scotch and sodas",
+    "n5": "scotch and soda's",
+    "n6": "scotch and sodas'",
+    "n7": "a scotch and soda",
+    "n8": "many scotch and sodas"
+}

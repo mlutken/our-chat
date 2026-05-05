@@ -7,5 +7,12 @@
     "n2": "estates",
     "n3": "the estate",
     "n4": "the estates",
-    "n5": "estate's"
+    "n5": "estate's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "estates'",
+    "n7": "an estate",
+    "n8": "many estates"
 }

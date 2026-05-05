@@ -1,0 +1,18 @@
+{
+    "base": "sonority",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sonority",
+    "n2": "sonorities",
+    "n3": "the sonority",
+    "n4": "the sonorities",
+    "n5": "sonority's",
+    "n6": "sonorities'",
+    "n7": "a sonority",
+    "n8": "many sonorities"
+}

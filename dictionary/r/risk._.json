@@ -13,5 +13,12 @@
     "v2": "risked",
     "v3": "risked",
     "v4": "risking",
-    "v5": "risks"
+    "v5": "risks",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "risks'",
+    "n7": "a risk",
+    "n8": "many risks"
 }

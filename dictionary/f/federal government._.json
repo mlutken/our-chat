@@ -1,0 +1,18 @@
+{
+    "base": "federal government",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "federal government",
+    "n2": "federal governments",
+    "n3": "the federal government",
+    "n4": "the federal governments",
+    "n5": "federal government's",
+    "n6": "federal governments'",
+    "n7": "a federal government",
+    "n8": "many federal governments"
+}

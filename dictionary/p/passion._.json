@@ -7,5 +7,12 @@
     "n2": "passions",
     "n3": "the passion",
     "n4": "the passions",
-    "n5": "passion's"
+    "n5": "passion's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "passions'",
+    "n7": "a passion",
+    "n8": "many passions"
 }

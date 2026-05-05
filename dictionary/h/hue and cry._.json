@@ -1,0 +1,18 @@
+{
+    "base": "hue and cry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hue and cry",
+    "n2": "hue and cries",
+    "n3": "the hue and cry",
+    "n4": "the hue and cries",
+    "n5": "hue and cry's",
+    "n6": "hue and cries'",
+    "n7": "a hue and cry",
+    "n8": "many hue and cries"
+}

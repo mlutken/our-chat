@@ -1,0 +1,18 @@
+{
+    "base": "dice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "dice",
+    "n2": "dices",
+    "n3": "the dice",
+    "n4": "the dices",
+    "n5": "dice's",
+    "n6": "dices'",
+    "n7": "a dice",
+    "n8": "many dices"
+}

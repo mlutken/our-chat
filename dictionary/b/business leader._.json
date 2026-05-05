@@ -1,0 +1,18 @@
+{
+    "base": "business leader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business leader",
+    "n2": "business leaders",
+    "n3": "the business leader",
+    "n4": "the business leaders",
+    "n5": "business leader's",
+    "n6": "business leaders'",
+    "n7": "a business leader",
+    "n8": "many business leaders"
+}

@@ -7,5 +7,12 @@
     "n2": "resolutions",
     "n3": "the resolution",
     "n4": "the resolutions",
-    "n5": "resolution's"
+    "n5": "resolution's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "resolutions'",
+    "n7": "a resolution",
+    "n8": "many resolutions"
 }

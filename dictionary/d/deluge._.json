@@ -1,0 +1,18 @@
+{
+    "base": "deluge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deluge",
+    "n2": "deluges",
+    "n3": "the deluge",
+    "n4": "the deluges",
+    "n5": "deluge's",
+    "n6": "deluges'",
+    "n7": "a deluge",
+    "n8": "many deluges"
+}

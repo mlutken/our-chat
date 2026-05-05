@@ -1,0 +1,18 @@
+{
+    "base": "william james",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "william james",
+    "n2": "william jameses",
+    "n3": "the william james",
+    "n4": "the william jameses",
+    "n5": "william james'",
+    "n6": "william jameses'",
+    "n7": "a william james",
+    "n8": "many william jameses"
+}

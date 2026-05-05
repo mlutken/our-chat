@@ -1,0 +1,18 @@
+{
+    "base": "allegro con spirito",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "allegro con spirito",
+    "n2": "allegro con spiritos",
+    "n3": "the allegro con spirito",
+    "n4": "the allegro con spiritos",
+    "n5": "allegro con spirito's",
+    "n6": "allegro con spiritos'",
+    "n7": "an allegro con spirito",
+    "n8": "many allegro con spiritos"
+}

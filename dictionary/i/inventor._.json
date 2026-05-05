@@ -1,0 +1,18 @@
+{
+    "base": "inventor",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inventor",
+    "n2": "inventors",
+    "n3": "the inventor",
+    "n4": "the inventors",
+    "n5": "inventor's",
+    "n6": "inventors'",
+    "n7": "an inventor",
+    "n8": "many inventors"
+}

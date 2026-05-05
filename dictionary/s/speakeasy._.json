@@ -1,0 +1,18 @@
+{
+    "base": "speakeasy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "speakeasy",
+    "n2": "speakeasies",
+    "n3": "the speakeasy",
+    "n4": "the speakeasies",
+    "n5": "speakeasy's",
+    "n6": "speakeasies'",
+    "n7": "a speakeasy",
+    "n8": "many speakeasies"
+}

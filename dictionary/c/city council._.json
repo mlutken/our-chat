@@ -1,0 +1,18 @@
+{
+    "base": "city council",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "city council",
+    "n2": "city councils",
+    "n3": "the city council",
+    "n4": "the city councils",
+    "n5": "city council's",
+    "n6": "city councils'",
+    "n7": "a city council",
+    "n8": "many city councils"
+}

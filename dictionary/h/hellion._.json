@@ -1,0 +1,18 @@
+{
+    "base": "hellion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hellion",
+    "n2": "hellions",
+    "n3": "the hellion",
+    "n4": "the hellions",
+    "n5": "hellion's",
+    "n6": "hellions'",
+    "n7": "a hellion",
+    "n8": "many hellions"
+}

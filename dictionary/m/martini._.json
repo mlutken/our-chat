@@ -1,0 +1,18 @@
+{
+    "base": "martini",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "martini",
+    "n2": "martinis",
+    "n3": "the martini",
+    "n4": "the martinis",
+    "n5": "martini's",
+    "n6": "martinis'",
+    "n7": "a martini",
+    "n8": "many martinis"
+}

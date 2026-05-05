@@ -1,0 +1,18 @@
+{
+    "base": "trumpet vine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trumpet vine",
+    "n2": "trumpet vines",
+    "n3": "the trumpet vine",
+    "n4": "the trumpet vines",
+    "n5": "trumpet vine's",
+    "n6": "trumpet vines'",
+    "n7": "a trumpet vine",
+    "n8": "many trumpet vines"
+}

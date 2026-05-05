@@ -1,0 +1,18 @@
+{
+    "base": "van der waal's forces",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "van der waal's forces",
+    "n2": "van der waal's forceses",
+    "n3": "the van der waal's forces",
+    "n4": "the van der waal's forceses",
+    "n5": "van der waal's forces'",
+    "n6": "van der waal's forceses'",
+    "n7": "a van der waal's forces",
+    "n8": "many van der waal's forceses"
+}

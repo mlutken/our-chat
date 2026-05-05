@@ -1,0 +1,18 @@
+{
+    "base": "solemnity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solemnity",
+    "n2": "solemnities",
+    "n3": "the solemnity",
+    "n4": "the solemnities",
+    "n5": "solemnity's",
+    "n6": "solemnities'",
+    "n7": "a solemnity",
+    "n8": "many solemnities"
+}

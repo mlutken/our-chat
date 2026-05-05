@@ -1,0 +1,18 @@
+{
+    "base": "squat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "squat",
+    "n2": "squats",
+    "n3": "the squat",
+    "n4": "the squats",
+    "n5": "squat's",
+    "n6": "squats'",
+    "n7": "a squat",
+    "n8": "many squats"
+}

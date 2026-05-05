@@ -1,0 +1,18 @@
+{
+    "base": "burnt sienna",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "burnt sienna",
+    "n2": "burnt siennas",
+    "n3": "the burnt sienna",
+    "n4": "the burnt siennas",
+    "n5": "burnt sienna's",
+    "n6": "burnt siennas'",
+    "n7": "a burnt sienna",
+    "n8": "many burnt siennas"
+}

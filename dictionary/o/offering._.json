@@ -1,0 +1,18 @@
+{
+    "base": "offering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "offering",
+    "n2": "offerings",
+    "n3": "the offering",
+    "n4": "the offerings",
+    "n5": "offering's",
+    "n6": "offerings'",
+    "n7": "an offering",
+    "n8": "many offerings"
+}

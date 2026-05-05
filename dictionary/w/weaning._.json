@@ -1,0 +1,18 @@
+{
+    "base": "weaning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weaning",
+    "n2": "weanings",
+    "n3": "the weaning",
+    "n4": "the weanings",
+    "n5": "weaning's",
+    "n6": "weanings'",
+    "n7": "a weaning",
+    "n8": "many weanings"
+}

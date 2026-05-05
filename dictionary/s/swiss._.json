@@ -1,0 +1,18 @@
+{
+    "base": "swiss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "swiss",
+    "n2": "swisses",
+    "n3": "the swiss",
+    "n4": "the swisses",
+    "n5": "swiss'",
+    "n6": "swisses'",
+    "n7": "a swiss",
+    "n8": "many swisses"
+}

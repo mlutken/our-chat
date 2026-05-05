@@ -1,0 +1,18 @@
+{
+    "base": "windbag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "windbag",
+    "n2": "windbags",
+    "n3": "the windbag",
+    "n4": "the windbags",
+    "n5": "windbag's",
+    "n6": "windbags'",
+    "n7": "a windbag",
+    "n8": "many windbags"
+}

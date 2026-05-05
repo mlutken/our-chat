@@ -1,0 +1,18 @@
+{
+    "base": "additive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "additive",
+    "n2": "additives",
+    "n3": "the additive",
+    "n4": "the additives",
+    "n5": "additive's",
+    "n6": "additives'",
+    "n7": "an additive",
+    "n8": "many additives"
+}

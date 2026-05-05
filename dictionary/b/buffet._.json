@@ -1,0 +1,18 @@
+{
+    "base": "buffet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "buffet",
+    "n2": "buffets",
+    "n3": "the buffet",
+    "n4": "the buffets",
+    "n5": "buffet's",
+    "n6": "buffets'",
+    "n7": "a buffet",
+    "n8": "many buffets"
+}

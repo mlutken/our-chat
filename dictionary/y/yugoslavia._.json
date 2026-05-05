@@ -1,0 +1,18 @@
+{
+    "base": "yugoslavia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yugoslavia",
+    "n2": "yugoslavias",
+    "n3": "the yugoslavia",
+    "n4": "the yugoslavias",
+    "n5": "yugoslavia's",
+    "n6": "yugoslavias'",
+    "n7": "a yugoslavia",
+    "n8": "many yugoslavias"
+}

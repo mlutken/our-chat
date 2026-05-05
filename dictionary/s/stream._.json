@@ -1,11 +1,24 @@
 {
     "base": "stream",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "stream",
     "v2": "streamed",
     "v3": "streamed",
     "v4": "streaming",
-    "v5": "streams"
+    "v5": "streams",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "stream",
+    "n2": "streams",
+    "n3": "the stream",
+    "n4": "the streams",
+    "n5": "stream's",
+    "n6": "streams'",
+    "n7": "a stream",
+    "n8": "many streams"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "ore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ore",
+    "n2": "ores",
+    "n3": "the ore",
+    "n4": "the ores",
+    "n5": "ore's",
+    "n6": "ores'",
+    "n7": "an ore",
+    "n8": "many ores"
+}

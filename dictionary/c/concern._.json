@@ -1,11 +1,24 @@
 {
     "base": "concern",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "concern",
     "v2": "concerned",
     "v3": "concerned",
     "v4": "concerning",
-    "v5": "concerns"
+    "v5": "concerns",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n1": "concern",
+    "n2": "concerns",
+    "n3": "the concern",
+    "n4": "the concerns",
+    "n5": "concern's",
+    "n6": "concerns'",
+    "n7": "a concern",
+    "n8": "many concerns"
 }

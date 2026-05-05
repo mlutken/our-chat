@@ -1,0 +1,18 @@
+{
+    "base": "pterygium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pterygium",
+    "n2": "pterygia",
+    "n3": "the pterygium",
+    "n4": "the pterygia",
+    "n5": "pterygium's",
+    "n6": "pterygia's",
+    "n7": "a pterygium",
+    "n8": "many pterygia"
+}

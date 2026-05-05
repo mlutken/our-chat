@@ -1,0 +1,18 @@
+{
+    "base": "undershirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "undershirt",
+    "n2": "undershirts",
+    "n3": "the undershirt",
+    "n4": "the undershirts",
+    "n5": "undershirt's",
+    "n6": "undershirts'",
+    "n7": "an undershirt",
+    "n8": "many undershirts"
+}

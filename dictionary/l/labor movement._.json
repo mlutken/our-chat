@@ -1,0 +1,18 @@
+{
+    "base": "labor movement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "labor movement",
+    "n2": "labor movements",
+    "n3": "the labor movement",
+    "n4": "the labor movements",
+    "n5": "labor movement's",
+    "n6": "labor movements'",
+    "n7": "a labor movement",
+    "n8": "many labor movements"
+}

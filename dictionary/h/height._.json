@@ -7,5 +7,12 @@
     "n2": "heights",
     "n3": "the height",
     "n4": "the heights",
-    "n5": "height's"
+    "n5": "height's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "heights'",
+    "n7": "a height",
+    "n8": "many heights"
 }

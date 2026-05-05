@@ -1,11 +1,24 @@
 {
     "base": "ring",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "ring",
     "v2": "rang",
     "v3": "rung",
     "v4": "ringing",
-    "v5": "rings"
+    "v5": "rings",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "ring",
+    "n2": "rings",
+    "n3": "the ring",
+    "n4": "the rings",
+    "n5": "ring's",
+    "n6": "rings'",
+    "n7": "a ring",
+    "n8": "many rings"
 }

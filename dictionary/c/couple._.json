@@ -1,0 +1,18 @@
+{
+    "base": "couple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "couple",
+    "n2": "couples",
+    "n3": "the couple",
+    "n4": "the couples",
+    "n5": "couple's",
+    "n6": "couples'",
+    "n7": "a couple",
+    "n8": "many couples"
+}

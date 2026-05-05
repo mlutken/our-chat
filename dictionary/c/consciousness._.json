@@ -1,0 +1,18 @@
+{
+    "base": "consciousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "consciousness",
+    "n2": "consciousnesses",
+    "n3": "the consciousness",
+    "n4": "the consciousnesses",
+    "n5": "consciousness'",
+    "n6": "consciousnesses'",
+    "n7": "a consciousness",
+    "n8": "many consciousnesses"
+}

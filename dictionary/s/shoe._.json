@@ -1,0 +1,18 @@
+{
+    "base": "shoe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "shoe",
+    "n2": "shoes",
+    "n3": "the shoe",
+    "n4": "the shoes",
+    "n5": "shoe's",
+    "n6": "shoes'",
+    "n7": "a shoe",
+    "n8": "many shoes"
+}

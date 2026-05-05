@@ -1,0 +1,18 @@
+{
+    "base": "sardine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sardine",
+    "n2": "sardines",
+    "n3": "the sardine",
+    "n4": "the sardines",
+    "n5": "sardine's",
+    "n6": "sardines'",
+    "n7": "a sardine",
+    "n8": "many sardines"
+}

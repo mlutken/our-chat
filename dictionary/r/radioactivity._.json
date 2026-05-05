@@ -1,0 +1,18 @@
+{
+    "base": "radioactivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "radioactivity",
+    "n2": "radioactivities",
+    "n3": "the radioactivity",
+    "n4": "the radioactivities",
+    "n5": "radioactivity's",
+    "n6": "radioactivities'",
+    "n7": "a radioactivity",
+    "n8": "many radioactivities"
+}

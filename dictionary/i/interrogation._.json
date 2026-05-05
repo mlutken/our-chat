@@ -1,0 +1,18 @@
+{
+    "base": "interrogation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interrogation",
+    "n2": "interrogations",
+    "n3": "the interrogation",
+    "n4": "the interrogations",
+    "n5": "interrogation's",
+    "n6": "interrogations'",
+    "n7": "an interrogation",
+    "n8": "many interrogations"
+}

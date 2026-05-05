@@ -1,0 +1,18 @@
+{
+    "base": "jeep",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "jeep",
+    "n2": "jeeps",
+    "n3": "the jeep",
+    "n4": "the jeeps",
+    "n5": "jeep's",
+    "n6": "jeeps'",
+    "n7": "a jeep",
+    "n8": "many jeeps"
+}

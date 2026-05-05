@@ -1,0 +1,18 @@
+{
+    "base": "toughness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toughness",
+    "n2": "toughnesses",
+    "n3": "the toughness",
+    "n4": "the toughnesses",
+    "n5": "toughness'",
+    "n6": "toughnesses'",
+    "n7": "a toughness",
+    "n8": "many toughnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "war crime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "war crime",
+    "n2": "war crimes",
+    "n3": "the war crime",
+    "n4": "the war crimes",
+    "n5": "war crime's",
+    "n6": "war crimes'",
+    "n7": "a war crime",
+    "n8": "many war crimes"
+}

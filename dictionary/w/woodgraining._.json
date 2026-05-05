@@ -1,0 +1,18 @@
+{
+    "base": "woodgraining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "woodgraining",
+    "n2": "woodgrainings",
+    "n3": "the woodgraining",
+    "n4": "the woodgrainings",
+    "n5": "woodgraining's",
+    "n6": "woodgrainings'",
+    "n7": "a woodgraining",
+    "n8": "many woodgrainings"
+}

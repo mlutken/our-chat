@@ -1,0 +1,18 @@
+{
+    "base": "monarch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "monarch",
+    "n2": "monarches",
+    "n3": "the monarch",
+    "n4": "the monarches",
+    "n5": "monarch's",
+    "n6": "monarches'",
+    "n7": "a monarch",
+    "n8": "many monarches"
+}

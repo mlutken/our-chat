@@ -1,0 +1,18 @@
+{
+    "base": "coward",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "coward",
+    "n2": "cowards",
+    "n3": "the coward",
+    "n4": "the cowards",
+    "n5": "coward's",
+    "n6": "cowards'",
+    "n7": "a coward",
+    "n8": "many cowards"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nickname",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nickname",
+    "n2": "nicknames",
+    "n3": "the nickname",
+    "n4": "the nicknames",
+    "n5": "nickname's",
+    "n6": "nicknames'",
+    "n7": "a nickname",
+    "n8": "many nicknames"
+}

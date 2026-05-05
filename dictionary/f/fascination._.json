@@ -1,0 +1,18 @@
+{
+    "base": "fascination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fascination",
+    "n2": "fascinations",
+    "n3": "the fascination",
+    "n4": "the fascinations",
+    "n5": "fascination's",
+    "n6": "fascinations'",
+    "n7": "a fascination",
+    "n8": "many fascinations"
+}

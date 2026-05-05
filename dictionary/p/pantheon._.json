@@ -1,0 +1,18 @@
+{
+    "base": "pantheon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pantheon",
+    "n2": "pantheons",
+    "n3": "the pantheon",
+    "n4": "the pantheons",
+    "n5": "pantheon's",
+    "n6": "pantheons'",
+    "n7": "a pantheon",
+    "n8": "many pantheons"
+}

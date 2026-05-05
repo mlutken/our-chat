@@ -7,5 +7,12 @@
     "n2": "sales",
     "n3": "the sale",
     "n4": "the sales",
-    "n5": "sale's"
+    "n5": "sale's",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n6": "sales'",
+    "n7": "a sale",
+    "n8": "many sales"
 }

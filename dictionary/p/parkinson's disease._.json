@@ -1,0 +1,18 @@
+{
+    "base": "parkinson's disease",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parkinson's disease",
+    "n2": "parkinson's diseases",
+    "n3": "the parkinson's disease",
+    "n4": "the parkinson's diseases",
+    "n5": "parkinson's disease's",
+    "n6": "parkinson's diseases'",
+    "n7": "a parkinson's disease",
+    "n8": "many parkinson's diseases"
+}

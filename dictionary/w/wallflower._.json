@@ -1,0 +1,18 @@
+{
+    "base": "wallflower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wallflower",
+    "n2": "wallflowers",
+    "n3": "the wallflower",
+    "n4": "the wallflowers",
+    "n5": "wallflower's",
+    "n6": "wallflowers'",
+    "n7": "a wallflower",
+    "n8": "many wallflowers"
+}

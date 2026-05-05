@@ -1,0 +1,18 @@
+{
+    "base": "weight gaining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weight gaining",
+    "n2": "weight gainings",
+    "n3": "the weight gaining",
+    "n4": "the weight gainings",
+    "n5": "weight gaining's",
+    "n6": "weight gainings'",
+    "n7": "a weight gaining",
+    "n8": "many weight gainings"
+}

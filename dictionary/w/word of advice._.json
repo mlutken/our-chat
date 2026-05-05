@@ -1,0 +1,18 @@
+{
+    "base": "word of advice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "word of advice",
+    "n2": "word of advices",
+    "n3": "the word of advice",
+    "n4": "the word of advices",
+    "n5": "word of advice's",
+    "n6": "word of advices'",
+    "n7": "a word of advice",
+    "n8": "many word of advices"
+}

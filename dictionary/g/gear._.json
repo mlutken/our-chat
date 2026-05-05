@@ -1,0 +1,18 @@
+{
+    "base": "gear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gear",
+    "n2": "gears",
+    "n3": "the gear",
+    "n4": "the gears",
+    "n5": "gear's",
+    "n6": "gears'",
+    "n7": "a gear",
+    "n8": "many gears"
+}

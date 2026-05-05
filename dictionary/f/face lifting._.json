@@ -1,0 +1,18 @@
+{
+    "base": "face lifting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "face lifting",
+    "n2": "face liftings",
+    "n3": "the face lifting",
+    "n4": "the face liftings",
+    "n5": "face lifting's",
+    "n6": "face liftings'",
+    "n7": "a face lifting",
+    "n8": "many face liftings"
+}

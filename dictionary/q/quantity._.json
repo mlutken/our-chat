@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "quantity",
-    "n2": "quantitys",
+    "n2": "quantities",
     "n3": "the quantity",
-    "n4": "the quantitys",
-    "n5": "quantity's"
+    "n4": "the quantities",
+    "n5": "quantity's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "quantities'",
+    "n7": "a quantity",
+    "n8": "many quantities"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "showdown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "showdown",
+    "n2": "showdowns",
+    "n3": "the showdown",
+    "n4": "the showdowns",
+    "n5": "showdown's",
+    "n6": "showdowns'",
+    "n7": "a showdown",
+    "n8": "many showdowns"
+}

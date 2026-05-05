@@ -1,0 +1,18 @@
+{
+    "base": "watering place",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "watering place",
+    "n2": "watering places",
+    "n3": "the watering place",
+    "n4": "the watering places",
+    "n5": "watering place's",
+    "n6": "watering places'",
+    "n7": "a watering place",
+    "n8": "many watering places"
+}

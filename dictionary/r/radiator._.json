@@ -1,0 +1,18 @@
+{
+    "base": "radiator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "radiator",
+    "n2": "radiators",
+    "n3": "the radiator",
+    "n4": "the radiators",
+    "n5": "radiator's",
+    "n6": "radiators'",
+    "n7": "a radiator",
+    "n8": "many radiators"
+}

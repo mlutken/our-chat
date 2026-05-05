@@ -1,0 +1,18 @@
+{
+    "base": "maria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "maria",
+    "n2": "marias",
+    "n3": "the maria",
+    "n4": "the marias",
+    "n5": "maria's",
+    "n6": "marias'",
+    "n7": "a maria",
+    "n8": "many marias"
+}

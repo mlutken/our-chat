@@ -1,0 +1,18 @@
+{
+    "base": "constable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "constable",
+    "n2": "constables",
+    "n3": "the constable",
+    "n4": "the constables",
+    "n5": "constable's",
+    "n6": "constables'",
+    "n7": "a constable",
+    "n8": "many constables"
+}

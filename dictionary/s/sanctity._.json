@@ -1,0 +1,18 @@
+{
+    "base": "sanctity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sanctity",
+    "n2": "sanctities",
+    "n3": "the sanctity",
+    "n4": "the sanctities",
+    "n5": "sanctity's",
+    "n6": "sanctities'",
+    "n7": "a sanctity",
+    "n8": "many sanctities"
+}

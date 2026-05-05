@@ -1,0 +1,18 @@
+{
+    "base": "gunslinger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gunslinger",
+    "n2": "gunslingers",
+    "n3": "the gunslinger",
+    "n4": "the gunslingers",
+    "n5": "gunslinger's",
+    "n6": "gunslingers'",
+    "n7": "a gunslinger",
+    "n8": "many gunslingers"
+}

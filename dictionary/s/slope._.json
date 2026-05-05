@@ -1,0 +1,18 @@
+{
+    "base": "slope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "slope",
+    "n2": "slopes",
+    "n3": "the slope",
+    "n4": "the slopes",
+    "n5": "slope's",
+    "n6": "slopes'",
+    "n7": "a slope",
+    "n8": "many slopes"
+}

@@ -7,5 +7,12 @@
     "n2": "masters",
     "n3": "the master",
     "n4": "the masters",
-    "n5": "master's"
+    "n5": "master's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "masters'",
+    "n7": "a master",
+    "n8": "many masters"
 }

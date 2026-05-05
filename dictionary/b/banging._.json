@@ -1,0 +1,18 @@
+{
+    "base": "banging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "banging",
+    "n2": "bangings",
+    "n3": "the banging",
+    "n4": "the bangings",
+    "n5": "banging's",
+    "n6": "bangings'",
+    "n7": "a banging",
+    "n8": "many bangings"
+}

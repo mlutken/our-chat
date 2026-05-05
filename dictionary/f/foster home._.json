@@ -1,0 +1,18 @@
+{
+    "base": "foster home",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foster home",
+    "n2": "foster homes",
+    "n3": "the foster home",
+    "n4": "the foster homes",
+    "n5": "foster home's",
+    "n6": "foster homes'",
+    "n7": "a foster home",
+    "n8": "many foster homes"
+}

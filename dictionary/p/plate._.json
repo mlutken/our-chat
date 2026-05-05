@@ -1,0 +1,18 @@
+{
+    "base": "plate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "plate",
+    "n2": "plates",
+    "n3": "the plate",
+    "n4": "the plates",
+    "n5": "plate's",
+    "n6": "plates'",
+    "n7": "a plate",
+    "n8": "many plates"
+}

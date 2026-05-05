@@ -1,0 +1,18 @@
+{
+    "base": "christening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "christening",
+    "n2": "christenings",
+    "n3": "the christening",
+    "n4": "the christenings",
+    "n5": "christening's",
+    "n6": "christenings'",
+    "n7": "a christening",
+    "n8": "many christenings"
+}

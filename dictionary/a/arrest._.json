@@ -1,0 +1,18 @@
+{
+    "base": "arrest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "arrest",
+    "n2": "arrests",
+    "n3": "the arrest",
+    "n4": "the arrests",
+    "n5": "arrest's",
+    "n6": "arrests'",
+    "n7": "an arrest",
+    "n8": "many arrests"
+}

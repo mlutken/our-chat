@@ -1,0 +1,18 @@
+{
+    "base": "rapture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rapture",
+    "n2": "raptures",
+    "n3": "the rapture",
+    "n4": "the raptures",
+    "n5": "rapture's",
+    "n6": "raptures'",
+    "n7": "a rapture",
+    "n8": "many raptures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "complaisance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "complaisance",
+    "n2": "complaisances",
+    "n3": "the complaisance",
+    "n4": "the complaisances",
+    "n5": "complaisance's",
+    "n6": "complaisances'",
+    "n7": "a complaisance",
+    "n8": "many complaisances"
+}

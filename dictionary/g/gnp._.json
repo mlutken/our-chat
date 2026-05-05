@@ -1,0 +1,18 @@
+{
+    "base": "gnp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "gnp",
+    "n2": "gnps",
+    "n3": "the gnp",
+    "n4": "the gnps",
+    "n5": "gnp's",
+    "n6": "gnps'",
+    "n7": "a gnp",
+    "n8": "many gnps"
+}

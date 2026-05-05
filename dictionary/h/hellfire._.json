@@ -1,0 +1,18 @@
+{
+    "base": "hellfire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hellfire",
+    "n2": "hellfires",
+    "n3": "the hellfire",
+    "n4": "the hellfires",
+    "n5": "hellfire's",
+    "n6": "hellfires'",
+    "n7": "a hellfire",
+    "n8": "many hellfires"
+}

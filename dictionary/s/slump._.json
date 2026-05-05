@@ -1,0 +1,18 @@
+{
+    "base": "slump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slump",
+    "n2": "slumps",
+    "n3": "the slump",
+    "n4": "the slumps",
+    "n5": "slump's",
+    "n6": "slumps'",
+    "n7": "a slump",
+    "n8": "many slumps"
+}

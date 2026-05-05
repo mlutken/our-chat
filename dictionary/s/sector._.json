@@ -7,5 +7,12 @@
     "n2": "sectors",
     "n3": "the sector",
     "n4": "the sectors",
-    "n5": "sector's"
+    "n5": "sector's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "sectors'",
+    "n7": "a sector",
+    "n8": "many sectors"
 }

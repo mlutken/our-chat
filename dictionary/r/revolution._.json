@@ -7,5 +7,12 @@
     "n2": "revolutions",
     "n3": "the revolution",
     "n4": "the revolutions",
-    "n5": "revolution's"
+    "n5": "revolution's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "revolutions'",
+    "n7": "a revolution",
+    "n8": "many revolutions"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "traditionalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "traditionalism",
+    "n2": "traditionalisms",
+    "n3": "the traditionalism",
+    "n4": "the traditionalisms",
+    "n5": "traditionalism's",
+    "n6": "traditionalisms'",
+    "n7": "a traditionalism",
+    "n8": "many traditionalisms"
+}

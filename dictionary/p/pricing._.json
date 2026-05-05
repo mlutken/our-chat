@@ -1,0 +1,18 @@
+{
+    "base": "pricing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pricing",
+    "n2": "pricings",
+    "n3": "the pricing",
+    "n4": "the pricings",
+    "n5": "pricing's",
+    "n6": "pricings'",
+    "n7": "a pricing",
+    "n8": "many pricings"
+}

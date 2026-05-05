@@ -1,0 +1,18 @@
+{
+    "base": "run batted in",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "run batted in",
+    "n2": "run batted ins",
+    "n3": "the run batted in",
+    "n4": "the run batted ins",
+    "n5": "run batted in's",
+    "n6": "run batted ins'",
+    "n7": "a run batted in",
+    "n8": "many run batted ins"
+}

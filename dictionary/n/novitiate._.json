@@ -1,0 +1,18 @@
+{
+    "base": "novitiate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "novitiate",
+    "n2": "novitiates",
+    "n3": "the novitiate",
+    "n4": "the novitiates",
+    "n5": "novitiate's",
+    "n6": "novitiates'",
+    "n7": "a novitiate",
+    "n8": "many novitiates"
+}

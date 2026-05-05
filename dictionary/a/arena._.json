@@ -1,0 +1,18 @@
+{
+    "base": "arena",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arena",
+    "n2": "arenas",
+    "n3": "the arena",
+    "n4": "the arenas",
+    "n5": "arena's",
+    "n6": "arenas'",
+    "n7": "an arena",
+    "n8": "many arenas"
+}

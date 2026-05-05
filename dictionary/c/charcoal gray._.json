@@ -1,0 +1,18 @@
+{
+    "base": "charcoal gray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "charcoal gray",
+    "n2": "charcoal grays",
+    "n3": "the charcoal gray",
+    "n4": "the charcoal grays",
+    "n5": "charcoal gray's",
+    "n6": "charcoal grays'",
+    "n7": "a charcoal gray",
+    "n8": "many charcoal grays"
+}

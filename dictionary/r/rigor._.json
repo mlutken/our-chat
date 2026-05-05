@@ -1,0 +1,18 @@
+{
+    "base": "rigor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rigor",
+    "n2": "rigors",
+    "n3": "the rigor",
+    "n4": "the rigors",
+    "n5": "rigor's",
+    "n6": "rigors'",
+    "n7": "a rigor",
+    "n8": "many rigors"
+}

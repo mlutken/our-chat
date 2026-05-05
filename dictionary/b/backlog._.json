@@ -1,0 +1,18 @@
+{
+    "base": "backlog",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "backlog",
+    "n2": "backlogs",
+    "n3": "the backlog",
+    "n4": "the backlogs",
+    "n5": "backlog's",
+    "n6": "backlogs'",
+    "n7": "a backlog",
+    "n8": "many backlogs"
+}

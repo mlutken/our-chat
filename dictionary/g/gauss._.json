@@ -1,0 +1,18 @@
+{
+    "base": "gauss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gauss",
+    "n2": "gausses",
+    "n3": "the gauss",
+    "n4": "the gausses",
+    "n5": "gauss'",
+    "n6": "gausses'",
+    "n7": "a gauss",
+    "n8": "many gausses"
+}

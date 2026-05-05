@@ -1,0 +1,18 @@
+{
+    "base": "multichannel recorder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "multichannel recorder",
+    "n2": "multichannel recorders",
+    "n3": "the multichannel recorder",
+    "n4": "the multichannel recorders",
+    "n5": "multichannel recorder's",
+    "n6": "multichannel recorders'",
+    "n7": "a multichannel recorder",
+    "n8": "many multichannel recorders"
+}

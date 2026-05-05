@@ -1,0 +1,18 @@
+{
+    "base": "bibliography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bibliography",
+    "n2": "bibliographies",
+    "n3": "the bibliography",
+    "n4": "the bibliographies",
+    "n5": "bibliography's",
+    "n6": "bibliographies'",
+    "n7": "a bibliography",
+    "n8": "many bibliographies"
+}

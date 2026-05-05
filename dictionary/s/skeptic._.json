@@ -1,0 +1,18 @@
+{
+    "base": "skeptic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "skeptic",
+    "n2": "skeptics",
+    "n3": "the skeptic",
+    "n4": "the skeptics",
+    "n5": "skeptic's",
+    "n6": "skeptics'",
+    "n7": "a skeptic",
+    "n8": "many skeptics"
+}

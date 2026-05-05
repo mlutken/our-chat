@@ -1,0 +1,18 @@
+{
+    "base": "bush jacket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bush jacket",
+    "n2": "bush jackets",
+    "n3": "the bush jacket",
+    "n4": "the bush jackets",
+    "n5": "bush jacket's",
+    "n6": "bush jackets'",
+    "n7": "a bush jacket",
+    "n8": "many bush jackets"
+}

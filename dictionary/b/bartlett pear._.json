@@ -1,0 +1,18 @@
+{
+    "base": "bartlett pear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bartlett pear",
+    "n2": "bartlett pears",
+    "n3": "the bartlett pear",
+    "n4": "the bartlett pears",
+    "n5": "bartlett pear's",
+    "n6": "bartlett pears'",
+    "n7": "a bartlett pear",
+    "n8": "many bartlett pears"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "f",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "f",
+    "n2": "fs",
+    "n3": "the f",
+    "n4": "the fs",
+    "n5": "f's",
+    "n6": "fs'",
+    "n7": "a f",
+    "n8": "many fs"
+}

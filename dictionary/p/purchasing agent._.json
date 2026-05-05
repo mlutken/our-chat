@@ -1,0 +1,18 @@
+{
+    "base": "purchasing agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "purchasing agent",
+    "n2": "purchasing agents",
+    "n3": "the purchasing agent",
+    "n4": "the purchasing agents",
+    "n5": "purchasing agent's",
+    "n6": "purchasing agents'",
+    "n7": "a purchasing agent",
+    "n8": "many purchasing agents"
+}

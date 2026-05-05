@@ -1,0 +1,18 @@
+{
+    "base": "regular army",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "regular army",
+    "n2": "regular armies",
+    "n3": "the regular army",
+    "n4": "the regular armies",
+    "n5": "regular army's",
+    "n6": "regular armies'",
+    "n7": "a regular army",
+    "n8": "many regular armies"
+}

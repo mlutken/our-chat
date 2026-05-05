@@ -1,0 +1,18 @@
+{
+    "base": "enclosure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "enclosure",
+    "n2": "enclosures",
+    "n3": "the enclosure",
+    "n4": "the enclosures",
+    "n5": "enclosure's",
+    "n6": "enclosures'",
+    "n7": "an enclosure",
+    "n8": "many enclosures"
+}

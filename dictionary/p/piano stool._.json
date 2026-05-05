@@ -1,0 +1,18 @@
+{
+    "base": "piano stool",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "piano stool",
+    "n2": "piano stools",
+    "n3": "the piano stool",
+    "n4": "the piano stools",
+    "n5": "piano stool's",
+    "n6": "piano stools'",
+    "n7": "a piano stool",
+    "n8": "many piano stools"
+}

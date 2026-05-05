@@ -1,0 +1,18 @@
+{
+    "base": "trachea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trachea",
+    "n2": "tracheae",
+    "n3": "the trachea",
+    "n4": "the tracheae",
+    "n5": "trachea's",
+    "n6": "tracheae's",
+    "n7": "a trachea",
+    "n8": "many tracheae"
+}

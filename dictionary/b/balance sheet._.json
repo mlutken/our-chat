@@ -1,0 +1,18 @@
+{
+    "base": "balance sheet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balance sheet",
+    "n2": "balance sheets",
+    "n3": "the balance sheet",
+    "n4": "the balance sheets",
+    "n5": "balance sheet's",
+    "n6": "balance sheets'",
+    "n7": "a balance sheet",
+    "n8": "many balance sheets"
+}

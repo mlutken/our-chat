@@ -1,0 +1,18 @@
+{
+    "base": "campmate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "campmate",
+    "n2": "campmates",
+    "n3": "the campmate",
+    "n4": "the campmates",
+    "n5": "campmate's",
+    "n6": "campmates'",
+    "n7": "a campmate",
+    "n8": "many campmates"
+}

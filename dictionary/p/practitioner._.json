@@ -1,0 +1,18 @@
+{
+    "base": "practitioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "practitioner",
+    "n2": "practitioners",
+    "n3": "the practitioner",
+    "n4": "the practitioners",
+    "n5": "practitioner's",
+    "n6": "practitioners'",
+    "n7": "a practitioner",
+    "n8": "many practitioners"
+}

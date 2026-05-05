@@ -1,0 +1,18 @@
+{
+    "base": "sentry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sentry",
+    "n2": "sentries",
+    "n3": "the sentry",
+    "n4": "the sentries",
+    "n5": "sentry's",
+    "n6": "sentries'",
+    "n7": "a sentry",
+    "n8": "many sentries"
+}

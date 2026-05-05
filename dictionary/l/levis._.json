@@ -1,0 +1,18 @@
+{
+    "base": "levis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "levis",
+    "n2": "levises",
+    "n3": "the levis",
+    "n4": "the levises",
+    "n5": "levis'",
+    "n6": "levises'",
+    "n7": "a levis",
+    "n8": "many levises"
+}

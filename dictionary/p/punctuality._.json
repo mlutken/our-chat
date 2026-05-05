@@ -1,0 +1,18 @@
+{
+    "base": "punctuality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "punctuality",
+    "n2": "punctualities",
+    "n3": "the punctuality",
+    "n4": "the punctualities",
+    "n5": "punctuality's",
+    "n6": "punctualities'",
+    "n7": "a punctuality",
+    "n8": "many punctualities"
+}

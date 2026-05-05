@@ -1,0 +1,18 @@
+{
+    "base": "sheep rot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sheep rot",
+    "n2": "sheep rots",
+    "n3": "the sheep rot",
+    "n4": "the sheep rots",
+    "n5": "sheep rot's",
+    "n6": "sheep rots'",
+    "n7": "a sheep rot",
+    "n8": "many sheep rots"
+}

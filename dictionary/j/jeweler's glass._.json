@@ -1,0 +1,18 @@
+{
+    "base": "jeweler's glass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jeweler's glass",
+    "n2": "jeweler's glasses",
+    "n3": "the jeweler's glass",
+    "n4": "the jeweler's glasses",
+    "n5": "jeweler's glass'",
+    "n6": "jeweler's glasses'",
+    "n7": "a jeweler's glass",
+    "n8": "many jeweler's glasses"
+}

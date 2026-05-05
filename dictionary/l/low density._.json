@@ -1,0 +1,18 @@
+{
+    "base": "low density",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "low density",
+    "n2": "low densities",
+    "n3": "the low density",
+    "n4": "the low densities",
+    "n5": "low density's",
+    "n6": "low densities'",
+    "n7": "a low density",
+    "n8": "many low densities"
+}

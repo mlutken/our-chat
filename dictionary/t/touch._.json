@@ -1,11 +1,24 @@
 {
     "base": "touch",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "touch",
     "v2": "touched",
     "v3": "touched",
     "v4": "touching",
-    "v5": "touches"
+    "v5": "touches",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "touch",
+    "n2": "touches",
+    "n3": "the touch",
+    "n4": "the touches",
+    "n5": "touch's",
+    "n6": "touches'",
+    "n7": "a touch",
+    "n8": "many touches"
 }

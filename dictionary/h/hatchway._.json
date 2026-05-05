@@ -1,0 +1,18 @@
+{
+    "base": "hatchway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hatchway",
+    "n2": "hatchways",
+    "n3": "the hatchway",
+    "n4": "the hatchways",
+    "n5": "hatchway's",
+    "n6": "hatchways'",
+    "n7": "a hatchway",
+    "n8": "many hatchways"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "repayment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repayment",
+    "n2": "repayments",
+    "n3": "the repayment",
+    "n4": "the repayments",
+    "n5": "repayment's",
+    "n6": "repayments'",
+    "n7": "a repayment",
+    "n8": "many repayments"
+}

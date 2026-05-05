@@ -1,0 +1,18 @@
+{
+    "base": "cluster",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "cluster",
+    "n2": "clusters",
+    "n3": "the cluster",
+    "n4": "the clusters",
+    "n5": "cluster's",
+    "n6": "clusters'",
+    "n7": "a cluster",
+    "n8": "many clusters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "boundary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "boundary",
+    "n2": "boundaries",
+    "n3": "the boundary",
+    "n4": "the boundaries",
+    "n5": "boundary's",
+    "n6": "boundaries'",
+    "n7": "a boundary",
+    "n8": "many boundaries"
+}

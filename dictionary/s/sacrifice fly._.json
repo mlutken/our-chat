@@ -1,0 +1,18 @@
+{
+    "base": "sacrifice fly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sacrifice fly",
+    "n2": "sacrifice flies",
+    "n3": "the sacrifice fly",
+    "n4": "the sacrifice flies",
+    "n5": "sacrifice fly's",
+    "n6": "sacrifice flies'",
+    "n7": "a sacrifice fly",
+    "n8": "many sacrifice flies"
+}

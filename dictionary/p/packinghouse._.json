@@ -1,0 +1,18 @@
+{
+    "base": "packinghouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "packinghouse",
+    "n2": "packinghouses",
+    "n3": "the packinghouse",
+    "n4": "the packinghouses",
+    "n5": "packinghouse's",
+    "n6": "packinghouses'",
+    "n7": "a packinghouse",
+    "n8": "many packinghouses"
+}

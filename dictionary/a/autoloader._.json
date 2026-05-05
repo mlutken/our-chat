@@ -1,0 +1,18 @@
+{
+    "base": "autoloader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "autoloader",
+    "n2": "autoloaders",
+    "n3": "the autoloader",
+    "n4": "the autoloaders",
+    "n5": "autoloader's",
+    "n6": "autoloaders'",
+    "n7": "an autoloader",
+    "n8": "many autoloaders"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lamentation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lamentation",
+    "n2": "lamentations",
+    "n3": "the lamentation",
+    "n4": "the lamentations",
+    "n5": "lamentation's",
+    "n6": "lamentations'",
+    "n7": "a lamentation",
+    "n8": "many lamentations"
+}

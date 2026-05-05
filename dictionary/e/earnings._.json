@@ -1,0 +1,18 @@
+{
+    "base": "earnings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "earnings",
+    "n2": "earningses",
+    "n3": "the earnings",
+    "n4": "the earningses",
+    "n5": "earnings'",
+    "n6": "earningses'",
+    "n7": "an earnings",
+    "n8": "many earningses"
+}

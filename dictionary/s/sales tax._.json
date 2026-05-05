@@ -1,0 +1,18 @@
+{
+    "base": "sales tax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sales tax",
+    "n2": "sales taxes",
+    "n3": "the sales tax",
+    "n4": "the sales taxes",
+    "n5": "sales tax's",
+    "n6": "sales taxes'",
+    "n7": "a sales tax",
+    "n8": "many sales taxes"
+}

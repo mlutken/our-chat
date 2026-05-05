@@ -1,0 +1,18 @@
+{
+    "base": "joker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "joker",
+    "n2": "jokers",
+    "n3": "the joker",
+    "n4": "the jokers",
+    "n5": "joker's",
+    "n6": "jokers'",
+    "n7": "a joker",
+    "n8": "many jokers"
+}

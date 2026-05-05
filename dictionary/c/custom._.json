@@ -1,0 +1,18 @@
+{
+    "base": "custom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "custom",
+    "n2": "customs",
+    "n3": "the custom",
+    "n4": "the customs",
+    "n5": "custom's",
+    "n6": "customs'",
+    "n7": "a custom",
+    "n8": "many customs"
+}

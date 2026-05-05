@@ -1,0 +1,18 @@
+{
+    "base": "united states of america",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "united states of america",
+    "n2": "united states of americas",
+    "n3": "the united states of america",
+    "n4": "the united states of americas",
+    "n5": "united states of america's",
+    "n6": "united states of americas'",
+    "n7": "a united states of america",
+    "n8": "many united states of americas"
+}

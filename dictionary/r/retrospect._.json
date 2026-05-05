@@ -1,0 +1,18 @@
+{
+    "base": "retrospect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retrospect",
+    "n2": "retrospects",
+    "n3": "the retrospect",
+    "n4": "the retrospects",
+    "n5": "retrospect's",
+    "n6": "retrospects'",
+    "n7": "a retrospect",
+    "n8": "many retrospects"
+}

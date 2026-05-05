@@ -1,11 +1,24 @@
 {
     "base": "present",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "present",
     "v2": "presented",
     "v3": "presented",
     "v4": "presenting",
-    "v5": "presents"
+    "v5": "presents",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "present",
+    "n2": "presents",
+    "n3": "the present",
+    "n4": "the presents",
+    "n5": "present's",
+    "n6": "presents'",
+    "n7": "a present",
+    "n8": "many presents"
 }

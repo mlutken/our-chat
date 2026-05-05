@@ -1,0 +1,18 @@
+{
+    "base": "black olive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "black olive",
+    "n2": "black olives",
+    "n3": "the black olive",
+    "n4": "the black olives",
+    "n5": "black olive's",
+    "n6": "black olives'",
+    "n7": "a black olive",
+    "n8": "many black olives"
+}

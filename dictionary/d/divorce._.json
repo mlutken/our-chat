@@ -1,0 +1,18 @@
+{
+    "base": "divorce",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "divorce",
+    "n2": "divorces",
+    "n3": "the divorce",
+    "n4": "the divorces",
+    "n5": "divorce's",
+    "n6": "divorces'",
+    "n7": "a divorce",
+    "n8": "many divorces"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "breeches",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breeches",
+    "n2": "breecheses",
+    "n3": "the breeches",
+    "n4": "the breecheses",
+    "n5": "breeches'",
+    "n6": "breecheses'",
+    "n7": "a breeches",
+    "n8": "many breecheses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "closed circuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "closed circuit",
+    "n2": "closed circuits",
+    "n3": "the closed circuit",
+    "n4": "the closed circuits",
+    "n5": "closed circuit's",
+    "n6": "closed circuits'",
+    "n7": "a closed circuit",
+    "n8": "many closed circuits"
+}

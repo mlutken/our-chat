@@ -1,0 +1,18 @@
+{
+    "base": "diplomacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "diplomacy",
+    "n2": "diplomacies",
+    "n3": "the diplomacy",
+    "n4": "the diplomacies",
+    "n5": "diplomacy's",
+    "n6": "diplomacies'",
+    "n7": "a diplomacy",
+    "n8": "many diplomacies"
+}

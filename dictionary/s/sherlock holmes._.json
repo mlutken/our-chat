@@ -1,0 +1,18 @@
+{
+    "base": "sherlock holmes",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "sherlock holmes",
+    "n2": "sherlock holmeses",
+    "n3": "the sherlock holmes",
+    "n4": "the sherlock holmeses",
+    "n5": "sherlock holmes'",
+    "n6": "sherlock holmeses'",
+    "n7": "a sherlock holmes",
+    "n8": "many sherlock holmeses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "separation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "separation",
+    "n2": "separations",
+    "n3": "the separation",
+    "n4": "the separations",
+    "n5": "separation's",
+    "n6": "separations'",
+    "n7": "a separation",
+    "n8": "many separations"
+}

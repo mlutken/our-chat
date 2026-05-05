@@ -1,0 +1,18 @@
+{
+    "base": "greek chorus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "greek chorus",
+    "n2": "greek choruses",
+    "n3": "the greek chorus",
+    "n4": "the greek choruses",
+    "n5": "greek chorus'",
+    "n6": "greek choruses'",
+    "n7": "a greek chorus",
+    "n8": "many greek choruses"
+}

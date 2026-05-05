@@ -1,0 +1,18 @@
+{
+    "base": "wound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "wound",
+    "n2": "wounds",
+    "n3": "the wound",
+    "n4": "the wounds",
+    "n5": "wound's",
+    "n6": "wounds'",
+    "n7": "a wound",
+    "n8": "many wounds"
+}

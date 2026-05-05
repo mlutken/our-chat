@@ -1,0 +1,18 @@
+{
+    "base": "twenties",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "twenties",
+    "n2": "twentieses",
+    "n3": "the twenties",
+    "n4": "the twentieses",
+    "n5": "twenties'",
+    "n6": "twentieses'",
+    "n7": "a twenties",
+    "n8": "many twentieses"
+}

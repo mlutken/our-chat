@@ -1,0 +1,18 @@
+{
+    "base": "brig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brig",
+    "n2": "brigs",
+    "n3": "the brig",
+    "n4": "the brigs",
+    "n5": "brig's",
+    "n6": "brigs'",
+    "n7": "a brig",
+    "n8": "many brigs"
+}

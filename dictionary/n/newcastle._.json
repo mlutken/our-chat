@@ -1,0 +1,18 @@
+{
+    "base": "newcastle",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "newcastle",
+    "n2": "newcastles",
+    "n3": "the newcastle",
+    "n4": "the newcastles",
+    "n5": "newcastle's",
+    "n6": "newcastles'",
+    "n7": "a newcastle",
+    "n8": "many newcastles"
+}

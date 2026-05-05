@@ -1,0 +1,18 @@
+{
+    "base": "frontier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "frontier",
+    "n2": "frontiers",
+    "n3": "the frontier",
+    "n4": "the frontiers",
+    "n5": "frontier's",
+    "n6": "frontiers'",
+    "n7": "a frontier",
+    "n8": "many frontiers"
+}

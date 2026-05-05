@@ -1,11 +1,24 @@
 {
     "base": "wink",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wink",
     "v2": "winked",
     "v3": "winked",
     "v4": "winking",
-    "v5": "winks"
+    "v5": "winks",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wink",
+    "n2": "winks",
+    "n3": "the wink",
+    "n4": "the winks",
+    "n5": "wink's",
+    "n6": "winks'",
+    "n7": "a wink",
+    "n8": "many winks"
 }

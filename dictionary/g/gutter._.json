@@ -1,0 +1,18 @@
+{
+    "base": "gutter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gutter",
+    "n2": "gutters",
+    "n3": "the gutter",
+    "n4": "the gutters",
+    "n5": "gutter's",
+    "n6": "gutters'",
+    "n7": "a gutter",
+    "n8": "many gutters"
+}

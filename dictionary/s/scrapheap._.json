@@ -1,0 +1,18 @@
+{
+    "base": "scrapheap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scrapheap",
+    "n2": "scrapheaps",
+    "n3": "the scrapheap",
+    "n4": "the scrapheaps",
+    "n5": "scrapheap's",
+    "n6": "scrapheaps'",
+    "n7": "a scrapheap",
+    "n8": "many scrapheaps"
+}

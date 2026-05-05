@@ -1,0 +1,18 @@
+{
+    "base": "misery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "misery",
+    "n2": "miseries",
+    "n3": "the misery",
+    "n4": "the miseries",
+    "n5": "misery's",
+    "n6": "miseries'",
+    "n7": "a misery",
+    "n8": "many miseries"
+}

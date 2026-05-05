@@ -1,0 +1,18 @@
+{
+    "base": "assortment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assortment",
+    "n2": "assortments",
+    "n3": "the assortment",
+    "n4": "the assortments",
+    "n5": "assortment's",
+    "n6": "assortments'",
+    "n7": "an assortment",
+    "n8": "many assortments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gravy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gravy",
+    "n2": "gravies",
+    "n3": "the gravy",
+    "n4": "the gravies",
+    "n5": "gravy's",
+    "n6": "gravies'",
+    "n7": "a gravy",
+    "n8": "many gravies"
+}

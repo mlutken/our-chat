@@ -1,0 +1,18 @@
+{
+    "base": "condensed milk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "condensed milk",
+    "n2": "condensed milks",
+    "n3": "the condensed milk",
+    "n4": "the condensed milks",
+    "n5": "condensed milk's",
+    "n6": "condensed milks'",
+    "n7": "a condensed milk",
+    "n8": "many condensed milks"
+}

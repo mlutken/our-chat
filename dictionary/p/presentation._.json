@@ -7,5 +7,12 @@
     "n2": "presentations",
     "n3": "the presentation",
     "n4": "the presentations",
-    "n5": "presentation's"
+    "n5": "presentation's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "presentations'",
+    "n7": "a presentation",
+    "n8": "many presentations"
 }

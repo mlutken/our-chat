@@ -1,0 +1,18 @@
+{
+    "base": "shorts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shorts",
+    "n2": "shortses",
+    "n3": "the shorts",
+    "n4": "the shortses",
+    "n5": "shorts'",
+    "n6": "shortses'",
+    "n7": "a shorts",
+    "n8": "many shortses"
+}

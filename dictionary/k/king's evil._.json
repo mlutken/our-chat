@@ -1,0 +1,18 @@
+{
+    "base": "king's evil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "king's evil",
+    "n2": "king's evils",
+    "n3": "the king's evil",
+    "n4": "the king's evils",
+    "n5": "king's evil's",
+    "n6": "king's evils'",
+    "n7": "a king's evil",
+    "n8": "many king's evils"
+}

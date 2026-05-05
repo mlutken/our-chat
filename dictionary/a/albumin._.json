@@ -1,0 +1,18 @@
+{
+    "base": "albumin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "albumin",
+    "n2": "albumins",
+    "n3": "the albumin",
+    "n4": "the albumins",
+    "n5": "albumin's",
+    "n6": "albumins'",
+    "n7": "an albumin",
+    "n8": "many albumins"
+}

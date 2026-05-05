@@ -1,0 +1,18 @@
+{
+    "base": "plaster saint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plaster saint",
+    "n2": "plaster saints",
+    "n3": "the plaster saint",
+    "n4": "the plaster saints",
+    "n5": "plaster saint's",
+    "n6": "plaster saints'",
+    "n7": "a plaster saint",
+    "n8": "many plaster saints"
+}

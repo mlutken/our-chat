@@ -1,0 +1,18 @@
+{
+    "base": "electric razor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "electric razor",
+    "n2": "electric razors",
+    "n3": "the electric razor",
+    "n4": "the electric razors",
+    "n5": "electric razor's",
+    "n6": "electric razors'",
+    "n7": "an electric razor",
+    "n8": "many electric razors"
+}

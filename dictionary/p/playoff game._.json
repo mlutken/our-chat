@@ -1,0 +1,18 @@
+{
+    "base": "playoff game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "playoff game",
+    "n2": "playoff games",
+    "n3": "the playoff game",
+    "n4": "the playoff games",
+    "n5": "playoff game's",
+    "n6": "playoff games'",
+    "n7": "a playoff game",
+    "n8": "many playoff games"
+}

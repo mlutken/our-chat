@@ -1,0 +1,18 @@
+{
+    "base": "tending",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tending",
+    "n2": "tendings",
+    "n3": "the tending",
+    "n4": "the tendings",
+    "n5": "tending's",
+    "n6": "tendings'",
+    "n7": "a tending",
+    "n8": "many tendings"
+}

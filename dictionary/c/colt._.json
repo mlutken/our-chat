@@ -1,0 +1,18 @@
+{
+    "base": "colt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "colt",
+    "n2": "colts",
+    "n3": "the colt",
+    "n4": "the colts",
+    "n5": "colt's",
+    "n6": "colts'",
+    "n7": "a colt",
+    "n8": "many colts"
+}

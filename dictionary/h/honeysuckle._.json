@@ -1,0 +1,18 @@
+{
+    "base": "honeysuckle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "honeysuckle",
+    "n2": "honeysuckles",
+    "n3": "the honeysuckle",
+    "n4": "the honeysuckles",
+    "n5": "honeysuckle's",
+    "n6": "honeysuckles'",
+    "n7": "a honeysuckle",
+    "n8": "many honeysuckles"
+}

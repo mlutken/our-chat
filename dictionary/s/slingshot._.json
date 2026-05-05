@@ -1,0 +1,18 @@
+{
+    "base": "slingshot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slingshot",
+    "n2": "slingshots",
+    "n3": "the slingshot",
+    "n4": "the slingshots",
+    "n5": "slingshot's",
+    "n6": "slingshots'",
+    "n7": "a slingshot",
+    "n8": "many slingshots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "incense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incense",
+    "n2": "incenses",
+    "n3": "the incense",
+    "n4": "the incenses",
+    "n5": "incense's",
+    "n6": "incenses'",
+    "n7": "an incense",
+    "n8": "many incenses"
+}

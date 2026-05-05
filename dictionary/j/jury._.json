@@ -1,0 +1,18 @@
+{
+    "base": "jury",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "jury",
+    "n2": "juries",
+    "n3": "the jury",
+    "n4": "the juries",
+    "n5": "jury's",
+    "n6": "juries'",
+    "n7": "a jury",
+    "n8": "many juries"
+}

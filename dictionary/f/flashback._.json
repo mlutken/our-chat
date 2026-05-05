@@ -1,0 +1,18 @@
+{
+    "base": "flashback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flashback",
+    "n2": "flashbacks",
+    "n3": "the flashback",
+    "n4": "the flashbacks",
+    "n5": "flashback's",
+    "n6": "flashbacks'",
+    "n7": "a flashback",
+    "n8": "many flashbacks"
+}

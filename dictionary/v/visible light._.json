@@ -1,0 +1,18 @@
+{
+    "base": "visible light",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "visible light",
+    "n2": "visible lights",
+    "n3": "the visible light",
+    "n4": "the visible lights",
+    "n5": "visible light's",
+    "n6": "visible lights'",
+    "n7": "a visible light",
+    "n8": "many visible lights"
+}

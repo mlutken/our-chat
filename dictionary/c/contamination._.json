@@ -1,0 +1,18 @@
+{
+    "base": "contamination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "contamination",
+    "n2": "contaminations",
+    "n3": "the contamination",
+    "n4": "the contaminations",
+    "n5": "contamination's",
+    "n6": "contaminations'",
+    "n7": "a contamination",
+    "n8": "many contaminations"
+}

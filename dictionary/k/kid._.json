@@ -7,5 +7,12 @@
     "n2": "kids",
     "n3": "the kid",
     "n4": "the kids",
-    "n5": "kid's"
+    "n5": "kid's",
+    "proper": false,
+    "commonness": 53,
+    "max_commonness": 6834,
+    "commonness_ge_count": 300,
+    "n6": "kids'",
+    "n7": "a kid",
+    "n8": "many kids"
 }

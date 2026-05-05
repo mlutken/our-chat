@@ -1,0 +1,18 @@
+{
+    "base": "rogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rogue",
+    "n2": "rogues",
+    "n3": "the rogue",
+    "n4": "the rogues",
+    "n5": "rogue's",
+    "n6": "rogues'",
+    "n7": "a rogue",
+    "n8": "many rogues"
+}

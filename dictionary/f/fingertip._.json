@@ -1,0 +1,18 @@
+{
+    "base": "fingertip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fingertip",
+    "n2": "fingertips",
+    "n3": "the fingertip",
+    "n4": "the fingertips",
+    "n5": "fingertip's",
+    "n6": "fingertips'",
+    "n7": "a fingertip",
+    "n8": "many fingertips"
+}

@@ -7,5 +7,12 @@
     "n2": "audiences",
     "n3": "the audience",
     "n4": "the audiences",
-    "n5": "audience's"
+    "n5": "audience's",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "audiences'",
+    "n7": "an audience",
+    "n8": "many audiences"
 }

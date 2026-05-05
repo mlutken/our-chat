@@ -7,5 +7,12 @@
     "n2": "scales",
     "n3": "the scale",
     "n4": "the scales",
-    "n5": "scale's"
+    "n5": "scale's",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n6": "scales'",
+    "n7": "a scale",
+    "n8": "many scales"
 }

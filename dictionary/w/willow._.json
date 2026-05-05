@@ -1,0 +1,18 @@
+{
+    "base": "willow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "willow",
+    "n2": "willows",
+    "n3": "the willow",
+    "n4": "the willows",
+    "n5": "willow's",
+    "n6": "willows'",
+    "n7": "a willow",
+    "n8": "many willows"
+}

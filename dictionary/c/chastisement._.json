@@ -1,0 +1,18 @@
+{
+    "base": "chastisement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chastisement",
+    "n2": "chastisements",
+    "n3": "the chastisement",
+    "n4": "the chastisements",
+    "n5": "chastisement's",
+    "n6": "chastisements'",
+    "n7": "a chastisement",
+    "n8": "many chastisements"
+}

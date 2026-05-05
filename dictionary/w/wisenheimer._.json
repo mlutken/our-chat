@@ -1,0 +1,18 @@
+{
+    "base": "wisenheimer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wisenheimer",
+    "n2": "wisenheimers",
+    "n3": "the wisenheimer",
+    "n4": "the wisenheimers",
+    "n5": "wisenheimer's",
+    "n6": "wisenheimers'",
+    "n7": "a wisenheimer",
+    "n8": "many wisenheimers"
+}

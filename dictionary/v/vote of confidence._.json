@@ -1,0 +1,18 @@
+{
+    "base": "vote of confidence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vote of confidence",
+    "n2": "vote of confidences",
+    "n3": "the vote of confidence",
+    "n4": "the vote of confidences",
+    "n5": "vote of confidence's",
+    "n6": "vote of confidences'",
+    "n7": "a vote of confidence",
+    "n8": "many vote of confidences"
+}

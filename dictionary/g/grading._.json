@@ -1,0 +1,18 @@
+{
+    "base": "grading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grading",
+    "n2": "gradings",
+    "n3": "the grading",
+    "n4": "the gradings",
+    "n5": "grading's",
+    "n6": "gradings'",
+    "n7": "a grading",
+    "n8": "many gradings"
+}

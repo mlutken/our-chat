@@ -1,0 +1,18 @@
+{
+    "base": "covered wagon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "covered wagon",
+    "n2": "covered wagons",
+    "n3": "the covered wagon",
+    "n4": "the covered wagons",
+    "n5": "covered wagon's",
+    "n6": "covered wagons'",
+    "n7": "a covered wagon",
+    "n8": "many covered wagons"
+}

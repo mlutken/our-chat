@@ -1,0 +1,18 @@
+{
+    "base": "packet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "packet",
+    "n2": "packets",
+    "n3": "the packet",
+    "n4": "the packets",
+    "n5": "packet's",
+    "n6": "packets'",
+    "n7": "a packet",
+    "n8": "many packets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "unit cell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "unit cell",
+    "n2": "unit cells",
+    "n3": "the unit cell",
+    "n4": "the unit cells",
+    "n5": "unit cell's",
+    "n6": "unit cells'",
+    "n7": "a unit cell",
+    "n8": "many unit cells"
+}

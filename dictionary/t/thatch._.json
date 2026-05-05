@@ -1,0 +1,18 @@
+{
+    "base": "thatch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thatch",
+    "n2": "thatches",
+    "n3": "the thatch",
+    "n4": "the thatches",
+    "n5": "thatch's",
+    "n6": "thatches'",
+    "n7": "a thatch",
+    "n8": "many thatches"
+}

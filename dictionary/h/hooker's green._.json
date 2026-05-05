@@ -1,0 +1,18 @@
+{
+    "base": "hooker's green",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hooker's green",
+    "n2": "hooker's greens",
+    "n3": "the hooker's green",
+    "n4": "the hooker's greens",
+    "n5": "hooker's green's",
+    "n6": "hooker's greens'",
+    "n7": "a hooker's green",
+    "n8": "many hooker's greens"
+}

@@ -7,5 +7,12 @@
     "n2": "treatments",
     "n3": "the treatment",
     "n4": "the treatments",
-    "n5": "treatment's"
+    "n5": "treatment's",
+    "proper": false,
+    "commonness": 59,
+    "max_commonness": 6834,
+    "commonness_ge_count": 262,
+    "n6": "treatments'",
+    "n7": "a treatment",
+    "n8": "many treatments"
 }

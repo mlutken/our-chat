@@ -1,0 +1,18 @@
+{
+    "base": "variable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "variable",
+    "n2": "variables",
+    "n3": "the variable",
+    "n4": "the variables",
+    "n5": "variable's",
+    "n6": "variables'",
+    "n7": "a variable",
+    "n8": "many variables"
+}

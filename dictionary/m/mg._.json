@@ -1,0 +1,18 @@
+{
+    "base": "mg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "mg",
+    "n2": "mgs",
+    "n3": "the mg",
+    "n4": "the mgs",
+    "n5": "mg's",
+    "n6": "mgs'",
+    "n7": "a mg",
+    "n8": "many mgs"
+}

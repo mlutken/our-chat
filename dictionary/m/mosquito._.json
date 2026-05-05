@@ -1,0 +1,18 @@
+{
+    "base": "mosquito",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mosquito",
+    "n2": "mosquitoes",
+    "n3": "the mosquito",
+    "n4": "the mosquitoes",
+    "n5": "mosquito's",
+    "n6": "mosquitoes'",
+    "n7": "a mosquito",
+    "n8": "many mosquitoes"
+}

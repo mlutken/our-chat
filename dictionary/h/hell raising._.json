@@ -1,0 +1,18 @@
+{
+    "base": "hell raising",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hell raising",
+    "n2": "hell raisings",
+    "n3": "the hell raising",
+    "n4": "the hell raisings",
+    "n5": "hell raising's",
+    "n6": "hell raisings'",
+    "n7": "a hell raising",
+    "n8": "many hell raisings"
+}

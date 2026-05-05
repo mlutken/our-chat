@@ -1,0 +1,18 @@
+{
+    "base": "laggard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laggard",
+    "n2": "laggards",
+    "n3": "the laggard",
+    "n4": "the laggards",
+    "n5": "laggard's",
+    "n6": "laggards'",
+    "n7": "a laggard",
+    "n8": "many laggards"
+}

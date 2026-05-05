@@ -1,0 +1,18 @@
+{
+    "base": "worse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worse",
+    "n2": "worses",
+    "n3": "the worse",
+    "n4": "the worses",
+    "n5": "worse's",
+    "n6": "worses'",
+    "n7": "a worse",
+    "n8": "many worses"
+}

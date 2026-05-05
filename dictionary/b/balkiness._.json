@@ -1,0 +1,18 @@
+{
+    "base": "balkiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balkiness",
+    "n2": "balkinesses",
+    "n3": "the balkiness",
+    "n4": "the balkinesses",
+    "n5": "balkiness'",
+    "n6": "balkinesses'",
+    "n7": "a balkiness",
+    "n8": "many balkinesses"
+}

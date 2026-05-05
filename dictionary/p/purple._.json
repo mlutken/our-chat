@@ -1,0 +1,18 @@
+{
+    "base": "purple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "purple",
+    "n2": "purples",
+    "n3": "the purple",
+    "n4": "the purples",
+    "n5": "purple's",
+    "n6": "purples'",
+    "n7": "a purple",
+    "n8": "many purples"
+}

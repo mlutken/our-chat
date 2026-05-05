@@ -1,0 +1,18 @@
+{
+    "base": "mah-jongg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mah-jongg",
+    "n2": "mah-jonggs",
+    "n3": "the mah-jongg",
+    "n4": "the mah-jonggs",
+    "n5": "mah-jongg's",
+    "n6": "mah-jonggs'",
+    "n7": "a mah-jongg",
+    "n8": "many mah-jonggs"
+}

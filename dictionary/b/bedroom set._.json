@@ -1,0 +1,18 @@
+{
+    "base": "bedroom set",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bedroom set",
+    "n2": "bedroom sets",
+    "n3": "the bedroom set",
+    "n4": "the bedroom sets",
+    "n5": "bedroom set's",
+    "n6": "bedroom sets'",
+    "n7": "a bedroom set",
+    "n8": "many bedroom sets"
+}

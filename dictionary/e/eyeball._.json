@@ -1,0 +1,18 @@
+{
+    "base": "eyeball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eyeball",
+    "n2": "eyeballs",
+    "n3": "the eyeball",
+    "n4": "the eyeballs",
+    "n5": "eyeball's",
+    "n6": "eyeballs'",
+    "n7": "an eyeball",
+    "n8": "many eyeballs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mercenary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mercenary",
+    "n2": "mercenaries",
+    "n3": "the mercenary",
+    "n4": "the mercenaries",
+    "n5": "mercenary's",
+    "n6": "mercenaries'",
+    "n7": "a mercenary",
+    "n8": "many mercenaries"
+}

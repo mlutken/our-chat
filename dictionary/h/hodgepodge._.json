@@ -1,0 +1,18 @@
+{
+    "base": "hodgepodge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hodgepodge",
+    "n2": "hodgepodges",
+    "n3": "the hodgepodge",
+    "n4": "the hodgepodges",
+    "n5": "hodgepodge's",
+    "n6": "hodgepodges'",
+    "n7": "a hodgepodge",
+    "n8": "many hodgepodges"
+}

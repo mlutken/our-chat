@@ -7,5 +7,12 @@
     "n2": "stories",
     "n3": "the story",
     "n4": "the stories",
-    "n5": "story's"
+    "n5": "story's",
+    "proper": false,
+    "commonness": 63,
+    "max_commonness": 6834,
+    "commonness_ge_count": 241,
+    "n6": "stories'",
+    "n7": "a story",
+    "n8": "many stories"
 }

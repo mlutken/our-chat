@@ -1,0 +1,18 @@
+{
+    "base": "leak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leak",
+    "n2": "leaks",
+    "n3": "the leak",
+    "n4": "the leaks",
+    "n5": "leak's",
+    "n6": "leaks'",
+    "n7": "a leak",
+    "n8": "many leaks"
+}

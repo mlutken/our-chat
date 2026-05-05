@@ -1,0 +1,18 @@
+{
+    "base": "teaspoonful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "teaspoonful",
+    "n2": "teaspoonfuls",
+    "n3": "the teaspoonful",
+    "n4": "the teaspoonfuls",
+    "n5": "teaspoonful's",
+    "n6": "teaspoonfuls'",
+    "n7": "a teaspoonful",
+    "n8": "many teaspoonfuls"
+}

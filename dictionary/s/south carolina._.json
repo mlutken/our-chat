@@ -1,0 +1,18 @@
+{
+    "base": "south carolina",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "south carolina",
+    "n2": "south carolinas",
+    "n3": "the south carolina",
+    "n4": "the south carolinas",
+    "n5": "south carolina's",
+    "n6": "south carolinas'",
+    "n7": "a south carolina",
+    "n8": "many south carolinas"
+}

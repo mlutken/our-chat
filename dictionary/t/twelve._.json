@@ -1,0 +1,18 @@
+{
+    "base": "twelve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "twelve",
+    "n2": "twelves",
+    "n3": "the twelve",
+    "n4": "the twelves",
+    "n5": "twelve's",
+    "n6": "twelves'",
+    "n7": "a twelve",
+    "n8": "many twelves"
+}

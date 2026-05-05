@@ -7,5 +7,12 @@
     "n2": "papers",
     "n3": "the paper",
     "n4": "the papers",
-    "n5": "paper's"
+    "n5": "paper's",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n6": "papers'",
+    "n7": "a paper",
+    "n8": "many papers"
 }

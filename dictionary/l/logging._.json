@@ -1,0 +1,18 @@
+{
+    "base": "logging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "logging",
+    "n2": "loggings",
+    "n3": "the logging",
+    "n4": "the loggings",
+    "n5": "logging's",
+    "n6": "loggings'",
+    "n7": "a logging",
+    "n8": "many loggings"
+}

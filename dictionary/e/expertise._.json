@@ -7,5 +7,12 @@
     "n2": "expertises",
     "n3": "the expertise",
     "n4": "the expertises",
-    "n5": "expertise's"
+    "n5": "expertise's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "expertises'",
+    "n7": "an expertise",
+    "n8": "many expertises"
 }

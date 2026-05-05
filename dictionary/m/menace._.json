@@ -1,0 +1,18 @@
+{
+    "base": "menace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "menace",
+    "n2": "menaces",
+    "n3": "the menace",
+    "n4": "the menaces",
+    "n5": "menace's",
+    "n6": "menaces'",
+    "n7": "a menace",
+    "n8": "many menaces"
+}

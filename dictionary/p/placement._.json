@@ -1,0 +1,18 @@
+{
+    "base": "placement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "placement",
+    "n2": "placements",
+    "n3": "the placement",
+    "n4": "the placements",
+    "n5": "placement's",
+    "n6": "placements'",
+    "n7": "a placement",
+    "n8": "many placements"
+}

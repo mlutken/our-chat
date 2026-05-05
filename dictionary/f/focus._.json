@@ -5,13 +5,20 @@
         "v"
     ],
     "n1": "focus",
-    "n2": "focus",
+    "n2": "foci",
     "n3": "the focus",
-    "n4": "the focus",
-    "n5": "focus's",
+    "n4": "the foci",
+    "n5": "focus'",
     "v1": "focus",
     "v2": "focused",
     "v3": "focused",
     "v4": "focusing",
-    "v5": "focuses"
+    "v5": "focuses",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "foci's",
+    "n7": "a focus",
+    "n8": "many foci"
 }

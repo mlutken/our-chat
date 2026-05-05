@@ -1,0 +1,18 @@
+{
+    "base": "viand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "viand",
+    "n2": "viands",
+    "n3": "the viand",
+    "n4": "the viands",
+    "n5": "viand's",
+    "n6": "viands'",
+    "n7": "a viand",
+    "n8": "many viands"
+}

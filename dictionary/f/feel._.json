@@ -1,11 +1,24 @@
 {
     "base": "feel",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "feel",
     "v2": "felt",
     "v3": "felt",
     "v4": "feeling",
-    "v5": "feels"
+    "v5": "feels",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "feel",
+    "n2": "feels",
+    "n3": "the feel",
+    "n4": "the feels",
+    "n5": "feel's",
+    "n6": "feels'",
+    "n7": "a feel",
+    "n8": "many feels"
 }

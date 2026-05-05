@@ -1,0 +1,18 @@
+{
+    "base": "caesar",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caesar",
+    "n2": "caesars",
+    "n3": "the caesar",
+    "n4": "the caesars",
+    "n5": "caesar's",
+    "n6": "caesars'",
+    "n7": "a caesar",
+    "n8": "many caesars"
+}

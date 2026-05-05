@@ -1,0 +1,18 @@
+{
+    "base": "spread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "spread",
+    "n2": "spreads",
+    "n3": "the spread",
+    "n4": "the spreads",
+    "n5": "spread's",
+    "n6": "spreads'",
+    "n7": "a spread",
+    "n8": "many spreads"
+}

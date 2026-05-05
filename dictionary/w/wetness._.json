@@ -1,0 +1,18 @@
+{
+    "base": "wetness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wetness",
+    "n2": "wetnesses",
+    "n3": "the wetness",
+    "n4": "the wetnesses",
+    "n5": "wetness'",
+    "n6": "wetnesses'",
+    "n7": "a wetness",
+    "n8": "many wetnesses"
+}

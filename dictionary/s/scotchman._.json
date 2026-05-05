@@ -1,0 +1,18 @@
+{
+    "base": "scotchman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scotchman",
+    "n2": "scotchmen",
+    "n3": "the scotchman",
+    "n4": "the scotchmen",
+    "n5": "scotchman's",
+    "n6": "scotchmen's",
+    "n7": "a scotchman",
+    "n8": "many scotchmen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "allegory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "allegory",
+    "n2": "allegories",
+    "n3": "the allegory",
+    "n4": "the allegories",
+    "n5": "allegory's",
+    "n6": "allegories'",
+    "n7": "an allegory",
+    "n8": "many allegories"
+}

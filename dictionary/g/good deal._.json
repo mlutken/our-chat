@@ -1,0 +1,18 @@
+{
+    "base": "good deal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "good deal",
+    "n2": "good deals",
+    "n3": "the good deal",
+    "n4": "the good deals",
+    "n5": "good deal's",
+    "n6": "good deals'",
+    "n7": "a good deal",
+    "n8": "many good deals"
+}

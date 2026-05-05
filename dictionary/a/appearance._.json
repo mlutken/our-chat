@@ -7,5 +7,12 @@
     "n2": "appearances",
     "n3": "the appearance",
     "n4": "the appearances",
-    "n5": "appearance's"
+    "n5": "appearance's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "appearances'",
+    "n7": "an appearance",
+    "n8": "many appearances"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "nucleolus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nucleolus",
+    "n2": "nucleoli",
+    "n3": "the nucleolus",
+    "n4": "the nucleoli",
+    "n5": "nucleolus'",
+    "n6": "nucleoli's",
+    "n7": "a nucleolus",
+    "n8": "many nucleoli"
+}

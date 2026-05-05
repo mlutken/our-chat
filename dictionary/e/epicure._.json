@@ -1,0 +1,18 @@
+{
+    "base": "epicure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epicure",
+    "n2": "epicures",
+    "n3": "the epicure",
+    "n4": "the epicures",
+    "n5": "epicure's",
+    "n6": "epicures'",
+    "n7": "an epicure",
+    "n8": "many epicures"
+}

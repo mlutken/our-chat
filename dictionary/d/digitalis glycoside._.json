@@ -1,0 +1,18 @@
+{
+    "base": "digitalis glycoside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "digitalis glycoside",
+    "n2": "digitalis glycosides",
+    "n3": "the digitalis glycoside",
+    "n4": "the digitalis glycosides",
+    "n5": "digitalis glycoside's",
+    "n6": "digitalis glycosides'",
+    "n7": "a digitalis glycoside",
+    "n8": "many digitalis glycosides"
+}

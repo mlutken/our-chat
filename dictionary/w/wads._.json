@@ -1,0 +1,18 @@
+{
+    "base": "wads",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wads",
+    "n2": "wadses",
+    "n3": "the wads",
+    "n4": "the wadses",
+    "n5": "wads'",
+    "n6": "wadses'",
+    "n7": "a wads",
+    "n8": "many wadses"
+}

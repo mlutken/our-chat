@@ -1,0 +1,18 @@
+{
+    "base": "feather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "feather",
+    "n2": "feathers",
+    "n3": "the feather",
+    "n4": "the feathers",
+    "n5": "feather's",
+    "n6": "feathers'",
+    "n7": "a feather",
+    "n8": "many feathers"
+}

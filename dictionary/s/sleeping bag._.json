@@ -1,0 +1,18 @@
+{
+    "base": "sleeping bag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sleeping bag",
+    "n2": "sleeping bags",
+    "n3": "the sleeping bag",
+    "n4": "the sleeping bags",
+    "n5": "sleeping bag's",
+    "n6": "sleeping bags'",
+    "n7": "a sleeping bag",
+    "n8": "many sleeping bags"
+}

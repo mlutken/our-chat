@@ -1,0 +1,18 @@
+{
+    "base": "lullaby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lullaby",
+    "n2": "lullabies",
+    "n3": "the lullaby",
+    "n4": "the lullabies",
+    "n5": "lullaby's",
+    "n6": "lullabies'",
+    "n7": "a lullaby",
+    "n8": "many lullabies"
+}

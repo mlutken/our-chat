@@ -1,0 +1,18 @@
+{
+    "base": "soft glass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soft glass",
+    "n2": "soft glasses",
+    "n3": "the soft glass",
+    "n4": "the soft glasses",
+    "n5": "soft glass'",
+    "n6": "soft glasses'",
+    "n7": "a soft glass",
+    "n8": "many soft glasses"
+}

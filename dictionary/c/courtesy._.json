@@ -1,0 +1,18 @@
+{
+    "base": "courtesy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "courtesy",
+    "n2": "courtesies",
+    "n3": "the courtesy",
+    "n4": "the courtesies",
+    "n5": "courtesy's",
+    "n6": "courtesies'",
+    "n7": "a courtesy",
+    "n8": "many courtesies"
+}

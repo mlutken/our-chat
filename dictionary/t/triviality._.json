@@ -1,0 +1,18 @@
+{
+    "base": "triviality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "triviality",
+    "n2": "trivialities",
+    "n3": "the triviality",
+    "n4": "the trivialities",
+    "n5": "triviality's",
+    "n6": "trivialities'",
+    "n7": "a triviality",
+    "n8": "many trivialities"
+}

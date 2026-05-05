@@ -1,0 +1,18 @@
+{
+    "base": "avail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "avail",
+    "n2": "avails",
+    "n3": "the avail",
+    "n4": "the avails",
+    "n5": "avail's",
+    "n6": "avails'",
+    "n7": "an avail",
+    "n8": "many avails"
+}

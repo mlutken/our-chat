@@ -1,0 +1,18 @@
+{
+    "base": "teamster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "teamster",
+    "n2": "teamsters",
+    "n3": "the teamster",
+    "n4": "the teamsters",
+    "n5": "teamster's",
+    "n6": "teamsters'",
+    "n7": "a teamster",
+    "n8": "many teamsters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "holler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holler",
+    "n2": "hollers",
+    "n3": "the holler",
+    "n4": "the hollers",
+    "n5": "holler's",
+    "n6": "hollers'",
+    "n7": "a holler",
+    "n8": "many hollers"
+}

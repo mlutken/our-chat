@@ -1,0 +1,18 @@
+{
+    "base": "place-kicker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "place-kicker",
+    "n2": "place-kickers",
+    "n3": "the place-kicker",
+    "n4": "the place-kickers",
+    "n5": "place-kicker's",
+    "n6": "place-kickers'",
+    "n7": "a place-kicker",
+    "n8": "many place-kickers"
+}

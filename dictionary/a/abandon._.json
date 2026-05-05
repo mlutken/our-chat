@@ -1,0 +1,18 @@
+{
+    "base": "abandon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "abandon",
+    "n2": "abandons",
+    "n3": "the abandon",
+    "n4": "the abandons",
+    "n5": "abandon's",
+    "n6": "abandons'",
+    "n7": "an abandon",
+    "n8": "many abandons"
+}

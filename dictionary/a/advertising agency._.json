@@ -1,0 +1,18 @@
+{
+    "base": "advertising agency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "advertising agency",
+    "n2": "advertising agencies",
+    "n3": "the advertising agency",
+    "n4": "the advertising agencies",
+    "n5": "advertising agency's",
+    "n6": "advertising agencies'",
+    "n7": "an advertising agency",
+    "n8": "many advertising agencies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "east side",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "east side",
+    "n2": "east sides",
+    "n3": "the east side",
+    "n4": "the east sides",
+    "n5": "east side's",
+    "n6": "east sides'",
+    "n7": "an east side",
+    "n8": "many east sides"
+}

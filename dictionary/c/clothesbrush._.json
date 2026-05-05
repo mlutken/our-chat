@@ -1,0 +1,18 @@
+{
+    "base": "clothesbrush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clothesbrush",
+    "n2": "clothesbrushes",
+    "n3": "the clothesbrush",
+    "n4": "the clothesbrushes",
+    "n5": "clothesbrush's",
+    "n6": "clothesbrushes'",
+    "n7": "a clothesbrush",
+    "n8": "many clothesbrushes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "investigator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "investigator",
+    "n2": "investigators",
+    "n3": "the investigator",
+    "n4": "the investigators",
+    "n5": "investigator's",
+    "n6": "investigators'",
+    "n7": "an investigator",
+    "n8": "many investigators"
+}

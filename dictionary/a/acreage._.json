@@ -1,0 +1,18 @@
+{
+    "base": "acreage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "acreage",
+    "n2": "acreages",
+    "n3": "the acreage",
+    "n4": "the acreages",
+    "n5": "acreage's",
+    "n6": "acreages'",
+    "n7": "an acreage",
+    "n8": "many acreages"
+}

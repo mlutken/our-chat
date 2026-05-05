@@ -1,0 +1,18 @@
+{
+    "base": "uncertainty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "uncertainty",
+    "n2": "uncertainties",
+    "n3": "the uncertainty",
+    "n4": "the uncertainties",
+    "n5": "uncertainty's",
+    "n6": "uncertainties'",
+    "n7": "an uncertainty",
+    "n8": "many uncertainties"
+}

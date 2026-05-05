@@ -1,0 +1,18 @@
+{
+    "base": "flower garden",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flower garden",
+    "n2": "flower gardens",
+    "n3": "the flower garden",
+    "n4": "the flower gardens",
+    "n5": "flower garden's",
+    "n6": "flower gardens'",
+    "n7": "a flower garden",
+    "n8": "many flower gardens"
+}

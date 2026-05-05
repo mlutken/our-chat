@@ -1,0 +1,18 @@
+{
+    "base": "pilot light",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pilot light",
+    "n2": "pilot lights",
+    "n3": "the pilot light",
+    "n4": "the pilot lights",
+    "n5": "pilot light's",
+    "n6": "pilot lights'",
+    "n7": "a pilot light",
+    "n8": "many pilot lights"
+}

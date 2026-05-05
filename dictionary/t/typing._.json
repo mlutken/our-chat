@@ -1,0 +1,18 @@
+{
+    "base": "typing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "typing",
+    "n2": "typings",
+    "n3": "the typing",
+    "n4": "the typings",
+    "n5": "typing's",
+    "n6": "typings'",
+    "n7": "a typing",
+    "n8": "many typings"
+}

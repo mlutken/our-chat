@@ -1,0 +1,18 @@
+{
+    "base": "combat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "combat",
+    "n2": "combats",
+    "n3": "the combat",
+    "n4": "the combats",
+    "n5": "combat's",
+    "n6": "combats'",
+    "n7": "a combat",
+    "n8": "many combats"
+}

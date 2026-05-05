@@ -13,5 +13,12 @@
     "v2": "signed",
     "v3": "signed",
     "v4": "signing",
-    "v5": "signs"
+    "v5": "signs",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n6": "signs'",
+    "n7": "a sign",
+    "n8": "many signs"
 }

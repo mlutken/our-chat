@@ -1,0 +1,18 @@
+{
+    "base": "titer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "titer",
+    "n2": "titers",
+    "n3": "the titer",
+    "n4": "the titers",
+    "n5": "titer's",
+    "n6": "titers'",
+    "n7": "a titer",
+    "n8": "many titers"
+}

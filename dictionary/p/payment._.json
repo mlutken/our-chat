@@ -7,5 +7,12 @@
     "n2": "payments",
     "n3": "the payment",
     "n4": "the payments",
-    "n5": "payment's"
+    "n5": "payment's",
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n6": "payments'",
+    "n7": "a payment",
+    "n8": "many payments"
 }

@@ -7,5 +7,12 @@
     "n2": "oxen",
     "n3": "the ox",
     "n4": "the oxen",
-    "n5": "ox's"
+    "n5": "ox's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "oxen's",
+    "n7": "an ox",
+    "n8": "many oxen"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "realization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "realization",
+    "n2": "realizations",
+    "n3": "the realization",
+    "n4": "the realizations",
+    "n5": "realization's",
+    "n6": "realizations'",
+    "n7": "a realization",
+    "n8": "many realizations"
+}

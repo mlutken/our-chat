@@ -7,5 +7,12 @@
     "n2": "goals",
     "n3": "the goal",
     "n4": "the goals",
-    "n5": "goal's"
+    "n5": "goal's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "goals'",
+    "n7": "a goal",
+    "n8": "many goals"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "cholelithiasis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cholelithiasis",
+    "n2": "cholelithiasises",
+    "n3": "the cholelithiasis",
+    "n4": "the cholelithiasises",
+    "n5": "cholelithiasis'",
+    "n6": "cholelithiasises'",
+    "n7": "a cholelithiasis",
+    "n8": "many cholelithiasises"
+}

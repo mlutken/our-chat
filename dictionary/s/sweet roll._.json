@@ -1,0 +1,18 @@
+{
+    "base": "sweet roll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweet roll",
+    "n2": "sweet rolls",
+    "n3": "the sweet roll",
+    "n4": "the sweet rolls",
+    "n5": "sweet roll's",
+    "n6": "sweet rolls'",
+    "n7": "a sweet roll",
+    "n8": "many sweet rolls"
+}

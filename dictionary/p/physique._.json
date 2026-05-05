@@ -1,0 +1,18 @@
+{
+    "base": "physique",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "physique",
+    "n2": "physiques",
+    "n3": "the physique",
+    "n4": "the physiques",
+    "n5": "physique's",
+    "n6": "physiques'",
+    "n7": "a physique",
+    "n8": "many physiques"
+}

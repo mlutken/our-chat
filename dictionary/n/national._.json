@@ -1,0 +1,18 @@
+{
+    "base": "national",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "national",
+    "n2": "nationals",
+    "n3": "the national",
+    "n4": "the nationals",
+    "n5": "national's",
+    "n6": "nationals'",
+    "n7": "a national",
+    "n8": "many nationals"
+}

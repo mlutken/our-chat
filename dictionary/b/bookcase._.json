@@ -1,0 +1,18 @@
+{
+    "base": "bookcase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bookcase",
+    "n2": "bookcases",
+    "n3": "the bookcase",
+    "n4": "the bookcases",
+    "n5": "bookcase's",
+    "n6": "bookcases'",
+    "n7": "a bookcase",
+    "n8": "many bookcases"
+}

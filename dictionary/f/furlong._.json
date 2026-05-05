@@ -1,0 +1,18 @@
+{
+    "base": "furlong",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "furlong",
+    "n2": "furlongs",
+    "n3": "the furlong",
+    "n4": "the furlongs",
+    "n5": "furlong's",
+    "n6": "furlongs'",
+    "n7": "a furlong",
+    "n8": "many furlongs"
+}

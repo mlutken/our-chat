@@ -1,0 +1,18 @@
+{
+    "base": "weak part",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weak part",
+    "n2": "weak parts",
+    "n3": "the weak part",
+    "n4": "the weak parts",
+    "n5": "weak part's",
+    "n6": "weak parts'",
+    "n7": "a weak part",
+    "n8": "many weak parts"
+}

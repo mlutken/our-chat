@@ -1,0 +1,18 @@
+{
+    "base": "horn fly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horn fly",
+    "n2": "horn flies",
+    "n3": "the horn fly",
+    "n4": "the horn flies",
+    "n5": "horn fly's",
+    "n6": "horn flies'",
+    "n7": "a horn fly",
+    "n8": "many horn flies"
+}

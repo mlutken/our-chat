@@ -1,0 +1,18 @@
+{
+    "base": "doll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doll",
+    "n2": "dolls",
+    "n3": "the doll",
+    "n4": "the dolls",
+    "n5": "doll's",
+    "n6": "dolls'",
+    "n7": "a doll",
+    "n8": "many dolls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "monroe doctrine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "monroe doctrine",
+    "n2": "monroe doctrines",
+    "n3": "the monroe doctrine",
+    "n4": "the monroe doctrines",
+    "n5": "monroe doctrine's",
+    "n6": "monroe doctrines'",
+    "n7": "a monroe doctrine",
+    "n8": "many monroe doctrines"
+}

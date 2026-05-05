@@ -7,5 +7,12 @@
     "n2": "disasters",
     "n3": "the disaster",
     "n4": "the disasters",
-    "n5": "disaster's"
+    "n5": "disaster's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "disasters'",
+    "n7": "a disaster",
+    "n8": "many disasters"
 }

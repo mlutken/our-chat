@@ -1,0 +1,18 @@
+{
+    "base": "treasure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "treasure",
+    "n2": "treasures",
+    "n3": "the treasure",
+    "n4": "the treasures",
+    "n5": "treasure's",
+    "n6": "treasures'",
+    "n7": "a treasure",
+    "n8": "many treasures"
+}

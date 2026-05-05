@@ -1,0 +1,18 @@
+{
+    "base": "danger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n1": "danger",
+    "n2": "dangers",
+    "n3": "the danger",
+    "n4": "the dangers",
+    "n5": "danger's",
+    "n6": "dangers'",
+    "n7": "a danger",
+    "n8": "many dangers"
+}

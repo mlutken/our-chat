@@ -1,0 +1,18 @@
+{
+    "base": "yearning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "yearning",
+    "n2": "yearnings",
+    "n3": "the yearning",
+    "n4": "the yearnings",
+    "n5": "yearning's",
+    "n6": "yearnings'",
+    "n7": "a yearning",
+    "n8": "many yearnings"
+}

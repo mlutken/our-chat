@@ -1,0 +1,18 @@
+{
+    "base": "prank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prank",
+    "n2": "pranks",
+    "n3": "the prank",
+    "n4": "the pranks",
+    "n5": "prank's",
+    "n6": "pranks'",
+    "n7": "a prank",
+    "n8": "many pranks"
+}

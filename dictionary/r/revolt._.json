@@ -1,0 +1,18 @@
+{
+    "base": "revolt",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "revolt",
+    "n2": "revolts",
+    "n3": "the revolt",
+    "n4": "the revolts",
+    "n5": "revolt's",
+    "n6": "revolts'",
+    "n7": "a revolt",
+    "n8": "many revolts"
+}

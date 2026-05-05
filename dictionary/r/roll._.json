@@ -1,11 +1,24 @@
 {
     "base": "roll",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "roll",
     "v2": "rolled",
     "v3": "rolled",
     "v4": "rolling",
-    "v5": "rolls"
+    "v5": "rolls",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "roll",
+    "n2": "rolls",
+    "n3": "the roll",
+    "n4": "the rolls",
+    "n5": "roll's",
+    "n6": "rolls'",
+    "n7": "a roll",
+    "n8": "many rolls"
 }

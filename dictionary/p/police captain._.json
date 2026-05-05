@@ -1,0 +1,18 @@
+{
+    "base": "police captain",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "police captain",
+    "n2": "police captains",
+    "n3": "the police captain",
+    "n4": "the police captains",
+    "n5": "police captain's",
+    "n6": "police captains'",
+    "n7": "a police captain",
+    "n8": "many police captains"
+}

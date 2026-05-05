@@ -1,0 +1,18 @@
+{
+    "base": "mount everest",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mount everest",
+    "n2": "mount everests",
+    "n3": "the mount everest",
+    "n4": "the mount everests",
+    "n5": "mount everest's",
+    "n6": "mount everests'",
+    "n7": "a mount everest",
+    "n8": "many mount everests"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "turbofan engine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turbofan engine",
+    "n2": "turbofan engines",
+    "n3": "the turbofan engine",
+    "n4": "the turbofan engines",
+    "n5": "turbofan engine's",
+    "n6": "turbofan engines'",
+    "n7": "a turbofan engine",
+    "n8": "many turbofan engines"
+}

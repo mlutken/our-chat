@@ -1,0 +1,18 @@
+{
+    "base": "alley cat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alley cat",
+    "n2": "alley cats",
+    "n3": "the alley cat",
+    "n4": "the alley cats",
+    "n5": "alley cat's",
+    "n6": "alley cats'",
+    "n7": "an alley cat",
+    "n8": "many alley cats"
+}

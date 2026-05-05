@@ -1,0 +1,18 @@
+{
+    "base": "minimum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "minimum",
+    "n2": "minima",
+    "n3": "the minimum",
+    "n4": "the minima",
+    "n5": "minimum's",
+    "n6": "minima's",
+    "n7": "a minimum",
+    "n8": "many minima"
+}

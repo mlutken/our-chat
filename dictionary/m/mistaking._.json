@@ -1,0 +1,18 @@
+{
+    "base": "mistaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mistaking",
+    "n2": "mistakings",
+    "n3": "the mistaking",
+    "n4": "the mistakings",
+    "n5": "mistaking's",
+    "n6": "mistakings'",
+    "n7": "a mistaking",
+    "n8": "many mistakings"
+}

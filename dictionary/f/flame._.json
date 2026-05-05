@@ -1,0 +1,18 @@
+{
+    "base": "flame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "flame",
+    "n2": "flames",
+    "n3": "the flame",
+    "n4": "the flames",
+    "n5": "flame's",
+    "n6": "flames'",
+    "n7": "a flame",
+    "n8": "many flames"
+}

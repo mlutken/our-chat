@@ -1,0 +1,18 @@
+{
+    "base": "aerosol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "aerosol",
+    "n2": "aerosols",
+    "n3": "the aerosol",
+    "n4": "the aerosols",
+    "n5": "aerosol's",
+    "n6": "aerosols'",
+    "n7": "an aerosol",
+    "n8": "many aerosols"
+}

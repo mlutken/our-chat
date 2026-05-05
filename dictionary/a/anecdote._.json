@@ -1,0 +1,18 @@
+{
+    "base": "anecdote",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "anecdote",
+    "n2": "anecdotes",
+    "n3": "the anecdote",
+    "n4": "the anecdotes",
+    "n5": "anecdote's",
+    "n6": "anecdotes'",
+    "n7": "an anecdote",
+    "n8": "many anecdotes"
+}

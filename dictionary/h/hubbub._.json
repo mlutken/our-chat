@@ -1,0 +1,18 @@
+{
+    "base": "hubbub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hubbub",
+    "n2": "hubbubs",
+    "n3": "the hubbub",
+    "n4": "the hubbubs",
+    "n5": "hubbub's",
+    "n6": "hubbubs'",
+    "n7": "a hubbub",
+    "n8": "many hubbubs"
+}

@@ -1,11 +1,24 @@
 {
     "base": "praise",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "praise",
     "v2": "praised",
     "v3": "praised",
     "v4": "praising",
-    "v5": "praises"
+    "v5": "praises",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "praise",
+    "n2": "praises",
+    "n3": "the praise",
+    "n4": "the praises",
+    "n5": "praise's",
+    "n6": "praises'",
+    "n7": "a praise",
+    "n8": "many praises"
 }

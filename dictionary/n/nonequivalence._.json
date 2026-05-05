@@ -1,0 +1,18 @@
+{
+    "base": "nonequivalence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nonequivalence",
+    "n2": "nonequivalences",
+    "n3": "the nonequivalence",
+    "n4": "the nonequivalences",
+    "n5": "nonequivalence's",
+    "n6": "nonequivalences'",
+    "n7": "a nonequivalence",
+    "n8": "many nonequivalences"
+}

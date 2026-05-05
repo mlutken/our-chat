@@ -1,0 +1,18 @@
+{
+    "base": "soft drink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "soft drink",
+    "n2": "soft drinks",
+    "n3": "the soft drink",
+    "n4": "the soft drinks",
+    "n5": "soft drink's",
+    "n6": "soft drinks'",
+    "n7": "a soft drink",
+    "n8": "many soft drinks"
+}

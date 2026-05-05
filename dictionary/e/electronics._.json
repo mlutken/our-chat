@@ -1,0 +1,18 @@
+{
+    "base": "electronics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "electronics",
+    "n2": "electronicses",
+    "n3": "the electronics",
+    "n4": "the electronicses",
+    "n5": "electronics'",
+    "n6": "electronicses'",
+    "n7": "an electronics",
+    "n8": "many electronicses"
+}

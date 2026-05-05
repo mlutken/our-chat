@@ -1,0 +1,18 @@
+{
+    "base": "pilot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pilot",
+    "n2": "pilots",
+    "n3": "the pilot",
+    "n4": "the pilots",
+    "n5": "pilot's",
+    "n6": "pilots'",
+    "n7": "a pilot",
+    "n8": "many pilots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "body of water",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "body of water",
+    "n2": "body of waters",
+    "n3": "the body of water",
+    "n4": "the body of waters",
+    "n5": "body of water's",
+    "n6": "body of waters'",
+    "n7": "a body of water",
+    "n8": "many body of waters"
+}

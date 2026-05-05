@@ -1,0 +1,18 @@
+{
+    "base": "pen-and-ink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pen-and-ink",
+    "n2": "pen-and-inks",
+    "n3": "the pen-and-ink",
+    "n4": "the pen-and-inks",
+    "n5": "pen-and-ink's",
+    "n6": "pen-and-inks'",
+    "n7": "a pen-and-ink",
+    "n8": "many pen-and-inks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "earthquake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "earthquake",
+    "n2": "earthquakes",
+    "n3": "the earthquake",
+    "n4": "the earthquakes",
+    "n5": "earthquake's",
+    "n6": "earthquakes'",
+    "n7": "an earthquake",
+    "n8": "many earthquakes"
+}

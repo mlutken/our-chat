@@ -1,0 +1,18 @@
+{
+    "base": "hardbake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hardbake",
+    "n2": "hardbakes",
+    "n3": "the hardbake",
+    "n4": "the hardbakes",
+    "n5": "hardbake's",
+    "n6": "hardbakes'",
+    "n7": "a hardbake",
+    "n8": "many hardbakes"
+}

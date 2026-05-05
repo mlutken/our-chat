@@ -1,0 +1,18 @@
+{
+    "base": "power company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "power company",
+    "n2": "power companies",
+    "n3": "the power company",
+    "n4": "the power companies",
+    "n5": "power company's",
+    "n6": "power companies'",
+    "n7": "a power company",
+    "n8": "many power companies"
+}

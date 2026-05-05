@@ -1,0 +1,18 @@
+{
+    "base": "porter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "porter",
+    "n2": "porters",
+    "n3": "the porter",
+    "n4": "the porters",
+    "n5": "porter's",
+    "n6": "porters'",
+    "n7": "a porter",
+    "n8": "many porters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "collusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "collusion",
+    "n2": "collusions",
+    "n3": "the collusion",
+    "n4": "the collusions",
+    "n5": "collusion's",
+    "n6": "collusions'",
+    "n7": "a collusion",
+    "n8": "many collusions"
+}

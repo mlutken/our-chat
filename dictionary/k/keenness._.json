@@ -1,0 +1,18 @@
+{
+    "base": "keenness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "keenness",
+    "n2": "keennesses",
+    "n3": "the keenness",
+    "n4": "the keennesses",
+    "n5": "keenness'",
+    "n6": "keennesses'",
+    "n7": "a keenness",
+    "n8": "many keennesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "roller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roller",
+    "n2": "rollers",
+    "n3": "the roller",
+    "n4": "the rollers",
+    "n5": "roller's",
+    "n6": "rollers'",
+    "n7": "a roller",
+    "n8": "many rollers"
+}

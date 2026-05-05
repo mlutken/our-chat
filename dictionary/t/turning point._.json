@@ -1,0 +1,18 @@
+{
+    "base": "turning point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turning point",
+    "n2": "turning points",
+    "n3": "the turning point",
+    "n4": "the turning points",
+    "n5": "turning point's",
+    "n6": "turning points'",
+    "n7": "a turning point",
+    "n8": "many turning points"
+}

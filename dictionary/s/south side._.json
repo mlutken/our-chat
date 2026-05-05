@@ -1,0 +1,18 @@
+{
+    "base": "south side",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "south side",
+    "n2": "south sides",
+    "n3": "the south side",
+    "n4": "the south sides",
+    "n5": "south side's",
+    "n6": "south sides'",
+    "n7": "a south side",
+    "n8": "many south sides"
+}

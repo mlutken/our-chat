@@ -1,0 +1,18 @@
+{
+    "base": "theologian",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "theologian",
+    "n2": "theologians",
+    "n3": "the theologian",
+    "n4": "the theologians",
+    "n5": "theologian's",
+    "n6": "theologians'",
+    "n7": "a theologian",
+    "n8": "many theologians"
+}

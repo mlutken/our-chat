@@ -1,0 +1,18 @@
+{
+    "base": "constancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "constancy",
+    "n2": "constancies",
+    "n3": "the constancy",
+    "n4": "the constancies",
+    "n5": "constancy's",
+    "n6": "constancies'",
+    "n7": "a constancy",
+    "n8": "many constancies"
+}

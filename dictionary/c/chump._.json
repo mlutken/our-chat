@@ -1,0 +1,18 @@
+{
+    "base": "chump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chump",
+    "n2": "chumps",
+    "n3": "the chump",
+    "n4": "the chumps",
+    "n5": "chump's",
+    "n6": "chumps'",
+    "n7": "a chump",
+    "n8": "many chumps"
+}

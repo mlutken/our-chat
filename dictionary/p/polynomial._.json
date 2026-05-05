@@ -1,0 +1,18 @@
+{
+    "base": "polynomial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "polynomial",
+    "n2": "polynomials",
+    "n3": "the polynomial",
+    "n4": "the polynomials",
+    "n5": "polynomial's",
+    "n6": "polynomials'",
+    "n7": "a polynomial",
+    "n8": "many polynomials"
+}

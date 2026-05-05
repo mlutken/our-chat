@@ -7,5 +7,12 @@
     "n2": "insurances",
     "n3": "the insurance",
     "n4": "the insurances",
-    "n5": "insurance's"
+    "n5": "insurance's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "insurances'",
+    "n7": "an insurance",
+    "n8": "many insurances"
 }

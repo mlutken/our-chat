@@ -1,0 +1,18 @@
+{
+    "base": "staten island",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "staten island",
+    "n2": "staten islands",
+    "n3": "the staten island",
+    "n4": "the staten islands",
+    "n5": "staten island's",
+    "n6": "staten islands'",
+    "n7": "a staten island",
+    "n8": "many staten islands"
+}

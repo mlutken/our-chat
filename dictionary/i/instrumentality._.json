@@ -1,0 +1,18 @@
+{
+    "base": "instrumentality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "instrumentality",
+    "n2": "instrumentalities",
+    "n3": "the instrumentality",
+    "n4": "the instrumentalities",
+    "n5": "instrumentality's",
+    "n6": "instrumentalities'",
+    "n7": "an instrumentality",
+    "n8": "many instrumentalities"
+}

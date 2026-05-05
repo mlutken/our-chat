@@ -1,0 +1,18 @@
+{
+    "base": "lag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lag",
+    "n2": "lags",
+    "n3": "the lag",
+    "n4": "the lags",
+    "n5": "lag's",
+    "n6": "lags'",
+    "n7": "a lag",
+    "n8": "many lags"
+}

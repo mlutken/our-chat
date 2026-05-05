@@ -1,0 +1,18 @@
+{
+    "base": "spatter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spatter",
+    "n2": "spatters",
+    "n3": "the spatter",
+    "n4": "the spatters",
+    "n5": "spatter's",
+    "n6": "spatters'",
+    "n7": "a spatter",
+    "n8": "many spatters"
+}

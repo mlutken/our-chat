@@ -1,0 +1,18 @@
+{
+    "base": "dooryard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dooryard",
+    "n2": "dooryards",
+    "n3": "the dooryard",
+    "n4": "the dooryards",
+    "n5": "dooryard's",
+    "n6": "dooryards'",
+    "n7": "a dooryard",
+    "n8": "many dooryards"
+}

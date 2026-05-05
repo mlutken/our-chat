@@ -1,11 +1,24 @@
 {
     "base": "slice",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "slice",
     "v2": "sliced",
     "v3": "sliced",
     "v4": "slicing",
-    "v5": "slices"
+    "v5": "slices",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "slice",
+    "n2": "slices",
+    "n3": "the slice",
+    "n4": "the slices",
+    "n5": "slice's",
+    "n6": "slices'",
+    "n7": "a slice",
+    "n8": "many slices"
 }

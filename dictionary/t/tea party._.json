@@ -1,0 +1,18 @@
+{
+    "base": "tea party",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tea party",
+    "n2": "tea parties",
+    "n3": "the tea party",
+    "n4": "the tea parties",
+    "n5": "tea party's",
+    "n6": "tea parties'",
+    "n7": "a tea party",
+    "n8": "many tea parties"
+}

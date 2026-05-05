@@ -1,0 +1,18 @@
+{
+    "base": "plumb line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plumb line",
+    "n2": "plumb lines",
+    "n3": "the plumb line",
+    "n4": "the plumb lines",
+    "n5": "plumb line's",
+    "n6": "plumb lines'",
+    "n7": "a plumb line",
+    "n8": "many plumb lines"
+}

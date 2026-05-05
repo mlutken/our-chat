@@ -1,0 +1,18 @@
+{
+    "base": "blight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blight",
+    "n2": "blights",
+    "n3": "the blight",
+    "n4": "the blights",
+    "n5": "blight's",
+    "n6": "blights'",
+    "n7": "a blight",
+    "n8": "many blights"
+}

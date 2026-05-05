@@ -1,0 +1,18 @@
+{
+    "base": "locale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "locale",
+    "n2": "locales",
+    "n3": "the locale",
+    "n4": "the locales",
+    "n5": "locale's",
+    "n6": "locales'",
+    "n7": "a locale",
+    "n8": "many locales"
+}

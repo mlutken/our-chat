@@ -1,0 +1,18 @@
+{
+    "base": "tribunal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tribunal",
+    "n2": "tribunals",
+    "n3": "the tribunal",
+    "n4": "the tribunals",
+    "n5": "tribunal's",
+    "n6": "tribunals'",
+    "n7": "a tribunal",
+    "n8": "many tribunals"
+}

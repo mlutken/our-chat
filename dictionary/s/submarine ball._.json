@@ -1,0 +1,18 @@
+{
+    "base": "submarine ball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "submarine ball",
+    "n2": "submarine balls",
+    "n3": "the submarine ball",
+    "n4": "the submarine balls",
+    "n5": "submarine ball's",
+    "n6": "submarine balls'",
+    "n7": "a submarine ball",
+    "n8": "many submarine balls"
+}

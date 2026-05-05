@@ -1,0 +1,18 @@
+{
+    "base": "urchin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "urchin",
+    "n2": "urchins",
+    "n3": "the urchin",
+    "n4": "the urchins",
+    "n5": "urchin's",
+    "n6": "urchins'",
+    "n7": "an urchin",
+    "n8": "many urchins"
+}

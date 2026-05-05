@@ -1,0 +1,18 @@
+{
+    "base": "wit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "wit",
+    "n2": "wits",
+    "n3": "the wit",
+    "n4": "the wits",
+    "n5": "wit's",
+    "n6": "wits'",
+    "n7": "a wit",
+    "n8": "many wits"
+}

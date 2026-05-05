@@ -1,0 +1,18 @@
+{
+    "base": "loft",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "loft",
+    "n2": "lofts",
+    "n3": "the loft",
+    "n4": "the lofts",
+    "n5": "loft's",
+    "n6": "lofts'",
+    "n7": "a loft",
+    "n8": "many lofts"
+}

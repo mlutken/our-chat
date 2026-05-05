@@ -1,0 +1,18 @@
+{
+    "base": "meteor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "meteor",
+    "n2": "meteors",
+    "n3": "the meteor",
+    "n4": "the meteors",
+    "n5": "meteor's",
+    "n6": "meteors'",
+    "n7": "a meteor",
+    "n8": "many meteors"
+}

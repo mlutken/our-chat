@@ -7,5 +7,12 @@
     "n2": "stations",
     "n3": "the station",
     "n4": "the stations",
-    "n5": "station's"
+    "n5": "station's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "stations'",
+    "n7": "a station",
+    "n8": "many stations"
 }

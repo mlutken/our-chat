@@ -1,0 +1,18 @@
+{
+    "base": "recording studio",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "recording studio",
+    "n2": "recording studios",
+    "n3": "the recording studio",
+    "n4": "the recording studios",
+    "n5": "recording studio's",
+    "n6": "recording studios'",
+    "n7": "a recording studio",
+    "n8": "many recording studios"
+}

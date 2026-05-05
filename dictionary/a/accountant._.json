@@ -1,0 +1,18 @@
+{
+    "base": "accountant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "accountant",
+    "n2": "accountants",
+    "n3": "the accountant",
+    "n4": "the accountants",
+    "n5": "accountant's",
+    "n6": "accountants'",
+    "n7": "an accountant",
+    "n8": "many accountants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "thawing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thawing",
+    "n2": "thawings",
+    "n3": "the thawing",
+    "n4": "the thawings",
+    "n5": "thawing's",
+    "n6": "thawings'",
+    "n7": "a thawing",
+    "n8": "many thawings"
+}

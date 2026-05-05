@@ -1,0 +1,18 @@
+{
+    "base": "fragment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "fragment",
+    "n2": "fragments",
+    "n3": "the fragment",
+    "n4": "the fragments",
+    "n5": "fragment's",
+    "n6": "fragments'",
+    "n7": "a fragment",
+    "n8": "many fragments"
+}

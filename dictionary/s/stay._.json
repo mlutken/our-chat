@@ -13,5 +13,12 @@
     "v2": "stayed",
     "v3": "stayed",
     "v4": "staying",
-    "v5": "stays"
+    "v5": "stays",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "stays'",
+    "n7": "a stay",
+    "n8": "many stays"
 }

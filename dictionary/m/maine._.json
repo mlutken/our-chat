@@ -1,0 +1,18 @@
+{
+    "base": "maine",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "maine",
+    "n2": "maines",
+    "n3": "the maine",
+    "n4": "the maines",
+    "n5": "maine's",
+    "n6": "maines'",
+    "n7": "a maine",
+    "n8": "many maines"
+}

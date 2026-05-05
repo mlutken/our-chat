@@ -1,0 +1,18 @@
+{
+    "base": "counterproposal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "counterproposal",
+    "n2": "counterproposals",
+    "n3": "the counterproposal",
+    "n4": "the counterproposals",
+    "n5": "counterproposal's",
+    "n6": "counterproposals'",
+    "n7": "a counterproposal",
+    "n8": "many counterproposals"
+}

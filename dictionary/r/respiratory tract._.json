@@ -1,0 +1,18 @@
+{
+    "base": "respiratory tract",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "respiratory tract",
+    "n2": "respiratory tracts",
+    "n3": "the respiratory tract",
+    "n4": "the respiratory tracts",
+    "n5": "respiratory tract's",
+    "n6": "respiratory tracts'",
+    "n7": "a respiratory tract",
+    "n8": "many respiratory tracts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cold spell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cold spell",
+    "n2": "cold spells",
+    "n3": "the cold spell",
+    "n4": "the cold spells",
+    "n5": "cold spell's",
+    "n6": "cold spells'",
+    "n7": "a cold spell",
+    "n8": "many cold spells"
+}

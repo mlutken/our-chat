@@ -1,0 +1,18 @@
+{
+    "base": "curtain raiser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "curtain raiser",
+    "n2": "curtain raisers",
+    "n3": "the curtain raiser",
+    "n4": "the curtain raisers",
+    "n5": "curtain raiser's",
+    "n6": "curtain raisers'",
+    "n7": "a curtain raiser",
+    "n8": "many curtain raisers"
+}

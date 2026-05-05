@@ -1,9 +1,22 @@
 {
     "base": "possible",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "possible",
     "adj2": "more possible",
-    "adj3": "most possible"
+    "adj3": "most possible",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "possible",
+    "n2": "possibles",
+    "n3": "the possible",
+    "n4": "the possibles",
+    "n5": "possible's",
+    "n6": "possibles'",
+    "n7": "a possible",
+    "n8": "many possibles"
 }

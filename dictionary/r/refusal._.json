@@ -1,0 +1,18 @@
+{
+    "base": "refusal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "refusal",
+    "n2": "refusals",
+    "n3": "the refusal",
+    "n4": "the refusals",
+    "n5": "refusal's",
+    "n6": "refusals'",
+    "n7": "a refusal",
+    "n8": "many refusals"
+}

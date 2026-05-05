@@ -1,0 +1,18 @@
+{
+    "base": "trigger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "trigger",
+    "n2": "triggers",
+    "n3": "the trigger",
+    "n4": "the triggers",
+    "n5": "trigger's",
+    "n6": "triggers'",
+    "n7": "a trigger",
+    "n8": "many triggers"
+}

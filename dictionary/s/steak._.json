@@ -7,5 +7,12 @@
     "n2": "steaks",
     "n3": "the steak",
     "n4": "the steaks",
-    "n5": "steak's"
+    "n5": "steak's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "steaks'",
+    "n7": "a steak",
+    "n8": "many steaks"
 }

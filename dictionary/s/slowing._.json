@@ -1,0 +1,18 @@
+{
+    "base": "slowing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "slowing",
+    "n2": "slowings",
+    "n3": "the slowing",
+    "n4": "the slowings",
+    "n5": "slowing's",
+    "n6": "slowings'",
+    "n7": "a slowing",
+    "n8": "many slowings"
+}

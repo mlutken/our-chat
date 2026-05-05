@@ -1,0 +1,18 @@
+{
+    "base": "russian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "russian",
+    "n2": "russians",
+    "n3": "the russian",
+    "n4": "the russians",
+    "n5": "russian's",
+    "n6": "russians'",
+    "n7": "a russian",
+    "n8": "many russians"
+}

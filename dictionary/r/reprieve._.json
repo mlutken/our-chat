@@ -1,0 +1,18 @@
+{
+    "base": "reprieve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reprieve",
+    "n2": "reprieves",
+    "n3": "the reprieve",
+    "n4": "the reprieves",
+    "n5": "reprieve's",
+    "n6": "reprieves'",
+    "n7": "a reprieve",
+    "n8": "many reprieves"
+}

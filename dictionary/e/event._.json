@@ -7,5 +7,12 @@
     "n2": "events",
     "n3": "the event",
     "n4": "the events",
-    "n5": "event's"
+    "n5": "event's",
+    "proper": false,
+    "commonness": 68,
+    "max_commonness": 6834,
+    "commonness_ge_count": 222,
+    "n6": "events'",
+    "n7": "an event",
+    "n8": "many events"
 }

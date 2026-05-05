@@ -1,0 +1,18 @@
+{
+    "base": "gagwriter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gagwriter",
+    "n2": "gagwriters",
+    "n3": "the gagwriter",
+    "n4": "the gagwriters",
+    "n5": "gagwriter's",
+    "n6": "gagwriters'",
+    "n7": "a gagwriter",
+    "n8": "many gagwriters"
+}

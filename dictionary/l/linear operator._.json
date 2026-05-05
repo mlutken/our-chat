@@ -1,0 +1,18 @@
+{
+    "base": "linear operator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "linear operator",
+    "n2": "linear operators",
+    "n3": "the linear operator",
+    "n4": "the linear operators",
+    "n5": "linear operator's",
+    "n6": "linear operators'",
+    "n7": "a linear operator",
+    "n8": "many linear operators"
+}

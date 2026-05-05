@@ -1,11 +1,24 @@
 {
     "base": "print",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "print",
     "v2": "printed",
     "v3": "printed",
     "v4": "printing",
-    "v5": "prints"
+    "v5": "prints",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "print",
+    "n2": "prints",
+    "n3": "the print",
+    "n4": "the prints",
+    "n5": "print's",
+    "n6": "prints'",
+    "n7": "a print",
+    "n8": "many prints"
 }

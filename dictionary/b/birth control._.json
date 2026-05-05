@@ -1,0 +1,18 @@
+{
+    "base": "birth control",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "birth control",
+    "n2": "birth controls",
+    "n3": "the birth control",
+    "n4": "the birth controls",
+    "n5": "birth control's",
+    "n6": "birth controls'",
+    "n7": "a birth control",
+    "n8": "many birth controls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shoulder blade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shoulder blade",
+    "n2": "shoulder blades",
+    "n3": "the shoulder blade",
+    "n4": "the shoulder blades",
+    "n5": "shoulder blade's",
+    "n6": "shoulder blades'",
+    "n7": "a shoulder blade",
+    "n8": "many shoulder blades"
+}

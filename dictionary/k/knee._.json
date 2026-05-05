@@ -1,0 +1,18 @@
+{
+    "base": "knee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n1": "knee",
+    "n2": "knees",
+    "n3": "the knee",
+    "n4": "the knees",
+    "n5": "knee's",
+    "n6": "knees'",
+    "n7": "a knee",
+    "n8": "many knees"
+}

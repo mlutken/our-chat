@@ -1,0 +1,18 @@
+{
+    "base": "overhang",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overhang",
+    "n2": "overhangs",
+    "n3": "the overhang",
+    "n4": "the overhangs",
+    "n5": "overhang's",
+    "n6": "overhangs'",
+    "n7": "an overhang",
+    "n8": "many overhangs"
+}

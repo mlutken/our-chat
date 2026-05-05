@@ -1,0 +1,18 @@
+{
+    "base": "granule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "granule",
+    "n2": "granules",
+    "n3": "the granule",
+    "n4": "the granules",
+    "n5": "granule's",
+    "n6": "granules'",
+    "n7": "a granule",
+    "n8": "many granules"
+}

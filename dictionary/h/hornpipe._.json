@@ -1,0 +1,18 @@
+{
+    "base": "hornpipe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hornpipe",
+    "n2": "hornpipes",
+    "n3": "the hornpipe",
+    "n4": "the hornpipes",
+    "n5": "hornpipe's",
+    "n6": "hornpipes'",
+    "n7": "a hornpipe",
+    "n8": "many hornpipes"
+}

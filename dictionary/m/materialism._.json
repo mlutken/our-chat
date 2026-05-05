@@ -1,0 +1,18 @@
+{
+    "base": "materialism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "materialism",
+    "n2": "materialisms",
+    "n3": "the materialism",
+    "n4": "the materialisms",
+    "n5": "materialism's",
+    "n6": "materialisms'",
+    "n7": "a materialism",
+    "n8": "many materialisms"
+}

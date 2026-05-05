@@ -7,5 +7,12 @@
     "n2": "chapters",
     "n3": "the chapter",
     "n4": "the chapters",
-    "n5": "chapter's"
+    "n5": "chapter's",
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n6": "chapters'",
+    "n7": "a chapter",
+    "n8": "many chapters"
 }

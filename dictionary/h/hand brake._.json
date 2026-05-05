@@ -1,0 +1,18 @@
+{
+    "base": "hand brake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hand brake",
+    "n2": "hand brakes",
+    "n3": "the hand brake",
+    "n4": "the hand brakes",
+    "n5": "hand brake's",
+    "n6": "hand brakes'",
+    "n7": "a hand brake",
+    "n8": "many hand brakes"
+}

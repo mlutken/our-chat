@@ -1,0 +1,18 @@
+{
+    "base": "perpetuation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "perpetuation",
+    "n2": "perpetuations",
+    "n3": "the perpetuation",
+    "n4": "the perpetuations",
+    "n5": "perpetuation's",
+    "n6": "perpetuations'",
+    "n7": "a perpetuation",
+    "n8": "many perpetuations"
+}

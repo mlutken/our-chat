@@ -1,0 +1,18 @@
+{
+    "base": "proprietor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "proprietor",
+    "n2": "proprietors",
+    "n3": "the proprietor",
+    "n4": "the proprietors",
+    "n5": "proprietor's",
+    "n6": "proprietors'",
+    "n7": "a proprietor",
+    "n8": "many proprietors"
+}

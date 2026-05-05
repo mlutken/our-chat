@@ -1,0 +1,18 @@
+{
+    "base": "popularity contest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "popularity contest",
+    "n2": "popularity contests",
+    "n3": "the popularity contest",
+    "n4": "the popularity contests",
+    "n5": "popularity contest's",
+    "n6": "popularity contests'",
+    "n7": "a popularity contest",
+    "n8": "many popularity contests"
+}

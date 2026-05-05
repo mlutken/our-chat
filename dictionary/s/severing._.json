@@ -1,0 +1,18 @@
+{
+    "base": "severing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "severing",
+    "n2": "severings",
+    "n3": "the severing",
+    "n4": "the severings",
+    "n5": "severing's",
+    "n6": "severings'",
+    "n7": "a severing",
+    "n8": "many severings"
+}

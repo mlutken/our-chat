@@ -1,0 +1,18 @@
+{
+    "base": "shower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "shower",
+    "n2": "showers",
+    "n3": "the shower",
+    "n4": "the showers",
+    "n5": "shower's",
+    "n6": "showers'",
+    "n7": "a shower",
+    "n8": "many showers"
+}

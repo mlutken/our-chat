@@ -1,0 +1,18 @@
+{
+    "base": "mars",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "mars",
+    "n2": "marses",
+    "n3": "the mars",
+    "n4": "the marses",
+    "n5": "mars'",
+    "n6": "marses'",
+    "n7": "a mars",
+    "n8": "many marses"
+}

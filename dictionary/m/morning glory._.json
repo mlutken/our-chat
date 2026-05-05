@@ -1,0 +1,18 @@
+{
+    "base": "morning glory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "morning glory",
+    "n2": "morning glories",
+    "n3": "the morning glory",
+    "n4": "the morning glories",
+    "n5": "morning glory's",
+    "n6": "morning glories'",
+    "n7": "a morning glory",
+    "n8": "many morning glories"
+}

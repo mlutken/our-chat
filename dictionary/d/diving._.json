@@ -1,0 +1,18 @@
+{
+    "base": "diving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diving",
+    "n2": "divings",
+    "n3": "the diving",
+    "n4": "the divings",
+    "n5": "diving's",
+    "n6": "divings'",
+    "n7": "a diving",
+    "n8": "many divings"
+}

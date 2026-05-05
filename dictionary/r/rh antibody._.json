@@ -1,0 +1,18 @@
+{
+    "base": "rh antibody",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "rh antibody",
+    "n2": "rh antibodies",
+    "n3": "the rh antibody",
+    "n4": "the rh antibodies",
+    "n5": "rh antibody's",
+    "n6": "rh antibodies'",
+    "n7": "a rh antibody",
+    "n8": "many rh antibodies"
+}

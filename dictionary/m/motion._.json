@@ -1,0 +1,18 @@
+{
+    "base": "motion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "motion",
+    "n2": "motions",
+    "n3": "the motion",
+    "n4": "the motions",
+    "n5": "motion's",
+    "n6": "motions'",
+    "n7": "a motion",
+    "n8": "many motions"
+}

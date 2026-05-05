@@ -1,0 +1,18 @@
+{
+    "base": "worldly belongings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worldly belongings",
+    "n2": "worldly belongingses",
+    "n3": "the worldly belongings",
+    "n4": "the worldly belongingses",
+    "n5": "worldly belongings'",
+    "n6": "worldly belongingses'",
+    "n7": "a worldly belongings",
+    "n8": "many worldly belongingses"
+}

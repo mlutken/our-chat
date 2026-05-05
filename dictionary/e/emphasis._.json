@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "emphasis",
-    "n2": "emphasis",
+    "n2": "emphases",
     "n3": "the emphasis",
-    "n4": "the emphasis",
-    "n5": "emphasis's"
+    "n4": "the emphases",
+    "n5": "emphasis'",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "emphases'",
+    "n7": "an emphasis",
+    "n8": "many emphases"
 }

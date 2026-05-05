@@ -7,5 +7,12 @@
     "n2": "styles",
     "n3": "the style",
     "n4": "the styles",
-    "n5": "style's"
+    "n5": "style's",
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n6": "styles'",
+    "n7": "a style",
+    "n8": "many styles"
 }

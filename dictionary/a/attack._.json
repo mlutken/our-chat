@@ -1,11 +1,24 @@
 {
     "base": "attack",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "attack",
     "v2": "attacked",
     "v3": "attacked",
     "v4": "attacking",
-    "v5": "attacks"
+    "v5": "attacks",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "attack",
+    "n2": "attacks",
+    "n3": "the attack",
+    "n4": "the attacks",
+    "n5": "attack's",
+    "n6": "attacks'",
+    "n7": "an attack",
+    "n8": "many attacks"
 }

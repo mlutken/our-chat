@@ -1,0 +1,18 @@
+{
+    "base": "exclusiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "exclusiveness",
+    "n2": "exclusivenesses",
+    "n3": "the exclusiveness",
+    "n4": "the exclusivenesses",
+    "n5": "exclusiveness'",
+    "n6": "exclusivenesses'",
+    "n7": "an exclusiveness",
+    "n8": "many exclusivenesses"
+}

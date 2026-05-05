@@ -1,0 +1,18 @@
+{
+    "base": "linebacker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "linebacker",
+    "n2": "linebackers",
+    "n3": "the linebacker",
+    "n4": "the linebackers",
+    "n5": "linebacker's",
+    "n6": "linebackers'",
+    "n7": "a linebacker",
+    "n8": "many linebackers"
+}

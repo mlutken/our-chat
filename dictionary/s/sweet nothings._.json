@@ -1,0 +1,18 @@
+{
+    "base": "sweet nothings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweet nothings",
+    "n2": "sweet nothingses",
+    "n3": "the sweet nothings",
+    "n4": "the sweet nothingses",
+    "n5": "sweet nothings'",
+    "n6": "sweet nothingses'",
+    "n7": "a sweet nothings",
+    "n8": "many sweet nothingses"
+}

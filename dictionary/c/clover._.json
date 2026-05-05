@@ -1,0 +1,18 @@
+{
+    "base": "clover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clover",
+    "n2": "clovers",
+    "n3": "the clover",
+    "n4": "the clovers",
+    "n5": "clover's",
+    "n6": "clovers'",
+    "n7": "a clover",
+    "n8": "many clovers"
+}

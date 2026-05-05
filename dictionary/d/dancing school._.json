@@ -1,0 +1,18 @@
+{
+    "base": "dancing school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dancing school",
+    "n2": "dancing schools",
+    "n3": "the dancing school",
+    "n4": "the dancing schools",
+    "n5": "dancing school's",
+    "n6": "dancing schools'",
+    "n7": "a dancing school",
+    "n8": "many dancing schools"
+}

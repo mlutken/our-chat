@@ -1,0 +1,18 @@
+{
+    "base": "investigating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "investigating",
+    "n2": "investigatings",
+    "n3": "the investigating",
+    "n4": "the investigatings",
+    "n5": "investigating's",
+    "n6": "investigatings'",
+    "n7": "an investigating",
+    "n8": "many investigatings"
+}

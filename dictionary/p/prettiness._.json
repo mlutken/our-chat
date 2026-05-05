@@ -1,0 +1,18 @@
+{
+    "base": "prettiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prettiness",
+    "n2": "prettinesses",
+    "n3": "the prettiness",
+    "n4": "the prettinesses",
+    "n5": "prettiness'",
+    "n6": "prettinesses'",
+    "n7": "a prettiness",
+    "n8": "many prettinesses"
+}

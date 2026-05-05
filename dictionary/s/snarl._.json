@@ -1,0 +1,18 @@
+{
+    "base": "snarl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "snarl",
+    "n2": "snarls",
+    "n3": "the snarl",
+    "n4": "the snarls",
+    "n5": "snarl's",
+    "n6": "snarls'",
+    "n7": "a snarl",
+    "n8": "many snarls"
+}

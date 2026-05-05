@@ -1,0 +1,18 @@
+{
+    "base": "adroitness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adroitness",
+    "n2": "adroitnesses",
+    "n3": "the adroitness",
+    "n4": "the adroitnesses",
+    "n5": "adroitness'",
+    "n6": "adroitnesses'",
+    "n7": "an adroitness",
+    "n8": "many adroitnesses"
+}

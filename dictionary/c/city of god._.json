@@ -1,0 +1,18 @@
+{
+    "base": "city of god",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "city of god",
+    "n2": "city of gods",
+    "n3": "the city of god",
+    "n4": "the city of gods",
+    "n5": "city of god's",
+    "n6": "city of gods'",
+    "n7": "a city of god",
+    "n8": "many city of gods"
+}

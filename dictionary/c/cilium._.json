@@ -1,0 +1,18 @@
+{
+    "base": "cilium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cilium",
+    "n2": "cilia",
+    "n3": "the cilium",
+    "n4": "the cilia",
+    "n5": "cilium's",
+    "n6": "cilia's",
+    "n7": "a cilium",
+    "n8": "many cilia"
+}

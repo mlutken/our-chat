@@ -1,0 +1,18 @@
+{
+    "base": "syringa",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "syringa",
+    "n2": "syringas",
+    "n3": "the syringa",
+    "n4": "the syringas",
+    "n5": "syringa's",
+    "n6": "syringas'",
+    "n7": "a syringa",
+    "n8": "many syringas"
+}

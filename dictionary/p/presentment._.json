@@ -1,0 +1,18 @@
+{
+    "base": "presentment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "presentment",
+    "n2": "presentments",
+    "n3": "the presentment",
+    "n4": "the presentments",
+    "n5": "presentment's",
+    "n6": "presentments'",
+    "n7": "a presentment",
+    "n8": "many presentments"
+}

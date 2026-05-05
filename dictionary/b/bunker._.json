@@ -1,0 +1,18 @@
+{
+    "base": "bunker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bunker",
+    "n2": "bunkers",
+    "n3": "the bunker",
+    "n4": "the bunkers",
+    "n5": "bunker's",
+    "n6": "bunkers'",
+    "n7": "a bunker",
+    "n8": "many bunkers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lappet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lappet",
+    "n2": "lappets",
+    "n3": "the lappet",
+    "n4": "the lappets",
+    "n5": "lappet's",
+    "n6": "lappets'",
+    "n7": "a lappet",
+    "n8": "many lappets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "romp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "romp",
+    "n2": "romps",
+    "n3": "the romp",
+    "n4": "the romps",
+    "n5": "romp's",
+    "n6": "romps'",
+    "n7": "a romp",
+    "n8": "many romps"
+}

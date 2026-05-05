@@ -1,0 +1,18 @@
+{
+    "base": "indigestion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indigestion",
+    "n2": "indigestions",
+    "n3": "the indigestion",
+    "n4": "the indigestions",
+    "n5": "indigestion's",
+    "n6": "indigestions'",
+    "n7": "an indigestion",
+    "n8": "many indigestions"
+}

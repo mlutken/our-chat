@@ -1,0 +1,18 @@
+{
+    "base": "coccidiosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coccidiosis",
+    "n2": "coccidiosises",
+    "n3": "the coccidiosis",
+    "n4": "the coccidiosises",
+    "n5": "coccidiosis'",
+    "n6": "coccidiosises'",
+    "n7": "a coccidiosis",
+    "n8": "many coccidiosises"
+}

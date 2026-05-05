@@ -1,11 +1,24 @@
 {
     "base": "dress",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "dress",
     "v2": "dressed",
     "v3": "dressed",
     "v4": "dressing",
-    "v5": "dresses"
+    "v5": "dresses",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "dress",
+    "n2": "dresses",
+    "n3": "the dress",
+    "n4": "the dresses",
+    "n5": "dress'",
+    "n6": "dresses'",
+    "n7": "a dress",
+    "n8": "many dresses"
 }

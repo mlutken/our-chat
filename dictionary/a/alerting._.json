@@ -1,0 +1,18 @@
+{
+    "base": "alerting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alerting",
+    "n2": "alertings",
+    "n3": "the alerting",
+    "n4": "the alertings",
+    "n5": "alerting's",
+    "n6": "alertings'",
+    "n7": "an alerting",
+    "n8": "many alertings"
+}

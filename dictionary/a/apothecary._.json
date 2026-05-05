@@ -1,0 +1,18 @@
+{
+    "base": "apothecary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "apothecary",
+    "n2": "apothecaries",
+    "n3": "the apothecary",
+    "n4": "the apothecaries",
+    "n5": "apothecary's",
+    "n6": "apothecaries'",
+    "n7": "an apothecary",
+    "n8": "many apothecaries"
+}

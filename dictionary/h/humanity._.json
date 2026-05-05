@@ -1,0 +1,18 @@
+{
+    "base": "humanity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "humanity",
+    "n2": "humanities",
+    "n3": "the humanity",
+    "n4": "the humanities",
+    "n5": "humanity's",
+    "n6": "humanities'",
+    "n7": "a humanity",
+    "n8": "many humanities"
+}

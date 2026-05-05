@@ -1,0 +1,18 @@
+{
+    "base": "toilet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "toilet",
+    "n2": "toilets",
+    "n3": "the toilet",
+    "n4": "the toilets",
+    "n5": "toilet's",
+    "n6": "toilets'",
+    "n7": "a toilet",
+    "n8": "many toilets"
+}

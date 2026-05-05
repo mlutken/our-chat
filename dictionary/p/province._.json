@@ -1,0 +1,18 @@
+{
+    "base": "province",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "province",
+    "n2": "provinces",
+    "n3": "the province",
+    "n4": "the provinces",
+    "n5": "province's",
+    "n6": "provinces'",
+    "n7": "a province",
+    "n8": "many provinces"
+}

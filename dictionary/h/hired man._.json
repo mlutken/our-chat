@@ -1,0 +1,18 @@
+{
+    "base": "hired man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hired man",
+    "n2": "hired mans",
+    "n3": "the hired man",
+    "n4": "the hired mans",
+    "n5": "hired man's",
+    "n6": "hired mans'",
+    "n7": "a hired man",
+    "n8": "many hired mans"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "jimhickey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "jimhickey",
+    "n2": "jimhickeys",
+    "n3": "the jimhickey",
+    "n4": "the jimhickeys",
+    "n5": "jimhickey's",
+    "n6": "jimhickeys'",
+    "n7": "a jimhickey",
+    "n8": "many jimhickeys"
+}

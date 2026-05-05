@@ -1,0 +1,18 @@
+{
+    "base": "liquor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "liquor",
+    "n2": "liquors",
+    "n3": "the liquor",
+    "n4": "the liquors",
+    "n5": "liquor's",
+    "n6": "liquors'",
+    "n7": "a liquor",
+    "n8": "many liquors"
+}

@@ -7,5 +7,12 @@
     "n2": "examinations",
     "n3": "the examination",
     "n4": "the examinations",
-    "n5": "examination's"
+    "n5": "examination's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "examinations'",
+    "n7": "an examination",
+    "n8": "many examinations"
 }

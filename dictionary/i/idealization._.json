@@ -1,0 +1,18 @@
+{
+    "base": "idealization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "idealization",
+    "n2": "idealizations",
+    "n3": "the idealization",
+    "n4": "the idealizations",
+    "n5": "idealization's",
+    "n6": "idealizations'",
+    "n7": "an idealization",
+    "n8": "many idealizations"
+}

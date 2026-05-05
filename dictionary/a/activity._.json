@@ -7,5 +7,12 @@
     "n2": "activities",
     "n3": "the activity",
     "n4": "the activities",
-    "n5": "activity's"
+    "n5": "activity's",
+    "proper": false,
+    "commonness": 92,
+    "max_commonness": 6834,
+    "commonness_ge_count": 137,
+    "n6": "activities'",
+    "n7": "an activity",
+    "n8": "many activities"
 }

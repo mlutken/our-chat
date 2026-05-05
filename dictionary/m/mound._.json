@@ -1,0 +1,18 @@
+{
+    "base": "mound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "mound",
+    "n2": "mounds",
+    "n3": "the mound",
+    "n4": "the mounds",
+    "n5": "mound's",
+    "n6": "mounds'",
+    "n7": "a mound",
+    "n8": "many mounds"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "work of art",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "work of art",
+    "n2": "work of arts",
+    "n3": "the work of art",
+    "n4": "the work of arts",
+    "n5": "work of art's",
+    "n6": "work of arts'",
+    "n7": "a work of art",
+    "n8": "many work of arts"
+}

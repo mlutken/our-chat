@@ -1,0 +1,18 @@
+{
+    "base": "polyphosphate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "polyphosphate",
+    "n2": "polyphosphates",
+    "n3": "the polyphosphate",
+    "n4": "the polyphosphates",
+    "n5": "polyphosphate's",
+    "n6": "polyphosphates'",
+    "n7": "a polyphosphate",
+    "n8": "many polyphosphates"
+}

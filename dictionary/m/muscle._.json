@@ -1,0 +1,18 @@
+{
+    "base": "muscle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "muscle",
+    "n2": "muscles",
+    "n3": "the muscle",
+    "n4": "the muscles",
+    "n5": "muscle's",
+    "n6": "muscles'",
+    "n7": "a muscle",
+    "n8": "many muscles"
+}

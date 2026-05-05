@@ -1,0 +1,18 @@
+{
+    "base": "calendar year",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "calendar year",
+    "n2": "calendar years",
+    "n3": "the calendar year",
+    "n4": "the calendar years",
+    "n5": "calendar year's",
+    "n6": "calendar years'",
+    "n7": "a calendar year",
+    "n8": "many calendar years"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "exercising",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exercising",
+    "n2": "exercisings",
+    "n3": "the exercising",
+    "n4": "the exercisings",
+    "n5": "exercising's",
+    "n6": "exercisings'",
+    "n7": "an exercising",
+    "n8": "many exercisings"
+}

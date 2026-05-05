@@ -1,0 +1,18 @@
+{
+    "base": "legal age",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legal age",
+    "n2": "legal ages",
+    "n3": "the legal age",
+    "n4": "the legal ages",
+    "n5": "legal age's",
+    "n6": "legal ages'",
+    "n7": "a legal age",
+    "n8": "many legal ages"
+}

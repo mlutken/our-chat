@@ -1,0 +1,18 @@
+{
+    "base": "reappearance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reappearance",
+    "n2": "reappearances",
+    "n3": "the reappearance",
+    "n4": "the reappearances",
+    "n5": "reappearance's",
+    "n6": "reappearances'",
+    "n7": "a reappearance",
+    "n8": "many reappearances"
+}

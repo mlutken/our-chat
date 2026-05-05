@@ -1,0 +1,18 @@
+{
+    "base": "double standard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "double standard",
+    "n2": "double standards",
+    "n3": "the double standard",
+    "n4": "the double standards",
+    "n5": "double standard's",
+    "n6": "double standards'",
+    "n7": "a double standard",
+    "n8": "many double standards"
+}

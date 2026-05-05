@@ -1,0 +1,18 @@
+{
+    "base": "navigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "navigation",
+    "n2": "navigations",
+    "n3": "the navigation",
+    "n4": "the navigations",
+    "n5": "navigation's",
+    "n6": "navigations'",
+    "n7": "a navigation",
+    "n8": "many navigations"
+}

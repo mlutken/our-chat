@@ -1,0 +1,18 @@
+{
+    "base": "infantry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "infantry",
+    "n2": "infantries",
+    "n3": "the infantry",
+    "n4": "the infantries",
+    "n5": "infantry's",
+    "n6": "infantries'",
+    "n7": "an infantry",
+    "n8": "many infantries"
+}

@@ -13,5 +13,12 @@
     "v2": "held",
     "v3": "held",
     "v4": "holding",
-    "v5": "holds"
+    "v5": "holds",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "holds'",
+    "n7": "a hold",
+    "n8": "many holds"
 }

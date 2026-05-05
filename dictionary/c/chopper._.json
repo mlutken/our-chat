@@ -1,0 +1,18 @@
+{
+    "base": "chopper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chopper",
+    "n2": "choppers",
+    "n3": "the chopper",
+    "n4": "the choppers",
+    "n5": "chopper's",
+    "n6": "choppers'",
+    "n7": "a chopper",
+    "n8": "many choppers"
+}

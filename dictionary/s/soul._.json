@@ -1,0 +1,18 @@
+{
+    "base": "soul",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "soul",
+    "n2": "souls",
+    "n3": "the soul",
+    "n4": "the souls",
+    "n5": "soul's",
+    "n6": "souls'",
+    "n7": "a soul",
+    "n8": "many souls"
+}

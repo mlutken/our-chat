@@ -1,0 +1,18 @@
+{
+    "base": "culprit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "culprit",
+    "n2": "culprits",
+    "n3": "the culprit",
+    "n4": "the culprits",
+    "n5": "culprit's",
+    "n6": "culprits'",
+    "n7": "a culprit",
+    "n8": "many culprits"
+}

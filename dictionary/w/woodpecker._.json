@@ -1,0 +1,18 @@
+{
+    "base": "woodpecker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "woodpecker",
+    "n2": "woodpeckers",
+    "n3": "the woodpecker",
+    "n4": "the woodpeckers",
+    "n5": "woodpecker's",
+    "n6": "woodpeckers'",
+    "n7": "a woodpecker",
+    "n8": "many woodpeckers"
+}

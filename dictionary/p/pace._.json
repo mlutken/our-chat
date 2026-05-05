@@ -1,0 +1,18 @@
+{
+    "base": "pace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "pace",
+    "n2": "paces",
+    "n3": "the pace",
+    "n4": "the paces",
+    "n5": "pace's",
+    "n6": "paces'",
+    "n7": "a pace",
+    "n8": "many paces"
+}

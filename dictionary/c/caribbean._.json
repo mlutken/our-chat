@@ -1,0 +1,18 @@
+{
+    "base": "caribbean",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caribbean",
+    "n2": "caribbeans",
+    "n3": "the caribbean",
+    "n4": "the caribbeans",
+    "n5": "caribbean's",
+    "n6": "caribbeans'",
+    "n7": "a caribbean",
+    "n8": "many caribbeans"
+}

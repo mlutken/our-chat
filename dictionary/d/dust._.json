@@ -1,11 +1,24 @@
 {
     "base": "dust",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "dust",
     "v2": "dusted",
     "v3": "dusted",
     "v4": "dusting",
-    "v5": "dusts"
+    "v5": "dusts",
+    "proper": false,
+    "commonness": 53,
+    "max_commonness": 6834,
+    "commonness_ge_count": 300,
+    "n1": "dust",
+    "n2": "dusts",
+    "n3": "the dust",
+    "n4": "the dusts",
+    "n5": "dust's",
+    "n6": "dusts'",
+    "n7": "a dust",
+    "n8": "many dusts"
 }

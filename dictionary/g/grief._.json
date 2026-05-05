@@ -1,0 +1,18 @@
+{
+    "base": "grief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "grief",
+    "n2": "grieves",
+    "n3": "the grief",
+    "n4": "the grieves",
+    "n5": "grief's",
+    "n6": "grieves'",
+    "n7": "a grief",
+    "n8": "many grieves"
+}

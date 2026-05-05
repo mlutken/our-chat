@@ -1,0 +1,18 @@
+{
+    "base": "ring-around-a-rosy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ring-around-a-rosy",
+    "n2": "ring-around-a-rosies",
+    "n3": "the ring-around-a-rosy",
+    "n4": "the ring-around-a-rosies",
+    "n5": "ring-around-a-rosy's",
+    "n6": "ring-around-a-rosies'",
+    "n7": "a ring-around-a-rosy",
+    "n8": "many ring-around-a-rosies"
+}

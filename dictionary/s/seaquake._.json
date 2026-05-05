@@ -1,0 +1,18 @@
+{
+    "base": "seaquake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seaquake",
+    "n2": "seaquakes",
+    "n3": "the seaquake",
+    "n4": "the seaquakes",
+    "n5": "seaquake's",
+    "n6": "seaquakes'",
+    "n7": "a seaquake",
+    "n8": "many seaquakes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "crew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "crew",
+    "n2": "crews",
+    "n3": "the crew",
+    "n4": "the crews",
+    "n5": "crew's",
+    "n6": "crews'",
+    "n7": "a crew",
+    "n8": "many crews"
+}

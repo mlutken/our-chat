@@ -1,0 +1,18 @@
+{
+    "base": "prisoner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "prisoner",
+    "n2": "prisoners",
+    "n3": "the prisoner",
+    "n4": "the prisoners",
+    "n5": "prisoner's",
+    "n6": "prisoners'",
+    "n7": "a prisoner",
+    "n8": "many prisoners"
+}

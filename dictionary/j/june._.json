@@ -1,0 +1,18 @@
+{
+    "base": "june",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "june",
+    "n2": "junes",
+    "n3": "the june",
+    "n4": "the junes",
+    "n5": "june's",
+    "n6": "junes'",
+    "n7": "a june",
+    "n8": "many junes"
+}

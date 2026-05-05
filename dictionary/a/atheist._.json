@@ -1,0 +1,18 @@
+{
+    "base": "atheist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "atheist",
+    "n2": "atheists",
+    "n3": "the atheist",
+    "n4": "the atheists",
+    "n5": "atheist's",
+    "n6": "atheists'",
+    "n7": "an atheist",
+    "n8": "many atheists"
+}

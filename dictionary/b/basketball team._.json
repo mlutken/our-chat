@@ -1,0 +1,18 @@
+{
+    "base": "basketball team",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "basketball team",
+    "n2": "basketball teams",
+    "n3": "the basketball team",
+    "n4": "the basketball teams",
+    "n5": "basketball team's",
+    "n6": "basketball teams'",
+    "n7": "a basketball team",
+    "n8": "many basketball teams"
+}

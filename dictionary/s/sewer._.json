@@ -1,0 +1,18 @@
+{
+    "base": "sewer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sewer",
+    "n2": "sewers",
+    "n3": "the sewer",
+    "n4": "the sewers",
+    "n5": "sewer's",
+    "n6": "sewers'",
+    "n7": "a sewer",
+    "n8": "many sewers"
+}

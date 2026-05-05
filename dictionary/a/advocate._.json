@@ -1,0 +1,18 @@
+{
+    "base": "advocate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "advocate",
+    "n2": "advocates",
+    "n3": "the advocate",
+    "n4": "the advocates",
+    "n5": "advocate's",
+    "n6": "advocates'",
+    "n7": "an advocate",
+    "n8": "many advocates"
+}

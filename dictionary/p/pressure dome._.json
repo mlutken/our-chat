@@ -1,0 +1,18 @@
+{
+    "base": "pressure dome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pressure dome",
+    "n2": "pressure domes",
+    "n3": "the pressure dome",
+    "n4": "the pressure domes",
+    "n5": "pressure dome's",
+    "n6": "pressure domes'",
+    "n7": "a pressure dome",
+    "n8": "many pressure domes"
+}

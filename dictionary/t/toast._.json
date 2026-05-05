@@ -1,0 +1,18 @@
+{
+    "base": "toast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "toast",
+    "n2": "toasts",
+    "n3": "the toast",
+    "n4": "the toasts",
+    "n5": "toast's",
+    "n6": "toasts'",
+    "n7": "a toast",
+    "n8": "many toasts"
+}

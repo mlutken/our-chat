@@ -7,5 +7,12 @@
     "n2": "understandings",
     "n3": "the understanding",
     "n4": "the understandings",
-    "n5": "understanding's"
+    "n5": "understanding's",
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n6": "understandings'",
+    "n7": "an understanding",
+    "n8": "many understandings"
 }

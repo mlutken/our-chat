@@ -1,11 +1,24 @@
 {
     "base": "help",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "help",
     "v2": "helped",
     "v3": "helped",
     "v4": "helping",
-    "v5": "helps"
+    "v5": "helps",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "help",
+    "n2": "helps",
+    "n3": "the help",
+    "n4": "the helps",
+    "n5": "help's",
+    "n6": "helps'",
+    "n7": "a help",
+    "n8": "many helps"
 }

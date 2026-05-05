@@ -1,0 +1,18 @@
+{
+    "base": "burr",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "burr",
+    "n2": "burrs",
+    "n3": "the burr",
+    "n4": "the burrs",
+    "n5": "burr's",
+    "n6": "burrs'",
+    "n7": "a burr",
+    "n8": "many burrs"
+}

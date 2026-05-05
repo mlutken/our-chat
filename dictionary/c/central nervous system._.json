@@ -1,0 +1,18 @@
+{
+    "base": "central nervous system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "central nervous system",
+    "n2": "central nervous systems",
+    "n3": "the central nervous system",
+    "n4": "the central nervous systems",
+    "n5": "central nervous system's",
+    "n6": "central nervous systems'",
+    "n7": "a central nervous system",
+    "n8": "many central nervous systems"
+}

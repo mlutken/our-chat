@@ -1,0 +1,18 @@
+{
+    "base": "satin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "satin",
+    "n2": "satins",
+    "n3": "the satin",
+    "n4": "the satins",
+    "n5": "satin's",
+    "n6": "satins'",
+    "n7": "a satin",
+    "n8": "many satins"
+}

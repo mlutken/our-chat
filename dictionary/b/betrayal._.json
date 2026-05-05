@@ -1,0 +1,18 @@
+{
+    "base": "betrayal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "betrayal",
+    "n2": "betrayals",
+    "n3": "the betrayal",
+    "n4": "the betrayals",
+    "n5": "betrayal's",
+    "n6": "betrayals'",
+    "n7": "a betrayal",
+    "n8": "many betrayals"
+}

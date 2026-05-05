@@ -7,5 +7,12 @@
     "n2": "clubs",
     "n3": "the club",
     "n4": "the clubs",
-    "n5": "club's"
+    "n5": "club's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "clubs'",
+    "n7": "a club",
+    "n8": "many clubs"
 }

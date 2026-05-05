@@ -1,0 +1,18 @@
+{
+    "base": "poplin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "poplin",
+    "n2": "poplins",
+    "n3": "the poplin",
+    "n4": "the poplins",
+    "n5": "poplin's",
+    "n6": "poplins'",
+    "n7": "a poplin",
+    "n8": "many poplins"
+}

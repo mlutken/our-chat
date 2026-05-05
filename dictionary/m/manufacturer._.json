@@ -7,5 +7,12 @@
     "n2": "manufacturers",
     "n3": "the manufacturer",
     "n4": "the manufacturers",
-    "n5": "manufacturer's"
+    "n5": "manufacturer's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "manufacturers'",
+    "n7": "a manufacturer",
+    "n8": "many manufacturers"
 }

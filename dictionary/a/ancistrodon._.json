@@ -1,0 +1,18 @@
+{
+    "base": "ancistrodon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ancistrodon",
+    "n2": "ancistrodons",
+    "n3": "the ancistrodon",
+    "n4": "the ancistrodons",
+    "n5": "ancistrodon's",
+    "n6": "ancistrodons'",
+    "n7": "an ancistrodon",
+    "n8": "many ancistrodons"
+}

@@ -7,5 +7,12 @@
     "n2": "diseases",
     "n3": "the disease",
     "n4": "the diseases",
-    "n5": "disease's"
+    "n5": "disease's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "diseases'",
+    "n7": "a disease",
+    "n8": "many diseases"
 }

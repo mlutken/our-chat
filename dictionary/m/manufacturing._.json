@@ -7,5 +7,12 @@
     "n2": "manufacturings",
     "n3": "the manufacturing",
     "n4": "the manufacturings",
-    "n5": "manufacturing's"
+    "n5": "manufacturing's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "manufacturings'",
+    "n7": "a manufacturing",
+    "n8": "many manufacturings"
 }

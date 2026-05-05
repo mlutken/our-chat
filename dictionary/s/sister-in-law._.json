@@ -1,0 +1,18 @@
+{
+    "base": "sister-in-law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sister-in-law",
+    "n2": "sisters-in-law",
+    "n3": "the sister-in-law",
+    "n4": "the sisters-in-law",
+    "n5": "sister-in-law's",
+    "n6": "sisters-in-law's",
+    "n7": "a sister-in-law",
+    "n8": "many sisters-in-law"
+}

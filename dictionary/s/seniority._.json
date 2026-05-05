@@ -1,0 +1,18 @@
+{
+    "base": "seniority",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seniority",
+    "n2": "seniorities",
+    "n3": "the seniority",
+    "n4": "the seniorities",
+    "n5": "seniority's",
+    "n6": "seniorities'",
+    "n7": "a seniority",
+    "n8": "many seniorities"
+}

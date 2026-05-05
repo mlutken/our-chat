@@ -1,0 +1,18 @@
+{
+    "base": "chorine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chorine",
+    "n2": "chorines",
+    "n3": "the chorine",
+    "n4": "the chorines",
+    "n5": "chorine's",
+    "n6": "chorines'",
+    "n7": "a chorine",
+    "n8": "many chorines"
+}

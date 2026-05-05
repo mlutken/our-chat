@@ -1,0 +1,18 @@
+{
+    "base": "peptidase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peptidase",
+    "n2": "peptidases",
+    "n3": "the peptidase",
+    "n4": "the peptidases",
+    "n5": "peptidase's",
+    "n6": "peptidases'",
+    "n7": "a peptidase",
+    "n8": "many peptidases"
+}

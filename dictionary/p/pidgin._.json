@@ -1,0 +1,18 @@
+{
+    "base": "pidgin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pidgin",
+    "n2": "pidgins",
+    "n3": "the pidgin",
+    "n4": "the pidgins",
+    "n5": "pidgin's",
+    "n6": "pidgins'",
+    "n7": "a pidgin",
+    "n8": "many pidgins"
+}

@@ -1,11 +1,24 @@
 {
     "base": "kiss",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "kiss",
     "v2": "kissed",
     "v3": "kissed",
     "v4": "kissing",
-    "v5": "kisses"
+    "v5": "kisses",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "kiss",
+    "n2": "kisses",
+    "n3": "the kiss",
+    "n4": "the kisses",
+    "n5": "kiss'",
+    "n6": "kisses'",
+    "n7": "a kiss",
+    "n8": "many kisses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "natural science",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "natural science",
+    "n2": "natural sciences",
+    "n3": "the natural science",
+    "n4": "the natural sciences",
+    "n5": "natural science's",
+    "n6": "natural sciences'",
+    "n7": "a natural science",
+    "n8": "many natural sciences"
+}

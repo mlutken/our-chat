@@ -1,0 +1,18 @@
+{
+    "base": "freedom of thought",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "freedom of thought",
+    "n2": "freedom of thoughts",
+    "n3": "the freedom of thought",
+    "n4": "the freedom of thoughts",
+    "n5": "freedom of thought's",
+    "n6": "freedom of thoughts'",
+    "n7": "a freedom of thought",
+    "n8": "many freedom of thoughts"
+}

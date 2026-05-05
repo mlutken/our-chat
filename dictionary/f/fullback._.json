@@ -1,0 +1,18 @@
+{
+    "base": "fullback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fullback",
+    "n2": "fullbacks",
+    "n3": "the fullback",
+    "n4": "the fullbacks",
+    "n5": "fullback's",
+    "n6": "fullbacks'",
+    "n7": "a fullback",
+    "n8": "many fullbacks"
+}

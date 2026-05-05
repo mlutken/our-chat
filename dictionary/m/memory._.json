@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "memory",
-    "n2": "memorys",
+    "n2": "memories",
     "n3": "the memory",
-    "n4": "the memorys",
-    "n5": "memory's"
+    "n4": "the memories",
+    "n5": "memory's",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "memories'",
+    "n7": "a memory",
+    "n8": "many memories"
 }

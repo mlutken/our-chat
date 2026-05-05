@@ -1,0 +1,18 @@
+{
+    "base": "bracing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bracing",
+    "n2": "bracings",
+    "n3": "the bracing",
+    "n4": "the bracings",
+    "n5": "bracing's",
+    "n6": "bracings'",
+    "n7": "a bracing",
+    "n8": "many bracings"
+}

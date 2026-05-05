@@ -1,0 +1,18 @@
+{
+    "base": "vigilance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vigilance",
+    "n2": "vigilances",
+    "n3": "the vigilance",
+    "n4": "the vigilances",
+    "n5": "vigilance's",
+    "n6": "vigilances'",
+    "n7": "a vigilance",
+    "n8": "many vigilances"
+}

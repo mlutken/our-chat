@@ -1,0 +1,18 @@
+{
+    "base": "trail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "trail",
+    "n2": "trails",
+    "n3": "the trail",
+    "n4": "the trails",
+    "n5": "trail's",
+    "n6": "trails'",
+    "n7": "a trail",
+    "n8": "many trails"
+}

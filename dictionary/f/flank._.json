@@ -1,0 +1,18 @@
+{
+    "base": "flank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flank",
+    "n2": "flanks",
+    "n3": "the flank",
+    "n4": "the flanks",
+    "n5": "flank's",
+    "n6": "flanks'",
+    "n7": "a flank",
+    "n8": "many flanks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "black man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "black man",
+    "n2": "black mans",
+    "n3": "the black man",
+    "n4": "the black mans",
+    "n5": "black man's",
+    "n6": "black mans'",
+    "n7": "a black man",
+    "n8": "many black mans"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "drafting board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drafting board",
+    "n2": "drafting boards",
+    "n3": "the drafting board",
+    "n4": "the drafting boards",
+    "n5": "drafting board's",
+    "n6": "drafting boards'",
+    "n7": "a drafting board",
+    "n8": "many drafting boards"
+}

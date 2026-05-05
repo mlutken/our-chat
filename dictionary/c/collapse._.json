@@ -1,0 +1,18 @@
+{
+    "base": "collapse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "collapse",
+    "n2": "collapses",
+    "n3": "the collapse",
+    "n4": "the collapses",
+    "n5": "collapse's",
+    "n6": "collapses'",
+    "n7": "a collapse",
+    "n8": "many collapses"
+}

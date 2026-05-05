@@ -1,0 +1,18 @@
+{
+    "base": "refueling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "refueling",
+    "n2": "refuelings",
+    "n3": "the refueling",
+    "n4": "the refuelings",
+    "n5": "refueling's",
+    "n6": "refuelings'",
+    "n7": "a refueling",
+    "n8": "many refuelings"
+}

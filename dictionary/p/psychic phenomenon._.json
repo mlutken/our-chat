@@ -1,0 +1,18 @@
+{
+    "base": "psychic phenomenon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "psychic phenomenon",
+    "n2": "psychic phenomenons",
+    "n3": "the psychic phenomenon",
+    "n4": "the psychic phenomenons",
+    "n5": "psychic phenomenon's",
+    "n6": "psychic phenomenons'",
+    "n7": "a psychic phenomenon",
+    "n8": "many psychic phenomenons"
+}

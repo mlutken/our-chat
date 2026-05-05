@@ -1,0 +1,18 @@
+{
+    "base": "configuration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "configuration",
+    "n2": "configurations",
+    "n3": "the configuration",
+    "n4": "the configurations",
+    "n5": "configuration's",
+    "n6": "configurations'",
+    "n7": "a configuration",
+    "n8": "many configurations"
+}

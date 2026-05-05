@@ -1,0 +1,18 @@
+{
+    "base": "bitters",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bitters",
+    "n2": "bitterses",
+    "n3": "the bitters",
+    "n4": "the bitterses",
+    "n5": "bitters'",
+    "n6": "bitterses'",
+    "n7": "a bitters",
+    "n8": "many bitterses"
+}

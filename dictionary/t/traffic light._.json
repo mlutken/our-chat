@@ -1,0 +1,18 @@
+{
+    "base": "traffic light",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "traffic light",
+    "n2": "traffic lights",
+    "n3": "the traffic light",
+    "n4": "the traffic lights",
+    "n5": "traffic light's",
+    "n6": "traffic lights'",
+    "n7": "a traffic light",
+    "n8": "many traffic lights"
+}

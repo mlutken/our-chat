@@ -1,0 +1,18 @@
+{
+    "base": "reconsideration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reconsideration",
+    "n2": "reconsiderations",
+    "n3": "the reconsideration",
+    "n4": "the reconsiderations",
+    "n5": "reconsideration's",
+    "n6": "reconsiderations'",
+    "n7": "a reconsideration",
+    "n8": "many reconsiderations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "six",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "six",
+    "n2": "sixes",
+    "n3": "the six",
+    "n4": "the sixes",
+    "n5": "six's",
+    "n6": "sixes'",
+    "n7": "a six",
+    "n8": "many sixes"
+}

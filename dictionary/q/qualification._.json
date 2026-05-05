@@ -1,0 +1,18 @@
+{
+    "base": "qualification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "qualification",
+    "n2": "qualifications",
+    "n3": "the qualification",
+    "n4": "the qualifications",
+    "n5": "qualification's",
+    "n6": "qualifications'",
+    "n7": "a qualification",
+    "n8": "many qualifications"
+}

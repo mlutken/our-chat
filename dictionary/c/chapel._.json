@@ -1,0 +1,18 @@
+{
+    "base": "chapel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "chapel",
+    "n2": "chapels",
+    "n3": "the chapel",
+    "n4": "the chapels",
+    "n5": "chapel's",
+    "n6": "chapels'",
+    "n7": "a chapel",
+    "n8": "many chapels"
+}

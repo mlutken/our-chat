@@ -1,0 +1,18 @@
+{
+    "base": "multiplicity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "multiplicity",
+    "n2": "multiplicities",
+    "n3": "the multiplicity",
+    "n4": "the multiplicities",
+    "n5": "multiplicity's",
+    "n6": "multiplicities'",
+    "n7": "a multiplicity",
+    "n8": "many multiplicities"
+}

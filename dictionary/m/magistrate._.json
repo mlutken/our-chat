@@ -1,0 +1,18 @@
+{
+    "base": "magistrate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magistrate",
+    "n2": "magistrates",
+    "n3": "the magistrate",
+    "n4": "the magistrates",
+    "n5": "magistrate's",
+    "n6": "magistrates'",
+    "n7": "a magistrate",
+    "n8": "many magistrates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pitfall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pitfall",
+    "n2": "pitfalls",
+    "n3": "the pitfall",
+    "n4": "the pitfalls",
+    "n5": "pitfall's",
+    "n6": "pitfalls'",
+    "n7": "a pitfall",
+    "n8": "many pitfalls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "armor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "armor",
+    "n2": "armors",
+    "n3": "the armor",
+    "n4": "the armors",
+    "n5": "armor's",
+    "n6": "armors'",
+    "n7": "an armor",
+    "n8": "many armors"
+}

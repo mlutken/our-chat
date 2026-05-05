@@ -1,0 +1,18 @@
+{
+    "base": "marriage bed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marriage bed",
+    "n2": "marriage beds",
+    "n3": "the marriage bed",
+    "n4": "the marriage beds",
+    "n5": "marriage bed's",
+    "n6": "marriage beds'",
+    "n7": "a marriage bed",
+    "n8": "many marriage beds"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "admirer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "admirer",
+    "n2": "admirers",
+    "n3": "the admirer",
+    "n4": "the admirers",
+    "n5": "admirer's",
+    "n6": "admirers'",
+    "n7": "an admirer",
+    "n8": "many admirers"
+}

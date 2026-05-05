@@ -1,0 +1,18 @@
+{
+    "base": "american dream",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "american dream",
+    "n2": "american dreams",
+    "n3": "the american dream",
+    "n4": "the american dreams",
+    "n5": "american dream's",
+    "n6": "american dreams'",
+    "n7": "an american dream",
+    "n8": "many american dreams"
+}

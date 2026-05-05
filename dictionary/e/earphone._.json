@@ -1,0 +1,18 @@
+{
+    "base": "earphone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "earphone",
+    "n2": "earphones",
+    "n3": "the earphone",
+    "n4": "the earphones",
+    "n5": "earphone's",
+    "n6": "earphones'",
+    "n7": "an earphone",
+    "n8": "many earphones"
+}

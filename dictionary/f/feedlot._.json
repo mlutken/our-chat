@@ -1,0 +1,18 @@
+{
+    "base": "feedlot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "feedlot",
+    "n2": "feedlots",
+    "n3": "the feedlot",
+    "n4": "the feedlots",
+    "n5": "feedlot's",
+    "n6": "feedlots'",
+    "n7": "a feedlot",
+    "n8": "many feedlots"
+}

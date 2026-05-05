@@ -7,5 +7,12 @@
     "n2": "evaluations",
     "n3": "the evaluation",
     "n4": "the evaluations",
-    "n5": "evaluation's"
+    "n5": "evaluation's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "evaluations'",
+    "n7": "an evaluation",
+    "n8": "many evaluations"
 }

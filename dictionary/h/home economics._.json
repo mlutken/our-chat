@@ -1,0 +1,18 @@
+{
+    "base": "home economics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "home economics",
+    "n2": "home economicses",
+    "n3": "the home economics",
+    "n4": "the home economicses",
+    "n5": "home economics'",
+    "n6": "home economicses'",
+    "n7": "a home economics",
+    "n8": "many home economicses"
+}

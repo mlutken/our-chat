@@ -1,0 +1,18 @@
+{
+    "base": "playback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "playback",
+    "n2": "playbacks",
+    "n3": "the playback",
+    "n4": "the playbacks",
+    "n5": "playback's",
+    "n6": "playbacks'",
+    "n7": "a playback",
+    "n8": "many playbacks"
+}

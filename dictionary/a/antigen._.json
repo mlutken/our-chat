@@ -1,0 +1,18 @@
+{
+    "base": "antigen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "antigen",
+    "n2": "antigens",
+    "n3": "the antigen",
+    "n4": "the antigens",
+    "n5": "antigen's",
+    "n6": "antigens'",
+    "n7": "an antigen",
+    "n8": "many antigens"
+}

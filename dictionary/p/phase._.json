@@ -1,0 +1,18 @@
+{
+    "base": "phase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n1": "phase",
+    "n2": "phases",
+    "n3": "the phase",
+    "n4": "the phases",
+    "n5": "phase's",
+    "n6": "phases'",
+    "n7": "a phase",
+    "n8": "many phases"
+}

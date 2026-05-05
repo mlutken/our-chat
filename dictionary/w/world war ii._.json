@@ -1,0 +1,18 @@
+{
+    "base": "world war ii",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "world war ii",
+    "n2": "world war iis",
+    "n3": "the world war ii",
+    "n4": "the world war iis",
+    "n5": "world war ii's",
+    "n6": "world war iis'",
+    "n7": "a world war ii",
+    "n8": "many world war iis"
+}

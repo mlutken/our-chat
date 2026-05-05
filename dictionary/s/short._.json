@@ -1,11 +1,24 @@
 {
     "base": "short",
     "classes": [
+        "n",
         "adj",
         "pre"
     ],
     "adj1": "short",
     "adj2": "shorter",
     "adj3": "shortest",
-    "f0": "short"
+    "f0": "short",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "short",
+    "n2": "shorts",
+    "n3": "the short",
+    "n4": "the shorts",
+    "n5": "short's",
+    "n6": "shorts'",
+    "n7": "a short",
+    "n8": "many shorts"
 }

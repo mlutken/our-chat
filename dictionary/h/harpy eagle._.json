@@ -1,0 +1,18 @@
+{
+    "base": "harpy eagle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "harpy eagle",
+    "n2": "harpy eagles",
+    "n3": "the harpy eagle",
+    "n4": "the harpy eagles",
+    "n5": "harpy eagle's",
+    "n6": "harpy eagles'",
+    "n7": "a harpy eagle",
+    "n8": "many harpy eagles"
+}

@@ -7,5 +7,12 @@
     "n2": "significances",
     "n3": "the significance",
     "n4": "the significances",
-    "n5": "significance's"
+    "n5": "significance's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "significances'",
+    "n7": "a significance",
+    "n8": "many significances"
 }

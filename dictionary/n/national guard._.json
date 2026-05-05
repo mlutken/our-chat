@@ -1,0 +1,18 @@
+{
+    "base": "national guard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "national guard",
+    "n2": "national guards",
+    "n3": "the national guard",
+    "n4": "the national guards",
+    "n5": "national guard's",
+    "n6": "national guards'",
+    "n7": "a national guard",
+    "n8": "many national guards"
+}

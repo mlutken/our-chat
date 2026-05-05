@@ -1,0 +1,18 @@
+{
+    "base": "record player",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "record player",
+    "n2": "record players",
+    "n3": "the record player",
+    "n4": "the record players",
+    "n5": "record player's",
+    "n6": "record players'",
+    "n7": "a record player",
+    "n8": "many record players"
+}

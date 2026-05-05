@@ -1,0 +1,18 @@
+{
+    "base": "rift",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rift",
+    "n2": "rifts",
+    "n3": "the rift",
+    "n4": "the rifts",
+    "n5": "rift's",
+    "n6": "rifts'",
+    "n7": "a rift",
+    "n8": "many rifts"
+}

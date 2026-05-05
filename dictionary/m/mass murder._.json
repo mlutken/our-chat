@@ -1,0 +1,18 @@
+{
+    "base": "mass murder",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mass murder",
+    "n2": "mass murders",
+    "n3": "the mass murder",
+    "n4": "the mass murders",
+    "n5": "mass murder's",
+    "n6": "mass murders'",
+    "n7": "a mass murder",
+    "n8": "many mass murders"
+}

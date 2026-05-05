@@ -1,0 +1,18 @@
+{
+    "base": "trim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trim",
+    "n2": "trims",
+    "n3": "the trim",
+    "n4": "the trims",
+    "n5": "trim's",
+    "n6": "trims'",
+    "n7": "a trim",
+    "n8": "many trims"
+}

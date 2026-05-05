@@ -1,0 +1,18 @@
+{
+    "base": "trading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trading",
+    "n2": "tradings",
+    "n3": "the trading",
+    "n4": "the tradings",
+    "n5": "trading's",
+    "n6": "tradings'",
+    "n7": "a trading",
+    "n8": "many tradings"
+}

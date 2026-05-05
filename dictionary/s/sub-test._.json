@@ -1,0 +1,18 @@
+{
+    "base": "sub-test",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sub-test",
+    "n2": "sub-tests",
+    "n3": "the sub-test",
+    "n4": "the sub-tests",
+    "n5": "sub-test's",
+    "n6": "sub-tests'",
+    "n7": "a sub-test",
+    "n8": "many sub-tests"
+}

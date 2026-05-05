@@ -1,0 +1,18 @@
+{
+    "base": "hydrogen peroxide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hydrogen peroxide",
+    "n2": "hydrogen peroxides",
+    "n3": "the hydrogen peroxide",
+    "n4": "the hydrogen peroxides",
+    "n5": "hydrogen peroxide's",
+    "n6": "hydrogen peroxides'",
+    "n7": "a hydrogen peroxide",
+    "n8": "many hydrogen peroxides"
+}

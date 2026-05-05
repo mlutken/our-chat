@@ -1,0 +1,18 @@
+{
+    "base": "medal of honor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medal of honor",
+    "n2": "medal of honors",
+    "n3": "the medal of honor",
+    "n4": "the medal of honors",
+    "n5": "medal of honor's",
+    "n6": "medal of honors'",
+    "n7": "a medal of honor",
+    "n8": "many medal of honors"
+}

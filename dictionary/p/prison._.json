@@ -1,0 +1,18 @@
+{
+    "base": "prison",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "prison",
+    "n2": "prisons",
+    "n3": "the prison",
+    "n4": "the prisons",
+    "n5": "prison's",
+    "n6": "prisons'",
+    "n7": "a prison",
+    "n8": "many prisons"
+}

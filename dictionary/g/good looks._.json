@@ -1,0 +1,18 @@
+{
+    "base": "good looks",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "good looks",
+    "n2": "good lookses",
+    "n3": "the good looks",
+    "n4": "the good lookses",
+    "n5": "good looks'",
+    "n6": "good lookses'",
+    "n7": "a good looks",
+    "n8": "many good lookses"
+}

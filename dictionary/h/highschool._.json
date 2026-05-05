@@ -1,0 +1,18 @@
+{
+    "base": "highschool",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "highschool",
+    "n2": "highschools",
+    "n3": "the highschool",
+    "n4": "the highschools",
+    "n5": "highschool's",
+    "n6": "highschools'",
+    "n7": "a highschool",
+    "n8": "many highschools"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mid-thirties",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mid-thirties",
+    "n2": "mid-thirtieses",
+    "n3": "the mid-thirties",
+    "n4": "the mid-thirtieses",
+    "n5": "mid-thirties'",
+    "n6": "mid-thirtieses'",
+    "n7": "a mid-thirties",
+    "n8": "many mid-thirtieses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "writings",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "writings",
+    "n2": "writingses",
+    "n3": "the writings",
+    "n4": "the writingses",
+    "n5": "writings'",
+    "n6": "writingses'",
+    "n7": "a writings",
+    "n8": "many writingses"
+}

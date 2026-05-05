@@ -7,5 +7,12 @@
     "n2": "kings",
     "n3": "the king",
     "n4": "the kings",
-    "n5": "king's"
+    "n5": "king's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "kings'",
+    "n7": "a king",
+    "n8": "many kings"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "stimulant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stimulant",
+    "n2": "stimulants",
+    "n3": "the stimulant",
+    "n4": "the stimulants",
+    "n5": "stimulant's",
+    "n6": "stimulants'",
+    "n7": "a stimulant",
+    "n8": "many stimulants"
+}

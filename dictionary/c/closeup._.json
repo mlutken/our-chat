@@ -1,0 +1,18 @@
+{
+    "base": "closeup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "closeup",
+    "n2": "closeups",
+    "n3": "the closeup",
+    "n4": "the closeups",
+    "n5": "closeup's",
+    "n6": "closeups'",
+    "n7": "a closeup",
+    "n8": "many closeups"
+}

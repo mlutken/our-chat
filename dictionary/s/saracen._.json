@@ -1,0 +1,18 @@
+{
+    "base": "saracen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "saracen",
+    "n2": "saracens",
+    "n3": "the saracen",
+    "n4": "the saracens",
+    "n5": "saracen's",
+    "n6": "saracens'",
+    "n7": "a saracen",
+    "n8": "many saracens"
+}

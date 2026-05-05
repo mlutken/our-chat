@@ -1,0 +1,18 @@
+{
+    "base": "executor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "executor",
+    "n2": "executors",
+    "n3": "the executor",
+    "n4": "the executors",
+    "n5": "executor's",
+    "n6": "executors'",
+    "n7": "an executor",
+    "n8": "many executors"
+}

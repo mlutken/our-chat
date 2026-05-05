@@ -1,0 +1,18 @@
+{
+    "base": "split end",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "split end",
+    "n2": "split ends",
+    "n3": "the split end",
+    "n4": "the split ends",
+    "n5": "split end's",
+    "n6": "split ends'",
+    "n7": "a split end",
+    "n8": "many split ends"
+}

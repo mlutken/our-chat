@@ -1,0 +1,18 @@
+{
+    "base": "gunfire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "gunfire",
+    "n2": "gunfires",
+    "n3": "the gunfire",
+    "n4": "the gunfires",
+    "n5": "gunfire's",
+    "n6": "gunfires'",
+    "n7": "a gunfire",
+    "n8": "many gunfires"
+}

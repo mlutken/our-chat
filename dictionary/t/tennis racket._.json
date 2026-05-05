@@ -1,0 +1,18 @@
+{
+    "base": "tennis racket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tennis racket",
+    "n2": "tennis rackets",
+    "n3": "the tennis racket",
+    "n4": "the tennis rackets",
+    "n5": "tennis racket's",
+    "n6": "tennis rackets'",
+    "n7": "a tennis racket",
+    "n8": "many tennis rackets"
+}

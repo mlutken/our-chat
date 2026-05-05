@@ -7,5 +7,12 @@
     "n2": "services",
     "n3": "the service",
     "n4": "the services",
-    "n5": "service's"
+    "n5": "service's",
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n6": "services'",
+    "n7": "a service",
+    "n8": "many services"
 }

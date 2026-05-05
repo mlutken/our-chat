@@ -1,0 +1,18 @@
+{
+    "base": "urn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "urn",
+    "n2": "urns",
+    "n3": "the urn",
+    "n4": "the urns",
+    "n5": "urn's",
+    "n6": "urns'",
+    "n7": "an urn",
+    "n8": "many urns"
+}

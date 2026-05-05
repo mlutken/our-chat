@@ -1,0 +1,18 @@
+{
+    "base": "storm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "storm",
+    "n2": "storms",
+    "n3": "the storm",
+    "n4": "the storms",
+    "n5": "storm's",
+    "n6": "storms'",
+    "n7": "a storm",
+    "n8": "many storms"
+}

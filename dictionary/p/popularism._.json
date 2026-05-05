@@ -1,0 +1,18 @@
+{
+    "base": "popularism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "popularism",
+    "n2": "popularisms",
+    "n3": "the popularism",
+    "n4": "the popularisms",
+    "n5": "popularism's",
+    "n6": "popularisms'",
+    "n7": "a popularism",
+    "n8": "many popularisms"
+}

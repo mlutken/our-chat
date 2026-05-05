@@ -1,0 +1,18 @@
+{
+    "base": "nightclub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "nightclub",
+    "n2": "nightclubs",
+    "n3": "the nightclub",
+    "n4": "the nightclubs",
+    "n5": "nightclub's",
+    "n6": "nightclubs'",
+    "n7": "a nightclub",
+    "n8": "many nightclubs"
+}

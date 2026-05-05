@@ -1,0 +1,18 @@
+{
+    "base": "afghan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "afghan",
+    "n2": "afghans",
+    "n3": "the afghan",
+    "n4": "the afghans",
+    "n5": "afghan's",
+    "n6": "afghans'",
+    "n7": "an afghan",
+    "n8": "many afghans"
+}

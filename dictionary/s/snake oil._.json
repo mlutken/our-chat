@@ -1,0 +1,18 @@
+{
+    "base": "snake oil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snake oil",
+    "n2": "snake oils",
+    "n3": "the snake oil",
+    "n4": "the snake oils",
+    "n5": "snake oil's",
+    "n6": "snake oils'",
+    "n7": "a snake oil",
+    "n8": "many snake oils"
+}

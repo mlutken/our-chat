@@ -1,0 +1,18 @@
+{
+    "base": "principle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n1": "principle",
+    "n2": "principles",
+    "n3": "the principle",
+    "n4": "the principles",
+    "n5": "principle's",
+    "n6": "principles'",
+    "n7": "a principle",
+    "n8": "many principles"
+}

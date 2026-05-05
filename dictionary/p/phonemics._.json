@@ -1,0 +1,18 @@
+{
+    "base": "phonemics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "phonemics",
+    "n2": "phonemicses",
+    "n3": "the phonemics",
+    "n4": "the phonemicses",
+    "n5": "phonemics'",
+    "n6": "phonemicses'",
+    "n7": "a phonemics",
+    "n8": "many phonemicses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "relish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "relish",
+    "n2": "relishes",
+    "n3": "the relish",
+    "n4": "the relishes",
+    "n5": "relish's",
+    "n6": "relishes'",
+    "n7": "a relish",
+    "n8": "many relishes"
+}

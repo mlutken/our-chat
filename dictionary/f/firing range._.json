@@ -1,0 +1,18 @@
+{
+    "base": "firing range",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "firing range",
+    "n2": "firing ranges",
+    "n3": "the firing range",
+    "n4": "the firing ranges",
+    "n5": "firing range's",
+    "n6": "firing ranges'",
+    "n7": "a firing range",
+    "n8": "many firing ranges"
+}

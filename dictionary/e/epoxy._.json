@@ -1,0 +1,18 @@
+{
+    "base": "epoxy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epoxy",
+    "n2": "epoxies",
+    "n3": "the epoxy",
+    "n4": "the epoxies",
+    "n5": "epoxy's",
+    "n6": "epoxies'",
+    "n7": "an epoxy",
+    "n8": "many epoxies"
+}

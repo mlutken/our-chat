@@ -1,0 +1,18 @@
+{
+    "base": "paper electrophoresis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "paper electrophoresis",
+    "n2": "paper electrophoresises",
+    "n3": "the paper electrophoresis",
+    "n4": "the paper electrophoresises",
+    "n5": "paper electrophoresis'",
+    "n6": "paper electrophoresises'",
+    "n7": "a paper electrophoresis",
+    "n8": "many paper electrophoresises"
+}

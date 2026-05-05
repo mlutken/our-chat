@@ -1,0 +1,18 @@
+{
+    "base": "turn of the century",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "turn of the century",
+    "n2": "turn of the centuries",
+    "n3": "the turn of the century",
+    "n4": "the turn of the centuries",
+    "n5": "turn of the century's",
+    "n6": "turn of the centuries'",
+    "n7": "a turn of the century",
+    "n8": "many turn of the centuries"
+}

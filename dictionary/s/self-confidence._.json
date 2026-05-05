@@ -1,0 +1,18 @@
+{
+    "base": "self-confidence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "self-confidence",
+    "n2": "self-confidences",
+    "n3": "the self-confidence",
+    "n4": "the self-confidences",
+    "n5": "self-confidence's",
+    "n6": "self-confidences'",
+    "n7": "a self-confidence",
+    "n8": "many self-confidences"
+}

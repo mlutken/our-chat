@@ -1,0 +1,18 @@
+{
+    "base": "thrombus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thrombus",
+    "n2": "thrombi",
+    "n3": "the thrombus",
+    "n4": "the thrombi",
+    "n5": "thrombus'",
+    "n6": "thrombi's",
+    "n7": "a thrombus",
+    "n8": "many thrombi"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rebel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "rebel",
+    "n2": "rebels",
+    "n3": "the rebel",
+    "n4": "the rebels",
+    "n5": "rebel's",
+    "n6": "rebels'",
+    "n7": "a rebel",
+    "n8": "many rebels"
+}

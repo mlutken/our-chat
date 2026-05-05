@@ -1,0 +1,18 @@
+{
+    "base": "preaching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "preaching",
+    "n2": "preachings",
+    "n3": "the preaching",
+    "n4": "the preachings",
+    "n5": "preaching's",
+    "n6": "preachings'",
+    "n7": "a preaching",
+    "n8": "many preachings"
+}

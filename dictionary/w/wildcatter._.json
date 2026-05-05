@@ -1,0 +1,18 @@
+{
+    "base": "wildcatter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wildcatter",
+    "n2": "wildcatters",
+    "n3": "the wildcatter",
+    "n4": "the wildcatters",
+    "n5": "wildcatter's",
+    "n6": "wildcatters'",
+    "n7": "a wildcatter",
+    "n8": "many wildcatters"
+}

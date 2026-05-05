@@ -1,0 +1,18 @@
+{
+    "base": "orderly sergeant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orderly sergeant",
+    "n2": "orderly sergeants",
+    "n3": "the orderly sergeant",
+    "n4": "the orderly sergeants",
+    "n5": "orderly sergeant's",
+    "n6": "orderly sergeants'",
+    "n7": "an orderly sergeant",
+    "n8": "many orderly sergeants"
+}

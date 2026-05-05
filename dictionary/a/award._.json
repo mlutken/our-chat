@@ -7,5 +7,12 @@
     "n2": "awards",
     "n3": "the award",
     "n4": "the awards",
-    "n5": "award's"
+    "n5": "award's",
+    "proper": false,
+    "commonness": 37,
+    "max_commonness": 6834,
+    "commonness_ge_count": 486,
+    "n6": "awards'",
+    "n7": "an award",
+    "n8": "many awards"
 }

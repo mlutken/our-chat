@@ -1,0 +1,18 @@
+{
+    "base": "resourcefulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "resourcefulness",
+    "n2": "resourcefulnesses",
+    "n3": "the resourcefulness",
+    "n4": "the resourcefulnesses",
+    "n5": "resourcefulness'",
+    "n6": "resourcefulnesses'",
+    "n7": "a resourcefulness",
+    "n8": "many resourcefulnesses"
+}

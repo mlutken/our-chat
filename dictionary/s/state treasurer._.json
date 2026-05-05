@@ -1,0 +1,18 @@
+{
+    "base": "state treasurer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "state treasurer",
+    "n2": "state treasurers",
+    "n3": "the state treasurer",
+    "n4": "the state treasurers",
+    "n5": "state treasurer's",
+    "n6": "state treasurers'",
+    "n7": "a state treasurer",
+    "n8": "many state treasurers"
+}

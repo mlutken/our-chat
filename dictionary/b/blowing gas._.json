@@ -1,0 +1,18 @@
+{
+    "base": "blowing gas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blowing gas",
+    "n2": "blowing gases",
+    "n3": "the blowing gas",
+    "n4": "the blowing gases",
+    "n5": "blowing gas'",
+    "n6": "blowing gases'",
+    "n7": "a blowing gas",
+    "n8": "many blowing gases"
+}

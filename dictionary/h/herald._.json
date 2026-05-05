@@ -1,0 +1,18 @@
+{
+    "base": "herald",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "herald",
+    "n2": "heralds",
+    "n3": "the herald",
+    "n4": "the heralds",
+    "n5": "herald's",
+    "n6": "heralds'",
+    "n7": "a herald",
+    "n8": "many heralds"
+}

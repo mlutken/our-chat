@@ -1,0 +1,18 @@
+{
+    "base": "mob",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "mob",
+    "n2": "mobs",
+    "n3": "the mob",
+    "n4": "the mobs",
+    "n5": "mob's",
+    "n6": "mobs'",
+    "n7": "a mob",
+    "n8": "many mobs"
+}

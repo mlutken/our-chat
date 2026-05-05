@@ -1,0 +1,18 @@
+{
+    "base": "deed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "deed",
+    "n2": "deeds",
+    "n3": "the deed",
+    "n4": "the deeds",
+    "n5": "deed's",
+    "n6": "deeds'",
+    "n7": "a deed",
+    "n8": "many deeds"
+}

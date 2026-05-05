@@ -1,0 +1,18 @@
+{
+    "base": "poor white trash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "poor white trash",
+    "n2": "poor white trashes",
+    "n3": "the poor white trash",
+    "n4": "the poor white trashes",
+    "n5": "poor white trash's",
+    "n6": "poor white trashes'",
+    "n7": "a poor white trash",
+    "n8": "many poor white trashes"
+}

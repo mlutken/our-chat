@@ -1,0 +1,18 @@
+{
+    "base": "bloodshed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bloodshed",
+    "n2": "bloodsheds",
+    "n3": "the bloodshed",
+    "n4": "the bloodsheds",
+    "n5": "bloodshed's",
+    "n6": "bloodsheds'",
+    "n7": "a bloodshed",
+    "n8": "many bloodsheds"
+}

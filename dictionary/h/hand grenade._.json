@@ -1,0 +1,18 @@
+{
+    "base": "hand grenade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hand grenade",
+    "n2": "hand grenades",
+    "n3": "the hand grenade",
+    "n4": "the hand grenades",
+    "n5": "hand grenade's",
+    "n6": "hand grenades'",
+    "n7": "a hand grenade",
+    "n8": "many hand grenades"
+}

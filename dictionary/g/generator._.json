@@ -1,0 +1,18 @@
+{
+    "base": "generator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "generator",
+    "n2": "generators",
+    "n3": "the generator",
+    "n4": "the generators",
+    "n5": "generator's",
+    "n6": "generators'",
+    "n7": "a generator",
+    "n8": "many generators"
+}

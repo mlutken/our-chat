@@ -1,0 +1,18 @@
+{
+    "base": "pituitary gland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pituitary gland",
+    "n2": "pituitary glands",
+    "n3": "the pituitary gland",
+    "n4": "the pituitary glands",
+    "n5": "pituitary gland's",
+    "n6": "pituitary glands'",
+    "n7": "a pituitary gland",
+    "n8": "many pituitary glands"
+}

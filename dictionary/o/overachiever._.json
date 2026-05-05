@@ -1,0 +1,18 @@
+{
+    "base": "overachiever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "overachiever",
+    "n2": "overachievers",
+    "n3": "the overachiever",
+    "n4": "the overachievers",
+    "n5": "overachiever's",
+    "n6": "overachievers'",
+    "n7": "an overachiever",
+    "n8": "many overachievers"
+}

@@ -1,11 +1,24 @@
 {
     "base": "signal",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "signal",
     "v2": "signaled/signalled",
     "v3": "signaled/signalled",
     "v4": "signaling/signalling",
-    "v5": "signals/signals"
+    "v5": "signals/signals",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "signal",
+    "n2": "signals",
+    "n3": "the signal",
+    "n4": "the signals",
+    "n5": "signal's",
+    "n6": "signals'",
+    "n7": "a signal",
+    "n8": "many signals"
 }

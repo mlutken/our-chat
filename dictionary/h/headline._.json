@@ -1,0 +1,18 @@
+{
+    "base": "headline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "headline",
+    "n2": "headlines",
+    "n3": "the headline",
+    "n4": "the headlines",
+    "n5": "headline's",
+    "n6": "headlines'",
+    "n7": "a headline",
+    "n8": "many headlines"
+}

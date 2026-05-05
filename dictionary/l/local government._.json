@@ -1,0 +1,18 @@
+{
+    "base": "local government",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "local government",
+    "n2": "local governments",
+    "n3": "the local government",
+    "n4": "the local governments",
+    "n5": "local government's",
+    "n6": "local governments'",
+    "n7": "a local government",
+    "n8": "many local governments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fiber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "fiber",
+    "n2": "fibers",
+    "n3": "the fiber",
+    "n4": "the fibers",
+    "n5": "fiber's",
+    "n6": "fibers'",
+    "n7": "a fiber",
+    "n8": "many fibers"
+}

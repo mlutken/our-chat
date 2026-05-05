@@ -1,0 +1,18 @@
+{
+    "base": "chopping block",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chopping block",
+    "n2": "chopping blocks",
+    "n3": "the chopping block",
+    "n4": "the chopping blocks",
+    "n5": "chopping block's",
+    "n6": "chopping blocks'",
+    "n7": "a chopping block",
+    "n8": "many chopping blocks"
+}

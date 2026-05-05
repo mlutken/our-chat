@@ -1,0 +1,18 @@
+{
+    "base": "swelling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "swelling",
+    "n2": "swellings",
+    "n3": "the swelling",
+    "n4": "the swellings",
+    "n5": "swelling's",
+    "n6": "swellings'",
+    "n7": "a swelling",
+    "n8": "many swellings"
+}

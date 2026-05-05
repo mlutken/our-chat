@@ -1,0 +1,18 @@
+{
+    "base": "drumlin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drumlin",
+    "n2": "drumlins",
+    "n3": "the drumlin",
+    "n4": "the drumlins",
+    "n5": "drumlin's",
+    "n6": "drumlins'",
+    "n7": "a drumlin",
+    "n8": "many drumlins"
+}

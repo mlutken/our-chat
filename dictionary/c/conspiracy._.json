@@ -1,0 +1,18 @@
+{
+    "base": "conspiracy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "conspiracy",
+    "n2": "conspiracies",
+    "n3": "the conspiracy",
+    "n4": "the conspiracies",
+    "n5": "conspiracy's",
+    "n6": "conspiracies'",
+    "n7": "a conspiracy",
+    "n8": "many conspiracies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "coffin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "coffin",
+    "n2": "coffins",
+    "n3": "the coffin",
+    "n4": "the coffins",
+    "n5": "coffin's",
+    "n6": "coffins'",
+    "n7": "a coffin",
+    "n8": "many coffins"
+}

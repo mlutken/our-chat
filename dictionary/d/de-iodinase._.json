@@ -1,0 +1,18 @@
+{
+    "base": "de-iodinase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "de-iodinase",
+    "n2": "de-iodinases",
+    "n3": "the de-iodinase",
+    "n4": "the de-iodinases",
+    "n5": "de-iodinase's",
+    "n6": "de-iodinases'",
+    "n7": "a de-iodinase",
+    "n8": "many de-iodinases"
+}

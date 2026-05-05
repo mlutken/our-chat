@@ -1,0 +1,18 @@
+{
+    "base": "gang",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "gang",
+    "n2": "gangs",
+    "n3": "the gang",
+    "n4": "the gangs",
+    "n5": "gang's",
+    "n6": "gangs'",
+    "n7": "a gang",
+    "n8": "many gangs"
+}

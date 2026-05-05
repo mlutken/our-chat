@@ -1,0 +1,18 @@
+{
+    "base": "flashlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flashlight",
+    "n2": "flashlights",
+    "n3": "the flashlight",
+    "n4": "the flashlights",
+    "n5": "flashlight's",
+    "n6": "flashlights'",
+    "n7": "a flashlight",
+    "n8": "many flashlights"
+}

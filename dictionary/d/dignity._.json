@@ -1,0 +1,18 @@
+{
+    "base": "dignity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "dignity",
+    "n2": "dignities",
+    "n3": "the dignity",
+    "n4": "the dignities",
+    "n5": "dignity's",
+    "n6": "dignities'",
+    "n7": "a dignity",
+    "n8": "many dignities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "setup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "setup",
+    "n2": "setups",
+    "n3": "the setup",
+    "n4": "the setups",
+    "n5": "setup's",
+    "n6": "setups'",
+    "n7": "a setup",
+    "n8": "many setups"
+}

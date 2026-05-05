@@ -1,0 +1,18 @@
+{
+    "base": "emotional disturbance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "emotional disturbance",
+    "n2": "emotional disturbances",
+    "n3": "the emotional disturbance",
+    "n4": "the emotional disturbances",
+    "n5": "emotional disturbance's",
+    "n6": "emotional disturbances'",
+    "n7": "an emotional disturbance",
+    "n8": "many emotional disturbances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "drover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drover",
+    "n2": "drovers",
+    "n3": "the drover",
+    "n4": "the drovers",
+    "n5": "drover's",
+    "n6": "drovers'",
+    "n7": "a drover",
+    "n8": "many drovers"
+}

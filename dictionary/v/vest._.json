@@ -1,0 +1,18 @@
+{
+    "base": "vest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vest",
+    "n2": "vests",
+    "n3": "the vest",
+    "n4": "the vests",
+    "n5": "vest's",
+    "n6": "vests'",
+    "n7": "a vest",
+    "n8": "many vests"
+}

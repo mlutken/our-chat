@@ -1,11 +1,24 @@
 {
     "base": "tap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tap",
     "v2": "tapped",
     "v3": "tapped",
     "v4": "tapping",
-    "v5": "taps"
+    "v5": "taps",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tap",
+    "n2": "taps",
+    "n3": "the tap",
+    "n4": "the taps",
+    "n5": "tap's",
+    "n6": "taps'",
+    "n7": "a tap",
+    "n8": "many taps"
 }

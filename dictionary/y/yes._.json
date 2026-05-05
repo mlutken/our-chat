@@ -1,0 +1,18 @@
+{
+    "base": "yes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "yes",
+    "n2": "yeses",
+    "n3": "the yes",
+    "n4": "the yeses",
+    "n5": "yes'",
+    "n6": "yeses'",
+    "n7": "a yes",
+    "n8": "many yeses"
+}

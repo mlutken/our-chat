@@ -1,0 +1,18 @@
+{
+    "base": "rainbow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rainbow",
+    "n2": "rainbows",
+    "n3": "the rainbow",
+    "n4": "the rainbows",
+    "n5": "rainbow's",
+    "n6": "rainbows'",
+    "n7": "a rainbow",
+    "n8": "many rainbows"
+}

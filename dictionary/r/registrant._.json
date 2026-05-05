@@ -1,0 +1,18 @@
+{
+    "base": "registrant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "registrant",
+    "n2": "registrants",
+    "n3": "the registrant",
+    "n4": "the registrants",
+    "n5": "registrant's",
+    "n6": "registrants'",
+    "n7": "a registrant",
+    "n8": "many registrants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "war god",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "war god",
+    "n2": "war gods",
+    "n3": "the war god",
+    "n4": "the war gods",
+    "n5": "war god's",
+    "n6": "war gods'",
+    "n7": "a war god",
+    "n8": "many war gods"
+}

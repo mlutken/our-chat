@@ -1,0 +1,18 @@
+{
+    "base": "ministration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ministration",
+    "n2": "ministrations",
+    "n3": "the ministration",
+    "n4": "the ministrations",
+    "n5": "ministration's",
+    "n6": "ministrations'",
+    "n7": "a ministration",
+    "n8": "many ministrations"
+}

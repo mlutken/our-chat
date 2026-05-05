@@ -1,0 +1,18 @@
+{
+    "base": "petal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "petal",
+    "n2": "petals",
+    "n3": "the petal",
+    "n4": "the petals",
+    "n5": "petal's",
+    "n6": "petals'",
+    "n7": "a petal",
+    "n8": "many petals"
+}

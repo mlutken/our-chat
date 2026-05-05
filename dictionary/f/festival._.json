@@ -7,5 +7,12 @@
     "n2": "festivals",
     "n3": "the festival",
     "n4": "the festivals",
-    "n5": "festival's"
+    "n5": "festival's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "festivals'",
+    "n7": "a festival",
+    "n8": "many festivals"
 }

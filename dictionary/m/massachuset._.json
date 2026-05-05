@@ -1,0 +1,18 @@
+{
+    "base": "massachuset",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "massachuset",
+    "n2": "massachusets",
+    "n3": "the massachuset",
+    "n4": "the massachusets",
+    "n5": "massachuset's",
+    "n6": "massachusets'",
+    "n7": "a massachuset",
+    "n8": "many massachusets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "farce",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "farce",
+    "n2": "farces",
+    "n3": "the farce",
+    "n4": "the farces",
+    "n5": "farce's",
+    "n6": "farces'",
+    "n7": "a farce",
+    "n8": "many farces"
+}

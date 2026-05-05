@@ -7,5 +7,12 @@
     "n2": "topics",
     "n3": "the topic",
     "n4": "the topics",
-    "n5": "topic's"
+    "n5": "topic's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "topics'",
+    "n7": "a topic",
+    "n8": "many topics"
 }

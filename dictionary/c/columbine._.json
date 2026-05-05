@@ -1,0 +1,18 @@
+{
+    "base": "columbine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "columbine",
+    "n2": "columbines",
+    "n3": "the columbine",
+    "n4": "the columbines",
+    "n5": "columbine's",
+    "n6": "columbines'",
+    "n7": "a columbine",
+    "n8": "many columbines"
+}

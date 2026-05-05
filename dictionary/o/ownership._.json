@@ -1,0 +1,18 @@
+{
+    "base": "ownership",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ownership",
+    "n2": "ownerships",
+    "n3": "the ownership",
+    "n4": "the ownerships",
+    "n5": "ownership's",
+    "n6": "ownerships'",
+    "n7": "an ownership",
+    "n8": "many ownerships"
+}

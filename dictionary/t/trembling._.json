@@ -1,0 +1,18 @@
+{
+    "base": "trembling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trembling",
+    "n2": "tremblings",
+    "n3": "the trembling",
+    "n4": "the tremblings",
+    "n5": "trembling's",
+    "n6": "tremblings'",
+    "n7": "a trembling",
+    "n8": "many tremblings"
+}

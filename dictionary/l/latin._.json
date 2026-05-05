@@ -1,0 +1,18 @@
+{
+    "base": "latin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "latin",
+    "n2": "latins",
+    "n3": "the latin",
+    "n4": "the latins",
+    "n5": "latin's",
+    "n6": "latins'",
+    "n7": "a latin",
+    "n8": "many latins"
+}

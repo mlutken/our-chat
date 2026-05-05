@@ -1,0 +1,18 @@
+{
+    "base": "canon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "canon",
+    "n2": "canons",
+    "n3": "the canon",
+    "n4": "the canons",
+    "n5": "canon's",
+    "n6": "canons'",
+    "n7": "a canon",
+    "n8": "many canons"
+}

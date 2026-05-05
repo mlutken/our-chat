@@ -1,0 +1,18 @@
+{
+    "base": "fur-piece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fur-piece",
+    "n2": "fur-pieces",
+    "n3": "the fur-piece",
+    "n4": "the fur-pieces",
+    "n5": "fur-piece's",
+    "n6": "fur-pieces'",
+    "n7": "a fur-piece",
+    "n8": "many fur-pieces"
+}

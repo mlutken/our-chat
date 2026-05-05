@@ -1,0 +1,18 @@
+{
+    "base": "dining room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dining room",
+    "n2": "dining rooms",
+    "n3": "the dining room",
+    "n4": "the dining rooms",
+    "n5": "dining room's",
+    "n6": "dining rooms'",
+    "n7": "a dining room",
+    "n8": "many dining rooms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "garb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "garb",
+    "n2": "garbs",
+    "n3": "the garb",
+    "n4": "the garbs",
+    "n5": "garb's",
+    "n6": "garbs'",
+    "n7": "a garb",
+    "n8": "many garbs"
+}

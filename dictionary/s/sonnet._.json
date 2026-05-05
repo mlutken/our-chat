@@ -1,0 +1,18 @@
+{
+    "base": "sonnet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sonnet",
+    "n2": "sonnets",
+    "n3": "the sonnet",
+    "n4": "the sonnets",
+    "n5": "sonnet's",
+    "n6": "sonnets'",
+    "n7": "a sonnet",
+    "n8": "many sonnets"
+}

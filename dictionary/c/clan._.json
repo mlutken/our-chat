@@ -1,0 +1,18 @@
+{
+    "base": "clan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clan",
+    "n2": "clans",
+    "n3": "the clan",
+    "n4": "the clans",
+    "n5": "clan's",
+    "n6": "clans'",
+    "n7": "a clan",
+    "n8": "many clans"
+}

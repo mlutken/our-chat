@@ -1,0 +1,18 @@
+{
+    "base": "newspaper columnist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "newspaper columnist",
+    "n2": "newspaper columnists",
+    "n3": "the newspaper columnist",
+    "n4": "the newspaper columnists",
+    "n5": "newspaper columnist's",
+    "n6": "newspaper columnists'",
+    "n7": "a newspaper columnist",
+    "n8": "many newspaper columnists"
+}

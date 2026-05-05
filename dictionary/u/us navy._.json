@@ -1,0 +1,18 @@
+{
+    "base": "us navy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "us navy",
+    "n2": "us navies",
+    "n3": "the us navy",
+    "n4": "the us navies",
+    "n5": "us navy's",
+    "n6": "us navies'",
+    "n7": "an us navy",
+    "n8": "many us navies"
+}

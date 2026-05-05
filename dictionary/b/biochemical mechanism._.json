@@ -1,0 +1,18 @@
+{
+    "base": "biochemical mechanism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "biochemical mechanism",
+    "n2": "biochemical mechanisms",
+    "n3": "the biochemical mechanism",
+    "n4": "the biochemical mechanisms",
+    "n5": "biochemical mechanism's",
+    "n6": "biochemical mechanisms'",
+    "n7": "a biochemical mechanism",
+    "n8": "many biochemical mechanisms"
+}

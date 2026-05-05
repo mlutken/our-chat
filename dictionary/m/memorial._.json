@@ -1,0 +1,18 @@
+{
+    "base": "memorial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "memorial",
+    "n2": "memorials",
+    "n3": "the memorial",
+    "n4": "the memorials",
+    "n5": "memorial's",
+    "n6": "memorials'",
+    "n7": "a memorial",
+    "n8": "many memorials"
+}

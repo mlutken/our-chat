@@ -1,0 +1,18 @@
+{
+    "base": "tail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "tail",
+    "n2": "tails",
+    "n3": "the tail",
+    "n4": "the tails",
+    "n5": "tail's",
+    "n6": "tails'",
+    "n7": "a tail",
+    "n8": "many tails"
+}

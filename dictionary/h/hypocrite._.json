@@ -1,0 +1,18 @@
+{
+    "base": "hypocrite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hypocrite",
+    "n2": "hypocrites",
+    "n3": "the hypocrite",
+    "n4": "the hypocrites",
+    "n5": "hypocrite's",
+    "n6": "hypocrites'",
+    "n7": "a hypocrite",
+    "n8": "many hypocrites"
+}

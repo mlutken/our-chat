@@ -1,0 +1,18 @@
+{
+    "base": "convert",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "convert",
+    "n2": "converts",
+    "n3": "the convert",
+    "n4": "the converts",
+    "n5": "convert's",
+    "n6": "converts'",
+    "n7": "a convert",
+    "n8": "many converts"
+}

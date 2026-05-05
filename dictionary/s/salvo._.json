@@ -1,0 +1,18 @@
+{
+    "base": "salvo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "salvo",
+    "n2": "salvoes",
+    "n3": "the salvo",
+    "n4": "the salvoes",
+    "n5": "salvo's",
+    "n6": "salvoes'",
+    "n7": "a salvo",
+    "n8": "many salvoes"
+}

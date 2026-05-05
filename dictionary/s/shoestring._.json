@@ -1,0 +1,18 @@
+{
+    "base": "shoestring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoestring",
+    "n2": "shoestrings",
+    "n3": "the shoestring",
+    "n4": "the shoestrings",
+    "n5": "shoestring's",
+    "n6": "shoestrings'",
+    "n7": "a shoestring",
+    "n8": "many shoestrings"
+}

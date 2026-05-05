@@ -1,0 +1,18 @@
+{
+    "base": "jeopardy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jeopardy",
+    "n2": "jeopardies",
+    "n3": "the jeopardy",
+    "n4": "the jeopardies",
+    "n5": "jeopardy's",
+    "n6": "jeopardies'",
+    "n7": "a jeopardy",
+    "n8": "many jeopardies"
+}

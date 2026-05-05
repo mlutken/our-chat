@@ -1,0 +1,18 @@
+{
+    "base": "value statement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "value statement",
+    "n2": "value statements",
+    "n3": "the value statement",
+    "n4": "the value statements",
+    "n5": "value statement's",
+    "n6": "value statements'",
+    "n7": "a value statement",
+    "n8": "many value statements"
+}

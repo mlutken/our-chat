@@ -1,0 +1,18 @@
+{
+    "base": "sexual union",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sexual union",
+    "n2": "sexual unions",
+    "n3": "the sexual union",
+    "n4": "the sexual unions",
+    "n5": "sexual union's",
+    "n6": "sexual unions'",
+    "n7": "a sexual union",
+    "n8": "many sexual unions"
+}

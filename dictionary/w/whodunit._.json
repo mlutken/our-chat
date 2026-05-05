@@ -1,0 +1,18 @@
+{
+    "base": "whodunit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whodunit",
+    "n2": "whodunits",
+    "n3": "the whodunit",
+    "n4": "the whodunits",
+    "n5": "whodunit's",
+    "n6": "whodunits'",
+    "n7": "a whodunit",
+    "n8": "many whodunits"
+}

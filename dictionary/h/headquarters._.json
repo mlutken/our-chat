@@ -1,0 +1,18 @@
+{
+    "base": "headquarters",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "headquarters",
+    "n2": "headquarterses",
+    "n3": "the headquarters",
+    "n4": "the headquarterses",
+    "n5": "headquarters'",
+    "n6": "headquarterses'",
+    "n7": "a headquarters",
+    "n8": "many headquarterses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "caress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "caress",
+    "n2": "caresses",
+    "n3": "the caress",
+    "n4": "the caresses",
+    "n5": "caress'",
+    "n6": "caresses'",
+    "n7": "a caress",
+    "n8": "many caresses"
+}

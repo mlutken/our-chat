@@ -1,11 +1,24 @@
 {
     "base": "implement",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "implement",
     "v2": "implemented",
     "v3": "implemented",
     "v4": "implementing",
-    "v5": "implements"
+    "v5": "implements",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "implement",
+    "n2": "implements",
+    "n3": "the implement",
+    "n4": "the implements",
+    "n5": "implement's",
+    "n6": "implements'",
+    "n7": "an implement",
+    "n8": "many implements"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "adherent",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "adherent",
+    "n2": "adherents",
+    "n3": "the adherent",
+    "n4": "the adherents",
+    "n5": "adherent's",
+    "n6": "adherents'",
+    "n7": "an adherent",
+    "n8": "many adherents"
+}

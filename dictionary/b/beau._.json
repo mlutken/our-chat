@@ -7,5 +7,12 @@
     "n2": "beaux",
     "n3": "the beau",
     "n4": "the beaux",
-    "n5": "beau's"
+    "n5": "beau's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "beaux's",
+    "n7": "a beau",
+    "n8": "many beaux"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "juju",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "juju",
+    "n2": "jujus",
+    "n3": "the juju",
+    "n4": "the jujus",
+    "n5": "juju's",
+    "n6": "jujus'",
+    "n7": "a juju",
+    "n8": "many jujus"
+}

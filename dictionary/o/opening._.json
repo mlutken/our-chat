@@ -1,0 +1,18 @@
+{
+    "base": "opening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "opening",
+    "n2": "openings",
+    "n3": "the opening",
+    "n4": "the openings",
+    "n5": "opening's",
+    "n6": "openings'",
+    "n7": "an opening",
+    "n8": "many openings"
+}

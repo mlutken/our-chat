@@ -1,0 +1,18 @@
+{
+    "base": "aloofness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aloofness",
+    "n2": "aloofnesses",
+    "n3": "the aloofness",
+    "n4": "the aloofnesses",
+    "n5": "aloofness'",
+    "n6": "aloofnesses'",
+    "n7": "an aloofness",
+    "n8": "many aloofnesses"
+}

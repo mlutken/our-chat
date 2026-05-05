@@ -1,0 +1,18 @@
+{
+    "base": "milestone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "milestone",
+    "n2": "milestones",
+    "n3": "the milestone",
+    "n4": "the milestones",
+    "n5": "milestone's",
+    "n6": "milestones'",
+    "n7": "a milestone",
+    "n8": "many milestones"
+}

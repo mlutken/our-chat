@@ -1,0 +1,18 @@
+{
+    "base": "theology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "theology",
+    "n2": "theologies",
+    "n3": "the theology",
+    "n4": "the theologies",
+    "n5": "theology's",
+    "n6": "theologies'",
+    "n7": "a theology",
+    "n8": "many theologies"
+}

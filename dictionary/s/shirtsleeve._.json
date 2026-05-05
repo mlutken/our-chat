@@ -1,0 +1,18 @@
+{
+    "base": "shirtsleeve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shirtsleeve",
+    "n2": "shirtsleeves",
+    "n3": "the shirtsleeve",
+    "n4": "the shirtsleeves",
+    "n5": "shirtsleeve's",
+    "n6": "shirtsleeves'",
+    "n7": "a shirtsleeve",
+    "n8": "many shirtsleeves"
+}

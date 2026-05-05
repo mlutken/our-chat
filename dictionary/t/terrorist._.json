@@ -1,0 +1,18 @@
+{
+    "base": "terrorist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "terrorist",
+    "n2": "terrorists",
+    "n3": "the terrorist",
+    "n4": "the terrorists",
+    "n5": "terrorist's",
+    "n6": "terrorists'",
+    "n7": "a terrorist",
+    "n8": "many terrorists"
+}

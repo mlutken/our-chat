@@ -1,0 +1,18 @@
+{
+    "base": "feelings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "feelings",
+    "n2": "feelingses",
+    "n3": "the feelings",
+    "n4": "the feelingses",
+    "n5": "feelings'",
+    "n6": "feelingses'",
+    "n7": "a feelings",
+    "n8": "many feelingses"
+}

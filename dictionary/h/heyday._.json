@@ -1,0 +1,18 @@
+{
+    "base": "heyday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "heyday",
+    "n2": "heydays",
+    "n3": "the heyday",
+    "n4": "the heydays",
+    "n5": "heyday's",
+    "n6": "heydays'",
+    "n7": "a heyday",
+    "n8": "many heydays"
+}

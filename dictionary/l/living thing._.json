@@ -1,0 +1,18 @@
+{
+    "base": "living thing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "living thing",
+    "n2": "living things",
+    "n3": "the living thing",
+    "n4": "the living things",
+    "n5": "living thing's",
+    "n6": "living things'",
+    "n7": "a living thing",
+    "n8": "many living things"
+}

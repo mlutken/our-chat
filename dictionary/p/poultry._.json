@@ -1,0 +1,18 @@
+{
+    "base": "poultry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "poultry",
+    "n2": "poultries",
+    "n3": "the poultry",
+    "n4": "the poultries",
+    "n5": "poultry's",
+    "n6": "poultries'",
+    "n7": "a poultry",
+    "n8": "many poultries"
+}

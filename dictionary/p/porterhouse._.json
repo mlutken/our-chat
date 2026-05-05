@@ -1,0 +1,18 @@
+{
+    "base": "porterhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "porterhouse",
+    "n2": "porterhouses",
+    "n3": "the porterhouse",
+    "n4": "the porterhouses",
+    "n5": "porterhouse's",
+    "n6": "porterhouses'",
+    "n7": "a porterhouse",
+    "n8": "many porterhouses"
+}

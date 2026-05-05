@@ -1,0 +1,18 @@
+{
+    "base": "coquette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coquette",
+    "n2": "coquettes",
+    "n3": "the coquette",
+    "n4": "the coquettes",
+    "n5": "coquette's",
+    "n6": "coquettes'",
+    "n7": "a coquette",
+    "n8": "many coquettes"
+}

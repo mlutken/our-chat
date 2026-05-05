@@ -1,0 +1,18 @@
+{
+    "base": "lincoln",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lincoln",
+    "n2": "lincolns",
+    "n3": "the lincoln",
+    "n4": "the lincolns",
+    "n5": "lincoln's",
+    "n6": "lincolns'",
+    "n7": "a lincoln",
+    "n8": "many lincolns"
+}

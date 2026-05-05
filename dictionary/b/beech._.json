@@ -1,0 +1,18 @@
+{
+    "base": "beech",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "beech",
+    "n2": "beeches",
+    "n3": "the beech",
+    "n4": "the beeches",
+    "n5": "beech's",
+    "n6": "beeches'",
+    "n7": "a beech",
+    "n8": "many beeches"
+}

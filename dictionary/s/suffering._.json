@@ -1,0 +1,18 @@
+{
+    "base": "suffering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "suffering",
+    "n2": "sufferings",
+    "n3": "the suffering",
+    "n4": "the sufferings",
+    "n5": "suffering's",
+    "n6": "sufferings'",
+    "n7": "a suffering",
+    "n8": "many sufferings"
+}

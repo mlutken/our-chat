@@ -1,0 +1,18 @@
+{
+    "base": "mess",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "mess",
+    "n2": "messes",
+    "n3": "the mess",
+    "n4": "the messes",
+    "n5": "mess'",
+    "n6": "messes'",
+    "n7": "a mess",
+    "n8": "many messes"
+}

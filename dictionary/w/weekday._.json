@@ -1,0 +1,18 @@
+{
+    "base": "weekday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weekday",
+    "n2": "weekdays",
+    "n3": "the weekday",
+    "n4": "the weekdays",
+    "n5": "weekday's",
+    "n6": "weekdays'",
+    "n7": "a weekday",
+    "n8": "many weekdays"
+}

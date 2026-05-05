@@ -7,5 +7,12 @@
     "n2": "highways",
     "n3": "the highway",
     "n4": "the highways",
-    "n5": "highway's"
+    "n5": "highway's",
+    "proper": true,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "highways'",
+    "n7": "a highway",
+    "n8": "many highways"
 }

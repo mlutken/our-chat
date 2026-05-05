@@ -1,0 +1,18 @@
+{
+    "base": "star of david",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "star of david",
+    "n2": "star of davids",
+    "n3": "the star of david",
+    "n4": "the star of davids",
+    "n5": "star of david's",
+    "n6": "star of davids'",
+    "n7": "a star of david",
+    "n8": "many star of davids"
+}

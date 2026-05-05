@@ -1,0 +1,18 @@
+{
+    "base": "likeness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "likeness",
+    "n2": "likenesses",
+    "n3": "the likeness",
+    "n4": "the likenesses",
+    "n5": "likeness'",
+    "n6": "likenesses'",
+    "n7": "a likeness",
+    "n8": "many likenesses"
+}

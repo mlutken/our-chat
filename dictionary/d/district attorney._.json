@@ -1,0 +1,18 @@
+{
+    "base": "district attorney",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "district attorney",
+    "n2": "district attorneys",
+    "n3": "the district attorney",
+    "n4": "the district attorneys",
+    "n5": "district attorney's",
+    "n6": "district attorneys'",
+    "n7": "a district attorney",
+    "n8": "many district attorneys"
+}

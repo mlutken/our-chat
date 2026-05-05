@@ -1,0 +1,18 @@
+{
+    "base": "breakdown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "breakdown",
+    "n2": "breakdowns",
+    "n3": "the breakdown",
+    "n4": "the breakdowns",
+    "n5": "breakdown's",
+    "n6": "breakdowns'",
+    "n7": "a breakdown",
+    "n8": "many breakdowns"
+}

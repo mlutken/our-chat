@@ -1,0 +1,18 @@
+{
+    "base": "hard times",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hard times",
+    "n2": "hard timeses",
+    "n3": "the hard times",
+    "n4": "the hard timeses",
+    "n5": "hard times'",
+    "n6": "hard timeses'",
+    "n7": "a hard times",
+    "n8": "many hard timeses"
+}

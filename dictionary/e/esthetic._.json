@@ -1,0 +1,18 @@
+{
+    "base": "esthetic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "esthetic",
+    "n2": "esthetics",
+    "n3": "the esthetic",
+    "n4": "the esthetics",
+    "n5": "esthetic's",
+    "n6": "esthetics'",
+    "n7": "an esthetic",
+    "n8": "many esthetics"
+}

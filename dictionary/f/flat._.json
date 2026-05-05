@@ -1,9 +1,22 @@
 {
     "base": "flat",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "flat",
     "adj2": "flatter",
-    "adj3": "flattest"
+    "adj3": "flattest",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flat",
+    "n2": "flats",
+    "n3": "the flat",
+    "n4": "the flats",
+    "n5": "flat's",
+    "n6": "flats'",
+    "n7": "a flat",
+    "n8": "many flats"
 }

@@ -7,5 +7,12 @@
     "n2": "weathers",
     "n3": "the weather",
     "n4": "the weathers",
-    "n5": "weather's"
+    "n5": "weather's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "weathers'",
+    "n7": "a weather",
+    "n8": "many weathers"
 }

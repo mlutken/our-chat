@@ -1,0 +1,18 @@
+{
+    "base": "visibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "visibility",
+    "n2": "visibilities",
+    "n3": "the visibility",
+    "n4": "the visibilities",
+    "n5": "visibility's",
+    "n6": "visibilities'",
+    "n7": "a visibility",
+    "n8": "many visibilities"
+}

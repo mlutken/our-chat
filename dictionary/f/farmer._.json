@@ -7,5 +7,12 @@
     "n2": "farmers",
     "n3": "the farmer",
     "n4": "the farmers",
-    "n5": "farmer's"
+    "n5": "farmer's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "farmers'",
+    "n7": "a farmer",
+    "n8": "many farmers"
 }

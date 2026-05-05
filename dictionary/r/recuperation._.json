@@ -1,0 +1,18 @@
+{
+    "base": "recuperation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "recuperation",
+    "n2": "recuperations",
+    "n3": "the recuperation",
+    "n4": "the recuperations",
+    "n5": "recuperation's",
+    "n6": "recuperations'",
+    "n7": "a recuperation",
+    "n8": "many recuperations"
+}

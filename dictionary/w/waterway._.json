@@ -1,0 +1,18 @@
+{
+    "base": "waterway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waterway",
+    "n2": "waterways",
+    "n3": "the waterway",
+    "n4": "the waterways",
+    "n5": "waterway's",
+    "n6": "waterways'",
+    "n7": "a waterway",
+    "n8": "many waterways"
+}

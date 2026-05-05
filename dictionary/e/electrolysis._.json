@@ -1,0 +1,18 @@
+{
+    "base": "electrolysis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrolysis",
+    "n2": "electrolysises",
+    "n3": "the electrolysis",
+    "n4": "the electrolysises",
+    "n5": "electrolysis'",
+    "n6": "electrolysises'",
+    "n7": "an electrolysis",
+    "n8": "many electrolysises"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "muscleman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muscleman",
+    "n2": "musclemen",
+    "n3": "the muscleman",
+    "n4": "the musclemen",
+    "n5": "muscleman's",
+    "n6": "musclemen's",
+    "n7": "a muscleman",
+    "n8": "many musclemen"
+}

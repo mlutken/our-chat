@@ -1,0 +1,18 @@
+{
+    "base": "lined snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lined snake",
+    "n2": "lined snakes",
+    "n3": "the lined snake",
+    "n4": "the lined snakes",
+    "n5": "lined snake's",
+    "n6": "lined snakes'",
+    "n7": "a lined snake",
+    "n8": "many lined snakes"
+}

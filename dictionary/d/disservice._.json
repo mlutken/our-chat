@@ -1,0 +1,18 @@
+{
+    "base": "disservice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disservice",
+    "n2": "disservices",
+    "n3": "the disservice",
+    "n4": "the disservices",
+    "n5": "disservice's",
+    "n6": "disservices'",
+    "n7": "a disservice",
+    "n8": "many disservices"
+}

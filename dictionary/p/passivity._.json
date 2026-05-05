@@ -1,0 +1,18 @@
+{
+    "base": "passivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "passivity",
+    "n2": "passivities",
+    "n3": "the passivity",
+    "n4": "the passivities",
+    "n5": "passivity's",
+    "n6": "passivities'",
+    "n7": "a passivity",
+    "n8": "many passivities"
+}

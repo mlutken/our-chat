@@ -1,0 +1,18 @@
+{
+    "base": "confirmation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "confirmation",
+    "n2": "confirmations",
+    "n3": "the confirmation",
+    "n4": "the confirmations",
+    "n5": "confirmation's",
+    "n6": "confirmations'",
+    "n7": "a confirmation",
+    "n8": "many confirmations"
+}

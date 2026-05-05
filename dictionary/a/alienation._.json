@@ -1,0 +1,18 @@
+{
+    "base": "alienation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "alienation",
+    "n2": "alienations",
+    "n3": "the alienation",
+    "n4": "the alienations",
+    "n5": "alienation's",
+    "n6": "alienations'",
+    "n7": "an alienation",
+    "n8": "many alienations"
+}

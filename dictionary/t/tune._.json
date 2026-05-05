@@ -1,0 +1,18 @@
+{
+    "base": "tune",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "tune",
+    "n2": "tunes",
+    "n3": "the tune",
+    "n4": "the tunes",
+    "n5": "tune's",
+    "n6": "tunes'",
+    "n7": "a tune",
+    "n8": "many tunes"
+}

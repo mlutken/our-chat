@@ -1,0 +1,18 @@
+{
+    "base": "envelope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "envelope",
+    "n2": "envelopes",
+    "n3": "the envelope",
+    "n4": "the envelopes",
+    "n5": "envelope's",
+    "n6": "envelopes'",
+    "n7": "an envelope",
+    "n8": "many envelopes"
+}

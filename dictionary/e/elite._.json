@@ -1,0 +1,18 @@
+{
+    "base": "elite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "elite",
+    "n2": "elites",
+    "n3": "the elite",
+    "n4": "the elites",
+    "n5": "elite's",
+    "n6": "elites'",
+    "n7": "an elite",
+    "n8": "many elites"
+}

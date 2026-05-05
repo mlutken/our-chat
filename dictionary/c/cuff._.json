@@ -1,0 +1,18 @@
+{
+    "base": "cuff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cuff",
+    "n2": "cufves",
+    "n3": "the cuff",
+    "n4": "the cufves",
+    "n5": "cuff's",
+    "n6": "cufves'",
+    "n7": "a cuff",
+    "n8": "many cufves"
+}

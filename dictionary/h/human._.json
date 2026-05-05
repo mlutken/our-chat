@@ -1,0 +1,18 @@
+{
+    "base": "human",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "human",
+    "n2": "humen",
+    "n3": "the human",
+    "n4": "the humen",
+    "n5": "human's",
+    "n6": "humen's",
+    "n7": "a human",
+    "n8": "many humen"
+}

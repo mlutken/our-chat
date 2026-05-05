@@ -1,0 +1,18 @@
+{
+    "base": "incubation period",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "incubation period",
+    "n2": "incubation periods",
+    "n3": "the incubation period",
+    "n4": "the incubation periods",
+    "n5": "incubation period's",
+    "n6": "incubation periods'",
+    "n7": "an incubation period",
+    "n8": "many incubation periods"
+}

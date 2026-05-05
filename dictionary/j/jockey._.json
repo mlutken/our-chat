@@ -1,0 +1,18 @@
+{
+    "base": "jockey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jockey",
+    "n2": "jockeys",
+    "n3": "the jockey",
+    "n4": "the jockeys",
+    "n5": "jockey's",
+    "n6": "jockeys'",
+    "n7": "a jockey",
+    "n8": "many jockeys"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "anxiety",
-    "n2": "anxietys",
+    "n2": "anxieties",
     "n3": "the anxiety",
-    "n4": "the anxietys",
-    "n5": "anxiety's"
+    "n4": "the anxieties",
+    "n5": "anxiety's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "anxieties'",
+    "n7": "an anxiety",
+    "n8": "many anxieties"
 }

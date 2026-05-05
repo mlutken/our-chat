@@ -1,0 +1,18 @@
+{
+    "base": "acquisition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "acquisition",
+    "n2": "acquisitions",
+    "n3": "the acquisition",
+    "n4": "the acquisitions",
+    "n5": "acquisition's",
+    "n6": "acquisitions'",
+    "n7": "an acquisition",
+    "n8": "many acquisitions"
+}

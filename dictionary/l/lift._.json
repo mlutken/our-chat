@@ -1,0 +1,18 @@
+{
+    "base": "lift",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lift",
+    "n2": "lifts",
+    "n3": "the lift",
+    "n4": "the lifts",
+    "n5": "lift's",
+    "n6": "lifts'",
+    "n7": "a lift",
+    "n8": "many lifts"
+}

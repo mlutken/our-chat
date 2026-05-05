@@ -1,0 +1,18 @@
+{
+    "base": "whale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whale",
+    "n2": "whales",
+    "n3": "the whale",
+    "n4": "the whales",
+    "n5": "whale's",
+    "n6": "whales'",
+    "n7": "a whale",
+    "n8": "many whales"
+}

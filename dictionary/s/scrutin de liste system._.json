@@ -1,0 +1,18 @@
+{
+    "base": "scrutin de liste system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scrutin de liste system",
+    "n2": "scrutin de liste systems",
+    "n3": "the scrutin de liste system",
+    "n4": "the scrutin de liste systems",
+    "n5": "scrutin de liste system's",
+    "n6": "scrutin de liste systems'",
+    "n7": "a scrutin de liste system",
+    "n8": "many scrutin de liste systems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "california",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "california",
+    "n2": "californias",
+    "n3": "the california",
+    "n4": "the californias",
+    "n5": "california's",
+    "n6": "californias'",
+    "n7": "a california",
+    "n8": "many californias"
+}

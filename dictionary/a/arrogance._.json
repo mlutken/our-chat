@@ -1,0 +1,18 @@
+{
+    "base": "arrogance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arrogance",
+    "n2": "arrogances",
+    "n3": "the arrogance",
+    "n4": "the arrogances",
+    "n5": "arrogance's",
+    "n6": "arrogances'",
+    "n7": "an arrogance",
+    "n8": "many arrogances"
+}

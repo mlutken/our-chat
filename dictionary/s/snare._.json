@@ -1,0 +1,18 @@
+{
+    "base": "snare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snare",
+    "n2": "snares",
+    "n3": "the snare",
+    "n4": "the snares",
+    "n5": "snare's",
+    "n6": "snares'",
+    "n7": "a snare",
+    "n8": "many snares"
+}

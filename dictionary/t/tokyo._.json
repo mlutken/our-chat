@@ -1,0 +1,18 @@
+{
+    "base": "tokyo",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tokyo",
+    "n2": "tokyos",
+    "n3": "the tokyo",
+    "n4": "the tokyos",
+    "n5": "tokyo's",
+    "n6": "tokyos'",
+    "n7": "a tokyo",
+    "n8": "many tokyos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "makeup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "makeup",
+    "n2": "makeups",
+    "n3": "the makeup",
+    "n4": "the makeups",
+    "n5": "makeup's",
+    "n6": "makeups'",
+    "n7": "a makeup",
+    "n8": "many makeups"
+}

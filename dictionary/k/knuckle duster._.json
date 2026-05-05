@@ -1,0 +1,18 @@
+{
+    "base": "knuckle duster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "knuckle duster",
+    "n2": "knuckle dusters",
+    "n3": "the knuckle duster",
+    "n4": "the knuckle dusters",
+    "n5": "knuckle duster's",
+    "n6": "knuckle dusters'",
+    "n7": "a knuckle duster",
+    "n8": "many knuckle dusters"
+}

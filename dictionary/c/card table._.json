@@ -1,0 +1,18 @@
+{
+    "base": "card table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "card table",
+    "n2": "card tables",
+    "n3": "the card table",
+    "n4": "the card tables",
+    "n5": "card table's",
+    "n6": "card tables'",
+    "n7": "a card table",
+    "n8": "many card tables"
+}

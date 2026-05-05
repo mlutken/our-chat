@@ -1,0 +1,18 @@
+{
+    "base": "resentment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "resentment",
+    "n2": "resentments",
+    "n3": "the resentment",
+    "n4": "the resentments",
+    "n5": "resentment's",
+    "n6": "resentments'",
+    "n7": "a resentment",
+    "n8": "many resentments"
+}

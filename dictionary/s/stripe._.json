@@ -1,0 +1,18 @@
+{
+    "base": "stripe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stripe",
+    "n2": "stripes",
+    "n3": "the stripe",
+    "n4": "the stripes",
+    "n5": "stripe's",
+    "n6": "stripes'",
+    "n7": "a stripe",
+    "n8": "many stripes"
+}

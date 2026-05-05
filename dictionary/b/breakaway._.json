@@ -1,0 +1,18 @@
+{
+    "base": "breakaway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breakaway",
+    "n2": "breakaways",
+    "n3": "the breakaway",
+    "n4": "the breakaways",
+    "n5": "breakaway's",
+    "n6": "breakaways'",
+    "n7": "a breakaway",
+    "n8": "many breakaways"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "masonry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "masonry",
+    "n2": "masonries",
+    "n3": "the masonry",
+    "n4": "the masonries",
+    "n5": "masonry's",
+    "n6": "masonries'",
+    "n7": "a masonry",
+    "n8": "many masonries"
+}

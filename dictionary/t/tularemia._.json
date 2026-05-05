@@ -1,0 +1,18 @@
+{
+    "base": "tularemia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tularemia",
+    "n2": "tularemias",
+    "n3": "the tularemia",
+    "n4": "the tularemias",
+    "n5": "tularemia's",
+    "n6": "tularemias'",
+    "n7": "a tularemia",
+    "n8": "many tularemias"
+}

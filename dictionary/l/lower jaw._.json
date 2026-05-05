@@ -1,0 +1,18 @@
+{
+    "base": "lower jaw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lower jaw",
+    "n2": "lower jaws",
+    "n3": "the lower jaw",
+    "n4": "the lower jaws",
+    "n5": "lower jaw's",
+    "n6": "lower jaws'",
+    "n7": "a lower jaw",
+    "n8": "many lower jaws"
+}

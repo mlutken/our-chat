@@ -7,5 +7,12 @@
     "n2": "streets",
     "n3": "the street",
     "n4": "the streets",
-    "n5": "street's"
+    "n5": "street's",
+    "proper": false,
+    "commonness": 91,
+    "max_commonness": 6834,
+    "commonness_ge_count": 139,
+    "n6": "streets'",
+    "n7": "a street",
+    "n8": "many streets"
 }

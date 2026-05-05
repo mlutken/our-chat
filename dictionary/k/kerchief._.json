@@ -1,0 +1,18 @@
+{
+    "base": "kerchief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kerchief",
+    "n2": "kerchieves",
+    "n3": "the kerchief",
+    "n4": "the kerchieves",
+    "n5": "kerchief's",
+    "n6": "kerchieves'",
+    "n7": "a kerchief",
+    "n8": "many kerchieves"
+}

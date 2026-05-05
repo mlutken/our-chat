@@ -1,0 +1,18 @@
+{
+    "base": "prostitution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prostitution",
+    "n2": "prostitutions",
+    "n3": "the prostitution",
+    "n4": "the prostitutions",
+    "n5": "prostitution's",
+    "n6": "prostitutions'",
+    "n7": "a prostitution",
+    "n8": "many prostitutions"
+}

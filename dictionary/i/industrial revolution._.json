@@ -1,0 +1,18 @@
+{
+    "base": "industrial revolution",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "industrial revolution",
+    "n2": "industrial revolutions",
+    "n3": "the industrial revolution",
+    "n4": "the industrial revolutions",
+    "n5": "industrial revolution's",
+    "n6": "industrial revolutions'",
+    "n7": "an industrial revolution",
+    "n8": "many industrial revolutions"
+}

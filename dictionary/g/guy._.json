@@ -1,0 +1,18 @@
+{
+    "base": "guy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "guy",
+    "n2": "guys",
+    "n3": "the guy",
+    "n4": "the guys",
+    "n5": "guy's",
+    "n6": "guys'",
+    "n7": "a guy",
+    "n8": "many guys"
+}

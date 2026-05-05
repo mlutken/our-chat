@@ -1,0 +1,18 @@
+{
+    "base": "archbishop",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "archbishop",
+    "n2": "archbishops",
+    "n3": "the archbishop",
+    "n4": "the archbishops",
+    "n5": "archbishop's",
+    "n6": "archbishops'",
+    "n7": "an archbishop",
+    "n8": "many archbishops"
+}

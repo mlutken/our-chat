@@ -1,0 +1,18 @@
+{
+    "base": "educator",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "educator",
+    "n2": "educators",
+    "n3": "the educator",
+    "n4": "the educators",
+    "n5": "educator's",
+    "n6": "educators'",
+    "n7": "an educator",
+    "n8": "many educators"
+}

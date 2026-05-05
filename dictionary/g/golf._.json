@@ -1,0 +1,18 @@
+{
+    "base": "golf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "golf",
+    "n2": "golves",
+    "n3": "the golf",
+    "n4": "the golves",
+    "n5": "golf's",
+    "n6": "golves'",
+    "n7": "a golf",
+    "n8": "many golves"
+}

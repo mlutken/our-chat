@@ -1,0 +1,18 @@
+{
+    "base": "muscle fiber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "muscle fiber",
+    "n2": "muscle fibers",
+    "n3": "the muscle fiber",
+    "n4": "the muscle fibers",
+    "n5": "muscle fiber's",
+    "n6": "muscle fibers'",
+    "n7": "a muscle fiber",
+    "n8": "many muscle fibers"
+}

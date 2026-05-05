@@ -1,0 +1,18 @@
+{
+    "base": "carpenter",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "carpenter",
+    "n2": "carpenters",
+    "n3": "the carpenter",
+    "n4": "the carpenters",
+    "n5": "carpenter's",
+    "n6": "carpenters'",
+    "n7": "a carpenter",
+    "n8": "many carpenters"
+}

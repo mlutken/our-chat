@@ -1,0 +1,18 @@
+{
+    "base": "general",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n1": "general",
+    "n2": "generals",
+    "n3": "the general",
+    "n4": "the generals",
+    "n5": "general's",
+    "n6": "generals'",
+    "n7": "a general",
+    "n8": "many generals"
+}

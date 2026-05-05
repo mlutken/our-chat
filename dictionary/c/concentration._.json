@@ -1,0 +1,18 @@
+{
+    "base": "concentration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n1": "concentration",
+    "n2": "concentrations",
+    "n3": "the concentration",
+    "n4": "the concentrations",
+    "n5": "concentration's",
+    "n6": "concentrations'",
+    "n7": "a concentration",
+    "n8": "many concentrations"
+}

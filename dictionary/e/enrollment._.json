@@ -1,0 +1,18 @@
+{
+    "base": "enrollment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enrollment",
+    "n2": "enrollments",
+    "n3": "the enrollment",
+    "n4": "the enrollments",
+    "n5": "enrollment's",
+    "n6": "enrollments'",
+    "n7": "an enrollment",
+    "n8": "many enrollments"
+}

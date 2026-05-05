@@ -1,0 +1,18 @@
+{
+    "base": "narrowing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "narrowing",
+    "n2": "narrowings",
+    "n3": "the narrowing",
+    "n4": "the narrowings",
+    "n5": "narrowing's",
+    "n6": "narrowings'",
+    "n7": "a narrowing",
+    "n8": "many narrowings"
+}

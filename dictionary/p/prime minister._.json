@@ -1,0 +1,18 @@
+{
+    "base": "prime minister",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "prime minister",
+    "n2": "prime ministers",
+    "n3": "the prime minister",
+    "n4": "the prime ministers",
+    "n5": "prime minister's",
+    "n6": "prime ministers'",
+    "n7": "a prime minister",
+    "n8": "many prime ministers"
+}

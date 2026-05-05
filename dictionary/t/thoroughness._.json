@@ -1,0 +1,18 @@
+{
+    "base": "thoroughness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thoroughness",
+    "n2": "thoroughnesses",
+    "n3": "the thoroughness",
+    "n4": "the thoroughnesses",
+    "n5": "thoroughness'",
+    "n6": "thoroughnesses'",
+    "n7": "a thoroughness",
+    "n8": "many thoroughnesses"
+}

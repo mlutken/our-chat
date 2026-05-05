@@ -1,0 +1,18 @@
+{
+    "base": "slovenliness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slovenliness",
+    "n2": "slovenlinesses",
+    "n3": "the slovenliness",
+    "n4": "the slovenlinesses",
+    "n5": "slovenliness'",
+    "n6": "slovenlinesses'",
+    "n7": "a slovenliness",
+    "n8": "many slovenlinesses"
+}

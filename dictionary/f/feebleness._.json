@@ -1,0 +1,18 @@
+{
+    "base": "feebleness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "feebleness",
+    "n2": "feeblenesses",
+    "n3": "the feebleness",
+    "n4": "the feeblenesses",
+    "n5": "feebleness'",
+    "n6": "feeblenesses'",
+    "n7": "a feebleness",
+    "n8": "many feeblenesses"
+}

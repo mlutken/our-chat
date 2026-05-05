@@ -1,0 +1,18 @@
+{
+    "base": "viability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "viability",
+    "n2": "viabilities",
+    "n3": "the viability",
+    "n4": "the viabilities",
+    "n5": "viability's",
+    "n6": "viabilities'",
+    "n7": "a viability",
+    "n8": "many viabilities"
+}

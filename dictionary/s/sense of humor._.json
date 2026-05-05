@@ -1,0 +1,18 @@
+{
+    "base": "sense of humor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sense of humor",
+    "n2": "sense of humors",
+    "n3": "the sense of humor",
+    "n4": "the sense of humors",
+    "n5": "sense of humor's",
+    "n6": "sense of humors'",
+    "n7": "a sense of humor",
+    "n8": "many sense of humors"
+}

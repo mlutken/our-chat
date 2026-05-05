@@ -1,0 +1,18 @@
+{
+    "base": "middle east",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "middle east",
+    "n2": "middle easts",
+    "n3": "the middle east",
+    "n4": "the middle easts",
+    "n5": "middle east's",
+    "n6": "middle easts'",
+    "n7": "a middle east",
+    "n8": "many middle easts"
+}

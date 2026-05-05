@@ -7,5 +7,12 @@
     "n2": "functions",
     "n3": "the function",
     "n4": "the functions",
-    "n5": "function's"
+    "n5": "function's",
+    "proper": false,
+    "commonness": 74,
+    "max_commonness": 6834,
+    "commonness_ge_count": 185,
+    "n6": "functions'",
+    "n7": "a function",
+    "n8": "many functions"
 }

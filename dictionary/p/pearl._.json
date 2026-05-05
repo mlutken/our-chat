@@ -1,0 +1,18 @@
+{
+    "base": "pearl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pearl",
+    "n2": "pearls",
+    "n3": "the pearl",
+    "n4": "the pearls",
+    "n5": "pearl's",
+    "n6": "pearls'",
+    "n7": "a pearl",
+    "n8": "many pearls"
+}

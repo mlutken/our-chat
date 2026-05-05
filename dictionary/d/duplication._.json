@@ -1,0 +1,18 @@
+{
+    "base": "duplication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "duplication",
+    "n2": "duplications",
+    "n3": "the duplication",
+    "n4": "the duplications",
+    "n5": "duplication's",
+    "n6": "duplications'",
+    "n7": "a duplication",
+    "n8": "many duplications"
+}

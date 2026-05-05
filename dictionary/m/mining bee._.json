@@ -1,0 +1,18 @@
+{
+    "base": "mining bee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mining bee",
+    "n2": "mining bees",
+    "n3": "the mining bee",
+    "n4": "the mining bees",
+    "n5": "mining bee's",
+    "n6": "mining bees'",
+    "n7": "a mining bee",
+    "n8": "many mining bees"
+}

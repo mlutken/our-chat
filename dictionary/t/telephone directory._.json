@@ -1,0 +1,18 @@
+{
+    "base": "telephone directory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telephone directory",
+    "n2": "telephone directories",
+    "n3": "the telephone directory",
+    "n4": "the telephone directories",
+    "n5": "telephone directory's",
+    "n6": "telephone directories'",
+    "n7": "a telephone directory",
+    "n8": "many telephone directories"
+}

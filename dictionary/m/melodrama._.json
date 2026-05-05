@@ -1,0 +1,18 @@
+{
+    "base": "melodrama",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "melodrama",
+    "n2": "melodramas",
+    "n3": "the melodrama",
+    "n4": "the melodramas",
+    "n5": "melodrama's",
+    "n6": "melodramas'",
+    "n7": "a melodrama",
+    "n8": "many melodramas"
+}

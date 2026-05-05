@@ -1,11 +1,24 @@
 {
     "base": "yell",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "yell",
     "v2": "yelled",
     "v3": "yelled",
     "v4": "yelling",
-    "v5": "yells"
+    "v5": "yells",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "yell",
+    "n2": "yells",
+    "n3": "the yell",
+    "n4": "the yells",
+    "n5": "yell's",
+    "n6": "yells'",
+    "n7": "a yell",
+    "n8": "many yells"
 }

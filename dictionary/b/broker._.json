@@ -1,0 +1,18 @@
+{
+    "base": "broker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "broker",
+    "n2": "brokers",
+    "n3": "the broker",
+    "n4": "the brokers",
+    "n5": "broker's",
+    "n6": "brokers'",
+    "n7": "a broker",
+    "n8": "many brokers"
+}

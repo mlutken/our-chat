@@ -1,0 +1,18 @@
+{
+    "base": "fortitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fortitude",
+    "n2": "fortitudes",
+    "n3": "the fortitude",
+    "n4": "the fortitudes",
+    "n5": "fortitude's",
+    "n6": "fortitudes'",
+    "n7": "a fortitude",
+    "n8": "many fortitudes"
+}

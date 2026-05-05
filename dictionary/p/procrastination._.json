@@ -1,0 +1,18 @@
+{
+    "base": "procrastination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "procrastination",
+    "n2": "procrastinations",
+    "n3": "the procrastination",
+    "n4": "the procrastinations",
+    "n5": "procrastination's",
+    "n6": "procrastinations'",
+    "n7": "a procrastination",
+    "n8": "many procrastinations"
+}

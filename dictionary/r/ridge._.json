@@ -1,0 +1,18 @@
+{
+    "base": "ridge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ridge",
+    "n2": "ridges",
+    "n3": "the ridge",
+    "n4": "the ridges",
+    "n5": "ridge's",
+    "n6": "ridges'",
+    "n7": "a ridge",
+    "n8": "many ridges"
+}

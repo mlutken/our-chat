@@ -1,0 +1,18 @@
+{
+    "base": "boiler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boiler",
+    "n2": "boilers",
+    "n3": "the boiler",
+    "n4": "the boilers",
+    "n5": "boiler's",
+    "n6": "boilers'",
+    "n7": "a boiler",
+    "n8": "many boilers"
+}

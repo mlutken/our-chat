@@ -1,0 +1,18 @@
+{
+    "base": "malady",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "malady",
+    "n2": "maladies",
+    "n3": "the malady",
+    "n4": "the maladies",
+    "n5": "malady's",
+    "n6": "maladies'",
+    "n7": "a malady",
+    "n8": "many maladies"
+}

@@ -1,11 +1,24 @@
 {
     "base": "rain",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "rain",
     "v2": "rained",
     "v3": "rained",
     "v4": "raining",
-    "v5": "rains"
+    "v5": "rains",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "rain",
+    "n2": "rains",
+    "n3": "the rain",
+    "n4": "the rains",
+    "n5": "rain's",
+    "n6": "rains'",
+    "n7": "a rain",
+    "n8": "many rains"
 }

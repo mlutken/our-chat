@@ -1,0 +1,18 @@
+{
+    "base": "insurance premium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insurance premium",
+    "n2": "insurance premiums",
+    "n3": "the insurance premium",
+    "n4": "the insurance premiums",
+    "n5": "insurance premium's",
+    "n6": "insurance premiums'",
+    "n7": "an insurance premium",
+    "n8": "many insurance premiums"
+}

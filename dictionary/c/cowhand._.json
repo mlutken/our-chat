@@ -1,0 +1,18 @@
+{
+    "base": "cowhand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cowhand",
+    "n2": "cowhands",
+    "n3": "the cowhand",
+    "n4": "the cowhands",
+    "n5": "cowhand's",
+    "n6": "cowhands'",
+    "n7": "a cowhand",
+    "n8": "many cowhands"
+}

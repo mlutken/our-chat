@@ -1,0 +1,18 @@
+{
+    "base": "foot soldier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foot soldier",
+    "n2": "foot soldiers",
+    "n3": "the foot soldier",
+    "n4": "the foot soldiers",
+    "n5": "foot soldier's",
+    "n6": "foot soldiers'",
+    "n7": "a foot soldier",
+    "n8": "many foot soldiers"
+}

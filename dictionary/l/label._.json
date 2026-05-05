@@ -1,11 +1,24 @@
 {
     "base": "label",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "label",
     "v2": "labeled/labelled",
     "v3": "labeled/labelled",
     "v4": "labeling/labelling",
-    "v5": "labels/labels"
+    "v5": "labels/labels",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "label",
+    "n2": "labels",
+    "n3": "the label",
+    "n4": "the labels",
+    "n5": "label's",
+    "n6": "labels'",
+    "n7": "a label",
+    "n8": "many labels"
 }

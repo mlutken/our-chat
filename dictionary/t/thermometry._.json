@@ -1,0 +1,18 @@
+{
+    "base": "thermometry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thermometry",
+    "n2": "thermometries",
+    "n3": "the thermometry",
+    "n4": "the thermometries",
+    "n5": "thermometry's",
+    "n6": "thermometries'",
+    "n7": "a thermometry",
+    "n8": "many thermometries"
+}

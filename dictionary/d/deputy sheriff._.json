@@ -1,0 +1,18 @@
+{
+    "base": "deputy sheriff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deputy sheriff",
+    "n2": "deputy sherifves",
+    "n3": "the deputy sheriff",
+    "n4": "the deputy sherifves",
+    "n5": "deputy sheriff's",
+    "n6": "deputy sherifves'",
+    "n7": "a deputy sheriff",
+    "n8": "many deputy sherifves"
+}

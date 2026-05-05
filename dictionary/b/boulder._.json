@@ -1,0 +1,18 @@
+{
+    "base": "boulder",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boulder",
+    "n2": "boulders",
+    "n3": "the boulder",
+    "n4": "the boulders",
+    "n5": "boulder's",
+    "n6": "boulders'",
+    "n7": "a boulder",
+    "n8": "many boulders"
+}

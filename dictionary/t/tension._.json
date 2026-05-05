@@ -7,5 +7,12 @@
     "n2": "tensions",
     "n3": "the tension",
     "n4": "the tensions",
-    "n5": "tension's"
+    "n5": "tension's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "tensions'",
+    "n7": "a tension",
+    "n8": "many tensions"
 }

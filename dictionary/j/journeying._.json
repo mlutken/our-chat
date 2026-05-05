@@ -1,0 +1,18 @@
+{
+    "base": "journeying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "journeying",
+    "n2": "journeyings",
+    "n3": "the journeying",
+    "n4": "the journeyings",
+    "n5": "journeying's",
+    "n6": "journeyings'",
+    "n7": "a journeying",
+    "n8": "many journeyings"
+}

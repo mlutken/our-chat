@@ -1,0 +1,18 @@
+{
+    "base": "enigma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enigma",
+    "n2": "enigmas",
+    "n3": "the enigma",
+    "n4": "the enigmas",
+    "n5": "enigma's",
+    "n6": "enigmas'",
+    "n7": "an enigma",
+    "n8": "many enigmas"
+}

@@ -5,13 +5,20 @@
         "v"
     ],
     "n1": "research",
-    "n2": "researchs",
+    "n2": "researches",
     "n3": "the research",
-    "n4": "the researchs",
+    "n4": "the researches",
     "n5": "research's",
     "v1": "research",
     "v2": "researched",
     "v3": "researched",
     "v4": "researching",
-    "v5": "researches"
+    "v5": "researches",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "researches'",
+    "n7": "a research",
+    "n8": "many researches"
 }

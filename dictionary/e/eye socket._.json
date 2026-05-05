@@ -1,0 +1,18 @@
+{
+    "base": "eye socket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eye socket",
+    "n2": "eye sockets",
+    "n3": "the eye socket",
+    "n4": "the eye sockets",
+    "n5": "eye socket's",
+    "n6": "eye sockets'",
+    "n7": "an eye socket",
+    "n8": "many eye sockets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hymn",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "hymn",
+    "n2": "hymns",
+    "n3": "the hymn",
+    "n4": "the hymns",
+    "n5": "hymn's",
+    "n6": "hymns'",
+    "n7": "a hymn",
+    "n8": "many hymns"
+}

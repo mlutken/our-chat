@@ -7,5 +7,12 @@
     "n2": "hypotheses",
     "n3": "the hypothesis",
     "n4": "the hypotheses",
-    "n5": "hypothesis's"
+    "n5": "hypothesis'",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "hypotheses'",
+    "n7": "a hypothesis",
+    "n8": "many hypotheses"
 }

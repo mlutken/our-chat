@@ -1,0 +1,18 @@
+{
+    "base": "observation dome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "observation dome",
+    "n2": "observation domes",
+    "n3": "the observation dome",
+    "n4": "the observation domes",
+    "n5": "observation dome's",
+    "n6": "observation domes'",
+    "n7": "an observation dome",
+    "n8": "many observation domes"
+}

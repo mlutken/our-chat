@@ -1,0 +1,18 @@
+{
+    "base": "clubhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clubhouse",
+    "n2": "clubhouses",
+    "n3": "the clubhouse",
+    "n4": "the clubhouses",
+    "n5": "clubhouse's",
+    "n6": "clubhouses'",
+    "n7": "a clubhouse",
+    "n8": "many clubhouses"
+}

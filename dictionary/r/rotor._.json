@@ -1,0 +1,18 @@
+{
+    "base": "rotor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rotor",
+    "n2": "rotors",
+    "n3": "the rotor",
+    "n4": "the rotors",
+    "n5": "rotor's",
+    "n6": "rotors'",
+    "n7": "a rotor",
+    "n8": "many rotors"
+}

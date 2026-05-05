@@ -1,0 +1,18 @@
+{
+    "base": "mackinaw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mackinaw",
+    "n2": "mackinaws",
+    "n3": "the mackinaw",
+    "n4": "the mackinaws",
+    "n5": "mackinaw's",
+    "n6": "mackinaws'",
+    "n7": "a mackinaw",
+    "n8": "many mackinaws"
+}

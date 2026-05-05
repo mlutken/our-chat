@@ -7,5 +7,12 @@
     "n2": "affairs",
     "n3": "the affair",
     "n4": "the affairs",
-    "n5": "affair's"
+    "n5": "affair's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "affairs'",
+    "n7": "an affair",
+    "n8": "many affairs"
 }

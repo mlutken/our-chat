@@ -1,0 +1,18 @@
+{
+    "base": "long time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "long time",
+    "n2": "long times",
+    "n3": "the long time",
+    "n4": "the long times",
+    "n5": "long time's",
+    "n6": "long times'",
+    "n7": "a long time",
+    "n8": "many long times"
+}

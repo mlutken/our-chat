@@ -1,0 +1,18 @@
+{
+    "base": "amplification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amplification",
+    "n2": "amplifications",
+    "n3": "the amplification",
+    "n4": "the amplifications",
+    "n5": "amplification's",
+    "n6": "amplifications'",
+    "n7": "an amplification",
+    "n8": "many amplifications"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "adversary",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adversary",
+    "n2": "adversaries",
+    "n3": "the adversary",
+    "n4": "the adversaries",
+    "n5": "adversary's",
+    "n6": "adversaries'",
+    "n7": "an adversary",
+    "n8": "many adversaries"
+}

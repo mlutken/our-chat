@@ -1,0 +1,18 @@
+{
+    "base": "impairment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impairment",
+    "n2": "impairments",
+    "n3": "the impairment",
+    "n4": "the impairments",
+    "n5": "impairment's",
+    "n6": "impairments'",
+    "n7": "an impairment",
+    "n8": "many impairments"
+}

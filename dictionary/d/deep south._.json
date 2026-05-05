@@ -1,0 +1,18 @@
+{
+    "base": "deep south",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deep south",
+    "n2": "deep souths",
+    "n3": "the deep south",
+    "n4": "the deep souths",
+    "n5": "deep south's",
+    "n6": "deep souths'",
+    "n7": "a deep south",
+    "n8": "many deep souths"
+}

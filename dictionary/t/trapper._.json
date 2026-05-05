@@ -1,0 +1,18 @@
+{
+    "base": "trapper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "trapper",
+    "n2": "trappers",
+    "n3": "the trapper",
+    "n4": "the trappers",
+    "n5": "trapper's",
+    "n6": "trappers'",
+    "n7": "a trapper",
+    "n8": "many trappers"
+}

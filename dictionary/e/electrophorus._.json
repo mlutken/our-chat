@@ -1,0 +1,18 @@
+{
+    "base": "electrophorus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrophorus",
+    "n2": "electrophoruses",
+    "n3": "the electrophorus",
+    "n4": "the electrophoruses",
+    "n5": "electrophorus'",
+    "n6": "electrophoruses'",
+    "n7": "an electrophorus",
+    "n8": "many electrophoruses"
+}

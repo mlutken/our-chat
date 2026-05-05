@@ -1,0 +1,18 @@
+{
+    "base": "water-skiing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water-skiing",
+    "n2": "water-skiings",
+    "n3": "the water-skiing",
+    "n4": "the water-skiings",
+    "n5": "water-skiing's",
+    "n6": "water-skiings'",
+    "n7": "a water-skiing",
+    "n8": "many water-skiings"
+}

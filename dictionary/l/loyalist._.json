@@ -1,0 +1,18 @@
+{
+    "base": "loyalist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loyalist",
+    "n2": "loyalists",
+    "n3": "the loyalist",
+    "n4": "the loyalists",
+    "n5": "loyalist's",
+    "n6": "loyalists'",
+    "n7": "a loyalist",
+    "n8": "many loyalists"
+}

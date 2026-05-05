@@ -1,0 +1,18 @@
+{
+    "base": "barley",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "barley",
+    "n2": "barleys",
+    "n3": "the barley",
+    "n4": "the barleys",
+    "n5": "barley's",
+    "n6": "barleys'",
+    "n7": "a barley",
+    "n8": "many barleys"
+}

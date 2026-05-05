@@ -1,0 +1,18 @@
+{
+    "base": "bachelor of science",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bachelor of science",
+    "n2": "bachelor of sciences",
+    "n3": "the bachelor of science",
+    "n4": "the bachelor of sciences",
+    "n5": "bachelor of science's",
+    "n6": "bachelor of sciences'",
+    "n7": "a bachelor of science",
+    "n8": "many bachelor of sciences"
+}

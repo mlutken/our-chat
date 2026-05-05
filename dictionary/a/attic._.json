@@ -1,0 +1,18 @@
+{
+    "base": "attic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "attic",
+    "n2": "attics",
+    "n3": "the attic",
+    "n4": "the attics",
+    "n5": "attic's",
+    "n6": "attics'",
+    "n7": "an attic",
+    "n8": "many attics"
+}

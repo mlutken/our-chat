@@ -1,0 +1,18 @@
+{
+    "base": "stance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stance",
+    "n2": "stances",
+    "n3": "the stance",
+    "n4": "the stances",
+    "n5": "stance's",
+    "n6": "stances'",
+    "n7": "a stance",
+    "n8": "many stances"
+}

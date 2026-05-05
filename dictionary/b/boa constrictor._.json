@@ -1,0 +1,18 @@
+{
+    "base": "boa constrictor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "boa constrictor",
+    "n2": "boa constrictors",
+    "n3": "the boa constrictor",
+    "n4": "the boa constrictors",
+    "n5": "boa constrictor's",
+    "n6": "boa constrictors'",
+    "n7": "a boa constrictor",
+    "n8": "many boa constrictors"
+}

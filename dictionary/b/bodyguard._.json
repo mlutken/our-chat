@@ -1,0 +1,18 @@
+{
+    "base": "bodyguard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bodyguard",
+    "n2": "bodyguards",
+    "n3": "the bodyguard",
+    "n4": "the bodyguards",
+    "n5": "bodyguard's",
+    "n6": "bodyguards'",
+    "n7": "a bodyguard",
+    "n8": "many bodyguards"
+}

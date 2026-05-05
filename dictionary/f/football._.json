@@ -7,5 +7,12 @@
     "n2": "footballs",
     "n3": "the football",
     "n4": "the footballs",
-    "n5": "football's"
+    "n5": "football's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "footballs'",
+    "n7": "a football",
+    "n8": "many footballs"
 }

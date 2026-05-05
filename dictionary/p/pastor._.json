@@ -1,0 +1,18 @@
+{
+    "base": "pastor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "pastor",
+    "n2": "pastors",
+    "n3": "the pastor",
+    "n4": "the pastors",
+    "n5": "pastor's",
+    "n6": "pastors'",
+    "n7": "a pastor",
+    "n8": "many pastors"
+}

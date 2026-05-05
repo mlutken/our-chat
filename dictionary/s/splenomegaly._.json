@@ -1,0 +1,18 @@
+{
+    "base": "splenomegaly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "splenomegaly",
+    "n2": "splenomegalies",
+    "n3": "the splenomegaly",
+    "n4": "the splenomegalies",
+    "n5": "splenomegaly's",
+    "n6": "splenomegalies'",
+    "n7": "a splenomegaly",
+    "n8": "many splenomegalies"
+}

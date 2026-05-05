@@ -1,0 +1,18 @@
+{
+    "base": "lucifer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lucifer",
+    "n2": "lucifers",
+    "n3": "the lucifer",
+    "n4": "the lucifers",
+    "n5": "lucifer's",
+    "n6": "lucifers'",
+    "n7": "a lucifer",
+    "n8": "many lucifers"
+}

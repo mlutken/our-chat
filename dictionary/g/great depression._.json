@@ -1,0 +1,18 @@
+{
+    "base": "great depression",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "great depression",
+    "n2": "great depressions",
+    "n3": "the great depression",
+    "n4": "the great depressions",
+    "n5": "great depression's",
+    "n6": "great depressions'",
+    "n7": "a great depression",
+    "n8": "many great depressions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "conciseness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conciseness",
+    "n2": "concisenesses",
+    "n3": "the conciseness",
+    "n4": "the concisenesses",
+    "n5": "conciseness'",
+    "n6": "concisenesses'",
+    "n7": "a conciseness",
+    "n8": "many concisenesses"
+}

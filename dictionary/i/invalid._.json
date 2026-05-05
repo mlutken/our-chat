@@ -1,0 +1,18 @@
+{
+    "base": "invalid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "invalid",
+    "n2": "invalids",
+    "n3": "the invalid",
+    "n4": "the invalids",
+    "n5": "invalid's",
+    "n6": "invalids'",
+    "n7": "an invalid",
+    "n8": "many invalids"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dickens",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dickens",
+    "n2": "dickenses",
+    "n3": "the dickens",
+    "n4": "the dickenses",
+    "n5": "dickens'",
+    "n6": "dickenses'",
+    "n7": "a dickens",
+    "n8": "many dickenses"
+}

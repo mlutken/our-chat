@@ -1,11 +1,24 @@
 {
     "base": "nod",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "nod",
     "v2": "nodded",
     "v3": "nodded",
     "v4": "nodding",
-    "v5": "nods"
+    "v5": "nods",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nod",
+    "n2": "nods",
+    "n3": "the nod",
+    "n4": "the nods",
+    "n5": "nod's",
+    "n6": "nods'",
+    "n7": "a nod",
+    "n8": "many nods"
 }

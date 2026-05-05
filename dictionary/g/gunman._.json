@@ -1,0 +1,18 @@
+{
+    "base": "gunman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "gunman",
+    "n2": "gunmen",
+    "n3": "the gunman",
+    "n4": "the gunmen",
+    "n5": "gunman's",
+    "n6": "gunmen's",
+    "n7": "a gunman",
+    "n8": "many gunmen"
+}

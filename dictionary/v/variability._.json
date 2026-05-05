@@ -1,0 +1,18 @@
+{
+    "base": "variability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "variability",
+    "n2": "variabilities",
+    "n3": "the variability",
+    "n4": "the variabilities",
+    "n5": "variability's",
+    "n6": "variabilities'",
+    "n7": "a variability",
+    "n8": "many variabilities"
+}

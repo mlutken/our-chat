@@ -1,0 +1,18 @@
+{
+    "base": "extension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "extension",
+    "n2": "extensions",
+    "n3": "the extension",
+    "n4": "the extensions",
+    "n5": "extension's",
+    "n6": "extensions'",
+    "n7": "an extension",
+    "n8": "many extensions"
+}

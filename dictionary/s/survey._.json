@@ -7,5 +7,12 @@
     "n2": "surveys",
     "n3": "the survey",
     "n4": "the surveys",
-    "n5": "survey's"
+    "n5": "survey's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "surveys'",
+    "n7": "a survey",
+    "n8": "many surveys"
 }

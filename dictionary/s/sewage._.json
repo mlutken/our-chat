@@ -1,0 +1,18 @@
+{
+    "base": "sewage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "sewage",
+    "n2": "sewages",
+    "n3": "the sewage",
+    "n4": "the sewages",
+    "n5": "sewage's",
+    "n6": "sewages'",
+    "n7": "a sewage",
+    "n8": "many sewages"
+}

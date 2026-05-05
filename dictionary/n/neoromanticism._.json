@@ -1,0 +1,18 @@
+{
+    "base": "neoromanticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neoromanticism",
+    "n2": "neoromanticisms",
+    "n3": "the neoromanticism",
+    "n4": "the neoromanticisms",
+    "n5": "neoromanticism's",
+    "n6": "neoromanticisms'",
+    "n7": "a neoromanticism",
+    "n8": "many neoromanticisms"
+}

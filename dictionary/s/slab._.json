@@ -1,0 +1,18 @@
+{
+    "base": "slab",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "slab",
+    "n2": "slabs",
+    "n3": "the slab",
+    "n4": "the slabs",
+    "n5": "slab's",
+    "n6": "slabs'",
+    "n7": "a slab",
+    "n8": "many slabs"
+}

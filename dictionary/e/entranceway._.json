@@ -1,0 +1,18 @@
+{
+    "base": "entranceway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "entranceway",
+    "n2": "entranceways",
+    "n3": "the entranceway",
+    "n4": "the entranceways",
+    "n5": "entranceway's",
+    "n6": "entranceways'",
+    "n7": "an entranceway",
+    "n8": "many entranceways"
+}

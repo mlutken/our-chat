@@ -1,0 +1,18 @@
+{
+    "base": "little rock",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "little rock",
+    "n2": "little rocks",
+    "n3": "the little rock",
+    "n4": "the little rocks",
+    "n5": "little rock's",
+    "n6": "little rocks'",
+    "n7": "a little rock",
+    "n8": "many little rocks"
+}

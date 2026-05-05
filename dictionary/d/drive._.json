@@ -1,11 +1,24 @@
 {
     "base": "drive",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "drive",
     "v2": "drove",
     "v3": "driven",
     "v4": "driving",
-    "v5": "drives"
+    "v5": "drives",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "drive",
+    "n2": "drives",
+    "n3": "the drive",
+    "n4": "the drives",
+    "n5": "drive's",
+    "n6": "drives'",
+    "n7": "a drive",
+    "n8": "many drives"
 }

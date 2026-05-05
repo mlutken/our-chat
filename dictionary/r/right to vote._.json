@@ -1,0 +1,18 @@
+{
+    "base": "right to vote",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "right to vote",
+    "n2": "right to votes",
+    "n3": "the right to vote",
+    "n4": "the right to votes",
+    "n5": "right to vote's",
+    "n6": "right to votes'",
+    "n7": "a right to vote",
+    "n8": "many right to votes"
+}

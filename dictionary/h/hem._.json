@@ -1,0 +1,18 @@
+{
+    "base": "hem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hem",
+    "n2": "hems",
+    "n3": "the hem",
+    "n4": "the hems",
+    "n5": "hem's",
+    "n6": "hems'",
+    "n7": "a hem",
+    "n8": "many hems"
+}

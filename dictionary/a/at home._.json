@@ -1,0 +1,18 @@
+{
+    "base": "at home",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "at home",
+    "n2": "at homes",
+    "n3": "the at home",
+    "n4": "the at homes",
+    "n5": "at home's",
+    "n6": "at homes'",
+    "n7": "an at home",
+    "n8": "many at homes"
+}

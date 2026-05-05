@@ -1,0 +1,18 @@
+{
+    "base": "shame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "shame",
+    "n2": "shames",
+    "n3": "the shame",
+    "n4": "the shames",
+    "n5": "shame's",
+    "n6": "shames'",
+    "n7": "a shame",
+    "n8": "many shames"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "assurance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "assurance",
+    "n2": "assurances",
+    "n3": "the assurance",
+    "n4": "the assurances",
+    "n5": "assurance's",
+    "n6": "assurances'",
+    "n7": "an assurance",
+    "n8": "many assurances"
+}

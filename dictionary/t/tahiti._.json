@@ -1,0 +1,18 @@
+{
+    "base": "tahiti",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tahiti",
+    "n2": "tahitis",
+    "n3": "the tahiti",
+    "n4": "the tahitis",
+    "n5": "tahiti's",
+    "n6": "tahitis'",
+    "n7": "a tahiti",
+    "n8": "many tahitis"
+}

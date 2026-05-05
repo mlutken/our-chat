@@ -1,0 +1,18 @@
+{
+    "base": "cent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "cent",
+    "n2": "cents",
+    "n3": "the cent",
+    "n4": "the cents",
+    "n5": "cent's",
+    "n6": "cents'",
+    "n7": "a cent",
+    "n8": "many cents"
+}

@@ -1,11 +1,24 @@
 {
     "base": "lie",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "lie",
     "v2": "lied",
     "v3": "lied",
     "v4": "lying",
-    "v5": "lies"
+    "v5": "lies",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "lie",
+    "n2": "lies",
+    "n3": "the lie",
+    "n4": "the lies",
+    "n5": "lie's",
+    "n6": "lies'",
+    "n7": "a lie",
+    "n8": "many lies"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "humanist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "humanist",
+    "n2": "humanists",
+    "n3": "the humanist",
+    "n4": "the humanists",
+    "n5": "humanist's",
+    "n6": "humanists'",
+    "n7": "a humanist",
+    "n8": "many humanists"
+}

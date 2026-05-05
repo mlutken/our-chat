@@ -1,0 +1,18 @@
+{
+    "base": "sabotage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sabotage",
+    "n2": "sabotages",
+    "n3": "the sabotage",
+    "n4": "the sabotages",
+    "n5": "sabotage's",
+    "n6": "sabotages'",
+    "n7": "a sabotage",
+    "n8": "many sabotages"
+}

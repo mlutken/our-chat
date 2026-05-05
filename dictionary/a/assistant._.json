@@ -7,5 +7,12 @@
     "n2": "assistants",
     "n3": "the assistant",
     "n4": "the assistants",
-    "n5": "assistant's"
+    "n5": "assistant's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "assistants'",
+    "n7": "an assistant",
+    "n8": "many assistants"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "middle west",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "middle west",
+    "n2": "middle wests",
+    "n3": "the middle west",
+    "n4": "the middle wests",
+    "n5": "middle west's",
+    "n6": "middle wests'",
+    "n7": "a middle west",
+    "n8": "many middle wests"
+}

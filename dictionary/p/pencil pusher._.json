@@ -1,0 +1,18 @@
+{
+    "base": "pencil pusher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pencil pusher",
+    "n2": "pencil pushers",
+    "n3": "the pencil pusher",
+    "n4": "the pencil pushers",
+    "n5": "pencil pusher's",
+    "n6": "pencil pushers'",
+    "n7": "a pencil pusher",
+    "n8": "many pencil pushers"
+}

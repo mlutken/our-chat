@@ -1,0 +1,18 @@
+{
+    "base": "yankee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "yankee",
+    "n2": "yankees",
+    "n3": "the yankee",
+    "n4": "the yankees",
+    "n5": "yankee's",
+    "n6": "yankees'",
+    "n7": "a yankee",
+    "n8": "many yankees"
+}

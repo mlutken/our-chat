@@ -1,0 +1,18 @@
+{
+    "base": "world court",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "world court",
+    "n2": "world courts",
+    "n3": "the world court",
+    "n4": "the world courts",
+    "n5": "world court's",
+    "n6": "world courts'",
+    "n7": "a world court",
+    "n8": "many world courts"
+}

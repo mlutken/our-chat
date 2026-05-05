@@ -1,0 +1,18 @@
+{
+    "base": "rock python",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rock python",
+    "n2": "rock pythons",
+    "n3": "the rock python",
+    "n4": "the rock pythons",
+    "n5": "rock python's",
+    "n6": "rock pythons'",
+    "n7": "a rock python",
+    "n8": "many rock pythons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "disappointment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "disappointment",
+    "n2": "disappointments",
+    "n3": "the disappointment",
+    "n4": "the disappointments",
+    "n5": "disappointment's",
+    "n6": "disappointments'",
+    "n7": "a disappointment",
+    "n8": "many disappointments"
+}

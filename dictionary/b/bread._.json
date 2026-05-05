@@ -7,5 +7,12 @@
     "n2": "breads",
     "n3": "the bread",
     "n4": "the breads",
-    "n5": "bread's"
+    "n5": "bread's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "breads'",
+    "n7": "a bread",
+    "n8": "many breads"
 }

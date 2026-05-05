@@ -1,0 +1,18 @@
+{
+    "base": "thwart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thwart",
+    "n2": "thwarts",
+    "n3": "the thwart",
+    "n4": "the thwarts",
+    "n5": "thwart's",
+    "n6": "thwarts'",
+    "n7": "a thwart",
+    "n8": "many thwarts"
+}

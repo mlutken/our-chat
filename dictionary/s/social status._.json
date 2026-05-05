@@ -1,0 +1,18 @@
+{
+    "base": "social status",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "social status",
+    "n2": "social statuses",
+    "n3": "the social status",
+    "n4": "the social statuses",
+    "n5": "social status'",
+    "n6": "social statuses'",
+    "n7": "a social status",
+    "n8": "many social statuses"
+}

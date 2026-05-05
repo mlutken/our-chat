@@ -1,0 +1,18 @@
+{
+    "base": "retention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "retention",
+    "n2": "retentions",
+    "n3": "the retention",
+    "n4": "the retentions",
+    "n5": "retention's",
+    "n6": "retentions'",
+    "n7": "a retention",
+    "n8": "many retentions"
+}

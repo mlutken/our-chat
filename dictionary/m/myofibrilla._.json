@@ -1,0 +1,18 @@
+{
+    "base": "myofibrilla",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "myofibrilla",
+    "n2": "myofibrillae",
+    "n3": "the myofibrilla",
+    "n4": "the myofibrillae",
+    "n5": "myofibrilla's",
+    "n6": "myofibrillae's",
+    "n7": "a myofibrilla",
+    "n8": "many myofibrillae"
+}

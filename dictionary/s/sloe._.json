@@ -1,0 +1,18 @@
+{
+    "base": "sloe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sloe",
+    "n2": "sloes",
+    "n3": "the sloe",
+    "n4": "the sloes",
+    "n5": "sloe's",
+    "n6": "sloes'",
+    "n7": "a sloe",
+    "n8": "many sloes"
+}

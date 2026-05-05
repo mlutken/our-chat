@@ -1,0 +1,18 @@
+{
+    "base": "greenroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "greenroom",
+    "n2": "greenrooms",
+    "n3": "the greenroom",
+    "n4": "the greenrooms",
+    "n5": "greenroom's",
+    "n6": "greenrooms'",
+    "n7": "a greenroom",
+    "n8": "many greenrooms"
+}

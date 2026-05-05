@@ -1,0 +1,18 @@
+{
+    "base": "diathermy machine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diathermy machine",
+    "n2": "diathermy machines",
+    "n3": "the diathermy machine",
+    "n4": "the diathermy machines",
+    "n5": "diathermy machine's",
+    "n6": "diathermy machines'",
+    "n7": "a diathermy machine",
+    "n8": "many diathermy machines"
+}

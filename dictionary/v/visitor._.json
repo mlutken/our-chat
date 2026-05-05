@@ -7,5 +7,12 @@
     "n2": "visitors",
     "n3": "the visitor",
     "n4": "the visitors",
-    "n5": "visitor's"
+    "n5": "visitor's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "visitors'",
+    "n7": "a visitor",
+    "n8": "many visitors"
 }

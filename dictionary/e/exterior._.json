@@ -1,0 +1,18 @@
+{
+    "base": "exterior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "exterior",
+    "n2": "exteriors",
+    "n3": "the exterior",
+    "n4": "the exteriors",
+    "n5": "exterior's",
+    "n6": "exteriors'",
+    "n7": "an exterior",
+    "n8": "many exteriors"
+}

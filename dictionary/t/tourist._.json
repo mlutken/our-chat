@@ -1,0 +1,18 @@
+{
+    "base": "tourist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tourist",
+    "n2": "tourists",
+    "n3": "the tourist",
+    "n4": "the tourists",
+    "n5": "tourist's",
+    "n6": "tourists'",
+    "n7": "a tourist",
+    "n8": "many tourists"
+}

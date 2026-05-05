@@ -1,0 +1,18 @@
+{
+    "base": "mentally retarded",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mentally retarded",
+    "n2": "mentally retardeds",
+    "n3": "the mentally retarded",
+    "n4": "the mentally retardeds",
+    "n5": "mentally retarded's",
+    "n6": "mentally retardeds'",
+    "n7": "a mentally retarded",
+    "n8": "many mentally retardeds"
+}

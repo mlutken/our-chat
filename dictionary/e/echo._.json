@@ -1,0 +1,18 @@
+{
+    "base": "echo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "echo",
+    "n2": "echoes",
+    "n3": "the echo",
+    "n4": "the echoes",
+    "n5": "echo's",
+    "n6": "echoes'",
+    "n7": "an echo",
+    "n8": "many echoes"
+}

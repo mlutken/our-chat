@@ -1,0 +1,18 @@
+{
+    "base": "outdoor man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outdoor man",
+    "n2": "outdoor mans",
+    "n3": "the outdoor man",
+    "n4": "the outdoor mans",
+    "n5": "outdoor man's",
+    "n6": "outdoor mans'",
+    "n7": "an outdoor man",
+    "n8": "many outdoor mans"
+}

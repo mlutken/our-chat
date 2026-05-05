@@ -1,0 +1,18 @@
+{
+    "base": "john locke",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "john locke",
+    "n2": "john lockes",
+    "n3": "the john locke",
+    "n4": "the john lockes",
+    "n5": "john locke's",
+    "n6": "john lockes'",
+    "n7": "a john locke",
+    "n8": "many john lockes"
+}

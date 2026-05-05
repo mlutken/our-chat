@@ -1,0 +1,18 @@
+{
+    "base": "best friend",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "best friend",
+    "n2": "best friends",
+    "n3": "the best friend",
+    "n4": "the best friends",
+    "n5": "best friend's",
+    "n6": "best friends'",
+    "n7": "a best friend",
+    "n8": "many best friends"
+}

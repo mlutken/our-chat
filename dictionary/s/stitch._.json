@@ -1,0 +1,18 @@
+{
+    "base": "stitch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stitch",
+    "n2": "stitches",
+    "n3": "the stitch",
+    "n4": "the stitches",
+    "n5": "stitch's",
+    "n6": "stitches'",
+    "n7": "a stitch",
+    "n8": "many stitches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "farmland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "farmland",
+    "n2": "farmlands",
+    "n3": "the farmland",
+    "n4": "the farmlands",
+    "n5": "farmland's",
+    "n6": "farmlands'",
+    "n7": "a farmland",
+    "n8": "many farmlands"
+}

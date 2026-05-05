@@ -1,0 +1,18 @@
+{
+    "base": "rage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "rage",
+    "n2": "rages",
+    "n3": "the rage",
+    "n4": "the rages",
+    "n5": "rage's",
+    "n6": "rages'",
+    "n7": "a rage",
+    "n8": "many rages"
+}

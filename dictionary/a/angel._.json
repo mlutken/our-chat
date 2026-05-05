@@ -1,0 +1,18 @@
+{
+    "base": "angel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "angel",
+    "n2": "angels",
+    "n3": "the angel",
+    "n4": "the angels",
+    "n5": "angel's",
+    "n6": "angels'",
+    "n7": "an angel",
+    "n8": "many angels"
+}

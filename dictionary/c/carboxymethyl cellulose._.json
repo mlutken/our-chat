@@ -1,0 +1,18 @@
+{
+    "base": "carboxymethyl cellulose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carboxymethyl cellulose",
+    "n2": "carboxymethyl celluloses",
+    "n3": "the carboxymethyl cellulose",
+    "n4": "the carboxymethyl celluloses",
+    "n5": "carboxymethyl cellulose's",
+    "n6": "carboxymethyl celluloses'",
+    "n7": "a carboxymethyl cellulose",
+    "n8": "many carboxymethyl celluloses"
+}

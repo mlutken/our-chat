@@ -1,0 +1,18 @@
+{
+    "base": "naturalness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "naturalness",
+    "n2": "naturalnesses",
+    "n3": "the naturalness",
+    "n4": "the naturalnesses",
+    "n5": "naturalness'",
+    "n6": "naturalnesses'",
+    "n7": "a naturalness",
+    "n8": "many naturalnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "yen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yen",
+    "n2": "yens",
+    "n3": "the yen",
+    "n4": "the yens",
+    "n5": "yen's",
+    "n6": "yens'",
+    "n7": "a yen",
+    "n8": "many yens"
+}

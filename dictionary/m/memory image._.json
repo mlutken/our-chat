@@ -1,0 +1,18 @@
+{
+    "base": "memory image",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "memory image",
+    "n2": "memory images",
+    "n3": "the memory image",
+    "n4": "the memory images",
+    "n5": "memory image's",
+    "n6": "memory images'",
+    "n7": "a memory image",
+    "n8": "many memory images"
+}

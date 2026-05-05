@@ -1,0 +1,18 @@
+{
+    "base": "war department",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "war department",
+    "n2": "war departments",
+    "n3": "the war department",
+    "n4": "the war departments",
+    "n5": "war department's",
+    "n6": "war departments'",
+    "n7": "a war department",
+    "n8": "many war departments"
+}

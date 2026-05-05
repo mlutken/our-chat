@@ -1,0 +1,18 @@
+{
+    "base": "oatmeal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oatmeal",
+    "n2": "oatmeals",
+    "n3": "the oatmeal",
+    "n4": "the oatmeals",
+    "n5": "oatmeal's",
+    "n6": "oatmeals'",
+    "n7": "an oatmeal",
+    "n8": "many oatmeals"
+}

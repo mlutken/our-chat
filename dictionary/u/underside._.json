@@ -1,0 +1,18 @@
+{
+    "base": "underside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "underside",
+    "n2": "undersides",
+    "n3": "the underside",
+    "n4": "the undersides",
+    "n5": "underside's",
+    "n6": "undersides'",
+    "n7": "an underside",
+    "n8": "many undersides"
+}

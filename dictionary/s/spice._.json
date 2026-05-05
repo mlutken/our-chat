@@ -1,0 +1,18 @@
+{
+    "base": "spice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spice",
+    "n2": "spices",
+    "n3": "the spice",
+    "n4": "the spices",
+    "n5": "spice's",
+    "n6": "spices'",
+    "n7": "a spice",
+    "n8": "many spices"
+}

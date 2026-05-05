@@ -1,0 +1,18 @@
+{
+    "base": "hub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hub",
+    "n2": "hubs",
+    "n3": "the hub",
+    "n4": "the hubs",
+    "n5": "hub's",
+    "n6": "hubs'",
+    "n7": "a hub",
+    "n8": "many hubs"
+}

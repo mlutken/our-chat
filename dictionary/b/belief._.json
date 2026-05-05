@@ -1,0 +1,18 @@
+{
+    "base": "belief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 37,
+    "max_commonness": 6834,
+    "commonness_ge_count": 486,
+    "n1": "belief",
+    "n2": "believes",
+    "n3": "the belief",
+    "n4": "the believes",
+    "n5": "belief's",
+    "n6": "believes'",
+    "n7": "a belief",
+    "n8": "many believes"
+}

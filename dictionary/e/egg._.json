@@ -7,5 +7,12 @@
     "n2": "eggs",
     "n3": "the egg",
     "n4": "the eggs",
-    "n5": "egg's"
+    "n5": "egg's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "eggs'",
+    "n7": "an egg",
+    "n8": "many eggs"
 }

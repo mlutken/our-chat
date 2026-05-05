@@ -1,0 +1,18 @@
+{
+    "base": "anglican church",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anglican church",
+    "n2": "anglican churches",
+    "n3": "the anglican church",
+    "n4": "the anglican churches",
+    "n5": "anglican church's",
+    "n6": "anglican churches'",
+    "n7": "an anglican church",
+    "n8": "many anglican churches"
+}

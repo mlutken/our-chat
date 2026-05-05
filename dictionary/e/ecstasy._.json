@@ -1,0 +1,18 @@
+{
+    "base": "ecstasy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ecstasy",
+    "n2": "ecstasies",
+    "n3": "the ecstasy",
+    "n4": "the ecstasies",
+    "n5": "ecstasy's",
+    "n6": "ecstasies'",
+    "n7": "an ecstasy",
+    "n8": "many ecstasies"
+}

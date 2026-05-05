@@ -1,0 +1,18 @@
+{
+    "base": "business enterprise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business enterprise",
+    "n2": "business enterprises",
+    "n3": "the business enterprise",
+    "n4": "the business enterprises",
+    "n5": "business enterprise's",
+    "n6": "business enterprises'",
+    "n7": "a business enterprise",
+    "n8": "many business enterprises"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "life principle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "life principle",
+    "n2": "life principles",
+    "n3": "the life principle",
+    "n4": "the life principles",
+    "n5": "life principle's",
+    "n6": "life principles'",
+    "n7": "a life principle",
+    "n8": "many life principles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fuss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fuss",
+    "n2": "fusses",
+    "n3": "the fuss",
+    "n4": "the fusses",
+    "n5": "fuss'",
+    "n6": "fusses'",
+    "n7": "a fuss",
+    "n8": "many fusses"
+}

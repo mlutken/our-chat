@@ -1,11 +1,24 @@
 {
     "base": "joke",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "joke",
     "v2": "joked",
     "v3": "joked",
     "v4": "joking",
-    "v5": "jokes"
+    "v5": "jokes",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "joke",
+    "n2": "jokes",
+    "n3": "the joke",
+    "n4": "the jokes",
+    "n5": "joke's",
+    "n6": "jokes'",
+    "n7": "a joke",
+    "n8": "many jokes"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "magical power",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magical power",
+    "n2": "magical powers",
+    "n3": "the magical power",
+    "n4": "the magical powers",
+    "n5": "magical power's",
+    "n6": "magical powers'",
+    "n7": "a magical power",
+    "n8": "many magical powers"
+}

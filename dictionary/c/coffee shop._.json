@@ -1,0 +1,18 @@
+{
+    "base": "coffee shop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coffee shop",
+    "n2": "coffee shops",
+    "n3": "the coffee shop",
+    "n4": "the coffee shops",
+    "n5": "coffee shop's",
+    "n6": "coffee shops'",
+    "n7": "a coffee shop",
+    "n8": "many coffee shops"
+}

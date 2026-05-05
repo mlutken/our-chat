@@ -1,0 +1,18 @@
+{
+    "base": "poppy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "poppy",
+    "n2": "poppies",
+    "n3": "the poppy",
+    "n4": "the poppies",
+    "n5": "poppy's",
+    "n6": "poppies'",
+    "n7": "a poppy",
+    "n8": "many poppies"
+}

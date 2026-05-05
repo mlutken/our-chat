@@ -1,0 +1,18 @@
+{
+    "base": "thanksgiving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thanksgiving",
+    "n2": "thanksgivings",
+    "n3": "the thanksgiving",
+    "n4": "the thanksgivings",
+    "n5": "thanksgiving's",
+    "n6": "thanksgivings'",
+    "n7": "a thanksgiving",
+    "n8": "many thanksgivings"
+}

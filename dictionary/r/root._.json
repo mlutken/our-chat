@@ -1,0 +1,18 @@
+{
+    "base": "root",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "root",
+    "n2": "roots",
+    "n3": "the root",
+    "n4": "the roots",
+    "n5": "root's",
+    "n6": "roots'",
+    "n7": "a root",
+    "n8": "many roots"
+}

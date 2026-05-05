@@ -1,0 +1,18 @@
+{
+    "base": "electromyography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electromyography",
+    "n2": "electromyographies",
+    "n3": "the electromyography",
+    "n4": "the electromyographies",
+    "n5": "electromyography's",
+    "n6": "electromyographies'",
+    "n7": "an electromyography",
+    "n8": "many electromyographies"
+}

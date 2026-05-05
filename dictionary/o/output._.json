@@ -1,0 +1,18 @@
+{
+    "base": "output",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "output",
+    "n2": "outputs",
+    "n3": "the output",
+    "n4": "the outputs",
+    "n5": "output's",
+    "n6": "outputs'",
+    "n7": "an output",
+    "n8": "many outputs"
+}

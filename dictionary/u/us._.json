@@ -1,0 +1,18 @@
+{
+    "base": "us",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "us",
+    "n2": "uses",
+    "n3": "the us",
+    "n4": "the uses",
+    "n5": "us'",
+    "n6": "uses'",
+    "n7": "an us",
+    "n8": "many uses"
+}

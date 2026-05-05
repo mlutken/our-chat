@@ -1,0 +1,18 @@
+{
+    "base": "low-water mark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "low-water mark",
+    "n2": "low-water marks",
+    "n3": "the low-water mark",
+    "n4": "the low-water marks",
+    "n5": "low-water mark's",
+    "n6": "low-water marks'",
+    "n7": "a low-water mark",
+    "n8": "many low-water marks"
+}

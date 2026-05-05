@@ -1,0 +1,18 @@
+{
+    "base": "physical therapist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "physical therapist",
+    "n2": "physical therapists",
+    "n3": "the physical therapist",
+    "n4": "the physical therapists",
+    "n5": "physical therapist's",
+    "n6": "physical therapists'",
+    "n7": "a physical therapist",
+    "n8": "many physical therapists"
+}

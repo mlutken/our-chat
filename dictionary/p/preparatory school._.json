@@ -1,0 +1,18 @@
+{
+    "base": "preparatory school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "preparatory school",
+    "n2": "preparatory schools",
+    "n3": "the preparatory school",
+    "n4": "the preparatory schools",
+    "n5": "preparatory school's",
+    "n6": "preparatory schools'",
+    "n7": "a preparatory school",
+    "n8": "many preparatory schools"
+}

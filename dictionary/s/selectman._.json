@@ -1,0 +1,18 @@
+{
+    "base": "selectman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "selectman",
+    "n2": "selectmen",
+    "n3": "the selectman",
+    "n4": "the selectmen",
+    "n5": "selectman's",
+    "n6": "selectmen's",
+    "n7": "a selectman",
+    "n8": "many selectmen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dullard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dullard",
+    "n2": "dullards",
+    "n3": "the dullard",
+    "n4": "the dullards",
+    "n5": "dullard's",
+    "n6": "dullards'",
+    "n7": "a dullard",
+    "n8": "many dullards"
+}

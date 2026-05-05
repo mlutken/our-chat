@@ -1,0 +1,18 @@
+{
+    "base": "oregon",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oregon",
+    "n2": "oregons",
+    "n3": "the oregon",
+    "n4": "the oregons",
+    "n5": "oregon's",
+    "n6": "oregons'",
+    "n7": "an oregon",
+    "n8": "many oregons"
+}

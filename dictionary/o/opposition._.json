@@ -1,0 +1,18 @@
+{
+    "base": "opposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "opposition",
+    "n2": "oppositions",
+    "n3": "the opposition",
+    "n4": "the oppositions",
+    "n5": "opposition's",
+    "n6": "oppositions'",
+    "n7": "an opposition",
+    "n8": "many oppositions"
+}

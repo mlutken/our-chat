@@ -1,0 +1,18 @@
+{
+    "base": "woodgrain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "woodgrain",
+    "n2": "woodgrains",
+    "n3": "the woodgrain",
+    "n4": "the woodgrains",
+    "n5": "woodgrain's",
+    "n6": "woodgrains'",
+    "n7": "a woodgrain",
+    "n8": "many woodgrains"
+}

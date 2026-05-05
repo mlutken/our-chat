@@ -1,0 +1,18 @@
+{
+    "base": "arteriole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "arteriole",
+    "n2": "arterioles",
+    "n3": "the arteriole",
+    "n4": "the arterioles",
+    "n5": "arteriole's",
+    "n6": "arterioles'",
+    "n7": "an arteriole",
+    "n8": "many arterioles"
+}

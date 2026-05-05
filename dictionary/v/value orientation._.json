@@ -1,0 +1,18 @@
+{
+    "base": "value orientation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "value orientation",
+    "n2": "value orientations",
+    "n3": "the value orientation",
+    "n4": "the value orientations",
+    "n5": "value orientation's",
+    "n6": "value orientations'",
+    "n7": "a value orientation",
+    "n8": "many value orientations"
+}

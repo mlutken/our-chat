@@ -1,0 +1,18 @@
+{
+    "base": "infrared radiation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infrared radiation",
+    "n2": "infrared radiations",
+    "n3": "the infrared radiation",
+    "n4": "the infrared radiations",
+    "n5": "infrared radiation's",
+    "n6": "infrared radiations'",
+    "n7": "an infrared radiation",
+    "n8": "many infrared radiations"
+}

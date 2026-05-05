@@ -1,0 +1,18 @@
+{
+    "base": "delineation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delineation",
+    "n2": "delineations",
+    "n3": "the delineation",
+    "n4": "the delineations",
+    "n5": "delineation's",
+    "n6": "delineations'",
+    "n7": "a delineation",
+    "n8": "many delineations"
+}

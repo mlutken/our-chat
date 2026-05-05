@@ -1,0 +1,18 @@
+{
+    "base": "deportee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deportee",
+    "n2": "deportees",
+    "n3": "the deportee",
+    "n4": "the deportees",
+    "n5": "deportee's",
+    "n6": "deportees'",
+    "n7": "a deportee",
+    "n8": "many deportees"
+}

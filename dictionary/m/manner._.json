@@ -1,0 +1,18 @@
+{
+    "base": "manner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 73,
+    "max_commonness": 6834,
+    "commonness_ge_count": 191,
+    "n1": "manner",
+    "n2": "manners",
+    "n3": "the manner",
+    "n4": "the manners",
+    "n5": "manner's",
+    "n6": "manners'",
+    "n7": "a manner",
+    "n8": "many manners"
+}

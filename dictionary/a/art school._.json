@@ -1,0 +1,18 @@
+{
+    "base": "art school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "art school",
+    "n2": "art schools",
+    "n3": "the art school",
+    "n4": "the art schools",
+    "n5": "art school's",
+    "n6": "art schools'",
+    "n7": "an art school",
+    "n8": "many art schools"
+}

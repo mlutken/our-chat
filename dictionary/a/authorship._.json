@@ -1,0 +1,18 @@
+{
+    "base": "authorship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "authorship",
+    "n2": "authorships",
+    "n3": "the authorship",
+    "n4": "the authorships",
+    "n5": "authorship's",
+    "n6": "authorships'",
+    "n7": "an authorship",
+    "n8": "many authorships"
+}

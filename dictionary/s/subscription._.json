@@ -1,0 +1,18 @@
+{
+    "base": "subscription",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "subscription",
+    "n2": "subscriptions",
+    "n3": "the subscription",
+    "n4": "the subscriptions",
+    "n5": "subscription's",
+    "n6": "subscriptions'",
+    "n7": "a subscription",
+    "n8": "many subscriptions"
+}

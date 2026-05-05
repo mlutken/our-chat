@@ -1,0 +1,18 @@
+{
+    "base": "conjugate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "conjugate",
+    "n2": "conjugates",
+    "n3": "the conjugate",
+    "n4": "the conjugates",
+    "n5": "conjugate's",
+    "n6": "conjugates'",
+    "n7": "a conjugate",
+    "n8": "many conjugates"
+}

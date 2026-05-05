@@ -1,0 +1,18 @@
+{
+    "base": "milligram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "milligram",
+    "n2": "milligrams",
+    "n3": "the milligram",
+    "n4": "the milligrams",
+    "n5": "milligram's",
+    "n6": "milligrams'",
+    "n7": "a milligram",
+    "n8": "many milligrams"
+}

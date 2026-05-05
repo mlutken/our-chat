@@ -1,0 +1,18 @@
+{
+    "base": "department of health education and welfare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "department of health education and welfare",
+    "n2": "department of health education and welfares",
+    "n3": "the department of health education and welfare",
+    "n4": "the department of health education and welfares",
+    "n5": "department of health education and welfare's",
+    "n6": "department of health education and welfares'",
+    "n7": "a department of health education and welfare",
+    "n8": "many department of health education and welfares"
+}

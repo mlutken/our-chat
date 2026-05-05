@@ -1,7 +1,20 @@
 {
     "base": "can",
     "classes": [
+        "n",
         "aux"
     ],
-    "f0": "can"
+    "f0": "can",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "can",
+    "n2": "cans",
+    "n3": "the can",
+    "n4": "the cans",
+    "n5": "can's",
+    "n6": "cans'",
+    "n7": "a can",
+    "n8": "many cans"
 }

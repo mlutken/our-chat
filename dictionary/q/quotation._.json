@@ -1,0 +1,18 @@
+{
+    "base": "quotation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "quotation",
+    "n2": "quotations",
+    "n3": "the quotation",
+    "n4": "the quotations",
+    "n5": "quotation's",
+    "n6": "quotations'",
+    "n7": "a quotation",
+    "n8": "many quotations"
+}

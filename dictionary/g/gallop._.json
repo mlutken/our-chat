@@ -1,0 +1,18 @@
+{
+    "base": "gallop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gallop",
+    "n2": "gallops",
+    "n3": "the gallop",
+    "n4": "the gallops",
+    "n5": "gallop's",
+    "n6": "gallops'",
+    "n7": "a gallop",
+    "n8": "many gallops"
+}

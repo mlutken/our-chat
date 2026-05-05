@@ -1,0 +1,18 @@
+{
+    "base": "plaster of paris",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plaster of paris",
+    "n2": "plaster of parises",
+    "n3": "the plaster of paris",
+    "n4": "the plaster of parises",
+    "n5": "plaster of paris'",
+    "n6": "plaster of parises'",
+    "n7": "a plaster of paris",
+    "n8": "many plaster of parises"
+}

@@ -7,5 +7,12 @@
     "n2": "cancers",
     "n3": "the cancer",
     "n4": "the cancers",
-    "n5": "cancer's"
+    "n5": "cancer's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "cancers'",
+    "n7": "a cancer",
+    "n8": "many cancers"
 }

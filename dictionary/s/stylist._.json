@@ -1,0 +1,18 @@
+{
+    "base": "stylist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stylist",
+    "n2": "stylists",
+    "n3": "the stylist",
+    "n4": "the stylists",
+    "n5": "stylist's",
+    "n6": "stylists'",
+    "n7": "a stylist",
+    "n8": "many stylists"
+}

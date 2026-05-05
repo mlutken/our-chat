@@ -1,0 +1,18 @@
+{
+    "base": "lizard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lizard",
+    "n2": "lizards",
+    "n3": "the lizard",
+    "n4": "the lizards",
+    "n5": "lizard's",
+    "n6": "lizards'",
+    "n7": "a lizard",
+    "n8": "many lizards"
+}

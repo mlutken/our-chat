@@ -1,0 +1,18 @@
+{
+    "base": "cottage tent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cottage tent",
+    "n2": "cottage tents",
+    "n3": "the cottage tent",
+    "n4": "the cottage tents",
+    "n5": "cottage tent's",
+    "n6": "cottage tents'",
+    "n7": "a cottage tent",
+    "n8": "many cottage tents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "composer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "composer",
+    "n2": "composers",
+    "n3": "the composer",
+    "n4": "the composers",
+    "n5": "composer's",
+    "n6": "composers'",
+    "n7": "a composer",
+    "n8": "many composers"
+}

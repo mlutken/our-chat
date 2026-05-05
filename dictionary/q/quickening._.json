@@ -1,0 +1,18 @@
+{
+    "base": "quickening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quickening",
+    "n2": "quickenings",
+    "n3": "the quickening",
+    "n4": "the quickenings",
+    "n5": "quickening's",
+    "n6": "quickenings'",
+    "n7": "a quickening",
+    "n8": "many quickenings"
+}

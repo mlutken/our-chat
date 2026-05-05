@@ -1,0 +1,18 @@
+{
+    "base": "enthalpy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "enthalpy",
+    "n2": "enthalpies",
+    "n3": "the enthalpy",
+    "n4": "the enthalpies",
+    "n5": "enthalpy's",
+    "n6": "enthalpies'",
+    "n7": "an enthalpy",
+    "n8": "many enthalpies"
+}

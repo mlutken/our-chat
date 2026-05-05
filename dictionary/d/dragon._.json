@@ -1,0 +1,18 @@
+{
+    "base": "dragon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dragon",
+    "n2": "dragons",
+    "n3": "the dragon",
+    "n4": "the dragons",
+    "n5": "dragon's",
+    "n6": "dragons'",
+    "n7": "a dragon",
+    "n8": "many dragons"
+}

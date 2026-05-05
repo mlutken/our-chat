@@ -1,0 +1,18 @@
+{
+    "base": "grower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grower",
+    "n2": "growers",
+    "n3": "the grower",
+    "n4": "the growers",
+    "n5": "grower's",
+    "n6": "growers'",
+    "n7": "a grower",
+    "n8": "many growers"
+}

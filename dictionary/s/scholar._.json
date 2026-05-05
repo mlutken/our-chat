@@ -1,0 +1,18 @@
+{
+    "base": "scholar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "scholar",
+    "n2": "scholars",
+    "n3": "the scholar",
+    "n4": "the scholars",
+    "n5": "scholar's",
+    "n6": "scholars'",
+    "n7": "a scholar",
+    "n8": "many scholars"
+}

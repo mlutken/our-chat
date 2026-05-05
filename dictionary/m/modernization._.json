@@ -1,0 +1,18 @@
+{
+    "base": "modernization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "modernization",
+    "n2": "modernizations",
+    "n3": "the modernization",
+    "n4": "the modernizations",
+    "n5": "modernization's",
+    "n6": "modernizations'",
+    "n7": "a modernization",
+    "n8": "many modernizations"
+}

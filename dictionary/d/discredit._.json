@@ -1,0 +1,18 @@
+{
+    "base": "discredit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "discredit",
+    "n2": "discredits",
+    "n3": "the discredit",
+    "n4": "the discredits",
+    "n5": "discredit's",
+    "n6": "discredits'",
+    "n7": "a discredit",
+    "n8": "many discredits"
+}

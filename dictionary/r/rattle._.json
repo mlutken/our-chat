@@ -1,0 +1,18 @@
+{
+    "base": "rattle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "rattle",
+    "n2": "rattles",
+    "n3": "the rattle",
+    "n4": "the rattles",
+    "n5": "rattle's",
+    "n6": "rattles'",
+    "n7": "a rattle",
+    "n8": "many rattles"
+}

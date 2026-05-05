@@ -1,0 +1,18 @@
+{
+    "base": "floor plan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "floor plan",
+    "n2": "floor plans",
+    "n3": "the floor plan",
+    "n4": "the floor plans",
+    "n5": "floor plan's",
+    "n6": "floor plans'",
+    "n7": "a floor plan",
+    "n8": "many floor plans"
+}

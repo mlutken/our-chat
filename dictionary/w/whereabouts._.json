@@ -1,0 +1,18 @@
+{
+    "base": "whereabouts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "whereabouts",
+    "n2": "whereaboutses",
+    "n3": "the whereabouts",
+    "n4": "the whereaboutses",
+    "n5": "whereabouts'",
+    "n6": "whereaboutses'",
+    "n7": "a whereabouts",
+    "n8": "many whereaboutses"
+}

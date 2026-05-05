@@ -1,0 +1,18 @@
+{
+    "base": "transience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transience",
+    "n2": "transiences",
+    "n3": "the transience",
+    "n4": "the transiences",
+    "n5": "transience's",
+    "n6": "transiences'",
+    "n7": "a transience",
+    "n8": "many transiences"
+}

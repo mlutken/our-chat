@@ -1,0 +1,18 @@
+{
+    "base": "roofer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roofer",
+    "n2": "roofers",
+    "n3": "the roofer",
+    "n4": "the roofers",
+    "n5": "roofer's",
+    "n6": "roofers'",
+    "n7": "a roofer",
+    "n8": "many roofers"
+}

@@ -7,5 +7,12 @@
     "n2": "strengths",
     "n3": "the strength",
     "n4": "the strengths",
-    "n5": "strength's"
+    "n5": "strength's",
+    "proper": false,
+    "commonness": 61,
+    "max_commonness": 6834,
+    "commonness_ge_count": 253,
+    "n6": "strengths'",
+    "n7": "a strength",
+    "n8": "many strengths"
 }

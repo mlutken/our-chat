@@ -1,0 +1,18 @@
+{
+    "base": "promulgator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "promulgator",
+    "n2": "promulgators",
+    "n3": "the promulgator",
+    "n4": "the promulgators",
+    "n5": "promulgator's",
+    "n6": "promulgators'",
+    "n7": "a promulgator",
+    "n8": "many promulgators"
+}

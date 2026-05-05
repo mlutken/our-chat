@@ -1,0 +1,18 @@
+{
+    "base": "grant-in-aid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grant-in-aid",
+    "n2": "grants-in-aid",
+    "n3": "the grant-in-aid",
+    "n4": "the grants-in-aid",
+    "n5": "grant-in-aid's",
+    "n6": "grants-in-aid's",
+    "n7": "a grant-in-aid",
+    "n8": "many grants-in-aid"
+}

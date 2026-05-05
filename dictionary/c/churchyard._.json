@@ -1,0 +1,18 @@
+{
+    "base": "churchyard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "churchyard",
+    "n2": "churchyards",
+    "n3": "the churchyard",
+    "n4": "the churchyards",
+    "n5": "churchyard's",
+    "n6": "churchyards'",
+    "n7": "a churchyard",
+    "n8": "many churchyards"
+}

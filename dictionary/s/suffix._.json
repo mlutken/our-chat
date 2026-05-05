@@ -1,0 +1,18 @@
+{
+    "base": "suffix",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "suffix",
+    "n2": "suffixes",
+    "n3": "the suffix",
+    "n4": "the suffixes",
+    "n5": "suffix's",
+    "n6": "suffixes'",
+    "n7": "a suffix",
+    "n8": "many suffixes"
+}

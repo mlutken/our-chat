@@ -1,0 +1,18 @@
+{
+    "base": "fountainhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fountainhead",
+    "n2": "fountainheads",
+    "n3": "the fountainhead",
+    "n4": "the fountainheads",
+    "n5": "fountainhead's",
+    "n6": "fountainheads'",
+    "n7": "a fountainhead",
+    "n8": "many fountainheads"
+}

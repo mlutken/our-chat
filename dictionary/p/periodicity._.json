@@ -1,0 +1,18 @@
+{
+    "base": "periodicity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "periodicity",
+    "n2": "periodicities",
+    "n3": "the periodicity",
+    "n4": "the periodicities",
+    "n5": "periodicity's",
+    "n6": "periodicities'",
+    "n7": "a periodicity",
+    "n8": "many periodicities"
+}

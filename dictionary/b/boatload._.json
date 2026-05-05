@@ -1,0 +1,18 @@
+{
+    "base": "boatload",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boatload",
+    "n2": "boatloads",
+    "n3": "the boatload",
+    "n4": "the boatloads",
+    "n5": "boatload's",
+    "n6": "boatloads'",
+    "n7": "a boatload",
+    "n8": "many boatloads"
+}

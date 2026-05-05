@@ -1,0 +1,18 @@
+{
+    "base": "hexameter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hexameter",
+    "n2": "hexameters",
+    "n3": "the hexameter",
+    "n4": "the hexameters",
+    "n5": "hexameter's",
+    "n6": "hexameters'",
+    "n7": "a hexameter",
+    "n8": "many hexameters"
+}

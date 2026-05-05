@@ -1,0 +1,18 @@
+{
+    "base": "whirring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "whirring",
+    "n2": "whirrings",
+    "n3": "the whirring",
+    "n4": "the whirrings",
+    "n5": "whirring's",
+    "n6": "whirrings'",
+    "n7": "a whirring",
+    "n8": "many whirrings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "locality",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "locality",
+    "n2": "localities",
+    "n3": "the locality",
+    "n4": "the localities",
+    "n5": "locality's",
+    "n6": "localities'",
+    "n7": "a locality",
+    "n8": "many localities"
+}

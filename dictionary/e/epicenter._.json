@@ -1,0 +1,18 @@
+{
+    "base": "epicenter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "epicenter",
+    "n2": "epicenters",
+    "n3": "the epicenter",
+    "n4": "the epicenters",
+    "n5": "epicenter's",
+    "n6": "epicenters'",
+    "n7": "an epicenter",
+    "n8": "many epicenters"
+}

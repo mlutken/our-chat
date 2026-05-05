@@ -1,0 +1,18 @@
+{
+    "base": "burglary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "burglary",
+    "n2": "burglaries",
+    "n3": "the burglary",
+    "n4": "the burglaries",
+    "n5": "burglary's",
+    "n6": "burglaries'",
+    "n7": "a burglary",
+    "n8": "many burglaries"
+}

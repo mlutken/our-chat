@@ -1,0 +1,18 @@
+{
+    "base": "springfield",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "springfield",
+    "n2": "springfields",
+    "n3": "the springfield",
+    "n4": "the springfields",
+    "n5": "springfield's",
+    "n6": "springfields'",
+    "n7": "a springfield",
+    "n8": "many springfields"
+}

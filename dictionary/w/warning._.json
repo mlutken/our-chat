@@ -7,5 +7,12 @@
     "n2": "warnings",
     "n3": "the warning",
     "n4": "the warnings",
-    "n5": "warning's"
+    "n5": "warning's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "warnings'",
+    "n7": "a warning",
+    "n8": "many warnings"
 }

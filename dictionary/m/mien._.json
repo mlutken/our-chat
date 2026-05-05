@@ -1,0 +1,18 @@
+{
+    "base": "mien",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mien",
+    "n2": "miens",
+    "n3": "the mien",
+    "n4": "the miens",
+    "n5": "mien's",
+    "n6": "miens'",
+    "n7": "a mien",
+    "n8": "many miens"
+}

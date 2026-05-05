@@ -1,0 +1,18 @@
+{
+    "base": "cosecant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cosecant",
+    "n2": "cosecants",
+    "n3": "the cosecant",
+    "n4": "the cosecants",
+    "n5": "cosecant's",
+    "n6": "cosecants'",
+    "n7": "a cosecant",
+    "n8": "many cosecants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "automation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "automation",
+    "n2": "automations",
+    "n3": "the automation",
+    "n4": "the automations",
+    "n5": "automation's",
+    "n6": "automations'",
+    "n7": "an automation",
+    "n8": "many automations"
+}

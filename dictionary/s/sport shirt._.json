@@ -1,0 +1,18 @@
+{
+    "base": "sport shirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sport shirt",
+    "n2": "sport shirts",
+    "n3": "the sport shirt",
+    "n4": "the sport shirts",
+    "n5": "sport shirt's",
+    "n6": "sport shirts'",
+    "n7": "a sport shirt",
+    "n8": "many sport shirts"
+}

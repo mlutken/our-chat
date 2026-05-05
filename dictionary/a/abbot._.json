@@ -1,0 +1,18 @@
+{
+    "base": "abbot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abbot",
+    "n2": "abbots",
+    "n3": "the abbot",
+    "n4": "the abbots",
+    "n5": "abbot's",
+    "n6": "abbots'",
+    "n7": "an abbot",
+    "n8": "many abbots"
+}

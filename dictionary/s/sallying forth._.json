@@ -1,0 +1,18 @@
+{
+    "base": "sallying forth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sallying forth",
+    "n2": "sallying forths",
+    "n3": "the sallying forth",
+    "n4": "the sallying forths",
+    "n5": "sallying forth's",
+    "n6": "sallying forths'",
+    "n7": "a sallying forth",
+    "n8": "many sallying forths"
+}

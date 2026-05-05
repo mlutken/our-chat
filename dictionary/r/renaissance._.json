@@ -1,0 +1,18 @@
+{
+    "base": "renaissance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "renaissance",
+    "n2": "renaissances",
+    "n3": "the renaissance",
+    "n4": "the renaissances",
+    "n5": "renaissance's",
+    "n6": "renaissances'",
+    "n7": "a renaissance",
+    "n8": "many renaissances"
+}

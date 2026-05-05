@@ -1,0 +1,18 @@
+{
+    "base": "bear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bear",
+    "n2": "bears",
+    "n3": "the bear",
+    "n4": "the bears",
+    "n5": "bear's",
+    "n6": "bears'",
+    "n7": "a bear",
+    "n8": "many bears"
+}

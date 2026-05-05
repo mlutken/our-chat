@@ -1,0 +1,18 @@
+{
+    "base": "cyst",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cyst",
+    "n2": "cysts",
+    "n3": "the cyst",
+    "n4": "the cysts",
+    "n5": "cyst's",
+    "n6": "cysts'",
+    "n7": "a cyst",
+    "n8": "many cysts"
+}

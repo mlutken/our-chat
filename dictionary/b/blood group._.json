@@ -1,0 +1,18 @@
+{
+    "base": "blood group",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "blood group",
+    "n2": "blood groups",
+    "n3": "the blood group",
+    "n4": "the blood groups",
+    "n5": "blood group's",
+    "n6": "blood groups'",
+    "n7": "a blood group",
+    "n8": "many blood groups"
+}

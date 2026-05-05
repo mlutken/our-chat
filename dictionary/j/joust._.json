@@ -1,0 +1,18 @@
+{
+    "base": "joust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "joust",
+    "n2": "jousts",
+    "n3": "the joust",
+    "n4": "the jousts",
+    "n5": "joust's",
+    "n6": "jousts'",
+    "n7": "a joust",
+    "n8": "many jousts"
+}

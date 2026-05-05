@@ -1,0 +1,18 @@
+{
+    "base": "pirate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pirate",
+    "n2": "pirates",
+    "n3": "the pirate",
+    "n4": "the pirates",
+    "n5": "pirate's",
+    "n6": "pirates'",
+    "n7": "a pirate",
+    "n8": "many pirates"
+}

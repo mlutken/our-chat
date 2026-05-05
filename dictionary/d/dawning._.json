@@ -1,0 +1,18 @@
+{
+    "base": "dawning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dawning",
+    "n2": "dawnings",
+    "n3": "the dawning",
+    "n4": "the dawnings",
+    "n5": "dawning's",
+    "n6": "dawnings'",
+    "n7": "a dawning",
+    "n8": "many dawnings"
+}

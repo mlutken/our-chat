@@ -1,0 +1,18 @@
+{
+    "base": "royal brace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "royal brace",
+    "n2": "royal braces",
+    "n3": "the royal brace",
+    "n4": "the royal braces",
+    "n5": "royal brace's",
+    "n6": "royal braces'",
+    "n7": "a royal brace",
+    "n8": "many royal braces"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "absurdity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "absurdity",
+    "n2": "absurdities",
+    "n3": "the absurdity",
+    "n4": "the absurdities",
+    "n5": "absurdity's",
+    "n6": "absurdities'",
+    "n7": "an absurdity",
+    "n8": "many absurdities"
+}

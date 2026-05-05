@@ -1,0 +1,18 @@
+{
+    "base": "policy maker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "policy maker",
+    "n2": "policy makers",
+    "n3": "the policy maker",
+    "n4": "the policy makers",
+    "n5": "policy maker's",
+    "n6": "policy makers'",
+    "n7": "a policy maker",
+    "n8": "many policy makers"
+}

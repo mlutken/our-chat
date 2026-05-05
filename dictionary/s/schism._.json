@@ -1,0 +1,18 @@
+{
+    "base": "schism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "schism",
+    "n2": "schisms",
+    "n3": "the schism",
+    "n4": "the schisms",
+    "n5": "schism's",
+    "n6": "schisms'",
+    "n7": "a schism",
+    "n8": "many schisms"
+}

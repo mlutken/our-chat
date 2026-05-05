@@ -1,0 +1,18 @@
+{
+    "base": "aide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "aide",
+    "n2": "aides",
+    "n3": "the aide",
+    "n4": "the aides",
+    "n5": "aide's",
+    "n6": "aides'",
+    "n7": "an aide",
+    "n8": "many aides"
+}

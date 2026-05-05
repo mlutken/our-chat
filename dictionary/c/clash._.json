@@ -1,0 +1,18 @@
+{
+    "base": "clash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "clash",
+    "n2": "clashes",
+    "n3": "the clash",
+    "n4": "the clashes",
+    "n5": "clash's",
+    "n6": "clashes'",
+    "n7": "a clash",
+    "n8": "many clashes"
+}

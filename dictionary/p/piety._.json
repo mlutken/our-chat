@@ -1,0 +1,18 @@
+{
+    "base": "piety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piety",
+    "n2": "pieties",
+    "n3": "the piety",
+    "n4": "the pieties",
+    "n5": "piety's",
+    "n6": "pieties'",
+    "n7": "a piety",
+    "n8": "many pieties"
+}

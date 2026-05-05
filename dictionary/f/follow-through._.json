@@ -1,0 +1,18 @@
+{
+    "base": "follow-through",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "follow-through",
+    "n2": "follow-throughs",
+    "n3": "the follow-through",
+    "n4": "the follow-throughs",
+    "n5": "follow-through's",
+    "n6": "follow-throughs'",
+    "n7": "a follow-through",
+    "n8": "many follow-throughs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "solace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "solace",
+    "n2": "solaces",
+    "n3": "the solace",
+    "n4": "the solaces",
+    "n5": "solace's",
+    "n6": "solaces'",
+    "n7": "a solace",
+    "n8": "many solaces"
+}

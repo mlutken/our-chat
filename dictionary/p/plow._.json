@@ -1,0 +1,18 @@
+{
+    "base": "plow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plow",
+    "n2": "plows",
+    "n3": "the plow",
+    "n4": "the plows",
+    "n5": "plow's",
+    "n6": "plows'",
+    "n7": "a plow",
+    "n8": "many plows"
+}

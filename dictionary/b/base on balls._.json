@@ -1,0 +1,18 @@
+{
+    "base": "base on balls",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "base on balls",
+    "n2": "bases-on-balls",
+    "n3": "the base on balls",
+    "n4": "the bases-on-balls",
+    "n5": "base on balls'",
+    "n6": "bases-on-balls'",
+    "n7": "a base on balls",
+    "n8": "many bases-on-balls"
+}

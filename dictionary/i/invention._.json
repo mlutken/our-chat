@@ -1,0 +1,18 @@
+{
+    "base": "invention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "invention",
+    "n2": "inventions",
+    "n3": "the invention",
+    "n4": "the inventions",
+    "n5": "invention's",
+    "n6": "inventions'",
+    "n7": "an invention",
+    "n8": "many inventions"
+}

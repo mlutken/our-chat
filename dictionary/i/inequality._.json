@@ -1,0 +1,18 @@
+{
+    "base": "inequality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inequality",
+    "n2": "inequalities",
+    "n3": "the inequality",
+    "n4": "the inequalities",
+    "n5": "inequality's",
+    "n6": "inequalities'",
+    "n7": "an inequality",
+    "n8": "many inequalities"
+}

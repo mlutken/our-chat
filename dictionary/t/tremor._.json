@@ -1,0 +1,18 @@
+{
+    "base": "tremor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tremor",
+    "n2": "tremors",
+    "n3": "the tremor",
+    "n4": "the tremors",
+    "n5": "tremor's",
+    "n6": "tremors'",
+    "n7": "a tremor",
+    "n8": "many tremors"
+}

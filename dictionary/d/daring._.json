@@ -1,0 +1,18 @@
+{
+    "base": "daring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "daring",
+    "n2": "darings",
+    "n3": "the daring",
+    "n4": "the darings",
+    "n5": "daring's",
+    "n6": "darings'",
+    "n7": "a daring",
+    "n8": "many darings"
+}

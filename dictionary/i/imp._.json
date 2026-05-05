@@ -1,0 +1,18 @@
+{
+    "base": "imp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "imp",
+    "n2": "imps",
+    "n3": "the imp",
+    "n4": "the imps",
+    "n5": "imp's",
+    "n6": "imps'",
+    "n7": "an imp",
+    "n8": "many imps"
+}

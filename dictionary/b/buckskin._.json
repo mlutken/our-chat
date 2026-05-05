@@ -1,0 +1,18 @@
+{
+    "base": "buckskin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "buckskin",
+    "n2": "buckskins",
+    "n3": "the buckskin",
+    "n4": "the buckskins",
+    "n5": "buckskin's",
+    "n6": "buckskins'",
+    "n7": "a buckskin",
+    "n8": "many buckskins"
+}

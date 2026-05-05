@@ -1,0 +1,18 @@
+{
+    "base": "gram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "gram",
+    "n2": "grams",
+    "n3": "the gram",
+    "n4": "the grams",
+    "n5": "gram's",
+    "n6": "grams'",
+    "n7": "a gram",
+    "n8": "many grams"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mrs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mrs",
+    "n2": "mrses",
+    "n3": "the mrs",
+    "n4": "the mrses",
+    "n5": "mrs'",
+    "n6": "mrses'",
+    "n7": "a mrs",
+    "n8": "many mrses"
+}

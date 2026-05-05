@@ -1,0 +1,18 @@
+{
+    "base": "africa",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "africa",
+    "n2": "africas",
+    "n3": "the africa",
+    "n4": "the africas",
+    "n5": "africa's",
+    "n6": "africas'",
+    "n7": "an africa",
+    "n8": "many africas"
+}

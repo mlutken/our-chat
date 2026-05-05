@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "awareness",
-    "n2": "awareness",
+    "n2": "awarenesses",
     "n3": "the awareness",
-    "n4": "the awareness",
-    "n5": "awareness's"
+    "n4": "the awarenesses",
+    "n5": "awareness'",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "awarenesses'",
+    "n7": "an awareness",
+    "n8": "many awarenesses"
 }

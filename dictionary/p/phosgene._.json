@@ -1,0 +1,18 @@
+{
+    "base": "phosgene",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phosgene",
+    "n2": "phosgenes",
+    "n3": "the phosgene",
+    "n4": "the phosgenes",
+    "n5": "phosgene's",
+    "n6": "phosgenes'",
+    "n7": "a phosgene",
+    "n8": "many phosgenes"
+}

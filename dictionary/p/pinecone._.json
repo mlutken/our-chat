@@ -1,0 +1,18 @@
+{
+    "base": "pinecone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pinecone",
+    "n2": "pinecones",
+    "n3": "the pinecone",
+    "n4": "the pinecones",
+    "n5": "pinecone's",
+    "n6": "pinecones'",
+    "n7": "a pinecone",
+    "n8": "many pinecones"
+}

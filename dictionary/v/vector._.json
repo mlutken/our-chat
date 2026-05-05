@@ -1,0 +1,18 @@
+{
+    "base": "vector",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "vector",
+    "n2": "vectors",
+    "n3": "the vector",
+    "n4": "the vectors",
+    "n5": "vector's",
+    "n6": "vectors'",
+    "n7": "a vector",
+    "n8": "many vectors"
+}

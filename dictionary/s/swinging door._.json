@@ -1,0 +1,18 @@
+{
+    "base": "swinging door",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swinging door",
+    "n2": "swinging doors",
+    "n3": "the swinging door",
+    "n4": "the swinging doors",
+    "n5": "swinging door's",
+    "n6": "swinging doors'",
+    "n7": "a swinging door",
+    "n8": "many swinging doors"
+}

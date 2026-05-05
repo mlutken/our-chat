@@ -1,0 +1,18 @@
+{
+    "base": "real property",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "real property",
+    "n2": "real properties",
+    "n3": "the real property",
+    "n4": "the real properties",
+    "n5": "real property's",
+    "n6": "real properties'",
+    "n7": "a real property",
+    "n8": "many real properties"
+}

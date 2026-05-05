@@ -1,11 +1,24 @@
 {
     "base": "fill",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fill",
     "v2": "filled",
     "v3": "filled",
     "v4": "filling",
-    "v5": "fills"
+    "v5": "fills",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "fill",
+    "n2": "fills",
+    "n3": "the fill",
+    "n4": "the fills",
+    "n5": "fill's",
+    "n6": "fills'",
+    "n7": "a fill",
+    "n8": "many fills"
 }

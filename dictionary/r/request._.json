@@ -1,11 +1,24 @@
 {
     "base": "request",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "request",
     "v2": "requested",
     "v3": "requested",
     "v4": "requesting",
-    "v5": "requests"
+    "v5": "requests",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "request",
+    "n2": "requests",
+    "n3": "the request",
+    "n4": "the requests",
+    "n5": "request's",
+    "n6": "requests'",
+    "n7": "a request",
+    "n8": "many requests"
 }

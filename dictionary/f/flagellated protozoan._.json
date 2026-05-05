@@ -1,0 +1,18 @@
+{
+    "base": "flagellated protozoan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flagellated protozoan",
+    "n2": "flagellated protozoans",
+    "n3": "the flagellated protozoan",
+    "n4": "the flagellated protozoans",
+    "n5": "flagellated protozoan's",
+    "n6": "flagellated protozoans'",
+    "n7": "a flagellated protozoan",
+    "n8": "many flagellated protozoans"
+}

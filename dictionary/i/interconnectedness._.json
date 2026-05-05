@@ -1,0 +1,18 @@
+{
+    "base": "interconnectedness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interconnectedness",
+    "n2": "interconnectednesses",
+    "n3": "the interconnectedness",
+    "n4": "the interconnectednesses",
+    "n5": "interconnectedness'",
+    "n6": "interconnectednesses'",
+    "n7": "an interconnectedness",
+    "n8": "many interconnectednesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pore",
+    "n2": "pores",
+    "n3": "the pore",
+    "n4": "the pores",
+    "n5": "pore's",
+    "n6": "pores'",
+    "n7": "a pore",
+    "n8": "many pores"
+}

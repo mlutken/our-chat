@@ -1,0 +1,18 @@
+{
+    "base": "hut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "hut",
+    "n2": "huts",
+    "n3": "the hut",
+    "n4": "the huts",
+    "n5": "hut's",
+    "n6": "huts'",
+    "n7": "a hut",
+    "n8": "many huts"
+}

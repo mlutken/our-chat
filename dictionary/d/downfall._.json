@@ -1,0 +1,18 @@
+{
+    "base": "downfall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "downfall",
+    "n2": "downfalls",
+    "n3": "the downfall",
+    "n4": "the downfalls",
+    "n5": "downfall's",
+    "n6": "downfalls'",
+    "n7": "a downfall",
+    "n8": "many downfalls"
+}

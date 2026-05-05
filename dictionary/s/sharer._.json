@@ -1,0 +1,18 @@
+{
+    "base": "sharer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sharer",
+    "n2": "sharers",
+    "n3": "the sharer",
+    "n4": "the sharers",
+    "n5": "sharer's",
+    "n6": "sharers'",
+    "n7": "a sharer",
+    "n8": "many sharers"
+}

@@ -1,11 +1,24 @@
 {
     "base": "gaze",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "gaze",
     "v2": "gazed",
     "v3": "gazed",
     "v4": "gazing",
-    "v5": "gazes"
+    "v5": "gazes",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "gaze",
+    "n2": "gazes",
+    "n3": "the gaze",
+    "n4": "the gazes",
+    "n5": "gaze's",
+    "n6": "gazes'",
+    "n7": "a gaze",
+    "n8": "many gazes"
 }

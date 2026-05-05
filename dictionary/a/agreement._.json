@@ -7,5 +7,12 @@
     "n2": "agreements",
     "n3": "the agreement",
     "n4": "the agreements",
-    "n5": "agreement's"
+    "n5": "agreement's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "agreements'",
+    "n7": "an agreement",
+    "n8": "many agreements"
 }

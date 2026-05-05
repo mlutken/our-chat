@@ -1,0 +1,18 @@
+{
+    "base": "grade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "grade",
+    "n2": "grades",
+    "n3": "the grade",
+    "n4": "the grades",
+    "n5": "grade's",
+    "n6": "grades'",
+    "n7": "a grade",
+    "n8": "many grades"
+}

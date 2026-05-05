@@ -1,0 +1,18 @@
+{
+    "base": "rating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "rating",
+    "n2": "ratings",
+    "n3": "the rating",
+    "n4": "the ratings",
+    "n5": "rating's",
+    "n6": "ratings'",
+    "n7": "a rating",
+    "n8": "many ratings"
+}

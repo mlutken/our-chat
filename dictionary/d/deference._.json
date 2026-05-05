@@ -1,0 +1,18 @@
+{
+    "base": "deference",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deference",
+    "n2": "deferences",
+    "n3": "the deference",
+    "n4": "the deferences",
+    "n5": "deference's",
+    "n6": "deferences'",
+    "n7": "a deference",
+    "n8": "many deferences"
+}

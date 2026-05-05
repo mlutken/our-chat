@@ -1,0 +1,18 @@
+{
+    "base": "rearing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rearing",
+    "n2": "rearings",
+    "n3": "the rearing",
+    "n4": "the rearings",
+    "n5": "rearing's",
+    "n6": "rearings'",
+    "n7": "a rearing",
+    "n8": "many rearings"
+}

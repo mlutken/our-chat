@@ -1,0 +1,18 @@
+{
+    "base": "fortification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fortification",
+    "n2": "fortifications",
+    "n3": "the fortification",
+    "n4": "the fortifications",
+    "n5": "fortification's",
+    "n6": "fortifications'",
+    "n7": "a fortification",
+    "n8": "many fortifications"
+}

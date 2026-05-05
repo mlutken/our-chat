@@ -1,0 +1,18 @@
+{
+    "base": "moon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "moon",
+    "n2": "moons",
+    "n3": "the moon",
+    "n4": "the moons",
+    "n5": "moon's",
+    "n6": "moons'",
+    "n7": "a moon",
+    "n8": "many moons"
+}

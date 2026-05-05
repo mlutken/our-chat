@@ -1,0 +1,18 @@
+{
+    "base": "license number",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "license number",
+    "n2": "license numbers",
+    "n3": "the license number",
+    "n4": "the license numbers",
+    "n5": "license number's",
+    "n6": "license numbers'",
+    "n7": "a license number",
+    "n8": "many license numbers"
+}

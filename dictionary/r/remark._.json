@@ -1,0 +1,18 @@
+{
+    "base": "remark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "remark",
+    "n2": "remarks",
+    "n3": "the remark",
+    "n4": "the remarks",
+    "n5": "remark's",
+    "n6": "remarks'",
+    "n7": "a remark",
+    "n8": "many remarks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "clerking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clerking",
+    "n2": "clerkings",
+    "n3": "the clerking",
+    "n4": "the clerkings",
+    "n5": "clerking's",
+    "n6": "clerkings'",
+    "n7": "a clerking",
+    "n8": "many clerkings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "spasm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spasm",
+    "n2": "spasms",
+    "n3": "the spasm",
+    "n4": "the spasms",
+    "n5": "spasm's",
+    "n6": "spasms'",
+    "n7": "a spasm",
+    "n8": "many spasms"
+}

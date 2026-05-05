@@ -1,0 +1,18 @@
+{
+    "base": "tourist court",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tourist court",
+    "n2": "tourist courts",
+    "n3": "the tourist court",
+    "n4": "the tourist courts",
+    "n5": "tourist court's",
+    "n6": "tourist courts'",
+    "n7": "a tourist court",
+    "n8": "many tourist courts"
+}

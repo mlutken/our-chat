@@ -7,5 +7,12 @@
     "n2": "models",
     "n3": "the model",
     "n4": "the models",
-    "n5": "model's"
+    "n5": "model's",
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n6": "models'",
+    "n7": "a model",
+    "n8": "many models"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "honolulu",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "honolulu",
+    "n2": "honolulus",
+    "n3": "the honolulu",
+    "n4": "the honolulus",
+    "n5": "honolulu's",
+    "n6": "honolulus'",
+    "n7": "a honolulu",
+    "n8": "many honolulus"
+}

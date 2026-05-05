@@ -7,5 +7,12 @@
     "n2": "ads",
     "n3": "the ad",
     "n4": "the ads",
-    "n5": "ad's"
+    "n5": "ad's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "ads'",
+    "n7": "an ad",
+    "n8": "many ads"
 }

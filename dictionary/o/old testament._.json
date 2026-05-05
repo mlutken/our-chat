@@ -1,0 +1,18 @@
+{
+    "base": "old testament",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "old testament",
+    "n2": "old testaments",
+    "n3": "the old testament",
+    "n4": "the old testaments",
+    "n5": "old testament's",
+    "n6": "old testaments'",
+    "n7": "an old testament",
+    "n8": "many old testaments"
+}

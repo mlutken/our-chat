@@ -1,0 +1,18 @@
+{
+    "base": "chevaux-de-frise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chevaux-de-frise",
+    "n2": "chevaux-de-frises",
+    "n3": "the chevaux-de-frise",
+    "n4": "the chevaux-de-frises",
+    "n5": "chevaux-de-frise's",
+    "n6": "chevaux-de-frises'",
+    "n7": "a chevaux-de-frise",
+    "n8": "many chevaux-de-frises"
+}

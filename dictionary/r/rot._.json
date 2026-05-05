@@ -1,0 +1,18 @@
+{
+    "base": "rot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rot",
+    "n2": "rots",
+    "n3": "the rot",
+    "n4": "the rots",
+    "n5": "rot's",
+    "n6": "rots'",
+    "n7": "a rot",
+    "n8": "many rots"
+}

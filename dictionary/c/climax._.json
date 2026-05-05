@@ -1,0 +1,18 @@
+{
+    "base": "climax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "climax",
+    "n2": "climaxes",
+    "n3": "the climax",
+    "n4": "the climaxes",
+    "n5": "climax's",
+    "n6": "climaxes'",
+    "n7": "a climax",
+    "n8": "many climaxes"
+}

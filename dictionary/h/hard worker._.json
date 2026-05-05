@@ -1,0 +1,18 @@
+{
+    "base": "hard worker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hard worker",
+    "n2": "hard workers",
+    "n3": "the hard worker",
+    "n4": "the hard workers",
+    "n5": "hard worker's",
+    "n6": "hard workers'",
+    "n7": "a hard worker",
+    "n8": "many hard workers"
+}

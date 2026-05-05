@@ -1,0 +1,18 @@
+{
+    "base": "bad hat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bad hat",
+    "n2": "bad hats",
+    "n3": "the bad hat",
+    "n4": "the bad hats",
+    "n5": "bad hat's",
+    "n6": "bad hats'",
+    "n7": "a bad hat",
+    "n8": "many bad hats"
+}

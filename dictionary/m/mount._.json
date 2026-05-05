@@ -1,0 +1,18 @@
+{
+    "base": "mount",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "mount",
+    "n2": "mounts",
+    "n3": "the mount",
+    "n4": "the mounts",
+    "n5": "mount's",
+    "n6": "mounts'",
+    "n7": "a mount",
+    "n8": "many mounts"
+}

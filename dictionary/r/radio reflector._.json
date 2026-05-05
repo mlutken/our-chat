@@ -1,0 +1,18 @@
+{
+    "base": "radio reflector",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "radio reflector",
+    "n2": "radio reflectors",
+    "n3": "the radio reflector",
+    "n4": "the radio reflectors",
+    "n5": "radio reflector's",
+    "n6": "radio reflectors'",
+    "n7": "a radio reflector",
+    "n8": "many radio reflectors"
+}

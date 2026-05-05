@@ -1,0 +1,18 @@
+{
+    "base": "craftsmanship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "craftsmanship",
+    "n2": "craftsmanships",
+    "n3": "the craftsmanship",
+    "n4": "the craftsmanships",
+    "n5": "craftsmanship's",
+    "n6": "craftsmanships'",
+    "n7": "a craftsmanship",
+    "n8": "many craftsmanships"
+}

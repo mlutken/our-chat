@@ -1,0 +1,18 @@
+{
+    "base": "english muffin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "english muffin",
+    "n2": "english muffins",
+    "n3": "the english muffin",
+    "n4": "the english muffins",
+    "n5": "english muffin's",
+    "n6": "english muffins'",
+    "n7": "an english muffin",
+    "n8": "many english muffins"
+}

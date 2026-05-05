@@ -1,0 +1,18 @@
+{
+    "base": "self-destruction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-destruction",
+    "n2": "self-destructions",
+    "n3": "the self-destruction",
+    "n4": "the self-destructions",
+    "n5": "self-destruction's",
+    "n6": "self-destructions'",
+    "n7": "a self-destruction",
+    "n8": "many self-destructions"
+}

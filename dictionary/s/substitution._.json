@@ -1,0 +1,18 @@
+{
+    "base": "substitution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "substitution",
+    "n2": "substitutions",
+    "n3": "the substitution",
+    "n4": "the substitutions",
+    "n5": "substitution's",
+    "n6": "substitutions'",
+    "n7": "a substitution",
+    "n8": "many substitutions"
+}

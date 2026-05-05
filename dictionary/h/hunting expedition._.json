@@ -1,0 +1,18 @@
+{
+    "base": "hunting expedition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hunting expedition",
+    "n2": "hunting expeditions",
+    "n3": "the hunting expedition",
+    "n4": "the hunting expeditions",
+    "n5": "hunting expedition's",
+    "n6": "hunting expeditions'",
+    "n7": "a hunting expedition",
+    "n8": "many hunting expeditions"
+}

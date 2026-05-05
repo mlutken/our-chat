@@ -1,0 +1,18 @@
+{
+    "base": "commiseration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commiseration",
+    "n2": "commiserations",
+    "n3": "the commiseration",
+    "n4": "the commiserations",
+    "n5": "commiseration's",
+    "n6": "commiserations'",
+    "n7": "a commiseration",
+    "n8": "many commiserations"
+}

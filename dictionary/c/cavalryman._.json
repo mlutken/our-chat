@@ -1,0 +1,18 @@
+{
+    "base": "cavalryman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cavalryman",
+    "n2": "cavalrymen",
+    "n3": "the cavalryman",
+    "n4": "the cavalrymen",
+    "n5": "cavalryman's",
+    "n6": "cavalrymen's",
+    "n7": "a cavalryman",
+    "n8": "many cavalrymen"
+}

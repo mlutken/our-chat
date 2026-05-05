@@ -1,0 +1,18 @@
+{
+    "base": "advent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "advent",
+    "n2": "advents",
+    "n3": "the advent",
+    "n4": "the advents",
+    "n5": "advent's",
+    "n6": "advents'",
+    "n7": "an advent",
+    "n8": "many advents"
+}

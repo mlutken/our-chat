@@ -1,0 +1,18 @@
+{
+    "base": "paraphernalia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paraphernalia",
+    "n2": "paraphernalias",
+    "n3": "the paraphernalia",
+    "n4": "the paraphernalias",
+    "n5": "paraphernalia's",
+    "n6": "paraphernalias'",
+    "n7": "a paraphernalia",
+    "n8": "many paraphernalias"
+}

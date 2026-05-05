@@ -1,0 +1,18 @@
+{
+    "base": "informant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "informant",
+    "n2": "informants",
+    "n3": "the informant",
+    "n4": "the informants",
+    "n5": "informant's",
+    "n6": "informants'",
+    "n7": "an informant",
+    "n8": "many informants"
+}

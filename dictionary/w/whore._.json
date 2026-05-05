@@ -1,0 +1,18 @@
+{
+    "base": "whore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "whore",
+    "n2": "whores",
+    "n3": "the whore",
+    "n4": "the whores",
+    "n5": "whore's",
+    "n6": "whores'",
+    "n7": "a whore",
+    "n8": "many whores"
+}

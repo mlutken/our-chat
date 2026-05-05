@@ -1,0 +1,18 @@
+{
+    "base": "laughter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "laughter",
+    "n2": "laughters",
+    "n3": "the laughter",
+    "n4": "the laughters",
+    "n5": "laughter's",
+    "n6": "laughters'",
+    "n7": "a laughter",
+    "n8": "many laughters"
+}

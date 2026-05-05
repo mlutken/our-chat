@@ -7,5 +7,12 @@
     "n2": "atmospheres",
     "n3": "the atmosphere",
     "n4": "the atmospheres",
-    "n5": "atmosphere's"
+    "n5": "atmosphere's",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "atmospheres'",
+    "n7": "an atmosphere",
+    "n8": "many atmospheres"
 }

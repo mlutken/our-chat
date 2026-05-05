@@ -1,0 +1,18 @@
+{
+    "base": "korea",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "korea",
+    "n2": "koreas",
+    "n3": "the korea",
+    "n4": "the koreas",
+    "n5": "korea's",
+    "n6": "koreas'",
+    "n7": "a korea",
+    "n8": "many koreas"
+}

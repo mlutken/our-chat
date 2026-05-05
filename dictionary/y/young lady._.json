@@ -1,0 +1,18 @@
+{
+    "base": "young lady",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "young lady",
+    "n2": "young ladies",
+    "n3": "the young lady",
+    "n4": "the young ladies",
+    "n5": "young lady's",
+    "n6": "young ladies'",
+    "n7": "a young lady",
+    "n8": "many young ladies"
+}

@@ -7,5 +7,12 @@
     "n2": "managements",
     "n3": "the management",
     "n4": "the managements",
-    "n5": "management's"
+    "n5": "management's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "managements'",
+    "n7": "a management",
+    "n8": "many managements"
 }

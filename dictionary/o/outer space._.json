@@ -1,0 +1,18 @@
+{
+    "base": "outer space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outer space",
+    "n2": "outer spaces",
+    "n3": "the outer space",
+    "n4": "the outer spaces",
+    "n5": "outer space's",
+    "n6": "outer spaces'",
+    "n7": "an outer space",
+    "n8": "many outer spaces"
+}

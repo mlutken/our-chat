@@ -1,0 +1,18 @@
+{
+    "base": "chemical formula",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chemical formula",
+    "n2": "chemical formulas",
+    "n3": "the chemical formula",
+    "n4": "the chemical formulas",
+    "n5": "chemical formula's",
+    "n6": "chemical formulas'",
+    "n7": "a chemical formula",
+    "n8": "many chemical formulas"
+}

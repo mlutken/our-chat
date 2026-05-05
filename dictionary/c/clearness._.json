@@ -1,0 +1,18 @@
+{
+    "base": "clearness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "clearness",
+    "n2": "clearnesses",
+    "n3": "the clearness",
+    "n4": "the clearnesses",
+    "n5": "clearness'",
+    "n6": "clearnesses'",
+    "n7": "a clearness",
+    "n8": "many clearnesses"
+}

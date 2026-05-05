@@ -1,0 +1,18 @@
+{
+    "base": "profits",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "profits",
+    "n2": "profitses",
+    "n3": "the profits",
+    "n4": "the profitses",
+    "n5": "profits'",
+    "n6": "profitses'",
+    "n7": "a profits",
+    "n8": "many profitses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "acceptance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "acceptance",
+    "n2": "acceptances",
+    "n3": "the acceptance",
+    "n4": "the acceptances",
+    "n5": "acceptance's",
+    "n6": "acceptances'",
+    "n7": "an acceptance",
+    "n8": "many acceptances"
+}

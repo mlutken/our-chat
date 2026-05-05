@@ -1,0 +1,18 @@
+{
+    "base": "demagogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "demagogue",
+    "n2": "demagogues",
+    "n3": "the demagogue",
+    "n4": "the demagogues",
+    "n5": "demagogue's",
+    "n6": "demagogues'",
+    "n7": "a demagogue",
+    "n8": "many demagogues"
+}

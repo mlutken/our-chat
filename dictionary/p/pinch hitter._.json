@@ -1,0 +1,18 @@
+{
+    "base": "pinch hitter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pinch hitter",
+    "n2": "pinch hitters",
+    "n3": "the pinch hitter",
+    "n4": "the pinch hitters",
+    "n5": "pinch hitter's",
+    "n6": "pinch hitters'",
+    "n7": "a pinch hitter",
+    "n8": "many pinch hitters"
+}

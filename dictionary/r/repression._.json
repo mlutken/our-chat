@@ -1,0 +1,18 @@
+{
+    "base": "repression",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repression",
+    "n2": "repressions",
+    "n3": "the repression",
+    "n4": "the repressions",
+    "n5": "repression's",
+    "n6": "repressions'",
+    "n7": "a repression",
+    "n8": "many repressions"
+}

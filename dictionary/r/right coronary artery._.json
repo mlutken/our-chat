@@ -1,0 +1,18 @@
+{
+    "base": "right coronary artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "right coronary artery",
+    "n2": "right coronary arteries",
+    "n3": "the right coronary artery",
+    "n4": "the right coronary arteries",
+    "n5": "right coronary artery's",
+    "n6": "right coronary arteries'",
+    "n7": "a right coronary artery",
+    "n8": "many right coronary arteries"
+}

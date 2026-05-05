@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "chemistry",
-    "n2": "chemistrys",
+    "n2": "chemistries",
     "n3": "the chemistry",
-    "n4": "the chemistrys",
-    "n5": "chemistry's"
+    "n4": "the chemistries",
+    "n5": "chemistry's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "chemistries'",
+    "n7": "a chemistry",
+    "n8": "many chemistries"
 }

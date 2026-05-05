@@ -1,0 +1,18 @@
+{
+    "base": "good part",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "good part",
+    "n2": "good parts",
+    "n3": "the good part",
+    "n4": "the good parts",
+    "n5": "good part's",
+    "n6": "good parts'",
+    "n7": "a good part",
+    "n8": "many good parts"
+}

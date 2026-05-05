@@ -1,0 +1,18 @@
+{
+    "base": "apogee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "apogee",
+    "n2": "apogees",
+    "n3": "the apogee",
+    "n4": "the apogees",
+    "n5": "apogee's",
+    "n6": "apogees'",
+    "n7": "an apogee",
+    "n8": "many apogees"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hot-water heater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hot-water heater",
+    "n2": "hot-water heaters",
+    "n3": "the hot-water heater",
+    "n4": "the hot-water heaters",
+    "n5": "hot-water heater's",
+    "n6": "hot-water heaters'",
+    "n7": "a hot-water heater",
+    "n8": "many hot-water heaters"
+}

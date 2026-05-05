@@ -1,0 +1,18 @@
+{
+    "base": "murmur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "murmur",
+    "n2": "murmurs",
+    "n3": "the murmur",
+    "n4": "the murmurs",
+    "n5": "murmur's",
+    "n6": "murmurs'",
+    "n7": "a murmur",
+    "n8": "many murmurs"
+}

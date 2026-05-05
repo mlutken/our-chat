@@ -1,0 +1,18 @@
+{
+    "base": "surface tension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "surface tension",
+    "n2": "surface tensions",
+    "n3": "the surface tension",
+    "n4": "the surface tensions",
+    "n5": "surface tension's",
+    "n6": "surface tensions'",
+    "n7": "a surface tension",
+    "n8": "many surface tensions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wrestling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wrestling",
+    "n2": "wrestlings",
+    "n3": "the wrestling",
+    "n4": "the wrestlings",
+    "n5": "wrestling's",
+    "n6": "wrestlings'",
+    "n7": "a wrestling",
+    "n8": "many wrestlings"
+}

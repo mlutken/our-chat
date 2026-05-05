@@ -1,0 +1,18 @@
+{
+    "base": "fairness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fairness",
+    "n2": "fairnesses",
+    "n3": "the fairness",
+    "n4": "the fairnesses",
+    "n5": "fairness'",
+    "n6": "fairnesses'",
+    "n7": "a fairness",
+    "n8": "many fairnesses"
+}

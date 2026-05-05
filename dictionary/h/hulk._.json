@@ -1,0 +1,18 @@
+{
+    "base": "hulk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hulk",
+    "n2": "hulks",
+    "n3": "the hulk",
+    "n4": "the hulks",
+    "n5": "hulk's",
+    "n6": "hulks'",
+    "n7": "a hulk",
+    "n8": "many hulks"
+}

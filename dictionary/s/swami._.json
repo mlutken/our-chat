@@ -1,0 +1,18 @@
+{
+    "base": "swami",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swami",
+    "n2": "swamies",
+    "n3": "the swami",
+    "n4": "the swamies",
+    "n5": "swami's",
+    "n6": "swamies'",
+    "n7": "a swami",
+    "n8": "many swamies"
+}

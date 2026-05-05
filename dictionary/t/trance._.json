@@ -1,0 +1,18 @@
+{
+    "base": "trance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "trance",
+    "n2": "trances",
+    "n3": "the trance",
+    "n4": "the trances",
+    "n5": "trance's",
+    "n6": "trances'",
+    "n7": "a trance",
+    "n8": "many trances"
+}

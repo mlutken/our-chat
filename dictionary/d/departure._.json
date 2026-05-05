@@ -7,5 +7,12 @@
     "n2": "departures",
     "n3": "the departure",
     "n4": "the departures",
-    "n5": "departure's"
+    "n5": "departure's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "departures'",
+    "n7": "a departure",
+    "n8": "many departures"
 }

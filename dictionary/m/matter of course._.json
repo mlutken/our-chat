@@ -1,0 +1,18 @@
+{
+    "base": "matter of course",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "matter of course",
+    "n2": "matter of courses",
+    "n3": "the matter of course",
+    "n4": "the matter of courses",
+    "n5": "matter of course's",
+    "n6": "matter of courses'",
+    "n7": "a matter of course",
+    "n8": "many matter of courses"
+}

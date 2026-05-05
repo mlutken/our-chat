@@ -1,0 +1,18 @@
+{
+    "base": "disintegration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disintegration",
+    "n2": "disintegrations",
+    "n3": "the disintegration",
+    "n4": "the disintegrations",
+    "n5": "disintegration's",
+    "n6": "disintegrations'",
+    "n7": "a disintegration",
+    "n8": "many disintegrations"
+}

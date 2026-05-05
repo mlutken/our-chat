@@ -1,0 +1,18 @@
+{
+    "base": "american",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "american",
+    "n2": "americans",
+    "n3": "the american",
+    "n4": "the americans",
+    "n5": "american's",
+    "n6": "americans'",
+    "n7": "an american",
+    "n8": "many americans"
+}

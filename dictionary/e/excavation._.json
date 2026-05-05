@@ -1,0 +1,18 @@
+{
+    "base": "excavation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "excavation",
+    "n2": "excavations",
+    "n3": "the excavation",
+    "n4": "the excavations",
+    "n5": "excavation's",
+    "n6": "excavations'",
+    "n7": "an excavation",
+    "n8": "many excavations"
+}

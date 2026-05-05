@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "speech",
-    "n2": "speechs",
+    "n2": "speeches",
     "n3": "the speech",
-    "n4": "the speechs",
-    "n5": "speech's"
+    "n4": "the speeches",
+    "n5": "speech's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "speeches'",
+    "n7": "a speech",
+    "n8": "many speeches"
 }

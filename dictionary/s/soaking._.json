@@ -1,0 +1,18 @@
+{
+    "base": "soaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soaking",
+    "n2": "soakings",
+    "n3": "the soaking",
+    "n4": "the soakings",
+    "n5": "soaking's",
+    "n6": "soakings'",
+    "n7": "a soaking",
+    "n8": "many soakings"
+}

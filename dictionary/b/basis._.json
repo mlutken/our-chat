@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "basis",
-    "n2": "basis",
+    "n2": "basises",
     "n3": "the basis",
-    "n4": "the basis",
-    "n5": "basis's"
+    "n4": "the basises",
+    "n5": "basis'",
+    "proper": false,
+    "commonness": 66,
+    "max_commonness": 6834,
+    "commonness_ge_count": 228,
+    "n6": "basises'",
+    "n7": "a basis",
+    "n8": "many basises"
 }

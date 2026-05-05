@@ -1,0 +1,18 @@
+{
+    "base": "orthicon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orthicon",
+    "n2": "orthicons",
+    "n3": "the orthicon",
+    "n4": "the orthicons",
+    "n5": "orthicon's",
+    "n6": "orthicons'",
+    "n7": "an orthicon",
+    "n8": "many orthicons"
+}

@@ -7,5 +7,12 @@
     "n2": "contracts",
     "n3": "the contract",
     "n4": "the contracts",
-    "n5": "contract's"
+    "n5": "contract's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "contracts'",
+    "n7": "a contract",
+    "n8": "many contracts"
 }

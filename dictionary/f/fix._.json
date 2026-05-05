@@ -1,11 +1,24 @@
 {
     "base": "fix",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fix",
     "v2": "fixed",
     "v3": "fixed",
     "v4": "fixing",
-    "v5": "fixes"
+    "v5": "fixes",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fix",
+    "n2": "fixes",
+    "n3": "the fix",
+    "n4": "the fixes",
+    "n5": "fix's",
+    "n6": "fixes'",
+    "n7": "a fix",
+    "n8": "many fixes"
 }

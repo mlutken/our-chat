@@ -1,0 +1,18 @@
+{
+    "base": "crunch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crunch",
+    "n2": "crunches",
+    "n3": "the crunch",
+    "n4": "the crunches",
+    "n5": "crunch's",
+    "n6": "crunches'",
+    "n7": "a crunch",
+    "n8": "many crunches"
+}

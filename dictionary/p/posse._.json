@@ -1,0 +1,18 @@
+{
+    "base": "posse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "posse",
+    "n2": "posses",
+    "n3": "the posse",
+    "n4": "the posses",
+    "n5": "posse's",
+    "n6": "posses'",
+    "n7": "a posse",
+    "n8": "many posses"
+}

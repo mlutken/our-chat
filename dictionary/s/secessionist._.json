@@ -1,0 +1,18 @@
+{
+    "base": "secessionist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "secessionist",
+    "n2": "secessionists",
+    "n3": "the secessionist",
+    "n4": "the secessionists",
+    "n5": "secessionist's",
+    "n6": "secessionists'",
+    "n7": "a secessionist",
+    "n8": "many secessionists"
+}

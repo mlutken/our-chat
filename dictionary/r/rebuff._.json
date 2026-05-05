@@ -1,0 +1,18 @@
+{
+    "base": "rebuff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rebuff",
+    "n2": "rebufves",
+    "n3": "the rebuff",
+    "n4": "the rebufves",
+    "n5": "rebuff's",
+    "n6": "rebufves'",
+    "n7": "a rebuff",
+    "n8": "many rebufves"
+}

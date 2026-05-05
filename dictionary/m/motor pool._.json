@@ -1,0 +1,18 @@
+{
+    "base": "motor pool",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "motor pool",
+    "n2": "motor pools",
+    "n3": "the motor pool",
+    "n4": "the motor pools",
+    "n5": "motor pool's",
+    "n6": "motor pools'",
+    "n7": "a motor pool",
+    "n8": "many motor pools"
+}

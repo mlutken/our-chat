@@ -1,0 +1,18 @@
+{
+    "base": "crisp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crisp",
+    "n2": "crisps",
+    "n3": "the crisp",
+    "n4": "the crisps",
+    "n5": "crisp's",
+    "n6": "crisps'",
+    "n7": "a crisp",
+    "n8": "many crisps"
+}

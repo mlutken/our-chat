@@ -1,0 +1,18 @@
+{
+    "base": "gelding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gelding",
+    "n2": "geldings",
+    "n3": "the gelding",
+    "n4": "the geldings",
+    "n5": "gelding's",
+    "n6": "geldings'",
+    "n7": "a gelding",
+    "n8": "many geldings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "teakwood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "teakwood",
+    "n2": "teakwoods",
+    "n3": "the teakwood",
+    "n4": "the teakwoods",
+    "n5": "teakwood's",
+    "n6": "teakwoods'",
+    "n7": "a teakwood",
+    "n8": "many teakwoods"
+}

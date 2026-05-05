@@ -1,0 +1,18 @@
+{
+    "base": "micelle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "micelle",
+    "n2": "micelles",
+    "n3": "the micelle",
+    "n4": "the micelles",
+    "n5": "micelle's",
+    "n6": "micelles'",
+    "n7": "a micelle",
+    "n8": "many micelles"
+}

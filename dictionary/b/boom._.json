@@ -1,0 +1,18 @@
+{
+    "base": "boom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "boom",
+    "n2": "booms",
+    "n3": "the boom",
+    "n4": "the booms",
+    "n5": "boom's",
+    "n6": "booms'",
+    "n7": "a boom",
+    "n8": "many booms"
+}

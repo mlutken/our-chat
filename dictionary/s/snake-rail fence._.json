@@ -1,0 +1,18 @@
+{
+    "base": "snake-rail fence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snake-rail fence",
+    "n2": "snake-rail fences",
+    "n3": "the snake-rail fence",
+    "n4": "the snake-rail fences",
+    "n5": "snake-rail fence's",
+    "n6": "snake-rail fences'",
+    "n7": "a snake-rail fence",
+    "n8": "many snake-rail fences"
+}

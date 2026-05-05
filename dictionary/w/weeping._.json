@@ -1,0 +1,18 @@
+{
+    "base": "weeping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weeping",
+    "n2": "weepings",
+    "n3": "the weeping",
+    "n4": "the weepings",
+    "n5": "weeping's",
+    "n6": "weepings'",
+    "n7": "a weeping",
+    "n8": "many weepings"
+}

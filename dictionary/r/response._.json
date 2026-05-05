@@ -7,5 +7,12 @@
     "n2": "responses",
     "n3": "the response",
     "n4": "the responses",
-    "n5": "response's"
+    "n5": "response's",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "responses'",
+    "n7": "a response",
+    "n8": "many responses"
 }

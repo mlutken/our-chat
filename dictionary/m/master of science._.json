@@ -1,0 +1,18 @@
+{
+    "base": "master of science",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "master of science",
+    "n2": "master of sciences",
+    "n3": "the master of science",
+    "n4": "the master of sciences",
+    "n5": "master of science's",
+    "n6": "master of sciences'",
+    "n7": "a master of science",
+    "n8": "many master of sciences"
+}

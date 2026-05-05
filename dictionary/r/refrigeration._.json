@@ -1,0 +1,18 @@
+{
+    "base": "refrigeration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "refrigeration",
+    "n2": "refrigerations",
+    "n3": "the refrigeration",
+    "n4": "the refrigerations",
+    "n5": "refrigeration's",
+    "n6": "refrigerations'",
+    "n7": "a refrigeration",
+    "n8": "many refrigerations"
+}

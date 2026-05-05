@@ -1,0 +1,18 @@
+{
+    "base": "happiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "happiness",
+    "n2": "happinesses",
+    "n3": "the happiness",
+    "n4": "the happinesses",
+    "n5": "happiness'",
+    "n6": "happinesses'",
+    "n7": "a happiness",
+    "n8": "many happinesses"
+}

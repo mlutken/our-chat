@@ -1,0 +1,18 @@
+{
+    "base": "protagonist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "protagonist",
+    "n2": "protagonists",
+    "n3": "the protagonist",
+    "n4": "the protagonists",
+    "n5": "protagonist's",
+    "n6": "protagonists'",
+    "n7": "a protagonist",
+    "n8": "many protagonists"
+}

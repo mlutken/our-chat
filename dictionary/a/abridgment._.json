@@ -1,0 +1,18 @@
+{
+    "base": "abridgment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abridgment",
+    "n2": "abridgments",
+    "n3": "the abridgment",
+    "n4": "the abridgments",
+    "n5": "abridgment's",
+    "n6": "abridgments'",
+    "n7": "an abridgment",
+    "n8": "many abridgments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "resilience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "resilience",
+    "n2": "resiliences",
+    "n3": "the resilience",
+    "n4": "the resiliences",
+    "n5": "resilience's",
+    "n6": "resiliences'",
+    "n7": "a resilience",
+    "n8": "many resiliences"
+}

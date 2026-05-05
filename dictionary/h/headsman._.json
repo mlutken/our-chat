@@ -1,0 +1,18 @@
+{
+    "base": "headsman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "headsman",
+    "n2": "headsmen",
+    "n3": "the headsman",
+    "n4": "the headsmen",
+    "n5": "headsman's",
+    "n6": "headsmen's",
+    "n7": "a headsman",
+    "n8": "many headsmen"
+}

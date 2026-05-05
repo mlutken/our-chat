@@ -1,0 +1,18 @@
+{
+    "base": "exigency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exigency",
+    "n2": "exigencies",
+    "n3": "the exigency",
+    "n4": "the exigencies",
+    "n5": "exigency's",
+    "n6": "exigencies'",
+    "n7": "an exigency",
+    "n8": "many exigencies"
+}

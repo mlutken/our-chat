@@ -1,11 +1,24 @@
 {
     "base": "permit",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "permit",
     "v2": "permitted",
     "v3": "permitted",
     "v4": "permitting",
-    "v5": "permits"
+    "v5": "permits",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "permit",
+    "n2": "permits",
+    "n3": "the permit",
+    "n4": "the permits",
+    "n5": "permit's",
+    "n6": "permits'",
+    "n7": "a permit",
+    "n8": "many permits"
 }

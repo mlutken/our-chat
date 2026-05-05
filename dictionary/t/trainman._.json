@@ -1,0 +1,18 @@
+{
+    "base": "trainman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trainman",
+    "n2": "trainmen",
+    "n3": "the trainman",
+    "n4": "the trainmen",
+    "n5": "trainman's",
+    "n6": "trainmen's",
+    "n7": "a trainman",
+    "n8": "many trainmen"
+}

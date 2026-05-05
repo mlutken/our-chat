@@ -1,0 +1,18 @@
+{
+    "base": "l",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "l",
+    "n2": "ls",
+    "n3": "the l",
+    "n4": "the ls",
+    "n5": "l's",
+    "n6": "ls'",
+    "n7": "a l",
+    "n8": "many ls"
+}

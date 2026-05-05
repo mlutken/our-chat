@@ -1,0 +1,18 @@
+{
+    "base": "nov",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "nov",
+    "n2": "novs",
+    "n3": "the nov",
+    "n4": "the novs",
+    "n5": "nov's",
+    "n6": "novs'",
+    "n7": "a nov",
+    "n8": "many novs"
+}

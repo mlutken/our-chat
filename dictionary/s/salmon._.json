@@ -7,5 +7,12 @@
     "n2": "salmons",
     "n3": "the salmon",
     "n4": "the salmons",
-    "n5": "salmon's"
+    "n5": "salmon's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "salmons'",
+    "n7": "a salmon",
+    "n8": "many salmons"
 }

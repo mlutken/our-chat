@@ -1,0 +1,18 @@
+{
+    "base": "monochrome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monochrome",
+    "n2": "monochromes",
+    "n3": "the monochrome",
+    "n4": "the monochromes",
+    "n5": "monochrome's",
+    "n6": "monochromes'",
+    "n7": "a monochrome",
+    "n8": "many monochromes"
+}

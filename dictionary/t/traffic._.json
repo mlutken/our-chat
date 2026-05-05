@@ -7,5 +7,12 @@
     "n2": "traffics",
     "n3": "the traffic",
     "n4": "the traffics",
-    "n5": "traffic's"
+    "n5": "traffic's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "traffics'",
+    "n7": "a traffic",
+    "n8": "many traffics"
 }

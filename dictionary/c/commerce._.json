@@ -7,5 +7,12 @@
     "n2": "commerces",
     "n3": "the commerce",
     "n4": "the commerces",
-    "n5": "commerce's"
+    "n5": "commerce's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "commerces'",
+    "n7": "a commerce",
+    "n8": "many commerces"
 }

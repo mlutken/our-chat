@@ -1,0 +1,18 @@
+{
+    "base": "scoop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scoop",
+    "n2": "scoops",
+    "n3": "the scoop",
+    "n4": "the scoops",
+    "n5": "scoop's",
+    "n6": "scoops'",
+    "n7": "a scoop",
+    "n8": "many scoops"
+}

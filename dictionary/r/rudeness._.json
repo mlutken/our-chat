@@ -1,0 +1,18 @@
+{
+    "base": "rudeness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rudeness",
+    "n2": "rudenesses",
+    "n3": "the rudeness",
+    "n4": "the rudenesses",
+    "n5": "rudeness'",
+    "n6": "rudenesses'",
+    "n7": "a rudeness",
+    "n8": "many rudenesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "penutian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "penutian",
+    "n2": "penutians",
+    "n3": "the penutian",
+    "n4": "the penutians",
+    "n5": "penutian's",
+    "n6": "penutians'",
+    "n7": "a penutian",
+    "n8": "many penutians"
+}

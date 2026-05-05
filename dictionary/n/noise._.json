@@ -1,0 +1,18 @@
+{
+    "base": "noise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n1": "noise",
+    "n2": "noises",
+    "n3": "the noise",
+    "n4": "the noises",
+    "n5": "noise's",
+    "n6": "noises'",
+    "n7": "a noise",
+    "n8": "many noises"
+}

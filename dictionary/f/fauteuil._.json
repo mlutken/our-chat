@@ -1,0 +1,18 @@
+{
+    "base": "fauteuil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fauteuil",
+    "n2": "fauteuils",
+    "n3": "the fauteuil",
+    "n4": "the fauteuils",
+    "n5": "fauteuil's",
+    "n6": "fauteuils'",
+    "n7": "a fauteuil",
+    "n8": "many fauteuils"
+}

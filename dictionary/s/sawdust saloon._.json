@@ -1,0 +1,18 @@
+{
+    "base": "sawdust saloon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sawdust saloon",
+    "n2": "sawdust saloons",
+    "n3": "the sawdust saloon",
+    "n4": "the sawdust saloons",
+    "n5": "sawdust saloon's",
+    "n6": "sawdust saloons'",
+    "n7": "a sawdust saloon",
+    "n8": "many sawdust saloons"
+}

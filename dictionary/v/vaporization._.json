@@ -1,0 +1,18 @@
+{
+    "base": "vaporization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vaporization",
+    "n2": "vaporizations",
+    "n3": "the vaporization",
+    "n4": "the vaporizations",
+    "n5": "vaporization's",
+    "n6": "vaporizations'",
+    "n7": "a vaporization",
+    "n8": "many vaporizations"
+}

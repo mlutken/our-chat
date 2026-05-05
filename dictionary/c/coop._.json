@@ -1,0 +1,18 @@
+{
+    "base": "coop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coop",
+    "n2": "coops",
+    "n3": "the coop",
+    "n4": "the coops",
+    "n5": "coop's",
+    "n6": "coops'",
+    "n7": "a coop",
+    "n8": "many coops"
+}

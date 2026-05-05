@@ -7,5 +7,12 @@
     "n2": "regions",
     "n3": "the region",
     "n4": "the regions",
-    "n5": "region's"
+    "n5": "region's",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n6": "regions'",
+    "n7": "a region",
+    "n8": "many regions"
 }

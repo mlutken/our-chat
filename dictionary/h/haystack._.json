@@ -1,0 +1,18 @@
+{
+    "base": "haystack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "haystack",
+    "n2": "haystacks",
+    "n3": "the haystack",
+    "n4": "the haystacks",
+    "n5": "haystack's",
+    "n6": "haystacks'",
+    "n7": "a haystack",
+    "n8": "many haystacks"
+}

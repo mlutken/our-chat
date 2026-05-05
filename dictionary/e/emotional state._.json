@@ -1,0 +1,18 @@
+{
+    "base": "emotional state",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "emotional state",
+    "n2": "emotional states",
+    "n3": "the emotional state",
+    "n4": "the emotional states",
+    "n5": "emotional state's",
+    "n6": "emotional states'",
+    "n7": "an emotional state",
+    "n8": "many emotional states"
+}

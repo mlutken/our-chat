@@ -1,0 +1,18 @@
+{
+    "base": "chimney",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "chimney",
+    "n2": "chimneys",
+    "n3": "the chimney",
+    "n4": "the chimneys",
+    "n5": "chimney's",
+    "n6": "chimneys'",
+    "n7": "a chimney",
+    "n8": "many chimneys"
+}

@@ -1,11 +1,24 @@
 {
     "base": "mark",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "mark",
     "v2": "marked",
     "v3": "marked",
     "v4": "marking",
-    "v5": "marks"
+    "v5": "marks",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "mark",
+    "n2": "marks",
+    "n3": "the mark",
+    "n4": "the marks",
+    "n5": "mark's",
+    "n6": "marks'",
+    "n7": "a mark",
+    "n8": "many marks"
 }

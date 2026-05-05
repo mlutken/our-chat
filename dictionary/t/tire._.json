@@ -1,11 +1,24 @@
 {
     "base": "tire",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tire",
     "v2": "tired",
     "v3": "tired",
     "v4": "tiring",
-    "v5": "tires"
+    "v5": "tires",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "tire",
+    "n2": "tires",
+    "n3": "the tire",
+    "n4": "the tires",
+    "n5": "tire's",
+    "n6": "tires'",
+    "n7": "a tire",
+    "n8": "many tires"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "raft",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "raft",
+    "n2": "rafts",
+    "n3": "the raft",
+    "n4": "the rafts",
+    "n5": "raft's",
+    "n6": "rafts'",
+    "n7": "a raft",
+    "n8": "many rafts"
+}

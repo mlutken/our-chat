@@ -1,0 +1,18 @@
+{
+    "base": "divine",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "divine",
+    "n2": "divines",
+    "n3": "the divine",
+    "n4": "the divines",
+    "n5": "divine's",
+    "n6": "divines'",
+    "n7": "a divine",
+    "n8": "many divines"
+}

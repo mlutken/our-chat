@@ -1,0 +1,18 @@
+{
+    "base": "sleeping pill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sleeping pill",
+    "n2": "sleeping pills",
+    "n3": "the sleeping pill",
+    "n4": "the sleeping pills",
+    "n5": "sleeping pill's",
+    "n6": "sleeping pills'",
+    "n7": "a sleeping pill",
+    "n8": "many sleeping pills"
+}

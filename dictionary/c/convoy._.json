@@ -1,0 +1,18 @@
+{
+    "base": "convoy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "convoy",
+    "n2": "convoys",
+    "n3": "the convoy",
+    "n4": "the convoys",
+    "n5": "convoy's",
+    "n6": "convoys'",
+    "n7": "a convoy",
+    "n8": "many convoys"
+}

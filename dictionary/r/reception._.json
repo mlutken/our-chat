@@ -7,5 +7,12 @@
     "n2": "receptions",
     "n3": "the reception",
     "n4": "the receptions",
-    "n5": "reception's"
+    "n5": "reception's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "receptions'",
+    "n7": "a reception",
+    "n8": "many receptions"
 }

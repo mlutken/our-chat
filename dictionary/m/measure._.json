@@ -1,11 +1,24 @@
 {
     "base": "measure",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "measure",
     "v2": "measured",
     "v3": "measured",
     "v4": "measuring",
-    "v5": "measures"
+    "v5": "measures",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "measure",
+    "n2": "measures",
+    "n3": "the measure",
+    "n4": "the measures",
+    "n5": "measure's",
+    "n6": "measures'",
+    "n7": "a measure",
+    "n8": "many measures"
 }

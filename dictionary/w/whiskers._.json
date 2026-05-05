@@ -1,0 +1,18 @@
+{
+    "base": "whiskers",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whiskers",
+    "n2": "whiskerses",
+    "n3": "the whiskers",
+    "n4": "the whiskerses",
+    "n5": "whiskers'",
+    "n6": "whiskerses'",
+    "n7": "a whiskers",
+    "n8": "many whiskerses"
+}

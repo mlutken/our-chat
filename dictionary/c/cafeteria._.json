@@ -1,0 +1,18 @@
+{
+    "base": "cafeteria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "cafeteria",
+    "n2": "cafeterias",
+    "n3": "the cafeteria",
+    "n4": "the cafeterias",
+    "n5": "cafeteria's",
+    "n6": "cafeterias'",
+    "n7": "a cafeteria",
+    "n8": "many cafeterias"
+}

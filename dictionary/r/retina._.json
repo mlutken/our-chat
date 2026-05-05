@@ -1,0 +1,18 @@
+{
+    "base": "retina",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retina",
+    "n2": "retinae",
+    "n3": "the retina",
+    "n4": "the retinae",
+    "n5": "retina's",
+    "n6": "retinae's",
+    "n7": "a retina",
+    "n8": "many retinae"
+}

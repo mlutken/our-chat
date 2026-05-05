@@ -1,0 +1,18 @@
+{
+    "base": "idleness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "idleness",
+    "n2": "idlenesses",
+    "n3": "the idleness",
+    "n4": "the idlenesses",
+    "n5": "idleness'",
+    "n6": "idlenesses'",
+    "n7": "an idleness",
+    "n8": "many idlenesses"
+}

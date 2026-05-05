@@ -1,0 +1,18 @@
+{
+    "base": "dialogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "dialogue",
+    "n2": "dialogues",
+    "n3": "the dialogue",
+    "n4": "the dialogues",
+    "n5": "dialogue's",
+    "n6": "dialogues'",
+    "n7": "a dialogue",
+    "n8": "many dialogues"
+}

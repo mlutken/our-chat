@@ -1,0 +1,18 @@
+{
+    "base": "provincialism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "provincialism",
+    "n2": "provincialisms",
+    "n3": "the provincialism",
+    "n4": "the provincialisms",
+    "n5": "provincialism's",
+    "n6": "provincialisms'",
+    "n7": "a provincialism",
+    "n8": "many provincialisms"
+}

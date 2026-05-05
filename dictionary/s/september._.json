@@ -1,0 +1,18 @@
+{
+    "base": "september",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "september",
+    "n2": "septembers",
+    "n3": "the september",
+    "n4": "the septembers",
+    "n5": "september's",
+    "n6": "septembers'",
+    "n7": "a september",
+    "n8": "many septembers"
+}

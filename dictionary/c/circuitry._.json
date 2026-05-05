@@ -1,0 +1,18 @@
+{
+    "base": "circuitry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "circuitry",
+    "n2": "circuitries",
+    "n3": "the circuitry",
+    "n4": "the circuitries",
+    "n5": "circuitry's",
+    "n6": "circuitries'",
+    "n7": "a circuitry",
+    "n8": "many circuitries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "clothesline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clothesline",
+    "n2": "clotheslines",
+    "n3": "the clothesline",
+    "n4": "the clotheslines",
+    "n5": "clothesline's",
+    "n6": "clotheslines'",
+    "n7": "a clothesline",
+    "n8": "many clotheslines"
+}

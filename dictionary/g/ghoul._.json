@@ -1,0 +1,18 @@
+{
+    "base": "ghoul",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "ghoul",
+    "n2": "ghouls",
+    "n3": "the ghoul",
+    "n4": "the ghouls",
+    "n5": "ghoul's",
+    "n6": "ghouls'",
+    "n7": "a ghoul",
+    "n8": "many ghouls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "commoner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commoner",
+    "n2": "commoners",
+    "n3": "the commoner",
+    "n4": "the commoners",
+    "n5": "commoner's",
+    "n6": "commoners'",
+    "n7": "a commoner",
+    "n8": "many commoners"
+}

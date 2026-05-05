@@ -1,0 +1,18 @@
+{
+    "base": "twenty-two rifle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "twenty-two rifle",
+    "n2": "twenty-two rifles",
+    "n3": "the twenty-two rifle",
+    "n4": "the twenty-two rifles",
+    "n5": "twenty-two rifle's",
+    "n6": "twenty-two rifles'",
+    "n7": "a twenty-two rifle",
+    "n8": "many twenty-two rifles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "conestoga wagon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conestoga wagon",
+    "n2": "conestoga wagons",
+    "n3": "the conestoga wagon",
+    "n4": "the conestoga wagons",
+    "n5": "conestoga wagon's",
+    "n6": "conestoga wagons'",
+    "n7": "a conestoga wagon",
+    "n8": "many conestoga wagons"
+}

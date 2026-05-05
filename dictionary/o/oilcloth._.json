@@ -1,0 +1,18 @@
+{
+    "base": "oilcloth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oilcloth",
+    "n2": "oilcloths",
+    "n3": "the oilcloth",
+    "n4": "the oilcloths",
+    "n5": "oilcloth's",
+    "n6": "oilcloths'",
+    "n7": "an oilcloth",
+    "n8": "many oilcloths"
+}

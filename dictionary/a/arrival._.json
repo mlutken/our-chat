@@ -7,5 +7,12 @@
     "n2": "arrivals",
     "n3": "the arrival",
     "n4": "the arrivals",
-    "n5": "arrival's"
+    "n5": "arrival's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "arrivals'",
+    "n7": "an arrival",
+    "n8": "many arrivals"
 }

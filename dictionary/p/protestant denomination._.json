@@ -1,0 +1,18 @@
+{
+    "base": "protestant denomination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "protestant denomination",
+    "n2": "protestant denominations",
+    "n3": "the protestant denomination",
+    "n4": "the protestant denominations",
+    "n5": "protestant denomination's",
+    "n6": "protestant denominations'",
+    "n7": "a protestant denomination",
+    "n8": "many protestant denominations"
+}

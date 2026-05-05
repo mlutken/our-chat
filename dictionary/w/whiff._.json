@@ -1,0 +1,18 @@
+{
+    "base": "whiff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whiff",
+    "n2": "whifves",
+    "n3": "the whiff",
+    "n4": "the whifves",
+    "n5": "whiff's",
+    "n6": "whifves'",
+    "n7": "a whiff",
+    "n8": "many whifves"
+}

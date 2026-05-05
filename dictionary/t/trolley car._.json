@@ -1,0 +1,18 @@
+{
+    "base": "trolley car",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trolley car",
+    "n2": "trolley cars",
+    "n3": "the trolley car",
+    "n4": "the trolley cars",
+    "n5": "trolley car's",
+    "n6": "trolley cars'",
+    "n7": "a trolley car",
+    "n8": "many trolley cars"
+}

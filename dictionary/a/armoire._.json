@@ -1,0 +1,18 @@
+{
+    "base": "armoire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "armoire",
+    "n2": "armoires",
+    "n3": "the armoire",
+    "n4": "the armoires",
+    "n5": "armoire's",
+    "n6": "armoires'",
+    "n7": "an armoire",
+    "n8": "many armoires"
+}

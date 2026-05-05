@@ -1,11 +1,24 @@
 {
     "base": "cut",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cut",
     "v2": "cut",
     "v3": "cut",
     "v4": "cutting",
-    "v5": "cuts"
+    "v5": "cuts",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cut",
+    "n2": "cuts",
+    "n3": "the cut",
+    "n4": "the cuts",
+    "n5": "cut's",
+    "n6": "cuts'",
+    "n7": "a cut",
+    "n8": "many cuts"
 }

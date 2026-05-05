@@ -1,0 +1,18 @@
+{
+    "base": "title-holder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "title-holder",
+    "n2": "title-holders",
+    "n3": "the title-holder",
+    "n4": "the title-holders",
+    "n5": "title-holder's",
+    "n6": "title-holders'",
+    "n7": "a title-holder",
+    "n8": "many title-holders"
+}

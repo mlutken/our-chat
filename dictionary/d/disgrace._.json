@@ -1,0 +1,18 @@
+{
+    "base": "disgrace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disgrace",
+    "n2": "disgraces",
+    "n3": "the disgrace",
+    "n4": "the disgraces",
+    "n5": "disgrace's",
+    "n6": "disgraces'",
+    "n7": "a disgrace",
+    "n8": "many disgraces"
+}

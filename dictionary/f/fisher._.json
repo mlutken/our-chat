@@ -1,0 +1,18 @@
+{
+    "base": "fisher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fisher",
+    "n2": "fishers",
+    "n3": "the fisher",
+    "n4": "the fishers",
+    "n5": "fisher's",
+    "n6": "fishers'",
+    "n7": "a fisher",
+    "n8": "many fishers"
+}

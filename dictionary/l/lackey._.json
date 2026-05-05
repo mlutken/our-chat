@@ -1,0 +1,18 @@
+{
+    "base": "lackey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lackey",
+    "n2": "lackeys",
+    "n3": "the lackey",
+    "n4": "the lackeys",
+    "n5": "lackey's",
+    "n6": "lackeys'",
+    "n7": "a lackey",
+    "n8": "many lackeys"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "harlem",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "harlem",
+    "n2": "harlems",
+    "n3": "the harlem",
+    "n4": "the harlems",
+    "n5": "harlem's",
+    "n6": "harlems'",
+    "n7": "a harlem",
+    "n8": "many harlems"
+}

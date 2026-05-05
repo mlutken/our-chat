@@ -1,0 +1,18 @@
+{
+    "base": "thriller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thriller",
+    "n2": "thrillers",
+    "n3": "the thriller",
+    "n4": "the thrillers",
+    "n5": "thriller's",
+    "n6": "thrillers'",
+    "n7": "a thriller",
+    "n8": "many thrillers"
+}

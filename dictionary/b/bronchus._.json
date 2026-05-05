@@ -1,0 +1,18 @@
+{
+    "base": "bronchus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "bronchus",
+    "n2": "bronchi",
+    "n3": "the bronchus",
+    "n4": "the bronchi",
+    "n5": "bronchus'",
+    "n6": "bronchi's",
+    "n7": "a bronchus",
+    "n8": "many bronchi"
+}

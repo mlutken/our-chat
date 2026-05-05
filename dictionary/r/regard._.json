@@ -1,11 +1,24 @@
 {
     "base": "regard",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "regard",
     "v2": "regarded",
     "v3": "regarded",
     "v4": "regarding",
-    "v5": "regards"
+    "v5": "regards",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "regard",
+    "n2": "regards",
+    "n3": "the regard",
+    "n4": "the regards",
+    "n5": "regard's",
+    "n6": "regards'",
+    "n7": "a regard",
+    "n8": "many regards"
 }

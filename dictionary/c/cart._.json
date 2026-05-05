@@ -1,0 +1,18 @@
+{
+    "base": "cart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "cart",
+    "n2": "carts",
+    "n3": "the cart",
+    "n4": "the carts",
+    "n5": "cart's",
+    "n6": "carts'",
+    "n7": "a cart",
+    "n8": "many carts"
+}

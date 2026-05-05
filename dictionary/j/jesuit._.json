@@ -1,0 +1,18 @@
+{
+    "base": "jesuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jesuit",
+    "n2": "jesuits",
+    "n3": "the jesuit",
+    "n4": "the jesuits",
+    "n5": "jesuit's",
+    "n6": "jesuits'",
+    "n7": "a jesuit",
+    "n8": "many jesuits"
+}

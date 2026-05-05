@@ -1,0 +1,18 @@
+{
+    "base": "combat mission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "combat mission",
+    "n2": "combat missions",
+    "n3": "the combat mission",
+    "n4": "the combat missions",
+    "n5": "combat mission's",
+    "n6": "combat missions'",
+    "n7": "a combat mission",
+    "n8": "many combat missions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "charnel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "charnel",
+    "n2": "charnels",
+    "n3": "the charnel",
+    "n4": "the charnels",
+    "n5": "charnel's",
+    "n6": "charnels'",
+    "n7": "a charnel",
+    "n8": "many charnels"
+}

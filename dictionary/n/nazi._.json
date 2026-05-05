@@ -1,0 +1,18 @@
+{
+    "base": "nazi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "nazi",
+    "n2": "nazis",
+    "n3": "the nazi",
+    "n4": "the nazis",
+    "n5": "nazi's",
+    "n6": "nazis'",
+    "n7": "a nazi",
+    "n8": "many nazis"
+}

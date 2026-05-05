@@ -1,0 +1,18 @@
+{
+    "base": "crony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crony",
+    "n2": "cronies",
+    "n3": "the crony",
+    "n4": "the cronies",
+    "n5": "crony's",
+    "n6": "cronies'",
+    "n7": "a crony",
+    "n8": "many cronies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "earthman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "earthman",
+    "n2": "earthmen",
+    "n3": "the earthman",
+    "n4": "the earthmen",
+    "n5": "earthman's",
+    "n6": "earthmen's",
+    "n7": "an earthman",
+    "n8": "many earthmen"
+}

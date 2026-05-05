@@ -1,0 +1,18 @@
+{
+    "base": "pang",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pang",
+    "n2": "pangs",
+    "n3": "the pang",
+    "n4": "the pangs",
+    "n5": "pang's",
+    "n6": "pangs'",
+    "n7": "a pang",
+    "n8": "many pangs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "due",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "due",
+    "n2": "dues",
+    "n3": "the due",
+    "n4": "the dues",
+    "n5": "due's",
+    "n6": "dues'",
+    "n7": "a due",
+    "n8": "many dues"
+}

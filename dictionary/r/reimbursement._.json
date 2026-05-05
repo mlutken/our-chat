@@ -1,0 +1,18 @@
+{
+    "base": "reimbursement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reimbursement",
+    "n2": "reimbursements",
+    "n3": "the reimbursement",
+    "n4": "the reimbursements",
+    "n5": "reimbursement's",
+    "n6": "reimbursements'",
+    "n7": "a reimbursement",
+    "n8": "many reimbursements"
+}

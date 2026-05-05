@@ -1,0 +1,18 @@
+{
+    "base": "torture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "torture",
+    "n2": "tortures",
+    "n3": "the torture",
+    "n4": "the tortures",
+    "n5": "torture's",
+    "n6": "tortures'",
+    "n7": "a torture",
+    "n8": "many tortures"
+}

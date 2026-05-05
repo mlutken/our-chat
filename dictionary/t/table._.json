@@ -7,5 +7,12 @@
     "n2": "tables",
     "n3": "the table",
     "n4": "the tables",
-    "n5": "table's"
+    "n5": "table's",
+    "proper": false,
+    "commonness": 82,
+    "max_commonness": 6834,
+    "commonness_ge_count": 158,
+    "n6": "tables'",
+    "n7": "a table",
+    "n8": "many tables"
 }

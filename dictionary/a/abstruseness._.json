@@ -1,0 +1,18 @@
+{
+    "base": "abstruseness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abstruseness",
+    "n2": "abstrusenesses",
+    "n3": "the abstruseness",
+    "n4": "the abstrusenesses",
+    "n5": "abstruseness'",
+    "n6": "abstrusenesses'",
+    "n7": "an abstruseness",
+    "n8": "many abstrusenesses"
+}

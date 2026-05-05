@@ -1,0 +1,18 @@
+{
+    "base": "grandparent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grandparent",
+    "n2": "grandparents",
+    "n3": "the grandparent",
+    "n4": "the grandparents",
+    "n5": "grandparent's",
+    "n6": "grandparents'",
+    "n7": "a grandparent",
+    "n8": "many grandparents"
+}

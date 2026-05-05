@@ -1,0 +1,18 @@
+{
+    "base": "caribbean island",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caribbean island",
+    "n2": "caribbean islands",
+    "n3": "the caribbean island",
+    "n4": "the caribbean islands",
+    "n5": "caribbean island's",
+    "n6": "caribbean islands'",
+    "n7": "a caribbean island",
+    "n8": "many caribbean islands"
+}

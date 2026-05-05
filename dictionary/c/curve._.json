@@ -1,11 +1,24 @@
 {
     "base": "curve",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "curve",
     "v2": "curved",
     "v3": "curved",
     "v4": "curving",
-    "v5": "curves"
+    "v5": "curves",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "curve",
+    "n2": "curves",
+    "n3": "the curve",
+    "n4": "the curves",
+    "n5": "curve's",
+    "n6": "curves'",
+    "n7": "a curve",
+    "n8": "many curves"
 }

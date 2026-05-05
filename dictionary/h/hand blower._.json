@@ -1,0 +1,18 @@
+{
+    "base": "hand blower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hand blower",
+    "n2": "hand blowers",
+    "n3": "the hand blower",
+    "n4": "the hand blowers",
+    "n5": "hand blower's",
+    "n6": "hand blowers'",
+    "n7": "a hand blower",
+    "n8": "many hand blowers"
+}

@@ -7,5 +7,12 @@
     "n2": "animals",
     "n3": "the animal",
     "n4": "the animals",
-    "n5": "animal's"
+    "n5": "animal's",
+    "proper": false,
+    "commonness": 67,
+    "max_commonness": 6834,
+    "commonness_ge_count": 224,
+    "n6": "animals'",
+    "n7": "an animal",
+    "n8": "many animals"
 }

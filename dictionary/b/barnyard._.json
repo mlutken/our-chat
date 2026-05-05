@@ -1,0 +1,18 @@
+{
+    "base": "barnyard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "barnyard",
+    "n2": "barnyards",
+    "n3": "the barnyard",
+    "n4": "the barnyards",
+    "n5": "barnyard's",
+    "n6": "barnyards'",
+    "n7": "a barnyard",
+    "n8": "many barnyards"
+}

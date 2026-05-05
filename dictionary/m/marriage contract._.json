@@ -1,0 +1,18 @@
+{
+    "base": "marriage contract",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "marriage contract",
+    "n2": "marriage contracts",
+    "n3": "the marriage contract",
+    "n4": "the marriage contracts",
+    "n5": "marriage contract's",
+    "n6": "marriage contracts'",
+    "n7": "a marriage contract",
+    "n8": "many marriage contracts"
+}

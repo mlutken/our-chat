@@ -1,0 +1,18 @@
+{
+    "base": "spectrophotometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spectrophotometer",
+    "n2": "spectrophotometers",
+    "n3": "the spectrophotometer",
+    "n4": "the spectrophotometers",
+    "n5": "spectrophotometer's",
+    "n6": "spectrophotometers'",
+    "n7": "a spectrophotometer",
+    "n8": "many spectrophotometers"
+}

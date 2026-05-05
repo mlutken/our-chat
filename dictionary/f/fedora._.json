@@ -1,0 +1,18 @@
+{
+    "base": "fedora",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fedora",
+    "n2": "fedoras",
+    "n3": "the fedora",
+    "n4": "the fedoras",
+    "n5": "fedora's",
+    "n6": "fedoras'",
+    "n7": "a fedora",
+    "n8": "many fedoras"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "distension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "distension",
+    "n2": "distensions",
+    "n3": "the distension",
+    "n4": "the distensions",
+    "n5": "distension's",
+    "n6": "distensions'",
+    "n7": "a distension",
+    "n8": "many distensions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "janitor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "janitor",
+    "n2": "janitors",
+    "n3": "the janitor",
+    "n4": "the janitors",
+    "n5": "janitor's",
+    "n6": "janitors'",
+    "n7": "a janitor",
+    "n8": "many janitors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "midst",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "midst",
+    "n2": "midsts",
+    "n3": "the midst",
+    "n4": "the midsts",
+    "n5": "midst's",
+    "n6": "midsts'",
+    "n7": "a midst",
+    "n8": "many midsts"
+}

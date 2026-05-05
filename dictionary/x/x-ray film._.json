@@ -1,0 +1,18 @@
+{
+    "base": "x-ray film",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "x-ray film",
+    "n2": "x-ray films",
+    "n3": "the x-ray film",
+    "n4": "the x-ray films",
+    "n5": "x-ray film's",
+    "n6": "x-ray films'",
+    "n7": "a x-ray film",
+    "n8": "many x-ray films"
+}

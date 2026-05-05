@@ -1,0 +1,18 @@
+{
+    "base": "social contract",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "social contract",
+    "n2": "social contracts",
+    "n3": "the social contract",
+    "n4": "the social contracts",
+    "n5": "social contract's",
+    "n6": "social contracts'",
+    "n7": "a social contract",
+    "n8": "many social contracts"
+}

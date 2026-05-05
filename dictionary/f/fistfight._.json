@@ -1,0 +1,18 @@
+{
+    "base": "fistfight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fistfight",
+    "n2": "fistfights",
+    "n3": "the fistfight",
+    "n4": "the fistfights",
+    "n5": "fistfight's",
+    "n6": "fistfights'",
+    "n7": "a fistfight",
+    "n8": "many fistfights"
+}

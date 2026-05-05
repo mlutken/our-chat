@@ -1,0 +1,18 @@
+{
+    "base": "landler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "landler",
+    "n2": "landlers",
+    "n3": "the landler",
+    "n4": "the landlers",
+    "n5": "landler's",
+    "n6": "landlers'",
+    "n7": "a landler",
+    "n8": "many landlers"
+}

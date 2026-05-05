@@ -1,0 +1,18 @@
+{
+    "base": "descent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "descent",
+    "n2": "descents",
+    "n3": "the descent",
+    "n4": "the descents",
+    "n5": "descent's",
+    "n6": "descents'",
+    "n7": "a descent",
+    "n8": "many descents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "refinement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "refinement",
+    "n2": "refinements",
+    "n3": "the refinement",
+    "n4": "the refinements",
+    "n5": "refinement's",
+    "n6": "refinements'",
+    "n7": "a refinement",
+    "n8": "many refinements"
+}

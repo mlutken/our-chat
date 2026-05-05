@@ -1,0 +1,18 @@
+{
+    "base": "fleet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fleet",
+    "n2": "fleets",
+    "n3": "the fleet",
+    "n4": "the fleets",
+    "n5": "fleet's",
+    "n6": "fleets'",
+    "n7": "a fleet",
+    "n8": "many fleets"
+}

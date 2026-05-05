@@ -1,0 +1,18 @@
+{
+    "base": "steel trap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steel trap",
+    "n2": "steel traps",
+    "n3": "the steel trap",
+    "n4": "the steel traps",
+    "n5": "steel trap's",
+    "n6": "steel traps'",
+    "n7": "a steel trap",
+    "n8": "many steel traps"
+}

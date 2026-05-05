@@ -1,0 +1,18 @@
+{
+    "base": "swathing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swathing",
+    "n2": "swathings",
+    "n3": "the swathing",
+    "n4": "the swathings",
+    "n5": "swathing's",
+    "n6": "swathings'",
+    "n7": "a swathing",
+    "n8": "many swathings"
+}

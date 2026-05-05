@@ -1,11 +1,24 @@
 {
     "base": "labor",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "labor",
     "v2": "labored",
     "v3": "labored",
     "v4": "laboring",
-    "v5": "labors"
+    "v5": "labors",
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n1": "labor",
+    "n2": "labors",
+    "n3": "the labor",
+    "n4": "the labors",
+    "n5": "labor's",
+    "n6": "labors'",
+    "n7": "a labor",
+    "n8": "many labors"
 }

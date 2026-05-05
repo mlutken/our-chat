@@ -1,6 +1,9 @@
 {
     "base": "dark",
-    "classes": ["n", "adj"],
+    "classes": [
+        "n",
+        "adj"
+    ],
     "n1": "dark",
     "n2": "darks",
     "n3": "the dark",
@@ -8,5 +11,12 @@
     "n5": "dark's",
     "adj1": "dark",
     "adj2": "darker",
-    "adj3": "darkest"
+    "adj3": "darkest",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "darks'",
+    "n7": "a dark",
+    "n8": "many darks"
 }

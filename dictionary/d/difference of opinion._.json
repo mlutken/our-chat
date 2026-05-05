@@ -1,0 +1,18 @@
+{
+    "base": "difference of opinion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "difference of opinion",
+    "n2": "difference of opinions",
+    "n3": "the difference of opinion",
+    "n4": "the difference of opinions",
+    "n5": "difference of opinion's",
+    "n6": "difference of opinions'",
+    "n7": "a difference of opinion",
+    "n8": "many difference of opinions"
+}

@@ -7,5 +7,12 @@
     "n2": "tools",
     "n3": "the tool",
     "n4": "the tools",
-    "n5": "tool's"
+    "n5": "tool's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "tools'",
+    "n7": "a tool",
+    "n8": "many tools"
 }

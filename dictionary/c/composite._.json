@@ -1,0 +1,18 @@
+{
+    "base": "composite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "composite",
+    "n2": "composites",
+    "n3": "the composite",
+    "n4": "the composites",
+    "n5": "composite's",
+    "n6": "composites'",
+    "n7": "a composite",
+    "n8": "many composites"
+}

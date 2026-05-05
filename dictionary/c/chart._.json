@@ -1,0 +1,18 @@
+{
+    "base": "chart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "chart",
+    "n2": "charts",
+    "n3": "the chart",
+    "n4": "the charts",
+    "n5": "chart's",
+    "n6": "charts'",
+    "n7": "a chart",
+    "n8": "many charts"
+}

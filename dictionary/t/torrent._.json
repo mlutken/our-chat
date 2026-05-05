@@ -1,0 +1,18 @@
+{
+    "base": "torrent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "torrent",
+    "n2": "torrents",
+    "n3": "the torrent",
+    "n4": "the torrents",
+    "n5": "torrent's",
+    "n6": "torrents'",
+    "n7": "a torrent",
+    "n8": "many torrents"
+}

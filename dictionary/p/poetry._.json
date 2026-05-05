@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "poetry",
-    "n2": "poetrys",
+    "n2": "poetries",
     "n3": "the poetry",
-    "n4": "the poetrys",
-    "n5": "poetry's"
+    "n4": "the poetries",
+    "n5": "poetry's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "poetries'",
+    "n7": "a poetry",
+    "n8": "many poetries"
 }

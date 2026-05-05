@@ -1,0 +1,18 @@
+{
+    "base": "engineering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "engineering",
+    "n2": "engineerings",
+    "n3": "the engineering",
+    "n4": "the engineerings",
+    "n5": "engineering's",
+    "n6": "engineerings'",
+    "n7": "an engineering",
+    "n8": "many engineerings"
+}

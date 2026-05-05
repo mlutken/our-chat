@@ -1,0 +1,18 @@
+{
+    "base": "fourth dimension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fourth dimension",
+    "n2": "fourth dimensions",
+    "n3": "the fourth dimension",
+    "n4": "the fourth dimensions",
+    "n5": "fourth dimension's",
+    "n6": "fourth dimensions'",
+    "n7": "a fourth dimension",
+    "n8": "many fourth dimensions"
+}

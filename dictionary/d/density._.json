@@ -1,0 +1,18 @@
+{
+    "base": "density",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "density",
+    "n2": "densities",
+    "n3": "the density",
+    "n4": "the densities",
+    "n5": "density's",
+    "n6": "densities'",
+    "n7": "a density",
+    "n8": "many densities"
+}

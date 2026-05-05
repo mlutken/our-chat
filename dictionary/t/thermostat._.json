@@ -1,0 +1,18 @@
+{
+    "base": "thermostat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thermostat",
+    "n2": "thermostats",
+    "n3": "the thermostat",
+    "n4": "the thermostats",
+    "n5": "thermostat's",
+    "n6": "thermostats'",
+    "n7": "a thermostat",
+    "n8": "many thermostats"
+}

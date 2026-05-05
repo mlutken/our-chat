@@ -1,0 +1,18 @@
+{
+    "base": "spring training",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "spring training",
+    "n2": "spring trainings",
+    "n3": "the spring training",
+    "n4": "the spring trainings",
+    "n5": "spring training's",
+    "n6": "spring trainings'",
+    "n7": "a spring training",
+    "n8": "many spring trainings"
+}

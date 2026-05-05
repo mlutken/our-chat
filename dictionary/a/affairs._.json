@@ -1,0 +1,18 @@
+{
+    "base": "affairs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "affairs",
+    "n2": "affairses",
+    "n3": "the affairs",
+    "n4": "the affairses",
+    "n5": "affairs'",
+    "n6": "affairses'",
+    "n7": "an affairs",
+    "n8": "many affairses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "manzanita",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "manzanita",
+    "n2": "manzanitas",
+    "n3": "the manzanita",
+    "n4": "the manzanitas",
+    "n5": "manzanita's",
+    "n6": "manzanitas'",
+    "n7": "a manzanita",
+    "n8": "many manzanitas"
+}

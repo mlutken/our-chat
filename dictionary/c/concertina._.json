@@ -1,0 +1,18 @@
+{
+    "base": "concertina",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "concertina",
+    "n2": "concertinas",
+    "n3": "the concertina",
+    "n4": "the concertinas",
+    "n5": "concertina's",
+    "n6": "concertinas'",
+    "n7": "a concertina",
+    "n8": "many concertinas"
+}

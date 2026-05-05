@@ -1,0 +1,18 @@
+{
+    "base": "longhand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "longhand",
+    "n2": "longhands",
+    "n3": "the longhand",
+    "n4": "the longhands",
+    "n5": "longhand's",
+    "n6": "longhands'",
+    "n7": "a longhand",
+    "n8": "many longhands"
+}

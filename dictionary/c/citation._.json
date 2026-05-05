@@ -1,0 +1,18 @@
+{
+    "base": "citation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "citation",
+    "n2": "citations",
+    "n3": "the citation",
+    "n4": "the citations",
+    "n5": "citation's",
+    "n6": "citations'",
+    "n7": "a citation",
+    "n8": "many citations"
+}

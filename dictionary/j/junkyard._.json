@@ -1,0 +1,18 @@
+{
+    "base": "junkyard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "junkyard",
+    "n2": "junkyards",
+    "n3": "the junkyard",
+    "n4": "the junkyards",
+    "n5": "junkyard's",
+    "n6": "junkyards'",
+    "n7": "a junkyard",
+    "n8": "many junkyards"
+}

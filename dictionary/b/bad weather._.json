@@ -1,0 +1,18 @@
+{
+    "base": "bad weather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bad weather",
+    "n2": "bad weathers",
+    "n3": "the bad weather",
+    "n4": "the bad weathers",
+    "n5": "bad weather's",
+    "n6": "bad weathers'",
+    "n7": "a bad weather",
+    "n8": "many bad weathers"
+}

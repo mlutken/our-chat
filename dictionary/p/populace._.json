@@ -1,0 +1,18 @@
+{
+    "base": "populace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "populace",
+    "n2": "populaces",
+    "n3": "the populace",
+    "n4": "the populaces",
+    "n5": "populace's",
+    "n6": "populaces'",
+    "n7": "a populace",
+    "n8": "many populaces"
+}

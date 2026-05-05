@@ -1,11 +1,24 @@
 {
     "base": "twist",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "twist",
     "v2": "twisted",
     "v3": "twisted",
     "v4": "twisting",
-    "v5": "twists"
+    "v5": "twists",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "twist",
+    "n2": "twists",
+    "n3": "the twist",
+    "n4": "the twists",
+    "n5": "twist's",
+    "n6": "twists'",
+    "n7": "a twist",
+    "n8": "many twists"
 }

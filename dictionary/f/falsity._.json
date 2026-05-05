@@ -1,0 +1,18 @@
+{
+    "base": "falsity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "falsity",
+    "n2": "falsities",
+    "n3": "the falsity",
+    "n4": "the falsities",
+    "n5": "falsity's",
+    "n6": "falsities'",
+    "n7": "a falsity",
+    "n8": "many falsities"
+}

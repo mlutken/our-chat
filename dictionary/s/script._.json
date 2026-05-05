@@ -1,0 +1,18 @@
+{
+    "base": "script",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "script",
+    "n2": "scripts",
+    "n3": "the script",
+    "n4": "the scripts",
+    "n5": "script's",
+    "n6": "scripts'",
+    "n7": "a script",
+    "n8": "many scripts"
+}

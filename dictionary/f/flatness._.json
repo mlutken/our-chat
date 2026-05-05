@@ -1,0 +1,18 @@
+{
+    "base": "flatness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "flatness",
+    "n2": "flatnesses",
+    "n3": "the flatness",
+    "n4": "the flatnesses",
+    "n5": "flatness'",
+    "n6": "flatnesses'",
+    "n7": "a flatness",
+    "n8": "many flatnesses"
+}

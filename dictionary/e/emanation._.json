@@ -1,0 +1,18 @@
+{
+    "base": "emanation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "emanation",
+    "n2": "emanations",
+    "n3": "the emanation",
+    "n4": "the emanations",
+    "n5": "emanation's",
+    "n6": "emanations'",
+    "n7": "an emanation",
+    "n8": "many emanations"
+}

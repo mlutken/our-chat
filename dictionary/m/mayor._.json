@@ -1,0 +1,18 @@
+{
+    "base": "mayor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "mayor",
+    "n2": "mayors",
+    "n3": "the mayor",
+    "n4": "the mayors",
+    "n5": "mayor's",
+    "n6": "mayors'",
+    "n7": "a mayor",
+    "n8": "many mayors"
+}

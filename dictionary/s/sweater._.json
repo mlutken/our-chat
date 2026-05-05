@@ -1,0 +1,18 @@
+{
+    "base": "sweater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweater",
+    "n2": "sweaters",
+    "n3": "the sweater",
+    "n4": "the sweaters",
+    "n5": "sweater's",
+    "n6": "sweaters'",
+    "n7": "a sweater",
+    "n8": "many sweaters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "day watch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "day watch",
+    "n2": "day watches",
+    "n3": "the day watch",
+    "n4": "the day watches",
+    "n5": "day watch's",
+    "n6": "day watches'",
+    "n7": "a day watch",
+    "n8": "many day watches"
+}

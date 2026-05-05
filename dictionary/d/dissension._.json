@@ -1,0 +1,18 @@
+{
+    "base": "dissension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dissension",
+    "n2": "dissensions",
+    "n3": "the dissension",
+    "n4": "the dissensions",
+    "n5": "dissension's",
+    "n6": "dissensions'",
+    "n7": "a dissension",
+    "n8": "many dissensions"
+}

@@ -7,5 +7,12 @@
     "n2": "ladders",
     "n3": "the ladder",
     "n4": "the ladders",
-    "n5": "ladder's"
+    "n5": "ladder's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "ladders'",
+    "n7": "a ladder",
+    "n8": "many ladders"
 }

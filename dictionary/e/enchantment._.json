@@ -1,0 +1,18 @@
+{
+    "base": "enchantment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enchantment",
+    "n2": "enchantments",
+    "n3": "the enchantment",
+    "n4": "the enchantments",
+    "n5": "enchantment's",
+    "n6": "enchantments'",
+    "n7": "an enchantment",
+    "n8": "many enchantments"
+}

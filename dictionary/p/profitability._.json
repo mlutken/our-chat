@@ -1,0 +1,18 @@
+{
+    "base": "profitability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "profitability",
+    "n2": "profitabilities",
+    "n3": "the profitability",
+    "n4": "the profitabilities",
+    "n5": "profitability's",
+    "n6": "profitabilities'",
+    "n7": "a profitability",
+    "n8": "many profitabilities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "absorbency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "absorbency",
+    "n2": "absorbencies",
+    "n3": "the absorbency",
+    "n4": "the absorbencies",
+    "n5": "absorbency's",
+    "n6": "absorbencies'",
+    "n7": "an absorbency",
+    "n8": "many absorbencies"
+}

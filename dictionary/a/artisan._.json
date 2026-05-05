@@ -1,0 +1,18 @@
+{
+    "base": "artisan",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artisan",
+    "n2": "artisans",
+    "n3": "the artisan",
+    "n4": "the artisans",
+    "n5": "artisan's",
+    "n6": "artisans'",
+    "n7": "an artisan",
+    "n8": "many artisans"
+}

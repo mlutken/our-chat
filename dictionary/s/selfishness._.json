@@ -1,0 +1,18 @@
+{
+    "base": "selfishness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "selfishness",
+    "n2": "selfishnesses",
+    "n3": "the selfishness",
+    "n4": "the selfishnesses",
+    "n5": "selfishness'",
+    "n6": "selfishnesses'",
+    "n7": "a selfishness",
+    "n8": "many selfishnesses"
+}

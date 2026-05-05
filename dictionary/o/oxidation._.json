@@ -1,0 +1,18 @@
+{
+    "base": "oxidation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "oxidation",
+    "n2": "oxidations",
+    "n3": "the oxidation",
+    "n4": "the oxidations",
+    "n5": "oxidation's",
+    "n6": "oxidations'",
+    "n7": "an oxidation",
+    "n8": "many oxidations"
+}

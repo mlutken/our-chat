@@ -1,0 +1,18 @@
+{
+    "base": "bypass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bypass",
+    "n2": "bypasses",
+    "n3": "the bypass",
+    "n4": "the bypasses",
+    "n5": "bypass'",
+    "n6": "bypasses'",
+    "n7": "a bypass",
+    "n8": "many bypasses"
+}

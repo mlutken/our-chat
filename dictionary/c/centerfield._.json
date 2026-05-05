@@ -1,0 +1,18 @@
+{
+    "base": "centerfield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "centerfield",
+    "n2": "centerfields",
+    "n3": "the centerfield",
+    "n4": "the centerfields",
+    "n5": "centerfield's",
+    "n6": "centerfields'",
+    "n7": "a centerfield",
+    "n8": "many centerfields"
+}

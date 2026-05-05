@@ -1,0 +1,18 @@
+{
+    "base": "hot rod",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hot rod",
+    "n2": "hot rods",
+    "n3": "the hot rod",
+    "n4": "the hot rods",
+    "n5": "hot rod's",
+    "n6": "hot rods'",
+    "n7": "a hot rod",
+    "n8": "many hot rods"
+}

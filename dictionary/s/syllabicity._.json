@@ -1,0 +1,18 @@
+{
+    "base": "syllabicity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "syllabicity",
+    "n2": "syllabicities",
+    "n3": "the syllabicity",
+    "n4": "the syllabicities",
+    "n5": "syllabicity's",
+    "n6": "syllabicities'",
+    "n7": "a syllabicity",
+    "n8": "many syllabicities"
+}

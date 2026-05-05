@@ -1,0 +1,18 @@
+{
+    "base": "booby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "booby",
+    "n2": "boobies",
+    "n3": "the booby",
+    "n4": "the boobies",
+    "n5": "booby's",
+    "n6": "boobies'",
+    "n7": "a booby",
+    "n8": "many boobies"
+}

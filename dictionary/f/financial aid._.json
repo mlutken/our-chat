@@ -1,0 +1,18 @@
+{
+    "base": "financial aid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "financial aid",
+    "n2": "financial aids",
+    "n3": "the financial aid",
+    "n4": "the financial aids",
+    "n5": "financial aid's",
+    "n6": "financial aids'",
+    "n7": "a financial aid",
+    "n8": "many financial aids"
+}

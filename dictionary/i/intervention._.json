@@ -1,0 +1,18 @@
+{
+    "base": "intervention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "intervention",
+    "n2": "interventions",
+    "n3": "the intervention",
+    "n4": "the interventions",
+    "n5": "intervention's",
+    "n6": "interventions'",
+    "n7": "an intervention",
+    "n8": "many interventions"
+}

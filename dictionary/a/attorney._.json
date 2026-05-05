@@ -7,5 +7,12 @@
     "n2": "attorneys",
     "n3": "the attorney",
     "n4": "the attorneys",
-    "n5": "attorney's"
+    "n5": "attorney's",
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "attorneys'",
+    "n7": "an attorney",
+    "n8": "many attorneys"
 }

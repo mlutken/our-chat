@@ -1,0 +1,18 @@
+{
+    "base": "carry-over",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carry-over",
+    "n2": "carry-overs",
+    "n3": "the carry-over",
+    "n4": "the carry-overs",
+    "n5": "carry-over's",
+    "n6": "carry-overs'",
+    "n7": "a carry-over",
+    "n8": "many carry-overs"
+}

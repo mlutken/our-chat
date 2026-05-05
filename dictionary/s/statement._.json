@@ -7,5 +7,12 @@
     "n2": "statements",
     "n3": "the statement",
     "n4": "the statements",
-    "n5": "statement's"
+    "n5": "statement's",
+    "proper": false,
+    "commonness": 70,
+    "max_commonness": 6834,
+    "commonness_ge_count": 209,
+    "n6": "statements'",
+    "n7": "a statement",
+    "n8": "many statements"
 }

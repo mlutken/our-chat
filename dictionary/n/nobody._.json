@@ -1,0 +1,18 @@
+{
+    "base": "nobody",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nobody",
+    "n2": "nobodies",
+    "n3": "the nobody",
+    "n4": "the nobodies",
+    "n5": "nobody's",
+    "n6": "nobodies'",
+    "n7": "a nobody",
+    "n8": "many nobodies"
+}

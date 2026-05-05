@@ -1,0 +1,18 @@
+{
+    "base": "bottleneck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bottleneck",
+    "n2": "bottlenecks",
+    "n3": "the bottleneck",
+    "n4": "the bottlenecks",
+    "n5": "bottleneck's",
+    "n6": "bottlenecks'",
+    "n7": "a bottleneck",
+    "n8": "many bottlenecks"
+}

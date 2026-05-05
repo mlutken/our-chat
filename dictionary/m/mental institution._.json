@@ -1,0 +1,18 @@
+{
+    "base": "mental institution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mental institution",
+    "n2": "mental institutions",
+    "n3": "the mental institution",
+    "n4": "the mental institutions",
+    "n5": "mental institution's",
+    "n6": "mental institutions'",
+    "n7": "a mental institution",
+    "n8": "many mental institutions"
+}

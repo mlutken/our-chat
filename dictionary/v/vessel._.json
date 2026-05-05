@@ -1,0 +1,18 @@
+{
+    "base": "vessel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "vessel",
+    "n2": "vessels",
+    "n3": "the vessel",
+    "n4": "the vessels",
+    "n5": "vessel's",
+    "n6": "vessels'",
+    "n7": "a vessel",
+    "n8": "many vessels"
+}

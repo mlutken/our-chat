@@ -1,0 +1,18 @@
+{
+    "base": "inculcation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inculcation",
+    "n2": "inculcations",
+    "n3": "the inculcation",
+    "n4": "the inculcations",
+    "n5": "inculcation's",
+    "n6": "inculcations'",
+    "n7": "an inculcation",
+    "n8": "many inculcations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "perfusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perfusion",
+    "n2": "perfusions",
+    "n3": "the perfusion",
+    "n4": "the perfusions",
+    "n5": "perfusion's",
+    "n6": "perfusions'",
+    "n7": "a perfusion",
+    "n8": "many perfusions"
+}

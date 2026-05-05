@@ -1,0 +1,18 @@
+{
+    "base": "vientiane",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "vientiane",
+    "n2": "vientianes",
+    "n3": "the vientiane",
+    "n4": "the vientianes",
+    "n5": "vientiane's",
+    "n6": "vientianes'",
+    "n7": "a vientiane",
+    "n8": "many vientianes"
+}

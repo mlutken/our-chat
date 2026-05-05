@@ -1,0 +1,18 @@
+{
+    "base": "jumping up and down",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jumping up and down",
+    "n2": "jumping up and downs",
+    "n3": "the jumping up and down",
+    "n4": "the jumping up and downs",
+    "n5": "jumping up and down's",
+    "n6": "jumping up and downs'",
+    "n7": "a jumping up and down",
+    "n8": "many jumping up and downs"
+}

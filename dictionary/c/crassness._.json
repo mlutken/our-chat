@@ -1,0 +1,18 @@
+{
+    "base": "crassness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crassness",
+    "n2": "crassnesses",
+    "n3": "the crassness",
+    "n4": "the crassnesses",
+    "n5": "crassness'",
+    "n6": "crassnesses'",
+    "n7": "a crassness",
+    "n8": "many crassnesses"
+}

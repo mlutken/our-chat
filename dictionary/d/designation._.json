@@ -1,0 +1,18 @@
+{
+    "base": "designation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "designation",
+    "n2": "designations",
+    "n3": "the designation",
+    "n4": "the designations",
+    "n5": "designation's",
+    "n6": "designations'",
+    "n7": "a designation",
+    "n8": "many designations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "maimed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "maimed",
+    "n2": "maimeds",
+    "n3": "the maimed",
+    "n4": "the maimeds",
+    "n5": "maimed's",
+    "n6": "maimeds'",
+    "n7": "a maimed",
+    "n8": "many maimeds"
+}

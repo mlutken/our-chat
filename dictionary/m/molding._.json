@@ -1,0 +1,18 @@
+{
+    "base": "molding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "molding",
+    "n2": "moldings",
+    "n3": "the molding",
+    "n4": "the moldings",
+    "n5": "molding's",
+    "n6": "moldings'",
+    "n7": "a molding",
+    "n8": "many moldings"
+}

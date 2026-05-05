@@ -1,0 +1,18 @@
+{
+    "base": "ology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ology",
+    "n2": "ologies",
+    "n3": "the ology",
+    "n4": "the ologies",
+    "n5": "ology's",
+    "n6": "ologies'",
+    "n7": "an ology",
+    "n8": "many ologies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stratagem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stratagem",
+    "n2": "stratagems",
+    "n3": "the stratagem",
+    "n4": "the stratagems",
+    "n5": "stratagem's",
+    "n6": "stratagems'",
+    "n7": "a stratagem",
+    "n8": "many stratagems"
+}

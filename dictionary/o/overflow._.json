@@ -1,11 +1,24 @@
 {
     "base": "overflow",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "overflow",
     "v2": "overflowed",
     "v3": "overflowed",
     "v4": "overflowing",
-    "v5": "overflows"
+    "v5": "overflows",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overflow",
+    "n2": "overflows",
+    "n3": "the overflow",
+    "n4": "the overflows",
+    "n5": "overflow's",
+    "n6": "overflows'",
+    "n7": "an overflow",
+    "n8": "many overflows"
 }

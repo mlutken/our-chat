@@ -1,0 +1,18 @@
+{
+    "base": "damnation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "damnation",
+    "n2": "damnations",
+    "n3": "the damnation",
+    "n4": "the damnations",
+    "n5": "damnation's",
+    "n6": "damnations'",
+    "n7": "a damnation",
+    "n8": "many damnations"
+}

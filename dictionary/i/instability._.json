@@ -1,0 +1,18 @@
+{
+    "base": "instability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "instability",
+    "n2": "instabilities",
+    "n3": "the instability",
+    "n4": "the instabilities",
+    "n5": "instability's",
+    "n6": "instabilities'",
+    "n7": "an instability",
+    "n8": "many instabilities"
+}

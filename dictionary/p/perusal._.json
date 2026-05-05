@@ -1,0 +1,18 @@
+{
+    "base": "perusal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perusal",
+    "n2": "perusals",
+    "n3": "the perusal",
+    "n4": "the perusals",
+    "n5": "perusal's",
+    "n6": "perusals'",
+    "n7": "a perusal",
+    "n8": "many perusals"
+}

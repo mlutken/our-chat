@@ -1,0 +1,18 @@
+{
+    "base": "cohesiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cohesiveness",
+    "n2": "cohesivenesses",
+    "n3": "the cohesiveness",
+    "n4": "the cohesivenesses",
+    "n5": "cohesiveness'",
+    "n6": "cohesivenesses'",
+    "n7": "a cohesiveness",
+    "n8": "many cohesivenesses"
+}

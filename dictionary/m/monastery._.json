@@ -1,0 +1,18 @@
+{
+    "base": "monastery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monastery",
+    "n2": "monasteries",
+    "n3": "the monastery",
+    "n4": "the monasteries",
+    "n5": "monastery's",
+    "n6": "monasteries'",
+    "n7": "a monastery",
+    "n8": "many monasteries"
+}

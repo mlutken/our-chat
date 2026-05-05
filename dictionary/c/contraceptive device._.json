@@ -1,0 +1,18 @@
+{
+    "base": "contraceptive device",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contraceptive device",
+    "n2": "contraceptive devices",
+    "n3": "the contraceptive device",
+    "n4": "the contraceptive devices",
+    "n5": "contraceptive device's",
+    "n6": "contraceptive devices'",
+    "n7": "a contraceptive device",
+    "n8": "many contraceptive devices"
+}

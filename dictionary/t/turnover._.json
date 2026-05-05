@@ -1,0 +1,18 @@
+{
+    "base": "turnover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "turnover",
+    "n2": "turnovers",
+    "n3": "the turnover",
+    "n4": "the turnovers",
+    "n5": "turnover's",
+    "n6": "turnovers'",
+    "n7": "a turnover",
+    "n8": "many turnovers"
+}

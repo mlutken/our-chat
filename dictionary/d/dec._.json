@@ -1,0 +1,18 @@
+{
+    "base": "dec",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "dec",
+    "n2": "decs",
+    "n3": "the dec",
+    "n4": "the decs",
+    "n5": "dec's",
+    "n6": "decs'",
+    "n7": "a dec",
+    "n8": "many decs"
+}

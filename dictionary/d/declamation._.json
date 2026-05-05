@@ -1,0 +1,18 @@
+{
+    "base": "declamation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "declamation",
+    "n2": "declamations",
+    "n3": "the declamation",
+    "n4": "the declamations",
+    "n5": "declamation's",
+    "n6": "declamations'",
+    "n7": "a declamation",
+    "n8": "many declamations"
+}

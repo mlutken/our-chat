@@ -1,0 +1,18 @@
+{
+    "base": "inside job",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inside job",
+    "n2": "inside jobs",
+    "n3": "the inside job",
+    "n4": "the inside jobs",
+    "n5": "inside job's",
+    "n6": "inside jobs'",
+    "n7": "an inside job",
+    "n8": "many inside jobs"
+}

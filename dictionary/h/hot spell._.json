@@ -1,0 +1,18 @@
+{
+    "base": "hot spell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hot spell",
+    "n2": "hot spells",
+    "n3": "the hot spell",
+    "n4": "the hot spells",
+    "n5": "hot spell's",
+    "n6": "hot spells'",
+    "n7": "a hot spell",
+    "n8": "many hot spells"
+}

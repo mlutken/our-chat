@@ -13,5 +13,12 @@
     "v2": "listed",
     "v3": "listed",
     "v4": "listing",
-    "v5": "lists"
+    "v5": "lists",
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n6": "lists'",
+    "n7": "a list",
+    "n8": "many lists"
 }

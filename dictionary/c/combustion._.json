@@ -1,0 +1,18 @@
+{
+    "base": "combustion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "combustion",
+    "n2": "combustions",
+    "n3": "the combustion",
+    "n4": "the combustions",
+    "n5": "combustion's",
+    "n6": "combustions'",
+    "n7": "a combustion",
+    "n8": "many combustions"
+}

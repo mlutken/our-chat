@@ -1,0 +1,18 @@
+{
+    "base": "tormentor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tormentor",
+    "n2": "tormentors",
+    "n3": "the tormentor",
+    "n4": "the tormentors",
+    "n5": "tormentor's",
+    "n6": "tormentors'",
+    "n7": "a tormentor",
+    "n8": "many tormentors"
+}

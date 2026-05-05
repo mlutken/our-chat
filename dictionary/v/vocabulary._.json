@@ -1,0 +1,18 @@
+{
+    "base": "vocabulary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "vocabulary",
+    "n2": "vocabularies",
+    "n3": "the vocabulary",
+    "n4": "the vocabularies",
+    "n5": "vocabulary's",
+    "n6": "vocabularies'",
+    "n7": "a vocabulary",
+    "n8": "many vocabularies"
+}

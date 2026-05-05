@@ -1,0 +1,18 @@
+{
+    "base": "national anthem",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "national anthem",
+    "n2": "national anthems",
+    "n3": "the national anthem",
+    "n4": "the national anthems",
+    "n5": "national anthem's",
+    "n6": "national anthems'",
+    "n7": "a national anthem",
+    "n8": "many national anthems"
+}

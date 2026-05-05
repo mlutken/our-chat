@@ -1,0 +1,18 @@
+{
+    "base": "halt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "halt",
+    "n2": "halts",
+    "n3": "the halt",
+    "n4": "the halts",
+    "n5": "halt's",
+    "n6": "halts'",
+    "n7": "a halt",
+    "n8": "many halts"
+}

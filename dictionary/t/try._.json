@@ -1,11 +1,24 @@
 {
     "base": "try",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "try",
     "v2": "tried",
     "v3": "tried",
     "v4": "trying",
-    "v5": "tries"
+    "v5": "tries",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "try",
+    "n2": "tries",
+    "n3": "the try",
+    "n4": "the tries",
+    "n5": "try's",
+    "n6": "tries'",
+    "n7": "a try",
+    "n8": "many tries"
 }

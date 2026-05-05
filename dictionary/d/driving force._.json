@@ -1,0 +1,18 @@
+{
+    "base": "driving force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "driving force",
+    "n2": "driving forces",
+    "n3": "the driving force",
+    "n4": "the driving forces",
+    "n5": "driving force's",
+    "n6": "driving forces'",
+    "n7": "a driving force",
+    "n8": "many driving forces"
+}

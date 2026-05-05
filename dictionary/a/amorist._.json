@@ -1,0 +1,18 @@
+{
+    "base": "amorist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amorist",
+    "n2": "amorists",
+    "n3": "the amorist",
+    "n4": "the amorists",
+    "n5": "amorist's",
+    "n6": "amorists'",
+    "n7": "an amorist",
+    "n8": "many amorists"
+}

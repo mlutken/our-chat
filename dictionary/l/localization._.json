@@ -1,0 +1,18 @@
+{
+    "base": "localization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "localization",
+    "n2": "localizations",
+    "n3": "the localization",
+    "n4": "the localizations",
+    "n5": "localization's",
+    "n6": "localizations'",
+    "n7": "a localization",
+    "n8": "many localizations"
+}

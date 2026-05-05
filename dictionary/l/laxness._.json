@@ -1,0 +1,18 @@
+{
+    "base": "laxness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laxness",
+    "n2": "laxnesses",
+    "n3": "the laxness",
+    "n4": "the laxnesses",
+    "n5": "laxness'",
+    "n6": "laxnesses'",
+    "n7": "a laxness",
+    "n8": "many laxnesses"
+}

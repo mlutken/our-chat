@@ -1,0 +1,18 @@
+{
+    "base": "log cabin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "log cabin",
+    "n2": "log cabins",
+    "n3": "the log cabin",
+    "n4": "the log cabins",
+    "n5": "log cabin's",
+    "n6": "log cabins'",
+    "n7": "a log cabin",
+    "n8": "many log cabins"
+}

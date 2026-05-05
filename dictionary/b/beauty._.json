@@ -7,5 +7,12 @@
     "n2": "beauties",
     "n3": "the beauty",
     "n4": "the beauties",
-    "n5": "beauty's"
+    "n5": "beauty's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "beauties'",
+    "n7": "a beauty",
+    "n8": "many beauties"
 }

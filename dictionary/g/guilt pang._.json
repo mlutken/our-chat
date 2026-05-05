@@ -1,0 +1,18 @@
+{
+    "base": "guilt pang",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guilt pang",
+    "n2": "guilt pangs",
+    "n3": "the guilt pang",
+    "n4": "the guilt pangs",
+    "n5": "guilt pang's",
+    "n6": "guilt pangs'",
+    "n7": "a guilt pang",
+    "n8": "many guilt pangs"
+}

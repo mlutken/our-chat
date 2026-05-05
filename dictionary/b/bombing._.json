@@ -1,0 +1,18 @@
+{
+    "base": "bombing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bombing",
+    "n2": "bombings",
+    "n3": "the bombing",
+    "n4": "the bombings",
+    "n5": "bombing's",
+    "n6": "bombings'",
+    "n7": "a bombing",
+    "n8": "many bombings"
+}

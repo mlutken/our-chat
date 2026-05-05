@@ -1,0 +1,18 @@
+{
+    "base": "tone language",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tone language",
+    "n2": "tone languages",
+    "n3": "the tone language",
+    "n4": "the tone languages",
+    "n5": "tone language's",
+    "n6": "tone languages'",
+    "n7": "a tone language",
+    "n8": "many tone languages"
+}

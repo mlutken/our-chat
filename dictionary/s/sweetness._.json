@@ -1,0 +1,18 @@
+{
+    "base": "sweetness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweetness",
+    "n2": "sweetnesses",
+    "n3": "the sweetness",
+    "n4": "the sweetnesses",
+    "n5": "sweetness'",
+    "n6": "sweetnesses'",
+    "n7": "a sweetness",
+    "n8": "many sweetnesses"
+}

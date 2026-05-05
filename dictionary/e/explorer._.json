@@ -1,0 +1,18 @@
+{
+    "base": "explorer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "explorer",
+    "n2": "explorers",
+    "n3": "the explorer",
+    "n4": "the explorers",
+    "n5": "explorer's",
+    "n6": "explorers'",
+    "n7": "an explorer",
+    "n8": "many explorers"
+}

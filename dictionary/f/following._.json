@@ -1,7 +1,20 @@
 {
     "base": "following",
     "classes": [
+        "n",
         "pre"
     ],
-    "f0": "following"
+    "f0": "following",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "following",
+    "n2": "followings",
+    "n3": "the following",
+    "n4": "the followings",
+    "n5": "following's",
+    "n6": "followings'",
+    "n7": "a following",
+    "n8": "many followings"
 }

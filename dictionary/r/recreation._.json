@@ -1,0 +1,18 @@
+{
+    "base": "recreation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "recreation",
+    "n2": "recreations",
+    "n3": "the recreation",
+    "n4": "the recreations",
+    "n5": "recreation's",
+    "n6": "recreations'",
+    "n7": "a recreation",
+    "n8": "many recreations"
+}

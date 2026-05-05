@@ -1,0 +1,18 @@
+{
+    "base": "ironworker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ironworker",
+    "n2": "ironworkers",
+    "n3": "the ironworker",
+    "n4": "the ironworkers",
+    "n5": "ironworker's",
+    "n6": "ironworkers'",
+    "n7": "an ironworker",
+    "n8": "many ironworkers"
+}

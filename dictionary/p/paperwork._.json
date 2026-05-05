@@ -1,0 +1,18 @@
+{
+    "base": "paperwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paperwork",
+    "n2": "paperworks",
+    "n3": "the paperwork",
+    "n4": "the paperworks",
+    "n5": "paperwork's",
+    "n6": "paperworks'",
+    "n7": "a paperwork",
+    "n8": "many paperworks"
+}

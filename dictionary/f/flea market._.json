@@ -1,0 +1,18 @@
+{
+    "base": "flea market",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flea market",
+    "n2": "flea markets",
+    "n3": "the flea market",
+    "n4": "the flea markets",
+    "n5": "flea market's",
+    "n6": "flea markets'",
+    "n7": "a flea market",
+    "n8": "many flea markets"
+}

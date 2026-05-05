@@ -1,0 +1,18 @@
+{
+    "base": "rudder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rudder",
+    "n2": "rudders",
+    "n3": "the rudder",
+    "n4": "the rudders",
+    "n5": "rudder's",
+    "n6": "rudders'",
+    "n7": "a rudder",
+    "n8": "many rudders"
+}

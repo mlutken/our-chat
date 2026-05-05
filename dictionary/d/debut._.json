@@ -1,0 +1,18 @@
+{
+    "base": "debut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "debut",
+    "n2": "debuts",
+    "n3": "the debut",
+    "n4": "the debuts",
+    "n5": "debut's",
+    "n6": "debuts'",
+    "n7": "a debut",
+    "n8": "many debuts"
+}

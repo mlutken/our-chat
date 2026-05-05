@@ -1,0 +1,18 @@
+{
+    "base": "corporation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n1": "corporation",
+    "n2": "corporations",
+    "n3": "the corporation",
+    "n4": "the corporations",
+    "n5": "corporation's",
+    "n6": "corporations'",
+    "n7": "a corporation",
+    "n8": "many corporations"
+}

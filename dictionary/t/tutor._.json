@@ -1,0 +1,18 @@
+{
+    "base": "tutor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tutor",
+    "n2": "tutors",
+    "n3": "the tutor",
+    "n4": "the tutors",
+    "n5": "tutor's",
+    "n6": "tutors'",
+    "n7": "a tutor",
+    "n8": "many tutors"
+}

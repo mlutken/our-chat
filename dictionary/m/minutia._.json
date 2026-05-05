@@ -7,5 +7,12 @@
     "n2": "minutiae",
     "n3": "the minutia",
     "n4": "the minutiae",
-    "n5": "minutia's"
+    "n5": "minutia's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "minutiae's",
+    "n7": "a minutia",
+    "n8": "many minutiae"
 }

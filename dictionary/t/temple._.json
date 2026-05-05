@@ -1,0 +1,18 @@
+{
+    "base": "temple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "temple",
+    "n2": "temples",
+    "n3": "the temple",
+    "n4": "the temples",
+    "n5": "temple's",
+    "n6": "temples'",
+    "n7": "a temple",
+    "n8": "many temples"
+}

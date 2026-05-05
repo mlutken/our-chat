@@ -13,5 +13,12 @@
     "v2": "recorded",
     "v3": "recorded",
     "v4": "recording",
-    "v5": "records"
+    "v5": "records",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "records'",
+    "n7": "a record",
+    "n8": "many records"
 }

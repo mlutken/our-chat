@@ -7,5 +7,12 @@
     "n2": "funs",
     "n3": "the fun",
     "n4": "the funs",
-    "n5": "fun's"
+    "n5": "fun's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "funs'",
+    "n7": "a fun",
+    "n8": "many funs"
 }

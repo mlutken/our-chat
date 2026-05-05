@@ -1,5 +1,20 @@
 {
     "base": "gee",
-    "classes": ["intj"],
-    "f0": "gee"
+    "classes": [
+        "n",
+        "intj"
+    ],
+    "f0": "gee",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gee",
+    "n2": "gees",
+    "n3": "the gee",
+    "n4": "the gees",
+    "n5": "gee's",
+    "n6": "gees'",
+    "n7": "a gee",
+    "n8": "many gees"
 }

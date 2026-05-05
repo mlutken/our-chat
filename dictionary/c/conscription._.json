@@ -1,0 +1,18 @@
+{
+    "base": "conscription",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conscription",
+    "n2": "conscriptions",
+    "n3": "the conscription",
+    "n4": "the conscriptions",
+    "n5": "conscription's",
+    "n6": "conscriptions'",
+    "n7": "a conscription",
+    "n8": "many conscriptions"
+}

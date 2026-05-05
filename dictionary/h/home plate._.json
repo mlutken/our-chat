@@ -1,0 +1,18 @@
+{
+    "base": "home plate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "home plate",
+    "n2": "home plates",
+    "n3": "the home plate",
+    "n4": "the home plates",
+    "n5": "home plate's",
+    "n6": "home plates'",
+    "n7": "a home plate",
+    "n8": "many home plates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "foster parent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foster parent",
+    "n2": "foster parents",
+    "n3": "the foster parent",
+    "n4": "the foster parents",
+    "n5": "foster parent's",
+    "n6": "foster parents'",
+    "n7": "a foster parent",
+    "n8": "many foster parents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rbi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rbi",
+    "n2": "rbis",
+    "n3": "the rbi",
+    "n4": "the rbis",
+    "n5": "rbi's",
+    "n6": "rbis'",
+    "n7": "a rbi",
+    "n8": "many rbis"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rail fence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rail fence",
+    "n2": "rail fences",
+    "n3": "the rail fence",
+    "n4": "the rail fences",
+    "n5": "rail fence's",
+    "n6": "rail fences'",
+    "n7": "a rail fence",
+    "n8": "many rail fences"
+}

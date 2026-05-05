@@ -1,0 +1,18 @@
+{
+    "base": "committee member",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "committee member",
+    "n2": "committee members",
+    "n3": "the committee member",
+    "n4": "the committee members",
+    "n5": "committee member's",
+    "n6": "committee members'",
+    "n7": "a committee member",
+    "n8": "many committee members"
+}

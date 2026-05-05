@@ -1,0 +1,18 @@
+{
+    "base": "sagebrush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sagebrush",
+    "n2": "sagebrushes",
+    "n3": "the sagebrush",
+    "n4": "the sagebrushes",
+    "n5": "sagebrush's",
+    "n6": "sagebrushes'",
+    "n7": "a sagebrush",
+    "n8": "many sagebrushes"
+}

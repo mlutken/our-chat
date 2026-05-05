@@ -7,5 +7,12 @@
     "n2": "scenes",
     "n3": "the scene",
     "n4": "the scenes",
-    "n5": "scene's"
+    "n5": "scene's",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n6": "scenes'",
+    "n7": "a scene",
+    "n8": "many scenes"
 }

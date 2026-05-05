@@ -1,0 +1,18 @@
+{
+    "base": "ablation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ablation",
+    "n2": "ablations",
+    "n3": "the ablation",
+    "n4": "the ablations",
+    "n5": "ablation's",
+    "n6": "ablations'",
+    "n7": "an ablation",
+    "n8": "many ablations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "absolute",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "absolute",
+    "n2": "absolutes",
+    "n3": "the absolute",
+    "n4": "the absolutes",
+    "n5": "absolute's",
+    "n6": "absolutes'",
+    "n7": "an absolute",
+    "n8": "many absolutes"
+}

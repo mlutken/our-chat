@@ -1,0 +1,18 @@
+{
+    "base": "field of operation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "field of operation",
+    "n2": "field of operations",
+    "n3": "the field of operation",
+    "n4": "the field of operations",
+    "n5": "field of operation's",
+    "n6": "field of operations'",
+    "n7": "a field of operation",
+    "n8": "many field of operations"
+}

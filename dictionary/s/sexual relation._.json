@@ -1,0 +1,18 @@
+{
+    "base": "sexual relation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sexual relation",
+    "n2": "sexual relations",
+    "n3": "the sexual relation",
+    "n4": "the sexual relations",
+    "n5": "sexual relation's",
+    "n6": "sexual relations'",
+    "n7": "a sexual relation",
+    "n8": "many sexual relations"
+}

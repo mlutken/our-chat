@@ -1,0 +1,18 @@
+{
+    "base": "conference room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conference room",
+    "n2": "conference rooms",
+    "n3": "the conference room",
+    "n4": "the conference rooms",
+    "n5": "conference room's",
+    "n6": "conference rooms'",
+    "n7": "a conference room",
+    "n8": "many conference rooms"
+}

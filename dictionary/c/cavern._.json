@@ -1,0 +1,18 @@
+{
+    "base": "cavern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cavern",
+    "n2": "caverns",
+    "n3": "the cavern",
+    "n4": "the caverns",
+    "n5": "cavern's",
+    "n6": "caverns'",
+    "n7": "a cavern",
+    "n8": "many caverns"
+}

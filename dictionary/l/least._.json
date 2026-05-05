@@ -1,0 +1,18 @@
+{
+    "base": "least",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "least",
+    "n2": "leasts",
+    "n3": "the least",
+    "n4": "the leasts",
+    "n5": "least's",
+    "n6": "leasts'",
+    "n7": "a least",
+    "n8": "many leasts"
+}

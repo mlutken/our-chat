@@ -1,0 +1,18 @@
+{
+    "base": "europe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "europe",
+    "n2": "europes",
+    "n3": "the europe",
+    "n4": "the europes",
+    "n5": "europe's",
+    "n6": "europes'",
+    "n7": "a europe",
+    "n8": "many europes"
+}

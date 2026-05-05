@@ -1,0 +1,18 @@
+{
+    "base": "anaplasmosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anaplasmosis",
+    "n2": "anaplasmosises",
+    "n3": "the anaplasmosis",
+    "n4": "the anaplasmosises",
+    "n5": "anaplasmosis'",
+    "n6": "anaplasmosises'",
+    "n7": "an anaplasmosis",
+    "n8": "many anaplasmosises"
+}

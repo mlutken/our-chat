@@ -1,0 +1,18 @@
+{
+    "base": "thwack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thwack",
+    "n2": "thwacks",
+    "n3": "the thwack",
+    "n4": "the thwacks",
+    "n5": "thwack's",
+    "n6": "thwacks'",
+    "n7": "a thwack",
+    "n8": "many thwacks"
+}

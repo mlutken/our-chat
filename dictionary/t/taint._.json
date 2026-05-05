@@ -1,0 +1,18 @@
+{
+    "base": "taint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "taint",
+    "n2": "taints",
+    "n3": "the taint",
+    "n4": "the taints",
+    "n5": "taint's",
+    "n6": "taints'",
+    "n7": "a taint",
+    "n8": "many taints"
+}

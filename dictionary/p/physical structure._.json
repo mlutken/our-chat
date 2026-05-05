@@ -1,0 +1,18 @@
+{
+    "base": "physical structure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "physical structure",
+    "n2": "physical structures",
+    "n3": "the physical structure",
+    "n4": "the physical structures",
+    "n5": "physical structure's",
+    "n6": "physical structures'",
+    "n7": "a physical structure",
+    "n8": "many physical structures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "immobility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "immobility",
+    "n2": "immobilities",
+    "n3": "the immobility",
+    "n4": "the immobilities",
+    "n5": "immobility's",
+    "n6": "immobilities'",
+    "n7": "an immobility",
+    "n8": "many immobilities"
+}

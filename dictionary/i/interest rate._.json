@@ -1,0 +1,18 @@
+{
+    "base": "interest rate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interest rate",
+    "n2": "interest rates",
+    "n3": "the interest rate",
+    "n4": "the interest rates",
+    "n5": "interest rate's",
+    "n6": "interest rates'",
+    "n7": "an interest rate",
+    "n8": "many interest rates"
+}

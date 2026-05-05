@@ -1,0 +1,18 @@
+{
+    "base": "lotion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lotion",
+    "n2": "lotions",
+    "n3": "the lotion",
+    "n4": "the lotions",
+    "n5": "lotion's",
+    "n6": "lotions'",
+    "n7": "a lotion",
+    "n8": "many lotions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gamma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gamma",
+    "n2": "gammas",
+    "n3": "the gamma",
+    "n4": "the gammas",
+    "n5": "gamma's",
+    "n6": "gammas'",
+    "n7": "a gamma",
+    "n8": "many gammas"
+}

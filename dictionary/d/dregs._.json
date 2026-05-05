@@ -1,0 +1,18 @@
+{
+    "base": "dregs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "dregs",
+    "n2": "dregses",
+    "n3": "the dregs",
+    "n4": "the dregses",
+    "n5": "dregs'",
+    "n6": "dregses'",
+    "n7": "a dregs",
+    "n8": "many dregses"
+}

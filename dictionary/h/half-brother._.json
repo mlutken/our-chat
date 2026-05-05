@@ -1,0 +1,18 @@
+{
+    "base": "half-brother",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "half-brother",
+    "n2": "half-brothers",
+    "n3": "the half-brother",
+    "n4": "the half-brothers",
+    "n5": "half-brother's",
+    "n6": "half-brothers'",
+    "n7": "a half-brother",
+    "n8": "many half-brothers"
+}

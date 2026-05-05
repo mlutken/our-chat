@@ -1,0 +1,18 @@
+{
+    "base": "heavenly body",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heavenly body",
+    "n2": "heavenly bodies",
+    "n3": "the heavenly body",
+    "n4": "the heavenly bodies",
+    "n5": "heavenly body's",
+    "n6": "heavenly bodies'",
+    "n7": "a heavenly body",
+    "n8": "many heavenly bodies"
+}

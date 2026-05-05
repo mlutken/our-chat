@@ -7,5 +7,12 @@
     "n2": "wharves",
     "n3": "the wharf",
     "n4": "the wharves",
-    "n5": "wharf's"
+    "n5": "wharf's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "wharves'",
+    "n7": "a wharf",
+    "n8": "many wharves"
 }

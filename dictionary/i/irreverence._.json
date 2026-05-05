@@ -1,0 +1,18 @@
+{
+    "base": "irreverence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "irreverence",
+    "n2": "irreverences",
+    "n3": "the irreverence",
+    "n4": "the irreverences",
+    "n5": "irreverence's",
+    "n6": "irreverences'",
+    "n7": "an irreverence",
+    "n8": "many irreverences"
+}

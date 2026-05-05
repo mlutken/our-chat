@@ -1,0 +1,18 @@
+{
+    "base": "replication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "replication",
+    "n2": "replications",
+    "n3": "the replication",
+    "n4": "the replications",
+    "n5": "replication's",
+    "n6": "replications'",
+    "n7": "a replication",
+    "n8": "many replications"
+}

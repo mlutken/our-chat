@@ -1,0 +1,18 @@
+{
+    "base": "metis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "metis",
+    "n2": "metises",
+    "n3": "the metis",
+    "n4": "the metises",
+    "n5": "metis'",
+    "n6": "metises'",
+    "n7": "a metis",
+    "n8": "many metises"
+}

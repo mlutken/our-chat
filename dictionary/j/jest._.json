@@ -1,0 +1,18 @@
+{
+    "base": "jest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jest",
+    "n2": "jests",
+    "n3": "the jest",
+    "n4": "the jests",
+    "n5": "jest's",
+    "n6": "jests'",
+    "n7": "a jest",
+    "n8": "many jests"
+}

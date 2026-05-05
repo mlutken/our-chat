@@ -1,0 +1,18 @@
+{
+    "base": "lobularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lobularity",
+    "n2": "lobularities",
+    "n3": "the lobularity",
+    "n4": "the lobularities",
+    "n5": "lobularity's",
+    "n6": "lobularities'",
+    "n7": "a lobularity",
+    "n8": "many lobularities"
+}

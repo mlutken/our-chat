@@ -1,0 +1,18 @@
+{
+    "base": "board of trustees",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "board of trustees",
+    "n2": "board of trusteeses",
+    "n3": "the board of trustees",
+    "n4": "the board of trusteeses",
+    "n5": "board of trustees'",
+    "n6": "board of trusteeses'",
+    "n7": "a board of trustees",
+    "n8": "many board of trusteeses"
+}

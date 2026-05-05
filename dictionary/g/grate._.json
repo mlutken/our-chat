@@ -1,11 +1,24 @@
 {
     "base": "grate",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "grate",
     "v2": "grated",
     "v3": "grated",
     "v4": "grating",
-    "v5": "grates"
+    "v5": "grates",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grate",
+    "n2": "grates",
+    "n3": "the grate",
+    "n4": "the grates",
+    "n5": "grate's",
+    "n6": "grates'",
+    "n7": "a grate",
+    "n8": "many grates"
 }

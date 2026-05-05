@@ -1,0 +1,18 @@
+{
+    "base": "stage left",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stage left",
+    "n2": "stage lefts",
+    "n3": "the stage left",
+    "n4": "the stage lefts",
+    "n5": "stage left's",
+    "n6": "stage lefts'",
+    "n7": "a stage left",
+    "n8": "many stage lefts"
+}

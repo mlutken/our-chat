@@ -1,0 +1,18 @@
+{
+    "base": "trompe l'oeil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trompe l'oeil",
+    "n2": "trompe l'oeils",
+    "n3": "the trompe l'oeil",
+    "n4": "the trompe l'oeils",
+    "n5": "trompe l'oeil's",
+    "n6": "trompe l'oeils'",
+    "n7": "a trompe l'oeil",
+    "n8": "many trompe l'oeils"
+}

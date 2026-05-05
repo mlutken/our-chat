@@ -1,0 +1,18 @@
+{
+    "base": "adobe house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "adobe house",
+    "n2": "adobe houses",
+    "n3": "the adobe house",
+    "n4": "the adobe houses",
+    "n5": "adobe house's",
+    "n6": "adobe houses'",
+    "n7": "an adobe house",
+    "n8": "many adobe houses"
+}

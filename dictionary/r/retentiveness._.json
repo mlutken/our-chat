@@ -1,0 +1,18 @@
+{
+    "base": "retentiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retentiveness",
+    "n2": "retentivenesses",
+    "n3": "the retentiveness",
+    "n4": "the retentivenesses",
+    "n5": "retentiveness'",
+    "n6": "retentivenesses'",
+    "n7": "a retentiveness",
+    "n8": "many retentivenesses"
+}

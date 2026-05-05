@@ -1,0 +1,18 @@
+{
+    "base": "patent leather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "patent leather",
+    "n2": "patent leathers",
+    "n3": "the patent leather",
+    "n4": "the patent leathers",
+    "n5": "patent leather's",
+    "n6": "patent leathers'",
+    "n7": "a patent leather",
+    "n8": "many patent leathers"
+}

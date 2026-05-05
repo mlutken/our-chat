@@ -1,0 +1,18 @@
+{
+    "base": "discomfited",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "discomfited",
+    "n2": "discomfiteds",
+    "n3": "the discomfited",
+    "n4": "the discomfiteds",
+    "n5": "discomfited's",
+    "n6": "discomfiteds'",
+    "n7": "a discomfited",
+    "n8": "many discomfiteds"
+}

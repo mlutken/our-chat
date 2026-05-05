@@ -1,0 +1,18 @@
+{
+    "base": "bugler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bugler",
+    "n2": "buglers",
+    "n3": "the bugler",
+    "n4": "the buglers",
+    "n5": "bugler's",
+    "n6": "buglers'",
+    "n7": "a bugler",
+    "n8": "many buglers"
+}

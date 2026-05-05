@@ -1,0 +1,18 @@
+{
+    "base": "appeal board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "appeal board",
+    "n2": "appeal boards",
+    "n3": "the appeal board",
+    "n4": "the appeal boards",
+    "n5": "appeal board's",
+    "n6": "appeal boards'",
+    "n7": "an appeal board",
+    "n8": "many appeal boards"
+}

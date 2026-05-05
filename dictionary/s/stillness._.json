@@ -1,0 +1,18 @@
+{
+    "base": "stillness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "stillness",
+    "n2": "stillnesses",
+    "n3": "the stillness",
+    "n4": "the stillnesses",
+    "n5": "stillness'",
+    "n6": "stillnesses'",
+    "n7": "a stillness",
+    "n8": "many stillnesses"
+}

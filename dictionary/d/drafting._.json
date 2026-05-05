@@ -1,0 +1,18 @@
+{
+    "base": "drafting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "drafting",
+    "n2": "draftings",
+    "n3": "the drafting",
+    "n4": "the draftings",
+    "n5": "drafting's",
+    "n6": "draftings'",
+    "n7": "a drafting",
+    "n8": "many draftings"
+}

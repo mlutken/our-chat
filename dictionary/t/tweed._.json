@@ -1,0 +1,18 @@
+{
+    "base": "tweed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tweed",
+    "n2": "tweeds",
+    "n3": "the tweed",
+    "n4": "the tweeds",
+    "n5": "tweed's",
+    "n6": "tweeds'",
+    "n7": "a tweed",
+    "n8": "many tweeds"
+}

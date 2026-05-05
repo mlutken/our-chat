@@ -1,0 +1,18 @@
+{
+    "base": "trade route",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trade route",
+    "n2": "trade routes",
+    "n3": "the trade route",
+    "n4": "the trade routes",
+    "n5": "trade route's",
+    "n6": "trade routes'",
+    "n7": "a trade route",
+    "n8": "many trade routes"
+}

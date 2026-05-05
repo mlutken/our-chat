@@ -1,0 +1,18 @@
+{
+    "base": "horizon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "horizon",
+    "n2": "horizons",
+    "n3": "the horizon",
+    "n4": "the horizons",
+    "n5": "horizon's",
+    "n6": "horizons'",
+    "n7": "a horizon",
+    "n8": "many horizons"
+}

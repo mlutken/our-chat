@@ -1,0 +1,18 @@
+{
+    "base": "escapade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "escapade",
+    "n2": "escapades",
+    "n3": "the escapade",
+    "n4": "the escapades",
+    "n5": "escapade's",
+    "n6": "escapades'",
+    "n7": "an escapade",
+    "n8": "many escapades"
+}

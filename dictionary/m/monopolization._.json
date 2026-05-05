@@ -1,0 +1,18 @@
+{
+    "base": "monopolization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monopolization",
+    "n2": "monopolizations",
+    "n3": "the monopolization",
+    "n4": "the monopolizations",
+    "n5": "monopolization's",
+    "n6": "monopolizations'",
+    "n7": "a monopolization",
+    "n8": "many monopolizations"
+}

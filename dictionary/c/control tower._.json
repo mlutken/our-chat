@@ -1,0 +1,18 @@
+{
+    "base": "control tower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "control tower",
+    "n2": "control towers",
+    "n3": "the control tower",
+    "n4": "the control towers",
+    "n5": "control tower's",
+    "n6": "control towers'",
+    "n7": "a control tower",
+    "n8": "many control towers"
+}

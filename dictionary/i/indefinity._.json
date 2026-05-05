@@ -1,0 +1,18 @@
+{
+    "base": "indefinity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indefinity",
+    "n2": "indefinities",
+    "n3": "the indefinity",
+    "n4": "the indefinities",
+    "n5": "indefinity's",
+    "n6": "indefinities'",
+    "n7": "an indefinity",
+    "n8": "many indefinities"
+}

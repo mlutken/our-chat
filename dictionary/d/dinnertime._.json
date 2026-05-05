@@ -1,0 +1,18 @@
+{
+    "base": "dinnertime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dinnertime",
+    "n2": "dinnertimes",
+    "n3": "the dinnertime",
+    "n4": "the dinnertimes",
+    "n5": "dinnertime's",
+    "n6": "dinnertimes'",
+    "n7": "a dinnertime",
+    "n8": "many dinnertimes"
+}

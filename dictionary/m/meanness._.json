@@ -1,0 +1,18 @@
+{
+    "base": "meanness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "meanness",
+    "n2": "meannesses",
+    "n3": "the meanness",
+    "n4": "the meannesses",
+    "n5": "meanness'",
+    "n6": "meannesses'",
+    "n7": "a meanness",
+    "n8": "many meannesses"
+}

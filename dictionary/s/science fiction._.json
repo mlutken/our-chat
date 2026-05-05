@@ -1,0 +1,18 @@
+{
+    "base": "science fiction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "science fiction",
+    "n2": "science fictions",
+    "n3": "the science fiction",
+    "n4": "the science fictions",
+    "n5": "science fiction's",
+    "n6": "science fictions'",
+    "n7": "a science fiction",
+    "n8": "many science fictions"
+}

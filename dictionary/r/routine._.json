@@ -7,5 +7,12 @@
     "n2": "routines",
     "n3": "the routine",
     "n4": "the routines",
-    "n5": "routine's"
+    "n5": "routine's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "routines'",
+    "n7": "a routine",
+    "n8": "many routines"
 }

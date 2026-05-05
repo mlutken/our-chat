@@ -1,0 +1,18 @@
+{
+    "base": "baton rouge",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "baton rouge",
+    "n2": "baton rouges",
+    "n3": "the baton rouge",
+    "n4": "the baton rouges",
+    "n5": "baton rouge's",
+    "n6": "baton rouges'",
+    "n7": "a baton rouge",
+    "n8": "many baton rouges"
+}

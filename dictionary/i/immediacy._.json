@@ -1,0 +1,18 @@
+{
+    "base": "immediacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "immediacy",
+    "n2": "immediacies",
+    "n3": "the immediacy",
+    "n4": "the immediacies",
+    "n5": "immediacy's",
+    "n6": "immediacies'",
+    "n7": "an immediacy",
+    "n8": "many immediacies"
+}

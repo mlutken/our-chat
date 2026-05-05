@@ -1,0 +1,18 @@
+{
+    "base": "czechoslovakia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "czechoslovakia",
+    "n2": "czechoslovakias",
+    "n3": "the czechoslovakia",
+    "n4": "the czechoslovakias",
+    "n5": "czechoslovakia's",
+    "n6": "czechoslovakias'",
+    "n7": "a czechoslovakia",
+    "n8": "many czechoslovakias"
+}

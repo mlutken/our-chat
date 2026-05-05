@@ -1,0 +1,18 @@
+{
+    "base": "fishing rod",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fishing rod",
+    "n2": "fishing rods",
+    "n3": "the fishing rod",
+    "n4": "the fishing rods",
+    "n5": "fishing rod's",
+    "n6": "fishing rods'",
+    "n7": "a fishing rod",
+    "n8": "many fishing rods"
+}

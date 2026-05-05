@@ -1,0 +1,18 @@
+{
+    "base": "splash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "splash",
+    "n2": "splashes",
+    "n3": "the splash",
+    "n4": "the splashes",
+    "n5": "splash's",
+    "n6": "splashes'",
+    "n7": "a splash",
+    "n8": "many splashes"
+}

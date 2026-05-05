@@ -1,0 +1,18 @@
+{
+    "base": "receiver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "receiver",
+    "n2": "receivers",
+    "n3": "the receiver",
+    "n4": "the receivers",
+    "n5": "receiver's",
+    "n6": "receivers'",
+    "n7": "a receiver",
+    "n8": "many receivers"
+}

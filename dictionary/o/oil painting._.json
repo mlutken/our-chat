@@ -1,0 +1,18 @@
+{
+    "base": "oil painting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oil painting",
+    "n2": "oil paintings",
+    "n3": "the oil painting",
+    "n4": "the oil paintings",
+    "n5": "oil painting's",
+    "n6": "oil paintings'",
+    "n7": "an oil painting",
+    "n8": "many oil paintings"
+}

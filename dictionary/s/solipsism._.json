@@ -1,0 +1,18 @@
+{
+    "base": "solipsism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solipsism",
+    "n2": "solipsisms",
+    "n3": "the solipsism",
+    "n4": "the solipsisms",
+    "n5": "solipsism's",
+    "n6": "solipsisms'",
+    "n7": "a solipsism",
+    "n8": "many solipsisms"
+}

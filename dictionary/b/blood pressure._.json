@@ -1,0 +1,18 @@
+{
+    "base": "blood pressure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blood pressure",
+    "n2": "blood pressures",
+    "n3": "the blood pressure",
+    "n4": "the blood pressures",
+    "n5": "blood pressure's",
+    "n6": "blood pressures'",
+    "n7": "a blood pressure",
+    "n8": "many blood pressures"
+}

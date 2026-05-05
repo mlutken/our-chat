@@ -1,0 +1,18 @@
+{
+    "base": "perturbation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "perturbation",
+    "n2": "perturbations",
+    "n3": "the perturbation",
+    "n4": "the perturbations",
+    "n5": "perturbation's",
+    "n6": "perturbations'",
+    "n7": "a perturbation",
+    "n8": "many perturbations"
+}

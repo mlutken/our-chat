@@ -1,0 +1,18 @@
+{
+    "base": "switchboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "switchboard",
+    "n2": "switchboards",
+    "n3": "the switchboard",
+    "n4": "the switchboards",
+    "n5": "switchboard's",
+    "n6": "switchboards'",
+    "n7": "a switchboard",
+    "n8": "many switchboards"
+}

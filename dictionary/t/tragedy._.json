@@ -1,0 +1,18 @@
+{
+    "base": "tragedy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "tragedy",
+    "n2": "tragedies",
+    "n3": "the tragedy",
+    "n4": "the tragedies",
+    "n5": "tragedy's",
+    "n6": "tragedies'",
+    "n7": "a tragedy",
+    "n8": "many tragedies"
+}

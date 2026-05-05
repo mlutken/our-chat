@@ -1,0 +1,18 @@
+{
+    "base": "boating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "boating",
+    "n2": "boatings",
+    "n3": "the boating",
+    "n4": "the boatings",
+    "n5": "boating's",
+    "n6": "boatings'",
+    "n7": "a boating",
+    "n8": "many boatings"
+}

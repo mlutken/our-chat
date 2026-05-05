@@ -1,0 +1,18 @@
+{
+    "base": "geographical area",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "geographical area",
+    "n2": "geographical areas",
+    "n3": "the geographical area",
+    "n4": "the geographical areas",
+    "n5": "geographical area's",
+    "n6": "geographical areas'",
+    "n7": "a geographical area",
+    "n8": "many geographical areas"
+}

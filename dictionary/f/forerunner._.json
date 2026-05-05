@@ -1,0 +1,18 @@
+{
+    "base": "forerunner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "forerunner",
+    "n2": "forerunners",
+    "n3": "the forerunner",
+    "n4": "the forerunners",
+    "n5": "forerunner's",
+    "n6": "forerunners'",
+    "n7": "a forerunner",
+    "n8": "many forerunners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "prohibition era",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prohibition era",
+    "n2": "prohibition eras",
+    "n3": "the prohibition era",
+    "n4": "the prohibition eras",
+    "n5": "prohibition era's",
+    "n6": "prohibition eras'",
+    "n7": "a prohibition era",
+    "n8": "many prohibition eras"
+}

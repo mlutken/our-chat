@@ -1,0 +1,18 @@
+{
+    "base": "terminology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "terminology",
+    "n2": "terminologies",
+    "n3": "the terminology",
+    "n4": "the terminologies",
+    "n5": "terminology's",
+    "n6": "terminologies'",
+    "n7": "a terminology",
+    "n8": "many terminologies"
+}

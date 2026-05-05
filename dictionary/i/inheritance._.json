@@ -1,0 +1,18 @@
+{
+    "base": "inheritance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inheritance",
+    "n2": "inheritances",
+    "n3": "the inheritance",
+    "n4": "the inheritances",
+    "n5": "inheritance's",
+    "n6": "inheritances'",
+    "n7": "an inheritance",
+    "n8": "many inheritances"
+}

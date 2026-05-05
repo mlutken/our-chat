@@ -7,5 +7,12 @@
     "n2": "banks",
     "n3": "the bank",
     "n4": "the banks",
-    "n5": "bank's"
+    "n5": "bank's",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n6": "banks'",
+    "n7": "a bank",
+    "n8": "many banks"
 }

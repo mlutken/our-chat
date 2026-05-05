@@ -1,0 +1,18 @@
+{
+    "base": "mourner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mourner",
+    "n2": "mourners",
+    "n3": "the mourner",
+    "n4": "the mourners",
+    "n5": "mourner's",
+    "n6": "mourners'",
+    "n7": "a mourner",
+    "n8": "many mourners"
+}

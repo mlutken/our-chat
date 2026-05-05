@@ -1,0 +1,18 @@
+{
+    "base": "yellow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "yellow",
+    "n2": "yellows",
+    "n3": "the yellow",
+    "n4": "the yellows",
+    "n5": "yellow's",
+    "n6": "yellows'",
+    "n7": "a yellow",
+    "n8": "many yellows"
+}

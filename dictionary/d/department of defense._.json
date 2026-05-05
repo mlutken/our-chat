@@ -1,0 +1,18 @@
+{
+    "base": "department of defense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "department of defense",
+    "n2": "department of defenses",
+    "n3": "the department of defense",
+    "n4": "the department of defenses",
+    "n5": "department of defense's",
+    "n6": "department of defenses'",
+    "n7": "a department of defense",
+    "n8": "many department of defenses"
+}

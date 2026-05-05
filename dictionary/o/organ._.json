@@ -1,0 +1,18 @@
+{
+    "base": "organ",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "organ",
+    "n2": "organs",
+    "n3": "the organ",
+    "n4": "the organs",
+    "n5": "organ's",
+    "n6": "organs'",
+    "n7": "an organ",
+    "n8": "many organs"
+}

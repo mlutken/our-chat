@@ -1,0 +1,18 @@
+{
+    "base": "world record",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "world record",
+    "n2": "world records",
+    "n3": "the world record",
+    "n4": "the world records",
+    "n5": "world record's",
+    "n6": "world records'",
+    "n7": "a world record",
+    "n8": "many world records"
+}

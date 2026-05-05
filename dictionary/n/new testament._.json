@@ -1,0 +1,18 @@
+{
+    "base": "new testament",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "new testament",
+    "n2": "new testaments",
+    "n3": "the new testament",
+    "n4": "the new testaments",
+    "n5": "new testament's",
+    "n6": "new testaments'",
+    "n7": "a new testament",
+    "n8": "many new testaments"
+}

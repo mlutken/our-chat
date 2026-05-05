@@ -1,0 +1,18 @@
+{
+    "base": "septation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "septation",
+    "n2": "septations",
+    "n3": "the septation",
+    "n4": "the septations",
+    "n5": "septation's",
+    "n6": "septations'",
+    "n7": "a septation",
+    "n8": "many septations"
+}

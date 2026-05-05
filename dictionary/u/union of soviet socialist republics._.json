@@ -1,0 +1,18 @@
+{
+    "base": "union of soviet socialist republics",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "union of soviet socialist republics",
+    "n2": "union of soviet socialist republicses",
+    "n3": "the union of soviet socialist republics",
+    "n4": "the union of soviet socialist republicses",
+    "n5": "union of soviet socialist republics'",
+    "n6": "union of soviet socialist republicses'",
+    "n7": "a union of soviet socialist republics",
+    "n8": "many union of soviet socialist republicses"
+}

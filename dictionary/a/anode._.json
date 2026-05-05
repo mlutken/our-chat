@@ -1,0 +1,18 @@
+{
+    "base": "anode",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 66,
+    "max_commonness": 6834,
+    "commonness_ge_count": 228,
+    "n1": "anode",
+    "n2": "anodes",
+    "n3": "the anode",
+    "n4": "the anodes",
+    "n5": "anode's",
+    "n6": "anodes'",
+    "n7": "an anode",
+    "n8": "many anodes"
+}

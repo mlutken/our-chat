@@ -1,0 +1,18 @@
+{
+    "base": "objectivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "objectivity",
+    "n2": "objectivities",
+    "n3": "the objectivity",
+    "n4": "the objectivities",
+    "n5": "objectivity's",
+    "n6": "objectivities'",
+    "n7": "an objectivity",
+    "n8": "many objectivities"
+}

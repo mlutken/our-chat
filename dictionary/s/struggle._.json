@@ -1,0 +1,18 @@
+{
+    "base": "struggle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "struggle",
+    "n2": "struggles",
+    "n3": "the struggle",
+    "n4": "the struggles",
+    "n5": "struggle's",
+    "n6": "struggles'",
+    "n7": "a struggle",
+    "n8": "many struggles"
+}

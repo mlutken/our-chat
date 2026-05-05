@@ -1,0 +1,18 @@
+{
+    "base": "householder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "householder",
+    "n2": "householders",
+    "n3": "the householder",
+    "n4": "the householders",
+    "n5": "householder's",
+    "n6": "householders'",
+    "n7": "a householder",
+    "n8": "many householders"
+}

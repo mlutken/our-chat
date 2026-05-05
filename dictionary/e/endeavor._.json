@@ -1,0 +1,18 @@
+{
+    "base": "endeavor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "endeavor",
+    "n2": "endeavors",
+    "n3": "the endeavor",
+    "n4": "the endeavors",
+    "n5": "endeavor's",
+    "n6": "endeavors'",
+    "n7": "an endeavor",
+    "n8": "many endeavors"
+}

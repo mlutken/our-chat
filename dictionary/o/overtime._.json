@@ -1,0 +1,18 @@
+{
+    "base": "overtime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overtime",
+    "n2": "overtimes",
+    "n3": "the overtime",
+    "n4": "the overtimes",
+    "n5": "overtime's",
+    "n6": "overtimes'",
+    "n7": "an overtime",
+    "n8": "many overtimes"
+}

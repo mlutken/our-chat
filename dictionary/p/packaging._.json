@@ -1,0 +1,18 @@
+{
+    "base": "packaging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "packaging",
+    "n2": "packagings",
+    "n3": "the packaging",
+    "n4": "the packagings",
+    "n5": "packaging's",
+    "n6": "packagings'",
+    "n7": "a packaging",
+    "n8": "many packagings"
+}

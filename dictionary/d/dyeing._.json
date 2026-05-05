@@ -1,0 +1,18 @@
+{
+    "base": "dyeing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dyeing",
+    "n2": "dyeings",
+    "n3": "the dyeing",
+    "n4": "the dyeings",
+    "n5": "dyeing's",
+    "n6": "dyeings'",
+    "n7": "a dyeing",
+    "n8": "many dyeings"
+}

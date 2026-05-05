@@ -1,0 +1,18 @@
+{
+    "base": "pun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pun",
+    "n2": "puns",
+    "n3": "the pun",
+    "n4": "the puns",
+    "n5": "pun's",
+    "n6": "puns'",
+    "n7": "a pun",
+    "n8": "many puns"
+}

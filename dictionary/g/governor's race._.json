@@ -1,0 +1,18 @@
+{
+    "base": "governor's race",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "governor's race",
+    "n2": "governor's races",
+    "n3": "the governor's race",
+    "n4": "the governor's races",
+    "n5": "governor's race's",
+    "n6": "governor's races'",
+    "n7": "a governor's race",
+    "n8": "many governor's races"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rheumatic fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rheumatic fever",
+    "n2": "rheumatic fevers",
+    "n3": "the rheumatic fever",
+    "n4": "the rheumatic fevers",
+    "n5": "rheumatic fever's",
+    "n6": "rheumatic fevers'",
+    "n7": "a rheumatic fever",
+    "n8": "many rheumatic fevers"
+}

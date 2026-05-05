@@ -1,0 +1,18 @@
+{
+    "base": "delivery boy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delivery boy",
+    "n2": "delivery boys",
+    "n3": "the delivery boy",
+    "n4": "the delivery boys",
+    "n5": "delivery boy's",
+    "n6": "delivery boys'",
+    "n7": "a delivery boy",
+    "n8": "many delivery boys"
+}

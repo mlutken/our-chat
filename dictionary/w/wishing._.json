@@ -1,0 +1,18 @@
+{
+    "base": "wishing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wishing",
+    "n2": "wishings",
+    "n3": "the wishing",
+    "n4": "the wishings",
+    "n5": "wishing's",
+    "n6": "wishings'",
+    "n7": "a wishing",
+    "n8": "many wishings"
+}

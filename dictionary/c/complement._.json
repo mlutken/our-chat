@@ -1,0 +1,18 @@
+{
+    "base": "complement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "complement",
+    "n2": "complements",
+    "n3": "the complement",
+    "n4": "the complements",
+    "n5": "complement's",
+    "n6": "complements'",
+    "n7": "a complement",
+    "n8": "many complements"
+}

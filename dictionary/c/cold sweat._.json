@@ -1,0 +1,18 @@
+{
+    "base": "cold sweat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cold sweat",
+    "n2": "cold sweats",
+    "n3": "the cold sweat",
+    "n4": "the cold sweats",
+    "n5": "cold sweat's",
+    "n6": "cold sweats'",
+    "n7": "a cold sweat",
+    "n8": "many cold sweats"
+}

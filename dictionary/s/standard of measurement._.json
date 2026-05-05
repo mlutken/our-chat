@@ -1,0 +1,18 @@
+{
+    "base": "standard of measurement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "standard of measurement",
+    "n2": "standard of measurements",
+    "n3": "the standard of measurement",
+    "n4": "the standard of measurements",
+    "n5": "standard of measurement's",
+    "n6": "standard of measurements'",
+    "n7": "a standard of measurement",
+    "n8": "many standard of measurements"
+}

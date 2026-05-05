@@ -1,0 +1,18 @@
+{
+    "base": "spirits",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spirits",
+    "n2": "spiritses",
+    "n3": "the spirits",
+    "n4": "the spiritses",
+    "n5": "spirits'",
+    "n6": "spiritses'",
+    "n7": "a spirits",
+    "n8": "many spiritses"
+}

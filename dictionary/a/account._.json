@@ -7,5 +7,12 @@
     "n2": "accounts",
     "n3": "the account",
     "n4": "the accounts",
-    "n5": "account's"
+    "n5": "account's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "accounts'",
+    "n7": "an account",
+    "n8": "many accounts"
 }

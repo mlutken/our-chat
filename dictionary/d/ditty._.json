@@ -1,0 +1,18 @@
+{
+    "base": "ditty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ditty",
+    "n2": "ditties",
+    "n3": "the ditty",
+    "n4": "the ditties",
+    "n5": "ditty's",
+    "n6": "ditties'",
+    "n7": "a ditty",
+    "n8": "many ditties"
+}

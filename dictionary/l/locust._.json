@@ -1,0 +1,18 @@
+{
+    "base": "locust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "locust",
+    "n2": "locusts",
+    "n3": "the locust",
+    "n4": "the locusts",
+    "n5": "locust's",
+    "n6": "locusts'",
+    "n7": "a locust",
+    "n8": "many locusts"
+}

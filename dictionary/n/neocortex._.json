@@ -1,0 +1,18 @@
+{
+    "base": "neocortex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "neocortex",
+    "n2": "neocortexes",
+    "n3": "the neocortex",
+    "n4": "the neocortexes",
+    "n5": "neocortex's",
+    "n6": "neocortexes'",
+    "n7": "a neocortex",
+    "n8": "many neocortexes"
+}

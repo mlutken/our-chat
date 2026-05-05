@@ -1,0 +1,18 @@
+{
+    "base": "window box",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "window box",
+    "n2": "window boxes",
+    "n3": "the window box",
+    "n4": "the window boxes",
+    "n5": "window box's",
+    "n6": "window boxes'",
+    "n7": "a window box",
+    "n8": "many window boxes"
+}

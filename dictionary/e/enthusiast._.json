@@ -1,0 +1,18 @@
+{
+    "base": "enthusiast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enthusiast",
+    "n2": "enthusiasts",
+    "n3": "the enthusiast",
+    "n4": "the enthusiasts",
+    "n5": "enthusiast's",
+    "n6": "enthusiasts'",
+    "n7": "an enthusiast",
+    "n8": "many enthusiasts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sonny boy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sonny boy",
+    "n2": "sonny boys",
+    "n3": "the sonny boy",
+    "n4": "the sonny boys",
+    "n5": "sonny boy's",
+    "n6": "sonny boys'",
+    "n7": "a sonny boy",
+    "n8": "many sonny boys"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "worthlessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worthlessness",
+    "n2": "worthlessnesses",
+    "n3": "the worthlessness",
+    "n4": "the worthlessnesses",
+    "n5": "worthlessness'",
+    "n6": "worthlessnesses'",
+    "n7": "a worthlessness",
+    "n8": "many worthlessnesses"
+}

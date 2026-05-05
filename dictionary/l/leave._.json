@@ -1,11 +1,24 @@
 {
     "base": "leave",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "leave",
     "v2": "left",
     "v3": "left",
     "v4": "leaving",
-    "v5": "leaves"
+    "v5": "leaves",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "leave",
+    "n2": "leaves",
+    "n3": "the leave",
+    "n4": "the leaves",
+    "n5": "leave's",
+    "n6": "leaves'",
+    "n7": "a leave",
+    "n8": "many leaves"
 }

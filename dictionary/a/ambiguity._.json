@@ -1,0 +1,18 @@
+{
+    "base": "ambiguity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ambiguity",
+    "n2": "ambiguities",
+    "n3": "the ambiguity",
+    "n4": "the ambiguities",
+    "n5": "ambiguity's",
+    "n6": "ambiguities'",
+    "n7": "an ambiguity",
+    "n8": "many ambiguities"
+}

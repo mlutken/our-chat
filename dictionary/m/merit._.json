@@ -1,0 +1,18 @@
+{
+    "base": "merit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "merit",
+    "n2": "merits",
+    "n3": "the merit",
+    "n4": "the merits",
+    "n5": "merit's",
+    "n6": "merits'",
+    "n7": "a merit",
+    "n8": "many merits"
+}

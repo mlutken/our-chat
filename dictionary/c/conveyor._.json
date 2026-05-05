@@ -1,0 +1,18 @@
+{
+    "base": "conveyor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conveyor",
+    "n2": "conveyors",
+    "n3": "the conveyor",
+    "n4": "the conveyors",
+    "n5": "conveyor's",
+    "n6": "conveyors'",
+    "n7": "a conveyor",
+    "n8": "many conveyors"
+}

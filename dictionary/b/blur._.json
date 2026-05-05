@@ -1,0 +1,18 @@
+{
+    "base": "blur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "blur",
+    "n2": "blurs",
+    "n3": "the blur",
+    "n4": "the blurs",
+    "n5": "blur's",
+    "n6": "blurs'",
+    "n7": "a blur",
+    "n8": "many blurs"
+}

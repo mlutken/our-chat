@@ -1,0 +1,18 @@
+{
+    "base": "dishwater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dishwater",
+    "n2": "dishwaters",
+    "n3": "the dishwater",
+    "n4": "the dishwaters",
+    "n5": "dishwater's",
+    "n6": "dishwaters'",
+    "n7": "a dishwater",
+    "n8": "many dishwaters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "proceedings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "proceedings",
+    "n2": "proceedingses",
+    "n3": "the proceedings",
+    "n4": "the proceedingses",
+    "n5": "proceedings'",
+    "n6": "proceedingses'",
+    "n7": "a proceedings",
+    "n8": "many proceedingses"
+}

@@ -7,5 +7,12 @@
     "n2": "transfers",
     "n3": "the transfer",
     "n4": "the transfers",
-    "n5": "transfer's"
+    "n5": "transfer's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "transfers'",
+    "n7": "a transfer",
+    "n8": "many transfers"
 }

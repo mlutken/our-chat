@@ -1,0 +1,18 @@
+{
+    "base": "fluid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "fluid",
+    "n2": "fluids",
+    "n3": "the fluid",
+    "n4": "the fluids",
+    "n5": "fluid's",
+    "n6": "fluids'",
+    "n7": "a fluid",
+    "n8": "many fluids"
+}

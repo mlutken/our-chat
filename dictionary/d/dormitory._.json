@@ -1,0 +1,18 @@
+{
+    "base": "dormitory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dormitory",
+    "n2": "dormitories",
+    "n3": "the dormitory",
+    "n4": "the dormitories",
+    "n5": "dormitory's",
+    "n6": "dormitories'",
+    "n7": "a dormitory",
+    "n8": "many dormitories"
+}

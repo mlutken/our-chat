@@ -1,0 +1,18 @@
+{
+    "base": "acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "acid",
+    "n2": "acids",
+    "n3": "the acid",
+    "n4": "the acids",
+    "n5": "acid's",
+    "n6": "acids'",
+    "n7": "an acid",
+    "n8": "many acids"
+}

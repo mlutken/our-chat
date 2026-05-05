@@ -1,0 +1,18 @@
+{
+    "base": "life class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "life class",
+    "n2": "life classes",
+    "n3": "the life class",
+    "n4": "the life classes",
+    "n5": "life class'",
+    "n6": "life classes'",
+    "n7": "a life class",
+    "n8": "many life classes"
+}

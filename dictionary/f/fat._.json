@@ -11,5 +11,12 @@
     "n5": "fat's",
     "adj1": "fat",
     "adj2": "fatter",
-    "adj3": "fattest"
+    "adj3": "fattest",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "fats'",
+    "n7": "a fat",
+    "n8": "many fats"
 }

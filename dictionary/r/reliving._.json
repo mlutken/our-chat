@@ -1,0 +1,18 @@
+{
+    "base": "reliving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "reliving",
+    "n2": "relivings",
+    "n3": "the reliving",
+    "n4": "the relivings",
+    "n5": "reliving's",
+    "n6": "relivings'",
+    "n7": "a reliving",
+    "n8": "many relivings"
+}

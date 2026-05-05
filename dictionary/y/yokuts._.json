@@ -1,0 +1,18 @@
+{
+    "base": "yokuts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "yokuts",
+    "n2": "yokutses",
+    "n3": "the yokuts",
+    "n4": "the yokutses",
+    "n5": "yokuts'",
+    "n6": "yokutses'",
+    "n7": "a yokuts",
+    "n8": "many yokutses"
+}

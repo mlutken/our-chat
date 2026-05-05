@@ -1,11 +1,24 @@
 {
     "base": "harm",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "harm",
     "v2": "harmed",
     "v3": "harmed",
     "v4": "harming",
-    "v5": "harms"
+    "v5": "harms",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "harm",
+    "n2": "harms",
+    "n3": "the harm",
+    "n4": "the harms",
+    "n5": "harm's",
+    "n6": "harms'",
+    "n7": "a harm",
+    "n8": "many harms"
 }

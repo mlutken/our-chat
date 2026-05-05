@@ -1,0 +1,18 @@
+{
+    "base": "marine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marine",
+    "n2": "marines",
+    "n3": "the marine",
+    "n4": "the marines",
+    "n5": "marine's",
+    "n6": "marines'",
+    "n7": "a marine",
+    "n8": "many marines"
+}

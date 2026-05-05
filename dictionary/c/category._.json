@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "category",
-    "n2": "categorys",
+    "n2": "categories",
     "n3": "the category",
-    "n4": "the categorys",
-    "n5": "category's"
+    "n4": "the categories",
+    "n5": "category's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "categories'",
+    "n7": "a category",
+    "n8": "many categories"
 }

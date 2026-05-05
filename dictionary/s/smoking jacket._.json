@@ -1,0 +1,18 @@
+{
+    "base": "smoking jacket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "smoking jacket",
+    "n2": "smoking jackets",
+    "n3": "the smoking jacket",
+    "n4": "the smoking jackets",
+    "n5": "smoking jacket's",
+    "n6": "smoking jackets'",
+    "n7": "a smoking jacket",
+    "n8": "many smoking jackets"
+}

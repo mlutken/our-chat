@@ -1,0 +1,18 @@
+{
+    "base": "detractor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "detractor",
+    "n2": "detractors",
+    "n3": "the detractor",
+    "n4": "the detractors",
+    "n5": "detractor's",
+    "n6": "detractors'",
+    "n7": "a detractor",
+    "n8": "many detractors"
+}

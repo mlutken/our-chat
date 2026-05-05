@@ -1,0 +1,18 @@
+{
+    "base": "stumping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stumping",
+    "n2": "stumpings",
+    "n3": "the stumping",
+    "n4": "the stumpings",
+    "n5": "stumping's",
+    "n6": "stumpings'",
+    "n7": "a stumping",
+    "n8": "many stumpings"
+}

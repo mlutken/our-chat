@@ -1,0 +1,18 @@
+{
+    "base": "dining table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dining table",
+    "n2": "dining tables",
+    "n3": "the dining table",
+    "n4": "the dining tables",
+    "n5": "dining table's",
+    "n6": "dining tables'",
+    "n7": "a dining table",
+    "n8": "many dining tables"
+}

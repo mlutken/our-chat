@@ -1,0 +1,18 @@
+{
+    "base": "venezuela",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "venezuela",
+    "n2": "venezuelas",
+    "n3": "the venezuela",
+    "n4": "the venezuelas",
+    "n5": "venezuela's",
+    "n6": "venezuelas'",
+    "n7": "a venezuela",
+    "n8": "many venezuelas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "childishness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "childishness",
+    "n2": "childishnesses",
+    "n3": "the childishness",
+    "n4": "the childishnesses",
+    "n5": "childishness'",
+    "n6": "childishnesses'",
+    "n7": "a childishness",
+    "n8": "many childishnesses"
+}

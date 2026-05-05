@@ -1,0 +1,18 @@
+{
+    "base": "alabaster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "alabaster",
+    "n2": "alabasters",
+    "n3": "the alabaster",
+    "n4": "the alabasters",
+    "n5": "alabaster's",
+    "n6": "alabasters'",
+    "n7": "an alabaster",
+    "n8": "many alabasters"
+}

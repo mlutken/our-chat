@@ -1,0 +1,18 @@
+{
+    "base": "ketch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ketch",
+    "n2": "ketches",
+    "n3": "the ketch",
+    "n4": "the ketches",
+    "n5": "ketch's",
+    "n6": "ketches'",
+    "n7": "a ketch",
+    "n8": "many ketches"
+}

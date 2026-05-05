@@ -1,0 +1,18 @@
+{
+    "base": "woodshed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "woodshed",
+    "n2": "woodsheds",
+    "n3": "the woodshed",
+    "n4": "the woodsheds",
+    "n5": "woodshed's",
+    "n6": "woodsheds'",
+    "n7": "a woodshed",
+    "n8": "many woodsheds"
+}

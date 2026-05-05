@@ -1,0 +1,18 @@
+{
+    "base": "psychotherapy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "psychotherapy",
+    "n2": "psychotherapies",
+    "n3": "the psychotherapy",
+    "n4": "the psychotherapies",
+    "n5": "psychotherapy's",
+    "n6": "psychotherapies'",
+    "n7": "a psychotherapy",
+    "n8": "many psychotherapies"
+}

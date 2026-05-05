@@ -1,0 +1,18 @@
+{
+    "base": "shoe repairing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoe repairing",
+    "n2": "shoe repairings",
+    "n3": "the shoe repairing",
+    "n4": "the shoe repairings",
+    "n5": "shoe repairing's",
+    "n6": "shoe repairings'",
+    "n7": "a shoe repairing",
+    "n8": "many shoe repairings"
+}

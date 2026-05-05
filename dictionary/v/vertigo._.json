@@ -1,0 +1,18 @@
+{
+    "base": "vertigo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vertigo",
+    "n2": "vertigines",
+    "n3": "the vertigo",
+    "n4": "the vertigines",
+    "n5": "vertigo's",
+    "n6": "vertigines'",
+    "n7": "a vertigo",
+    "n8": "many vertigines"
+}

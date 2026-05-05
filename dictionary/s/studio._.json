@@ -7,5 +7,12 @@
     "n2": "studios",
     "n3": "the studio",
     "n4": "the studios",
-    "n5": "studio's"
+    "n5": "studio's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "studios'",
+    "n7": "a studio",
+    "n8": "many studios"
 }

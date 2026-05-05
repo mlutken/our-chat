@@ -1,0 +1,18 @@
+{
+    "base": "meddling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "meddling",
+    "n2": "meddlings",
+    "n3": "the meddling",
+    "n4": "the meddlings",
+    "n5": "meddling's",
+    "n6": "meddlings'",
+    "n7": "a meddling",
+    "n8": "many meddlings"
+}

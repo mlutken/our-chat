@@ -1,0 +1,18 @@
+{
+    "base": "radio wave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "radio wave",
+    "n2": "radio waves",
+    "n3": "the radio wave",
+    "n4": "the radio waves",
+    "n5": "radio wave's",
+    "n6": "radio waves'",
+    "n7": "a radio wave",
+    "n8": "many radio waves"
+}

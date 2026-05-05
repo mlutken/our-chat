@@ -1,0 +1,18 @@
+{
+    "base": "causal factor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "causal factor",
+    "n2": "causal factors",
+    "n3": "the causal factor",
+    "n4": "the causal factors",
+    "n5": "causal factor's",
+    "n6": "causal factors'",
+    "n7": "a causal factor",
+    "n8": "many causal factors"
+}

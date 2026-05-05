@@ -1,0 +1,18 @@
+{
+    "base": "ledger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ledger",
+    "n2": "ledgers",
+    "n3": "the ledger",
+    "n4": "the ledgers",
+    "n5": "ledger's",
+    "n6": "ledgers'",
+    "n7": "a ledger",
+    "n8": "many ledgers"
+}

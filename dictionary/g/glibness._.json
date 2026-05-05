@@ -1,0 +1,18 @@
+{
+    "base": "glibness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glibness",
+    "n2": "glibnesses",
+    "n3": "the glibness",
+    "n4": "the glibnesses",
+    "n5": "glibness'",
+    "n6": "glibnesses'",
+    "n7": "a glibness",
+    "n8": "many glibnesses"
+}

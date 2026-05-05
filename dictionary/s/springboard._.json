@@ -1,0 +1,18 @@
+{
+    "base": "springboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "springboard",
+    "n2": "springboards",
+    "n3": "the springboard",
+    "n4": "the springboards",
+    "n5": "springboard's",
+    "n6": "springboards'",
+    "n7": "a springboard",
+    "n8": "many springboards"
+}

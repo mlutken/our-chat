@@ -1,0 +1,18 @@
+{
+    "base": "wishful thinking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wishful thinking",
+    "n2": "wishful thinkings",
+    "n3": "the wishful thinking",
+    "n4": "the wishful thinkings",
+    "n5": "wishful thinking's",
+    "n6": "wishful thinkings'",
+    "n7": "a wishful thinking",
+    "n8": "many wishful thinkings"
+}

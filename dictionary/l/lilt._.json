@@ -1,0 +1,18 @@
+{
+    "base": "lilt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lilt",
+    "n2": "lilts",
+    "n3": "the lilt",
+    "n4": "the lilts",
+    "n5": "lilt's",
+    "n6": "lilts'",
+    "n7": "a lilt",
+    "n8": "many lilts"
+}

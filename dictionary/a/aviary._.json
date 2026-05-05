@@ -1,0 +1,18 @@
+{
+    "base": "aviary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aviary",
+    "n2": "aviaries",
+    "n3": "the aviary",
+    "n4": "the aviaries",
+    "n5": "aviary's",
+    "n6": "aviaries'",
+    "n7": "an aviary",
+    "n8": "many aviaries"
+}

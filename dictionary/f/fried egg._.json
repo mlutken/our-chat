@@ -1,0 +1,18 @@
+{
+    "base": "fried egg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fried egg",
+    "n2": "fried eggs",
+    "n3": "the fried egg",
+    "n4": "the fried eggs",
+    "n5": "fried egg's",
+    "n6": "fried eggs'",
+    "n7": "a fried egg",
+    "n8": "many fried eggs"
+}

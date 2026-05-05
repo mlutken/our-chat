@@ -1,0 +1,18 @@
+{
+    "base": "suspension bridge",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suspension bridge",
+    "n2": "suspension bridges",
+    "n3": "the suspension bridge",
+    "n4": "the suspension bridges",
+    "n5": "suspension bridge's",
+    "n6": "suspension bridges'",
+    "n7": "a suspension bridge",
+    "n8": "many suspension bridges"
+}

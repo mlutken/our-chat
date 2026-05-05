@@ -1,0 +1,18 @@
+{
+    "base": "rodeo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rodeo",
+    "n2": "rodeos",
+    "n3": "the rodeo",
+    "n4": "the rodeos",
+    "n5": "rodeo's",
+    "n6": "rodeos'",
+    "n7": "a rodeo",
+    "n8": "many rodeos"
+}

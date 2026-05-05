@@ -1,0 +1,18 @@
+{
+    "base": "t-square",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "t-square",
+    "n2": "t-squares",
+    "n3": "the t-square",
+    "n4": "the t-squares",
+    "n5": "t-square's",
+    "n6": "t-squares'",
+    "n7": "a t-square",
+    "n8": "many t-squares"
+}

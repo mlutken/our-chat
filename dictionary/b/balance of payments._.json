@@ -1,0 +1,18 @@
+{
+    "base": "balance of payments",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balance of payments",
+    "n2": "balance of paymentses",
+    "n3": "the balance of payments",
+    "n4": "the balance of paymentses",
+    "n5": "balance of payments'",
+    "n6": "balance of paymentses'",
+    "n7": "a balance of payments",
+    "n8": "many balance of paymentses"
+}

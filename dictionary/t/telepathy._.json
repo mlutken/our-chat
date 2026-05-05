@@ -1,0 +1,18 @@
+{
+    "base": "telepathy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telepathy",
+    "n2": "telepathies",
+    "n3": "the telepathy",
+    "n4": "the telepathies",
+    "n5": "telepathy's",
+    "n6": "telepathies'",
+    "n7": "a telepathy",
+    "n8": "many telepathies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "snuffer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snuffer",
+    "n2": "snuffers",
+    "n3": "the snuffer",
+    "n4": "the snuffers",
+    "n5": "snuffer's",
+    "n6": "snuffers'",
+    "n7": "a snuffer",
+    "n8": "many snuffers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "myrtle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "myrtle",
+    "n2": "myrtles",
+    "n3": "the myrtle",
+    "n4": "the myrtles",
+    "n5": "myrtle's",
+    "n6": "myrtles'",
+    "n7": "a myrtle",
+    "n8": "many myrtles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "technical school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "technical school",
+    "n2": "technical schools",
+    "n3": "the technical school",
+    "n4": "the technical schools",
+    "n5": "technical school's",
+    "n6": "technical schools'",
+    "n7": "a technical school",
+    "n8": "many technical schools"
+}

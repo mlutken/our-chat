@@ -1,0 +1,18 @@
+{
+    "base": "beer bottle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "beer bottle",
+    "n2": "beer bottles",
+    "n3": "the beer bottle",
+    "n4": "the beer bottles",
+    "n5": "beer bottle's",
+    "n6": "beer bottles'",
+    "n7": "a beer bottle",
+    "n8": "many beer bottles"
+}

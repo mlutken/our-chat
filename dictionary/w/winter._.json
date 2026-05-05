@@ -7,5 +7,12 @@
     "n2": "winters",
     "n3": "the winter",
     "n4": "the winters",
-    "n5": "winter's"
+    "n5": "winter's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "winters'",
+    "n7": "a winter",
+    "n8": "many winters"
 }

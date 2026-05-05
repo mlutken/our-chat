@@ -1,0 +1,18 @@
+{
+    "base": "flutter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flutter",
+    "n2": "flutters",
+    "n3": "the flutter",
+    "n4": "the flutters",
+    "n5": "flutter's",
+    "n6": "flutters'",
+    "n7": "a flutter",
+    "n8": "many flutters"
+}

@@ -1,11 +1,24 @@
 {
     "base": "land",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "land",
     "v2": "landed",
     "v3": "landed",
     "v4": "landing",
-    "v5": "lands"
+    "v5": "lands",
+    "proper": false,
+    "commonness": 74,
+    "max_commonness": 6834,
+    "commonness_ge_count": 185,
+    "n1": "land",
+    "n2": "lands",
+    "n3": "the land",
+    "n4": "the lands",
+    "n5": "land's",
+    "n6": "lands'",
+    "n7": "a land",
+    "n8": "many lands"
 }

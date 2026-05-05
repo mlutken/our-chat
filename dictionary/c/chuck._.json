@@ -1,0 +1,18 @@
+{
+    "base": "chuck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chuck",
+    "n2": "chucks",
+    "n3": "the chuck",
+    "n4": "the chucks",
+    "n5": "chuck's",
+    "n6": "chucks'",
+    "n7": "a chuck",
+    "n8": "many chucks"
+}

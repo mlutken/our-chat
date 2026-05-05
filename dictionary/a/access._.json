@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "access",
-    "n2": "access",
+    "n2": "accesses",
     "n3": "the access",
-    "n4": "the access",
-    "n5": "access's"
+    "n4": "the accesses",
+    "n5": "access'",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "accesses'",
+    "n7": "an access",
+    "n8": "many accesses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "abstract",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abstract",
+    "n2": "abstracts",
+    "n3": "the abstract",
+    "n4": "the abstracts",
+    "n5": "abstract's",
+    "n6": "abstracts'",
+    "n7": "an abstract",
+    "n8": "many abstracts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sulky",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sulky",
+    "n2": "sulkies",
+    "n3": "the sulky",
+    "n4": "the sulkies",
+    "n5": "sulky's",
+    "n6": "sulkies'",
+    "n7": "a sulky",
+    "n8": "many sulkies"
+}

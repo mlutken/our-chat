@@ -1,0 +1,18 @@
+{
+    "base": "abuse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abuse",
+    "n2": "abuses",
+    "n3": "the abuse",
+    "n4": "the abuses",
+    "n5": "abuse's",
+    "n6": "abuses'",
+    "n7": "an abuse",
+    "n8": "many abuses"
+}

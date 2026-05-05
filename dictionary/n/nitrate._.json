@@ -1,0 +1,18 @@
+{
+    "base": "nitrate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nitrate",
+    "n2": "nitrates",
+    "n3": "the nitrate",
+    "n4": "the nitrates",
+    "n5": "nitrate's",
+    "n6": "nitrates'",
+    "n7": "a nitrate",
+    "n8": "many nitrates"
+}

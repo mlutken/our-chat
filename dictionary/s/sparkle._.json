@@ -1,0 +1,18 @@
+{
+    "base": "sparkle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sparkle",
+    "n2": "sparkles",
+    "n3": "the sparkle",
+    "n4": "the sparkles",
+    "n5": "sparkle's",
+    "n6": "sparkles'",
+    "n7": "a sparkle",
+    "n8": "many sparkles"
+}

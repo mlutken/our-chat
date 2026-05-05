@@ -1,0 +1,18 @@
+{
+    "base": "broody hen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "broody hen",
+    "n2": "broody hens",
+    "n3": "the broody hen",
+    "n4": "the broody hens",
+    "n5": "broody hen's",
+    "n6": "broody hens'",
+    "n7": "a broody hen",
+    "n8": "many broody hens"
+}

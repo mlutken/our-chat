@@ -1,0 +1,18 @@
+{
+    "base": "fibrosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "fibrosis",
+    "n2": "fibrosises",
+    "n3": "the fibrosis",
+    "n4": "the fibrosises",
+    "n5": "fibrosis'",
+    "n6": "fibrosises'",
+    "n7": "a fibrosis",
+    "n8": "many fibrosises"
+}

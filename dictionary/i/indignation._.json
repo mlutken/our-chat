@@ -1,0 +1,18 @@
+{
+    "base": "indignation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "indignation",
+    "n2": "indignations",
+    "n3": "the indignation",
+    "n4": "the indignations",
+    "n5": "indignation's",
+    "n6": "indignations'",
+    "n7": "an indignation",
+    "n8": "many indignations"
+}

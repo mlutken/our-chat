@@ -1,0 +1,18 @@
+{
+    "base": "dung",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dung",
+    "n2": "dungs",
+    "n3": "the dung",
+    "n4": "the dungs",
+    "n5": "dung's",
+    "n6": "dungs'",
+    "n7": "a dung",
+    "n8": "many dungs"
+}

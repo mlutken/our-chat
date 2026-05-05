@@ -1,0 +1,18 @@
+{
+    "base": "breathing space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breathing space",
+    "n2": "breathing spaces",
+    "n3": "the breathing space",
+    "n4": "the breathing spaces",
+    "n5": "breathing space's",
+    "n6": "breathing spaces'",
+    "n7": "a breathing space",
+    "n8": "many breathing spaces"
+}

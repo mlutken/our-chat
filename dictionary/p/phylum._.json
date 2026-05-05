@@ -7,5 +7,12 @@
     "n2": "phyla",
     "n3": "the phylum",
     "n4": "the phyla",
-    "n5": "phylum's"
+    "n5": "phylum's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "phyla's",
+    "n7": "a phylum",
+    "n8": "many phyla"
 }

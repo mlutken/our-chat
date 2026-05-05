@@ -1,0 +1,18 @@
+{
+    "base": "hand tool",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hand tool",
+    "n2": "hand tools",
+    "n3": "the hand tool",
+    "n4": "the hand tools",
+    "n5": "hand tool's",
+    "n6": "hand tools'",
+    "n7": "a hand tool",
+    "n8": "many hand tools"
+}

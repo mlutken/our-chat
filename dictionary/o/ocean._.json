@@ -1,0 +1,18 @@
+{
+    "base": "ocean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "ocean",
+    "n2": "oceans",
+    "n3": "the ocean",
+    "n4": "the oceans",
+    "n5": "ocean's",
+    "n6": "oceans'",
+    "n7": "an ocean",
+    "n8": "many oceans"
+}

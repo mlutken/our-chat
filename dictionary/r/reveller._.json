@@ -1,0 +1,18 @@
+{
+    "base": "reveller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reveller",
+    "n2": "revellers",
+    "n3": "the reveller",
+    "n4": "the revellers",
+    "n5": "reveller's",
+    "n6": "revellers'",
+    "n7": "a reveller",
+    "n8": "many revellers"
+}

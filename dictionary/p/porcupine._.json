@@ -1,0 +1,18 @@
+{
+    "base": "porcupine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "porcupine",
+    "n2": "porcupines",
+    "n3": "the porcupine",
+    "n4": "the porcupines",
+    "n5": "porcupine's",
+    "n6": "porcupines'",
+    "n7": "a porcupine",
+    "n8": "many porcupines"
+}

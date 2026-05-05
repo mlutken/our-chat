@@ -1,0 +1,18 @@
+{
+    "base": "intolerance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intolerance",
+    "n2": "intolerances",
+    "n3": "the intolerance",
+    "n4": "the intolerances",
+    "n5": "intolerance's",
+    "n6": "intolerances'",
+    "n7": "an intolerance",
+    "n8": "many intolerances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "oscillation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oscillation",
+    "n2": "oscillations",
+    "n3": "the oscillation",
+    "n4": "the oscillations",
+    "n5": "oscillation's",
+    "n6": "oscillations'",
+    "n7": "an oscillation",
+    "n8": "many oscillations"
+}

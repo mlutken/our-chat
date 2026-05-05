@@ -1,9 +1,22 @@
 {
     "base": "then",
     "classes": [
+        "n",
         "adv"
     ],
     "adv0": "",
     "f0": "then",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "then",
+    "n2": "thens",
+    "n3": "the then",
+    "n4": "the thens",
+    "n5": "then's",
+    "n6": "thens'",
+    "n7": "a then",
+    "n8": "many thens"
 }

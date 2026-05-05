@@ -1,0 +1,18 @@
+{
+    "base": "dread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dread",
+    "n2": "dreads",
+    "n3": "the dread",
+    "n4": "the dreads",
+    "n5": "dread's",
+    "n6": "dreads'",
+    "n7": "a dread",
+    "n8": "many dreads"
+}

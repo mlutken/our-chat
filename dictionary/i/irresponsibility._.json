@@ -1,0 +1,18 @@
+{
+    "base": "irresponsibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "irresponsibility",
+    "n2": "irresponsibilities",
+    "n3": "the irresponsibility",
+    "n4": "the irresponsibilities",
+    "n5": "irresponsibility's",
+    "n6": "irresponsibilities'",
+    "n7": "an irresponsibility",
+    "n8": "many irresponsibilities"
+}

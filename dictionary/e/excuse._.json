@@ -1,11 +1,24 @@
 {
     "base": "excuse",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "excuse",
     "v2": "excused",
     "v3": "excused",
     "v4": "excusing",
-    "v5": "excuses"
+    "v5": "excuses",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "excuse",
+    "n2": "excuses",
+    "n3": "the excuse",
+    "n4": "the excuses",
+    "n5": "excuse's",
+    "n6": "excuses'",
+    "n7": "an excuse",
+    "n8": "many excuses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "black body",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "black body",
+    "n2": "black bodies",
+    "n3": "the black body",
+    "n4": "the black bodies",
+    "n5": "black body's",
+    "n6": "black bodies'",
+    "n7": "a black body",
+    "n8": "many black bodies"
+}

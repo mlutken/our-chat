@@ -1,0 +1,18 @@
+{
+    "base": "savage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "savage",
+    "n2": "savages",
+    "n3": "the savage",
+    "n4": "the savages",
+    "n5": "savage's",
+    "n6": "savages'",
+    "n7": "a savage",
+    "n8": "many savages"
+}

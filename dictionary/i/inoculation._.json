@@ -1,0 +1,18 @@
+{
+    "base": "inoculation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inoculation",
+    "n2": "inoculations",
+    "n3": "the inoculation",
+    "n4": "the inoculations",
+    "n5": "inoculation's",
+    "n6": "inoculations'",
+    "n7": "an inoculation",
+    "n8": "many inoculations"
+}

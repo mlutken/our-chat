@@ -1,0 +1,18 @@
+{
+    "base": "surge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "surge",
+    "n2": "surges",
+    "n3": "the surge",
+    "n4": "the surges",
+    "n5": "surge's",
+    "n6": "surges'",
+    "n7": "a surge",
+    "n8": "many surges"
+}

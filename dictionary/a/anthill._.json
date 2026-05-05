@@ -1,0 +1,18 @@
+{
+    "base": "anthill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anthill",
+    "n2": "anthills",
+    "n3": "the anthill",
+    "n4": "the anthills",
+    "n5": "anthill's",
+    "n6": "anthills'",
+    "n7": "an anthill",
+    "n8": "many anthills"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "chuck wagon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chuck wagon",
+    "n2": "chuck wagons",
+    "n3": "the chuck wagon",
+    "n4": "the chuck wagons",
+    "n5": "chuck wagon's",
+    "n6": "chuck wagons'",
+    "n7": "a chuck wagon",
+    "n8": "many chuck wagons"
+}

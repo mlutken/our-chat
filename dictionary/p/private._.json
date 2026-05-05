@@ -1,0 +1,18 @@
+{
+    "base": "private",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "private",
+    "n2": "privates",
+    "n3": "the private",
+    "n4": "the privates",
+    "n5": "private's",
+    "n6": "privates'",
+    "n7": "a private",
+    "n8": "many privates"
+}

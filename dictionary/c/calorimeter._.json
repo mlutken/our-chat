@@ -1,0 +1,18 @@
+{
+    "base": "calorimeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "calorimeter",
+    "n2": "calorimeters",
+    "n3": "the calorimeter",
+    "n4": "the calorimeters",
+    "n5": "calorimeter's",
+    "n6": "calorimeters'",
+    "n7": "a calorimeter",
+    "n8": "many calorimeters"
+}

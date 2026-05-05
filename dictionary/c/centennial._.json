@@ -1,0 +1,18 @@
+{
+    "base": "centennial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "centennial",
+    "n2": "centennials",
+    "n3": "the centennial",
+    "n4": "the centennials",
+    "n5": "centennial's",
+    "n6": "centennials'",
+    "n7": "a centennial",
+    "n8": "many centennials"
+}

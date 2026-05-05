@@ -1,0 +1,18 @@
+{
+    "base": "roman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "roman",
+    "n2": "romen",
+    "n3": "the roman",
+    "n4": "the romen",
+    "n5": "roman's",
+    "n6": "romen's",
+    "n7": "a roman",
+    "n8": "many romen"
+}

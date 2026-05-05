@@ -7,5 +7,12 @@
     "n2": "tongues",
     "n3": "the tongue",
     "n4": "the tongues",
-    "n5": "tongue's"
+    "n5": "tongue's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "tongues'",
+    "n7": "a tongue",
+    "n8": "many tongues"
 }

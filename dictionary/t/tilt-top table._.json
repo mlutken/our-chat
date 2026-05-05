@@ -1,0 +1,18 @@
+{
+    "base": "tilt-top table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tilt-top table",
+    "n2": "tilt-top tables",
+    "n3": "the tilt-top table",
+    "n4": "the tilt-top tables",
+    "n5": "tilt-top table's",
+    "n6": "tilt-top tables'",
+    "n7": "a tilt-top table",
+    "n8": "many tilt-top tables"
+}

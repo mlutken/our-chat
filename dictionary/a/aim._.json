@@ -13,5 +13,12 @@
     "n2": "aims",
     "n3": "the aim",
     "n4": "the aims",
-    "n5": "aim's"
+    "n5": "aim's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "aims'",
+    "n7": "an aim",
+    "n8": "many aims"
 }

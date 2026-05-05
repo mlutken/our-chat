@@ -1,0 +1,18 @@
+{
+    "base": "bible",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "bible",
+    "n2": "bibles",
+    "n3": "the bible",
+    "n4": "the bibles",
+    "n5": "bible's",
+    "n6": "bibles'",
+    "n7": "a bible",
+    "n8": "many bibles"
+}

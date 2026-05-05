@@ -1,0 +1,18 @@
+{
+    "base": "electronic device",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "electronic device",
+    "n2": "electronic devices",
+    "n3": "the electronic device",
+    "n4": "the electronic devices",
+    "n5": "electronic device's",
+    "n6": "electronic devices'",
+    "n7": "an electronic device",
+    "n8": "many electronic devices"
+}

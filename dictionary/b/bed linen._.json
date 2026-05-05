@@ -1,0 +1,18 @@
+{
+    "base": "bed linen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bed linen",
+    "n2": "bed linens",
+    "n3": "the bed linen",
+    "n4": "the bed linens",
+    "n5": "bed linen's",
+    "n6": "bed linens'",
+    "n7": "a bed linen",
+    "n8": "many bed linens"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "warrior",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "warrior",
+    "n2": "warriors",
+    "n3": "the warrior",
+    "n4": "the warriors",
+    "n5": "warrior's",
+    "n6": "warriors'",
+    "n7": "a warrior",
+    "n8": "many warriors"
+}

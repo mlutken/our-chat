@@ -1,0 +1,18 @@
+{
+    "base": "tablet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tablet",
+    "n2": "tablets",
+    "n3": "the tablet",
+    "n4": "the tablets",
+    "n5": "tablet's",
+    "n6": "tablets'",
+    "n7": "a tablet",
+    "n8": "many tablets"
+}

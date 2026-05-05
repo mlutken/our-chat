@@ -1,0 +1,18 @@
+{
+    "base": "contempt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "contempt",
+    "n2": "contempts",
+    "n3": "the contempt",
+    "n4": "the contempts",
+    "n5": "contempt's",
+    "n6": "contempts'",
+    "n7": "a contempt",
+    "n8": "many contempts"
+}

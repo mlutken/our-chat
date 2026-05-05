@@ -1,0 +1,18 @@
+{
+    "base": "flocculation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flocculation",
+    "n2": "flocculations",
+    "n3": "the flocculation",
+    "n4": "the flocculations",
+    "n5": "flocculation's",
+    "n6": "flocculations'",
+    "n7": "a flocculation",
+    "n8": "many flocculations"
+}

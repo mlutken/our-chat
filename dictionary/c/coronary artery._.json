@@ -1,0 +1,18 @@
+{
+    "base": "coronary artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coronary artery",
+    "n2": "coronary arteries",
+    "n3": "the coronary artery",
+    "n4": "the coronary arteries",
+    "n5": "coronary artery's",
+    "n6": "coronary arteries'",
+    "n7": "a coronary artery",
+    "n8": "many coronary arteries"
+}

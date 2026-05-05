@@ -1,0 +1,18 @@
+{
+    "base": "slide action",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slide action",
+    "n2": "slide actions",
+    "n3": "the slide action",
+    "n4": "the slide actions",
+    "n5": "slide action's",
+    "n6": "slide actions'",
+    "n7": "a slide action",
+    "n8": "many slide actions"
+}

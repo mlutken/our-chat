@@ -1,0 +1,18 @@
+{
+    "base": "electrode",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "electrode",
+    "n2": "electrodes",
+    "n3": "the electrode",
+    "n4": "the electrodes",
+    "n5": "electrode's",
+    "n6": "electrodes'",
+    "n7": "an electrode",
+    "n8": "many electrodes"
+}

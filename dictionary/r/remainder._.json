@@ -1,0 +1,18 @@
+{
+    "base": "remainder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "remainder",
+    "n2": "remainders",
+    "n3": "the remainder",
+    "n4": "the remainders",
+    "n5": "remainder's",
+    "n6": "remainders'",
+    "n7": "a remainder",
+    "n8": "many remainders"
+}

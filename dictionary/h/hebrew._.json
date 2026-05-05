@@ -1,0 +1,18 @@
+{
+    "base": "hebrew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hebrew",
+    "n2": "hebrews",
+    "n3": "the hebrew",
+    "n4": "the hebrews",
+    "n5": "hebrew's",
+    "n6": "hebrews'",
+    "n7": "a hebrew",
+    "n8": "many hebrews"
+}

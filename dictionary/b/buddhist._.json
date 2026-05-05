@@ -1,0 +1,18 @@
+{
+    "base": "buddhist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "buddhist",
+    "n2": "buddhists",
+    "n3": "the buddhist",
+    "n4": "the buddhists",
+    "n5": "buddhist's",
+    "n6": "buddhists'",
+    "n7": "a buddhist",
+    "n8": "many buddhists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rehearing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rehearing",
+    "n2": "rehearings",
+    "n3": "the rehearing",
+    "n4": "the rehearings",
+    "n5": "rehearing's",
+    "n6": "rehearings'",
+    "n7": "a rehearing",
+    "n8": "many rehearings"
+}

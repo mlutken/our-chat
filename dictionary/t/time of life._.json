@@ -1,0 +1,18 @@
+{
+    "base": "time of life",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "time of life",
+    "n2": "time of lives",
+    "n3": "the time of life",
+    "n4": "the time of lives",
+    "n5": "time of life's",
+    "n6": "time of lives'",
+    "n7": "a time of life",
+    "n8": "many time of lives"
+}

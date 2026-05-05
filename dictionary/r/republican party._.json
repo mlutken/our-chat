@@ -1,0 +1,18 @@
+{
+    "base": "republican party",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "republican party",
+    "n2": "republican parties",
+    "n3": "the republican party",
+    "n4": "the republican parties",
+    "n5": "republican party's",
+    "n6": "republican parties'",
+    "n7": "a republican party",
+    "n8": "many republican parties"
+}

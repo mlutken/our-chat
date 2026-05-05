@@ -1,0 +1,18 @@
+{
+    "base": "maxim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "maxim",
+    "n2": "maxims",
+    "n3": "the maxim",
+    "n4": "the maxims",
+    "n5": "maxim's",
+    "n6": "maxims'",
+    "n7": "a maxim",
+    "n8": "many maxims"
+}

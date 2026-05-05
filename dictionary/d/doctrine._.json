@@ -1,0 +1,18 @@
+{
+    "base": "doctrine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "doctrine",
+    "n2": "doctrines",
+    "n3": "the doctrine",
+    "n4": "the doctrines",
+    "n5": "doctrine's",
+    "n6": "doctrines'",
+    "n7": "a doctrine",
+    "n8": "many doctrines"
+}

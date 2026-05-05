@@ -1,0 +1,18 @@
+{
+    "base": "fist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "fist",
+    "n2": "fists",
+    "n3": "the fist",
+    "n4": "the fists",
+    "n5": "fist's",
+    "n6": "fists'",
+    "n7": "a fist",
+    "n8": "many fists"
+}

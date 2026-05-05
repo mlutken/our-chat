@@ -1,0 +1,18 @@
+{
+    "base": "midday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "midday",
+    "n2": "middays",
+    "n3": "the midday",
+    "n4": "the middays",
+    "n5": "midday's",
+    "n6": "middays'",
+    "n7": "a midday",
+    "n8": "many middays"
+}

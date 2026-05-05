@@ -1,0 +1,18 @@
+{
+    "base": "spider",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spider",
+    "n2": "spiders",
+    "n3": "the spider",
+    "n4": "the spiders",
+    "n5": "spider's",
+    "n6": "spiders'",
+    "n7": "a spider",
+    "n8": "many spiders"
+}

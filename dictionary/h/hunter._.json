@@ -1,0 +1,18 @@
+{
+    "base": "hunter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "hunter",
+    "n2": "hunters",
+    "n3": "the hunter",
+    "n4": "the hunters",
+    "n5": "hunter's",
+    "n6": "hunters'",
+    "n7": "a hunter",
+    "n8": "many hunters"
+}

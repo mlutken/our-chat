@@ -1,0 +1,18 @@
+{
+    "base": "pain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n1": "pain",
+    "n2": "pains",
+    "n3": "the pain",
+    "n4": "the pains",
+    "n5": "pain's",
+    "n6": "pains'",
+    "n7": "a pain",
+    "n8": "many pains"
+}

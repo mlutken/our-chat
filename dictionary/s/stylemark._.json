@@ -1,0 +1,18 @@
+{
+    "base": "stylemark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stylemark",
+    "n2": "stylemarks",
+    "n3": "the stylemark",
+    "n4": "the stylemarks",
+    "n5": "stylemark's",
+    "n6": "stylemarks'",
+    "n7": "a stylemark",
+    "n8": "many stylemarks"
+}

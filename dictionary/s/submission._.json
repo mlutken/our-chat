@@ -1,0 +1,18 @@
+{
+    "base": "submission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "submission",
+    "n2": "submissions",
+    "n3": "the submission",
+    "n4": "the submissions",
+    "n5": "submission's",
+    "n6": "submissions'",
+    "n7": "a submission",
+    "n8": "many submissions"
+}

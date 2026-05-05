@@ -1,0 +1,18 @@
+{
+    "base": "siamese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "siamese",
+    "n2": "siameses",
+    "n3": "the siamese",
+    "n4": "the siameses",
+    "n5": "siamese's",
+    "n6": "siameses'",
+    "n7": "a siamese",
+    "n8": "many siameses"
+}

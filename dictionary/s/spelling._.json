@@ -1,0 +1,18 @@
+{
+    "base": "spelling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spelling",
+    "n2": "spellings",
+    "n3": "the spelling",
+    "n4": "the spellings",
+    "n5": "spelling's",
+    "n6": "spellings'",
+    "n7": "a spelling",
+    "n8": "many spellings"
+}

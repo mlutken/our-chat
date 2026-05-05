@@ -1,0 +1,18 @@
+{
+    "base": "prayer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "prayer",
+    "n2": "prayers",
+    "n3": "the prayer",
+    "n4": "the prayers",
+    "n5": "prayer's",
+    "n6": "prayers'",
+    "n7": "a prayer",
+    "n8": "many prayers"
+}

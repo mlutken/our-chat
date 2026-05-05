@@ -1,0 +1,18 @@
+{
+    "base": "spinnability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spinnability",
+    "n2": "spinnabilities",
+    "n3": "the spinnability",
+    "n4": "the spinnabilities",
+    "n5": "spinnability's",
+    "n6": "spinnabilities'",
+    "n7": "a spinnability",
+    "n8": "many spinnabilities"
+}

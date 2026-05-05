@@ -1,0 +1,18 @@
+{
+    "base": "inscrutability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inscrutability",
+    "n2": "inscrutabilities",
+    "n3": "the inscrutability",
+    "n4": "the inscrutabilities",
+    "n5": "inscrutability's",
+    "n6": "inscrutabilities'",
+    "n7": "an inscrutability",
+    "n8": "many inscrutabilities"
+}

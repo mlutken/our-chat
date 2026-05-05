@@ -1,0 +1,18 @@
+{
+    "base": "horseback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "horseback",
+    "n2": "horsebacks",
+    "n3": "the horseback",
+    "n4": "the horsebacks",
+    "n5": "horseback's",
+    "n6": "horsebacks'",
+    "n7": "a horseback",
+    "n8": "many horsebacks"
+}

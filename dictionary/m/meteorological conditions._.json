@@ -1,0 +1,18 @@
+{
+    "base": "meteorological conditions",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "meteorological conditions",
+    "n2": "meteorological conditionses",
+    "n3": "the meteorological conditions",
+    "n4": "the meteorological conditionses",
+    "n5": "meteorological conditions'",
+    "n6": "meteorological conditionses'",
+    "n7": "a meteorological conditions",
+    "n8": "many meteorological conditionses"
+}

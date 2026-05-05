@@ -1,0 +1,18 @@
+{
+    "base": "testimony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "testimony",
+    "n2": "testimonies",
+    "n3": "the testimony",
+    "n4": "the testimonies",
+    "n5": "testimony's",
+    "n6": "testimonies'",
+    "n7": "a testimony",
+    "n8": "many testimonies"
+}

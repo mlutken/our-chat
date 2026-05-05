@@ -1,0 +1,18 @@
+{
+    "base": "mutton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mutton",
+    "n2": "muttons",
+    "n3": "the mutton",
+    "n4": "the muttons",
+    "n5": "mutton's",
+    "n6": "muttons'",
+    "n7": "a mutton",
+    "n8": "many muttons"
+}

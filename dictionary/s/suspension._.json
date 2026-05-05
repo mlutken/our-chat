@@ -1,0 +1,18 @@
+{
+    "base": "suspension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "suspension",
+    "n2": "suspensions",
+    "n3": "the suspension",
+    "n4": "the suspensions",
+    "n5": "suspension's",
+    "n6": "suspensions'",
+    "n7": "a suspension",
+    "n8": "many suspensions"
+}

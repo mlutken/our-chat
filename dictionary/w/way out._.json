@@ -1,0 +1,18 @@
+{
+    "base": "way out",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "way out",
+    "n2": "way outs",
+    "n3": "the way out",
+    "n4": "the way outs",
+    "n5": "way out's",
+    "n6": "way outs'",
+    "n7": "a way out",
+    "n8": "many way outs"
+}

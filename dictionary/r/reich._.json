@@ -1,0 +1,18 @@
+{
+    "base": "reich",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reich",
+    "n2": "reiches",
+    "n3": "the reich",
+    "n4": "the reiches",
+    "n5": "reich's",
+    "n6": "reiches'",
+    "n7": "a reich",
+    "n8": "many reiches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "peony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "peony",
+    "n2": "peonies",
+    "n3": "the peony",
+    "n4": "the peonies",
+    "n5": "peony's",
+    "n6": "peonies'",
+    "n7": "a peony",
+    "n8": "many peonies"
+}

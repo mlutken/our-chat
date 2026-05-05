@@ -1,0 +1,18 @@
+{
+    "base": "light beam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "light beam",
+    "n2": "light beams",
+    "n3": "the light beam",
+    "n4": "the light beams",
+    "n5": "light beam's",
+    "n6": "light beams'",
+    "n7": "a light beam",
+    "n8": "many light beams"
+}

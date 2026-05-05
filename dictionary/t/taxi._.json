@@ -1,0 +1,18 @@
+{
+    "base": "taxi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "taxi",
+    "n2": "taxies",
+    "n3": "the taxi",
+    "n4": "the taxies",
+    "n5": "taxi's",
+    "n6": "taxies'",
+    "n7": "a taxi",
+    "n8": "many taxies"
+}

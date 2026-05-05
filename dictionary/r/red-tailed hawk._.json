@@ -1,0 +1,18 @@
+{
+    "base": "red-tailed hawk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red-tailed hawk",
+    "n2": "red-tailed hawks",
+    "n3": "the red-tailed hawk",
+    "n4": "the red-tailed hawks",
+    "n5": "red-tailed hawk's",
+    "n6": "red-tailed hawks'",
+    "n7": "a red-tailed hawk",
+    "n8": "many red-tailed hawks"
+}

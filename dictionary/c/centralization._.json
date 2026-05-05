@@ -1,0 +1,18 @@
+{
+    "base": "centralization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "centralization",
+    "n2": "centralizations",
+    "n3": "the centralization",
+    "n4": "the centralizations",
+    "n5": "centralization's",
+    "n6": "centralizations'",
+    "n7": "a centralization",
+    "n8": "many centralizations"
+}

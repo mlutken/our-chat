@@ -1,0 +1,18 @@
+{
+    "base": "pin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pin",
+    "n2": "pins",
+    "n3": "the pin",
+    "n4": "the pins",
+    "n5": "pin's",
+    "n6": "pins'",
+    "n7": "a pin",
+    "n8": "many pins"
+}

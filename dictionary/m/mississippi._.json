@@ -1,0 +1,18 @@
+{
+    "base": "mississippi",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "mississippi",
+    "n2": "mississippis",
+    "n3": "the mississippi",
+    "n4": "the mississippis",
+    "n5": "mississippi's",
+    "n6": "mississippis'",
+    "n7": "a mississippi",
+    "n8": "many mississippis"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "vending",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vending",
+    "n2": "vendings",
+    "n3": "the vending",
+    "n4": "the vendings",
+    "n5": "vending's",
+    "n6": "vendings'",
+    "n7": "a vending",
+    "n8": "many vendings"
+}

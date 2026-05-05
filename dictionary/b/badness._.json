@@ -1,0 +1,18 @@
+{
+    "base": "badness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "badness",
+    "n2": "badnesses",
+    "n3": "the badness",
+    "n4": "the badnesses",
+    "n5": "badness'",
+    "n6": "badnesses'",
+    "n7": "a badness",
+    "n8": "many badnesses"
+}

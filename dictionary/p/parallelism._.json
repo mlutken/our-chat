@@ -1,0 +1,18 @@
+{
+    "base": "parallelism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "parallelism",
+    "n2": "parallelisms",
+    "n3": "the parallelism",
+    "n4": "the parallelisms",
+    "n5": "parallelism's",
+    "n6": "parallelisms'",
+    "n7": "a parallelism",
+    "n8": "many parallelisms"
+}

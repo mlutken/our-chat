@@ -1,0 +1,18 @@
+{
+    "base": "brigadier general",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brigadier general",
+    "n2": "brigadier generals",
+    "n3": "the brigadier general",
+    "n4": "the brigadier generals",
+    "n5": "brigadier general's",
+    "n6": "brigadier generals'",
+    "n7": "a brigadier general",
+    "n8": "many brigadier generals"
+}

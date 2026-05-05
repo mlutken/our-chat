@@ -1,0 +1,18 @@
+{
+    "base": "footstep",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "footstep",
+    "n2": "footsteps",
+    "n3": "the footstep",
+    "n4": "the footsteps",
+    "n5": "footstep's",
+    "n6": "footsteps'",
+    "n7": "a footstep",
+    "n8": "many footsteps"
+}

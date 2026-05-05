@@ -1,0 +1,18 @@
+{
+    "base": "motor neuron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "motor neuron",
+    "n2": "motor neurons",
+    "n3": "the motor neuron",
+    "n4": "the motor neurons",
+    "n5": "motor neuron's",
+    "n6": "motor neurons'",
+    "n7": "a motor neuron",
+    "n8": "many motor neurons"
+}

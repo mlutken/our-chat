@@ -1,0 +1,18 @@
+{
+    "base": "skull",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "skull",
+    "n2": "skulls",
+    "n3": "the skull",
+    "n4": "the skulls",
+    "n5": "skull's",
+    "n6": "skulls'",
+    "n7": "a skull",
+    "n8": "many skulls"
+}

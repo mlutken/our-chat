@@ -1,0 +1,18 @@
+{
+    "base": "crown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "crown",
+    "n2": "crowns",
+    "n3": "the crown",
+    "n4": "the crowns",
+    "n5": "crown's",
+    "n6": "crowns'",
+    "n7": "a crown",
+    "n8": "many crowns"
+}

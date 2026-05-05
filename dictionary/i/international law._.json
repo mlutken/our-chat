@@ -1,0 +1,18 @@
+{
+    "base": "international law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "international law",
+    "n2": "international laws",
+    "n3": "the international law",
+    "n4": "the international laws",
+    "n5": "international law's",
+    "n6": "international laws'",
+    "n7": "an international law",
+    "n8": "many international laws"
+}

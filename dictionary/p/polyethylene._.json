@@ -1,0 +1,18 @@
+{
+    "base": "polyethylene",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "polyethylene",
+    "n2": "polyethylenes",
+    "n3": "the polyethylene",
+    "n4": "the polyethylenes",
+    "n5": "polyethylene's",
+    "n6": "polyethylenes'",
+    "n7": "a polyethylene",
+    "n8": "many polyethylenes"
+}

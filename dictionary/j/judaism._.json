@@ -1,0 +1,18 @@
+{
+    "base": "judaism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "judaism",
+    "n2": "judaisms",
+    "n3": "the judaism",
+    "n4": "the judaisms",
+    "n5": "judaism's",
+    "n6": "judaisms'",
+    "n7": "a judaism",
+    "n8": "many judaisms"
+}

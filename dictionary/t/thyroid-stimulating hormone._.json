@@ -1,0 +1,18 @@
+{
+    "base": "thyroid-stimulating hormone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thyroid-stimulating hormone",
+    "n2": "thyroid-stimulating hormones",
+    "n3": "the thyroid-stimulating hormone",
+    "n4": "the thyroid-stimulating hormones",
+    "n5": "thyroid-stimulating hormone's",
+    "n6": "thyroid-stimulating hormones'",
+    "n7": "a thyroid-stimulating hormone",
+    "n8": "many thyroid-stimulating hormones"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "inch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n1": "inch",
+    "n2": "inches",
+    "n3": "the inch",
+    "n4": "the inches",
+    "n5": "inch's",
+    "n6": "inches'",
+    "n7": "an inch",
+    "n8": "many inches"
+}

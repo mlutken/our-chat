@@ -1,0 +1,18 @@
+{
+    "base": "happening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "happening",
+    "n2": "happenings",
+    "n3": "the happening",
+    "n4": "the happenings",
+    "n5": "happening's",
+    "n6": "happenings'",
+    "n7": "a happening",
+    "n8": "many happenings"
+}

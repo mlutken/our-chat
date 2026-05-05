@@ -1,0 +1,18 @@
+{
+    "base": "windfall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "windfall",
+    "n2": "windfalls",
+    "n3": "the windfall",
+    "n4": "the windfalls",
+    "n5": "windfall's",
+    "n6": "windfalls'",
+    "n7": "a windfall",
+    "n8": "many windfalls"
+}

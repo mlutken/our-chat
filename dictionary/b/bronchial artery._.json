@@ -1,0 +1,18 @@
+{
+    "base": "bronchial artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "bronchial artery",
+    "n2": "bronchial arteries",
+    "n3": "the bronchial artery",
+    "n4": "the bronchial arteries",
+    "n5": "bronchial artery's",
+    "n6": "bronchial arteries'",
+    "n7": "a bronchial artery",
+    "n8": "many bronchial arteries"
+}

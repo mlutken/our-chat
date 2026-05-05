@@ -1,0 +1,18 @@
+{
+    "base": "garbage can",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "garbage can",
+    "n2": "garbage cans",
+    "n3": "the garbage can",
+    "n4": "the garbage cans",
+    "n5": "garbage can's",
+    "n6": "garbage cans'",
+    "n7": "a garbage can",
+    "n8": "many garbage cans"
+}

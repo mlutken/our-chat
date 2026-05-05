@@ -1,0 +1,18 @@
+{
+    "base": "personnel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "personnel",
+    "n2": "personnels",
+    "n3": "the personnel",
+    "n4": "the personnels",
+    "n5": "personnel's",
+    "n6": "personnels'",
+    "n7": "a personnel",
+    "n8": "many personnels"
+}

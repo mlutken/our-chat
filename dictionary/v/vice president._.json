@@ -1,0 +1,18 @@
+{
+    "base": "vice president",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "vice president",
+    "n2": "vice presidents",
+    "n3": "the vice president",
+    "n4": "the vice presidents",
+    "n5": "vice president's",
+    "n6": "vice presidents'",
+    "n7": "a vice president",
+    "n8": "many vice presidents"
+}

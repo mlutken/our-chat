@@ -1,0 +1,18 @@
+{
+    "base": "auto mechanics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "auto mechanics",
+    "n2": "auto mechanicses",
+    "n3": "the auto mechanics",
+    "n4": "the auto mechanicses",
+    "n5": "auto mechanics'",
+    "n6": "auto mechanicses'",
+    "n7": "an auto mechanics",
+    "n8": "many auto mechanicses"
+}

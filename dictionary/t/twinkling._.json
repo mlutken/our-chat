@@ -1,0 +1,18 @@
+{
+    "base": "twinkling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "twinkling",
+    "n2": "twinklings",
+    "n3": "the twinkling",
+    "n4": "the twinklings",
+    "n5": "twinkling's",
+    "n6": "twinklings'",
+    "n7": "a twinkling",
+    "n8": "many twinklings"
+}

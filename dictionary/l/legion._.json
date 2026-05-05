@@ -1,0 +1,18 @@
+{
+    "base": "legion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legion",
+    "n2": "legions",
+    "n3": "the legion",
+    "n4": "the legions",
+    "n5": "legion's",
+    "n6": "legions'",
+    "n7": "a legion",
+    "n8": "many legions"
+}

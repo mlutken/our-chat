@@ -7,5 +7,12 @@
     "n2": "backs",
     "n3": "the back",
     "n4": "the backs",
-    "n5": "back's"
+    "n5": "back's",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "backs'",
+    "n7": "a back",
+    "n8": "many backs"
 }

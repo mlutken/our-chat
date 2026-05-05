@@ -1,0 +1,18 @@
+{
+    "base": "encyclopedia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "encyclopedia",
+    "n2": "encyclopedias",
+    "n3": "the encyclopedia",
+    "n4": "the encyclopedias",
+    "n5": "encyclopedia's",
+    "n6": "encyclopedias'",
+    "n7": "an encyclopedia",
+    "n8": "many encyclopedias"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hubris",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hubris",
+    "n2": "hubrises",
+    "n3": "the hubris",
+    "n4": "the hubrises",
+    "n5": "hubris'",
+    "n6": "hubrises'",
+    "n7": "a hubris",
+    "n8": "many hubrises"
+}

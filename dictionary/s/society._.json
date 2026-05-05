@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "society",
-    "n2": "societys",
+    "n2": "societies",
     "n3": "the society",
-    "n4": "the societys",
-    "n5": "society's"
+    "n4": "the societies",
+    "n5": "society's",
+    "proper": false,
+    "commonness": 94,
+    "max_commonness": 6834,
+    "commonness_ge_count": 131,
+    "n6": "societies'",
+    "n7": "a society",
+    "n8": "many societies"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "distinguished service medal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "distinguished service medal",
+    "n2": "distinguished service medals",
+    "n3": "the distinguished service medal",
+    "n4": "the distinguished service medals",
+    "n5": "distinguished service medal's",
+    "n6": "distinguished service medals'",
+    "n7": "a distinguished service medal",
+    "n8": "many distinguished service medals"
+}

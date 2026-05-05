@@ -1,0 +1,18 @@
+{
+    "base": "mother's daughter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mother's daughter",
+    "n2": "mother's daughters",
+    "n3": "the mother's daughter",
+    "n4": "the mother's daughters",
+    "n5": "mother's daughter's",
+    "n6": "mother's daughters'",
+    "n7": "a mother's daughter",
+    "n8": "many mother's daughters"
+}

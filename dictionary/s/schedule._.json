@@ -7,5 +7,12 @@
     "n2": "schedules",
     "n3": "the schedule",
     "n4": "the schedules",
-    "n5": "schedule's"
+    "n5": "schedule's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "schedules'",
+    "n7": "a schedule",
+    "n8": "many schedules"
 }

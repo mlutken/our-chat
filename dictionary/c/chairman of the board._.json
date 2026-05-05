@@ -1,0 +1,18 @@
+{
+    "base": "chairman of the board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chairman of the board",
+    "n2": "chairman of the boards",
+    "n3": "the chairman of the board",
+    "n4": "the chairman of the boards",
+    "n5": "chairman of the board's",
+    "n6": "chairman of the boards'",
+    "n7": "a chairman of the board",
+    "n8": "many chairman of the boards"
+}

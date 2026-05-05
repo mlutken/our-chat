@@ -1,0 +1,18 @@
+{
+    "base": "patroller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "patroller",
+    "n2": "patrollers",
+    "n3": "the patroller",
+    "n4": "the patrollers",
+    "n5": "patroller's",
+    "n6": "patrollers'",
+    "n7": "a patroller",
+    "n8": "many patrollers"
+}

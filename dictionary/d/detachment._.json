@@ -1,0 +1,18 @@
+{
+    "base": "detachment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "detachment",
+    "n2": "detachments",
+    "n3": "the detachment",
+    "n4": "the detachments",
+    "n5": "detachment's",
+    "n6": "detachments'",
+    "n7": "a detachment",
+    "n8": "many detachments"
+}

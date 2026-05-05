@@ -1,0 +1,18 @@
+{
+    "base": "profundity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "profundity",
+    "n2": "profundities",
+    "n3": "the profundity",
+    "n4": "the profundities",
+    "n5": "profundity's",
+    "n6": "profundities'",
+    "n7": "a profundity",
+    "n8": "many profundities"
+}

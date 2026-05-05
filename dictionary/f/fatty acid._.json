@@ -1,0 +1,18 @@
+{
+    "base": "fatty acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fatty acid",
+    "n2": "fatty acids",
+    "n3": "the fatty acid",
+    "n4": "the fatty acids",
+    "n5": "fatty acid's",
+    "n6": "fatty acids'",
+    "n7": "a fatty acid",
+    "n8": "many fatty acids"
+}

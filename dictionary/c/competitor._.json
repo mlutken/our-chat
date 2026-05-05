@@ -1,0 +1,18 @@
+{
+    "base": "competitor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "competitor",
+    "n2": "competitors",
+    "n3": "the competitor",
+    "n4": "the competitors",
+    "n5": "competitor's",
+    "n6": "competitors'",
+    "n7": "a competitor",
+    "n8": "many competitors"
+}

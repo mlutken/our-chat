@@ -1,0 +1,18 @@
+{
+    "base": "news conference",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "news conference",
+    "n2": "news conferences",
+    "n3": "the news conference",
+    "n4": "the news conferences",
+    "n5": "news conference's",
+    "n6": "news conferences'",
+    "n7": "a news conference",
+    "n8": "many news conferences"
+}

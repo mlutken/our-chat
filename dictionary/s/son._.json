@@ -7,5 +7,12 @@
     "n2": "sons",
     "n3": "the son",
     "n4": "the sons",
-    "n5": "son's"
+    "n5": "son's",
+    "proper": true,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n6": "sons'",
+    "n7": "a son",
+    "n8": "many sons"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "rifle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 75,
+    "max_commonness": 6834,
+    "commonness_ge_count": 182,
+    "n1": "rifle",
+    "n2": "rifles",
+    "n3": "the rifle",
+    "n4": "the rifles",
+    "n5": "rifle's",
+    "n6": "rifles'",
+    "n7": "a rifle",
+    "n8": "many rifles"
+}

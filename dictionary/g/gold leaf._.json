@@ -1,0 +1,18 @@
+{
+    "base": "gold leaf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gold leaf",
+    "n2": "gold leaves",
+    "n3": "the gold leaf",
+    "n4": "the gold leaves",
+    "n5": "gold leaf's",
+    "n6": "gold leaves'",
+    "n7": "a gold leaf",
+    "n8": "many gold leaves"
+}

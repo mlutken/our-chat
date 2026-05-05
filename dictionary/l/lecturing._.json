@@ -1,0 +1,18 @@
+{
+    "base": "lecturing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lecturing",
+    "n2": "lecturings",
+    "n3": "the lecturing",
+    "n4": "the lecturings",
+    "n5": "lecturing's",
+    "n6": "lecturings'",
+    "n7": "a lecturing",
+    "n8": "many lecturings"
+}

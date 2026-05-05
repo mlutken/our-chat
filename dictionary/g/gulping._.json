@@ -1,0 +1,18 @@
+{
+    "base": "gulping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gulping",
+    "n2": "gulpings",
+    "n3": "the gulping",
+    "n4": "the gulpings",
+    "n5": "gulping's",
+    "n6": "gulpings'",
+    "n7": "a gulping",
+    "n8": "many gulpings"
+}

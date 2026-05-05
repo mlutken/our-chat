@@ -1,0 +1,18 @@
+{
+    "base": "age group",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "age group",
+    "n2": "age groups",
+    "n3": "the age group",
+    "n4": "the age groups",
+    "n5": "age group's",
+    "n6": "age groups'",
+    "n7": "an age group",
+    "n8": "many age groups"
+}

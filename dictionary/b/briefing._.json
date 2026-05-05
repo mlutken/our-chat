@@ -1,0 +1,18 @@
+{
+    "base": "briefing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "briefing",
+    "n2": "briefings",
+    "n3": "the briefing",
+    "n4": "the briefings",
+    "n5": "briefing's",
+    "n6": "briefings'",
+    "n7": "a briefing",
+    "n8": "many briefings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "silk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "silk",
+    "n2": "silks",
+    "n3": "the silk",
+    "n4": "the silks",
+    "n5": "silk's",
+    "n6": "silks'",
+    "n7": "a silk",
+    "n8": "many silks"
+}

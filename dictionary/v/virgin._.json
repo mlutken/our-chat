@@ -1,0 +1,18 @@
+{
+    "base": "virgin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "virgin",
+    "n2": "virgins",
+    "n3": "the virgin",
+    "n4": "the virgins",
+    "n5": "virgin's",
+    "n6": "virgins'",
+    "n7": "a virgin",
+    "n8": "many virgins"
+}

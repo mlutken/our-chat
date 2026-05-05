@@ -1,0 +1,18 @@
+{
+    "base": "indian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "indian",
+    "n2": "indians",
+    "n3": "the indian",
+    "n4": "the indians",
+    "n5": "indian's",
+    "n6": "indians'",
+    "n7": "an indian",
+    "n8": "many indians"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "snout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snout",
+    "n2": "snouts",
+    "n3": "the snout",
+    "n4": "the snouts",
+    "n5": "snout's",
+    "n6": "snouts'",
+    "n7": "a snout",
+    "n8": "many snouts"
+}

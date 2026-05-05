@@ -1,0 +1,18 @@
+{
+    "base": "prime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prime",
+    "n2": "primes",
+    "n3": "the prime",
+    "n4": "the primes",
+    "n5": "prime's",
+    "n6": "primes'",
+    "n7": "a prime",
+    "n8": "many primes"
+}

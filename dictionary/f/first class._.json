@@ -1,0 +1,18 @@
+{
+    "base": "first class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "first class",
+    "n2": "first classes",
+    "n3": "the first class",
+    "n4": "the first classes",
+    "n5": "first class'",
+    "n6": "first classes'",
+    "n7": "a first class",
+    "n8": "many first classes"
+}

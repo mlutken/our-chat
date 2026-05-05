@@ -1,0 +1,18 @@
+{
+    "base": "banshee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "banshee",
+    "n2": "banshees",
+    "n3": "the banshee",
+    "n4": "the banshees",
+    "n5": "banshee's",
+    "n6": "banshees'",
+    "n7": "a banshee",
+    "n8": "many banshees"
+}

@@ -7,5 +7,12 @@
     "n2": "laws",
     "n3": "the law",
     "n4": "the laws",
-    "n5": "law's"
+    "n5": "law's",
+    "proper": false,
+    "commonness": 96,
+    "max_commonness": 6834,
+    "commonness_ge_count": 128,
+    "n6": "laws'",
+    "n7": "a law",
+    "n8": "many laws"
 }

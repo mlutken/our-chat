@@ -1,0 +1,18 @@
+{
+    "base": "academic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "academic",
+    "n2": "academics",
+    "n3": "the academic",
+    "n4": "the academics",
+    "n5": "academic's",
+    "n6": "academics'",
+    "n7": "an academic",
+    "n8": "many academics"
+}

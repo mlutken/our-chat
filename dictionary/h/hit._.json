@@ -7,5 +7,12 @@
     "n2": "hits",
     "n3": "the hit",
     "n4": "the hits",
-    "n5": "hit's"
+    "n5": "hit's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "hits'",
+    "n7": "a hit",
+    "n8": "many hits"
 }

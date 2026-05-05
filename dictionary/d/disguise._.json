@@ -1,0 +1,18 @@
+{
+    "base": "disguise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disguise",
+    "n2": "disguises",
+    "n3": "the disguise",
+    "n4": "the disguises",
+    "n5": "disguise's",
+    "n6": "disguises'",
+    "n7": "a disguise",
+    "n8": "many disguises"
+}

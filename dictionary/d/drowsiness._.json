@@ -1,0 +1,18 @@
+{
+    "base": "drowsiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drowsiness",
+    "n2": "drowsinesses",
+    "n3": "the drowsiness",
+    "n4": "the drowsinesses",
+    "n5": "drowsiness'",
+    "n6": "drowsinesses'",
+    "n7": "a drowsiness",
+    "n8": "many drowsinesses"
+}

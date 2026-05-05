@@ -1,0 +1,18 @@
+{
+    "base": "librarian",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "librarian",
+    "n2": "librarians",
+    "n3": "the librarian",
+    "n4": "the librarians",
+    "n5": "librarian's",
+    "n6": "librarians'",
+    "n7": "a librarian",
+    "n8": "many librarians"
+}

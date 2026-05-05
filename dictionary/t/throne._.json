@@ -1,0 +1,18 @@
+{
+    "base": "throne",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "throne",
+    "n2": "thrones",
+    "n3": "the throne",
+    "n4": "the thrones",
+    "n5": "throne's",
+    "n6": "thrones'",
+    "n7": "a throne",
+    "n8": "many thrones"
+}

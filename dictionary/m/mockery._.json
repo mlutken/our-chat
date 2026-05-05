@@ -1,0 +1,18 @@
+{
+    "base": "mockery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mockery",
+    "n2": "mockeries",
+    "n3": "the mockery",
+    "n4": "the mockeries",
+    "n5": "mockery's",
+    "n6": "mockeries'",
+    "n7": "a mockery",
+    "n8": "many mockeries"
+}

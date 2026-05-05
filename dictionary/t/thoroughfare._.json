@@ -1,0 +1,18 @@
+{
+    "base": "thoroughfare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thoroughfare",
+    "n2": "thoroughfares",
+    "n3": "the thoroughfare",
+    "n4": "the thoroughfares",
+    "n5": "thoroughfare's",
+    "n6": "thoroughfares'",
+    "n7": "a thoroughfare",
+    "n8": "many thoroughfares"
+}

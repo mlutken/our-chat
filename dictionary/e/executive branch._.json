@@ -1,0 +1,18 @@
+{
+    "base": "executive branch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "executive branch",
+    "n2": "executive branches",
+    "n3": "the executive branch",
+    "n4": "the executive branches",
+    "n5": "executive branch's",
+    "n6": "executive branches'",
+    "n7": "an executive branch",
+    "n8": "many executive branches"
+}

@@ -7,5 +7,12 @@
     "n2": "designers",
     "n3": "the designer",
     "n4": "the designers",
-    "n5": "designer's"
+    "n5": "designer's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "designers'",
+    "n7": "a designer",
+    "n8": "many designers"
 }

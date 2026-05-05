@@ -1,0 +1,18 @@
+{
+    "base": "clown",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clown",
+    "n2": "clowns",
+    "n3": "the clown",
+    "n4": "the clowns",
+    "n5": "clown's",
+    "n6": "clowns'",
+    "n7": "a clown",
+    "n8": "many clowns"
+}

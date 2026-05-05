@@ -1,0 +1,18 @@
+{
+    "base": "defense program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "defense program",
+    "n2": "defense programs",
+    "n3": "the defense program",
+    "n4": "the defense programs",
+    "n5": "defense program's",
+    "n6": "defense programs'",
+    "n7": "a defense program",
+    "n8": "many defense programs"
+}

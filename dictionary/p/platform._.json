@@ -7,5 +7,12 @@
     "n2": "platforms",
     "n3": "the platform",
     "n4": "the platforms",
-    "n5": "platform's"
+    "n5": "platform's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "platforms'",
+    "n7": "a platform",
+    "n8": "many platforms"
 }

@@ -1,11 +1,24 @@
 {
     "base": "reach",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "reach",
     "v2": "reached",
     "v3": "reached",
     "v4": "reaching",
-    "v5": "reaches"
+    "v5": "reaches",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "reach",
+    "n2": "reaches",
+    "n3": "the reach",
+    "n4": "the reaches",
+    "n5": "reach's",
+    "n6": "reaches'",
+    "n7": "a reach",
+    "n8": "many reaches"
 }

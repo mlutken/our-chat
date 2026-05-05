@@ -1,0 +1,18 @@
+{
+    "base": "blue-green algae",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blue-green algae",
+    "n2": "blue-green algaes",
+    "n3": "the blue-green algae",
+    "n4": "the blue-green algaes",
+    "n5": "blue-green algae's",
+    "n6": "blue-green algaes'",
+    "n7": "a blue-green algae",
+    "n8": "many blue-green algaes"
+}

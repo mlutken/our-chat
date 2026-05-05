@@ -1,0 +1,18 @@
+{
+    "base": "truthfulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "truthfulness",
+    "n2": "truthfulnesses",
+    "n3": "the truthfulness",
+    "n4": "the truthfulnesses",
+    "n5": "truthfulness'",
+    "n6": "truthfulnesses'",
+    "n7": "a truthfulness",
+    "n8": "many truthfulnesses"
+}

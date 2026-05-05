@@ -1,0 +1,18 @@
+{
+    "base": "consistence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "consistence",
+    "n2": "consistences",
+    "n3": "the consistence",
+    "n4": "the consistences",
+    "n5": "consistence's",
+    "n6": "consistences'",
+    "n7": "a consistence",
+    "n8": "many consistences"
+}

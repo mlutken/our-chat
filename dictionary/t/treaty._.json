@@ -1,0 +1,18 @@
+{
+    "base": "treaty",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "treaty",
+    "n2": "treaties",
+    "n3": "the treaty",
+    "n4": "the treaties",
+    "n5": "treaty's",
+    "n6": "treaties'",
+    "n7": "a treaty",
+    "n8": "many treaties"
+}

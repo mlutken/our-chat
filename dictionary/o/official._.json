@@ -1,0 +1,18 @@
+{
+    "base": "official",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "official",
+    "n2": "officials",
+    "n3": "the official",
+    "n4": "the officials",
+    "n5": "official's",
+    "n6": "officials'",
+    "n7": "an official",
+    "n8": "many officials"
+}

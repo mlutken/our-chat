@@ -1,0 +1,18 @@
+{
+    "base": "planter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "planter",
+    "n2": "planters",
+    "n3": "the planter",
+    "n4": "the planters",
+    "n5": "planter's",
+    "n6": "planters'",
+    "n7": "a planter",
+    "n8": "many planters"
+}

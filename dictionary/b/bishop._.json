@@ -1,0 +1,18 @@
+{
+    "base": "bishop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bishop",
+    "n2": "bishops",
+    "n3": "the bishop",
+    "n4": "the bishops",
+    "n5": "bishop's",
+    "n6": "bishops'",
+    "n7": "a bishop",
+    "n8": "many bishops"
+}

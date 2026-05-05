@@ -1,0 +1,18 @@
+{
+    "base": "blaring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blaring",
+    "n2": "blarings",
+    "n3": "the blaring",
+    "n4": "the blarings",
+    "n5": "blaring's",
+    "n6": "blarings'",
+    "n7": "a blaring",
+    "n8": "many blarings"
+}

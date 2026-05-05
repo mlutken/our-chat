@@ -1,0 +1,18 @@
+{
+    "base": "wrinkle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "wrinkle",
+    "n2": "wrinkles",
+    "n3": "the wrinkle",
+    "n4": "the wrinkles",
+    "n5": "wrinkle's",
+    "n6": "wrinkles'",
+    "n7": "a wrinkle",
+    "n8": "many wrinkles"
+}

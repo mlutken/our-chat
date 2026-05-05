@@ -1,0 +1,18 @@
+{
+    "base": "managing editor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "managing editor",
+    "n2": "managing editors",
+    "n3": "the managing editor",
+    "n4": "the managing editors",
+    "n5": "managing editor's",
+    "n6": "managing editors'",
+    "n7": "a managing editor",
+    "n8": "many managing editors"
+}

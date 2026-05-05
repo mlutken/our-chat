@@ -1,0 +1,18 @@
+{
+    "base": "grace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "grace",
+    "n2": "graces",
+    "n3": "the grace",
+    "n4": "the graces",
+    "n5": "grace's",
+    "n6": "graces'",
+    "n7": "a grace",
+    "n8": "many graces"
+}

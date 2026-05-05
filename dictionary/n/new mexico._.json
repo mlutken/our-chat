@@ -1,0 +1,18 @@
+{
+    "base": "new mexico",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "new mexico",
+    "n2": "new mexicos",
+    "n3": "the new mexico",
+    "n4": "the new mexicos",
+    "n5": "new mexico's",
+    "n6": "new mexicos'",
+    "n7": "a new mexico",
+    "n8": "many new mexicos"
+}

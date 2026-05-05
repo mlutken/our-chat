@@ -1,0 +1,18 @@
+{
+    "base": "intensification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "intensification",
+    "n2": "intensifications",
+    "n3": "the intensification",
+    "n4": "the intensifications",
+    "n5": "intensification's",
+    "n6": "intensifications'",
+    "n7": "an intensification",
+    "n8": "many intensifications"
+}

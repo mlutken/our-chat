@@ -1,0 +1,18 @@
+{
+    "base": "common soldier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "common soldier",
+    "n2": "common soldiers",
+    "n3": "the common soldier",
+    "n4": "the common soldiers",
+    "n5": "common soldier's",
+    "n6": "common soldiers'",
+    "n7": "a common soldier",
+    "n8": "many common soldiers"
+}

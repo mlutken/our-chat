@@ -1,0 +1,18 @@
+{
+    "base": "overload",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overload",
+    "n2": "overloads",
+    "n3": "the overload",
+    "n4": "the overloads",
+    "n5": "overload's",
+    "n6": "overloads'",
+    "n7": "an overload",
+    "n8": "many overloads"
+}

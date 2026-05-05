@@ -1,0 +1,18 @@
+{
+    "base": "hiding place",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "hiding place",
+    "n2": "hiding places",
+    "n3": "the hiding place",
+    "n4": "the hiding places",
+    "n5": "hiding place's",
+    "n6": "hiding places'",
+    "n7": "a hiding place",
+    "n8": "many hiding places"
+}

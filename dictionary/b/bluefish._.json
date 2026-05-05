@@ -1,0 +1,18 @@
+{
+    "base": "bluefish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bluefish",
+    "n2": "bluefishes",
+    "n3": "the bluefish",
+    "n4": "the bluefishes",
+    "n5": "bluefish's",
+    "n6": "bluefishes'",
+    "n7": "a bluefish",
+    "n8": "many bluefishes"
+}

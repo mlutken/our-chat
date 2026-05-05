@@ -1,0 +1,18 @@
+{
+    "base": "airplane mechanics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "airplane mechanics",
+    "n2": "airplane mechanicses",
+    "n3": "the airplane mechanics",
+    "n4": "the airplane mechanicses",
+    "n5": "airplane mechanics'",
+    "n6": "airplane mechanicses'",
+    "n7": "an airplane mechanics",
+    "n8": "many airplane mechanicses"
+}

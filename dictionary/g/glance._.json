@@ -1,0 +1,18 @@
+{
+    "base": "glance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "glance",
+    "n2": "glances",
+    "n3": "the glance",
+    "n4": "the glances",
+    "n5": "glance's",
+    "n6": "glances'",
+    "n7": "a glance",
+    "n8": "many glances"
+}

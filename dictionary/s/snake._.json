@@ -1,0 +1,18 @@
+{
+    "base": "snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "snake",
+    "n2": "snakes",
+    "n3": "the snake",
+    "n4": "the snakes",
+    "n5": "snake's",
+    "n6": "snakes'",
+    "n7": "a snake",
+    "n8": "many snakes"
+}

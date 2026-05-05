@@ -1,0 +1,18 @@
+{
+    "base": "words",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n1": "words",
+    "n2": "wordses",
+    "n3": "the words",
+    "n4": "the wordses",
+    "n5": "words'",
+    "n6": "wordses'",
+    "n7": "a words",
+    "n8": "many wordses"
+}

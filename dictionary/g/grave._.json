@@ -1,0 +1,18 @@
+{
+    "base": "grave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "grave",
+    "n2": "graves",
+    "n3": "the grave",
+    "n4": "the graves",
+    "n5": "grave's",
+    "n6": "graves'",
+    "n7": "a grave",
+    "n8": "many graves"
+}

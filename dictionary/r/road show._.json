@@ -1,0 +1,18 @@
+{
+    "base": "road show",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "road show",
+    "n2": "road shows",
+    "n3": "the road show",
+    "n4": "the road shows",
+    "n5": "road show's",
+    "n6": "road shows'",
+    "n7": "a road show",
+    "n8": "many road shows"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "swimming hole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swimming hole",
+    "n2": "swimming holes",
+    "n3": "the swimming hole",
+    "n4": "the swimming holes",
+    "n5": "swimming hole's",
+    "n6": "swimming holes'",
+    "n7": "a swimming hole",
+    "n8": "many swimming holes"
+}

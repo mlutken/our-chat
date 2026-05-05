@@ -1,0 +1,18 @@
+{
+    "base": "abstract expressionism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abstract expressionism",
+    "n2": "abstract expressionisms",
+    "n3": "the abstract expressionism",
+    "n4": "the abstract expressionisms",
+    "n5": "abstract expressionism's",
+    "n6": "abstract expressionisms'",
+    "n7": "an abstract expressionism",
+    "n8": "many abstract expressionisms"
+}

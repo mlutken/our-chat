@@ -1,0 +1,18 @@
+{
+    "base": "trinket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trinket",
+    "n2": "trinkets",
+    "n3": "the trinket",
+    "n4": "the trinkets",
+    "n5": "trinket's",
+    "n6": "trinkets'",
+    "n7": "a trinket",
+    "n8": "many trinkets"
+}

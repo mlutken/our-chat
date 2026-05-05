@@ -1,0 +1,18 @@
+{
+    "base": "usefulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "usefulness",
+    "n2": "usefulnesses",
+    "n3": "the usefulness",
+    "n4": "the usefulnesses",
+    "n5": "usefulness'",
+    "n6": "usefulnesses'",
+    "n7": "a usefulness",
+    "n8": "many usefulnesses"
+}

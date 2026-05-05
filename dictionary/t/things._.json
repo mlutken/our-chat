@@ -1,0 +1,18 @@
+{
+    "base": "things",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "things",
+    "n2": "thingses",
+    "n3": "the things",
+    "n4": "the thingses",
+    "n5": "things'",
+    "n6": "thingses'",
+    "n7": "a things",
+    "n8": "many thingses"
+}

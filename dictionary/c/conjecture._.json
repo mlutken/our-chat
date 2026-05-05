@@ -1,0 +1,18 @@
+{
+    "base": "conjecture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conjecture",
+    "n2": "conjectures",
+    "n3": "the conjecture",
+    "n4": "the conjectures",
+    "n5": "conjecture's",
+    "n6": "conjectures'",
+    "n7": "a conjecture",
+    "n8": "many conjectures"
+}

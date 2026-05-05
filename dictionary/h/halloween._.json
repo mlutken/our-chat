@@ -1,0 +1,18 @@
+{
+    "base": "halloween",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "halloween",
+    "n2": "halloweens",
+    "n3": "the halloween",
+    "n4": "the halloweens",
+    "n5": "halloween's",
+    "n6": "halloweens'",
+    "n7": "a halloween",
+    "n8": "many halloweens"
+}

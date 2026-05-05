@@ -1,0 +1,18 @@
+{
+    "base": "consensus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "consensus",
+    "n2": "consensuses",
+    "n3": "the consensus",
+    "n4": "the consensuses",
+    "n5": "consensus'",
+    "n6": "consensuses'",
+    "n7": "a consensus",
+    "n8": "many consensuses"
+}

@@ -7,5 +7,12 @@
     "n2": "chests",
     "n3": "the chest",
     "n4": "the chests",
-    "n5": "chest's"
+    "n5": "chest's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "chests'",
+    "n7": "a chest",
+    "n8": "many chests"
 }

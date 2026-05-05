@@ -1,0 +1,18 @@
+{
+    "base": "oneness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oneness",
+    "n2": "onenesses",
+    "n3": "the oneness",
+    "n4": "the onenesses",
+    "n5": "oneness'",
+    "n6": "onenesses'",
+    "n7": "a oneness",
+    "n8": "many onenesses"
+}

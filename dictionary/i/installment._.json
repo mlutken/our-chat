@@ -1,0 +1,18 @@
+{
+    "base": "installment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "installment",
+    "n2": "installments",
+    "n3": "the installment",
+    "n4": "the installments",
+    "n5": "installment's",
+    "n6": "installments'",
+    "n7": "an installment",
+    "n8": "many installments"
+}

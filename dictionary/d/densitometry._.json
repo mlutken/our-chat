@@ -1,0 +1,18 @@
+{
+    "base": "densitometry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "densitometry",
+    "n2": "densitometries",
+    "n3": "the densitometry",
+    "n4": "the densitometries",
+    "n5": "densitometry's",
+    "n6": "densitometries'",
+    "n7": "a densitometry",
+    "n8": "many densitometries"
+}

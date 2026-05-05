@@ -1,0 +1,18 @@
+{
+    "base": "rate of attrition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rate of attrition",
+    "n2": "rate of attritions",
+    "n3": "the rate of attrition",
+    "n4": "the rate of attritions",
+    "n5": "rate of attrition's",
+    "n6": "rate of attritions'",
+    "n7": "a rate of attrition",
+    "n8": "many rate of attritions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "maid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "maid",
+    "n2": "maids",
+    "n3": "the maid",
+    "n4": "the maids",
+    "n5": "maid's",
+    "n6": "maids'",
+    "n7": "a maid",
+    "n8": "many maids"
+}

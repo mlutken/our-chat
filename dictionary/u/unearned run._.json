@@ -1,0 +1,18 @@
+{
+    "base": "unearned run",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unearned run",
+    "n2": "unearned runs",
+    "n3": "the unearned run",
+    "n4": "the unearned runs",
+    "n5": "unearned run's",
+    "n6": "unearned runs'",
+    "n7": "an unearned run",
+    "n8": "many unearned runs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sea spray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sea spray",
+    "n2": "sea sprays",
+    "n3": "the sea spray",
+    "n4": "the sea sprays",
+    "n5": "sea spray's",
+    "n6": "sea sprays'",
+    "n7": "a sea spray",
+    "n8": "many sea sprays"
+}

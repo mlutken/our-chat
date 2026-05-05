@@ -1,0 +1,18 @@
+{
+    "base": "stumbling block",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stumbling block",
+    "n2": "stumbling blocks",
+    "n3": "the stumbling block",
+    "n4": "the stumbling blocks",
+    "n5": "stumbling block's",
+    "n6": "stumbling blocks'",
+    "n7": "a stumbling block",
+    "n8": "many stumbling blocks"
+}

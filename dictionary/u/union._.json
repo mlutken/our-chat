@@ -7,5 +7,12 @@
     "n2": "unions",
     "n3": "the union",
     "n4": "the unions",
-    "n5": "union's"
+    "n5": "union's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "unions'",
+    "n7": "a union",
+    "n8": "many unions"
 }

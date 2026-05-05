@@ -1,0 +1,18 @@
+{
+    "base": "tobacco mosaic virus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tobacco mosaic virus",
+    "n2": "tobacco mosaic viruses",
+    "n3": "the tobacco mosaic virus",
+    "n4": "the tobacco mosaic viruses",
+    "n5": "tobacco mosaic virus'",
+    "n6": "tobacco mosaic viruses'",
+    "n7": "a tobacco mosaic virus",
+    "n8": "many tobacco mosaic viruses"
+}

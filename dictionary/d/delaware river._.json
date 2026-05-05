@@ -1,0 +1,18 @@
+{
+    "base": "delaware river",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delaware river",
+    "n2": "delaware rivers",
+    "n3": "the delaware river",
+    "n4": "the delaware rivers",
+    "n5": "delaware river's",
+    "n6": "delaware rivers'",
+    "n7": "a delaware river",
+    "n8": "many delaware rivers"
+}

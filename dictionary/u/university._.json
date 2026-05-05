@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "university",
-    "n2": "universitys",
+    "n2": "universities",
     "n3": "the university",
-    "n4": "the universitys",
-    "n5": "university's"
+    "n4": "the universities",
+    "n5": "university's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "universities'",
+    "n7": "a university",
+    "n8": "many universities"
 }

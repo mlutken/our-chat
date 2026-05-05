@@ -1,0 +1,18 @@
+{
+    "base": "firm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "firm",
+    "n2": "firms",
+    "n3": "the firm",
+    "n4": "the firms",
+    "n5": "firm's",
+    "n6": "firms'",
+    "n7": "a firm",
+    "n8": "many firms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "signore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "signore",
+    "n2": "signores",
+    "n3": "the signore",
+    "n4": "the signores",
+    "n5": "signore's",
+    "n6": "signores'",
+    "n7": "a signore",
+    "n8": "many signores"
+}

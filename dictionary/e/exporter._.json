@@ -1,0 +1,18 @@
+{
+    "base": "exporter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exporter",
+    "n2": "exporters",
+    "n3": "the exporter",
+    "n4": "the exporters",
+    "n5": "exporter's",
+    "n6": "exporters'",
+    "n7": "an exporter",
+    "n8": "many exporters"
+}

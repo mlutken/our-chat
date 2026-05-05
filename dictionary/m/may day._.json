@@ -1,0 +1,18 @@
+{
+    "base": "may day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "may day",
+    "n2": "may days",
+    "n3": "the may day",
+    "n4": "the may days",
+    "n5": "may day's",
+    "n6": "may days'",
+    "n7": "a may day",
+    "n8": "many may days"
+}

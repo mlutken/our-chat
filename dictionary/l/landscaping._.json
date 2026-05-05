@@ -1,0 +1,18 @@
+{
+    "base": "landscaping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "landscaping",
+    "n2": "landscapings",
+    "n3": "the landscaping",
+    "n4": "the landscapings",
+    "n5": "landscaping's",
+    "n6": "landscapings'",
+    "n7": "a landscaping",
+    "n8": "many landscapings"
+}

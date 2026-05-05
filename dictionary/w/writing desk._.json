@@ -1,0 +1,18 @@
+{
+    "base": "writing desk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "writing desk",
+    "n2": "writing desks",
+    "n3": "the writing desk",
+    "n4": "the writing desks",
+    "n5": "writing desk's",
+    "n6": "writing desks'",
+    "n7": "a writing desk",
+    "n8": "many writing desks"
+}

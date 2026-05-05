@@ -1,0 +1,18 @@
+{
+    "base": "high explosive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "high explosive",
+    "n2": "high explosives",
+    "n3": "the high explosive",
+    "n4": "the high explosives",
+    "n5": "high explosive's",
+    "n6": "high explosives'",
+    "n7": "a high explosive",
+    "n8": "many high explosives"
+}

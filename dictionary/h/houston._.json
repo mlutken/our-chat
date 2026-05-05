@@ -1,0 +1,18 @@
+{
+    "base": "houston",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "houston",
+    "n2": "houstons",
+    "n3": "the houston",
+    "n4": "the houstons",
+    "n5": "houston's",
+    "n6": "houstons'",
+    "n7": "a houston",
+    "n8": "many houstons"
+}

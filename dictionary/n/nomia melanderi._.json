@@ -1,0 +1,18 @@
+{
+    "base": "nomia melanderi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nomia melanderi",
+    "n2": "nomia melanderis",
+    "n3": "the nomia melanderi",
+    "n4": "the nomia melanderis",
+    "n5": "nomia melanderi's",
+    "n6": "nomia melanderis'",
+    "n7": "a nomia melanderi",
+    "n8": "many nomia melanderis"
+}

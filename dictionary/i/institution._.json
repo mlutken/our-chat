@@ -1,0 +1,18 @@
+{
+    "base": "institution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "institution",
+    "n2": "institutions",
+    "n3": "the institution",
+    "n4": "the institutions",
+    "n5": "institution's",
+    "n6": "institutions'",
+    "n7": "an institution",
+    "n8": "many institutions"
+}

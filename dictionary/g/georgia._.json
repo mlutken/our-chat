@@ -1,0 +1,18 @@
+{
+    "base": "georgia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "georgia",
+    "n2": "georgias",
+    "n3": "the georgia",
+    "n4": "the georgias",
+    "n5": "georgia's",
+    "n6": "georgias'",
+    "n7": "a georgia",
+    "n8": "many georgias"
+}

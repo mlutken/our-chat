@@ -1,0 +1,18 @@
+{
+    "base": "escalation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "escalation",
+    "n2": "escalations",
+    "n3": "the escalation",
+    "n4": "the escalations",
+    "n5": "escalation's",
+    "n6": "escalations'",
+    "n7": "an escalation",
+    "n8": "many escalations"
+}

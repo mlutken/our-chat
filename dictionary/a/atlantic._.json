@@ -1,0 +1,18 @@
+{
+    "base": "atlantic",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "atlantic",
+    "n2": "atlantics",
+    "n3": "the atlantic",
+    "n4": "the atlantics",
+    "n5": "atlantic's",
+    "n6": "atlantics'",
+    "n7": "an atlantic",
+    "n8": "many atlantics"
+}

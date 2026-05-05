@@ -1,0 +1,18 @@
+{
+    "base": "electrophoresis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrophoresis",
+    "n2": "electrophoresises",
+    "n3": "the electrophoresis",
+    "n4": "the electrophoresises",
+    "n5": "electrophoresis'",
+    "n6": "electrophoresises'",
+    "n7": "an electrophoresis",
+    "n8": "many electrophoresises"
+}

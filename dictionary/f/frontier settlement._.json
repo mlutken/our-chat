@@ -1,0 +1,18 @@
+{
+    "base": "frontier settlement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "frontier settlement",
+    "n2": "frontier settlements",
+    "n3": "the frontier settlement",
+    "n4": "the frontier settlements",
+    "n5": "frontier settlement's",
+    "n6": "frontier settlements'",
+    "n7": "a frontier settlement",
+    "n8": "many frontier settlements"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "binoculars",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "binoculars",
+    "n2": "binocularses",
+    "n3": "the binoculars",
+    "n4": "the binocularses",
+    "n5": "binoculars'",
+    "n6": "binocularses'",
+    "n7": "a binoculars",
+    "n8": "many binocularses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "low frequency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "low frequency",
+    "n2": "low frequencies",
+    "n3": "the low frequency",
+    "n4": "the low frequencies",
+    "n5": "low frequency's",
+    "n6": "low frequencies'",
+    "n7": "a low frequency",
+    "n8": "many low frequencies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "inflection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inflection",
+    "n2": "inflections",
+    "n3": "the inflection",
+    "n4": "the inflections",
+    "n5": "inflection's",
+    "n6": "inflections'",
+    "n7": "an inflection",
+    "n8": "many inflections"
+}

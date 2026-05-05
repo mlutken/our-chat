@@ -1,0 +1,18 @@
+{
+    "base": "thamnophis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thamnophis",
+    "n2": "thamnophises",
+    "n3": "the thamnophis",
+    "n4": "the thamnophises",
+    "n5": "thamnophis'",
+    "n6": "thamnophises'",
+    "n7": "a thamnophis",
+    "n8": "many thamnophises"
+}

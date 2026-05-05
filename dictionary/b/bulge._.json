@@ -1,0 +1,18 @@
+{
+    "base": "bulge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bulge",
+    "n2": "bulges",
+    "n3": "the bulge",
+    "n4": "the bulges",
+    "n5": "bulge's",
+    "n6": "bulges'",
+    "n7": "a bulge",
+    "n8": "many bulges"
+}

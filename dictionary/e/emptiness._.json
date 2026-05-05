@@ -1,0 +1,18 @@
+{
+    "base": "emptiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "emptiness",
+    "n2": "emptinesses",
+    "n3": "the emptiness",
+    "n4": "the emptinesses",
+    "n5": "emptiness'",
+    "n6": "emptinesses'",
+    "n7": "an emptiness",
+    "n8": "many emptinesses"
+}

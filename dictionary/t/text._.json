@@ -7,5 +7,12 @@
     "n2": "texts",
     "n3": "the text",
     "n4": "the texts",
-    "n5": "text's"
+    "n5": "text's",
+    "proper": false,
+    "commonness": 53,
+    "max_commonness": 6834,
+    "commonness_ge_count": 300,
+    "n6": "texts'",
+    "n7": "a text",
+    "n8": "many texts"
 }

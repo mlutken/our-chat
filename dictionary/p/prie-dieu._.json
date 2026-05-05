@@ -1,0 +1,18 @@
+{
+    "base": "prie-dieu",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prie-dieu",
+    "n2": "prie-dieus",
+    "n3": "the prie-dieu",
+    "n4": "the prie-dieus",
+    "n5": "prie-dieu's",
+    "n6": "prie-dieus'",
+    "n7": "a prie-dieu",
+    "n8": "many prie-dieus"
+}

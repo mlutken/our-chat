@@ -1,0 +1,18 @@
+{
+    "base": "replenishment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "replenishment",
+    "n2": "replenishments",
+    "n3": "the replenishment",
+    "n4": "the replenishments",
+    "n5": "replenishment's",
+    "n6": "replenishments'",
+    "n7": "a replenishment",
+    "n8": "many replenishments"
+}

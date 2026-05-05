@@ -1,0 +1,18 @@
+{
+    "base": "questioning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "questioning",
+    "n2": "questionings",
+    "n3": "the questioning",
+    "n4": "the questionings",
+    "n5": "questioning's",
+    "n6": "questionings'",
+    "n7": "a questioning",
+    "n8": "many questionings"
+}

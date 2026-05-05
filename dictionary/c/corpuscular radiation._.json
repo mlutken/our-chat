@@ -1,0 +1,18 @@
+{
+    "base": "corpuscular radiation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "corpuscular radiation",
+    "n2": "corpuscular radiations",
+    "n3": "the corpuscular radiation",
+    "n4": "the corpuscular radiations",
+    "n5": "corpuscular radiation's",
+    "n6": "corpuscular radiations'",
+    "n7": "a corpuscular radiation",
+    "n8": "many corpuscular radiations"
+}

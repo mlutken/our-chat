@@ -1,0 +1,18 @@
+{
+    "base": "mud flat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mud flat",
+    "n2": "mud flats",
+    "n3": "the mud flat",
+    "n4": "the mud flats",
+    "n5": "mud flat's",
+    "n6": "mud flats'",
+    "n7": "a mud flat",
+    "n8": "many mud flats"
+}

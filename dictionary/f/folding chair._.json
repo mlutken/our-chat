@@ -1,0 +1,18 @@
+{
+    "base": "folding chair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "folding chair",
+    "n2": "folding chairs",
+    "n3": "the folding chair",
+    "n4": "the folding chairs",
+    "n5": "folding chair's",
+    "n6": "folding chairs'",
+    "n7": "a folding chair",
+    "n8": "many folding chairs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "jealousy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jealousy",
+    "n2": "jealousies",
+    "n3": "the jealousy",
+    "n4": "the jealousies",
+    "n5": "jealousy's",
+    "n6": "jealousies'",
+    "n7": "a jealousy",
+    "n8": "many jealousies"
+}

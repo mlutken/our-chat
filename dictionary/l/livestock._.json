@@ -1,0 +1,18 @@
+{
+    "base": "livestock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "livestock",
+    "n2": "livestocks",
+    "n3": "the livestock",
+    "n4": "the livestocks",
+    "n5": "livestock's",
+    "n6": "livestocks'",
+    "n7": "a livestock",
+    "n8": "many livestocks"
+}

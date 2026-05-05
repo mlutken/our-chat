@@ -1,0 +1,18 @@
+{
+    "base": "prison house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prison house",
+    "n2": "prison houses",
+    "n3": "the prison house",
+    "n4": "the prison houses",
+    "n5": "prison house's",
+    "n6": "prison houses'",
+    "n7": "a prison house",
+    "n8": "many prison houses"
+}

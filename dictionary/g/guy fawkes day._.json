@@ -1,0 +1,18 @@
+{
+    "base": "guy fawkes day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guy fawkes day",
+    "n2": "guy fawkes days",
+    "n3": "the guy fawkes day",
+    "n4": "the guy fawkes days",
+    "n5": "guy fawkes day's",
+    "n6": "guy fawkes days'",
+    "n7": "a guy fawkes day",
+    "n8": "many guy fawkes days"
+}

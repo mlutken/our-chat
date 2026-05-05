@@ -1,0 +1,18 @@
+{
+    "base": "cipher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cipher",
+    "n2": "ciphers",
+    "n3": "the cipher",
+    "n4": "the ciphers",
+    "n5": "cipher's",
+    "n6": "ciphers'",
+    "n7": "a cipher",
+    "n8": "many ciphers"
+}

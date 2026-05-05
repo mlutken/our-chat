@@ -1,0 +1,18 @@
+{
+    "base": "sinking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sinking",
+    "n2": "sinkings",
+    "n3": "the sinking",
+    "n4": "the sinkings",
+    "n5": "sinking's",
+    "n6": "sinkings'",
+    "n7": "a sinking",
+    "n8": "many sinkings"
+}

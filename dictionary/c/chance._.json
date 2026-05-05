@@ -7,5 +7,12 @@
     "n2": "chances",
     "n3": "the chance",
     "n4": "the chances",
-    "n5": "chance's"
+    "n5": "chance's",
+    "proper": false,
+    "commonness": 54,
+    "max_commonness": 6834,
+    "commonness_ge_count": 294,
+    "n6": "chances'",
+    "n7": "a chance",
+    "n8": "many chances"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "tee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tee",
+    "n2": "tees",
+    "n3": "the tee",
+    "n4": "the tees",
+    "n5": "tee's",
+    "n6": "tees'",
+    "n7": "a tee",
+    "n8": "many tees"
+}

@@ -7,5 +7,12 @@
     "n2": "students",
     "n3": "the student",
     "n4": "the students",
-    "n5": "student's"
+    "n5": "student's",
+    "proper": false,
+    "commonness": 81,
+    "max_commonness": 6834,
+    "commonness_ge_count": 162,
+    "n6": "students'",
+    "n7": "a student",
+    "n8": "many students"
 }

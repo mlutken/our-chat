@@ -1,0 +1,18 @@
+{
+    "base": "repulsive force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "repulsive force",
+    "n2": "repulsive forces",
+    "n3": "the repulsive force",
+    "n4": "the repulsive forces",
+    "n5": "repulsive force's",
+    "n6": "repulsive forces'",
+    "n7": "a repulsive force",
+    "n8": "many repulsive forces"
+}

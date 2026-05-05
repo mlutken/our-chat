@@ -7,5 +7,12 @@
     "n2": "curricula",
     "n3": "the curriculum",
     "n4": "the curricula",
-    "n5": "curriculum's"
+    "n5": "curriculum's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "curricula's",
+    "n7": "a curriculum",
+    "n8": "many curricula"
 }

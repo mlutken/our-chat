@@ -1,0 +1,18 @@
+{
+    "base": "bandwidth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bandwidth",
+    "n2": "bandwidths",
+    "n3": "the bandwidth",
+    "n4": "the bandwidths",
+    "n5": "bandwidth's",
+    "n6": "bandwidths'",
+    "n7": "a bandwidth",
+    "n8": "many bandwidths"
+}

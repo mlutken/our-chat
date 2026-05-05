@@ -1,0 +1,18 @@
+{
+    "base": "extern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "extern",
+    "n2": "externs",
+    "n3": "the extern",
+    "n4": "the externs",
+    "n5": "extern's",
+    "n6": "externs'",
+    "n7": "an extern",
+    "n8": "many externs"
+}

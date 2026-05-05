@@ -1,0 +1,18 @@
+{
+    "base": "mechanic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mechanic",
+    "n2": "mechanics",
+    "n3": "the mechanic",
+    "n4": "the mechanics",
+    "n5": "mechanic's",
+    "n6": "mechanics'",
+    "n7": "a mechanic",
+    "n8": "many mechanics"
+}

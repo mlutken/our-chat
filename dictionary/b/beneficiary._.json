@@ -1,0 +1,18 @@
+{
+    "base": "beneficiary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "beneficiary",
+    "n2": "beneficiaries",
+    "n3": "the beneficiary",
+    "n4": "the beneficiaries",
+    "n5": "beneficiary's",
+    "n6": "beneficiaries'",
+    "n7": "a beneficiary",
+    "n8": "many beneficiaries"
+}

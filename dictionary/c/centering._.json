@@ -1,0 +1,18 @@
+{
+    "base": "centering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "centering",
+    "n2": "centerings",
+    "n3": "the centering",
+    "n4": "the centerings",
+    "n5": "centering's",
+    "n6": "centerings'",
+    "n7": "a centering",
+    "n8": "many centerings"
+}

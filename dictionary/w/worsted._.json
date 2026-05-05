@@ -1,0 +1,18 @@
+{
+    "base": "worsted",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worsted",
+    "n2": "worsteds",
+    "n3": "the worsted",
+    "n4": "the worsteds",
+    "n5": "worsted's",
+    "n6": "worsteds'",
+    "n7": "a worsted",
+    "n8": "many worsteds"
+}

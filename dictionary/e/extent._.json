@@ -7,5 +7,12 @@
     "n2": "extents",
     "n3": "the extent",
     "n4": "the extents",
-    "n5": "extent's"
+    "n5": "extent's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "extents'",
+    "n7": "an extent",
+    "n8": "many extents"
 }

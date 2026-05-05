@@ -1,0 +1,18 @@
+{
+    "base": "blue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "blue",
+    "n2": "blues",
+    "n3": "the blue",
+    "n4": "the blues",
+    "n5": "blue's",
+    "n6": "blues'",
+    "n7": "a blue",
+    "n8": "many blues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "temperament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "temperament",
+    "n2": "temperaments",
+    "n3": "the temperament",
+    "n4": "the temperaments",
+    "n5": "temperament's",
+    "n6": "temperaments'",
+    "n7": "a temperament",
+    "n8": "many temperaments"
+}

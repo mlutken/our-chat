@@ -1,11 +1,24 @@
 {
     "base": "whip",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "whip",
     "v2": "whipped",
     "v3": "whipped",
     "v4": "whipping",
-    "v5": "whips"
+    "v5": "whips",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "whip",
+    "n2": "whips",
+    "n3": "the whip",
+    "n4": "the whips",
+    "n5": "whip's",
+    "n6": "whips'",
+    "n7": "a whip",
+    "n8": "many whips"
 }

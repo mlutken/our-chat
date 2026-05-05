@@ -1,0 +1,18 @@
+{
+    "base": "swerve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swerve",
+    "n2": "swerves",
+    "n3": "the swerve",
+    "n4": "the swerves",
+    "n5": "swerve's",
+    "n6": "swerves'",
+    "n7": "a swerve",
+    "n8": "many swerves"
+}

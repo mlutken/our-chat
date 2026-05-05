@@ -7,5 +7,12 @@
     "n2": "appeals",
     "n3": "the appeal",
     "n4": "the appeals",
-    "n5": "appeal's"
+    "n5": "appeal's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "appeals'",
+    "n7": "an appeal",
+    "n8": "many appeals"
 }

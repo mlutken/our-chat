@@ -1,0 +1,18 @@
+{
+    "base": "bearing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bearing",
+    "n2": "bearings",
+    "n3": "the bearing",
+    "n4": "the bearings",
+    "n5": "bearing's",
+    "n6": "bearings'",
+    "n7": "a bearing",
+    "n8": "many bearings"
+}

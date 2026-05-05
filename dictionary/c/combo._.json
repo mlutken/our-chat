@@ -1,0 +1,18 @@
+{
+    "base": "combo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "combo",
+    "n2": "combos",
+    "n3": "the combo",
+    "n4": "the combos",
+    "n5": "combo's",
+    "n6": "combos'",
+    "n7": "a combo",
+    "n8": "many combos"
+}

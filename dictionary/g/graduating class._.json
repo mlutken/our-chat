@@ -1,0 +1,18 @@
+{
+    "base": "graduating class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "graduating class",
+    "n2": "graduating classes",
+    "n3": "the graduating class",
+    "n4": "the graduating classes",
+    "n5": "graduating class'",
+    "n6": "graduating classes'",
+    "n7": "a graduating class",
+    "n8": "many graduating classes"
+}

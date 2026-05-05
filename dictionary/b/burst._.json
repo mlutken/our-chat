@@ -1,0 +1,18 @@
+{
+    "base": "burst",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "burst",
+    "n2": "bursts",
+    "n3": "the burst",
+    "n4": "the bursts",
+    "n5": "burst's",
+    "n6": "bursts'",
+    "n7": "a burst",
+    "n8": "many bursts"
+}

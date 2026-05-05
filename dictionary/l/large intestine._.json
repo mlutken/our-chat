@@ -1,0 +1,18 @@
+{
+    "base": "large intestine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "large intestine",
+    "n2": "large intestines",
+    "n3": "the large intestine",
+    "n4": "the large intestines",
+    "n5": "large intestine's",
+    "n6": "large intestines'",
+    "n7": "a large intestine",
+    "n8": "many large intestines"
+}

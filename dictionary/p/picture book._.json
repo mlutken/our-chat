@@ -1,0 +1,18 @@
+{
+    "base": "picture book",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picture book",
+    "n2": "picture books",
+    "n3": "the picture book",
+    "n4": "the picture books",
+    "n5": "picture book's",
+    "n6": "picture books'",
+    "n7": "a picture book",
+    "n8": "many picture books"
+}

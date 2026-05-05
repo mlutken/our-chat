@@ -1,0 +1,18 @@
+{
+    "base": "reflectance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reflectance",
+    "n2": "reflectances",
+    "n3": "the reflectance",
+    "n4": "the reflectances",
+    "n5": "reflectance's",
+    "n6": "reflectances'",
+    "n7": "a reflectance",
+    "n8": "many reflectances"
+}

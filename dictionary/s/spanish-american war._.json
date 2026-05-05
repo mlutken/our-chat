@@ -1,0 +1,18 @@
+{
+    "base": "spanish-american war",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spanish-american war",
+    "n2": "spanish-american wars",
+    "n3": "the spanish-american war",
+    "n4": "the spanish-american wars",
+    "n5": "spanish-american war's",
+    "n6": "spanish-american wars'",
+    "n7": "a spanish-american war",
+    "n8": "many spanish-american wars"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "exclamation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "exclamation",
+    "n2": "exclamations",
+    "n3": "the exclamation",
+    "n4": "the exclamations",
+    "n5": "exclamation's",
+    "n6": "exclamations'",
+    "n7": "an exclamation",
+    "n8": "many exclamations"
+}

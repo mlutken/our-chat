@@ -1,0 +1,18 @@
+{
+    "base": "friction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "friction",
+    "n2": "frictions",
+    "n3": "the friction",
+    "n4": "the frictions",
+    "n5": "friction's",
+    "n6": "frictions'",
+    "n7": "a friction",
+    "n8": "many frictions"
+}

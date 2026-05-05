@@ -1,0 +1,18 @@
+{
+    "base": "interface",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "interface",
+    "n2": "interfaces",
+    "n3": "the interface",
+    "n4": "the interfaces",
+    "n5": "interface's",
+    "n6": "interfaces'",
+    "n7": "an interface",
+    "n8": "many interfaces"
+}

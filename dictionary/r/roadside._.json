@@ -1,0 +1,18 @@
+{
+    "base": "roadside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "roadside",
+    "n2": "roadsides",
+    "n3": "the roadside",
+    "n4": "the roadsides",
+    "n5": "roadside's",
+    "n6": "roadsides'",
+    "n7": "a roadside",
+    "n8": "many roadsides"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "clickety-click",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clickety-click",
+    "n2": "clickety-clicks",
+    "n3": "the clickety-click",
+    "n4": "the clickety-clicks",
+    "n5": "clickety-click's",
+    "n6": "clickety-clicks'",
+    "n7": "a clickety-click",
+    "n8": "many clickety-clicks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "peal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peal",
+    "n2": "peals",
+    "n3": "the peal",
+    "n4": "the peals",
+    "n5": "peal's",
+    "n6": "peals'",
+    "n7": "a peal",
+    "n8": "many peals"
+}

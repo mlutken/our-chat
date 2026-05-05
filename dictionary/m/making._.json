@@ -1,0 +1,18 @@
+{
+    "base": "making",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "making",
+    "n2": "makings",
+    "n3": "the making",
+    "n4": "the makings",
+    "n5": "making's",
+    "n6": "makings'",
+    "n7": "a making",
+    "n8": "many makings"
+}

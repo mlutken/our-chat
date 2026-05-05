@@ -1,0 +1,18 @@
+{
+    "base": "munition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "munition",
+    "n2": "munitions",
+    "n3": "the munition",
+    "n4": "the munitions",
+    "n5": "munition's",
+    "n6": "munitions'",
+    "n7": "a munition",
+    "n8": "many munitions"
+}

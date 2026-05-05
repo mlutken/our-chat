@@ -1,0 +1,18 @@
+{
+    "base": "hemosiderin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hemosiderin",
+    "n2": "hemosiderins",
+    "n3": "the hemosiderin",
+    "n4": "the hemosiderins",
+    "n5": "hemosiderin's",
+    "n6": "hemosiderins'",
+    "n7": "a hemosiderin",
+    "n8": "many hemosiderins"
+}

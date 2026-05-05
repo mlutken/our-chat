@@ -1,0 +1,18 @@
+{
+    "base": "master of ceremonies",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "master of ceremonies",
+    "n2": "master of ceremonieses",
+    "n3": "the master of ceremonies",
+    "n4": "the master of ceremonieses",
+    "n5": "master of ceremonies'",
+    "n6": "master of ceremonieses'",
+    "n7": "a master of ceremonies",
+    "n8": "many master of ceremonieses"
+}

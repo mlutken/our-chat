@@ -7,5 +7,12 @@
     "n2": "mornings",
     "n3": "the morning",
     "n4": "the mornings",
-    "n5": "morning's"
+    "n5": "morning's",
+    "proper": false,
+    "commonness": 88,
+    "max_commonness": 6834,
+    "commonness_ge_count": 140,
+    "n6": "mornings'",
+    "n7": "a morning",
+    "n8": "many mornings"
 }

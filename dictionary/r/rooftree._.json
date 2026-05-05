@@ -1,0 +1,18 @@
+{
+    "base": "rooftree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rooftree",
+    "n2": "rooftrees",
+    "n3": "the rooftree",
+    "n4": "the rooftrees",
+    "n5": "rooftree's",
+    "n6": "rooftrees'",
+    "n7": "a rooftree",
+    "n8": "many rooftrees"
+}

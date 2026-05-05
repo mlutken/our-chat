@@ -1,0 +1,18 @@
+{
+    "base": "johnny reb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "johnny reb",
+    "n2": "johnny rebs",
+    "n3": "the johnny reb",
+    "n4": "the johnny rebs",
+    "n5": "johnny reb's",
+    "n6": "johnny rebs'",
+    "n7": "a johnny reb",
+    "n8": "many johnny rebs"
+}

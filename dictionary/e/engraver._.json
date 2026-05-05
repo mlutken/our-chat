@@ -1,0 +1,18 @@
+{
+    "base": "engraver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "engraver",
+    "n2": "engravers",
+    "n3": "the engraver",
+    "n4": "the engravers",
+    "n5": "engraver's",
+    "n6": "engravers'",
+    "n7": "an engraver",
+    "n8": "many engravers"
+}

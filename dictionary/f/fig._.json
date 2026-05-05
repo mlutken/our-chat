@@ -1,0 +1,18 @@
+{
+    "base": "fig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "fig",
+    "n2": "figs",
+    "n3": "the fig",
+    "n4": "the figs",
+    "n5": "fig's",
+    "n6": "figs'",
+    "n7": "a fig",
+    "n8": "many figs"
+}

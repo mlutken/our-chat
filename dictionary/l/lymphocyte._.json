@@ -1,0 +1,18 @@
+{
+    "base": "lymphocyte",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lymphocyte",
+    "n2": "lymphocytes",
+    "n3": "the lymphocyte",
+    "n4": "the lymphocytes",
+    "n5": "lymphocyte's",
+    "n6": "lymphocytes'",
+    "n7": "a lymphocyte",
+    "n8": "many lymphocytes"
+}

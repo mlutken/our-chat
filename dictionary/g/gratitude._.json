@@ -1,0 +1,18 @@
+{
+    "base": "gratitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gratitude",
+    "n2": "gratitudes",
+    "n3": "the gratitude",
+    "n4": "the gratitudes",
+    "n5": "gratitude's",
+    "n6": "gratitudes'",
+    "n7": "a gratitude",
+    "n8": "many gratitudes"
+}

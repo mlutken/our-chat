@@ -7,5 +7,12 @@
     "n2": "percentages",
     "n3": "the percentage",
     "n4": "the percentages",
-    "n5": "percentage's"
+    "n5": "percentage's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "percentages'",
+    "n7": "a percentage",
+    "n8": "many percentages"
 }

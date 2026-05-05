@@ -1,0 +1,18 @@
+{
+    "base": "paper bag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paper bag",
+    "n2": "paper bags",
+    "n3": "the paper bag",
+    "n4": "the paper bags",
+    "n5": "paper bag's",
+    "n6": "paper bags'",
+    "n7": "a paper bag",
+    "n8": "many paper bags"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "geochemistry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "geochemistry",
+    "n2": "geochemistries",
+    "n3": "the geochemistry",
+    "n4": "the geochemistries",
+    "n5": "geochemistry's",
+    "n6": "geochemistries'",
+    "n7": "a geochemistry",
+    "n8": "many geochemistries"
+}

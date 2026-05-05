@@ -1,0 +1,18 @@
+{
+    "base": "commercialization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commercialization",
+    "n2": "commercializations",
+    "n3": "the commercialization",
+    "n4": "the commercializations",
+    "n5": "commercialization's",
+    "n6": "commercializations'",
+    "n7": "a commercialization",
+    "n8": "many commercializations"
+}

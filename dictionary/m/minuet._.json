@@ -1,0 +1,18 @@
+{
+    "base": "minuet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "minuet",
+    "n2": "minuets",
+    "n3": "the minuet",
+    "n4": "the minuets",
+    "n5": "minuet's",
+    "n6": "minuets'",
+    "n7": "a minuet",
+    "n8": "many minuets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "heart rate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heart rate",
+    "n2": "heart rates",
+    "n3": "the heart rate",
+    "n4": "the heart rates",
+    "n5": "heart rate's",
+    "n6": "heart rates'",
+    "n7": "a heart rate",
+    "n8": "many heart rates"
+}

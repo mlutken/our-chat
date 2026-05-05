@@ -1,0 +1,18 @@
+{
+    "base": "airplane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "airplane",
+    "n2": "airplanes",
+    "n3": "the airplane",
+    "n4": "the airplanes",
+    "n5": "airplane's",
+    "n6": "airplanes'",
+    "n7": "an airplane",
+    "n8": "many airplanes"
+}

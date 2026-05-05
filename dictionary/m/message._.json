@@ -7,5 +7,12 @@
     "n2": "messages",
     "n3": "the message",
     "n4": "the messages",
-    "n5": "message's"
+    "n5": "message's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "messages'",
+    "n7": "a message",
+    "n8": "many messages"
 }

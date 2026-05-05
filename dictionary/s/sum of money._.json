@@ -1,0 +1,18 @@
+{
+    "base": "sum of money",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sum of money",
+    "n2": "sum of moneys",
+    "n3": "the sum of money",
+    "n4": "the sum of moneys",
+    "n5": "sum of money's",
+    "n6": "sum of moneys'",
+    "n7": "a sum of money",
+    "n8": "many sum of moneys"
+}

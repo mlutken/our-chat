@@ -1,0 +1,18 @@
+{
+    "base": "thumb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "thumb",
+    "n2": "thumbs",
+    "n3": "the thumb",
+    "n4": "the thumbs",
+    "n5": "thumb's",
+    "n6": "thumbs'",
+    "n7": "a thumb",
+    "n8": "many thumbs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pine knot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pine knot",
+    "n2": "pine knots",
+    "n3": "the pine knot",
+    "n4": "the pine knots",
+    "n5": "pine knot's",
+    "n6": "pine knots'",
+    "n7": "a pine knot",
+    "n8": "many pine knots"
+}

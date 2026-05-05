@@ -1,0 +1,18 @@
+{
+    "base": "hormone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "hormone",
+    "n2": "hormones",
+    "n3": "the hormone",
+    "n4": "the hormones",
+    "n5": "hormone's",
+    "n6": "hormones'",
+    "n7": "a hormone",
+    "n8": "many hormones"
+}

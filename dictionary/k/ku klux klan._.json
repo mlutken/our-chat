@@ -1,0 +1,18 @@
+{
+    "base": "ku klux klan",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ku klux klan",
+    "n2": "ku klux klans",
+    "n3": "the ku klux klan",
+    "n4": "the ku klux klans",
+    "n5": "ku klux klan's",
+    "n6": "ku klux klans'",
+    "n7": "a ku klux klan",
+    "n8": "many ku klux klans"
+}

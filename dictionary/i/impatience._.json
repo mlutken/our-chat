@@ -1,0 +1,18 @@
+{
+    "base": "impatience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "impatience",
+    "n2": "impatiences",
+    "n3": "the impatience",
+    "n4": "the impatiences",
+    "n5": "impatience's",
+    "n6": "impatiences'",
+    "n7": "an impatience",
+    "n8": "many impatiences"
+}

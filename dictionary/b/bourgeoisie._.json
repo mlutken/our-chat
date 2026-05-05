@@ -1,0 +1,18 @@
+{
+    "base": "bourgeoisie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bourgeoisie",
+    "n2": "bourgeoisies",
+    "n3": "the bourgeoisie",
+    "n4": "the bourgeoisies",
+    "n5": "bourgeoisie's",
+    "n6": "bourgeoisies'",
+    "n7": "a bourgeoisie",
+    "n8": "many bourgeoisies"
+}

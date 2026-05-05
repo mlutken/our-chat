@@ -1,0 +1,18 @@
+{
+    "base": "flowerbed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flowerbed",
+    "n2": "flowerbeds",
+    "n3": "the flowerbed",
+    "n4": "the flowerbeds",
+    "n5": "flowerbed's",
+    "n6": "flowerbeds'",
+    "n7": "a flowerbed",
+    "n8": "many flowerbeds"
+}

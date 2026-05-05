@@ -1,0 +1,18 @@
+{
+    "base": "stage right",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stage right",
+    "n2": "stage rights",
+    "n3": "the stage right",
+    "n4": "the stage rights",
+    "n5": "stage right's",
+    "n6": "stage rights'",
+    "n7": "a stage right",
+    "n8": "many stage rights"
+}

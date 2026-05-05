@@ -1,0 +1,18 @@
+{
+    "base": "warrant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "warrant",
+    "n2": "warrants",
+    "n3": "the warrant",
+    "n4": "the warrants",
+    "n5": "warrant's",
+    "n6": "warrants'",
+    "n7": "a warrant",
+    "n8": "many warrants"
+}

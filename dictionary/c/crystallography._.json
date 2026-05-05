@@ -1,0 +1,18 @@
+{
+    "base": "crystallography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crystallography",
+    "n2": "crystallographies",
+    "n3": "the crystallography",
+    "n4": "the crystallographies",
+    "n5": "crystallography's",
+    "n6": "crystallographies'",
+    "n7": "a crystallography",
+    "n8": "many crystallographies"
+}

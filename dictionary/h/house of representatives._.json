@@ -1,0 +1,18 @@
+{
+    "base": "house of representatives",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "house of representatives",
+    "n2": "house of representativeses",
+    "n3": "the house of representatives",
+    "n4": "the house of representativeses",
+    "n5": "house of representatives'",
+    "n6": "house of representativeses'",
+    "n7": "a house of representatives",
+    "n8": "many house of representativeses"
+}

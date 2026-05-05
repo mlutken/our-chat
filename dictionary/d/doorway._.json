@@ -1,0 +1,18 @@
+{
+    "base": "doorway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "doorway",
+    "n2": "doorways",
+    "n3": "the doorway",
+    "n4": "the doorways",
+    "n5": "doorway's",
+    "n6": "doorways'",
+    "n7": "a doorway",
+    "n8": "many doorways"
+}

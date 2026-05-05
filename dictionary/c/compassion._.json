@@ -1,0 +1,18 @@
+{
+    "base": "compassion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "compassion",
+    "n2": "compassions",
+    "n3": "the compassion",
+    "n4": "the compassions",
+    "n5": "compassion's",
+    "n6": "compassions'",
+    "n7": "a compassion",
+    "n8": "many compassions"
+}

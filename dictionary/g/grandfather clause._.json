@@ -1,0 +1,18 @@
+{
+    "base": "grandfather clause",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grandfather clause",
+    "n2": "grandfather clauses",
+    "n3": "the grandfather clause",
+    "n4": "the grandfather clauses",
+    "n5": "grandfather clause's",
+    "n6": "grandfather clauses'",
+    "n7": "a grandfather clause",
+    "n8": "many grandfather clauses"
+}

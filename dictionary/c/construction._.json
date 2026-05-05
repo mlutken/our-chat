@@ -7,5 +7,12 @@
     "n2": "constructions",
     "n3": "the construction",
     "n4": "the constructions",
-    "n5": "construction's"
+    "n5": "construction's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "constructions'",
+    "n7": "a construction",
+    "n8": "many constructions"
 }

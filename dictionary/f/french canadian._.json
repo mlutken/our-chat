@@ -1,0 +1,18 @@
+{
+    "base": "french canadian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "french canadian",
+    "n2": "french canadians",
+    "n3": "the french canadian",
+    "n4": "the french canadians",
+    "n5": "french canadian's",
+    "n6": "french canadians'",
+    "n7": "a french canadian",
+    "n8": "many french canadians"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "creep feed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "creep feed",
+    "n2": "creep feeds",
+    "n3": "the creep feed",
+    "n4": "the creep feeds",
+    "n5": "creep feed's",
+    "n6": "creep feeds'",
+    "n7": "a creep feed",
+    "n8": "many creep feeds"
+}

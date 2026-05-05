@@ -1,0 +1,18 @@
+{
+    "base": "haying time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "haying time",
+    "n2": "haying times",
+    "n3": "the haying time",
+    "n4": "the haying times",
+    "n5": "haying time's",
+    "n6": "haying times'",
+    "n7": "a haying time",
+    "n8": "many haying times"
+}

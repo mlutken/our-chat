@@ -1,0 +1,18 @@
+{
+    "base": "fourth of july",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fourth of july",
+    "n2": "fourth of julies",
+    "n3": "the fourth of july",
+    "n4": "the fourth of julies",
+    "n5": "fourth of july's",
+    "n6": "fourth of julies'",
+    "n7": "a fourth of july",
+    "n8": "many fourth of julies"
+}

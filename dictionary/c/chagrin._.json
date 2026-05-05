@@ -1,0 +1,18 @@
+{
+    "base": "chagrin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chagrin",
+    "n2": "chagrins",
+    "n3": "the chagrin",
+    "n4": "the chagrins",
+    "n5": "chagrin's",
+    "n6": "chagrins'",
+    "n7": "a chagrin",
+    "n8": "many chagrins"
+}

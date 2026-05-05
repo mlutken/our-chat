@@ -1,0 +1,18 @@
+{
+    "base": "comedy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "comedy",
+    "n2": "comedies",
+    "n3": "the comedy",
+    "n4": "the comedies",
+    "n5": "comedy's",
+    "n6": "comedies'",
+    "n7": "a comedy",
+    "n8": "many comedies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "roof of the mouth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roof of the mouth",
+    "n2": "roof of the mouths",
+    "n3": "the roof of the mouth",
+    "n4": "the roof of the mouths",
+    "n5": "roof of the mouth's",
+    "n6": "roof of the mouths'",
+    "n7": "a roof of the mouth",
+    "n8": "many roof of the mouths"
+}

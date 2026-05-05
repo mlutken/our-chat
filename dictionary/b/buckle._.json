@@ -1,0 +1,18 @@
+{
+    "base": "buckle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "buckle",
+    "n2": "buckles",
+    "n3": "the buckle",
+    "n4": "the buckles",
+    "n5": "buckle's",
+    "n6": "buckles'",
+    "n7": "a buckle",
+    "n8": "many buckles"
+}

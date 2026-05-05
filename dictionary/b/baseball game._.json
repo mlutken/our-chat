@@ -1,0 +1,18 @@
+{
+    "base": "baseball game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "baseball game",
+    "n2": "baseball games",
+    "n3": "the baseball game",
+    "n4": "the baseball games",
+    "n5": "baseball game's",
+    "n6": "baseball games'",
+    "n7": "a baseball game",
+    "n8": "many baseball games"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "metrazol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "metrazol",
+    "n2": "metrazols",
+    "n3": "the metrazol",
+    "n4": "the metrazols",
+    "n5": "metrazol's",
+    "n6": "metrazols'",
+    "n7": "a metrazol",
+    "n8": "many metrazols"
+}

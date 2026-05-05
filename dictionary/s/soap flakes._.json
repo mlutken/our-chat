@@ -1,0 +1,18 @@
+{
+    "base": "soap flakes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soap flakes",
+    "n2": "soap flakeses",
+    "n3": "the soap flakes",
+    "n4": "the soap flakeses",
+    "n5": "soap flakes'",
+    "n6": "soap flakeses'",
+    "n7": "a soap flakes",
+    "n8": "many soap flakeses"
+}

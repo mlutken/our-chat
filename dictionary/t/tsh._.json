@@ -1,0 +1,18 @@
+{
+    "base": "tsh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "tsh",
+    "n2": "tshes",
+    "n3": "the tsh",
+    "n4": "the tshes",
+    "n5": "tsh's",
+    "n6": "tshes'",
+    "n7": "a tsh",
+    "n8": "many tshes"
+}

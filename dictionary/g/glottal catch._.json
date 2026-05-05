@@ -1,0 +1,18 @@
+{
+    "base": "glottal catch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glottal catch",
+    "n2": "glottal catches",
+    "n3": "the glottal catch",
+    "n4": "the glottal catches",
+    "n5": "glottal catch's",
+    "n6": "glottal catches'",
+    "n7": "a glottal catch",
+    "n8": "many glottal catches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "occidental",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "occidental",
+    "n2": "occidentals",
+    "n3": "the occidental",
+    "n4": "the occidentals",
+    "n5": "occidental's",
+    "n6": "occidentals'",
+    "n7": "an occidental",
+    "n8": "many occidentals"
+}

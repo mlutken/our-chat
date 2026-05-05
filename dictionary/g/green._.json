@@ -1,0 +1,18 @@
+{
+    "base": "green",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "green",
+    "n2": "greens",
+    "n3": "the green",
+    "n4": "the greens",
+    "n5": "green's",
+    "n6": "greens'",
+    "n7": "a green",
+    "n8": "many greens"
+}

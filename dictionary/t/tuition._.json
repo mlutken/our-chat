@@ -1,0 +1,18 @@
+{
+    "base": "tuition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tuition",
+    "n2": "tuitions",
+    "n3": "the tuition",
+    "n4": "the tuitions",
+    "n5": "tuition's",
+    "n6": "tuitions'",
+    "n7": "a tuition",
+    "n8": "many tuitions"
+}

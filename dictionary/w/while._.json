@@ -9,5 +9,12 @@
     "n3": "the while",
     "n4": "the whiles",
     "n5": "while's",
-    "f0": "while"
+    "f0": "while",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "whiles'",
+    "n7": "a while",
+    "n8": "many whiles"
 }

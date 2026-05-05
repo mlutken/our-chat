@@ -1,0 +1,18 @@
+{
+    "base": "crafter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crafter",
+    "n2": "crafters",
+    "n3": "the crafter",
+    "n4": "the crafters",
+    "n5": "crafter's",
+    "n6": "crafters'",
+    "n7": "a crafter",
+    "n8": "many crafters"
+}

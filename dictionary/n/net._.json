@@ -1,0 +1,18 @@
+{
+    "base": "net",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "net",
+    "n2": "nets",
+    "n3": "the net",
+    "n4": "the nets",
+    "n5": "net's",
+    "n6": "nets'",
+    "n7": "a net",
+    "n8": "many nets"
+}

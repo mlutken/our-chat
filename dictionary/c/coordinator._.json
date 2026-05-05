@@ -1,0 +1,18 @@
+{
+    "base": "coordinator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coordinator",
+    "n2": "coordinators",
+    "n3": "the coordinator",
+    "n4": "the coordinators",
+    "n5": "coordinator's",
+    "n6": "coordinators'",
+    "n7": "a coordinator",
+    "n8": "many coordinators"
+}

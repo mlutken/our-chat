@@ -1,0 +1,18 @@
+{
+    "base": "diary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "diary",
+    "n2": "diaries",
+    "n3": "the diary",
+    "n4": "the diaries",
+    "n5": "diary's",
+    "n6": "diaries'",
+    "n7": "a diary",
+    "n8": "many diaries"
+}

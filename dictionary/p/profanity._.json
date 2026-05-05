@@ -1,0 +1,18 @@
+{
+    "base": "profanity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "profanity",
+    "n2": "profanities",
+    "n3": "the profanity",
+    "n4": "the profanities",
+    "n5": "profanity's",
+    "n6": "profanities'",
+    "n7": "a profanity",
+    "n8": "many profanities"
+}

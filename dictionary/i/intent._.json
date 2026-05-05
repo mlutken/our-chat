@@ -1,0 +1,18 @@
+{
+    "base": "intent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "intent",
+    "n2": "intents",
+    "n3": "the intent",
+    "n4": "the intents",
+    "n5": "intent's",
+    "n6": "intents'",
+    "n7": "an intent",
+    "n8": "many intents"
+}

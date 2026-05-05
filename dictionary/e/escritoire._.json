@@ -1,0 +1,18 @@
+{
+    "base": "escritoire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "escritoire",
+    "n2": "escritoires",
+    "n3": "the escritoire",
+    "n4": "the escritoires",
+    "n5": "escritoire's",
+    "n6": "escritoires'",
+    "n7": "an escritoire",
+    "n8": "many escritoires"
+}

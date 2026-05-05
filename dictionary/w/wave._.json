@@ -1,11 +1,24 @@
 {
     "base": "wave",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wave",
     "v2": "waved",
     "v3": "waved",
     "v4": "waving",
-    "v5": "waves"
+    "v5": "waves",
+    "proper": false,
+    "commonness": 60,
+    "max_commonness": 6834,
+    "commonness_ge_count": 257,
+    "n1": "wave",
+    "n2": "waves",
+    "n3": "the wave",
+    "n4": "the waves",
+    "n5": "wave's",
+    "n6": "waves'",
+    "n7": "a wave",
+    "n8": "many waves"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "notebook",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "notebook",
+    "n2": "notebooks",
+    "n3": "the notebook",
+    "n4": "the notebooks",
+    "n5": "notebook's",
+    "n6": "notebooks'",
+    "n7": "a notebook",
+    "n8": "many notebooks"
+}

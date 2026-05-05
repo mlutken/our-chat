@@ -1,0 +1,18 @@
+{
+    "base": "pacific",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "pacific",
+    "n2": "pacifics",
+    "n3": "the pacific",
+    "n4": "the pacifics",
+    "n5": "pacific's",
+    "n6": "pacifics'",
+    "n7": "a pacific",
+    "n8": "many pacifics"
+}

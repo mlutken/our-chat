@@ -1,0 +1,18 @@
+{
+    "base": "necktie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "necktie",
+    "n2": "neckties",
+    "n3": "the necktie",
+    "n4": "the neckties",
+    "n5": "necktie's",
+    "n6": "neckties'",
+    "n7": "a necktie",
+    "n8": "many neckties"
+}

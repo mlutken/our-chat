@@ -1,0 +1,18 @@
+{
+    "base": "immensity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "immensity",
+    "n2": "immensities",
+    "n3": "the immensity",
+    "n4": "the immensities",
+    "n5": "immensity's",
+    "n6": "immensities'",
+    "n7": "an immensity",
+    "n8": "many immensities"
+}

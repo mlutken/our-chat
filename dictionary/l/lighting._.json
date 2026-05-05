@@ -1,0 +1,18 @@
+{
+    "base": "lighting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "lighting",
+    "n2": "lightings",
+    "n3": "the lighting",
+    "n4": "the lightings",
+    "n5": "lighting's",
+    "n6": "lightings'",
+    "n7": "a lighting",
+    "n8": "many lightings"
+}

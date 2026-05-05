@@ -1,0 +1,18 @@
+{
+    "base": "bogey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bogey",
+    "n2": "bogeys",
+    "n3": "the bogey",
+    "n4": "the bogeys",
+    "n5": "bogey's",
+    "n6": "bogeys'",
+    "n7": "a bogey",
+    "n8": "many bogeys"
+}

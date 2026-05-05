@@ -1,0 +1,18 @@
+{
+    "base": "block diagram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "block diagram",
+    "n2": "block diagrams",
+    "n3": "the block diagram",
+    "n4": "the block diagrams",
+    "n5": "block diagram's",
+    "n6": "block diagrams'",
+    "n7": "a block diagram",
+    "n8": "many block diagrams"
+}

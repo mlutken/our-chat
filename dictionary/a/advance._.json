@@ -1,0 +1,18 @@
+{
+    "base": "advance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "advance",
+    "n2": "advances",
+    "n3": "the advance",
+    "n4": "the advances",
+    "n5": "advance's",
+    "n6": "advances'",
+    "n7": "an advance",
+    "n8": "many advances"
+}

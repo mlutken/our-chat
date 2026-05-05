@@ -1,0 +1,18 @@
+{
+    "base": "minor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "minor",
+    "n2": "minors",
+    "n3": "the minor",
+    "n4": "the minors",
+    "n5": "minor's",
+    "n6": "minors'",
+    "n7": "a minor",
+    "n8": "many minors"
+}

@@ -7,5 +7,12 @@
     "n2": "traditions",
     "n3": "the tradition",
     "n4": "the traditions",
-    "n5": "tradition's"
+    "n5": "tradition's",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n6": "traditions'",
+    "n7": "a tradition",
+    "n8": "many traditions"
 }

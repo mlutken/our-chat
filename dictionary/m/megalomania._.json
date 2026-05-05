@@ -1,0 +1,18 @@
+{
+    "base": "megalomania",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "megalomania",
+    "n2": "megalomanias",
+    "n3": "the megalomania",
+    "n4": "the megalomanias",
+    "n5": "megalomania's",
+    "n6": "megalomanias'",
+    "n7": "a megalomania",
+    "n8": "many megalomanias"
+}

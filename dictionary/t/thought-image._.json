@@ -1,0 +1,18 @@
+{
+    "base": "thought-image",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thought-image",
+    "n2": "thought-images",
+    "n3": "the thought-image",
+    "n4": "the thought-images",
+    "n5": "thought-image's",
+    "n6": "thought-images'",
+    "n7": "a thought-image",
+    "n8": "many thought-images"
+}

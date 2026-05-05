@@ -7,5 +7,12 @@
     "n2": "collections",
     "n3": "the collection",
     "n4": "the collections",
-    "n5": "collection's"
+    "n5": "collection's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "collections'",
+    "n7": "a collection",
+    "n8": "many collections"
 }

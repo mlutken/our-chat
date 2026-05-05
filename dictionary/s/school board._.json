@@ -1,0 +1,18 @@
+{
+    "base": "school board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "school board",
+    "n2": "school boards",
+    "n3": "the school board",
+    "n4": "the school boards",
+    "n5": "school board's",
+    "n6": "school boards'",
+    "n7": "a school board",
+    "n8": "many school boards"
+}

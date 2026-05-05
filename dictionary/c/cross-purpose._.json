@@ -1,0 +1,18 @@
+{
+    "base": "cross-purpose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cross-purpose",
+    "n2": "cross-purposes",
+    "n3": "the cross-purpose",
+    "n4": "the cross-purposes",
+    "n5": "cross-purpose's",
+    "n6": "cross-purposes'",
+    "n7": "a cross-purpose",
+    "n8": "many cross-purposes"
+}

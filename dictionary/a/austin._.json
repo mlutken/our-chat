@@ -1,0 +1,18 @@
+{
+    "base": "austin",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "austin",
+    "n2": "austins",
+    "n3": "the austin",
+    "n4": "the austins",
+    "n5": "austin's",
+    "n6": "austins'",
+    "n7": "an austin",
+    "n8": "many austins"
+}

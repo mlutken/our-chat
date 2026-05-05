@@ -1,0 +1,18 @@
+{
+    "base": "midwest",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "midwest",
+    "n2": "midwests",
+    "n3": "the midwest",
+    "n4": "the midwests",
+    "n5": "midwest's",
+    "n6": "midwests'",
+    "n7": "a midwest",
+    "n8": "many midwests"
+}

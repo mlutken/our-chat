@@ -1,0 +1,18 @@
+{
+    "base": "resuspension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "resuspension",
+    "n2": "resuspensions",
+    "n3": "the resuspension",
+    "n4": "the resuspensions",
+    "n5": "resuspension's",
+    "n6": "resuspensions'",
+    "n7": "a resuspension",
+    "n8": "many resuspensions"
+}

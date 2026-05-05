@@ -1,0 +1,18 @@
+{
+    "base": "paragon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paragon",
+    "n2": "paragons",
+    "n3": "the paragon",
+    "n4": "the paragons",
+    "n5": "paragon's",
+    "n6": "paragons'",
+    "n7": "a paragon",
+    "n8": "many paragons"
+}

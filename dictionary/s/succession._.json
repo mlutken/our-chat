@@ -1,0 +1,18 @@
+{
+    "base": "succession",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "succession",
+    "n2": "successions",
+    "n3": "the succession",
+    "n4": "the successions",
+    "n5": "succession's",
+    "n6": "successions'",
+    "n7": "a succession",
+    "n8": "many successions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cartridge belt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cartridge belt",
+    "n2": "cartridge belts",
+    "n3": "the cartridge belt",
+    "n4": "the cartridge belts",
+    "n5": "cartridge belt's",
+    "n6": "cartridge belts'",
+    "n7": "a cartridge belt",
+    "n8": "many cartridge belts"
+}

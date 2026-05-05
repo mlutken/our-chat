@@ -1,0 +1,18 @@
+{
+    "base": "cuba",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "cuba",
+    "n2": "cubas",
+    "n3": "the cuba",
+    "n4": "the cubas",
+    "n5": "cuba's",
+    "n6": "cubas'",
+    "n7": "a cuba",
+    "n8": "many cubas"
+}

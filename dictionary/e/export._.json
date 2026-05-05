@@ -1,0 +1,18 @@
+{
+    "base": "export",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "export",
+    "n2": "exports",
+    "n3": "the export",
+    "n4": "the exports",
+    "n5": "export's",
+    "n6": "exports'",
+    "n7": "an export",
+    "n8": "many exports"
+}

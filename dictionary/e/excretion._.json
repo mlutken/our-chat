@@ -1,0 +1,18 @@
+{
+    "base": "excretion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "excretion",
+    "n2": "excretions",
+    "n3": "the excretion",
+    "n4": "the excretions",
+    "n5": "excretion's",
+    "n6": "excretions'",
+    "n7": "an excretion",
+    "n8": "many excretions"
+}

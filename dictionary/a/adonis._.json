@@ -1,0 +1,18 @@
+{
+    "base": "adonis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adonis",
+    "n2": "adonises",
+    "n3": "the adonis",
+    "n4": "the adonises",
+    "n5": "adonis'",
+    "n6": "adonises'",
+    "n7": "an adonis",
+    "n8": "many adonises"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hamlet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hamlet",
+    "n2": "hamlets",
+    "n3": "the hamlet",
+    "n4": "the hamlets",
+    "n5": "hamlet's",
+    "n6": "hamlets'",
+    "n7": "a hamlet",
+    "n8": "many hamlets"
+}

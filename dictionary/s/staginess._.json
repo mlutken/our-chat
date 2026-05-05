@@ -1,0 +1,18 @@
+{
+    "base": "staginess",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "staginess",
+    "n2": "staginesses",
+    "n3": "the staginess",
+    "n4": "the staginesses",
+    "n5": "staginess'",
+    "n6": "staginesses'",
+    "n7": "a staginess",
+    "n8": "many staginesses"
+}

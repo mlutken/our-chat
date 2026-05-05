@@ -1,0 +1,18 @@
+{
+    "base": "platonist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "platonist",
+    "n2": "platonists",
+    "n3": "the platonist",
+    "n4": "the platonists",
+    "n5": "platonist's",
+    "n6": "platonists'",
+    "n7": "a platonist",
+    "n8": "many platonists"
+}

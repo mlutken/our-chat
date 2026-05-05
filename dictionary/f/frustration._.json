@@ -1,0 +1,18 @@
+{
+    "base": "frustration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "frustration",
+    "n2": "frustrations",
+    "n3": "the frustration",
+    "n4": "the frustrations",
+    "n5": "frustration's",
+    "n6": "frustrations'",
+    "n7": "a frustration",
+    "n8": "many frustrations"
+}

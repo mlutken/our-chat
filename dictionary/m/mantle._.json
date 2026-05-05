@@ -1,0 +1,18 @@
+{
+    "base": "mantle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mantle",
+    "n2": "mantles",
+    "n3": "the mantle",
+    "n4": "the mantles",
+    "n5": "mantle's",
+    "n6": "mantles'",
+    "n7": "a mantle",
+    "n8": "many mantles"
+}

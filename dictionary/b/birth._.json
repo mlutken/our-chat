@@ -7,5 +7,12 @@
     "n2": "births",
     "n3": "the birth",
     "n4": "the births",
-    "n5": "birth's"
+    "n5": "birth's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "births'",
+    "n7": "a birth",
+    "n8": "many births"
 }

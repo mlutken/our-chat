@@ -1,0 +1,18 @@
+{
+    "base": "flare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flare",
+    "n2": "flares",
+    "n3": "the flare",
+    "n4": "the flares",
+    "n5": "flare's",
+    "n6": "flares'",
+    "n7": "a flare",
+    "n8": "many flares"
+}

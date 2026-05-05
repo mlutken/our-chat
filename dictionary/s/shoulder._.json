@@ -1,0 +1,18 @@
+{
+    "base": "shoulder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n1": "shoulder",
+    "n2": "shoulders",
+    "n3": "the shoulder",
+    "n4": "the shoulders",
+    "n5": "shoulder's",
+    "n6": "shoulders'",
+    "n7": "a shoulder",
+    "n8": "many shoulders"
+}

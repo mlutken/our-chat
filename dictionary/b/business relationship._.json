@@ -1,0 +1,18 @@
+{
+    "base": "business relationship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business relationship",
+    "n2": "business relationships",
+    "n3": "the business relationship",
+    "n4": "the business relationships",
+    "n5": "business relationship's",
+    "n6": "business relationships'",
+    "n7": "a business relationship",
+    "n8": "many business relationships"
+}

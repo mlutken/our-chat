@@ -1,0 +1,18 @@
+{
+    "base": "family planning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "family planning",
+    "n2": "family plannings",
+    "n3": "the family planning",
+    "n4": "the family plannings",
+    "n5": "family planning's",
+    "n6": "family plannings'",
+    "n7": "a family planning",
+    "n8": "many family plannings"
+}

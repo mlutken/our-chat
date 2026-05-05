@@ -1,0 +1,18 @@
+{
+    "base": "propriety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "propriety",
+    "n2": "proprieties",
+    "n3": "the propriety",
+    "n4": "the proprieties",
+    "n5": "propriety's",
+    "n6": "proprieties'",
+    "n7": "a propriety",
+    "n8": "many proprieties"
+}

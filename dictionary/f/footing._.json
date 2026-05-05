@@ -1,0 +1,18 @@
+{
+    "base": "footing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "footing",
+    "n2": "footings",
+    "n3": "the footing",
+    "n4": "the footings",
+    "n5": "footing's",
+    "n6": "footings'",
+    "n7": "a footing",
+    "n8": "many footings"
+}

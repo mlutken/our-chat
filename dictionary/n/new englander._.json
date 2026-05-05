@@ -1,0 +1,18 @@
+{
+    "base": "new englander",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "new englander",
+    "n2": "new englanders",
+    "n3": "the new englander",
+    "n4": "the new englanders",
+    "n5": "new englander's",
+    "n6": "new englanders'",
+    "n7": "a new englander",
+    "n8": "many new englanders"
+}

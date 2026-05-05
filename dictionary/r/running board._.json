@@ -1,0 +1,18 @@
+{
+    "base": "running board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "running board",
+    "n2": "running boards",
+    "n3": "the running board",
+    "n4": "the running boards",
+    "n5": "running board's",
+    "n6": "running boards'",
+    "n7": "a running board",
+    "n8": "many running boards"
+}

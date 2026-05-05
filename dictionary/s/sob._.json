@@ -1,0 +1,18 @@
+{
+    "base": "sob",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sob",
+    "n2": "sobs",
+    "n3": "the sob",
+    "n4": "the sobs",
+    "n5": "sob's",
+    "n6": "sobs'",
+    "n7": "a sob",
+    "n8": "many sobs"
+}

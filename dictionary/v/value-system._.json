@@ -1,0 +1,18 @@
+{
+    "base": "value-system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "value-system",
+    "n2": "value-systems",
+    "n3": "the value-system",
+    "n4": "the value-systems",
+    "n5": "value-system's",
+    "n6": "value-systems'",
+    "n7": "a value-system",
+    "n8": "many value-systems"
+}

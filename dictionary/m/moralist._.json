@@ -1,0 +1,18 @@
+{
+    "base": "moralist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moralist",
+    "n2": "moralists",
+    "n3": "the moralist",
+    "n4": "the moralists",
+    "n5": "moralist's",
+    "n6": "moralists'",
+    "n7": "a moralist",
+    "n8": "many moralists"
+}

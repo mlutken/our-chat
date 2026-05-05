@@ -1,0 +1,18 @@
+{
+    "base": "soiree musicale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soiree musicale",
+    "n2": "soiree musicales",
+    "n3": "the soiree musicale",
+    "n4": "the soiree musicales",
+    "n5": "soiree musicale's",
+    "n6": "soiree musicales'",
+    "n7": "a soiree musicale",
+    "n8": "many soiree musicales"
+}

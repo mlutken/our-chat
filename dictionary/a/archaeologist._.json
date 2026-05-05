@@ -1,0 +1,18 @@
+{
+    "base": "archaeologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "archaeologist",
+    "n2": "archaeologists",
+    "n3": "the archaeologist",
+    "n4": "the archaeologists",
+    "n5": "archaeologist's",
+    "n6": "archaeologists'",
+    "n7": "an archaeologist",
+    "n8": "many archaeologists"
+}

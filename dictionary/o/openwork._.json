@@ -1,0 +1,18 @@
+{
+    "base": "openwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "openwork",
+    "n2": "openworks",
+    "n3": "the openwork",
+    "n4": "the openworks",
+    "n5": "openwork's",
+    "n6": "openworks'",
+    "n7": "an openwork",
+    "n8": "many openworks"
+}

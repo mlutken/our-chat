@@ -1,0 +1,18 @@
+{
+    "base": "marginality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "marginality",
+    "n2": "marginalities",
+    "n3": "the marginality",
+    "n4": "the marginalities",
+    "n5": "marginality's",
+    "n6": "marginalities'",
+    "n7": "a marginality",
+    "n8": "many marginalities"
+}

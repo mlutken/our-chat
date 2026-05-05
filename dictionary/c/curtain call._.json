@@ -1,0 +1,18 @@
+{
+    "base": "curtain call",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "curtain call",
+    "n2": "curtain calls",
+    "n3": "the curtain call",
+    "n4": "the curtain calls",
+    "n5": "curtain call's",
+    "n6": "curtain calls'",
+    "n7": "a curtain call",
+    "n8": "many curtain calls"
+}

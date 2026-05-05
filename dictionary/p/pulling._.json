@@ -1,0 +1,18 @@
+{
+    "base": "pulling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pulling",
+    "n2": "pullings",
+    "n3": "the pulling",
+    "n4": "the pullings",
+    "n5": "pulling's",
+    "n6": "pullings'",
+    "n7": "a pulling",
+    "n8": "many pullings"
+}

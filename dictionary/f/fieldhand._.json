@@ -1,0 +1,18 @@
+{
+    "base": "fieldhand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fieldhand",
+    "n2": "fieldhands",
+    "n3": "the fieldhand",
+    "n4": "the fieldhands",
+    "n5": "fieldhand's",
+    "n6": "fieldhands'",
+    "n7": "a fieldhand",
+    "n8": "many fieldhands"
+}

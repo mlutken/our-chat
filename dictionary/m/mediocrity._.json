@@ -1,0 +1,18 @@
+{
+    "base": "mediocrity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mediocrity",
+    "n2": "mediocrities",
+    "n3": "the mediocrity",
+    "n4": "the mediocrities",
+    "n5": "mediocrity's",
+    "n6": "mediocrities'",
+    "n7": "a mediocrity",
+    "n8": "many mediocrities"
+}

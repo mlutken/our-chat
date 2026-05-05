@@ -7,5 +7,12 @@
     "n2": "descriptions",
     "n3": "the description",
     "n4": "the descriptions",
-    "n5": "description's"
+    "n5": "description's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "descriptions'",
+    "n7": "a description",
+    "n8": "many descriptions"
 }

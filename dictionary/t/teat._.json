@@ -1,0 +1,18 @@
+{
+    "base": "teat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "teat",
+    "n2": "teats",
+    "n3": "the teat",
+    "n4": "the teats",
+    "n5": "teat's",
+    "n6": "teats'",
+    "n7": "a teat",
+    "n8": "many teats"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "millpond",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "millpond",
+    "n2": "millponds",
+    "n3": "the millpond",
+    "n4": "the millponds",
+    "n5": "millpond's",
+    "n6": "millponds'",
+    "n7": "a millpond",
+    "n8": "many millponds"
+}

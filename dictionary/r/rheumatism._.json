@@ -1,0 +1,18 @@
+{
+    "base": "rheumatism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rheumatism",
+    "n2": "rheumatisms",
+    "n3": "the rheumatism",
+    "n4": "the rheumatisms",
+    "n5": "rheumatism's",
+    "n6": "rheumatisms'",
+    "n7": "a rheumatism",
+    "n8": "many rheumatisms"
+}

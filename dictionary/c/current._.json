@@ -1,0 +1,18 @@
+{
+    "base": "current",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "current",
+    "n2": "currents",
+    "n3": "the current",
+    "n4": "the currents",
+    "n5": "current's",
+    "n6": "currents'",
+    "n7": "a current",
+    "n8": "many currents"
+}

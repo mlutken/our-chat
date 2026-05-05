@@ -1,0 +1,18 @@
+{
+    "base": "call-back",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "call-back",
+    "n2": "call-backs",
+    "n3": "the call-back",
+    "n4": "the call-backs",
+    "n5": "call-back's",
+    "n6": "call-backs'",
+    "n7": "a call-back",
+    "n8": "many call-backs"
+}

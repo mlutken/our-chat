@@ -1,0 +1,18 @@
+{
+    "base": "machine shop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "machine shop",
+    "n2": "machine shops",
+    "n3": "the machine shop",
+    "n4": "the machine shops",
+    "n5": "machine shop's",
+    "n6": "machine shops'",
+    "n7": "a machine shop",
+    "n8": "many machine shops"
+}

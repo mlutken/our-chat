@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "reality",
-    "n2": "realitys",
+    "n2": "realities",
     "n3": "the reality",
-    "n4": "the realitys",
-    "n5": "reality's"
+    "n4": "the realities",
+    "n5": "reality's",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n6": "realities'",
+    "n7": "a reality",
+    "n8": "many realities"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "patent right",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "patent right",
+    "n2": "patent rights",
+    "n3": "the patent right",
+    "n4": "the patent rights",
+    "n5": "patent right's",
+    "n6": "patent rights'",
+    "n7": "a patent right",
+    "n8": "many patent rights"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tailback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tailback",
+    "n2": "tailbacks",
+    "n3": "the tailback",
+    "n4": "the tailbacks",
+    "n5": "tailback's",
+    "n6": "tailbacks'",
+    "n7": "a tailback",
+    "n8": "many tailbacks"
+}

@@ -7,5 +7,12 @@
     "n2": "reliabilities",
     "n3": "the reliability",
     "n4": "the reliabilities",
-    "n5": "reliability's"
+    "n5": "reliability's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "reliabilities'",
+    "n7": "a reliability",
+    "n8": "many reliabilities"
 }

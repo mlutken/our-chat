@@ -1,0 +1,18 @@
+{
+    "base": "french revolution",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "french revolution",
+    "n2": "french revolutions",
+    "n3": "the french revolution",
+    "n4": "the french revolutions",
+    "n5": "french revolution's",
+    "n6": "french revolutions'",
+    "n7": "a french revolution",
+    "n8": "many french revolutions"
+}

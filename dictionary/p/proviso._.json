@@ -1,0 +1,18 @@
+{
+    "base": "proviso",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proviso",
+    "n2": "provisoes",
+    "n3": "the proviso",
+    "n4": "the provisoes",
+    "n5": "proviso's",
+    "n6": "provisoes'",
+    "n7": "a proviso",
+    "n8": "many provisoes"
+}

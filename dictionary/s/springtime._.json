@@ -1,0 +1,18 @@
+{
+    "base": "springtime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "springtime",
+    "n2": "springtimes",
+    "n3": "the springtime",
+    "n4": "the springtimes",
+    "n5": "springtime's",
+    "n6": "springtimes'",
+    "n7": "a springtime",
+    "n8": "many springtimes"
+}

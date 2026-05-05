@@ -1,0 +1,18 @@
+{
+    "base": "detergent builder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "detergent builder",
+    "n2": "detergent builders",
+    "n3": "the detergent builder",
+    "n4": "the detergent builders",
+    "n5": "detergent builder's",
+    "n6": "detergent builders'",
+    "n7": "a detergent builder",
+    "n8": "many detergent builders"
+}

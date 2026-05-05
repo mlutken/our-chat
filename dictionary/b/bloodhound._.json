@@ -1,0 +1,18 @@
+{
+    "base": "bloodhound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bloodhound",
+    "n2": "bloodhounds",
+    "n3": "the bloodhound",
+    "n4": "the bloodhounds",
+    "n5": "bloodhound's",
+    "n6": "bloodhounds'",
+    "n7": "a bloodhound",
+    "n8": "many bloodhounds"
+}

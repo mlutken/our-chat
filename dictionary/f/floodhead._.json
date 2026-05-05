@@ -1,0 +1,18 @@
+{
+    "base": "floodhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "floodhead",
+    "n2": "floodheads",
+    "n3": "the floodhead",
+    "n4": "the floodheads",
+    "n5": "floodhead's",
+    "n6": "floodheads'",
+    "n7": "a floodhead",
+    "n8": "many floodheads"
+}

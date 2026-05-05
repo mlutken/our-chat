@@ -1,0 +1,18 @@
+{
+    "base": "joy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "joy",
+    "n2": "joys",
+    "n3": "the joy",
+    "n4": "the joys",
+    "n5": "joy's",
+    "n6": "joys'",
+    "n7": "a joy",
+    "n8": "many joys"
+}

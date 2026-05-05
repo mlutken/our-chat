@@ -1,0 +1,18 @@
+{
+    "base": "massage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "massage",
+    "n2": "massages",
+    "n3": "the massage",
+    "n4": "the massages",
+    "n5": "massage's",
+    "n6": "massages'",
+    "n7": "a massage",
+    "n8": "many massages"
+}

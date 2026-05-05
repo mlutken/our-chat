@@ -1,0 +1,18 @@
+{
+    "base": "veto",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "veto",
+    "n2": "vetoes",
+    "n3": "the veto",
+    "n4": "the vetoes",
+    "n5": "veto's",
+    "n6": "vetoes'",
+    "n7": "a veto",
+    "n8": "many vetoes"
+}

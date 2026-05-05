@@ -1,0 +1,18 @@
+{
+    "base": "basketball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "basketball",
+    "n2": "basketballs",
+    "n3": "the basketball",
+    "n4": "the basketballs",
+    "n5": "basketball's",
+    "n6": "basketballs'",
+    "n7": "a basketball",
+    "n8": "many basketballs"
+}

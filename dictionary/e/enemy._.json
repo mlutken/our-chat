@@ -1,0 +1,18 @@
+{
+    "base": "enemy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 83,
+    "max_commonness": 6834,
+    "commonness_ge_count": 153,
+    "n1": "enemy",
+    "n2": "enemies",
+    "n3": "the enemy",
+    "n4": "the enemies",
+    "n5": "enemy's",
+    "n6": "enemies'",
+    "n7": "an enemy",
+    "n8": "many enemies"
+}

@@ -7,5 +7,12 @@
     "n2": "peaces",
     "n3": "the peace",
     "n4": "the peaces",
-    "n5": "peace's"
+    "n5": "peace's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "peaces'",
+    "n7": "a peace",
+    "n8": "many peaces"
 }

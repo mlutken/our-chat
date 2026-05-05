@@ -1,0 +1,18 @@
+{
+    "base": "fruit tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fruit tree",
+    "n2": "fruit trees",
+    "n3": "the fruit tree",
+    "n4": "the fruit trees",
+    "n5": "fruit tree's",
+    "n6": "fruit trees'",
+    "n7": "a fruit tree",
+    "n8": "many fruit trees"
+}

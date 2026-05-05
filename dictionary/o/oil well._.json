@@ -1,0 +1,18 @@
+{
+    "base": "oil well",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oil well",
+    "n2": "oil wells",
+    "n3": "the oil well",
+    "n4": "the oil wells",
+    "n5": "oil well's",
+    "n6": "oil wells'",
+    "n7": "an oil well",
+    "n8": "many oil wells"
+}

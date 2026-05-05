@@ -1,0 +1,18 @@
+{
+    "base": "parlor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "parlor",
+    "n2": "parlors",
+    "n3": "the parlor",
+    "n4": "the parlors",
+    "n5": "parlor's",
+    "n6": "parlors'",
+    "n7": "a parlor",
+    "n8": "many parlors"
+}

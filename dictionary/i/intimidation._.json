@@ -1,0 +1,18 @@
+{
+    "base": "intimidation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "intimidation",
+    "n2": "intimidations",
+    "n3": "the intimidation",
+    "n4": "the intimidations",
+    "n5": "intimidation's",
+    "n6": "intimidations'",
+    "n7": "an intimidation",
+    "n8": "many intimidations"
+}

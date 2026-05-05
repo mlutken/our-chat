@@ -7,5 +7,12 @@
     "n2": "teas",
     "n3": "the tea",
     "n4": "the teas",
-    "n5": "tea's"
+    "n5": "tea's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "teas'",
+    "n7": "a tea",
+    "n8": "many teas"
 }

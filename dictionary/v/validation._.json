@@ -1,0 +1,18 @@
+{
+    "base": "validation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "validation",
+    "n2": "validations",
+    "n3": "the validation",
+    "n4": "the validations",
+    "n5": "validation's",
+    "n6": "validations'",
+    "n7": "a validation",
+    "n8": "many validations"
+}

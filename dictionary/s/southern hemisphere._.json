@@ -1,0 +1,18 @@
+{
+    "base": "southern hemisphere",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "southern hemisphere",
+    "n2": "southern hemispheres",
+    "n3": "the southern hemisphere",
+    "n4": "the southern hemispheres",
+    "n5": "southern hemisphere's",
+    "n6": "southern hemispheres'",
+    "n7": "a southern hemisphere",
+    "n8": "many southern hemispheres"
+}

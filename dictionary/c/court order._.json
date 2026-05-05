@@ -1,0 +1,18 @@
+{
+    "base": "court order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "court order",
+    "n2": "court orders",
+    "n3": "the court order",
+    "n4": "the court orders",
+    "n5": "court order's",
+    "n6": "court orders'",
+    "n7": "a court order",
+    "n8": "many court orders"
+}

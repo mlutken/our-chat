@@ -7,5 +7,12 @@
     "n2": "ranges",
     "n3": "the range",
     "n4": "the ranges",
-    "n5": "range's"
+    "n5": "range's",
+    "proper": false,
+    "commonness": 78,
+    "max_commonness": 6834,
+    "commonness_ge_count": 174,
+    "n6": "ranges'",
+    "n7": "a range",
+    "n8": "many ranges"
 }

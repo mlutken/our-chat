@@ -1,0 +1,18 @@
+{
+    "base": "doomed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doomed",
+    "n2": "doomeds",
+    "n3": "the doomed",
+    "n4": "the doomeds",
+    "n5": "doomed's",
+    "n6": "doomeds'",
+    "n7": "a doomed",
+    "n8": "many doomeds"
+}

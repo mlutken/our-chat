@@ -1,0 +1,18 @@
+{
+    "base": "conceptualization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conceptualization",
+    "n2": "conceptualizations",
+    "n3": "the conceptualization",
+    "n4": "the conceptualizations",
+    "n5": "conceptualization's",
+    "n6": "conceptualizations'",
+    "n7": "a conceptualization",
+    "n8": "many conceptualizations"
+}

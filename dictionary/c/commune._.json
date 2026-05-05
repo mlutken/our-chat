@@ -1,0 +1,18 @@
+{
+    "base": "commune",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "commune",
+    "n2": "communes",
+    "n3": "the commune",
+    "n4": "the communes",
+    "n5": "commune's",
+    "n6": "communes'",
+    "n7": "a commune",
+    "n8": "many communes"
+}

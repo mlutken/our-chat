@@ -1,0 +1,18 @@
+{
+    "base": "pollen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "pollen",
+    "n2": "pollens",
+    "n3": "the pollen",
+    "n4": "the pollens",
+    "n5": "pollen's",
+    "n6": "pollens'",
+    "n7": "a pollen",
+    "n8": "many pollens"
+}

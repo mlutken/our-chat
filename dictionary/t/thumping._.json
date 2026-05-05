@@ -1,0 +1,18 @@
+{
+    "base": "thumping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thumping",
+    "n2": "thumpings",
+    "n3": "the thumping",
+    "n4": "the thumpings",
+    "n5": "thumping's",
+    "n6": "thumpings'",
+    "n7": "a thumping",
+    "n8": "many thumpings"
+}

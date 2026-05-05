@@ -1,0 +1,18 @@
+{
+    "base": "brick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "brick",
+    "n2": "bricks",
+    "n3": "the brick",
+    "n4": "the bricks",
+    "n5": "brick's",
+    "n6": "bricks'",
+    "n7": "a brick",
+    "n8": "many bricks"
+}

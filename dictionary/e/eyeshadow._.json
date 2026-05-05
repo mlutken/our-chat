@@ -1,0 +1,18 @@
+{
+    "base": "eyeshadow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eyeshadow",
+    "n2": "eyeshadows",
+    "n3": "the eyeshadow",
+    "n4": "the eyeshadows",
+    "n5": "eyeshadow's",
+    "n6": "eyeshadows'",
+    "n7": "an eyeshadow",
+    "n8": "many eyeshadows"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "japanese cherry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "japanese cherry",
+    "n2": "japanese cherries",
+    "n3": "the japanese cherry",
+    "n4": "the japanese cherries",
+    "n5": "japanese cherry's",
+    "n6": "japanese cherries'",
+    "n7": "a japanese cherry",
+    "n8": "many japanese cherries"
+}

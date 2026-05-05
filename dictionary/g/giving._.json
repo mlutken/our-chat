@@ -1,0 +1,18 @@
+{
+    "base": "giving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "giving",
+    "n2": "givings",
+    "n3": "the giving",
+    "n4": "the givings",
+    "n5": "giving's",
+    "n6": "givings'",
+    "n7": "a giving",
+    "n8": "many givings"
+}

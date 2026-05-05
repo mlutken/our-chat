@@ -1,0 +1,18 @@
+{
+    "base": "obscurity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "obscurity",
+    "n2": "obscurities",
+    "n3": "the obscurity",
+    "n4": "the obscurities",
+    "n5": "obscurity's",
+    "n6": "obscurities'",
+    "n7": "an obscurity",
+    "n8": "many obscurities"
+}

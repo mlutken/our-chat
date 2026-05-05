@@ -1,0 +1,18 @@
+{
+    "base": "center line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "center line",
+    "n2": "center lines",
+    "n3": "the center line",
+    "n4": "the center lines",
+    "n5": "center line's",
+    "n6": "center lines'",
+    "n7": "a center line",
+    "n8": "many center lines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "infatuation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "infatuation",
+    "n2": "infatuations",
+    "n3": "the infatuation",
+    "n4": "the infatuations",
+    "n5": "infatuation's",
+    "n6": "infatuations'",
+    "n7": "an infatuation",
+    "n8": "many infatuations"
+}

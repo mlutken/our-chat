@@ -1,0 +1,18 @@
+{
+    "base": "self-effacement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-effacement",
+    "n2": "self-effacements",
+    "n3": "the self-effacement",
+    "n4": "the self-effacements",
+    "n5": "self-effacement's",
+    "n6": "self-effacements'",
+    "n7": "a self-effacement",
+    "n8": "many self-effacements"
+}

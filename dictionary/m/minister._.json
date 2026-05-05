@@ -7,5 +7,12 @@
     "n2": "ministers",
     "n3": "the minister",
     "n4": "the ministers",
-    "n5": "minister's"
+    "n5": "minister's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "ministers'",
+    "n7": "a minister",
+    "n8": "many ministers"
 }

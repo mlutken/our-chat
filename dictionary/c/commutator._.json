@@ -1,0 +1,18 @@
+{
+    "base": "commutator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commutator",
+    "n2": "commutators",
+    "n3": "the commutator",
+    "n4": "the commutators",
+    "n5": "commutator's",
+    "n6": "commutators'",
+    "n7": "a commutator",
+    "n8": "many commutators"
+}

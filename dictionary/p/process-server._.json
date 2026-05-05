@@ -1,0 +1,18 @@
+{
+    "base": "process-server",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "process-server",
+    "n2": "process-servers",
+    "n3": "the process-server",
+    "n4": "the process-servers",
+    "n5": "process-server's",
+    "n6": "process-servers'",
+    "n7": "a process-server",
+    "n8": "many process-servers"
+}

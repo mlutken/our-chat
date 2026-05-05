@@ -7,5 +7,12 @@
     "n2": "employers",
     "n3": "the employer",
     "n4": "the employers",
-    "n5": "employer's"
+    "n5": "employer's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "employers'",
+    "n7": "an employer",
+    "n8": "many employers"
 }

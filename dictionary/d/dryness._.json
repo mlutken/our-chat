@@ -1,0 +1,18 @@
+{
+    "base": "dryness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dryness",
+    "n2": "drynesses",
+    "n3": "the dryness",
+    "n4": "the drynesses",
+    "n5": "dryness'",
+    "n6": "drynesses'",
+    "n7": "a dryness",
+    "n8": "many drynesses"
+}

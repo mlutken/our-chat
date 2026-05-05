@@ -1,0 +1,18 @@
+{
+    "base": "swivel chair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "swivel chair",
+    "n2": "swivel chairs",
+    "n3": "the swivel chair",
+    "n4": "the swivel chairs",
+    "n5": "swivel chair's",
+    "n6": "swivel chairs'",
+    "n7": "a swivel chair",
+    "n8": "many swivel chairs"
+}

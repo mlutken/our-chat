@@ -1,0 +1,18 @@
+{
+    "base": "ransom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ransom",
+    "n2": "ransoms",
+    "n3": "the ransom",
+    "n4": "the ransoms",
+    "n5": "ransom's",
+    "n6": "ransoms'",
+    "n7": "a ransom",
+    "n8": "many ransoms"
+}

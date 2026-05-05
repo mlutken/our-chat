@@ -7,5 +7,12 @@
     "n2": "nuclei",
     "n3": "the nucleus",
     "n4": "the nuclei",
-    "n5": "nucleus's"
+    "n5": "nucleus'",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "nuclei's",
+    "n7": "a nucleus",
+    "n8": "many nuclei"
 }

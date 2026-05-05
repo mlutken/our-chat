@@ -1,0 +1,18 @@
+{
+    "base": "doweling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doweling",
+    "n2": "dowelings",
+    "n3": "the doweling",
+    "n4": "the dowelings",
+    "n5": "doweling's",
+    "n6": "dowelings'",
+    "n7": "a doweling",
+    "n8": "many dowelings"
+}

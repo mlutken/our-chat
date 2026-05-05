@@ -1,7 +1,20 @@
 {
     "base": "might",
     "classes": [
+        "n",
         "aux"
     ],
-    "f0": "might"
+    "f0": "might",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "might",
+    "n2": "mights",
+    "n3": "the might",
+    "n4": "the mights",
+    "n5": "might's",
+    "n6": "mights'",
+    "n7": "a might",
+    "n8": "many mights"
 }

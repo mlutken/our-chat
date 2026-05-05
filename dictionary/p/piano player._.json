@@ -1,0 +1,18 @@
+{
+    "base": "piano player",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piano player",
+    "n2": "piano players",
+    "n3": "the piano player",
+    "n4": "the piano players",
+    "n5": "piano player's",
+    "n6": "piano players'",
+    "n7": "a piano player",
+    "n8": "many piano players"
+}

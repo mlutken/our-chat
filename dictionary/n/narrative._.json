@@ -1,0 +1,18 @@
+{
+    "base": "narrative",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "narrative",
+    "n2": "narratives",
+    "n3": "the narrative",
+    "n4": "the narratives",
+    "n5": "narrative's",
+    "n6": "narratives'",
+    "n7": "a narrative",
+    "n8": "many narratives"
+}

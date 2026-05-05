@@ -13,5 +13,12 @@
     "v2": "walked",
     "v3": "walked",
     "v4": "walking",
-    "v5": "walks"
+    "v5": "walks",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "walks'",
+    "n7": "a walk",
+    "n8": "many walks"
 }

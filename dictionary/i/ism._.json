@@ -1,0 +1,18 @@
+{
+    "base": "ism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ism",
+    "n2": "isms",
+    "n3": "the ism",
+    "n4": "the isms",
+    "n5": "ism's",
+    "n6": "isms'",
+    "n7": "an ism",
+    "n8": "many isms"
+}

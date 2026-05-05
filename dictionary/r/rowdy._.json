@@ -1,0 +1,18 @@
+{
+    "base": "rowdy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rowdy",
+    "n2": "rowdies",
+    "n3": "the rowdy",
+    "n4": "the rowdies",
+    "n5": "rowdy's",
+    "n6": "rowdies'",
+    "n7": "a rowdy",
+    "n8": "many rowdies"
+}

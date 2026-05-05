@@ -1,0 +1,18 @@
+{
+    "base": "blacksmith",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blacksmith",
+    "n2": "blacksmiths",
+    "n3": "the blacksmith",
+    "n4": "the blacksmiths",
+    "n5": "blacksmith's",
+    "n6": "blacksmiths'",
+    "n7": "a blacksmith",
+    "n8": "many blacksmiths"
+}

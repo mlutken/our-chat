@@ -1,0 +1,18 @@
+{
+    "base": "seminary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seminary",
+    "n2": "seminaries",
+    "n3": "the seminary",
+    "n4": "the seminaries",
+    "n5": "seminary's",
+    "n6": "seminaries'",
+    "n7": "a seminary",
+    "n8": "many seminaries"
+}

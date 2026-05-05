@@ -1,0 +1,18 @@
+{
+    "base": "doorman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "doorman",
+    "n2": "doormen",
+    "n3": "the doorman",
+    "n4": "the doormen",
+    "n5": "doorman's",
+    "n6": "doormen's",
+    "n7": "a doorman",
+    "n8": "many doormen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "railway station",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "railway station",
+    "n2": "railway stations",
+    "n3": "the railway station",
+    "n4": "the railway stations",
+    "n5": "railway station's",
+    "n6": "railway stations'",
+    "n7": "a railway station",
+    "n8": "many railway stations"
+}

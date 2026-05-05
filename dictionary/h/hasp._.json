@@ -1,0 +1,18 @@
+{
+    "base": "hasp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hasp",
+    "n2": "hasps",
+    "n3": "the hasp",
+    "n4": "the hasps",
+    "n5": "hasp's",
+    "n6": "hasps'",
+    "n7": "a hasp",
+    "n8": "many hasps"
+}

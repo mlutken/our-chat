@@ -1,0 +1,18 @@
+{
+    "base": "reinforced concrete",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "reinforced concrete",
+    "n2": "reinforced concretes",
+    "n3": "the reinforced concrete",
+    "n4": "the reinforced concretes",
+    "n5": "reinforced concrete's",
+    "n6": "reinforced concretes'",
+    "n7": "a reinforced concrete",
+    "n8": "many reinforced concretes"
+}

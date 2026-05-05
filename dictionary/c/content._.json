@@ -7,5 +7,12 @@
     "n2": "contents",
     "n3": "the content",
     "n4": "the contents",
-    "n5": "content's"
+    "n5": "content's",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n6": "contents'",
+    "n7": "a content",
+    "n8": "many contents"
 }

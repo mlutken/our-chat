@@ -1,0 +1,18 @@
+{
+    "base": "vacuolization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vacuolization",
+    "n2": "vacuolizations",
+    "n3": "the vacuolization",
+    "n4": "the vacuolizations",
+    "n5": "vacuolization's",
+    "n6": "vacuolizations'",
+    "n7": "a vacuolization",
+    "n8": "many vacuolizations"
+}

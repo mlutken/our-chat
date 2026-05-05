@@ -1,0 +1,18 @@
+{
+    "base": "interval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "interval",
+    "n2": "intervals",
+    "n3": "the interval",
+    "n4": "the intervals",
+    "n5": "interval's",
+    "n6": "intervals'",
+    "n7": "an interval",
+    "n8": "many intervals"
+}

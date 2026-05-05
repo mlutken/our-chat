@@ -1,0 +1,18 @@
+{
+    "base": "audio system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "audio system",
+    "n2": "audio systems",
+    "n3": "the audio system",
+    "n4": "the audio systems",
+    "n5": "audio system's",
+    "n6": "audio systems'",
+    "n7": "an audio system",
+    "n8": "many audio systems"
+}

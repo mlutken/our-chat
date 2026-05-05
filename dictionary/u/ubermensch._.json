@@ -1,0 +1,18 @@
+{
+    "base": "ubermensch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ubermensch",
+    "n2": "ubermenschen",
+    "n3": "the ubermensch",
+    "n4": "the ubermenschen",
+    "n5": "ubermensch's",
+    "n6": "ubermenschen's",
+    "n7": "an ubermensch",
+    "n8": "many ubermenschen"
+}

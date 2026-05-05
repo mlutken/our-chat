@@ -1,0 +1,18 @@
+{
+    "base": "hun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hun",
+    "n2": "huns",
+    "n3": "the hun",
+    "n4": "the huns",
+    "n5": "hun's",
+    "n6": "huns'",
+    "n7": "a hun",
+    "n8": "many huns"
+}

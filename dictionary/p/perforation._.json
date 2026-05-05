@@ -1,0 +1,18 @@
+{
+    "base": "perforation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perforation",
+    "n2": "perforations",
+    "n3": "the perforation",
+    "n4": "the perforations",
+    "n5": "perforation's",
+    "n6": "perforations'",
+    "n7": "a perforation",
+    "n8": "many perforations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "glitter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "glitter",
+    "n2": "glitters",
+    "n3": "the glitter",
+    "n4": "the glitters",
+    "n5": "glitter's",
+    "n6": "glitters'",
+    "n7": "a glitter",
+    "n8": "many glitters"
+}

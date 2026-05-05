@@ -1,0 +1,18 @@
+{
+    "base": "immortality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "immortality",
+    "n2": "immortalities",
+    "n3": "the immortality",
+    "n4": "the immortalities",
+    "n5": "immortality's",
+    "n6": "immortalities'",
+    "n7": "an immortality",
+    "n8": "many immortalities"
+}

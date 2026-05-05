@@ -1,0 +1,18 @@
+{
+    "base": "faucet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "faucet",
+    "n2": "faucets",
+    "n3": "the faucet",
+    "n4": "the faucets",
+    "n5": "faucet's",
+    "n6": "faucets'",
+    "n7": "a faucet",
+    "n8": "many faucets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pinning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pinning",
+    "n2": "pinnings",
+    "n3": "the pinning",
+    "n4": "the pinnings",
+    "n5": "pinning's",
+    "n6": "pinnings'",
+    "n7": "a pinning",
+    "n8": "many pinnings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fireside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fireside",
+    "n2": "firesides",
+    "n3": "the fireside",
+    "n4": "the firesides",
+    "n5": "fireside's",
+    "n6": "firesides'",
+    "n7": "a fireside",
+    "n8": "many firesides"
+}

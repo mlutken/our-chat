@@ -1,0 +1,18 @@
+{
+    "base": "long haul",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "long haul",
+    "n2": "long hauls",
+    "n3": "the long haul",
+    "n4": "the long hauls",
+    "n5": "long haul's",
+    "n6": "long hauls'",
+    "n7": "a long haul",
+    "n8": "many long hauls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "border patrolman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "border patrolman",
+    "n2": "border patrolmen",
+    "n3": "the border patrolman",
+    "n4": "the border patrolmen",
+    "n5": "border patrolman's",
+    "n6": "border patrolmen's",
+    "n7": "a border patrolman",
+    "n8": "many border patrolmen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pseudomonas pyocanea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pseudomonas pyocanea",
+    "n2": "pseudomonas pyocaneas",
+    "n3": "the pseudomonas pyocanea",
+    "n4": "the pseudomonas pyocaneas",
+    "n5": "pseudomonas pyocanea's",
+    "n6": "pseudomonas pyocaneas'",
+    "n7": "a pseudomonas pyocanea",
+    "n8": "many pseudomonas pyocaneas"
+}

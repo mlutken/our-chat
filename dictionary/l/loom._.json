@@ -1,0 +1,18 @@
+{
+    "base": "loom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loom",
+    "n2": "looms",
+    "n3": "the loom",
+    "n4": "the looms",
+    "n5": "loom's",
+    "n6": "looms'",
+    "n7": "a loom",
+    "n8": "many looms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "burner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "burner",
+    "n2": "burners",
+    "n3": "the burner",
+    "n4": "the burners",
+    "n5": "burner's",
+    "n6": "burners'",
+    "n7": "a burner",
+    "n8": "many burners"
+}

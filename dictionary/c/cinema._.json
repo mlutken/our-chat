@@ -1,0 +1,18 @@
+{
+    "base": "cinema",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cinema",
+    "n2": "cinemas",
+    "n3": "the cinema",
+    "n4": "the cinemas",
+    "n5": "cinema's",
+    "n6": "cinemas'",
+    "n7": "a cinema",
+    "n8": "many cinemas"
+}

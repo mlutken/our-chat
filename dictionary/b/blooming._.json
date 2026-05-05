@@ -1,0 +1,18 @@
+{
+    "base": "blooming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "blooming",
+    "n2": "bloomings",
+    "n3": "the blooming",
+    "n4": "the bloomings",
+    "n5": "blooming's",
+    "n6": "bloomings'",
+    "n7": "a blooming",
+    "n8": "many bloomings"
+}

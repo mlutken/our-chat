@@ -1,0 +1,18 @@
+{
+    "base": "mascara",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mascara",
+    "n2": "mascaras",
+    "n3": "the mascara",
+    "n4": "the mascaras",
+    "n5": "mascara's",
+    "n6": "mascaras'",
+    "n7": "a mascara",
+    "n8": "many mascaras"
+}

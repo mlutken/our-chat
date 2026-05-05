@@ -1,0 +1,18 @@
+{
+    "base": "welter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "welter",
+    "n2": "welters",
+    "n3": "the welter",
+    "n4": "the welters",
+    "n5": "welter's",
+    "n6": "welters'",
+    "n7": "a welter",
+    "n8": "many welters"
+}

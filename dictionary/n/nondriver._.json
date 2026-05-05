@@ -1,0 +1,18 @@
+{
+    "base": "nondriver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nondriver",
+    "n2": "nondrivers",
+    "n3": "the nondriver",
+    "n4": "the nondrivers",
+    "n5": "nondriver's",
+    "n6": "nondrivers'",
+    "n7": "a nondriver",
+    "n8": "many nondrivers"
+}

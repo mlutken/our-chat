@@ -1,0 +1,18 @@
+{
+    "base": "longevity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "longevity",
+    "n2": "longevities",
+    "n3": "the longevity",
+    "n4": "the longevities",
+    "n5": "longevity's",
+    "n6": "longevities'",
+    "n7": "a longevity",
+    "n8": "many longevities"
+}

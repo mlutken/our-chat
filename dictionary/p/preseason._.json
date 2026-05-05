@@ -1,0 +1,18 @@
+{
+    "base": "preseason",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preseason",
+    "n2": "preseasons",
+    "n3": "the preseason",
+    "n4": "the preseasons",
+    "n5": "preseason's",
+    "n6": "preseasons'",
+    "n7": "a preseason",
+    "n8": "many preseasons"
+}

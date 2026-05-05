@@ -1,0 +1,18 @@
+{
+    "base": "couch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "couch",
+    "n2": "couches",
+    "n3": "the couch",
+    "n4": "the couches",
+    "n5": "couch's",
+    "n6": "couches'",
+    "n7": "a couch",
+    "n8": "many couches"
+}

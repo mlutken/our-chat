@@ -1,0 +1,18 @@
+{
+    "base": "puerto rico",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "puerto rico",
+    "n2": "puerto ricos",
+    "n3": "the puerto rico",
+    "n4": "the puerto ricos",
+    "n5": "puerto rico's",
+    "n6": "puerto ricos'",
+    "n7": "a puerto rico",
+    "n8": "many puerto ricos"
+}

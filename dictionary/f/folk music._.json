@@ -1,0 +1,18 @@
+{
+    "base": "folk music",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "folk music",
+    "n2": "folk musics",
+    "n3": "the folk music",
+    "n4": "the folk musics",
+    "n5": "folk music's",
+    "n6": "folk musics'",
+    "n7": "a folk music",
+    "n8": "many folk musics"
+}

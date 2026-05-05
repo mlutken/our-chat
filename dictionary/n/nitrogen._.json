@@ -1,0 +1,18 @@
+{
+    "base": "nitrogen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "nitrogen",
+    "n2": "nitrogens",
+    "n3": "the nitrogen",
+    "n4": "the nitrogens",
+    "n5": "nitrogen's",
+    "n6": "nitrogens'",
+    "n7": "a nitrogen",
+    "n8": "many nitrogens"
+}

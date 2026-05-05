@@ -1,0 +1,18 @@
+{
+    "base": "hatred",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "hatred",
+    "n2": "hatreds",
+    "n3": "the hatred",
+    "n4": "the hatreds",
+    "n5": "hatred's",
+    "n6": "hatreds'",
+    "n7": "a hatred",
+    "n8": "many hatreds"
+}

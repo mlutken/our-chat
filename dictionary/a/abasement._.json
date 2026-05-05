@@ -1,0 +1,18 @@
+{
+    "base": "abasement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abasement",
+    "n2": "abasements",
+    "n3": "the abasement",
+    "n4": "the abasements",
+    "n5": "abasement's",
+    "n6": "abasements'",
+    "n7": "an abasement",
+    "n8": "many abasements"
+}

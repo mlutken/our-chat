@@ -1,0 +1,18 @@
+{
+    "base": "potential",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "potential",
+    "n2": "potentials",
+    "n3": "the potential",
+    "n4": "the potentials",
+    "n5": "potential's",
+    "n6": "potentials'",
+    "n7": "a potential",
+    "n8": "many potentials"
+}

@@ -7,5 +7,12 @@
     "n2": "consumers",
     "n3": "the consumer",
     "n4": "the consumers",
-    "n5": "consumer's"
+    "n5": "consumer's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "consumers'",
+    "n7": "a consumer",
+    "n8": "many consumers"
 }

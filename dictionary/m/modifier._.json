@@ -1,0 +1,18 @@
+{
+    "base": "modifier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "modifier",
+    "n2": "modifiers",
+    "n3": "the modifier",
+    "n4": "the modifiers",
+    "n5": "modifier's",
+    "n6": "modifiers'",
+    "n7": "a modifier",
+    "n8": "many modifiers"
+}

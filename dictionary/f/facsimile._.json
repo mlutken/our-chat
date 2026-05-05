@@ -1,0 +1,18 @@
+{
+    "base": "facsimile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "facsimile",
+    "n2": "facsimiles",
+    "n3": "the facsimile",
+    "n4": "the facsimiles",
+    "n5": "facsimile's",
+    "n6": "facsimiles'",
+    "n7": "a facsimile",
+    "n8": "many facsimiles"
+}

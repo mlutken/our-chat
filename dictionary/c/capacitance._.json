@@ -1,0 +1,18 @@
+{
+    "base": "capacitance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capacitance",
+    "n2": "capacitances",
+    "n3": "the capacitance",
+    "n4": "the capacitances",
+    "n5": "capacitance's",
+    "n6": "capacitances'",
+    "n7": "a capacitance",
+    "n8": "many capacitances"
+}

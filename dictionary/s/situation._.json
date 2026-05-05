@@ -7,5 +7,12 @@
     "n2": "situations",
     "n3": "the situation",
     "n4": "the situations",
-    "n5": "situation's"
+    "n5": "situation's",
+    "proper": false,
+    "commonness": 84,
+    "max_commonness": 6834,
+    "commonness_ge_count": 150,
+    "n6": "situations'",
+    "n7": "a situation",
+    "n8": "many situations"
 }

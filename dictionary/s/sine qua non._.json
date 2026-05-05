@@ -1,0 +1,18 @@
+{
+    "base": "sine qua non",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sine qua non",
+    "n2": "sine qua nons",
+    "n3": "the sine qua non",
+    "n4": "the sine qua nons",
+    "n5": "sine qua non's",
+    "n6": "sine qua nons'",
+    "n7": "a sine qua non",
+    "n8": "many sine qua nons"
+}

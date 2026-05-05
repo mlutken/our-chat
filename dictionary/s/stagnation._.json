@@ -1,0 +1,18 @@
+{
+    "base": "stagnation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stagnation",
+    "n2": "stagnations",
+    "n3": "the stagnation",
+    "n4": "the stagnations",
+    "n5": "stagnation's",
+    "n6": "stagnations'",
+    "n7": "a stagnation",
+    "n8": "many stagnations"
+}

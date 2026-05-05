@@ -1,11 +1,24 @@
 {
     "base": "flash",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "flash",
     "v2": "flashed",
     "v3": "flashed",
     "v4": "flashing",
-    "v5": "flashes"
+    "v5": "flashes",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "flash",
+    "n2": "flashes",
+    "n3": "the flash",
+    "n4": "the flashes",
+    "n5": "flash's",
+    "n6": "flashes'",
+    "n7": "a flash",
+    "n8": "many flashes"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "infectious hepatitis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "infectious hepatitis",
+    "n2": "infectious hepatitises",
+    "n3": "the infectious hepatitis",
+    "n4": "the infectious hepatitises",
+    "n5": "infectious hepatitis'",
+    "n6": "infectious hepatitises'",
+    "n7": "an infectious hepatitis",
+    "n8": "many infectious hepatitises"
+}

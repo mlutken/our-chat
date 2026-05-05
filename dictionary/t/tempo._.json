@@ -1,0 +1,18 @@
+{
+    "base": "tempo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tempo",
+    "n2": "tempi",
+    "n3": "the tempo",
+    "n4": "the tempi",
+    "n5": "tempo's",
+    "n6": "tempi's",
+    "n7": "a tempo",
+    "n8": "many tempi"
+}

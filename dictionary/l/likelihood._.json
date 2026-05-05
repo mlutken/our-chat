@@ -1,0 +1,18 @@
+{
+    "base": "likelihood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "likelihood",
+    "n2": "likelihoods",
+    "n3": "the likelihood",
+    "n4": "the likelihoods",
+    "n5": "likelihood's",
+    "n6": "likelihoods'",
+    "n7": "a likelihood",
+    "n8": "many likelihoods"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "weave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "weave",
+    "n2": "weaves",
+    "n3": "the weave",
+    "n4": "the weaves",
+    "n5": "weave's",
+    "n6": "weaves'",
+    "n7": "a weave",
+    "n8": "many weaves"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "inner city",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inner city",
+    "n2": "inner cities",
+    "n3": "the inner city",
+    "n4": "the inner cities",
+    "n5": "inner city's",
+    "n6": "inner cities'",
+    "n7": "an inner city",
+    "n8": "many inner cities"
+}

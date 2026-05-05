@@ -1,0 +1,18 @@
+{
+    "base": "housework",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "housework",
+    "n2": "houseworks",
+    "n3": "the housework",
+    "n4": "the houseworks",
+    "n5": "housework's",
+    "n6": "houseworks'",
+    "n7": "a housework",
+    "n8": "many houseworks"
+}

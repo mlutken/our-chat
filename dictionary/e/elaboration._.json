@@ -1,0 +1,18 @@
+{
+    "base": "elaboration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "elaboration",
+    "n2": "elaborations",
+    "n3": "the elaboration",
+    "n4": "the elaborations",
+    "n5": "elaboration's",
+    "n6": "elaborations'",
+    "n7": "an elaboration",
+    "n8": "many elaborations"
+}

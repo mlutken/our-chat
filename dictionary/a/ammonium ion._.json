@@ -1,0 +1,18 @@
+{
+    "base": "ammonium ion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ammonium ion",
+    "n2": "ammonium ions",
+    "n3": "the ammonium ion",
+    "n4": "the ammonium ions",
+    "n5": "ammonium ion's",
+    "n6": "ammonium ions'",
+    "n7": "an ammonium ion",
+    "n8": "many ammonium ions"
+}

@@ -7,5 +7,12 @@
     "n2": "signatures",
     "n3": "the signature",
     "n4": "the signatures",
-    "n5": "signature's"
+    "n5": "signature's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "signatures'",
+    "n7": "a signature",
+    "n8": "many signatures"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "federal housing administration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "federal housing administration",
+    "n2": "federal housing administrations",
+    "n3": "the federal housing administration",
+    "n4": "the federal housing administrations",
+    "n5": "federal housing administration's",
+    "n6": "federal housing administrations'",
+    "n7": "a federal housing administration",
+    "n8": "many federal housing administrations"
+}

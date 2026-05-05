@@ -1,0 +1,18 @@
+{
+    "base": "reproof",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reproof",
+    "n2": "reprooves",
+    "n3": "the reproof",
+    "n4": "the reprooves",
+    "n5": "reproof's",
+    "n6": "reprooves'",
+    "n7": "a reproof",
+    "n8": "many reprooves"
+}

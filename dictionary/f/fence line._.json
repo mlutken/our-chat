@@ -1,0 +1,18 @@
+{
+    "base": "fence line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fence line",
+    "n2": "fence lines",
+    "n3": "the fence line",
+    "n4": "the fence lines",
+    "n5": "fence line's",
+    "n6": "fence lines'",
+    "n7": "a fence line",
+    "n8": "many fence lines"
+}

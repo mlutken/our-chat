@@ -1,0 +1,18 @@
+{
+    "base": "overprotection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overprotection",
+    "n2": "overprotections",
+    "n3": "the overprotection",
+    "n4": "the overprotections",
+    "n5": "overprotection's",
+    "n6": "overprotections'",
+    "n7": "an overprotection",
+    "n8": "many overprotections"
+}

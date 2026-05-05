@@ -1,0 +1,18 @@
+{
+    "base": "voltaic battery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "voltaic battery",
+    "n2": "voltaic batteries",
+    "n3": "the voltaic battery",
+    "n4": "the voltaic batteries",
+    "n5": "voltaic battery's",
+    "n6": "voltaic batteries'",
+    "n7": "a voltaic battery",
+    "n8": "many voltaic batteries"
+}

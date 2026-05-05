@@ -1,0 +1,18 @@
+{
+    "base": "rail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "rail",
+    "n2": "rails",
+    "n3": "the rail",
+    "n4": "the rails",
+    "n5": "rail's",
+    "n6": "rails'",
+    "n7": "a rail",
+    "n8": "many rails"
+}

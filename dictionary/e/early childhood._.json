@@ -1,0 +1,18 @@
+{
+    "base": "early childhood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "early childhood",
+    "n2": "early childhoods",
+    "n3": "the early childhood",
+    "n4": "the early childhoods",
+    "n5": "early childhood's",
+    "n6": "early childhoods'",
+    "n7": "an early childhood",
+    "n8": "many early childhoods"
+}

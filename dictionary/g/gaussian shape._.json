@@ -1,0 +1,18 @@
+{
+    "base": "gaussian shape",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gaussian shape",
+    "n2": "gaussian shapes",
+    "n3": "the gaussian shape",
+    "n4": "the gaussian shapes",
+    "n5": "gaussian shape's",
+    "n6": "gaussian shapes'",
+    "n7": "a gaussian shape",
+    "n8": "many gaussian shapes"
+}

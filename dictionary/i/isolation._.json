@@ -1,0 +1,18 @@
+{
+    "base": "isolation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "isolation",
+    "n2": "isolations",
+    "n3": "the isolation",
+    "n4": "the isolations",
+    "n5": "isolation's",
+    "n6": "isolations'",
+    "n7": "an isolation",
+    "n8": "many isolations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "last resort",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "last resort",
+    "n2": "last resorts",
+    "n3": "the last resort",
+    "n4": "the last resorts",
+    "n5": "last resort's",
+    "n6": "last resorts'",
+    "n7": "a last resort",
+    "n8": "many last resorts"
+}

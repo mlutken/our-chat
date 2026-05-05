@@ -1,0 +1,18 @@
+{
+    "base": "transmitting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transmitting",
+    "n2": "transmittings",
+    "n3": "the transmitting",
+    "n4": "the transmittings",
+    "n5": "transmitting's",
+    "n6": "transmittings'",
+    "n7": "a transmitting",
+    "n8": "many transmittings"
+}

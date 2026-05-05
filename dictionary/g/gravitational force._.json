@@ -1,0 +1,18 @@
+{
+    "base": "gravitational force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gravitational force",
+    "n2": "gravitational forces",
+    "n3": "the gravitational force",
+    "n4": "the gravitational forces",
+    "n5": "gravitational force's",
+    "n6": "gravitational forces'",
+    "n7": "a gravitational force",
+    "n8": "many gravitational forces"
+}

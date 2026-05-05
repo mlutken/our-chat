@@ -13,5 +13,12 @@
     "v2": "ruled",
     "v3": "ruled",
     "v4": "ruling",
-    "v5": "rules"
+    "v5": "rules",
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n6": "rules'",
+    "n7": "a rule",
+    "n8": "many rules"
 }

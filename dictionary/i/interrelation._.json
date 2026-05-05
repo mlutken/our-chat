@@ -1,0 +1,18 @@
+{
+    "base": "interrelation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "interrelation",
+    "n2": "interrelations",
+    "n3": "the interrelation",
+    "n4": "the interrelations",
+    "n5": "interrelation's",
+    "n6": "interrelations'",
+    "n7": "an interrelation",
+    "n8": "many interrelations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "windbreak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "windbreak",
+    "n2": "windbreaks",
+    "n3": "the windbreak",
+    "n4": "the windbreaks",
+    "n5": "windbreak's",
+    "n6": "windbreaks'",
+    "n7": "a windbreak",
+    "n8": "many windbreaks"
+}

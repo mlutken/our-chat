@@ -1,0 +1,18 @@
+{
+    "base": "thermistor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thermistor",
+    "n2": "thermistors",
+    "n3": "the thermistor",
+    "n4": "the thermistors",
+    "n5": "thermistor's",
+    "n6": "thermistors'",
+    "n7": "a thermistor",
+    "n8": "many thermistors"
+}

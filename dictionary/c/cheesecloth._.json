@@ -1,0 +1,18 @@
+{
+    "base": "cheesecloth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cheesecloth",
+    "n2": "cheesecloths",
+    "n3": "the cheesecloth",
+    "n4": "the cheesecloths",
+    "n5": "cheesecloth's",
+    "n6": "cheesecloths'",
+    "n7": "a cheesecloth",
+    "n8": "many cheesecloths"
+}

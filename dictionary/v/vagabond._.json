@@ -1,0 +1,18 @@
+{
+    "base": "vagabond",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vagabond",
+    "n2": "vagabonds",
+    "n3": "the vagabond",
+    "n4": "the vagabonds",
+    "n5": "vagabond's",
+    "n6": "vagabonds'",
+    "n7": "a vagabond",
+    "n8": "many vagabonds"
+}

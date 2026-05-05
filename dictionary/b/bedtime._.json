@@ -1,0 +1,18 @@
+{
+    "base": "bedtime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bedtime",
+    "n2": "bedtimes",
+    "n3": "the bedtime",
+    "n4": "the bedtimes",
+    "n5": "bedtime's",
+    "n6": "bedtimes'",
+    "n7": "a bedtime",
+    "n8": "many bedtimes"
+}

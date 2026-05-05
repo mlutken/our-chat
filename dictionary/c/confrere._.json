@@ -1,0 +1,18 @@
+{
+    "base": "confrere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confrere",
+    "n2": "confreres",
+    "n3": "the confrere",
+    "n4": "the confreres",
+    "n5": "confrere's",
+    "n6": "confreres'",
+    "n7": "a confrere",
+    "n8": "many confreres"
+}

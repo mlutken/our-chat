@@ -1,0 +1,18 @@
+{
+    "base": "framing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "framing",
+    "n2": "framings",
+    "n3": "the framing",
+    "n4": "the framings",
+    "n5": "framing's",
+    "n6": "framings'",
+    "n7": "a framing",
+    "n8": "many framings"
+}

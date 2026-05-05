@@ -1,0 +1,18 @@
+{
+    "base": "united kingdom",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "united kingdom",
+    "n2": "united kingdoms",
+    "n3": "the united kingdom",
+    "n4": "the united kingdoms",
+    "n5": "united kingdom's",
+    "n6": "united kingdoms'",
+    "n7": "a united kingdom",
+    "n8": "many united kingdoms"
+}

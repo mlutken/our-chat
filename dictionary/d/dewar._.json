@@ -1,0 +1,18 @@
+{
+    "base": "dewar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dewar",
+    "n2": "dewars",
+    "n3": "the dewar",
+    "n4": "the dewars",
+    "n5": "dewar's",
+    "n6": "dewars'",
+    "n7": "a dewar",
+    "n8": "many dewars"
+}

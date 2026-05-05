@@ -1,0 +1,18 @@
+{
+    "base": "zoo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "zoo",
+    "n2": "zoos",
+    "n3": "the zoo",
+    "n4": "the zoos",
+    "n5": "zoo's",
+    "n6": "zoos'",
+    "n7": "a zoo",
+    "n8": "many zoos"
+}

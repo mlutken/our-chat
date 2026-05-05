@@ -1,0 +1,18 @@
+{
+    "base": "stockade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stockade",
+    "n2": "stockades",
+    "n3": "the stockade",
+    "n4": "the stockades",
+    "n5": "stockade's",
+    "n6": "stockades'",
+    "n7": "a stockade",
+    "n8": "many stockades"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "plastic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plastic",
+    "n2": "plastics",
+    "n3": "the plastic",
+    "n4": "the plastics",
+    "n5": "plastic's",
+    "n6": "plastics'",
+    "n7": "a plastic",
+    "n8": "many plastics"
+}

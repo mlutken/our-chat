@@ -1,0 +1,18 @@
+{
+    "base": "luminescence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "luminescence",
+    "n2": "luminescences",
+    "n3": "the luminescence",
+    "n4": "the luminescences",
+    "n5": "luminescence's",
+    "n6": "luminescences'",
+    "n7": "a luminescence",
+    "n8": "many luminescences"
+}

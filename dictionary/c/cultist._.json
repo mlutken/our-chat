@@ -1,0 +1,18 @@
+{
+    "base": "cultist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cultist",
+    "n2": "cultists",
+    "n3": "the cultist",
+    "n4": "the cultists",
+    "n5": "cultist's",
+    "n6": "cultists'",
+    "n7": "a cultist",
+    "n8": "many cultists"
+}

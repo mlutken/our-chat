@@ -1,0 +1,18 @@
+{
+    "base": "flat bench",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flat bench",
+    "n2": "flat benches",
+    "n3": "the flat bench",
+    "n4": "the flat benches",
+    "n5": "flat bench's",
+    "n6": "flat benches'",
+    "n7": "a flat bench",
+    "n8": "many flat benches"
+}

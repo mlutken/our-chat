@@ -1,0 +1,18 @@
+{
+    "base": "unbalance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unbalance",
+    "n2": "unbalances",
+    "n3": "the unbalance",
+    "n4": "the unbalances",
+    "n5": "unbalance's",
+    "n6": "unbalances'",
+    "n7": "an unbalance",
+    "n8": "many unbalances"
+}

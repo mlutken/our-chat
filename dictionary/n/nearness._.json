@@ -1,0 +1,18 @@
+{
+    "base": "nearness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nearness",
+    "n2": "nearnesses",
+    "n3": "the nearness",
+    "n4": "the nearnesses",
+    "n5": "nearness'",
+    "n6": "nearnesses'",
+    "n7": "a nearness",
+    "n8": "many nearnesses"
+}

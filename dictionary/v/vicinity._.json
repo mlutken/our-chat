@@ -1,0 +1,18 @@
+{
+    "base": "vicinity",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "vicinity",
+    "n2": "vicinities",
+    "n3": "the vicinity",
+    "n4": "the vicinities",
+    "n5": "vicinity's",
+    "n6": "vicinities'",
+    "n7": "a vicinity",
+    "n8": "many vicinities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "trestle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trestle",
+    "n2": "trestles",
+    "n3": "the trestle",
+    "n4": "the trestles",
+    "n5": "trestle's",
+    "n6": "trestles'",
+    "n7": "a trestle",
+    "n8": "many trestles"
+}

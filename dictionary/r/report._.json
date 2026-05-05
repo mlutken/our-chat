@@ -1,11 +1,24 @@
 {
     "base": "report",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "report",
     "v2": "reported",
     "v3": "reported",
     "v4": "reporting",
-    "v5": "reports"
+    "v5": "reports",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n1": "report",
+    "n2": "reports",
+    "n3": "the report",
+    "n4": "the reports",
+    "n5": "report's",
+    "n6": "reports'",
+    "n7": "a report",
+    "n8": "many reports"
 }

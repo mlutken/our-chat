@@ -1,0 +1,18 @@
+{
+    "base": "midsection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "midsection",
+    "n2": "midsections",
+    "n3": "the midsection",
+    "n4": "the midsections",
+    "n5": "midsection's",
+    "n6": "midsections'",
+    "n7": "a midsection",
+    "n8": "many midsections"
+}

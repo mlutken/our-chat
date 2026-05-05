@@ -7,5 +7,12 @@
     "n2": "explanations",
     "n3": "the explanation",
     "n4": "the explanations",
-    "n5": "explanation's"
+    "n5": "explanation's",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n6": "explanations'",
+    "n7": "an explanation",
+    "n8": "many explanations"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "ragamuffin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ragamuffin",
+    "n2": "ragamuffins",
+    "n3": "the ragamuffin",
+    "n4": "the ragamuffins",
+    "n5": "ragamuffin's",
+    "n6": "ragamuffins'",
+    "n7": "a ragamuffin",
+    "n8": "many ragamuffins"
+}

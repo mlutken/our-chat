@@ -1,0 +1,18 @@
+{
+    "base": "janissary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "janissary",
+    "n2": "janissaries",
+    "n3": "the janissary",
+    "n4": "the janissaries",
+    "n5": "janissary's",
+    "n6": "janissaries'",
+    "n7": "a janissary",
+    "n8": "many janissaries"
+}

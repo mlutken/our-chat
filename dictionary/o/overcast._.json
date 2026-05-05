@@ -1,0 +1,18 @@
+{
+    "base": "overcast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "overcast",
+    "n2": "overcasts",
+    "n3": "the overcast",
+    "n4": "the overcasts",
+    "n5": "overcast's",
+    "n6": "overcasts'",
+    "n7": "an overcast",
+    "n8": "many overcasts"
+}

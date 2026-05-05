@@ -1,0 +1,18 @@
+{
+    "base": "hawker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hawker",
+    "n2": "hawkers",
+    "n3": "the hawker",
+    "n4": "the hawkers",
+    "n5": "hawker's",
+    "n6": "hawkers'",
+    "n7": "a hawker",
+    "n8": "many hawkers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stiffening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stiffening",
+    "n2": "stiffenings",
+    "n3": "the stiffening",
+    "n4": "the stiffenings",
+    "n5": "stiffening's",
+    "n6": "stiffenings'",
+    "n7": "a stiffening",
+    "n8": "many stiffenings"
+}

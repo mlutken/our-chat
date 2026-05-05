@@ -1,0 +1,18 @@
+{
+    "base": "ordering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ordering",
+    "n2": "orderings",
+    "n3": "the ordering",
+    "n4": "the orderings",
+    "n5": "ordering's",
+    "n6": "orderings'",
+    "n7": "an ordering",
+    "n8": "many orderings"
+}

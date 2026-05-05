@@ -1,0 +1,18 @@
+{
+    "base": "bodybuilder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bodybuilder",
+    "n2": "bodybuilders",
+    "n3": "the bodybuilder",
+    "n4": "the bodybuilders",
+    "n5": "bodybuilder's",
+    "n6": "bodybuilders'",
+    "n7": "a bodybuilder",
+    "n8": "many bodybuilders"
+}

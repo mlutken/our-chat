@@ -1,0 +1,18 @@
+{
+    "base": "yaws",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yaws",
+    "n2": "yawses",
+    "n3": "the yaws",
+    "n4": "the yawses",
+    "n5": "yaws'",
+    "n6": "yawses'",
+    "n7": "a yaws",
+    "n8": "many yawses"
+}

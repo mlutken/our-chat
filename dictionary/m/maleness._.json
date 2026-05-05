@@ -1,0 +1,18 @@
+{
+    "base": "maleness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "maleness",
+    "n2": "malenesses",
+    "n3": "the maleness",
+    "n4": "the malenesses",
+    "n5": "maleness'",
+    "n6": "malenesses'",
+    "n7": "a maleness",
+    "n8": "many malenesses"
+}

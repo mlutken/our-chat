@@ -1,0 +1,18 @@
+{
+    "base": "incompetent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "incompetent",
+    "n2": "incompetents",
+    "n3": "the incompetent",
+    "n4": "the incompetents",
+    "n5": "incompetent's",
+    "n6": "incompetents'",
+    "n7": "an incompetent",
+    "n8": "many incompetents"
+}

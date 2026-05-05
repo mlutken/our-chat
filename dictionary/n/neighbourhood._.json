@@ -1,0 +1,18 @@
+{
+    "base": "neighbourhood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neighbourhood",
+    "n2": "neighbourhoods",
+    "n3": "the neighbourhood",
+    "n4": "the neighbourhoods",
+    "n5": "neighbourhood's",
+    "n6": "neighbourhoods'",
+    "n7": "a neighbourhood",
+    "n8": "many neighbourhoods"
+}

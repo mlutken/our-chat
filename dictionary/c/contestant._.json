@@ -1,0 +1,18 @@
+{
+    "base": "contestant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contestant",
+    "n2": "contestants",
+    "n3": "the contestant",
+    "n4": "the contestants",
+    "n5": "contestant's",
+    "n6": "contestants'",
+    "n7": "a contestant",
+    "n8": "many contestants"
+}

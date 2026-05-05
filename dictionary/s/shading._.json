@@ -1,0 +1,18 @@
+{
+    "base": "shading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shading",
+    "n2": "shadings",
+    "n3": "the shading",
+    "n4": "the shadings",
+    "n5": "shading's",
+    "n6": "shadings'",
+    "n7": "a shading",
+    "n8": "many shadings"
+}

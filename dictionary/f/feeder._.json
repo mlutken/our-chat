@@ -1,0 +1,18 @@
+{
+    "base": "feeder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "feeder",
+    "n2": "feeders",
+    "n3": "the feeder",
+    "n4": "the feeders",
+    "n5": "feeder's",
+    "n6": "feeders'",
+    "n7": "a feeder",
+    "n8": "many feeders"
+}

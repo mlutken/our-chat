@@ -1,0 +1,18 @@
+{
+    "base": "physical property",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "physical property",
+    "n2": "physical properties",
+    "n3": "the physical property",
+    "n4": "the physical properties",
+    "n5": "physical property's",
+    "n6": "physical properties'",
+    "n7": "a physical property",
+    "n8": "many physical properties"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "successor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "successor",
+    "n2": "successors",
+    "n3": "the successor",
+    "n4": "the successors",
+    "n5": "successor's",
+    "n6": "successors'",
+    "n7": "a successor",
+    "n8": "many successors"
+}

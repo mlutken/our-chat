@@ -1,0 +1,18 @@
+{
+    "base": "drizzle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "drizzle",
+    "n2": "drizzles",
+    "n3": "the drizzle",
+    "n4": "the drizzles",
+    "n5": "drizzle's",
+    "n6": "drizzles'",
+    "n7": "a drizzle",
+    "n8": "many drizzles"
+}

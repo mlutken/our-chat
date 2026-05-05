@@ -7,5 +7,12 @@
     "n2": "instructions",
     "n3": "the instruction",
     "n4": "the instructions",
-    "n5": "instruction's"
+    "n5": "instruction's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "instructions'",
+    "n7": "an instruction",
+    "n8": "many instructions"
 }

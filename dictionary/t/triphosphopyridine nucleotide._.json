@@ -1,0 +1,18 @@
+{
+    "base": "triphosphopyridine nucleotide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "triphosphopyridine nucleotide",
+    "n2": "triphosphopyridine nucleotides",
+    "n3": "the triphosphopyridine nucleotide",
+    "n4": "the triphosphopyridine nucleotides",
+    "n5": "triphosphopyridine nucleotide's",
+    "n6": "triphosphopyridine nucleotides'",
+    "n7": "a triphosphopyridine nucleotide",
+    "n8": "many triphosphopyridine nucleotides"
+}

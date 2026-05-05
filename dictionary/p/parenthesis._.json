@@ -7,5 +7,12 @@
     "n2": "parentheses",
     "n3": "the parenthesis",
     "n4": "the parentheses",
-    "n5": "parenthesis's"
+    "n5": "parenthesis'",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "parentheses'",
+    "n7": "a parenthesis",
+    "n8": "many parentheses"
 }

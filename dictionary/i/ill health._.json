@@ -1,0 +1,18 @@
+{
+    "base": "ill health",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ill health",
+    "n2": "ill healths",
+    "n3": "the ill health",
+    "n4": "the ill healths",
+    "n5": "ill health's",
+    "n6": "ill healths'",
+    "n7": "an ill health",
+    "n8": "many ill healths"
+}

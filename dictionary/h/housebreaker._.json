@@ -1,0 +1,18 @@
+{
+    "base": "housebreaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "housebreaker",
+    "n2": "housebreakers",
+    "n3": "the housebreaker",
+    "n4": "the housebreakers",
+    "n5": "housebreaker's",
+    "n6": "housebreakers'",
+    "n7": "a housebreaker",
+    "n8": "many housebreakers"
+}

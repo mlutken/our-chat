@@ -1,0 +1,18 @@
+{
+    "base": "bushwhacker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bushwhacker",
+    "n2": "bushwhackers",
+    "n3": "the bushwhacker",
+    "n4": "the bushwhackers",
+    "n5": "bushwhacker's",
+    "n6": "bushwhackers'",
+    "n7": "a bushwhacker",
+    "n8": "many bushwhackers"
+}

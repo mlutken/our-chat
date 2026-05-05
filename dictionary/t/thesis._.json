@@ -7,5 +7,12 @@
     "n2": "theses",
     "n3": "the thesis",
     "n4": "the theses",
-    "n5": "thesis's"
+    "n5": "thesis'",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "theses'",
+    "n7": "a thesis",
+    "n8": "many theses"
 }

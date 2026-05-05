@@ -1,0 +1,18 @@
+{
+    "base": "insurance firm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insurance firm",
+    "n2": "insurance firms",
+    "n3": "the insurance firm",
+    "n4": "the insurance firms",
+    "n5": "insurance firm's",
+    "n6": "insurance firms'",
+    "n7": "an insurance firm",
+    "n8": "many insurance firms"
+}

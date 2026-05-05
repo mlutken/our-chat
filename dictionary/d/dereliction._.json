@@ -1,0 +1,18 @@
+{
+    "base": "dereliction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dereliction",
+    "n2": "derelictions",
+    "n3": "the dereliction",
+    "n4": "the derelictions",
+    "n5": "dereliction's",
+    "n6": "derelictions'",
+    "n7": "a dereliction",
+    "n8": "many derelictions"
+}

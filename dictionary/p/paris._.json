@@ -1,0 +1,18 @@
+{
+    "base": "paris",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "paris",
+    "n2": "parises",
+    "n3": "the paris",
+    "n4": "the parises",
+    "n5": "paris'",
+    "n6": "parises'",
+    "n7": "a paris",
+    "n8": "many parises"
+}

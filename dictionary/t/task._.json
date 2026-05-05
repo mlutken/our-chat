@@ -7,5 +7,12 @@
     "n2": "tasks",
     "n3": "the task",
     "n4": "the tasks",
-    "n5": "task's"
+    "n5": "task's",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "tasks'",
+    "n7": "a task",
+    "n8": "many tasks"
 }

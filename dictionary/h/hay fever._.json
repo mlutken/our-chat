@@ -1,0 +1,18 @@
+{
+    "base": "hay fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hay fever",
+    "n2": "hay fevers",
+    "n3": "the hay fever",
+    "n4": "the hay fevers",
+    "n5": "hay fever's",
+    "n6": "hay fevers'",
+    "n7": "a hay fever",
+    "n8": "many hay fevers"
+}

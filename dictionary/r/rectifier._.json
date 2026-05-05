@@ -1,0 +1,18 @@
+{
+    "base": "rectifier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rectifier",
+    "n2": "rectifiers",
+    "n3": "the rectifier",
+    "n4": "the rectifiers",
+    "n5": "rectifier's",
+    "n6": "rectifiers'",
+    "n7": "a rectifier",
+    "n8": "many rectifiers"
+}

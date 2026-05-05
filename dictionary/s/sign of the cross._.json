@@ -1,0 +1,18 @@
+{
+    "base": "sign of the cross",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sign of the cross",
+    "n2": "sign of the crosses",
+    "n3": "the sign of the cross",
+    "n4": "the sign of the crosses",
+    "n5": "sign of the cross'",
+    "n6": "sign of the crosses'",
+    "n7": "a sign of the cross",
+    "n8": "many sign of the crosses"
+}

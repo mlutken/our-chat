@@ -1,0 +1,18 @@
+{
+    "base": "coupling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coupling",
+    "n2": "couplings",
+    "n3": "the coupling",
+    "n4": "the couplings",
+    "n5": "coupling's",
+    "n6": "couplings'",
+    "n7": "a coupling",
+    "n8": "many couplings"
+}

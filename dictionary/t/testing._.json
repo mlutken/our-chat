@@ -1,0 +1,18 @@
+{
+    "base": "testing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "testing",
+    "n2": "testings",
+    "n3": "the testing",
+    "n4": "the testings",
+    "n5": "testing's",
+    "n6": "testings'",
+    "n7": "a testing",
+    "n8": "many testings"
+}

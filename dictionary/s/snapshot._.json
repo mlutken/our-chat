@@ -1,0 +1,18 @@
+{
+    "base": "snapshot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snapshot",
+    "n2": "snapshots",
+    "n3": "the snapshot",
+    "n4": "the snapshots",
+    "n5": "snapshot's",
+    "n6": "snapshots'",
+    "n7": "a snapshot",
+    "n8": "many snapshots"
+}

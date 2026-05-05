@@ -1,0 +1,18 @@
+{
+    "base": "manor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manor",
+    "n2": "manors",
+    "n3": "the manor",
+    "n4": "the manors",
+    "n5": "manor's",
+    "n6": "manors'",
+    "n7": "a manor",
+    "n8": "many manors"
+}

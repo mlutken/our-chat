@@ -1,0 +1,18 @@
+{
+    "base": "european",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "european",
+    "n2": "europeans",
+    "n3": "the european",
+    "n4": "the europeans",
+    "n5": "european's",
+    "n6": "europeans'",
+    "n7": "a european",
+    "n8": "many europeans"
+}

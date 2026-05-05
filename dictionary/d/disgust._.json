@@ -1,0 +1,18 @@
+{
+    "base": "disgust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disgust",
+    "n2": "disgusts",
+    "n3": "the disgust",
+    "n4": "the disgusts",
+    "n5": "disgust's",
+    "n6": "disgusts'",
+    "n7": "a disgust",
+    "n8": "many disgusts"
+}

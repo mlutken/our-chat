@@ -1,0 +1,18 @@
+{
+    "base": "chemical reaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chemical reaction",
+    "n2": "chemical reactions",
+    "n3": "the chemical reaction",
+    "n4": "the chemical reactions",
+    "n5": "chemical reaction's",
+    "n6": "chemical reactions'",
+    "n7": "a chemical reaction",
+    "n8": "many chemical reactions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "fork",
+    "n2": "forks",
+    "n3": "the fork",
+    "n4": "the forks",
+    "n5": "fork's",
+    "n6": "forks'",
+    "n7": "a fork",
+    "n8": "many forks"
+}

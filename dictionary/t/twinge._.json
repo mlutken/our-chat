@@ -1,0 +1,18 @@
+{
+    "base": "twinge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "twinge",
+    "n2": "twinges",
+    "n3": "the twinge",
+    "n4": "the twinges",
+    "n5": "twinge's",
+    "n6": "twinges'",
+    "n7": "a twinge",
+    "n8": "many twinges"
+}

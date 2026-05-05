@@ -1,0 +1,18 @@
+{
+    "base": "expense account",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "expense account",
+    "n2": "expense accounts",
+    "n3": "the expense account",
+    "n4": "the expense accounts",
+    "n5": "expense account's",
+    "n6": "expense accounts'",
+    "n7": "an expense account",
+    "n8": "many expense accounts"
+}

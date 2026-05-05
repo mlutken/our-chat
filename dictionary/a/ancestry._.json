@@ -1,0 +1,18 @@
+{
+    "base": "ancestry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ancestry",
+    "n2": "ancestries",
+    "n3": "the ancestry",
+    "n4": "the ancestries",
+    "n5": "ancestry's",
+    "n6": "ancestries'",
+    "n7": "an ancestry",
+    "n8": "many ancestries"
+}

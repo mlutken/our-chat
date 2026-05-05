@@ -1,0 +1,18 @@
+{
+    "base": "fertilizer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fertilizer",
+    "n2": "fertilizers",
+    "n3": "the fertilizer",
+    "n4": "the fertilizers",
+    "n5": "fertilizer's",
+    "n6": "fertilizers'",
+    "n7": "a fertilizer",
+    "n8": "many fertilizers"
+}

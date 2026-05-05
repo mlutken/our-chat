@@ -1,11 +1,24 @@
 {
     "base": "bounce",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "bounce",
     "v2": "bounced",
     "v3": "bounced",
     "v4": "bouncing",
-    "v5": "bounces"
+    "v5": "bounces",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bounce",
+    "n2": "bounces",
+    "n3": "the bounce",
+    "n4": "the bounces",
+    "n5": "bounce's",
+    "n6": "bounces'",
+    "n7": "a bounce",
+    "n8": "many bounces"
 }

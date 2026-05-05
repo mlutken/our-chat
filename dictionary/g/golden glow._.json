@@ -1,0 +1,18 @@
+{
+    "base": "golden glow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "golden glow",
+    "n2": "golden glows",
+    "n3": "the golden glow",
+    "n4": "the golden glows",
+    "n5": "golden glow's",
+    "n6": "golden glows'",
+    "n7": "a golden glow",
+    "n8": "many golden glows"
+}

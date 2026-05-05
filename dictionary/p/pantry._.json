@@ -1,0 +1,18 @@
+{
+    "base": "pantry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pantry",
+    "n2": "pantries",
+    "n3": "the pantry",
+    "n4": "the pantries",
+    "n5": "pantry's",
+    "n6": "pantries'",
+    "n7": "a pantry",
+    "n8": "many pantries"
+}

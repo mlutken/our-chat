@@ -1,0 +1,18 @@
+{
+    "base": "danger line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "danger line",
+    "n2": "danger lines",
+    "n3": "the danger line",
+    "n4": "the danger lines",
+    "n5": "danger line's",
+    "n6": "danger lines'",
+    "n7": "a danger line",
+    "n8": "many danger lines"
+}

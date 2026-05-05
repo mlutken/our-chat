@@ -1,0 +1,18 @@
+{
+    "base": "rig-veda",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rig-veda",
+    "n2": "rig-vedas",
+    "n3": "the rig-veda",
+    "n4": "the rig-vedas",
+    "n5": "rig-veda's",
+    "n6": "rig-vedas'",
+    "n7": "a rig-veda",
+    "n8": "many rig-vedas"
+}

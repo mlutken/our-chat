@@ -1,0 +1,18 @@
+{
+    "base": "malevolency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "malevolency",
+    "n2": "malevolencies",
+    "n3": "the malevolency",
+    "n4": "the malevolencies",
+    "n5": "malevolency's",
+    "n6": "malevolencies'",
+    "n7": "a malevolency",
+    "n8": "many malevolencies"
+}

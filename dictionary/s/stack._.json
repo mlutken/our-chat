@@ -1,0 +1,18 @@
+{
+    "base": "stack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stack",
+    "n2": "stacks",
+    "n3": "the stack",
+    "n4": "the stacks",
+    "n5": "stack's",
+    "n6": "stacks'",
+    "n7": "a stack",
+    "n8": "many stacks"
+}

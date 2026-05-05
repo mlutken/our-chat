@@ -1,0 +1,18 @@
+{
+    "base": "pleasure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "pleasure",
+    "n2": "pleasures",
+    "n3": "the pleasure",
+    "n4": "the pleasures",
+    "n5": "pleasure's",
+    "n6": "pleasures'",
+    "n7": "a pleasure",
+    "n8": "many pleasures"
+}

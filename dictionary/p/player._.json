@@ -7,5 +7,12 @@
     "n2": "players",
     "n3": "the player",
     "n4": "the players",
-    "n5": "player's"
+    "n5": "player's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "players'",
+    "n7": "a player",
+    "n8": "many players"
 }

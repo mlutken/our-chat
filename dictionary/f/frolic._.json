@@ -1,0 +1,18 @@
+{
+    "base": "frolic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "frolic",
+    "n2": "frolics",
+    "n3": "the frolic",
+    "n4": "the frolics",
+    "n5": "frolic's",
+    "n6": "frolics'",
+    "n7": "a frolic",
+    "n8": "many frolics"
+}

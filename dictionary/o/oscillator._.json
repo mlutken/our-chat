@@ -1,0 +1,18 @@
+{
+    "base": "oscillator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oscillator",
+    "n2": "oscillators",
+    "n3": "the oscillator",
+    "n4": "the oscillators",
+    "n5": "oscillator's",
+    "n6": "oscillators'",
+    "n7": "an oscillator",
+    "n8": "many oscillators"
+}

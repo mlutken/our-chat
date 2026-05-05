@@ -1,0 +1,18 @@
+{
+    "base": "dichondra",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dichondra",
+    "n2": "dichondras",
+    "n3": "the dichondra",
+    "n4": "the dichondras",
+    "n5": "dichondra's",
+    "n6": "dichondras'",
+    "n7": "a dichondra",
+    "n8": "many dichondras"
+}

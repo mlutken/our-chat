@@ -1,0 +1,18 @@
+{
+    "base": "demythologization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "demythologization",
+    "n2": "demythologizations",
+    "n3": "the demythologization",
+    "n4": "the demythologizations",
+    "n5": "demythologization's",
+    "n6": "demythologizations'",
+    "n7": "a demythologization",
+    "n8": "many demythologizations"
+}

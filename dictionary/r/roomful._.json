@@ -1,0 +1,18 @@
+{
+    "base": "roomful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roomful",
+    "n2": "roomfuls",
+    "n3": "the roomful",
+    "n4": "the roomfuls",
+    "n5": "roomful's",
+    "n6": "roomfuls'",
+    "n7": "a roomful",
+    "n8": "many roomfuls"
+}

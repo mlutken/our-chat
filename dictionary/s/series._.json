@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "series",
-    "n2": "series",
+    "n2": "serieses",
     "n3": "the series",
-    "n4": "the series",
-    "n5": "series's"
+    "n4": "the serieses",
+    "n5": "series'",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "serieses'",
+    "n7": "a series",
+    "n8": "many serieses"
 }

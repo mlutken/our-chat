@@ -1,0 +1,18 @@
+{
+    "base": "terror",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "terror",
+    "n2": "terrors",
+    "n3": "the terror",
+    "n4": "the terrors",
+    "n5": "terror's",
+    "n6": "terrors'",
+    "n7": "a terror",
+    "n8": "many terrors"
+}

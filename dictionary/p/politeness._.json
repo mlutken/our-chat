@@ -1,0 +1,18 @@
+{
+    "base": "politeness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "politeness",
+    "n2": "politenesses",
+    "n3": "the politeness",
+    "n4": "the politenesses",
+    "n5": "politeness'",
+    "n6": "politenesses'",
+    "n7": "a politeness",
+    "n8": "many politenesses"
+}

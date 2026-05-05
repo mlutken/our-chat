@@ -1,0 +1,18 @@
+{
+    "base": "worker bee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "worker bee",
+    "n2": "worker bees",
+    "n3": "the worker bee",
+    "n4": "the worker bees",
+    "n5": "worker bee's",
+    "n6": "worker bees'",
+    "n7": "a worker bee",
+    "n8": "many worker bees"
+}

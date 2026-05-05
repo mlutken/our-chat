@@ -1,0 +1,18 @@
+{
+    "base": "enrichment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enrichment",
+    "n2": "enrichments",
+    "n3": "the enrichment",
+    "n4": "the enrichments",
+    "n5": "enrichment's",
+    "n6": "enrichments'",
+    "n7": "an enrichment",
+    "n8": "many enrichments"
+}

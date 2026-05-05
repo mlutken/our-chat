@@ -1,0 +1,18 @@
+{
+    "base": "bevy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bevy",
+    "n2": "bevies",
+    "n3": "the bevy",
+    "n4": "the bevies",
+    "n5": "bevy's",
+    "n6": "bevies'",
+    "n7": "a bevy",
+    "n8": "many bevies"
+}

@@ -7,5 +7,12 @@
     "n2": "races",
     "n3": "the race",
     "n4": "the races",
-    "n5": "race's"
+    "n5": "race's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "races'",
+    "n7": "a race",
+    "n8": "many races"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "lyric",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "lyric",
+    "n2": "lyrics",
+    "n3": "the lyric",
+    "n4": "the lyrics",
+    "n5": "lyric's",
+    "n6": "lyrics'",
+    "n7": "a lyric",
+    "n8": "many lyrics"
+}

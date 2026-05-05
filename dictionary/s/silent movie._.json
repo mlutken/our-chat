@@ -1,0 +1,18 @@
+{
+    "base": "silent movie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "silent movie",
+    "n2": "silent movies",
+    "n3": "the silent movie",
+    "n4": "the silent movies",
+    "n5": "silent movie's",
+    "n6": "silent movies'",
+    "n7": "a silent movie",
+    "n8": "many silent movies"
+}

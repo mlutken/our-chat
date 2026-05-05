@@ -7,5 +7,12 @@
     "n2": "equipments",
     "n3": "the equipment",
     "n4": "the equipments",
-    "n5": "equipment's"
+    "n5": "equipment's",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n6": "equipments'",
+    "n7": "an equipment",
+    "n8": "many equipments"
 }

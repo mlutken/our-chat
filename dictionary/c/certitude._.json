@@ -1,0 +1,18 @@
+{
+    "base": "certitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "certitude",
+    "n2": "certitudes",
+    "n3": "the certitude",
+    "n4": "the certitudes",
+    "n5": "certitude's",
+    "n6": "certitudes'",
+    "n7": "a certitude",
+    "n8": "many certitudes"
+}

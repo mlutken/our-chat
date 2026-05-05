@@ -1,0 +1,18 @@
+{
+    "base": "nursing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nursing",
+    "n2": "nursings",
+    "n3": "the nursing",
+    "n4": "the nursings",
+    "n5": "nursing's",
+    "n6": "nursings'",
+    "n7": "a nursing",
+    "n8": "many nursings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "convexity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "convexity",
+    "n2": "convexities",
+    "n3": "the convexity",
+    "n4": "the convexities",
+    "n5": "convexity's",
+    "n6": "convexities'",
+    "n7": "a convexity",
+    "n8": "many convexities"
+}

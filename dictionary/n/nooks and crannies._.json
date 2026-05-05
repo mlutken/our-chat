@@ -1,0 +1,18 @@
+{
+    "base": "nooks and crannies",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nooks and crannies",
+    "n2": "nooks and crannieses",
+    "n3": "the nooks and crannies",
+    "n4": "the nooks and crannieses",
+    "n5": "nooks and crannies'",
+    "n6": "nooks and crannieses'",
+    "n7": "a nooks and crannies",
+    "n8": "many nooks and crannieses"
+}

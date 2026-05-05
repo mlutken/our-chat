@@ -1,0 +1,18 @@
+{
+    "base": "pitching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "pitching",
+    "n2": "pitchings",
+    "n3": "the pitching",
+    "n4": "the pitchings",
+    "n5": "pitching's",
+    "n6": "pitchings'",
+    "n7": "a pitching",
+    "n8": "many pitchings"
+}

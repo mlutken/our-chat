@@ -1,0 +1,18 @@
+{
+    "base": "timbre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "timbre",
+    "n2": "timbres",
+    "n3": "the timbre",
+    "n4": "the timbres",
+    "n5": "timbre's",
+    "n6": "timbres'",
+    "n7": "a timbre",
+    "n8": "many timbres"
+}

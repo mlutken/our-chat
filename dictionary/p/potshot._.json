@@ -1,0 +1,18 @@
+{
+    "base": "potshot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "potshot",
+    "n2": "potshots",
+    "n3": "the potshot",
+    "n4": "the potshots",
+    "n5": "potshot's",
+    "n6": "potshots'",
+    "n7": "a potshot",
+    "n8": "many potshots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "remorse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "remorse",
+    "n2": "remorses",
+    "n3": "the remorse",
+    "n4": "the remorses",
+    "n5": "remorse's",
+    "n6": "remorses'",
+    "n7": "a remorse",
+    "n8": "many remorses"
+}

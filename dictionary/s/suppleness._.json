@@ -1,0 +1,18 @@
+{
+    "base": "suppleness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suppleness",
+    "n2": "supplenesses",
+    "n3": "the suppleness",
+    "n4": "the supplenesses",
+    "n5": "suppleness'",
+    "n6": "supplenesses'",
+    "n7": "a suppleness",
+    "n8": "many supplenesses"
+}

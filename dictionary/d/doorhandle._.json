@@ -1,0 +1,18 @@
+{
+    "base": "doorhandle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doorhandle",
+    "n2": "doorhandles",
+    "n3": "the doorhandle",
+    "n4": "the doorhandles",
+    "n5": "doorhandle's",
+    "n6": "doorhandles'",
+    "n7": "a doorhandle",
+    "n8": "many doorhandles"
+}

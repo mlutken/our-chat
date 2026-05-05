@@ -1,0 +1,18 @@
+{
+    "base": "windowsill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "windowsill",
+    "n2": "windowsills",
+    "n3": "the windowsill",
+    "n4": "the windowsills",
+    "n5": "windowsill's",
+    "n6": "windowsills'",
+    "n7": "a windowsill",
+    "n8": "many windowsills"
+}

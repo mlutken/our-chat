@@ -1,0 +1,18 @@
+{
+    "base": "schoolgirl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "schoolgirl",
+    "n2": "schoolgirls",
+    "n3": "the schoolgirl",
+    "n4": "the schoolgirls",
+    "n5": "schoolgirl's",
+    "n6": "schoolgirls'",
+    "n7": "a schoolgirl",
+    "n8": "many schoolgirls"
+}

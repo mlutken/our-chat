@@ -1,0 +1,18 @@
+{
+    "base": "concord",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "concord",
+    "n2": "concords",
+    "n3": "the concord",
+    "n4": "the concords",
+    "n5": "concord's",
+    "n6": "concords'",
+    "n7": "a concord",
+    "n8": "many concords"
+}

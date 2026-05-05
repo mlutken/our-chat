@@ -1,0 +1,18 @@
+{
+    "base": "rice paddy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rice paddy",
+    "n2": "rice paddies",
+    "n3": "the rice paddy",
+    "n4": "the rice paddies",
+    "n5": "rice paddy's",
+    "n6": "rice paddies'",
+    "n7": "a rice paddy",
+    "n8": "many rice paddies"
+}

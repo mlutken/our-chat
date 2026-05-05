@@ -1,0 +1,18 @@
+{
+    "base": "english",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "english",
+    "n2": "englishes",
+    "n3": "the english",
+    "n4": "the englishes",
+    "n5": "english's",
+    "n6": "englishes'",
+    "n7": "an english",
+    "n8": "many englishes"
+}

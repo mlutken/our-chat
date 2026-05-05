@@ -1,0 +1,18 @@
+{
+    "base": "kick in the butt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kick in the butt",
+    "n2": "kick in the butts",
+    "n3": "the kick in the butt",
+    "n4": "the kick in the butts",
+    "n5": "kick in the butt's",
+    "n6": "kick in the butts'",
+    "n7": "a kick in the butt",
+    "n8": "many kick in the butts"
+}

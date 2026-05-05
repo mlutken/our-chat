@@ -1,0 +1,18 @@
+{
+    "base": "exhumation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exhumation",
+    "n2": "exhumations",
+    "n3": "the exhumation",
+    "n4": "the exhumations",
+    "n5": "exhumation's",
+    "n6": "exhumations'",
+    "n7": "an exhumation",
+    "n8": "many exhumations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "assertiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assertiveness",
+    "n2": "assertivenesses",
+    "n3": "the assertiveness",
+    "n4": "the assertivenesses",
+    "n5": "assertiveness'",
+    "n6": "assertivenesses'",
+    "n7": "an assertiveness",
+    "n8": "many assertivenesses"
+}

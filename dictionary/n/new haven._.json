@@ -1,0 +1,18 @@
+{
+    "base": "new haven",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new haven",
+    "n2": "new havens",
+    "n3": "the new haven",
+    "n4": "the new havens",
+    "n5": "new haven's",
+    "n6": "new havens'",
+    "n7": "a new haven",
+    "n8": "many new havens"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "momentum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "momentum",
+    "n2": "momenta",
+    "n3": "the momentum",
+    "n4": "the momenta",
+    "n5": "momentum's",
+    "n6": "momenta's",
+    "n7": "a momentum",
+    "n8": "many momenta"
+}

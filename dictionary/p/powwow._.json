@@ -1,0 +1,18 @@
+{
+    "base": "powwow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "powwow",
+    "n2": "powwows",
+    "n3": "the powwow",
+    "n4": "the powwows",
+    "n5": "powwow's",
+    "n6": "powwows'",
+    "n7": "a powwow",
+    "n8": "many powwows"
+}

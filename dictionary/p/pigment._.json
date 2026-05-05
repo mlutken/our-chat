@@ -1,0 +1,18 @@
+{
+    "base": "pigment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pigment",
+    "n2": "pigments",
+    "n3": "the pigment",
+    "n4": "the pigments",
+    "n5": "pigment's",
+    "n6": "pigments'",
+    "n7": "a pigment",
+    "n8": "many pigments"
+}

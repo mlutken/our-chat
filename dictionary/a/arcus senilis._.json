@@ -1,0 +1,18 @@
+{
+    "base": "arcus senilis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arcus senilis",
+    "n2": "arcus senilises",
+    "n3": "the arcus senilis",
+    "n4": "the arcus senilises",
+    "n5": "arcus senilis'",
+    "n6": "arcus senilises'",
+    "n7": "an arcus senilis",
+    "n8": "many arcus senilises"
+}

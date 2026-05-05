@@ -1,0 +1,18 @@
+{
+    "base": "genius",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "genius",
+    "n2": "genii",
+    "n3": "the genius",
+    "n4": "the genii",
+    "n5": "genius'",
+    "n6": "genii's",
+    "n7": "a genius",
+    "n8": "many genii"
+}

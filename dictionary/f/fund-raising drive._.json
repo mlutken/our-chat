@@ -1,0 +1,18 @@
+{
+    "base": "fund-raising drive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fund-raising drive",
+    "n2": "fund-raising drives",
+    "n3": "the fund-raising drive",
+    "n4": "the fund-raising drives",
+    "n5": "fund-raising drive's",
+    "n6": "fund-raising drives'",
+    "n7": "a fund-raising drive",
+    "n8": "many fund-raising drives"
+}

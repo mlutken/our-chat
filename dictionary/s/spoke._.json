@@ -1,0 +1,18 @@
+{
+    "base": "spoke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spoke",
+    "n2": "spokes",
+    "n3": "the spoke",
+    "n4": "the spokes",
+    "n5": "spoke's",
+    "n6": "spokes'",
+    "n7": "a spoke",
+    "n8": "many spokes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "champagne",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "champagne",
+    "n2": "champagnes",
+    "n3": "the champagne",
+    "n4": "the champagnes",
+    "n5": "champagne's",
+    "n6": "champagnes'",
+    "n7": "a champagne",
+    "n8": "many champagnes"
+}

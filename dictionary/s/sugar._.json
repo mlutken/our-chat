@@ -7,5 +7,12 @@
     "n2": "sugars",
     "n3": "the sugar",
     "n4": "the sugars",
-    "n5": "sugar's"
+    "n5": "sugar's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "sugars'",
+    "n7": "a sugar",
+    "n8": "many sugars"
 }

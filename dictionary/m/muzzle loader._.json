@@ -1,0 +1,18 @@
+{
+    "base": "muzzle loader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muzzle loader",
+    "n2": "muzzle loaders",
+    "n3": "the muzzle loader",
+    "n4": "the muzzle loaders",
+    "n5": "muzzle loader's",
+    "n6": "muzzle loaders'",
+    "n7": "a muzzle loader",
+    "n8": "many muzzle loaders"
+}

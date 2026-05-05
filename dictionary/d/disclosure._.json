@@ -1,0 +1,18 @@
+{
+    "base": "disclosure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disclosure",
+    "n2": "disclosures",
+    "n3": "the disclosure",
+    "n4": "the disclosures",
+    "n5": "disclosure's",
+    "n6": "disclosures'",
+    "n7": "a disclosure",
+    "n8": "many disclosures"
+}

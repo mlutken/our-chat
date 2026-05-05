@@ -1,0 +1,18 @@
+{
+    "base": "composing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "composing",
+    "n2": "composings",
+    "n3": "the composing",
+    "n4": "the composings",
+    "n5": "composing's",
+    "n6": "composings'",
+    "n7": "a composing",
+    "n8": "many composings"
+}

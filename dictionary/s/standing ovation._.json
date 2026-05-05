@@ -1,0 +1,18 @@
+{
+    "base": "standing ovation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "standing ovation",
+    "n2": "standing ovations",
+    "n3": "the standing ovation",
+    "n4": "the standing ovations",
+    "n5": "standing ovation's",
+    "n6": "standing ovations'",
+    "n7": "a standing ovation",
+    "n8": "many standing ovations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "one-third",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "one-third",
+    "n2": "one-thirds",
+    "n3": "the one-third",
+    "n4": "the one-thirds",
+    "n5": "one-third's",
+    "n6": "one-thirds'",
+    "n7": "a one-third",
+    "n8": "many one-thirds"
+}

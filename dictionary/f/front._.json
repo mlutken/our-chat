@@ -1,0 +1,18 @@
+{
+    "base": "front",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n1": "front",
+    "n2": "fronts",
+    "n3": "the front",
+    "n4": "the fronts",
+    "n5": "front's",
+    "n6": "fronts'",
+    "n7": "a front",
+    "n8": "many fronts"
+}

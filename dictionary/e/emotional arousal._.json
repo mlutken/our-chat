@@ -1,0 +1,18 @@
+{
+    "base": "emotional arousal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "emotional arousal",
+    "n2": "emotional arousals",
+    "n3": "the emotional arousal",
+    "n4": "the emotional arousals",
+    "n5": "emotional arousal's",
+    "n6": "emotional arousals'",
+    "n7": "an emotional arousal",
+    "n8": "many emotional arousals"
+}

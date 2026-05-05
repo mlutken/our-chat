@@ -1,0 +1,18 @@
+{
+    "base": "victor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "victor",
+    "n2": "victors",
+    "n3": "the victor",
+    "n4": "the victors",
+    "n5": "victor's",
+    "n6": "victors'",
+    "n7": "a victor",
+    "n8": "many victors"
+}

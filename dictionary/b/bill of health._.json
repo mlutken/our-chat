@@ -1,0 +1,18 @@
+{
+    "base": "bill of health",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bill of health",
+    "n2": "bill of healths",
+    "n3": "the bill of health",
+    "n4": "the bill of healths",
+    "n5": "bill of health's",
+    "n6": "bill of healths'",
+    "n7": "a bill of health",
+    "n8": "many bill of healths"
+}

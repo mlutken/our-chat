@@ -1,0 +1,18 @@
+{
+    "base": "senate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "senate",
+    "n2": "senates",
+    "n3": "the senate",
+    "n4": "the senates",
+    "n5": "senate's",
+    "n6": "senates'",
+    "n7": "a senate",
+    "n8": "many senates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nonsense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "nonsense",
+    "n2": "nonsenses",
+    "n3": "the nonsense",
+    "n4": "the nonsenses",
+    "n5": "nonsense's",
+    "n6": "nonsenses'",
+    "n7": "a nonsense",
+    "n8": "many nonsenses"
+}

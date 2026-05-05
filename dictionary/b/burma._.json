@@ -1,0 +1,18 @@
+{
+    "base": "burma",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "burma",
+    "n2": "burmas",
+    "n3": "the burma",
+    "n4": "the burmas",
+    "n5": "burma's",
+    "n6": "burmas'",
+    "n7": "a burma",
+    "n8": "many burmas"
+}

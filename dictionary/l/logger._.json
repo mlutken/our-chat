@@ -1,0 +1,18 @@
+{
+    "base": "logger",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "logger",
+    "n2": "loggers",
+    "n3": "the logger",
+    "n4": "the loggers",
+    "n5": "logger's",
+    "n6": "loggers'",
+    "n7": "a logger",
+    "n8": "many loggers"
+}

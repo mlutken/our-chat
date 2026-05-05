@@ -1,0 +1,18 @@
+{
+    "base": "helium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "helium",
+    "n2": "heliums",
+    "n3": "the helium",
+    "n4": "the heliums",
+    "n5": "helium's",
+    "n6": "heliums'",
+    "n7": "a helium",
+    "n8": "many heliums"
+}

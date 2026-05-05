@@ -1,0 +1,18 @@
+{
+    "base": "survivor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "survivor",
+    "n2": "survivors",
+    "n3": "the survivor",
+    "n4": "the survivors",
+    "n5": "survivor's",
+    "n6": "survivors'",
+    "n7": "a survivor",
+    "n8": "many survivors"
+}

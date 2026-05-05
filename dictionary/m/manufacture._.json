@@ -1,0 +1,18 @@
+{
+    "base": "manufacture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "manufacture",
+    "n2": "manufactures",
+    "n3": "the manufacture",
+    "n4": "the manufactures",
+    "n5": "manufacture's",
+    "n6": "manufactures'",
+    "n7": "a manufacture",
+    "n8": "many manufactures"
+}

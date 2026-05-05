@@ -1,0 +1,18 @@
+{
+    "base": "crofter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crofter",
+    "n2": "crofters",
+    "n3": "the crofter",
+    "n4": "the crofters",
+    "n5": "crofter's",
+    "n6": "crofters'",
+    "n7": "a crofter",
+    "n8": "many crofters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "worksheet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worksheet",
+    "n2": "worksheets",
+    "n3": "the worksheet",
+    "n4": "the worksheets",
+    "n5": "worksheet's",
+    "n6": "worksheets'",
+    "n7": "a worksheet",
+    "n8": "many worksheets"
+}

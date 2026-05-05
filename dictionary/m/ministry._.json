@@ -1,0 +1,18 @@
+{
+    "base": "ministry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ministry",
+    "n2": "ministries",
+    "n3": "the ministry",
+    "n4": "the ministries",
+    "n5": "ministry's",
+    "n6": "ministries'",
+    "n7": "a ministry",
+    "n8": "many ministries"
+}

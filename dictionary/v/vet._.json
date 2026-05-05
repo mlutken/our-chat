@@ -1,0 +1,18 @@
+{
+    "base": "vet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vet",
+    "n2": "vets",
+    "n3": "the vet",
+    "n4": "the vets",
+    "n5": "vet's",
+    "n6": "vets'",
+    "n7": "a vet",
+    "n8": "many vets"
+}

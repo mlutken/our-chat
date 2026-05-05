@@ -1,0 +1,18 @@
+{
+    "base": "inaugural",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inaugural",
+    "n2": "inaugurals",
+    "n3": "the inaugural",
+    "n4": "the inaugurals",
+    "n5": "inaugural's",
+    "n6": "inaugurals'",
+    "n7": "an inaugural",
+    "n8": "many inaugurals"
+}

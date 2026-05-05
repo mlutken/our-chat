@@ -1,0 +1,18 @@
+{
+    "base": "crook",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "crook",
+    "n2": "crooks",
+    "n3": "the crook",
+    "n4": "the crooks",
+    "n5": "crook's",
+    "n6": "crooks'",
+    "n7": "a crook",
+    "n8": "many crooks"
+}

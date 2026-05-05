@@ -1,0 +1,18 @@
+{
+    "base": "safe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "safe",
+    "n2": "saves",
+    "n3": "the safe",
+    "n4": "the saves",
+    "n5": "safe's",
+    "n6": "saves'",
+    "n7": "a safe",
+    "n8": "many saves"
+}

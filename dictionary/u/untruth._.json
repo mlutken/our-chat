@@ -1,0 +1,18 @@
+{
+    "base": "untruth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "untruth",
+    "n2": "untruths",
+    "n3": "the untruth",
+    "n4": "the untruths",
+    "n5": "untruth's",
+    "n6": "untruths'",
+    "n7": "an untruth",
+    "n8": "many untruths"
+}

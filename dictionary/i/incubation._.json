@@ -1,0 +1,18 @@
+{
+    "base": "incubation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incubation",
+    "n2": "incubations",
+    "n3": "the incubation",
+    "n4": "the incubations",
+    "n5": "incubation's",
+    "n6": "incubations'",
+    "n7": "an incubation",
+    "n8": "many incubations"
+}

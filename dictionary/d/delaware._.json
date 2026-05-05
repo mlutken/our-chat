@@ -1,0 +1,18 @@
+{
+    "base": "delaware",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delaware",
+    "n2": "delawares",
+    "n3": "the delaware",
+    "n4": "the delawares",
+    "n5": "delaware's",
+    "n6": "delawares'",
+    "n7": "a delaware",
+    "n8": "many delawares"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bluff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "bluff",
+    "n2": "blufves",
+    "n3": "the bluff",
+    "n4": "the blufves",
+    "n5": "bluff's",
+    "n6": "blufves'",
+    "n7": "a bluff",
+    "n8": "many blufves"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "involvement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "involvement",
+    "n2": "involvements",
+    "n3": "the involvement",
+    "n4": "the involvements",
+    "n5": "involvement's",
+    "n6": "involvements'",
+    "n7": "an involvement",
+    "n8": "many involvements"
+}

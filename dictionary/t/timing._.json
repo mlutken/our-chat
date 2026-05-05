@@ -1,0 +1,18 @@
+{
+    "base": "timing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "timing",
+    "n2": "timings",
+    "n3": "the timing",
+    "n4": "the timings",
+    "n5": "timing's",
+    "n6": "timings'",
+    "n7": "a timing",
+    "n8": "many timings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sheepman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sheepman",
+    "n2": "sheepmen",
+    "n3": "the sheepman",
+    "n4": "the sheepmen",
+    "n5": "sheepman's",
+    "n6": "sheepmen's",
+    "n7": "a sheepman",
+    "n8": "many sheepmen"
+}

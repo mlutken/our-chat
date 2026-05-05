@@ -1,0 +1,18 @@
+{
+    "base": "doorbell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doorbell",
+    "n2": "doorbells",
+    "n3": "the doorbell",
+    "n4": "the doorbells",
+    "n5": "doorbell's",
+    "n6": "doorbells'",
+    "n7": "a doorbell",
+    "n8": "many doorbells"
+}

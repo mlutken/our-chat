@@ -1,0 +1,18 @@
+{
+    "base": "intake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "intake",
+    "n2": "intakes",
+    "n3": "the intake",
+    "n4": "the intakes",
+    "n5": "intake's",
+    "n6": "intakes'",
+    "n7": "an intake",
+    "n8": "many intakes"
+}

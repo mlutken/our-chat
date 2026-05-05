@@ -1,11 +1,24 @@
 {
     "base": "load",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "load",
     "v2": "loaded",
     "v3": "loaded",
     "v4": "loading",
-    "v5": "loads"
+    "v5": "loads",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "load",
+    "n2": "loads",
+    "n3": "the load",
+    "n4": "the loads",
+    "n5": "load's",
+    "n6": "loads'",
+    "n7": "a load",
+    "n8": "many loads"
 }

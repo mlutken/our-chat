@@ -1,0 +1,18 @@
+{
+    "base": "agricultural agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "agricultural agent",
+    "n2": "agricultural agents",
+    "n3": "the agricultural agent",
+    "n4": "the agricultural agents",
+    "n5": "agricultural agent's",
+    "n6": "agricultural agents'",
+    "n7": "an agricultural agent",
+    "n8": "many agricultural agents"
+}

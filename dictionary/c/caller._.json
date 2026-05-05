@@ -1,0 +1,18 @@
+{
+    "base": "caller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "caller",
+    "n2": "callers",
+    "n3": "the caller",
+    "n4": "the callers",
+    "n5": "caller's",
+    "n6": "callers'",
+    "n7": "a caller",
+    "n8": "many callers"
+}

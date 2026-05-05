@@ -1,8 +1,21 @@
 {
     "base": "today",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "today",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 82,
+    "max_commonness": 6834,
+    "commonness_ge_count": 158,
+    "n1": "today",
+    "n2": "todays",
+    "n3": "the today",
+    "n4": "the todays",
+    "n5": "today's",
+    "n6": "todays'",
+    "n7": "a today",
+    "n8": "many todays"
 }

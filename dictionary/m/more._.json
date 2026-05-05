@@ -1,0 +1,18 @@
+{
+    "base": "more",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n1": "more",
+    "n2": "mores",
+    "n3": "the more",
+    "n4": "the mores",
+    "n5": "more's",
+    "n6": "mores'",
+    "n7": "a more",
+    "n8": "many mores"
+}

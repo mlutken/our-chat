@@ -1,0 +1,18 @@
+{
+    "base": "procurement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "procurement",
+    "n2": "procurements",
+    "n3": "the procurement",
+    "n4": "the procurements",
+    "n5": "procurement's",
+    "n6": "procurements'",
+    "n7": "a procurement",
+    "n8": "many procurements"
+}

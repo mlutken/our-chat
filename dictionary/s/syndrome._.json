@@ -1,0 +1,18 @@
+{
+    "base": "syndrome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "syndrome",
+    "n2": "syndromes",
+    "n3": "the syndrome",
+    "n4": "the syndromes",
+    "n5": "syndrome's",
+    "n6": "syndromes'",
+    "n7": "a syndrome",
+    "n8": "many syndromes"
+}

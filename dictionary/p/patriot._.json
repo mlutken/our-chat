@@ -1,0 +1,18 @@
+{
+    "base": "patriot",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "patriot",
+    "n2": "patriots",
+    "n3": "the patriot",
+    "n4": "the patriots",
+    "n5": "patriot's",
+    "n6": "patriots'",
+    "n7": "a patriot",
+    "n8": "many patriots"
+}

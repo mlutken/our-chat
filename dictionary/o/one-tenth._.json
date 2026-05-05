@@ -1,0 +1,18 @@
+{
+    "base": "one-tenth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "one-tenth",
+    "n2": "one-tenths",
+    "n3": "the one-tenth",
+    "n4": "the one-tenths",
+    "n5": "one-tenth's",
+    "n6": "one-tenths'",
+    "n7": "a one-tenth",
+    "n8": "many one-tenths"
+}

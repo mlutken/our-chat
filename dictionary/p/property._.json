@@ -7,5 +7,12 @@
     "n2": "properties",
     "n3": "the property",
     "n4": "the properties",
-    "n5": "property's"
+    "n5": "property's",
+    "proper": false,
+    "commonness": 60,
+    "max_commonness": 6834,
+    "commonness_ge_count": 257,
+    "n6": "properties'",
+    "n7": "a property",
+    "n8": "many properties"
 }

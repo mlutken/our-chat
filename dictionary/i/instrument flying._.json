@@ -1,0 +1,18 @@
+{
+    "base": "instrument flying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "instrument flying",
+    "n2": "instrument flyings",
+    "n3": "the instrument flying",
+    "n4": "the instrument flyings",
+    "n5": "instrument flying's",
+    "n6": "instrument flyings'",
+    "n7": "an instrument flying",
+    "n8": "many instrument flyings"
+}

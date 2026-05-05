@@ -7,5 +7,12 @@
     "n2": "engagements",
     "n3": "the engagement",
     "n4": "the engagements",
-    "n5": "engagement's"
+    "n5": "engagement's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "engagements'",
+    "n7": "an engagement",
+    "n8": "many engagements"
 }

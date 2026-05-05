@@ -1,0 +1,18 @@
+{
+    "base": "healing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "healing",
+    "n2": "healings",
+    "n3": "the healing",
+    "n4": "the healings",
+    "n5": "healing's",
+    "n6": "healings'",
+    "n7": "a healing",
+    "n8": "many healings"
+}

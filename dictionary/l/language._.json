@@ -7,5 +7,12 @@
     "n2": "languages",
     "n3": "the language",
     "n4": "the languages",
-    "n5": "language's"
+    "n5": "language's",
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n6": "languages'",
+    "n7": "a language",
+    "n8": "many languages"
 }

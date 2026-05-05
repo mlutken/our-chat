@@ -1,0 +1,18 @@
+{
+    "base": "sandalwood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sandalwood",
+    "n2": "sandalwoods",
+    "n3": "the sandalwood",
+    "n4": "the sandalwoods",
+    "n5": "sandalwood's",
+    "n6": "sandalwoods'",
+    "n7": "a sandalwood",
+    "n8": "many sandalwoods"
+}

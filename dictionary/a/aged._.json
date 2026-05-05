@@ -1,0 +1,18 @@
+{
+    "base": "aged",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aged",
+    "n2": "ageds",
+    "n3": "the aged",
+    "n4": "the ageds",
+    "n5": "aged's",
+    "n6": "ageds'",
+    "n7": "an aged",
+    "n8": "many ageds"
+}

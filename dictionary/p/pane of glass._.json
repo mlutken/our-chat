@@ -1,0 +1,18 @@
+{
+    "base": "pane of glass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pane of glass",
+    "n2": "pane of glasses",
+    "n3": "the pane of glass",
+    "n4": "the pane of glasses",
+    "n5": "pane of glass'",
+    "n6": "pane of glasses'",
+    "n7": "a pane of glass",
+    "n8": "many pane of glasses"
+}

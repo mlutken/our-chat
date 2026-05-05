@@ -1,0 +1,18 @@
+{
+    "base": "buggy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "buggy",
+    "n2": "buggies",
+    "n3": "the buggy",
+    "n4": "the buggies",
+    "n5": "buggy's",
+    "n6": "buggies'",
+    "n7": "a buggy",
+    "n8": "many buggies"
+}

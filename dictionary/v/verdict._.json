@@ -1,0 +1,18 @@
+{
+    "base": "verdict",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "verdict",
+    "n2": "verdicts",
+    "n3": "the verdict",
+    "n4": "the verdicts",
+    "n5": "verdict's",
+    "n6": "verdicts'",
+    "n7": "a verdict",
+    "n8": "many verdicts"
+}

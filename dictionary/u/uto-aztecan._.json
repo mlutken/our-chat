@@ -1,0 +1,18 @@
+{
+    "base": "uto-aztecan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "uto-aztecan",
+    "n2": "uto-aztecans",
+    "n3": "the uto-aztecan",
+    "n4": "the uto-aztecans",
+    "n5": "uto-aztecan's",
+    "n6": "uto-aztecans'",
+    "n7": "an uto-aztecan",
+    "n8": "many uto-aztecans"
+}

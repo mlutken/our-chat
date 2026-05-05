@@ -1,0 +1,18 @@
+{
+    "base": "new deal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "new deal",
+    "n2": "new deals",
+    "n3": "the new deal",
+    "n4": "the new deals",
+    "n5": "new deal's",
+    "n6": "new deals'",
+    "n7": "a new deal",
+    "n8": "many new deals"
+}

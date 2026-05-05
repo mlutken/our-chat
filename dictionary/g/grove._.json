@@ -1,0 +1,18 @@
+{
+    "base": "grove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "grove",
+    "n2": "groves",
+    "n3": "the grove",
+    "n4": "the groves",
+    "n5": "grove's",
+    "n6": "groves'",
+    "n7": "a grove",
+    "n8": "many groves"
+}

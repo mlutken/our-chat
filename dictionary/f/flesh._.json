@@ -1,0 +1,18 @@
+{
+    "base": "flesh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "flesh",
+    "n2": "fleshes",
+    "n3": "the flesh",
+    "n4": "the fleshes",
+    "n5": "flesh's",
+    "n6": "fleshes'",
+    "n7": "a flesh",
+    "n8": "many fleshes"
+}

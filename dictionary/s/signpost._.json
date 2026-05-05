@@ -1,0 +1,18 @@
+{
+    "base": "signpost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "signpost",
+    "n2": "signposts",
+    "n3": "the signpost",
+    "n4": "the signposts",
+    "n5": "signpost's",
+    "n6": "signposts'",
+    "n7": "a signpost",
+    "n8": "many signposts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lunchroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lunchroom",
+    "n2": "lunchrooms",
+    "n3": "the lunchroom",
+    "n4": "the lunchrooms",
+    "n5": "lunchroom's",
+    "n6": "lunchrooms'",
+    "n7": "a lunchroom",
+    "n8": "many lunchrooms"
+}

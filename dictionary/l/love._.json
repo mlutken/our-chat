@@ -13,5 +13,12 @@
     "v2": "loved",
     "v3": "loved",
     "v4": "loving",
-    "v5": "loves"
+    "v5": "loves",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n6": "loves'",
+    "n7": "a love",
+    "n8": "many loves"
 }

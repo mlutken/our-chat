@@ -1,0 +1,18 @@
+{
+    "base": "aluminum chloride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aluminum chloride",
+    "n2": "aluminum chlorides",
+    "n3": "the aluminum chloride",
+    "n4": "the aluminum chlorides",
+    "n5": "aluminum chloride's",
+    "n6": "aluminum chlorides'",
+    "n7": "an aluminum chloride",
+    "n8": "many aluminum chlorides"
+}

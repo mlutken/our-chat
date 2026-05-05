@@ -7,5 +7,12 @@
     "n2": "sports",
     "n3": "the sport",
     "n4": "the sports",
-    "n5": "sport's"
+    "n5": "sport's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "sports'",
+    "n7": "a sport",
+    "n8": "many sports"
 }

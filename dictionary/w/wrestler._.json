@@ -1,0 +1,18 @@
+{
+    "base": "wrestler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wrestler",
+    "n2": "wrestlers",
+    "n3": "the wrestler",
+    "n4": "the wrestlers",
+    "n5": "wrestler's",
+    "n6": "wrestlers'",
+    "n7": "a wrestler",
+    "n8": "many wrestlers"
+}

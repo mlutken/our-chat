@@ -1,0 +1,18 @@
+{
+    "base": "heredity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heredity",
+    "n2": "heredities",
+    "n3": "the heredity",
+    "n4": "the heredities",
+    "n5": "heredity's",
+    "n6": "heredities'",
+    "n7": "a heredity",
+    "n8": "many heredities"
+}

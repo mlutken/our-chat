@@ -1,0 +1,18 @@
+{
+    "base": "adieu",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adieu",
+    "n2": "adieux",
+    "n3": "the adieu",
+    "n4": "the adieux",
+    "n5": "adieu's",
+    "n6": "adieux's",
+    "n7": "an adieu",
+    "n8": "many adieux"
+}

@@ -13,5 +13,12 @@
     "v2": "issued",
     "v3": "issued",
     "v4": "issuing",
-    "v5": "issues"
+    "v5": "issues",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "issues'",
+    "n7": "an issue",
+    "n8": "many issues"
 }

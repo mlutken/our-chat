@@ -1,0 +1,18 @@
+{
+    "base": "commonplace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commonplace",
+    "n2": "commonplaces",
+    "n3": "the commonplace",
+    "n4": "the commonplaces",
+    "n5": "commonplace's",
+    "n6": "commonplaces'",
+    "n7": "a commonplace",
+    "n8": "many commonplaces"
+}

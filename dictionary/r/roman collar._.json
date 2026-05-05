@@ -1,0 +1,18 @@
+{
+    "base": "roman collar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roman collar",
+    "n2": "roman collars",
+    "n3": "the roman collar",
+    "n4": "the roman collars",
+    "n5": "roman collar's",
+    "n6": "roman collars'",
+    "n7": "a roman collar",
+    "n8": "many roman collars"
+}

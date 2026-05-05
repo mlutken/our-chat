@@ -1,0 +1,18 @@
+{
+    "base": "fanaticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fanaticism",
+    "n2": "fanaticisms",
+    "n3": "the fanaticism",
+    "n4": "the fanaticisms",
+    "n5": "fanaticism's",
+    "n6": "fanaticisms'",
+    "n7": "a fanaticism",
+    "n8": "many fanaticisms"
+}

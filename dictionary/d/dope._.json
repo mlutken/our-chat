@@ -1,0 +1,18 @@
+{
+    "base": "dope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dope",
+    "n2": "dopes",
+    "n3": "the dope",
+    "n4": "the dopes",
+    "n5": "dope's",
+    "n6": "dopes'",
+    "n7": "a dope",
+    "n8": "many dopes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mandamus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mandamus",
+    "n2": "mandamuses",
+    "n3": "the mandamus",
+    "n4": "the mandamuses",
+    "n5": "mandamus'",
+    "n6": "mandamuses'",
+    "n7": "a mandamus",
+    "n8": "many mandamuses"
+}

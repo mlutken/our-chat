@@ -1,0 +1,18 @@
+{
+    "base": "data processing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "data processing",
+    "n2": "data processings",
+    "n3": "the data processing",
+    "n4": "the data processings",
+    "n5": "data processing's",
+    "n6": "data processings'",
+    "n7": "a data processing",
+    "n8": "many data processings"
+}

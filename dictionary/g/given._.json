@@ -1,0 +1,18 @@
+{
+    "base": "given",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "given",
+    "n2": "givens",
+    "n3": "the given",
+    "n4": "the givens",
+    "n5": "given's",
+    "n6": "givens'",
+    "n7": "a given",
+    "n8": "many givens"
+}

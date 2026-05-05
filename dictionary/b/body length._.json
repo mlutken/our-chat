@@ -1,0 +1,18 @@
+{
+    "base": "body length",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "body length",
+    "n2": "body lengths",
+    "n3": "the body length",
+    "n4": "the body lengths",
+    "n5": "body length's",
+    "n6": "body lengths'",
+    "n7": "a body length",
+    "n8": "many body lengths"
+}

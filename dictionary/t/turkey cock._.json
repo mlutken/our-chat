@@ -1,0 +1,18 @@
+{
+    "base": "turkey cock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turkey cock",
+    "n2": "turkey cocks",
+    "n3": "the turkey cock",
+    "n4": "the turkey cocks",
+    "n5": "turkey cock's",
+    "n6": "turkey cocks'",
+    "n7": "a turkey cock",
+    "n8": "many turkey cocks"
+}

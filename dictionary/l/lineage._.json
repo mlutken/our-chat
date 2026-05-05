@@ -1,0 +1,18 @@
+{
+    "base": "lineage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lineage",
+    "n2": "lineages",
+    "n3": "the lineage",
+    "n4": "the lineages",
+    "n5": "lineage's",
+    "n6": "lineages'",
+    "n7": "a lineage",
+    "n8": "many lineages"
+}

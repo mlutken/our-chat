@@ -1,11 +1,24 @@
 {
     "base": "start",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "start",
     "v2": "started",
     "v3": "started",
     "v4": "starting",
-    "v5": "starts"
+    "v5": "starts",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "start",
+    "n2": "starts",
+    "n3": "the start",
+    "n4": "the starts",
+    "n5": "start's",
+    "n6": "starts'",
+    "n7": "a start",
+    "n8": "many starts"
 }

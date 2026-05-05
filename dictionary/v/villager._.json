@@ -1,0 +1,18 @@
+{
+    "base": "villager",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "villager",
+    "n2": "villagers",
+    "n3": "the villager",
+    "n4": "the villagers",
+    "n5": "villager's",
+    "n6": "villagers'",
+    "n7": "a villager",
+    "n8": "many villagers"
+}

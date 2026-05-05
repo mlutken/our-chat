@@ -7,5 +7,12 @@
     "n2": "bags",
     "n3": "the bag",
     "n4": "the bags",
-    "n5": "bag's"
+    "n5": "bag's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "bags'",
+    "n7": "a bag",
+    "n8": "many bags"
 }

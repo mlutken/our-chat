@@ -1,0 +1,18 @@
+{
+    "base": "crossing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crossing",
+    "n2": "crossings",
+    "n3": "the crossing",
+    "n4": "the crossings",
+    "n5": "crossing's",
+    "n6": "crossings'",
+    "n7": "a crossing",
+    "n8": "many crossings"
+}

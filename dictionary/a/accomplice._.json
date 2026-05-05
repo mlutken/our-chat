@@ -1,0 +1,18 @@
+{
+    "base": "accomplice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "accomplice",
+    "n2": "accomplices",
+    "n3": "the accomplice",
+    "n4": "the accomplices",
+    "n5": "accomplice's",
+    "n6": "accomplices'",
+    "n7": "an accomplice",
+    "n8": "many accomplices"
+}

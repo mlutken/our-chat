@@ -1,0 +1,18 @@
+{
+    "base": "wretch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wretch",
+    "n2": "wretches",
+    "n3": "the wretch",
+    "n4": "the wretches",
+    "n5": "wretch's",
+    "n6": "wretches'",
+    "n7": "a wretch",
+    "n8": "many wretches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fencing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fencing",
+    "n2": "fencings",
+    "n3": "the fencing",
+    "n4": "the fencings",
+    "n5": "fencing's",
+    "n6": "fencings'",
+    "n7": "a fencing",
+    "n8": "many fencings"
+}

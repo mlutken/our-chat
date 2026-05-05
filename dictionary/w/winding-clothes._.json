@@ -1,0 +1,18 @@
+{
+    "base": "winding-clothes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "winding-clothes",
+    "n2": "winding-clotheses",
+    "n3": "the winding-clothes",
+    "n4": "the winding-clotheses",
+    "n5": "winding-clothes'",
+    "n6": "winding-clotheses'",
+    "n7": "a winding-clothes",
+    "n8": "many winding-clotheses"
+}

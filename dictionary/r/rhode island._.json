@@ -1,0 +1,18 @@
+{
+    "base": "rhode island",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "rhode island",
+    "n2": "rhode islands",
+    "n3": "the rhode island",
+    "n4": "the rhode islands",
+    "n5": "rhode island's",
+    "n6": "rhode islands'",
+    "n7": "a rhode island",
+    "n8": "many rhode islands"
+}

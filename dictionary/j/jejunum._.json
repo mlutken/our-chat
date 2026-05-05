@@ -1,0 +1,18 @@
+{
+    "base": "jejunum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "jejunum",
+    "n2": "jejunums",
+    "n3": "the jejunum",
+    "n4": "the jejunums",
+    "n5": "jejunum's",
+    "n6": "jejunums'",
+    "n7": "a jejunum",
+    "n8": "many jejunums"
+}

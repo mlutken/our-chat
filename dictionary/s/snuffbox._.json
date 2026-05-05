@@ -1,0 +1,18 @@
+{
+    "base": "snuffbox",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snuffbox",
+    "n2": "snuffboxes",
+    "n3": "the snuffbox",
+    "n4": "the snuffboxes",
+    "n5": "snuffbox's",
+    "n6": "snuffboxes'",
+    "n7": "a snuffbox",
+    "n8": "many snuffboxes"
+}

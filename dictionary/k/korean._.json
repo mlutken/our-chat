@@ -1,0 +1,18 @@
+{
+    "base": "korean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "korean",
+    "n2": "koreans",
+    "n3": "the korean",
+    "n4": "the koreans",
+    "n5": "korean's",
+    "n6": "koreans'",
+    "n7": "a korean",
+    "n8": "many koreans"
+}

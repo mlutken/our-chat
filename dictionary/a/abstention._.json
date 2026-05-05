@@ -1,0 +1,18 @@
+{
+    "base": "abstention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abstention",
+    "n2": "abstentions",
+    "n3": "the abstention",
+    "n4": "the abstentions",
+    "n5": "abstention's",
+    "n6": "abstentions'",
+    "n7": "an abstention",
+    "n8": "many abstentions"
+}

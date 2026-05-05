@@ -1,0 +1,18 @@
+{
+    "base": "taxpayer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "taxpayer",
+    "n2": "taxpayers",
+    "n3": "the taxpayer",
+    "n4": "the taxpayers",
+    "n5": "taxpayer's",
+    "n6": "taxpayers'",
+    "n7": "a taxpayer",
+    "n8": "many taxpayers"
+}

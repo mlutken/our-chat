@@ -1,0 +1,18 @@
+{
+    "base": "wedge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wedge",
+    "n2": "wedges",
+    "n3": "the wedge",
+    "n4": "the wedges",
+    "n5": "wedge's",
+    "n6": "wedges'",
+    "n7": "a wedge",
+    "n8": "many wedges"
+}

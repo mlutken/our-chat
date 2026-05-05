@@ -7,5 +7,12 @@
     "n2": "modes",
     "n3": "the mode",
     "n4": "the modes",
-    "n5": "mode's"
+    "n5": "mode's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "modes'",
+    "n7": "a mode",
+    "n8": "many modes"
 }

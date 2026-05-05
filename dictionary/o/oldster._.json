@@ -1,0 +1,18 @@
+{
+    "base": "oldster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oldster",
+    "n2": "oldsters",
+    "n3": "the oldster",
+    "n4": "the oldsters",
+    "n5": "oldster's",
+    "n6": "oldsters'",
+    "n7": "an oldster",
+    "n8": "many oldsters"
+}

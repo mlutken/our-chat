@@ -1,0 +1,18 @@
+{
+    "base": "steam bath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steam bath",
+    "n2": "steam baths",
+    "n3": "the steam bath",
+    "n4": "the steam baths",
+    "n5": "steam bath's",
+    "n6": "steam baths'",
+    "n7": "a steam bath",
+    "n8": "many steam baths"
+}

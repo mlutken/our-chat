@@ -1,0 +1,18 @@
+{
+    "base": "dispersion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dispersion",
+    "n2": "dispersions",
+    "n3": "the dispersion",
+    "n4": "the dispersions",
+    "n5": "dispersion's",
+    "n6": "dispersions'",
+    "n7": "a dispersion",
+    "n8": "many dispersions"
+}

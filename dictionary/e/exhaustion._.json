@@ -1,0 +1,18 @@
+{
+    "base": "exhaustion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "exhaustion",
+    "n2": "exhaustions",
+    "n3": "the exhaustion",
+    "n4": "the exhaustions",
+    "n5": "exhaustion's",
+    "n6": "exhaustions'",
+    "n7": "an exhaustion",
+    "n8": "many exhaustions"
+}

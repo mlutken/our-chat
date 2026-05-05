@@ -1,0 +1,18 @@
+{
+    "base": "most valuable player",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "most valuable player",
+    "n2": "most valuable players",
+    "n3": "the most valuable player",
+    "n4": "the most valuable players",
+    "n5": "most valuable player's",
+    "n6": "most valuable players'",
+    "n7": "a most valuable player",
+    "n8": "many most valuable players"
+}

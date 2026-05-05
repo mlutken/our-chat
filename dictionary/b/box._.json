@@ -5,13 +5,20 @@
         "v"
     ],
     "n1": "box",
-    "n2": "boxs",
+    "n2": "boxes",
     "n3": "the box",
-    "n4": "the boxs",
+    "n4": "the boxes",
     "n5": "box's",
     "v1": "box",
     "v2": "boxed",
     "v3": "boxed",
     "v4": "boxing",
-    "v5": "boxes"
+    "v5": "boxes",
+    "proper": false,
+    "commonness": 37,
+    "max_commonness": 6834,
+    "commonness_ge_count": 486,
+    "n6": "boxes'",
+    "n7": "a box",
+    "n8": "many boxes"
 }

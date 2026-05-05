@@ -1,0 +1,18 @@
+{
+    "base": "pardon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pardon",
+    "n2": "pardons",
+    "n3": "the pardon",
+    "n4": "the pardons",
+    "n5": "pardon's",
+    "n6": "pardons'",
+    "n7": "a pardon",
+    "n8": "many pardons"
+}

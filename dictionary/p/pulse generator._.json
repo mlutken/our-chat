@@ -1,0 +1,18 @@
+{
+    "base": "pulse generator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pulse generator",
+    "n2": "pulse generators",
+    "n3": "the pulse generator",
+    "n4": "the pulse generators",
+    "n5": "pulse generator's",
+    "n6": "pulse generators'",
+    "n7": "a pulse generator",
+    "n8": "many pulse generators"
+}

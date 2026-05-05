@@ -1,0 +1,18 @@
+{
+    "base": "flavor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "flavor",
+    "n2": "flavors",
+    "n3": "the flavor",
+    "n4": "the flavors",
+    "n5": "flavor's",
+    "n6": "flavors'",
+    "n7": "a flavor",
+    "n8": "many flavors"
+}

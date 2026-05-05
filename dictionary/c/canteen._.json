@@ -1,0 +1,18 @@
+{
+    "base": "canteen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "canteen",
+    "n2": "canteens",
+    "n3": "the canteen",
+    "n4": "the canteens",
+    "n5": "canteen's",
+    "n6": "canteens'",
+    "n7": "a canteen",
+    "n8": "many canteens"
+}

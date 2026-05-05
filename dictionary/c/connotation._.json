@@ -1,0 +1,18 @@
+{
+    "base": "connotation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "connotation",
+    "n2": "connotations",
+    "n3": "the connotation",
+    "n4": "the connotations",
+    "n5": "connotation's",
+    "n6": "connotations'",
+    "n7": "a connotation",
+    "n8": "many connotations"
+}

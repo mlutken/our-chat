@@ -1,0 +1,18 @@
+{
+    "base": "countryside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "countryside",
+    "n2": "countrysides",
+    "n3": "the countryside",
+    "n4": "the countrysides",
+    "n5": "countryside's",
+    "n6": "countrysides'",
+    "n7": "a countryside",
+    "n8": "many countrysides"
+}

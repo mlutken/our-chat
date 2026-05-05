@@ -1,0 +1,18 @@
+{
+    "base": "discretion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "discretion",
+    "n2": "discretions",
+    "n3": "the discretion",
+    "n4": "the discretions",
+    "n5": "discretion's",
+    "n6": "discretions'",
+    "n7": "a discretion",
+    "n8": "many discretions"
+}

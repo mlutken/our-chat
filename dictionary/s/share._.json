@@ -13,5 +13,12 @@
     "v2": "shared",
     "v3": "shared",
     "v4": "sharing",
-    "v5": "shares"
+    "v5": "shares",
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n6": "shares'",
+    "n7": "a share",
+    "n8": "many shares"
 }

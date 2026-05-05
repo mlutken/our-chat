@@ -7,5 +7,12 @@
     "n2": "winds",
     "n3": "the wind",
     "n4": "the winds",
-    "n5": "wind's"
+    "n5": "wind's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "winds'",
+    "n7": "a wind",
+    "n8": "many winds"
 }

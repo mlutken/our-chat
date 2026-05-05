@@ -1,0 +1,18 @@
+{
+    "base": "simulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "simulation",
+    "n2": "simulations",
+    "n3": "the simulation",
+    "n4": "the simulations",
+    "n5": "simulation's",
+    "n6": "simulations'",
+    "n7": "a simulation",
+    "n8": "many simulations"
+}

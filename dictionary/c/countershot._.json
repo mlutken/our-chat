@@ -1,0 +1,18 @@
+{
+    "base": "countershot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "countershot",
+    "n2": "countershots",
+    "n3": "the countershot",
+    "n4": "the countershots",
+    "n5": "countershot's",
+    "n6": "countershots'",
+    "n7": "a countershot",
+    "n8": "many countershots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stravinsky",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "stravinsky",
+    "n2": "stravinskies",
+    "n3": "the stravinsky",
+    "n4": "the stravinskies",
+    "n5": "stravinsky's",
+    "n6": "stravinskies'",
+    "n7": "a stravinsky",
+    "n8": "many stravinskies"
+}

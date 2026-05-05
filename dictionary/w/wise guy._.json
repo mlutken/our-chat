@@ -1,0 +1,18 @@
+{
+    "base": "wise guy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wise guy",
+    "n2": "wise guys",
+    "n3": "the wise guy",
+    "n4": "the wise guys",
+    "n5": "wise guy's",
+    "n6": "wise guys'",
+    "n7": "a wise guy",
+    "n8": "many wise guys"
+}

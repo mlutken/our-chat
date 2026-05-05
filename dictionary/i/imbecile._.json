@@ -1,0 +1,18 @@
+{
+    "base": "imbecile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "imbecile",
+    "n2": "imbeciles",
+    "n3": "the imbecile",
+    "n4": "the imbeciles",
+    "n5": "imbecile's",
+    "n6": "imbeciles'",
+    "n7": "an imbecile",
+    "n8": "many imbeciles"
+}

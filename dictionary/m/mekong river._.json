@@ -1,0 +1,18 @@
+{
+    "base": "mekong river",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mekong river",
+    "n2": "mekong rivers",
+    "n3": "the mekong river",
+    "n4": "the mekong rivers",
+    "n5": "mekong river's",
+    "n6": "mekong rivers'",
+    "n7": "a mekong river",
+    "n8": "many mekong rivers"
+}

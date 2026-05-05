@@ -1,0 +1,18 @@
+{
+    "base": "sword",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "sword",
+    "n2": "swords",
+    "n3": "the sword",
+    "n4": "the swords",
+    "n5": "sword's",
+    "n6": "swords'",
+    "n7": "a sword",
+    "n8": "many swords"
+}

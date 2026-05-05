@@ -7,5 +7,12 @@
     "n2": "cigarettes",
     "n3": "the cigarette",
     "n4": "the cigarettes",
-    "n5": "cigarette's"
+    "n5": "cigarette's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "cigarettes'",
+    "n7": "a cigarette",
+    "n8": "many cigarettes"
 }

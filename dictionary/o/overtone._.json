@@ -1,0 +1,18 @@
+{
+    "base": "overtone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overtone",
+    "n2": "overtones",
+    "n3": "the overtone",
+    "n4": "the overtones",
+    "n5": "overtone's",
+    "n6": "overtones'",
+    "n7": "an overtone",
+    "n8": "many overtones"
+}

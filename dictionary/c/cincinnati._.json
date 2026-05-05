@@ -1,0 +1,18 @@
+{
+    "base": "cincinnati",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cincinnati",
+    "n2": "cincinnatis",
+    "n3": "the cincinnati",
+    "n4": "the cincinnatis",
+    "n5": "cincinnati's",
+    "n6": "cincinnatis'",
+    "n7": "a cincinnati",
+    "n8": "many cincinnatis"
+}

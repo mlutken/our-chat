@@ -1,0 +1,18 @@
+{
+    "base": "reptile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reptile",
+    "n2": "reptiles",
+    "n3": "the reptile",
+    "n4": "the reptiles",
+    "n5": "reptile's",
+    "n6": "reptiles'",
+    "n7": "a reptile",
+    "n8": "many reptiles"
+}

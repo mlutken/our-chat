@@ -1,0 +1,18 @@
+{
+    "base": "anionic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "anionic",
+    "n2": "anionics",
+    "n3": "the anionic",
+    "n4": "the anionics",
+    "n5": "anionic's",
+    "n6": "anionics'",
+    "n7": "an anionic",
+    "n8": "many anionics"
+}

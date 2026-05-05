@@ -1,0 +1,18 @@
+{
+    "base": "conducting wire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conducting wire",
+    "n2": "conducting wires",
+    "n3": "the conducting wire",
+    "n4": "the conducting wires",
+    "n5": "conducting wire's",
+    "n6": "conducting wires'",
+    "n7": "a conducting wire",
+    "n8": "many conducting wires"
+}

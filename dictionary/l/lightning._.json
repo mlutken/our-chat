@@ -1,0 +1,18 @@
+{
+    "base": "lightning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "lightning",
+    "n2": "lightnings",
+    "n3": "the lightning",
+    "n4": "the lightnings",
+    "n5": "lightning's",
+    "n6": "lightnings'",
+    "n7": "a lightning",
+    "n8": "many lightnings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "recourse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "recourse",
+    "n2": "recourses",
+    "n3": "the recourse",
+    "n4": "the recourses",
+    "n5": "recourse's",
+    "n6": "recourses'",
+    "n7": "a recourse",
+    "n8": "many recourses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "watchmaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "watchmaker",
+    "n2": "watchmakers",
+    "n3": "the watchmaker",
+    "n4": "the watchmakers",
+    "n5": "watchmaker's",
+    "n6": "watchmakers'",
+    "n7": "a watchmaker",
+    "n8": "many watchmakers"
+}

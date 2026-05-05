@@ -1,0 +1,18 @@
+{
+    "base": "dish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "dish",
+    "n2": "dishes",
+    "n3": "the dish",
+    "n4": "the dishes",
+    "n5": "dish's",
+    "n6": "dishes'",
+    "n7": "a dish",
+    "n8": "many dishes"
+}

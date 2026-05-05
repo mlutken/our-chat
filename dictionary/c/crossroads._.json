@@ -1,0 +1,18 @@
+{
+    "base": "crossroads",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "crossroads",
+    "n2": "crossroadses",
+    "n3": "the crossroads",
+    "n4": "the crossroadses",
+    "n5": "crossroads'",
+    "n6": "crossroadses'",
+    "n7": "a crossroads",
+    "n8": "many crossroadses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "royalty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "royalty",
+    "n2": "royalties",
+    "n3": "the royalty",
+    "n4": "the royalties",
+    "n5": "royalty's",
+    "n6": "royalties'",
+    "n7": "a royalty",
+    "n8": "many royalties"
+}

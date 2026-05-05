@@ -1,0 +1,18 @@
+{
+    "base": "miscegenation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "miscegenation",
+    "n2": "miscegenations",
+    "n3": "the miscegenation",
+    "n4": "the miscegenations",
+    "n5": "miscegenation's",
+    "n6": "miscegenations'",
+    "n7": "a miscegenation",
+    "n8": "many miscegenations"
+}

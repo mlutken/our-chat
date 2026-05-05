@@ -1,0 +1,18 @@
+{
+    "base": "prediction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prediction",
+    "n2": "predictions",
+    "n3": "the prediction",
+    "n4": "the predictions",
+    "n5": "prediction's",
+    "n6": "predictions'",
+    "n7": "a prediction",
+    "n8": "many predictions"
+}

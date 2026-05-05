@@ -1,0 +1,18 @@
+{
+    "base": "kansas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kansas",
+    "n2": "kansases",
+    "n3": "the kansas",
+    "n4": "the kansases",
+    "n5": "kansas'",
+    "n6": "kansases'",
+    "n7": "a kansas",
+    "n8": "many kansases"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bathrobe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bathrobe",
+    "n2": "bathrobes",
+    "n3": "the bathrobe",
+    "n4": "the bathrobes",
+    "n5": "bathrobe's",
+    "n6": "bathrobes'",
+    "n7": "a bathrobe",
+    "n8": "many bathrobes"
+}

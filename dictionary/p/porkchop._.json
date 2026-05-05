@@ -1,0 +1,18 @@
+{
+    "base": "porkchop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "porkchop",
+    "n2": "porkchops",
+    "n3": "the porkchop",
+    "n4": "the porkchops",
+    "n5": "porkchop's",
+    "n6": "porkchops'",
+    "n7": "a porkchop",
+    "n8": "many porkchops"
+}

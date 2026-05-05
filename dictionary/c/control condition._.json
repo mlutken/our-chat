@@ -1,0 +1,18 @@
+{
+    "base": "control condition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "control condition",
+    "n2": "control conditions",
+    "n3": "the control condition",
+    "n4": "the control conditions",
+    "n5": "control condition's",
+    "n6": "control conditions'",
+    "n7": "a control condition",
+    "n8": "many control conditions"
+}

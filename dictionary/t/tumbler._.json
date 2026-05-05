@@ -1,0 +1,18 @@
+{
+    "base": "tumbler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tumbler",
+    "n2": "tumblers",
+    "n3": "the tumbler",
+    "n4": "the tumblers",
+    "n5": "tumbler's",
+    "n6": "tumblers'",
+    "n7": "a tumbler",
+    "n8": "many tumblers"
+}

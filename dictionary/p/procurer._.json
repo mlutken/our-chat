@@ -1,0 +1,18 @@
+{
+    "base": "procurer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "procurer",
+    "n2": "procurers",
+    "n3": "the procurer",
+    "n4": "the procurers",
+    "n5": "procurer's",
+    "n6": "procurers'",
+    "n7": "a procurer",
+    "n8": "many procurers"
+}

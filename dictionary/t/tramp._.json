@@ -1,0 +1,18 @@
+{
+    "base": "tramp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tramp",
+    "n2": "tramps",
+    "n3": "the tramp",
+    "n4": "the tramps",
+    "n5": "tramp's",
+    "n6": "tramps'",
+    "n7": "a tramp",
+    "n8": "many tramps"
+}

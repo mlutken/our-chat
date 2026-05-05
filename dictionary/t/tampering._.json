@@ -1,0 +1,18 @@
+{
+    "base": "tampering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tampering",
+    "n2": "tamperings",
+    "n3": "the tampering",
+    "n4": "the tamperings",
+    "n5": "tampering's",
+    "n6": "tamperings'",
+    "n7": "a tampering",
+    "n8": "many tamperings"
+}

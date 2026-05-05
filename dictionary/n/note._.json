@@ -13,5 +13,12 @@
     "v2": "noted",
     "v3": "noted",
     "v4": "noting",
-    "v5": "notes"
+    "v5": "notes",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "notes'",
+    "n7": "a note",
+    "n8": "many notes"
 }

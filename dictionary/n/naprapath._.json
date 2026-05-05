@@ -1,0 +1,18 @@
+{
+    "base": "naprapath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "naprapath",
+    "n2": "naprapaths",
+    "n3": "the naprapath",
+    "n4": "the naprapaths",
+    "n5": "naprapath's",
+    "n6": "naprapaths'",
+    "n7": "a naprapath",
+    "n8": "many naprapaths"
+}

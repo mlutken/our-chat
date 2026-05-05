@@ -1,0 +1,18 @@
+{
+    "base": "snoring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "snoring",
+    "n2": "snorings",
+    "n3": "the snoring",
+    "n4": "the snorings",
+    "n5": "snoring's",
+    "n6": "snorings'",
+    "n7": "a snoring",
+    "n8": "many snorings"
+}

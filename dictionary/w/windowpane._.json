@@ -1,0 +1,18 @@
+{
+    "base": "windowpane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "windowpane",
+    "n2": "windowpanes",
+    "n3": "the windowpane",
+    "n4": "the windowpanes",
+    "n5": "windowpane's",
+    "n6": "windowpanes'",
+    "n7": "a windowpane",
+    "n8": "many windowpanes"
+}

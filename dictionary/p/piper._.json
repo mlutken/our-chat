@@ -1,0 +1,18 @@
+{
+    "base": "piper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piper",
+    "n2": "pipers",
+    "n3": "the piper",
+    "n4": "the pipers",
+    "n5": "piper's",
+    "n6": "pipers'",
+    "n7": "a piper",
+    "n8": "many pipers"
+}

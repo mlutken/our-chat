@@ -1,0 +1,18 @@
+{
+    "base": "classmate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "classmate",
+    "n2": "classmates",
+    "n3": "the classmate",
+    "n4": "the classmates",
+    "n5": "classmate's",
+    "n6": "classmates'",
+    "n7": "a classmate",
+    "n8": "many classmates"
+}

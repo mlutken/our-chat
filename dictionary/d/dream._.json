@@ -1,11 +1,24 @@
 {
     "base": "dream",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "dream",
     "v2": "dreamed/dreamt",
     "v3": "dreamed/dreamt",
     "v4": "dreaming",
-    "v5": "dreams"
+    "v5": "dreams",
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "dream",
+    "n2": "dreams",
+    "n3": "the dream",
+    "n4": "the dreams",
+    "n5": "dream's",
+    "n6": "dreams'",
+    "n7": "a dream",
+    "n8": "many dreams"
 }

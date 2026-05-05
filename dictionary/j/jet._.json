@@ -1,0 +1,18 @@
+{
+    "base": "jet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "jet",
+    "n2": "jets",
+    "n3": "the jet",
+    "n4": "the jets",
+    "n5": "jet's",
+    "n6": "jets'",
+    "n7": "a jet",
+    "n8": "many jets"
+}

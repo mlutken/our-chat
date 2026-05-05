@@ -7,5 +7,12 @@
     "n2": "profits",
     "n3": "the profit",
     "n4": "the profits",
-    "n5": "profit's"
+    "n5": "profit's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "profits'",
+    "n7": "a profit",
+    "n8": "many profits"
 }

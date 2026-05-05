@@ -1,0 +1,18 @@
+{
+    "base": "infinitive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infinitive",
+    "n2": "infinitives",
+    "n3": "the infinitive",
+    "n4": "the infinitives",
+    "n5": "infinitive's",
+    "n6": "infinitives'",
+    "n7": "an infinitive",
+    "n8": "many infinitives"
+}

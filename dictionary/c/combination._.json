@@ -7,5 +7,12 @@
     "n2": "combinations",
     "n3": "the combination",
     "n4": "the combinations",
-    "n5": "combination's"
+    "n5": "combination's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "combinations'",
+    "n7": "a combination",
+    "n8": "many combinations"
 }

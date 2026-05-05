@@ -1,0 +1,18 @@
+{
+    "base": "no",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "no",
+    "n2": "noes",
+    "n3": "the no",
+    "n4": "the noes",
+    "n5": "no's",
+    "n6": "noes'",
+    "n7": "a no",
+    "n8": "many noes"
+}

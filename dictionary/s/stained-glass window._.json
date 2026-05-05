@@ -1,0 +1,18 @@
+{
+    "base": "stained-glass window",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stained-glass window",
+    "n2": "stained-glass windows",
+    "n3": "the stained-glass window",
+    "n4": "the stained-glass windows",
+    "n5": "stained-glass window's",
+    "n6": "stained-glass windows'",
+    "n7": "a stained-glass window",
+    "n8": "many stained-glass windows"
+}

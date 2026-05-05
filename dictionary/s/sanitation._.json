@@ -1,0 +1,18 @@
+{
+    "base": "sanitation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sanitation",
+    "n2": "sanitations",
+    "n3": "the sanitation",
+    "n4": "the sanitations",
+    "n5": "sanitation's",
+    "n6": "sanitations'",
+    "n7": "a sanitation",
+    "n8": "many sanitations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "possum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "possum",
+    "n2": "possums",
+    "n3": "the possum",
+    "n4": "the possums",
+    "n5": "possum's",
+    "n6": "possums'",
+    "n7": "a possum",
+    "n8": "many possums"
+}

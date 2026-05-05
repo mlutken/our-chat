@@ -1,0 +1,18 @@
+{
+    "base": "mother country",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mother country",
+    "n2": "mother countries",
+    "n3": "the mother country",
+    "n4": "the mother countries",
+    "n5": "mother country's",
+    "n6": "mother countries'",
+    "n7": "a mother country",
+    "n8": "many mother countries"
+}

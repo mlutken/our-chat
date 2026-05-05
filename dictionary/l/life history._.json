@@ -1,0 +1,18 @@
+{
+    "base": "life history",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "life history",
+    "n2": "life histories",
+    "n3": "the life history",
+    "n4": "the life histories",
+    "n5": "life history's",
+    "n6": "life histories'",
+    "n7": "a life history",
+    "n8": "many life histories"
+}

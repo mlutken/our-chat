@@ -1,0 +1,18 @@
+{
+    "base": "tidewater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tidewater",
+    "n2": "tidewaters",
+    "n3": "the tidewater",
+    "n4": "the tidewaters",
+    "n5": "tidewater's",
+    "n6": "tidewaters'",
+    "n7": "a tidewater",
+    "n8": "many tidewaters"
+}

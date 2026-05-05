@@ -1,0 +1,18 @@
+{
+    "base": "spiritual being",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spiritual being",
+    "n2": "spiritual beings",
+    "n3": "the spiritual being",
+    "n4": "the spiritual beings",
+    "n5": "spiritual being's",
+    "n6": "spiritual beings'",
+    "n7": "a spiritual being",
+    "n8": "many spiritual beings"
+}

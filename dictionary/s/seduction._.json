@@ -1,0 +1,18 @@
+{
+    "base": "seduction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seduction",
+    "n2": "seductions",
+    "n3": "the seduction",
+    "n4": "the seductions",
+    "n5": "seduction's",
+    "n6": "seductions'",
+    "n7": "a seduction",
+    "n8": "many seductions"
+}

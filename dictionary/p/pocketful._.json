@@ -1,0 +1,18 @@
+{
+    "base": "pocketful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pocketful",
+    "n2": "pocketfuls",
+    "n3": "the pocketful",
+    "n4": "the pocketfuls",
+    "n5": "pocketful's",
+    "n6": "pocketfuls'",
+    "n7": "a pocketful",
+    "n8": "many pocketfuls"
+}

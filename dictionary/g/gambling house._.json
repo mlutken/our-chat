@@ -1,0 +1,18 @@
+{
+    "base": "gambling house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gambling house",
+    "n2": "gambling houses",
+    "n3": "the gambling house",
+    "n4": "the gambling houses",
+    "n5": "gambling house's",
+    "n6": "gambling houses'",
+    "n7": "a gambling house",
+    "n8": "many gambling houses"
+}

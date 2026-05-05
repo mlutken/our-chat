@@ -1,0 +1,18 @@
+{
+    "base": "avocado",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "avocado",
+    "n2": "avocados",
+    "n3": "the avocado",
+    "n4": "the avocados",
+    "n5": "avocado's",
+    "n6": "avocados'",
+    "n7": "an avocado",
+    "n8": "many avocados"
+}

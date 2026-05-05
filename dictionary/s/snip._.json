@@ -1,0 +1,18 @@
+{
+    "base": "snip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snip",
+    "n2": "snips",
+    "n3": "the snip",
+    "n4": "the snips",
+    "n5": "snip's",
+    "n6": "snips'",
+    "n7": "a snip",
+    "n8": "many snips"
+}

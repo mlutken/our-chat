@@ -1,0 +1,18 @@
+{
+    "base": "scrimmage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scrimmage",
+    "n2": "scrimmages",
+    "n3": "the scrimmage",
+    "n4": "the scrimmages",
+    "n5": "scrimmage's",
+    "n6": "scrimmages'",
+    "n7": "a scrimmage",
+    "n8": "many scrimmages"
+}

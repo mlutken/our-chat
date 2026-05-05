@@ -1,0 +1,18 @@
+{
+    "base": "alligator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "alligator",
+    "n2": "alligators",
+    "n3": "the alligator",
+    "n4": "the alligators",
+    "n5": "alligator's",
+    "n6": "alligators'",
+    "n7": "an alligator",
+    "n8": "many alligators"
+}

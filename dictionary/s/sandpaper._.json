@@ -1,0 +1,18 @@
+{
+    "base": "sandpaper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sandpaper",
+    "n2": "sandpapers",
+    "n3": "the sandpaper",
+    "n4": "the sandpapers",
+    "n5": "sandpaper's",
+    "n6": "sandpapers'",
+    "n7": "a sandpaper",
+    "n8": "many sandpapers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "heed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heed",
+    "n2": "heeds",
+    "n3": "the heed",
+    "n4": "the heeds",
+    "n5": "heed's",
+    "n6": "heeds'",
+    "n7": "a heed",
+    "n8": "many heeds"
+}

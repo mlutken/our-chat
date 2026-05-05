@@ -1,0 +1,18 @@
+{
+    "base": "artifact",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artifact",
+    "n2": "artifacts",
+    "n3": "the artifact",
+    "n4": "the artifacts",
+    "n5": "artifact's",
+    "n6": "artifacts'",
+    "n7": "an artifact",
+    "n8": "many artifacts"
+}

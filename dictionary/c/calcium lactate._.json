@@ -1,0 +1,18 @@
+{
+    "base": "calcium lactate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "calcium lactate",
+    "n2": "calcium lactates",
+    "n3": "the calcium lactate",
+    "n4": "the calcium lactates",
+    "n5": "calcium lactate's",
+    "n6": "calcium lactates'",
+    "n7": "a calcium lactate",
+    "n8": "many calcium lactates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "greenhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "greenhouse",
+    "n2": "greenhouses",
+    "n3": "the greenhouse",
+    "n4": "the greenhouses",
+    "n5": "greenhouse's",
+    "n6": "greenhouses'",
+    "n7": "a greenhouse",
+    "n8": "many greenhouses"
+}

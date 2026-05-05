@@ -1,0 +1,18 @@
+{
+    "base": "hack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hack",
+    "n2": "hacks",
+    "n3": "the hack",
+    "n4": "the hacks",
+    "n5": "hack's",
+    "n6": "hacks'",
+    "n7": "a hack",
+    "n8": "many hacks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "scrutiny",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "scrutiny",
+    "n2": "scrutinies",
+    "n3": "the scrutiny",
+    "n4": "the scrutinies",
+    "n5": "scrutiny's",
+    "n6": "scrutinies'",
+    "n7": "a scrutiny",
+    "n8": "many scrutinies"
+}

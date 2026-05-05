@@ -1,0 +1,18 @@
+{
+    "base": "ceylon",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ceylon",
+    "n2": "ceylons",
+    "n3": "the ceylon",
+    "n4": "the ceylons",
+    "n5": "ceylon's",
+    "n6": "ceylons'",
+    "n7": "a ceylon",
+    "n8": "many ceylons"
+}

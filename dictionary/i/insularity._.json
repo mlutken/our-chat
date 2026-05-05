@@ -1,0 +1,18 @@
+{
+    "base": "insularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insularity",
+    "n2": "insularities",
+    "n3": "the insularity",
+    "n4": "the insularities",
+    "n5": "insularity's",
+    "n6": "insularities'",
+    "n7": "an insularity",
+    "n8": "many insularities"
+}

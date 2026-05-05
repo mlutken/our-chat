@@ -1,0 +1,18 @@
+{
+    "base": "crux of the matter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crux of the matter",
+    "n2": "crux of the matters",
+    "n3": "the crux of the matter",
+    "n4": "the crux of the matters",
+    "n5": "crux of the matter's",
+    "n6": "crux of the matters'",
+    "n7": "a crux of the matter",
+    "n8": "many crux of the matters"
+}

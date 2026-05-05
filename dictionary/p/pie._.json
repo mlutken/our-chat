@@ -7,5 +7,12 @@
     "n2": "pies",
     "n3": "the pie",
     "n4": "the pies",
-    "n5": "pie's"
+    "n5": "pie's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "pies'",
+    "n7": "a pie",
+    "n8": "many pies"
 }

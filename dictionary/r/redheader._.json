@@ -1,0 +1,18 @@
+{
+    "base": "redheader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "redheader",
+    "n2": "redheaders",
+    "n3": "the redheader",
+    "n4": "the redheaders",
+    "n5": "redheader's",
+    "n6": "redheaders'",
+    "n7": "a redheader",
+    "n8": "many redheaders"
+}

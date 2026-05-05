@@ -1,0 +1,18 @@
+{
+    "base": "harvest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "harvest",
+    "n2": "harvests",
+    "n3": "the harvest",
+    "n4": "the harvests",
+    "n5": "harvest's",
+    "n6": "harvests'",
+    "n7": "a harvest",
+    "n8": "many harvests"
+}

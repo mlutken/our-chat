@@ -1,0 +1,18 @@
+{
+    "base": "summation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "summation",
+    "n2": "summations",
+    "n3": "the summation",
+    "n4": "the summations",
+    "n5": "summation's",
+    "n6": "summations'",
+    "n7": "a summation",
+    "n8": "many summations"
+}

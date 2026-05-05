@@ -1,0 +1,18 @@
+{
+    "base": "contest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "contest",
+    "n2": "contests",
+    "n3": "the contest",
+    "n4": "the contests",
+    "n5": "contest's",
+    "n6": "contests'",
+    "n7": "a contest",
+    "n8": "many contests"
+}

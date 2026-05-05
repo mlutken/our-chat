@@ -1,0 +1,18 @@
+{
+    "base": "trial and error",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trial and error",
+    "n2": "trial and errors",
+    "n3": "the trial and error",
+    "n4": "the trial and errors",
+    "n5": "trial and error's",
+    "n6": "trial and errors'",
+    "n7": "a trial and error",
+    "n8": "many trial and errors"
+}

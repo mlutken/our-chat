@@ -1,0 +1,18 @@
+{
+    "base": "catcher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "catcher",
+    "n2": "catchers",
+    "n3": "the catcher",
+    "n4": "the catchers",
+    "n5": "catcher's",
+    "n6": "catchers'",
+    "n7": "a catcher",
+    "n8": "many catchers"
+}

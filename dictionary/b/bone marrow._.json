@@ -1,0 +1,18 @@
+{
+    "base": "bone marrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bone marrow",
+    "n2": "bone marrows",
+    "n3": "the bone marrow",
+    "n4": "the bone marrows",
+    "n5": "bone marrow's",
+    "n6": "bone marrows'",
+    "n7": "a bone marrow",
+    "n8": "many bone marrows"
+}

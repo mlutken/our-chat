@@ -1,0 +1,18 @@
+{
+    "base": "attacker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "attacker",
+    "n2": "attackers",
+    "n3": "the attacker",
+    "n4": "the attackers",
+    "n5": "attacker's",
+    "n6": "attackers'",
+    "n7": "an attacker",
+    "n8": "many attackers"
+}

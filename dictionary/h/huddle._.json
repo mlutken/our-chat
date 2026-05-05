@@ -1,0 +1,18 @@
+{
+    "base": "huddle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "huddle",
+    "n2": "huddles",
+    "n3": "the huddle",
+    "n4": "the huddles",
+    "n5": "huddle's",
+    "n6": "huddles'",
+    "n7": "a huddle",
+    "n8": "many huddles"
+}

@@ -7,5 +7,12 @@
     "n2": "proposals",
     "n3": "the proposal",
     "n4": "the proposals",
-    "n5": "proposal's"
+    "n5": "proposal's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "proposals'",
+    "n7": "a proposal",
+    "n8": "many proposals"
 }

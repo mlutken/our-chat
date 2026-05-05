@@ -7,5 +7,12 @@
     "n2": "characters",
     "n3": "the character",
     "n4": "the characters",
-    "n5": "character's"
+    "n5": "character's",
+    "proper": false,
+    "commonness": 54,
+    "max_commonness": 6834,
+    "commonness_ge_count": 294,
+    "n6": "characters'",
+    "n7": "a character",
+    "n8": "many characters"
 }

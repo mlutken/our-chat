@@ -1,0 +1,18 @@
+{
+    "base": "tackle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tackle",
+    "n2": "tackles",
+    "n3": "the tackle",
+    "n4": "the tackles",
+    "n5": "tackle's",
+    "n6": "tackles'",
+    "n7": "a tackle",
+    "n8": "many tackles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "salish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "salish",
+    "n2": "salishes",
+    "n3": "the salish",
+    "n4": "the salishes",
+    "n5": "salish's",
+    "n6": "salishes'",
+    "n7": "a salish",
+    "n8": "many salishes"
+}

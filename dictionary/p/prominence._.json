@@ -1,0 +1,18 @@
+{
+    "base": "prominence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "prominence",
+    "n2": "prominences",
+    "n3": "the prominence",
+    "n4": "the prominences",
+    "n5": "prominence's",
+    "n6": "prominences'",
+    "n7": "a prominence",
+    "n8": "many prominences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rapidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rapidity",
+    "n2": "rapidities",
+    "n3": "the rapidity",
+    "n4": "the rapidities",
+    "n5": "rapidity's",
+    "n6": "rapidities'",
+    "n7": "a rapidity",
+    "n8": "many rapidities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "champion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "champion",
+    "n2": "champions",
+    "n3": "the champion",
+    "n4": "the champions",
+    "n5": "champion's",
+    "n6": "champions'",
+    "n7": "a champion",
+    "n8": "many champions"
+}

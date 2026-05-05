@@ -1,0 +1,18 @@
+{
+    "base": "circle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "circle",
+    "n2": "circles",
+    "n3": "the circle",
+    "n4": "the circles",
+    "n5": "circle's",
+    "n6": "circles'",
+    "n7": "a circle",
+    "n8": "many circles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "readjustment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "readjustment",
+    "n2": "readjustments",
+    "n3": "the readjustment",
+    "n4": "the readjustments",
+    "n5": "readjustment's",
+    "n6": "readjustments'",
+    "n7": "a readjustment",
+    "n8": "many readjustments"
+}

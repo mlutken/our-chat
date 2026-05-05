@@ -1,0 +1,18 @@
+{
+    "base": "fingernail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fingernail",
+    "n2": "fingernails",
+    "n3": "the fingernail",
+    "n4": "the fingernails",
+    "n5": "fingernail's",
+    "n6": "fingernails'",
+    "n7": "a fingernail",
+    "n8": "many fingernails"
+}

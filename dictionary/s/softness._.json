@@ -1,0 +1,18 @@
+{
+    "base": "softness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "softness",
+    "n2": "softnesses",
+    "n3": "the softness",
+    "n4": "the softnesses",
+    "n5": "softness'",
+    "n6": "softnesses'",
+    "n7": "a softness",
+    "n8": "many softnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "foundry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foundry",
+    "n2": "foundries",
+    "n3": "the foundry",
+    "n4": "the foundries",
+    "n5": "foundry's",
+    "n6": "foundries'",
+    "n7": "a foundry",
+    "n8": "many foundries"
+}

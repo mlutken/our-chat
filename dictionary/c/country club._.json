@@ -1,0 +1,18 @@
+{
+    "base": "country club",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "country club",
+    "n2": "country clubs",
+    "n3": "the country club",
+    "n4": "the country clubs",
+    "n5": "country club's",
+    "n6": "country clubs'",
+    "n7": "a country club",
+    "n8": "many country clubs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "analyzer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "analyzer",
+    "n2": "analyzers",
+    "n3": "the analyzer",
+    "n4": "the analyzers",
+    "n5": "analyzer's",
+    "n6": "analyzers'",
+    "n7": "an analyzer",
+    "n8": "many analyzers"
+}

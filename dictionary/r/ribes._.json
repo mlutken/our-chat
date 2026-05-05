@@ -1,0 +1,18 @@
+{
+    "base": "ribes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ribes",
+    "n2": "ribeses",
+    "n3": "the ribes",
+    "n4": "the ribeses",
+    "n5": "ribes'",
+    "n6": "ribeses'",
+    "n7": "a ribes",
+    "n8": "many ribeses"
+}

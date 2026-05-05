@@ -1,8 +1,21 @@
 {
     "base": "lots",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "lots",
-    "adv_subtype": "degree"
+    "adv_subtype": "degree",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "lots",
+    "n2": "lotses",
+    "n3": "the lots",
+    "n4": "the lotses",
+    "n5": "lots'",
+    "n6": "lotses'",
+    "n7": "a lots",
+    "n8": "many lotses"
 }

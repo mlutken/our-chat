@@ -1,0 +1,18 @@
+{
+    "base": "tilth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tilth",
+    "n2": "tilths",
+    "n3": "the tilth",
+    "n4": "the tilths",
+    "n5": "tilth's",
+    "n6": "tilths'",
+    "n7": "a tilth",
+    "n8": "many tilths"
+}

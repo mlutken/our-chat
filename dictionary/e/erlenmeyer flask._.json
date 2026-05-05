@@ -1,0 +1,18 @@
+{
+    "base": "erlenmeyer flask",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "erlenmeyer flask",
+    "n2": "erlenmeyer flasks",
+    "n3": "the erlenmeyer flask",
+    "n4": "the erlenmeyer flasks",
+    "n5": "erlenmeyer flask's",
+    "n6": "erlenmeyer flasks'",
+    "n7": "an erlenmeyer flask",
+    "n8": "many erlenmeyer flasks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "laying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "laying",
+    "n2": "layings",
+    "n3": "the laying",
+    "n4": "the layings",
+    "n5": "laying's",
+    "n6": "layings'",
+    "n7": "a laying",
+    "n8": "many layings"
+}

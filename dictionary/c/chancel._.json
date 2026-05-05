@@ -1,0 +1,18 @@
+{
+    "base": "chancel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chancel",
+    "n2": "chancels",
+    "n3": "the chancel",
+    "n4": "the chancels",
+    "n5": "chancel's",
+    "n6": "chancels'",
+    "n7": "a chancel",
+    "n8": "many chancels"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "unification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unification",
+    "n2": "unifications",
+    "n3": "the unification",
+    "n4": "the unifications",
+    "n5": "unification's",
+    "n6": "unifications'",
+    "n7": "a unification",
+    "n8": "many unifications"
+}

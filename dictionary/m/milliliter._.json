@@ -1,0 +1,18 @@
+{
+    "base": "milliliter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "milliliter",
+    "n2": "milliliters",
+    "n3": "the milliliter",
+    "n4": "the milliliters",
+    "n5": "milliliter's",
+    "n6": "milliliters'",
+    "n7": "a milliliter",
+    "n8": "many milliliters"
+}

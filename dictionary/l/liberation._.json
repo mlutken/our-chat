@@ -1,0 +1,18 @@
+{
+    "base": "liberation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liberation",
+    "n2": "liberations",
+    "n3": "the liberation",
+    "n4": "the liberations",
+    "n5": "liberation's",
+    "n6": "liberations'",
+    "n7": "a liberation",
+    "n8": "many liberations"
+}

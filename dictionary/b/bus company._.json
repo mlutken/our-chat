@@ -1,0 +1,18 @@
+{
+    "base": "bus company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bus company",
+    "n2": "bus companies",
+    "n3": "the bus company",
+    "n4": "the bus companies",
+    "n5": "bus company's",
+    "n6": "bus companies'",
+    "n7": "a bus company",
+    "n8": "many bus companies"
+}

@@ -1,11 +1,24 @@
 {
     "base": "waste",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "waste",
     "v2": "wasted",
     "v3": "wasted",
     "v4": "wasting",
-    "v5": "wastes"
+    "v5": "wastes",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "waste",
+    "n2": "wastes",
+    "n3": "the waste",
+    "n4": "the wastes",
+    "n5": "waste's",
+    "n6": "wastes'",
+    "n7": "a waste",
+    "n8": "many wastes"
 }

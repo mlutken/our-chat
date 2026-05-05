@@ -1,0 +1,18 @@
+{
+    "base": "law of nature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "law of nature",
+    "n2": "law of natures",
+    "n3": "the law of nature",
+    "n4": "the law of natures",
+    "n5": "law of nature's",
+    "n6": "law of natures'",
+    "n7": "a law of nature",
+    "n8": "many law of natures"
+}

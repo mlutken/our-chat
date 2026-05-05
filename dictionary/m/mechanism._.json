@@ -1,0 +1,18 @@
+{
+    "base": "mechanism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "mechanism",
+    "n2": "mechanisms",
+    "n3": "the mechanism",
+    "n4": "the mechanisms",
+    "n5": "mechanism's",
+    "n6": "mechanisms'",
+    "n7": "a mechanism",
+    "n8": "many mechanisms"
+}

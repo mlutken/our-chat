@@ -1,0 +1,18 @@
+{
+    "base": "original",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "original",
+    "n2": "originals",
+    "n3": "the original",
+    "n4": "the originals",
+    "n5": "original's",
+    "n6": "originals'",
+    "n7": "an original",
+    "n8": "many originals"
+}

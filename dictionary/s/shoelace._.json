@@ -1,0 +1,18 @@
+{
+    "base": "shoelace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoelace",
+    "n2": "shoelaces",
+    "n3": "the shoelace",
+    "n4": "the shoelaces",
+    "n5": "shoelace's",
+    "n6": "shoelaces'",
+    "n7": "a shoelace",
+    "n8": "many shoelaces"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "new orleans",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "new orleans",
+    "n2": "new orleanses",
+    "n3": "the new orleans",
+    "n4": "the new orleanses",
+    "n5": "new orleans'",
+    "n6": "new orleanses'",
+    "n7": "a new orleans",
+    "n8": "many new orleanses"
+}

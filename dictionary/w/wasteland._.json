@@ -1,0 +1,18 @@
+{
+    "base": "wasteland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wasteland",
+    "n2": "wastelands",
+    "n3": "the wasteland",
+    "n4": "the wastelands",
+    "n5": "wasteland's",
+    "n6": "wastelands'",
+    "n7": "a wasteland",
+    "n8": "many wastelands"
+}

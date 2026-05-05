@@ -1,0 +1,18 @@
+{
+    "base": "headgear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "headgear",
+    "n2": "headgears",
+    "n3": "the headgear",
+    "n4": "the headgears",
+    "n5": "headgear's",
+    "n6": "headgears'",
+    "n7": "a headgear",
+    "n8": "many headgears"
+}

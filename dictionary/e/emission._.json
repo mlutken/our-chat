@@ -1,0 +1,18 @@
+{
+    "base": "emission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "emission",
+    "n2": "emissions",
+    "n3": "the emission",
+    "n4": "the emissions",
+    "n5": "emission's",
+    "n6": "emissions'",
+    "n7": "an emission",
+    "n8": "many emissions"
+}

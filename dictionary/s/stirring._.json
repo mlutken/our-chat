@@ -1,0 +1,18 @@
+{
+    "base": "stirring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stirring",
+    "n2": "stirrings",
+    "n3": "the stirring",
+    "n4": "the stirrings",
+    "n5": "stirring's",
+    "n6": "stirrings'",
+    "n7": "a stirring",
+    "n8": "many stirrings"
+}

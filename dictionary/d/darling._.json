@@ -1,0 +1,18 @@
+{
+    "base": "darling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "darling",
+    "n2": "darlings",
+    "n3": "the darling",
+    "n4": "the darlings",
+    "n5": "darling's",
+    "n6": "darlings'",
+    "n7": "a darling",
+    "n8": "many darlings"
+}

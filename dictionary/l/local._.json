@@ -1,0 +1,18 @@
+{
+    "base": "local",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "local",
+    "n2": "locals",
+    "n3": "the local",
+    "n4": "the locals",
+    "n5": "local's",
+    "n6": "locals'",
+    "n7": "a local",
+    "n8": "many locals"
+}

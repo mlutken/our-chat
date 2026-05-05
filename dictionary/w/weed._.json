@@ -1,0 +1,18 @@
+{
+    "base": "weed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "weed",
+    "n2": "weeds",
+    "n3": "the weed",
+    "n4": "the weeds",
+    "n5": "weed's",
+    "n6": "weeds'",
+    "n7": "a weed",
+    "n8": "many weeds"
+}

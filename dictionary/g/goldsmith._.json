@@ -1,0 +1,18 @@
+{
+    "base": "goldsmith",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "goldsmith",
+    "n2": "goldsmiths",
+    "n3": "the goldsmith",
+    "n4": "the goldsmiths",
+    "n5": "goldsmith's",
+    "n6": "goldsmiths'",
+    "n7": "a goldsmith",
+    "n8": "many goldsmiths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "news show",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "news show",
+    "n2": "news shows",
+    "n3": "the news show",
+    "n4": "the news shows",
+    "n5": "news show's",
+    "n6": "news shows'",
+    "n7": "a news show",
+    "n8": "many news shows"
+}

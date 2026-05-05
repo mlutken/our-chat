@@ -7,5 +7,12 @@
     "n2": "losses",
     "n3": "the loss",
     "n4": "the losses",
-    "n5": "loss's"
+    "n5": "loss'",
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n6": "losses'",
+    "n7": "a loss",
+    "n8": "many losses"
 }

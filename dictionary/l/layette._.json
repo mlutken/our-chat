@@ -1,0 +1,18 @@
+{
+    "base": "layette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "layette",
+    "n2": "layettes",
+    "n3": "the layette",
+    "n4": "the layettes",
+    "n5": "layette's",
+    "n6": "layettes'",
+    "n7": "a layette",
+    "n8": "many layettes"
+}

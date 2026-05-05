@@ -1,0 +1,18 @@
+{
+    "base": "butt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "butt",
+    "n2": "butts",
+    "n3": "the butt",
+    "n4": "the butts",
+    "n5": "butt's",
+    "n6": "butts'",
+    "n7": "a butt",
+    "n8": "many butts"
+}

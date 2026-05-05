@@ -1,0 +1,18 @@
+{
+    "base": "cinch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cinch",
+    "n2": "cinches",
+    "n3": "the cinch",
+    "n4": "the cinches",
+    "n5": "cinch's",
+    "n6": "cinches'",
+    "n7": "a cinch",
+    "n8": "many cinches"
+}

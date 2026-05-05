@@ -1,0 +1,18 @@
+{
+    "base": "rod",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rod",
+    "n2": "rods",
+    "n3": "the rod",
+    "n4": "the rods",
+    "n5": "rod's",
+    "n6": "rods'",
+    "n7": "a rod",
+    "n8": "many rods"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pillar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pillar",
+    "n2": "pillars",
+    "n3": "the pillar",
+    "n4": "the pillars",
+    "n5": "pillar's",
+    "n6": "pillars'",
+    "n7": "a pillar",
+    "n8": "many pillars"
+}

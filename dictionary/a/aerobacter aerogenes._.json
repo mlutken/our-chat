@@ -1,0 +1,18 @@
+{
+    "base": "aerobacter aerogenes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aerobacter aerogenes",
+    "n2": "aerobacter aerogeneses",
+    "n3": "the aerobacter aerogenes",
+    "n4": "the aerobacter aerogeneses",
+    "n5": "aerobacter aerogenes'",
+    "n6": "aerobacter aerogeneses'",
+    "n7": "an aerobacter aerogenes",
+    "n8": "many aerobacter aerogeneses"
+}

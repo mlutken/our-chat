@@ -1,0 +1,18 @@
+{
+    "base": "barnful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barnful",
+    "n2": "barnfuls",
+    "n3": "the barnful",
+    "n4": "the barnfuls",
+    "n5": "barnful's",
+    "n6": "barnfuls'",
+    "n7": "a barnful",
+    "n8": "many barnfuls"
+}

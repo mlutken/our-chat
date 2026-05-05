@@ -1,0 +1,18 @@
+{
+    "base": "saturn",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "saturn",
+    "n2": "saturns",
+    "n3": "the saturn",
+    "n4": "the saturns",
+    "n5": "saturn's",
+    "n6": "saturns'",
+    "n7": "a saturn",
+    "n8": "many saturns"
+}

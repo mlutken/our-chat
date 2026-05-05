@@ -1,0 +1,18 @@
+{
+    "base": "songwriter",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "songwriter",
+    "n2": "songwriters",
+    "n3": "the songwriter",
+    "n4": "the songwriters",
+    "n5": "songwriter's",
+    "n6": "songwriters'",
+    "n7": "a songwriter",
+    "n8": "many songwriters"
+}

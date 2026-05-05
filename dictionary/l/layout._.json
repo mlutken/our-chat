@@ -1,0 +1,18 @@
+{
+    "base": "layout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "layout",
+    "n2": "layouts",
+    "n3": "the layout",
+    "n4": "the layouts",
+    "n5": "layout's",
+    "n6": "layouts'",
+    "n7": "a layout",
+    "n8": "many layouts"
+}

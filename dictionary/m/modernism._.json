@@ -1,0 +1,18 @@
+{
+    "base": "modernism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "modernism",
+    "n2": "modernisms",
+    "n3": "the modernism",
+    "n4": "the modernisms",
+    "n5": "modernism's",
+    "n6": "modernisms'",
+    "n7": "a modernism",
+    "n8": "many modernisms"
+}

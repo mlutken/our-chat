@@ -1,0 +1,18 @@
+{
+    "base": "monsieur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monsieur",
+    "n2": "messieurs",
+    "n3": "the monsieur",
+    "n4": "the messieurs",
+    "n5": "monsieur's",
+    "n6": "messieurs'",
+    "n7": "a monsieur",
+    "n8": "many messieurs"
+}

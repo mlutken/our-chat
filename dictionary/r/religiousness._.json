@@ -1,0 +1,18 @@
+{
+    "base": "religiousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "religiousness",
+    "n2": "religiousnesses",
+    "n3": "the religiousness",
+    "n4": "the religiousnesses",
+    "n5": "religiousness'",
+    "n6": "religiousnesses'",
+    "n7": "a religiousness",
+    "n8": "many religiousnesses"
+}

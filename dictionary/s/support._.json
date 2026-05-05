@@ -1,11 +1,24 @@
 {
     "base": "support",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "support",
     "v2": "supported",
     "v3": "supported",
     "v4": "supporting",
-    "v5": "supports"
+    "v5": "supports",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n1": "support",
+    "n2": "supports",
+    "n3": "the support",
+    "n4": "the supports",
+    "n5": "support's",
+    "n6": "supports'",
+    "n7": "a support",
+    "n8": "many supports"
 }

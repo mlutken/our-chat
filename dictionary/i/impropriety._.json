@@ -1,0 +1,18 @@
+{
+    "base": "impropriety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impropriety",
+    "n2": "improprieties",
+    "n3": "the impropriety",
+    "n4": "the improprieties",
+    "n5": "impropriety's",
+    "n6": "improprieties'",
+    "n7": "an impropriety",
+    "n8": "many improprieties"
+}

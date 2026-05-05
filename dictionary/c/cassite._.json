@@ -1,0 +1,18 @@
+{
+    "base": "cassite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cassite",
+    "n2": "cassites",
+    "n3": "the cassite",
+    "n4": "the cassites",
+    "n5": "cassite's",
+    "n6": "cassites'",
+    "n7": "a cassite",
+    "n8": "many cassites"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "revetment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "revetment",
+    "n2": "revetments",
+    "n3": "the revetment",
+    "n4": "the revetments",
+    "n5": "revetment's",
+    "n6": "revetments'",
+    "n7": "a revetment",
+    "n8": "many revetments"
+}

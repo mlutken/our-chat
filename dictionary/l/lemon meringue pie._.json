@@ -1,0 +1,18 @@
+{
+    "base": "lemon meringue pie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lemon meringue pie",
+    "n2": "lemon meringue pies",
+    "n3": "the lemon meringue pie",
+    "n4": "the lemon meringue pies",
+    "n5": "lemon meringue pie's",
+    "n6": "lemon meringue pies'",
+    "n7": "a lemon meringue pie",
+    "n8": "many lemon meringue pies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "crackle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "crackle",
+    "n2": "crackles",
+    "n3": "the crackle",
+    "n4": "the crackles",
+    "n5": "crackle's",
+    "n6": "crackles'",
+    "n7": "a crackle",
+    "n8": "many crackles"
+}

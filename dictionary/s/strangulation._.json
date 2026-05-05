@@ -1,0 +1,18 @@
+{
+    "base": "strangulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "strangulation",
+    "n2": "strangulations",
+    "n3": "the strangulation",
+    "n4": "the strangulations",
+    "n5": "strangulation's",
+    "n6": "strangulations'",
+    "n7": "a strangulation",
+    "n8": "many strangulations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dandelion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dandelion",
+    "n2": "dandelions",
+    "n3": "the dandelion",
+    "n4": "the dandelions",
+    "n5": "dandelion's",
+    "n6": "dandelions'",
+    "n7": "a dandelion",
+    "n8": "many dandelions"
+}

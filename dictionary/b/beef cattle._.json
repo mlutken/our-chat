@@ -1,0 +1,18 @@
+{
+    "base": "beef cattle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "beef cattle",
+    "n2": "beef cattles",
+    "n3": "the beef cattle",
+    "n4": "the beef cattles",
+    "n5": "beef cattle's",
+    "n6": "beef cattles'",
+    "n7": "a beef cattle",
+    "n8": "many beef cattles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "grain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "grain",
+    "n2": "grains",
+    "n3": "the grain",
+    "n4": "the grains",
+    "n5": "grain's",
+    "n6": "grains'",
+    "n7": "a grain",
+    "n8": "many grains"
+}

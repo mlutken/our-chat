@@ -1,0 +1,18 @@
+{
+    "base": "losses",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "losses",
+    "n2": "losseses",
+    "n3": "the losses",
+    "n4": "the losseses",
+    "n5": "losses'",
+    "n6": "losseses'",
+    "n7": "a losses",
+    "n8": "many losseses"
+}

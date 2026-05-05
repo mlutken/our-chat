@@ -1,0 +1,18 @@
+{
+    "base": "folklore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "folklore",
+    "n2": "folklores",
+    "n3": "the folklore",
+    "n4": "the folklores",
+    "n5": "folklore's",
+    "n6": "folklores'",
+    "n7": "a folklore",
+    "n8": "many folklores"
+}

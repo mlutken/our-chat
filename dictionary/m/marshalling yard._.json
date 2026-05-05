@@ -1,0 +1,18 @@
+{
+    "base": "marshalling yard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marshalling yard",
+    "n2": "marshalling yards",
+    "n3": "the marshalling yard",
+    "n4": "the marshalling yards",
+    "n5": "marshalling yard's",
+    "n6": "marshalling yards'",
+    "n7": "a marshalling yard",
+    "n8": "many marshalling yards"
+}

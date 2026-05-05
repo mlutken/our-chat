@@ -1,0 +1,18 @@
+{
+    "base": "chain store",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chain store",
+    "n2": "chain stores",
+    "n3": "the chain store",
+    "n4": "the chain stores",
+    "n5": "chain store's",
+    "n6": "chain stores'",
+    "n7": "a chain store",
+    "n8": "many chain stores"
+}

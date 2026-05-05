@@ -1,0 +1,18 @@
+{
+    "base": "ad campaign",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ad campaign",
+    "n2": "ad campaigns",
+    "n3": "the ad campaign",
+    "n4": "the ad campaigns",
+    "n5": "ad campaign's",
+    "n6": "ad campaigns'",
+    "n7": "an ad campaign",
+    "n8": "many ad campaigns"
+}

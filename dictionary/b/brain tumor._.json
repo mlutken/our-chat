@@ -1,0 +1,18 @@
+{
+    "base": "brain tumor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brain tumor",
+    "n2": "brain tumors",
+    "n3": "the brain tumor",
+    "n4": "the brain tumors",
+    "n5": "brain tumor's",
+    "n6": "brain tumors'",
+    "n7": "a brain tumor",
+    "n8": "many brain tumors"
+}

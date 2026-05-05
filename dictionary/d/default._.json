@@ -1,0 +1,18 @@
+{
+    "base": "default",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "default",
+    "n2": "defaults",
+    "n3": "the default",
+    "n4": "the defaults",
+    "n5": "default's",
+    "n6": "defaults'",
+    "n7": "a default",
+    "n8": "many defaults"
+}

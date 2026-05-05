@@ -1,0 +1,18 @@
+{
+    "base": "bank account",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bank account",
+    "n2": "bank accounts",
+    "n3": "the bank account",
+    "n4": "the bank accounts",
+    "n5": "bank account's",
+    "n6": "bank accounts'",
+    "n7": "a bank account",
+    "n8": "many bank accounts"
+}

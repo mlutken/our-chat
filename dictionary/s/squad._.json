@@ -1,0 +1,18 @@
+{
+    "base": "squad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "squad",
+    "n2": "squads",
+    "n3": "the squad",
+    "n4": "the squads",
+    "n5": "squad's",
+    "n6": "squads'",
+    "n7": "a squad",
+    "n8": "many squads"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "plowshare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plowshare",
+    "n2": "plowshares",
+    "n3": "the plowshare",
+    "n4": "the plowshares",
+    "n5": "plowshare's",
+    "n6": "plowshares'",
+    "n7": "a plowshare",
+    "n8": "many plowshares"
+}

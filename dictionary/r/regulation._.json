@@ -7,5 +7,12 @@
     "n2": "regulations",
     "n3": "the regulation",
     "n4": "the regulations",
-    "n5": "regulation's"
+    "n5": "regulation's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "regulations'",
+    "n7": "a regulation",
+    "n8": "many regulations"
 }

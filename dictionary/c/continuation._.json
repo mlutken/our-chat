@@ -1,0 +1,18 @@
+{
+    "base": "continuation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "continuation",
+    "n2": "continuations",
+    "n3": "the continuation",
+    "n4": "the continuations",
+    "n5": "continuation's",
+    "n6": "continuations'",
+    "n7": "a continuation",
+    "n8": "many continuations"
+}

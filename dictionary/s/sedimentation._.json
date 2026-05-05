@@ -1,0 +1,18 @@
+{
+    "base": "sedimentation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sedimentation",
+    "n2": "sedimentations",
+    "n3": "the sedimentation",
+    "n4": "the sedimentations",
+    "n5": "sedimentation's",
+    "n6": "sedimentations'",
+    "n7": "a sedimentation",
+    "n8": "many sedimentations"
+}

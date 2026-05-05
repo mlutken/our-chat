@@ -1,0 +1,18 @@
+{
+    "base": "helping hand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "helping hand",
+    "n2": "helping hands",
+    "n3": "the helping hand",
+    "n4": "the helping hands",
+    "n5": "helping hand's",
+    "n6": "helping hands'",
+    "n7": "a helping hand",
+    "n8": "many helping hands"
+}

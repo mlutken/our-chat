@@ -1,0 +1,18 @@
+{
+    "base": "pounding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pounding",
+    "n2": "poundings",
+    "n3": "the pounding",
+    "n4": "the poundings",
+    "n5": "pounding's",
+    "n6": "poundings'",
+    "n7": "a pounding",
+    "n8": "many poundings"
+}

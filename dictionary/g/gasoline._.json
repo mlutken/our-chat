@@ -1,0 +1,18 @@
+{
+    "base": "gasoline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gasoline",
+    "n2": "gasolines",
+    "n3": "the gasoline",
+    "n4": "the gasolines",
+    "n5": "gasoline's",
+    "n6": "gasolines'",
+    "n7": "a gasoline",
+    "n8": "many gasolines"
+}

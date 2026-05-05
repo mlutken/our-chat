@@ -1,0 +1,18 @@
+{
+    "base": "church roll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "church roll",
+    "n2": "church rolls",
+    "n3": "the church roll",
+    "n4": "the church rolls",
+    "n5": "church roll's",
+    "n6": "church rolls'",
+    "n7": "a church roll",
+    "n8": "many church rolls"
+}

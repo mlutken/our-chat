@@ -7,5 +7,12 @@
     "n2": "stores",
     "n3": "the store",
     "n4": "the stores",
-    "n5": "store's"
+    "n5": "store's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "stores'",
+    "n7": "a store",
+    "n8": "many stores"
 }

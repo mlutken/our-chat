@@ -1,0 +1,18 @@
+{
+    "base": "small town",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "small town",
+    "n2": "small towns",
+    "n3": "the small town",
+    "n4": "the small towns",
+    "n5": "small town's",
+    "n6": "small towns'",
+    "n7": "a small town",
+    "n8": "many small towns"
+}

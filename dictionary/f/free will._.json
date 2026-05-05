@@ -1,0 +1,18 @@
+{
+    "base": "free will",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "free will",
+    "n2": "free wills",
+    "n3": "the free will",
+    "n4": "the free wills",
+    "n5": "free will's",
+    "n6": "free wills'",
+    "n7": "a free will",
+    "n8": "many free wills"
+}

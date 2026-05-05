@@ -1,0 +1,18 @@
+{
+    "base": "gastronomy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gastronomy",
+    "n2": "gastronomies",
+    "n3": "the gastronomy",
+    "n4": "the gastronomies",
+    "n5": "gastronomy's",
+    "n6": "gastronomies'",
+    "n7": "a gastronomy",
+    "n8": "many gastronomies"
+}

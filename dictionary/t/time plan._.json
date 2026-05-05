@@ -1,0 +1,18 @@
+{
+    "base": "time plan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "time plan",
+    "n2": "time plans",
+    "n3": "the time plan",
+    "n4": "the time plans",
+    "n5": "time plan's",
+    "n6": "time plans'",
+    "n7": "a time plan",
+    "n8": "many time plans"
+}

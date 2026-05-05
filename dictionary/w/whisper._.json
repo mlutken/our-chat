@@ -1,11 +1,24 @@
 {
     "base": "whisper",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "whisper",
     "v2": "whispered",
     "v3": "whispered",
     "v4": "whispering",
-    "v5": "whispers"
+    "v5": "whispers",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "whisper",
+    "n2": "whispers",
+    "n3": "the whisper",
+    "n4": "the whispers",
+    "n5": "whisper's",
+    "n6": "whispers'",
+    "n7": "a whisper",
+    "n8": "many whispers"
 }

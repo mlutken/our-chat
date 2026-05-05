@@ -1,0 +1,18 @@
+{
+    "base": "the netherlands",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "the netherlands",
+    "n2": "the netherlandses",
+    "n3": "the the netherlands",
+    "n4": "the the netherlandses",
+    "n5": "the netherlands'",
+    "n6": "the netherlandses'",
+    "n7": "a the netherlands",
+    "n8": "many the netherlandses"
+}

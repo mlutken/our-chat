@@ -1,11 +1,24 @@
 {
     "base": "repair",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "repair",
     "v2": "repaired",
     "v3": "repaired",
     "v4": "repairing",
-    "v5": "repairs"
+    "v5": "repairs",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "repair",
+    "n2": "repairs",
+    "n3": "the repair",
+    "n4": "the repairs",
+    "n5": "repair's",
+    "n6": "repairs'",
+    "n7": "a repair",
+    "n8": "many repairs"
 }

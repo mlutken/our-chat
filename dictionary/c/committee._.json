@@ -7,5 +7,12 @@
     "n2": "committees",
     "n3": "the committee",
     "n4": "the committees",
-    "n5": "committee's"
+    "n5": "committee's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "committees'",
+    "n7": "a committee",
+    "n8": "many committees"
 }

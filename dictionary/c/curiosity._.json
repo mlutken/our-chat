@@ -1,0 +1,18 @@
+{
+    "base": "curiosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "curiosity",
+    "n2": "curiosities",
+    "n3": "the curiosity",
+    "n4": "the curiosities",
+    "n5": "curiosity's",
+    "n6": "curiosities'",
+    "n7": "a curiosity",
+    "n8": "many curiosities"
+}

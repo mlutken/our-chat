@@ -1,0 +1,18 @@
+{
+    "base": "lecture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "lecture",
+    "n2": "lectures",
+    "n3": "the lecture",
+    "n4": "the lectures",
+    "n5": "lecture's",
+    "n6": "lectures'",
+    "n7": "a lecture",
+    "n8": "many lectures"
+}

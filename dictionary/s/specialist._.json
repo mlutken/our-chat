@@ -1,0 +1,18 @@
+{
+    "base": "specialist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "specialist",
+    "n2": "specialists",
+    "n3": "the specialist",
+    "n4": "the specialists",
+    "n5": "specialist's",
+    "n6": "specialists'",
+    "n7": "a specialist",
+    "n8": "many specialists"
+}

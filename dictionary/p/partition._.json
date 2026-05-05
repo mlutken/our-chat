@@ -1,0 +1,18 @@
+{
+    "base": "partition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "partition",
+    "n2": "partitions",
+    "n3": "the partition",
+    "n4": "the partitions",
+    "n5": "partition's",
+    "n6": "partitions'",
+    "n7": "a partition",
+    "n8": "many partitions"
+}

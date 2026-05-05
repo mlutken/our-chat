@@ -1,0 +1,18 @@
+{
+    "base": "steward",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steward",
+    "n2": "stewards",
+    "n3": "the steward",
+    "n4": "the stewards",
+    "n5": "steward's",
+    "n6": "stewards'",
+    "n7": "a steward",
+    "n8": "many stewards"
+}

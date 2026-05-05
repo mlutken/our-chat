@@ -1,0 +1,18 @@
+{
+    "base": "commercial art",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commercial art",
+    "n2": "commercial arts",
+    "n3": "the commercial art",
+    "n4": "the commercial arts",
+    "n5": "commercial art's",
+    "n6": "commercial arts'",
+    "n7": "a commercial art",
+    "n8": "many commercial arts"
+}

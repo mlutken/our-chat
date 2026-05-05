@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "aircraft",
-    "n2": "aircraft",
+    "n2": "aircrafts",
     "n3": "the aircraft",
-    "n4": "the aircraft",
-    "n5": "aircraft's"
+    "n4": "the aircrafts",
+    "n5": "aircraft's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "aircrafts'",
+    "n7": "an aircraft",
+    "n8": "many aircrafts"
 }

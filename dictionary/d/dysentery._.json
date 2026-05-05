@@ -1,0 +1,18 @@
+{
+    "base": "dysentery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dysentery",
+    "n2": "dysenteries",
+    "n3": "the dysentery",
+    "n4": "the dysenteries",
+    "n5": "dysentery's",
+    "n6": "dysenteries'",
+    "n7": "a dysentery",
+    "n8": "many dysenteries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reviewing stand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reviewing stand",
+    "n2": "reviewing stands",
+    "n3": "the reviewing stand",
+    "n4": "the reviewing stands",
+    "n5": "reviewing stand's",
+    "n6": "reviewing stands'",
+    "n7": "a reviewing stand",
+    "n8": "many reviewing stands"
+}

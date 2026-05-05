@@ -1,0 +1,18 @@
+{
+    "base": "hallmark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hallmark",
+    "n2": "hallmarks",
+    "n3": "the hallmark",
+    "n4": "the hallmarks",
+    "n5": "hallmark's",
+    "n6": "hallmarks'",
+    "n7": "a hallmark",
+    "n8": "many hallmarks"
+}

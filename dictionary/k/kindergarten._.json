@@ -1,0 +1,18 @@
+{
+    "base": "kindergarten",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kindergarten",
+    "n2": "kindergartens",
+    "n3": "the kindergarten",
+    "n4": "the kindergartens",
+    "n5": "kindergarten's",
+    "n6": "kindergartens'",
+    "n7": "a kindergarten",
+    "n8": "many kindergartens"
+}

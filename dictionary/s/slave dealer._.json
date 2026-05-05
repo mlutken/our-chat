@@ -1,0 +1,18 @@
+{
+    "base": "slave dealer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slave dealer",
+    "n2": "slave dealers",
+    "n3": "the slave dealer",
+    "n4": "the slave dealers",
+    "n5": "slave dealer's",
+    "n6": "slave dealers'",
+    "n7": "a slave dealer",
+    "n8": "many slave dealers"
+}

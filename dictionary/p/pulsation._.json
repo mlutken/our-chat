@@ -1,0 +1,18 @@
+{
+    "base": "pulsation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pulsation",
+    "n2": "pulsations",
+    "n3": "the pulsation",
+    "n4": "the pulsations",
+    "n5": "pulsation's",
+    "n6": "pulsations'",
+    "n7": "a pulsation",
+    "n8": "many pulsations"
+}

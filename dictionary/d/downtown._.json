@@ -1,0 +1,18 @@
+{
+    "base": "downtown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "downtown",
+    "n2": "downtowns",
+    "n3": "the downtown",
+    "n4": "the downtowns",
+    "n5": "downtown's",
+    "n6": "downtowns'",
+    "n7": "a downtown",
+    "n8": "many downtowns"
+}

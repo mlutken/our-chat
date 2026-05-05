@@ -1,0 +1,18 @@
+{
+    "base": "monomer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monomer",
+    "n2": "monomers",
+    "n3": "the monomer",
+    "n4": "the monomers",
+    "n5": "monomer's",
+    "n6": "monomers'",
+    "n7": "a monomer",
+    "n8": "many monomers"
+}

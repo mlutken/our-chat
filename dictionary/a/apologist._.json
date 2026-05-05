@@ -1,0 +1,18 @@
+{
+    "base": "apologist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "apologist",
+    "n2": "apologists",
+    "n3": "the apologist",
+    "n4": "the apologists",
+    "n5": "apologist's",
+    "n6": "apologists'",
+    "n7": "an apologist",
+    "n8": "many apologists"
+}

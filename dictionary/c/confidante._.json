@@ -1,0 +1,18 @@
+{
+    "base": "confidante",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confidante",
+    "n2": "confidantes",
+    "n3": "the confidante",
+    "n4": "the confidantes",
+    "n5": "confidante's",
+    "n6": "confidantes'",
+    "n7": "a confidante",
+    "n8": "many confidantes"
+}

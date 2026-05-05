@@ -1,0 +1,18 @@
+{
+    "base": "shoe leather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoe leather",
+    "n2": "shoe leathers",
+    "n3": "the shoe leather",
+    "n4": "the shoe leathers",
+    "n5": "shoe leather's",
+    "n6": "shoe leathers'",
+    "n7": "a shoe leather",
+    "n8": "many shoe leathers"
+}

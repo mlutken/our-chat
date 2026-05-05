@@ -1,0 +1,18 @@
+{
+    "base": "guru",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guru",
+    "n2": "gurus",
+    "n3": "the guru",
+    "n4": "the gurus",
+    "n5": "guru's",
+    "n6": "gurus'",
+    "n7": "a guru",
+    "n8": "many gurus"
+}

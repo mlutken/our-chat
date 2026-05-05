@@ -1,0 +1,18 @@
+{
+    "base": "rider",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "rider",
+    "n2": "riders",
+    "n3": "the rider",
+    "n4": "the riders",
+    "n5": "rider's",
+    "n6": "riders'",
+    "n7": "a rider",
+    "n8": "many riders"
+}

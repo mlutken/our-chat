@@ -1,0 +1,18 @@
+{
+    "base": "ruling class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ruling class",
+    "n2": "ruling classes",
+    "n3": "the ruling class",
+    "n4": "the ruling classes",
+    "n5": "ruling class'",
+    "n6": "ruling classes'",
+    "n7": "a ruling class",
+    "n8": "many ruling classes"
+}

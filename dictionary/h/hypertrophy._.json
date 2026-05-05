@@ -1,0 +1,18 @@
+{
+    "base": "hypertrophy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hypertrophy",
+    "n2": "hypertrophies",
+    "n3": "the hypertrophy",
+    "n4": "the hypertrophies",
+    "n5": "hypertrophy's",
+    "n6": "hypertrophies'",
+    "n7": "a hypertrophy",
+    "n8": "many hypertrophies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stunt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stunt",
+    "n2": "stunts",
+    "n3": "the stunt",
+    "n4": "the stunts",
+    "n5": "stunt's",
+    "n6": "stunts'",
+    "n7": "a stunt",
+    "n8": "many stunts"
+}

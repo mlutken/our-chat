@@ -1,0 +1,18 @@
+{
+    "base": "well-wishing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "well-wishing",
+    "n2": "well-wishings",
+    "n3": "the well-wishing",
+    "n4": "the well-wishings",
+    "n5": "well-wishing's",
+    "n6": "well-wishings'",
+    "n7": "a well-wishing",
+    "n8": "many well-wishings"
+}

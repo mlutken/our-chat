@@ -1,0 +1,18 @@
+{
+    "base": "memoir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "memoir",
+    "n2": "memoirs",
+    "n3": "the memoir",
+    "n4": "the memoirs",
+    "n5": "memoir's",
+    "n6": "memoirs'",
+    "n7": "a memoir",
+    "n8": "many memoirs"
+}

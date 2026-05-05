@@ -1,0 +1,18 @@
+{
+    "base": "whiteface",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "whiteface",
+    "n2": "whitefaces",
+    "n3": "the whiteface",
+    "n4": "the whitefaces",
+    "n5": "whiteface's",
+    "n6": "whitefaces'",
+    "n7": "a whiteface",
+    "n8": "many whitefaces"
+}

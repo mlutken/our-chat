@@ -1,0 +1,18 @@
+{
+    "base": "sand dune",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sand dune",
+    "n2": "sand dunes",
+    "n3": "the sand dune",
+    "n4": "the sand dunes",
+    "n5": "sand dune's",
+    "n6": "sand dunes'",
+    "n7": "a sand dune",
+    "n8": "many sand dunes"
+}

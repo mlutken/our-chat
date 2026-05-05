@@ -1,0 +1,18 @@
+{
+    "base": "nineteen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nineteen",
+    "n2": "nineteens",
+    "n3": "the nineteen",
+    "n4": "the nineteens",
+    "n5": "nineteen's",
+    "n6": "nineteens'",
+    "n7": "a nineteen",
+    "n8": "many nineteens"
+}

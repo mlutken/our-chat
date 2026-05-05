@@ -1,0 +1,18 @@
+{
+    "base": "belt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "belt",
+    "n2": "belts",
+    "n3": "the belt",
+    "n4": "the belts",
+    "n5": "belt's",
+    "n6": "belts'",
+    "n7": "a belt",
+    "n8": "many belts"
+}

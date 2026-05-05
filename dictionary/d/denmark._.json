@@ -1,0 +1,18 @@
+{
+    "base": "denmark",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "denmark",
+    "n2": "denmarks",
+    "n3": "the denmark",
+    "n4": "the denmarks",
+    "n5": "denmark's",
+    "n6": "denmarks'",
+    "n7": "a denmark",
+    "n8": "many denmarks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "astronomical unit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "astronomical unit",
+    "n2": "astronomical units",
+    "n3": "the astronomical unit",
+    "n4": "the astronomical units",
+    "n5": "astronomical unit's",
+    "n6": "astronomical units'",
+    "n7": "an astronomical unit",
+    "n8": "many astronomical units"
+}

@@ -7,5 +7,12 @@
     "n2": "floors",
     "n3": "the floor",
     "n4": "the floors",
-    "n5": "floor's"
+    "n5": "floor's",
+    "proper": false,
+    "commonness": 60,
+    "max_commonness": 6834,
+    "commonness_ge_count": 257,
+    "n6": "floors'",
+    "n7": "a floor",
+    "n8": "many floors"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "invitation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "invitation",
+    "n2": "invitations",
+    "n3": "the invitation",
+    "n4": "the invitations",
+    "n5": "invitation's",
+    "n6": "invitations'",
+    "n7": "an invitation",
+    "n8": "many invitations"
+}

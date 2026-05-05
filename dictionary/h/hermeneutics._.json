@@ -1,0 +1,18 @@
+{
+    "base": "hermeneutics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hermeneutics",
+    "n2": "hermeneuticses",
+    "n3": "the hermeneutics",
+    "n4": "the hermeneuticses",
+    "n5": "hermeneutics'",
+    "n6": "hermeneuticses'",
+    "n7": "a hermeneutics",
+    "n8": "many hermeneuticses"
+}

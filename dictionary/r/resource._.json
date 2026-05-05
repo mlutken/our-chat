@@ -7,5 +7,12 @@
     "n2": "resources",
     "n3": "the resource",
     "n4": "the resources",
-    "n5": "resource's"
+    "n5": "resource's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "resources'",
+    "n7": "a resource",
+    "n8": "many resources"
 }

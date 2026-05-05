@@ -1,0 +1,18 @@
+{
+    "base": "popular music",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "popular music",
+    "n2": "popular musics",
+    "n3": "the popular music",
+    "n4": "the popular musics",
+    "n5": "popular music's",
+    "n6": "popular musics'",
+    "n7": "a popular music",
+    "n8": "many popular musics"
+}

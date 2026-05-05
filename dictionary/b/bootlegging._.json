@@ -1,0 +1,18 @@
+{
+    "base": "bootlegging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bootlegging",
+    "n2": "bootleggings",
+    "n3": "the bootlegging",
+    "n4": "the bootleggings",
+    "n5": "bootlegging's",
+    "n6": "bootleggings'",
+    "n7": "a bootlegging",
+    "n8": "many bootleggings"
+}

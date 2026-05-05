@@ -1,0 +1,18 @@
+{
+    "base": "takeover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "takeover",
+    "n2": "takeovers",
+    "n3": "the takeover",
+    "n4": "the takeovers",
+    "n5": "takeover's",
+    "n6": "takeovers'",
+    "n7": "a takeover",
+    "n8": "many takeovers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "interchange",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "interchange",
+    "n2": "interchanges",
+    "n3": "the interchange",
+    "n4": "the interchanges",
+    "n5": "interchange's",
+    "n6": "interchanges'",
+    "n7": "an interchange",
+    "n8": "many interchanges"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gage",
+    "n2": "gages",
+    "n3": "the gage",
+    "n4": "the gages",
+    "n5": "gage's",
+    "n6": "gages'",
+    "n7": "a gage",
+    "n8": "many gages"
+}

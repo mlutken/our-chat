@@ -1,0 +1,18 @@
+{
+    "base": "insouciance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insouciance",
+    "n2": "insouciances",
+    "n3": "the insouciance",
+    "n4": "the insouciances",
+    "n5": "insouciance's",
+    "n6": "insouciances'",
+    "n7": "an insouciance",
+    "n8": "many insouciances"
+}

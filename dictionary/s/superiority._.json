@@ -1,0 +1,18 @@
+{
+    "base": "superiority",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "superiority",
+    "n2": "superiorities",
+    "n3": "the superiority",
+    "n4": "the superiorities",
+    "n5": "superiority's",
+    "n6": "superiorities'",
+    "n7": "a superiority",
+    "n8": "many superiorities"
+}

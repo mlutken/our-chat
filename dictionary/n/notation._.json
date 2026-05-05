@@ -1,0 +1,18 @@
+{
+    "base": "notation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "notation",
+    "n2": "notations",
+    "n3": "the notation",
+    "n4": "the notations",
+    "n5": "notation's",
+    "n6": "notations'",
+    "n7": "a notation",
+    "n8": "many notations"
+}

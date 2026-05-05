@@ -1,0 +1,18 @@
+{
+    "base": "shaping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shaping",
+    "n2": "shapings",
+    "n3": "the shaping",
+    "n4": "the shapings",
+    "n5": "shaping's",
+    "n6": "shapings'",
+    "n7": "a shaping",
+    "n8": "many shapings"
+}

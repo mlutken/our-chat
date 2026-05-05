@@ -1,0 +1,18 @@
+{
+    "base": "saver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "saver",
+    "n2": "savers",
+    "n3": "the saver",
+    "n4": "the savers",
+    "n5": "saver's",
+    "n6": "savers'",
+    "n7": "a saver",
+    "n8": "many savers"
+}

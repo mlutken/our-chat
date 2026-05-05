@@ -1,0 +1,18 @@
+{
+    "base": "experimentalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "experimentalism",
+    "n2": "experimentalisms",
+    "n3": "the experimentalism",
+    "n4": "the experimentalisms",
+    "n5": "experimentalism's",
+    "n6": "experimentalisms'",
+    "n7": "an experimentalism",
+    "n8": "many experimentalisms"
+}

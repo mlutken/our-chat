@@ -1,0 +1,18 @@
+{
+    "base": "mover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "mover",
+    "n2": "movers",
+    "n3": "the mover",
+    "n4": "the movers",
+    "n5": "mover's",
+    "n6": "movers'",
+    "n7": "a mover",
+    "n8": "many movers"
+}

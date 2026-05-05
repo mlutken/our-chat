@@ -1,0 +1,18 @@
+{
+    "base": "west side",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "west side",
+    "n2": "west sides",
+    "n3": "the west side",
+    "n4": "the west sides",
+    "n5": "west side's",
+    "n6": "west sides'",
+    "n7": "a west side",
+    "n8": "many west sides"
+}

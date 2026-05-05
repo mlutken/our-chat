@@ -1,0 +1,18 @@
+{
+    "base": "egotist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "egotist",
+    "n2": "egotists",
+    "n3": "the egotist",
+    "n4": "the egotists",
+    "n5": "egotist's",
+    "n6": "egotists'",
+    "n7": "an egotist",
+    "n8": "many egotists"
+}

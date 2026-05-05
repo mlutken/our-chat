@@ -1,0 +1,18 @@
+{
+    "base": "sudanese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sudanese",
+    "n2": "sudaneses",
+    "n3": "the sudanese",
+    "n4": "the sudaneses",
+    "n5": "sudanese's",
+    "n6": "sudaneses'",
+    "n7": "a sudanese",
+    "n8": "many sudaneses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "one-half",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "one-half",
+    "n2": "one-halves",
+    "n3": "the one-half",
+    "n4": "the one-halves",
+    "n5": "one-half's",
+    "n6": "one-halves'",
+    "n7": "a one-half",
+    "n8": "many one-halves"
+}

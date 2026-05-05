@@ -1,0 +1,18 @@
+{
+    "base": "eluate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "eluate",
+    "n2": "eluates",
+    "n3": "the eluate",
+    "n4": "the eluates",
+    "n5": "eluate's",
+    "n6": "eluates'",
+    "n7": "an eluate",
+    "n8": "many eluates"
+}

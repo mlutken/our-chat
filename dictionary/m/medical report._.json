@@ -1,0 +1,18 @@
+{
+    "base": "medical report",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medical report",
+    "n2": "medical reports",
+    "n3": "the medical report",
+    "n4": "the medical reports",
+    "n5": "medical report's",
+    "n6": "medical reports'",
+    "n7": "a medical report",
+    "n8": "many medical reports"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "radio noise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "radio noise",
+    "n2": "radio noises",
+    "n3": "the radio noise",
+    "n4": "the radio noises",
+    "n5": "radio noise's",
+    "n6": "radio noises'",
+    "n7": "a radio noise",
+    "n8": "many radio noises"
+}

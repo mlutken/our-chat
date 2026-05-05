@@ -7,5 +7,12 @@
     "n2": "investments",
     "n3": "the investment",
     "n4": "the investments",
-    "n5": "investment's"
+    "n5": "investment's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "investments'",
+    "n7": "an investment",
+    "n8": "many investments"
 }

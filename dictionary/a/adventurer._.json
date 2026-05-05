@@ -1,0 +1,18 @@
+{
+    "base": "adventurer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adventurer",
+    "n2": "adventurers",
+    "n3": "the adventurer",
+    "n4": "the adventurers",
+    "n5": "adventurer's",
+    "n6": "adventurers'",
+    "n7": "an adventurer",
+    "n8": "many adventurers"
+}

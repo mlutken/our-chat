@@ -1,0 +1,18 @@
+{
+    "base": "term of office",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "term of office",
+    "n2": "term of offices",
+    "n3": "the term of office",
+    "n4": "the term of offices",
+    "n5": "term of office's",
+    "n6": "term of offices'",
+    "n7": "a term of office",
+    "n8": "many term of offices"
+}

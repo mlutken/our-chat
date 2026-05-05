@@ -7,5 +7,12 @@
     "n2": "displays",
     "n3": "the display",
     "n4": "the displays",
-    "n5": "display's"
+    "n5": "display's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "displays'",
+    "n7": "a display",
+    "n8": "many displays"
 }

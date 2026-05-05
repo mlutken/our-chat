@@ -1,0 +1,18 @@
+{
+    "base": "philippic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "philippic",
+    "n2": "philippics",
+    "n3": "the philippic",
+    "n4": "the philippics",
+    "n5": "philippic's",
+    "n6": "philippics'",
+    "n7": "a philippic",
+    "n8": "many philippics"
+}

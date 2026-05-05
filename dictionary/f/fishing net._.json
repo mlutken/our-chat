@@ -1,0 +1,18 @@
+{
+    "base": "fishing net",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fishing net",
+    "n2": "fishing nets",
+    "n3": "the fishing net",
+    "n4": "the fishing nets",
+    "n5": "fishing net's",
+    "n6": "fishing nets'",
+    "n7": "a fishing net",
+    "n8": "many fishing nets"
+}

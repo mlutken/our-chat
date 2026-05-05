@@ -7,5 +7,12 @@
     "n2": "commitments",
     "n3": "the commitment",
     "n4": "the commitments",
-    "n5": "commitment's"
+    "n5": "commitment's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "commitments'",
+    "n7": "a commitment",
+    "n8": "many commitments"
 }

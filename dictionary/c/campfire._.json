@@ -1,0 +1,18 @@
+{
+    "base": "campfire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "campfire",
+    "n2": "campfires",
+    "n3": "the campfire",
+    "n4": "the campfires",
+    "n5": "campfire's",
+    "n6": "campfires'",
+    "n7": "a campfire",
+    "n8": "many campfires"
+}

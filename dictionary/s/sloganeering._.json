@@ -1,0 +1,18 @@
+{
+    "base": "sloganeering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sloganeering",
+    "n2": "sloganeerings",
+    "n3": "the sloganeering",
+    "n4": "the sloganeerings",
+    "n5": "sloganeering's",
+    "n6": "sloganeerings'",
+    "n7": "a sloganeering",
+    "n8": "many sloganeerings"
+}

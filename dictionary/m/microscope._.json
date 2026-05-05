@@ -1,0 +1,18 @@
+{
+    "base": "microscope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "microscope",
+    "n2": "microscopes",
+    "n3": "the microscope",
+    "n4": "the microscopes",
+    "n5": "microscope's",
+    "n6": "microscopes'",
+    "n7": "a microscope",
+    "n8": "many microscopes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "arms",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "arms",
+    "n2": "armses",
+    "n3": "the arms",
+    "n4": "the armses",
+    "n5": "arms'",
+    "n6": "armses'",
+    "n7": "an arms",
+    "n8": "many armses"
+}

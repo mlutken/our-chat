@@ -1,0 +1,18 @@
+{
+    "base": "vestibule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vestibule",
+    "n2": "vestibules",
+    "n3": "the vestibule",
+    "n4": "the vestibules",
+    "n5": "vestibule's",
+    "n6": "vestibules'",
+    "n7": "a vestibule",
+    "n8": "many vestibules"
+}

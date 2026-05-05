@@ -1,0 +1,18 @@
+{
+    "base": "eyebrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "eyebrow",
+    "n2": "eyebrows",
+    "n3": "the eyebrow",
+    "n4": "the eyebrows",
+    "n5": "eyebrow's",
+    "n6": "eyebrows'",
+    "n7": "an eyebrow",
+    "n8": "many eyebrows"
+}

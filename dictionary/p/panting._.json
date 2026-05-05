@@ -1,0 +1,18 @@
+{
+    "base": "panting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "panting",
+    "n2": "pantings",
+    "n3": "the panting",
+    "n4": "the pantings",
+    "n5": "panting's",
+    "n6": "pantings'",
+    "n7": "a panting",
+    "n8": "many pantings"
+}

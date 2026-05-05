@@ -1,0 +1,18 @@
+{
+    "base": "indian summer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indian summer",
+    "n2": "indian summers",
+    "n3": "the indian summer",
+    "n4": "the indian summers",
+    "n5": "indian summer's",
+    "n6": "indian summers'",
+    "n7": "an indian summer",
+    "n8": "many indian summers"
+}

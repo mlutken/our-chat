@@ -1,0 +1,18 @@
+{
+    "base": "shark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shark",
+    "n2": "sharks",
+    "n3": "the shark",
+    "n4": "the sharks",
+    "n5": "shark's",
+    "n6": "sharks'",
+    "n7": "a shark",
+    "n8": "many sharks"
+}

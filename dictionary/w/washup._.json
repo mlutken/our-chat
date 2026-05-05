@@ -1,0 +1,18 @@
+{
+    "base": "washup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "washup",
+    "n2": "washups",
+    "n3": "the washup",
+    "n4": "the washups",
+    "n5": "washup's",
+    "n6": "washups'",
+    "n7": "a washup",
+    "n8": "many washups"
+}

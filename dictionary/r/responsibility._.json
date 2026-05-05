@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "responsibility",
-    "n2": "responsibilitys",
+    "n2": "responsibilities",
     "n3": "the responsibility",
-    "n4": "the responsibilitys",
-    "n5": "responsibility's"
+    "n4": "the responsibilities",
+    "n5": "responsibility's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "responsibilities'",
+    "n7": "a responsibility",
+    "n8": "many responsibilities"
 }

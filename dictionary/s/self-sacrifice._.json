@@ -1,0 +1,18 @@
+{
+    "base": "self-sacrifice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-sacrifice",
+    "n2": "self-sacrifices",
+    "n3": "the self-sacrifice",
+    "n4": "the self-sacrifices",
+    "n5": "self-sacrifice's",
+    "n6": "self-sacrifices'",
+    "n7": "a self-sacrifice",
+    "n8": "many self-sacrifices"
+}

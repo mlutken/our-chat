@@ -1,11 +1,24 @@
 {
     "base": "concentrate",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "concentrate",
     "v2": "concentrated",
     "v3": "concentrated",
     "v4": "concentrating",
-    "v5": "concentrates"
+    "v5": "concentrates",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "concentrate",
+    "n2": "concentrates",
+    "n3": "the concentrate",
+    "n4": "the concentrates",
+    "n5": "concentrate's",
+    "n6": "concentrates'",
+    "n7": "a concentrate",
+    "n8": "many concentrates"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "timidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "timidity",
+    "n2": "timidities",
+    "n3": "the timidity",
+    "n4": "the timidities",
+    "n5": "timidity's",
+    "n6": "timidities'",
+    "n7": "a timidity",
+    "n8": "many timidities"
+}

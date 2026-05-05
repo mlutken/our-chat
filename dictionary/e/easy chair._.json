@@ -1,0 +1,18 @@
+{
+    "base": "easy chair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "easy chair",
+    "n2": "easy chairs",
+    "n3": "the easy chair",
+    "n4": "the easy chairs",
+    "n5": "easy chair's",
+    "n6": "easy chairs'",
+    "n7": "an easy chair",
+    "n8": "many easy chairs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "week from monday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "week from monday",
+    "n2": "week from mondays",
+    "n3": "the week from monday",
+    "n4": "the week from mondays",
+    "n5": "week from monday's",
+    "n6": "week from mondays'",
+    "n7": "a week from monday",
+    "n8": "many week from mondays"
+}

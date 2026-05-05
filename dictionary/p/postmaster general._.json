@@ -1,0 +1,18 @@
+{
+    "base": "postmaster general",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "postmaster general",
+    "n2": "postmaster generals",
+    "n3": "the postmaster general",
+    "n4": "the postmaster generals",
+    "n5": "postmaster general's",
+    "n6": "postmaster generals'",
+    "n7": "a postmaster general",
+    "n8": "many postmaster generals"
+}

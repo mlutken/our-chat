@@ -1,0 +1,18 @@
+{
+    "base": "training ship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "training ship",
+    "n2": "training ships",
+    "n3": "the training ship",
+    "n4": "the training ships",
+    "n5": "training ship's",
+    "n6": "training ships'",
+    "n7": "a training ship",
+    "n8": "many training ships"
+}

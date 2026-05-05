@@ -1,0 +1,18 @@
+{
+    "base": "cloudburst",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cloudburst",
+    "n2": "cloudbursts",
+    "n3": "the cloudburst",
+    "n4": "the cloudbursts",
+    "n5": "cloudburst's",
+    "n6": "cloudbursts'",
+    "n7": "a cloudburst",
+    "n8": "many cloudbursts"
+}

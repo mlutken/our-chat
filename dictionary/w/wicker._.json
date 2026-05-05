@@ -1,0 +1,18 @@
+{
+    "base": "wicker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wicker",
+    "n2": "wickers",
+    "n3": "the wicker",
+    "n4": "the wickers",
+    "n5": "wicker's",
+    "n6": "wickers'",
+    "n7": "a wicker",
+    "n8": "many wickers"
+}

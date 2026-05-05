@@ -1,0 +1,18 @@
+{
+    "base": "drawing board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drawing board",
+    "n2": "drawing boards",
+    "n3": "the drawing board",
+    "n4": "the drawing boards",
+    "n5": "drawing board's",
+    "n6": "drawing boards'",
+    "n7": "a drawing board",
+    "n8": "many drawing boards"
+}

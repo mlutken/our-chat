@@ -7,5 +7,12 @@
     "n2": "girlfriends",
     "n3": "the girlfriend",
     "n4": "the girlfriends",
-    "n5": "girlfriend's"
+    "n5": "girlfriend's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "girlfriends'",
+    "n7": "a girlfriend",
+    "n8": "many girlfriends"
 }

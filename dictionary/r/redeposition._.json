@@ -1,0 +1,18 @@
+{
+    "base": "redeposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "redeposition",
+    "n2": "redepositions",
+    "n3": "the redeposition",
+    "n4": "the redepositions",
+    "n5": "redeposition's",
+    "n6": "redepositions'",
+    "n7": "a redeposition",
+    "n8": "many redepositions"
+}

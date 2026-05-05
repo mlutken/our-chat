@@ -1,0 +1,18 @@
+{
+    "base": "amplitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "amplitude",
+    "n2": "amplitudes",
+    "n3": "the amplitude",
+    "n4": "the amplitudes",
+    "n5": "amplitude's",
+    "n6": "amplitudes'",
+    "n7": "an amplitude",
+    "n8": "many amplitudes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "falloff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "falloff",
+    "n2": "fallofves",
+    "n3": "the falloff",
+    "n4": "the fallofves",
+    "n5": "falloff's",
+    "n6": "fallofves'",
+    "n7": "a falloff",
+    "n8": "many fallofves"
+}

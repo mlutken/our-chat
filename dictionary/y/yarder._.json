@@ -1,0 +1,18 @@
+{
+    "base": "yarder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yarder",
+    "n2": "yarders",
+    "n3": "the yarder",
+    "n4": "the yarders",
+    "n5": "yarder's",
+    "n6": "yarders'",
+    "n7": "a yarder",
+    "n8": "many yarders"
+}

@@ -13,5 +13,12 @@
     "v2": "mortgaged",
     "v3": "mortgaged",
     "v4": "mortgaging",
-    "v5": "mortgages"
+    "v5": "mortgages",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "mortgages'",
+    "n7": "a mortgage",
+    "n8": "many mortgages"
 }

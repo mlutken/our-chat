@@ -1,0 +1,18 @@
+{
+    "base": "old south",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "old south",
+    "n2": "old souths",
+    "n3": "the old south",
+    "n4": "the old souths",
+    "n5": "old south's",
+    "n6": "old souths'",
+    "n7": "an old south",
+    "n8": "many old souths"
+}

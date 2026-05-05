@@ -1,0 +1,18 @@
+{
+    "base": "magazine article",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magazine article",
+    "n2": "magazine articles",
+    "n3": "the magazine article",
+    "n4": "the magazine articles",
+    "n5": "magazine article's",
+    "n6": "magazine articles'",
+    "n7": "a magazine article",
+    "n8": "many magazine articles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tissue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n1": "tissue",
+    "n2": "tissues",
+    "n3": "the tissue",
+    "n4": "the tissues",
+    "n5": "tissue's",
+    "n6": "tissues'",
+    "n7": "a tissue",
+    "n8": "many tissues"
+}

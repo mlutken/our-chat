@@ -1,0 +1,18 @@
+{
+    "base": "chock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chock",
+    "n2": "chocks",
+    "n3": "the chock",
+    "n4": "the chocks",
+    "n5": "chock's",
+    "n6": "chocks'",
+    "n7": "a chock",
+    "n8": "many chocks"
+}

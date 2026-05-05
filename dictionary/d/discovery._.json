@@ -1,0 +1,18 @@
+{
+    "base": "discovery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "discovery",
+    "n2": "discoveries",
+    "n3": "the discovery",
+    "n4": "the discoveries",
+    "n5": "discovery's",
+    "n6": "discoveries'",
+    "n7": "a discovery",
+    "n8": "many discoveries"
+}

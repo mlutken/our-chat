@@ -1,0 +1,18 @@
+{
+    "base": "weightlessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "weightlessness",
+    "n2": "weightlessnesses",
+    "n3": "the weightlessness",
+    "n4": "the weightlessnesses",
+    "n5": "weightlessness'",
+    "n6": "weightlessnesses'",
+    "n7": "a weightlessness",
+    "n8": "many weightlessnesses"
+}

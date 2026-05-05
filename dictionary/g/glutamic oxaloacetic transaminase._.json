@@ -1,0 +1,18 @@
+{
+    "base": "glutamic oxaloacetic transaminase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glutamic oxaloacetic transaminase",
+    "n2": "glutamic oxaloacetic transaminases",
+    "n3": "the glutamic oxaloacetic transaminase",
+    "n4": "the glutamic oxaloacetic transaminases",
+    "n5": "glutamic oxaloacetic transaminase's",
+    "n6": "glutamic oxaloacetic transaminases'",
+    "n7": "a glutamic oxaloacetic transaminase",
+    "n8": "many glutamic oxaloacetic transaminases"
+}

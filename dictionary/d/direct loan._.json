@@ -1,0 +1,18 @@
+{
+    "base": "direct loan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "direct loan",
+    "n2": "direct loans",
+    "n3": "the direct loan",
+    "n4": "the direct loans",
+    "n5": "direct loan's",
+    "n6": "direct loans'",
+    "n7": "a direct loan",
+    "n8": "many direct loans"
+}

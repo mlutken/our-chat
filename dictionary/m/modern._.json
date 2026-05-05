@@ -1,0 +1,18 @@
+{
+    "base": "modern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "modern",
+    "n2": "moderns",
+    "n3": "the modern",
+    "n4": "the moderns",
+    "n5": "modern's",
+    "n6": "moderns'",
+    "n7": "a modern",
+    "n8": "many moderns"
+}

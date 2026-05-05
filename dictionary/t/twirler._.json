@@ -1,0 +1,18 @@
+{
+    "base": "twirler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "twirler",
+    "n2": "twirlers",
+    "n3": "the twirler",
+    "n4": "the twirlers",
+    "n5": "twirler's",
+    "n6": "twirlers'",
+    "n7": "a twirler",
+    "n8": "many twirlers"
+}

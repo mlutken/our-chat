@@ -1,0 +1,18 @@
+{
+    "base": "worshipper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worshipper",
+    "n2": "worshippers",
+    "n3": "the worshipper",
+    "n4": "the worshippers",
+    "n5": "worshipper's",
+    "n6": "worshippers'",
+    "n7": "a worshipper",
+    "n8": "many worshippers"
+}

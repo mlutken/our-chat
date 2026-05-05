@@ -1,0 +1,18 @@
+{
+    "base": "school text",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "school text",
+    "n2": "school texts",
+    "n3": "the school text",
+    "n4": "the school texts",
+    "n5": "school text's",
+    "n6": "school texts'",
+    "n7": "a school text",
+    "n8": "many school texts"
+}

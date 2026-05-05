@@ -1,0 +1,18 @@
+{
+    "base": "beverage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "beverage",
+    "n2": "beverages",
+    "n3": "the beverage",
+    "n4": "the beverages",
+    "n5": "beverage's",
+    "n6": "beverages'",
+    "n7": "a beverage",
+    "n8": "many beverages"
+}

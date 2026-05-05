@@ -1,0 +1,18 @@
+{
+    "base": "timber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "timber",
+    "n2": "timbers",
+    "n3": "the timber",
+    "n4": "the timbers",
+    "n5": "timber's",
+    "n6": "timbers'",
+    "n7": "a timber",
+    "n8": "many timbers"
+}

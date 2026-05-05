@@ -7,5 +7,12 @@
     "n2": "agents",
     "n3": "the agent",
     "n4": "the agents",
-    "n5": "agent's"
+    "n5": "agent's",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "agents'",
+    "n7": "an agent",
+    "n8": "many agents"
 }

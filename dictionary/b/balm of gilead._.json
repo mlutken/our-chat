@@ -1,0 +1,18 @@
+{
+    "base": "balm of gilead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balm of gilead",
+    "n2": "balm of gileads",
+    "n3": "the balm of gilead",
+    "n4": "the balm of gileads",
+    "n5": "balm of gilead's",
+    "n6": "balm of gileads'",
+    "n7": "a balm of gilead",
+    "n8": "many balm of gileads"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "strike",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "strike",
+    "n2": "strikes",
+    "n3": "the strike",
+    "n4": "the strikes",
+    "n5": "strike's",
+    "n6": "strikes'",
+    "n7": "a strike",
+    "n8": "many strikes"
+}

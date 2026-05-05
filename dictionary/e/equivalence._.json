@@ -1,0 +1,18 @@
+{
+    "base": "equivalence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "equivalence",
+    "n2": "equivalences",
+    "n3": "the equivalence",
+    "n4": "the equivalences",
+    "n5": "equivalence's",
+    "n6": "equivalences'",
+    "n7": "an equivalence",
+    "n8": "many equivalences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dictate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dictate",
+    "n2": "dictates",
+    "n3": "the dictate",
+    "n4": "the dictates",
+    "n5": "dictate's",
+    "n6": "dictates'",
+    "n7": "a dictate",
+    "n8": "many dictates"
+}

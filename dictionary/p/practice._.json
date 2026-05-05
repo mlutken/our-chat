@@ -7,5 +7,12 @@
     "n2": "practices",
     "n3": "the practice",
     "n4": "the practices",
-    "n5": "practice's"
+    "n5": "practice's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "practices'",
+    "n7": "a practice",
+    "n8": "many practices"
 }

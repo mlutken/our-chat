@@ -7,5 +7,12 @@
     "n2": "newspapers",
     "n3": "the newspaper",
     "n4": "the newspapers",
-    "n5": "newspaper's"
+    "n5": "newspaper's",
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n6": "newspapers'",
+    "n7": "a newspaper",
+    "n8": "many newspapers"
 }

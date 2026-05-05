@@ -1,0 +1,18 @@
+{
+    "base": "new york city",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "new york city",
+    "n2": "new york cities",
+    "n3": "the new york city",
+    "n4": "the new york cities",
+    "n5": "new york city's",
+    "n6": "new york cities'",
+    "n7": "a new york city",
+    "n8": "many new york cities"
+}

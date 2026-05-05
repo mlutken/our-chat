@@ -1,0 +1,18 @@
+{
+    "base": "contemporaries",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contemporaries",
+    "n2": "contemporarieses",
+    "n3": "the contemporaries",
+    "n4": "the contemporarieses",
+    "n5": "contemporaries'",
+    "n6": "contemporarieses'",
+    "n7": "a contemporaries",
+    "n8": "many contemporarieses"
+}

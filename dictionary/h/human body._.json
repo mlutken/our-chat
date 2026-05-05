@@ -1,0 +1,18 @@
+{
+    "base": "human body",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "human body",
+    "n2": "human bodies",
+    "n3": "the human body",
+    "n4": "the human bodies",
+    "n5": "human body's",
+    "n6": "human bodies'",
+    "n7": "a human body",
+    "n8": "many human bodies"
+}

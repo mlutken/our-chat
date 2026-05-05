@@ -1,0 +1,18 @@
+{
+    "base": "horn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "horn",
+    "n2": "horns",
+    "n3": "the horn",
+    "n4": "the horns",
+    "n5": "horn's",
+    "n6": "horns'",
+    "n7": "a horn",
+    "n8": "many horns"
+}

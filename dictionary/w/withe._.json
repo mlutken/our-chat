@@ -1,0 +1,18 @@
+{
+    "base": "withe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "withe",
+    "n2": "withes",
+    "n3": "the withe",
+    "n4": "the withes",
+    "n5": "withe's",
+    "n6": "withes'",
+    "n7": "a withe",
+    "n8": "many withes"
+}

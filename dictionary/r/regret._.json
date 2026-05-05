@@ -1,0 +1,18 @@
+{
+    "base": "regret",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "regret",
+    "n2": "regrets",
+    "n3": "the regret",
+    "n4": "the regrets",
+    "n5": "regret's",
+    "n6": "regrets'",
+    "n7": "a regret",
+    "n8": "many regrets"
+}

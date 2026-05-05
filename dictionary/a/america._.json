@@ -1,0 +1,18 @@
+{
+    "base": "america",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n1": "america",
+    "n2": "americas",
+    "n3": "the america",
+    "n4": "the americas",
+    "n5": "america's",
+    "n6": "americas'",
+    "n7": "an america",
+    "n8": "many americas"
+}

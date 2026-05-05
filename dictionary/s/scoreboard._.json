@@ -1,0 +1,18 @@
+{
+    "base": "scoreboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scoreboard",
+    "n2": "scoreboards",
+    "n3": "the scoreboard",
+    "n4": "the scoreboards",
+    "n5": "scoreboard's",
+    "n6": "scoreboards'",
+    "n7": "a scoreboard",
+    "n8": "many scoreboards"
+}

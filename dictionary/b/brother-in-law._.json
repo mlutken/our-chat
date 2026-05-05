@@ -1,0 +1,18 @@
+{
+    "base": "brother-in-law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brother-in-law",
+    "n2": "brothers-in-law",
+    "n3": "the brother-in-law",
+    "n4": "the brothers-in-law",
+    "n5": "brother-in-law's",
+    "n6": "brothers-in-law's",
+    "n7": "a brother-in-law",
+    "n8": "many brothers-in-law"
+}

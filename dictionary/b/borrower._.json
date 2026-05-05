@@ -1,0 +1,18 @@
+{
+    "base": "borrower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "borrower",
+    "n2": "borrowers",
+    "n3": "the borrower",
+    "n4": "the borrowers",
+    "n5": "borrower's",
+    "n6": "borrowers'",
+    "n7": "a borrower",
+    "n8": "many borrowers"
+}

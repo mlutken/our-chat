@@ -1,0 +1,18 @@
+{
+    "base": "letterman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "letterman",
+    "n2": "lettermen",
+    "n3": "the letterman",
+    "n4": "the lettermen",
+    "n5": "letterman's",
+    "n6": "lettermen's",
+    "n7": "a letterman",
+    "n8": "many lettermen"
+}

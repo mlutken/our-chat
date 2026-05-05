@@ -1,0 +1,18 @@
+{
+    "base": "photography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "photography",
+    "n2": "photographies",
+    "n3": "the photography",
+    "n4": "the photographies",
+    "n5": "photography's",
+    "n6": "photographies'",
+    "n7": "a photography",
+    "n8": "many photographies"
+}

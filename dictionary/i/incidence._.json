@@ -1,0 +1,18 @@
+{
+    "base": "incidence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "incidence",
+    "n2": "incidences",
+    "n3": "the incidence",
+    "n4": "the incidences",
+    "n5": "incidence's",
+    "n6": "incidences'",
+    "n7": "an incidence",
+    "n8": "many incidences"
+}

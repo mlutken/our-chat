@@ -1,0 +1,18 @@
+{
+    "base": "greenland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "greenland",
+    "n2": "greenlands",
+    "n3": "the greenland",
+    "n4": "the greenlands",
+    "n5": "greenland's",
+    "n6": "greenlands'",
+    "n7": "a greenland",
+    "n8": "many greenlands"
+}

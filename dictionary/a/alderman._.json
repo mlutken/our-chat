@@ -1,0 +1,18 @@
+{
+    "base": "alderman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alderman",
+    "n2": "aldermen",
+    "n3": "the alderman",
+    "n4": "the aldermen",
+    "n5": "alderman's",
+    "n6": "aldermen's",
+    "n7": "an alderman",
+    "n8": "many aldermen"
+}

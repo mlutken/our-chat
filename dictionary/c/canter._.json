@@ -1,0 +1,18 @@
+{
+    "base": "canter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "canter",
+    "n2": "canters",
+    "n3": "the canter",
+    "n4": "the canters",
+    "n5": "canter's",
+    "n6": "canters'",
+    "n7": "a canter",
+    "n8": "many canters"
+}

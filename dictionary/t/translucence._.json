@@ -1,0 +1,18 @@
+{
+    "base": "translucence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "translucence",
+    "n2": "translucences",
+    "n3": "the translucence",
+    "n4": "the translucences",
+    "n5": "translucence's",
+    "n6": "translucences'",
+    "n7": "a translucence",
+    "n8": "many translucences"
+}

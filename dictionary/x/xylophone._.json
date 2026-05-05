@@ -1,0 +1,18 @@
+{
+    "base": "xylophone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "xylophone",
+    "n2": "xylophones",
+    "n3": "the xylophone",
+    "n4": "the xylophones",
+    "n5": "xylophone's",
+    "n6": "xylophones'",
+    "n7": "a xylophone",
+    "n8": "many xylophones"
+}

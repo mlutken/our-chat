@@ -1,0 +1,18 @@
+{
+    "base": "daybed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "daybed",
+    "n2": "daybeds",
+    "n3": "the daybed",
+    "n4": "the daybeds",
+    "n5": "daybed's",
+    "n6": "daybeds'",
+    "n7": "a daybed",
+    "n8": "many daybeds"
+}

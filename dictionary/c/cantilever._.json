@@ -1,0 +1,18 @@
+{
+    "base": "cantilever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cantilever",
+    "n2": "cantilevers",
+    "n3": "the cantilever",
+    "n4": "the cantilevers",
+    "n5": "cantilever's",
+    "n6": "cantilevers'",
+    "n7": "a cantilever",
+    "n8": "many cantilevers"
+}

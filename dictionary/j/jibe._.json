@@ -1,0 +1,18 @@
+{
+    "base": "jibe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jibe",
+    "n2": "jibes",
+    "n3": "the jibe",
+    "n4": "the jibes",
+    "n5": "jibe's",
+    "n6": "jibes'",
+    "n7": "a jibe",
+    "n8": "many jibes"
+}

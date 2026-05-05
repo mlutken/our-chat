@@ -1,0 +1,18 @@
+{
+    "base": "muff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muff",
+    "n2": "mufves",
+    "n3": "the muff",
+    "n4": "the mufves",
+    "n5": "muff's",
+    "n6": "mufves'",
+    "n7": "a muff",
+    "n8": "many mufves"
+}

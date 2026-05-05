@@ -1,0 +1,18 @@
+{
+    "base": "spoken language",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spoken language",
+    "n2": "spoken languages",
+    "n3": "the spoken language",
+    "n4": "the spoken languages",
+    "n5": "spoken language's",
+    "n6": "spoken languages'",
+    "n7": "a spoken language",
+    "n8": "many spoken languages"
+}

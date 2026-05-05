@@ -1,0 +1,18 @@
+{
+    "base": "religious order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "religious order",
+    "n2": "religious orders",
+    "n3": "the religious order",
+    "n4": "the religious orders",
+    "n5": "religious order's",
+    "n6": "religious orders'",
+    "n7": "a religious order",
+    "n8": "many religious orders"
+}

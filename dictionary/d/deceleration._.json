@@ -1,0 +1,18 @@
+{
+    "base": "deceleration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deceleration",
+    "n2": "decelerations",
+    "n3": "the deceleration",
+    "n4": "the decelerations",
+    "n5": "deceleration's",
+    "n6": "decelerations'",
+    "n7": "a deceleration",
+    "n8": "many decelerations"
+}

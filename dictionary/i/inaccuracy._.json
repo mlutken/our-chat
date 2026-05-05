@@ -1,0 +1,18 @@
+{
+    "base": "inaccuracy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inaccuracy",
+    "n2": "inaccuracies",
+    "n3": "the inaccuracy",
+    "n4": "the inaccuracies",
+    "n5": "inaccuracy's",
+    "n6": "inaccuracies'",
+    "n7": "an inaccuracy",
+    "n8": "many inaccuracies"
+}

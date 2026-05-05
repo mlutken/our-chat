@@ -1,0 +1,18 @@
+{
+    "base": "traditionalist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "traditionalist",
+    "n2": "traditionalists",
+    "n3": "the traditionalist",
+    "n4": "the traditionalists",
+    "n5": "traditionalist's",
+    "n6": "traditionalists'",
+    "n7": "a traditionalist",
+    "n8": "many traditionalists"
+}

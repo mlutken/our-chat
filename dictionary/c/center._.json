@@ -7,5 +7,12 @@
     "n2": "centers",
     "n3": "the center",
     "n4": "the centers",
-    "n5": "center's"
+    "n5": "center's",
+    "proper": false,
+    "commonness": 92,
+    "max_commonness": 6834,
+    "commonness_ge_count": 137,
+    "n6": "centers'",
+    "n7": "a center",
+    "n8": "many centers"
 }

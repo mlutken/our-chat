@@ -1,0 +1,18 @@
+{
+    "base": "vein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "vein",
+    "n2": "veins",
+    "n3": "the vein",
+    "n4": "the veins",
+    "n5": "vein's",
+    "n6": "veins'",
+    "n7": "a vein",
+    "n8": "many veins"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "purgatory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "purgatory",
+    "n2": "purgatories",
+    "n3": "the purgatory",
+    "n4": "the purgatories",
+    "n5": "purgatory's",
+    "n6": "purgatories'",
+    "n7": "a purgatory",
+    "n8": "many purgatories"
+}

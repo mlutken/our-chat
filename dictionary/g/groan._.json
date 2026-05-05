@@ -1,11 +1,24 @@
 {
     "base": "groan",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "groan",
     "v2": "groaned",
     "v3": "groaned",
     "v4": "groaning",
-    "v5": "groans"
+    "v5": "groans",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "groan",
+    "n2": "groans",
+    "n3": "the groan",
+    "n4": "the groans",
+    "n5": "groan's",
+    "n6": "groans'",
+    "n7": "a groan",
+    "n8": "many groans"
 }

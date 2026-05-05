@@ -1,11 +1,24 @@
 {
     "base": "pass",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pass",
     "v2": "passed",
     "v3": "passed",
     "v4": "passing",
-    "v5": "passes"
+    "v5": "passes",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "pass",
+    "n2": "passes",
+    "n3": "the pass",
+    "n4": "the passes",
+    "n5": "pass'",
+    "n6": "passes'",
+    "n7": "a pass",
+    "n8": "many passes"
 }

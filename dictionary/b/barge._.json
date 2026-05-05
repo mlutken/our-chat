@@ -1,0 +1,18 @@
+{
+    "base": "barge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "barge",
+    "n2": "barges",
+    "n3": "the barge",
+    "n4": "the barges",
+    "n5": "barge's",
+    "n6": "barges'",
+    "n7": "a barge",
+    "n8": "many barges"
+}

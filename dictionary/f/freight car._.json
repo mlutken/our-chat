@@ -1,0 +1,18 @@
+{
+    "base": "freight car",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "freight car",
+    "n2": "freight cars",
+    "n3": "the freight car",
+    "n4": "the freight cars",
+    "n5": "freight car's",
+    "n6": "freight cars'",
+    "n7": "a freight car",
+    "n8": "many freight cars"
+}

@@ -7,5 +7,12 @@
     "n2": "preferences",
     "n3": "the preference",
     "n4": "the preferences",
-    "n5": "preference's"
+    "n5": "preference's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "preferences'",
+    "n7": "a preference",
+    "n8": "many preferences"
 }

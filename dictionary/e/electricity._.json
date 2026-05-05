@@ -1,0 +1,18 @@
+{
+    "base": "electricity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "electricity",
+    "n2": "electricities",
+    "n3": "the electricity",
+    "n4": "the electricities",
+    "n5": "electricity's",
+    "n6": "electricities'",
+    "n7": "an electricity",
+    "n8": "many electricities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sprinkling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sprinkling",
+    "n2": "sprinklings",
+    "n3": "the sprinkling",
+    "n4": "the sprinklings",
+    "n5": "sprinkling's",
+    "n6": "sprinklings'",
+    "n7": "a sprinkling",
+    "n8": "many sprinklings"
+}

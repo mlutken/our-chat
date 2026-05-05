@@ -1,0 +1,18 @@
+{
+    "base": "premium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "premium",
+    "n2": "premiums",
+    "n3": "the premium",
+    "n4": "the premiums",
+    "n5": "premium's",
+    "n6": "premiums'",
+    "n7": "a premium",
+    "n8": "many premiums"
+}

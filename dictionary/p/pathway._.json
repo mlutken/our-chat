@@ -1,0 +1,18 @@
+{
+    "base": "pathway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pathway",
+    "n2": "pathways",
+    "n3": "the pathway",
+    "n4": "the pathways",
+    "n5": "pathway's",
+    "n6": "pathways'",
+    "n7": "a pathway",
+    "n8": "many pathways"
+}

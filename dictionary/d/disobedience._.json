@@ -1,0 +1,18 @@
+{
+    "base": "disobedience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "disobedience",
+    "n2": "disobediences",
+    "n3": "the disobedience",
+    "n4": "the disobediences",
+    "n5": "disobedience's",
+    "n6": "disobediences'",
+    "n7": "a disobedience",
+    "n8": "many disobediences"
+}

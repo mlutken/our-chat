@@ -1,0 +1,18 @@
+{
+    "base": "dash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dash",
+    "n2": "dashes",
+    "n3": "the dash",
+    "n4": "the dashes",
+    "n5": "dash's",
+    "n6": "dashes'",
+    "n7": "a dash",
+    "n8": "many dashes"
+}

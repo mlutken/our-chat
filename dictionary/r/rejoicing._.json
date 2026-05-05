@@ -1,0 +1,18 @@
+{
+    "base": "rejoicing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rejoicing",
+    "n2": "rejoicings",
+    "n3": "the rejoicing",
+    "n4": "the rejoicings",
+    "n5": "rejoicing's",
+    "n6": "rejoicings'",
+    "n7": "a rejoicing",
+    "n8": "many rejoicings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sable",
+    "n2": "sables",
+    "n3": "the sable",
+    "n4": "the sables",
+    "n5": "sable's",
+    "n6": "sables'",
+    "n7": "a sable",
+    "n8": "many sables"
+}

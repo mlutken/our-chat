@@ -1,0 +1,18 @@
+{
+    "base": "dinner party",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dinner party",
+    "n2": "dinner parties",
+    "n3": "the dinner party",
+    "n4": "the dinner parties",
+    "n5": "dinner party's",
+    "n6": "dinner parties'",
+    "n7": "a dinner party",
+    "n8": "many dinner parties"
+}

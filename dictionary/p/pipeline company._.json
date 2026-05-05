@@ -1,0 +1,18 @@
+{
+    "base": "pipeline company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pipeline company",
+    "n2": "pipeline companies",
+    "n3": "the pipeline company",
+    "n4": "the pipeline companies",
+    "n5": "pipeline company's",
+    "n6": "pipeline companies'",
+    "n7": "a pipeline company",
+    "n8": "many pipeline companies"
+}

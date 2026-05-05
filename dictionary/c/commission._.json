@@ -1,0 +1,18 @@
+{
+    "base": "commission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "commission",
+    "n2": "commissions",
+    "n3": "the commission",
+    "n4": "the commissions",
+    "n5": "commission's",
+    "n6": "commissions'",
+    "n7": "a commission",
+    "n8": "many commissions"
+}

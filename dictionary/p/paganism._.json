@@ -1,0 +1,18 @@
+{
+    "base": "paganism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paganism",
+    "n2": "paganisms",
+    "n3": "the paganism",
+    "n4": "the paganisms",
+    "n5": "paganism's",
+    "n6": "paganisms'",
+    "n7": "a paganism",
+    "n8": "many paganisms"
+}

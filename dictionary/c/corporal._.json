@@ -1,0 +1,18 @@
+{
+    "base": "corporal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "corporal",
+    "n2": "corporals",
+    "n3": "the corporal",
+    "n4": "the corporals",
+    "n5": "corporal's",
+    "n6": "corporals'",
+    "n7": "a corporal",
+    "n8": "many corporals"
+}

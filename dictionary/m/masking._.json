@@ -1,0 +1,18 @@
+{
+    "base": "masking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "masking",
+    "n2": "maskings",
+    "n3": "the masking",
+    "n4": "the maskings",
+    "n5": "masking's",
+    "n6": "maskings'",
+    "n7": "a masking",
+    "n8": "many maskings"
+}

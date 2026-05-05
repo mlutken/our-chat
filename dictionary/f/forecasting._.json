@@ -1,0 +1,18 @@
+{
+    "base": "forecasting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forecasting",
+    "n2": "forecastings",
+    "n3": "the forecasting",
+    "n4": "the forecastings",
+    "n5": "forecasting's",
+    "n6": "forecastings'",
+    "n7": "a forecasting",
+    "n8": "many forecastings"
+}

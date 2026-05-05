@@ -1,0 +1,18 @@
+{
+    "base": "counterattack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "counterattack",
+    "n2": "counterattacks",
+    "n3": "the counterattack",
+    "n4": "the counterattacks",
+    "n5": "counterattack's",
+    "n6": "counterattacks'",
+    "n7": "a counterattack",
+    "n8": "many counterattacks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "concussion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "concussion",
+    "n2": "concussions",
+    "n3": "the concussion",
+    "n4": "the concussions",
+    "n5": "concussion's",
+    "n6": "concussions'",
+    "n7": "a concussion",
+    "n8": "many concussions"
+}

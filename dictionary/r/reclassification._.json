@@ -1,0 +1,18 @@
+{
+    "base": "reclassification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reclassification",
+    "n2": "reclassifications",
+    "n3": "the reclassification",
+    "n4": "the reclassifications",
+    "n5": "reclassification's",
+    "n6": "reclassifications'",
+    "n7": "a reclassification",
+    "n8": "many reclassifications"
+}

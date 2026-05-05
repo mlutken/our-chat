@@ -1,0 +1,18 @@
+{
+    "base": "kamikaze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kamikaze",
+    "n2": "kamikazes",
+    "n3": "the kamikaze",
+    "n4": "the kamikazes",
+    "n5": "kamikaze's",
+    "n6": "kamikazes'",
+    "n7": "a kamikaze",
+    "n8": "many kamikazes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "harmony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "harmony",
+    "n2": "harmonies",
+    "n3": "the harmony",
+    "n4": "the harmonies",
+    "n5": "harmony's",
+    "n6": "harmonies'",
+    "n7": "a harmony",
+    "n8": "many harmonies"
+}

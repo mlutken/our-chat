@@ -1,0 +1,18 @@
+{
+    "base": "clay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "clay",
+    "n2": "clays",
+    "n3": "the clay",
+    "n4": "the clays",
+    "n5": "clay's",
+    "n6": "clays'",
+    "n7": "a clay",
+    "n8": "many clays"
+}

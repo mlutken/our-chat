@@ -1,0 +1,18 @@
+{
+    "base": "blame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "blame",
+    "n2": "blames",
+    "n3": "the blame",
+    "n4": "the blames",
+    "n5": "blame's",
+    "n6": "blames'",
+    "n7": "a blame",
+    "n8": "many blames"
+}

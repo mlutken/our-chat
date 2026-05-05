@@ -1,0 +1,18 @@
+{
+    "base": "primer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "primer",
+    "n2": "primers",
+    "n3": "the primer",
+    "n4": "the primers",
+    "n5": "primer's",
+    "n6": "primers'",
+    "n7": "a primer",
+    "n8": "many primers"
+}

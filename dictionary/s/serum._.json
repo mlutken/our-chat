@@ -1,0 +1,18 @@
+{
+    "base": "serum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "serum",
+    "n2": "sera",
+    "n3": "the serum",
+    "n4": "the sera",
+    "n5": "serum's",
+    "n6": "sera's",
+    "n7": "a serum",
+    "n8": "many sera"
+}

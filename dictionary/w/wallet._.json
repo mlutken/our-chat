@@ -1,0 +1,18 @@
+{
+    "base": "wallet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wallet",
+    "n2": "wallets",
+    "n3": "the wallet",
+    "n4": "the wallets",
+    "n5": "wallet's",
+    "n6": "wallets'",
+    "n7": "a wallet",
+    "n8": "many wallets"
+}

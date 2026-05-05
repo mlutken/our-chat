@@ -1,11 +1,24 @@
 {
     "base": "drop",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "drop",
     "v2": "dropped",
     "v3": "dropped",
     "v4": "dropping",
-    "v5": "drops"
+    "v5": "drops",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "drop",
+    "n2": "drops",
+    "n3": "the drop",
+    "n4": "the drops",
+    "n5": "drop's",
+    "n6": "drops'",
+    "n7": "a drop",
+    "n8": "many drops"
 }

@@ -1,10 +1,20 @@
 {
     "base": "berlin",
-    "classes": ["n", "np"],
+    "classes": [
+        "n",
+        "np"
+    ],
     "attributes": [],
     "n1": "berlin",
-    "n2": "",
-    "n3": "",
-    "n4": "",
-    "n5": "berlin's"
+    "n2": "berlins",
+    "n3": "the berlin",
+    "n4": "the berlins",
+    "n5": "berlin's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "berlins'",
+    "n7": "a berlin",
+    "n8": "many berlins"
 }

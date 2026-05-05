@@ -1,0 +1,18 @@
+{
+    "base": "personage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "personage",
+    "n2": "personages",
+    "n3": "the personage",
+    "n4": "the personages",
+    "n5": "personage's",
+    "n6": "personages'",
+    "n7": "a personage",
+    "n8": "many personages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "conformational entropy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conformational entropy",
+    "n2": "conformational entropies",
+    "n3": "the conformational entropy",
+    "n4": "the conformational entropies",
+    "n5": "conformational entropy's",
+    "n6": "conformational entropies'",
+    "n7": "a conformational entropy",
+    "n8": "many conformational entropies"
+}

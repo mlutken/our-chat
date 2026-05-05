@@ -1,0 +1,18 @@
+{
+    "base": "firewood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "firewood",
+    "n2": "firewoods",
+    "n3": "the firewood",
+    "n4": "the firewoods",
+    "n5": "firewood's",
+    "n6": "firewoods'",
+    "n7": "a firewood",
+    "n8": "many firewoods"
+}

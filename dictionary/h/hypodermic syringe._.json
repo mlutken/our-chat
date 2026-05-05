@@ -1,0 +1,18 @@
+{
+    "base": "hypodermic syringe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hypodermic syringe",
+    "n2": "hypodermic syringes",
+    "n3": "the hypodermic syringe",
+    "n4": "the hypodermic syringes",
+    "n5": "hypodermic syringe's",
+    "n6": "hypodermic syringes'",
+    "n7": "a hypodermic syringe",
+    "n8": "many hypodermic syringes"
+}

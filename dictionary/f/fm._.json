@@ -1,0 +1,18 @@
+{
+    "base": "fm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fm",
+    "n2": "fms",
+    "n3": "the fm",
+    "n4": "the fms",
+    "n5": "fm's",
+    "n6": "fms'",
+    "n7": "a fm",
+    "n8": "many fms"
+}

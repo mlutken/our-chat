@@ -1,0 +1,18 @@
+{
+    "base": "babylonian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "babylonian",
+    "n2": "babylonians",
+    "n3": "the babylonian",
+    "n4": "the babylonians",
+    "n5": "babylonian's",
+    "n6": "babylonians'",
+    "n7": "a babylonian",
+    "n8": "many babylonians"
+}

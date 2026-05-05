@@ -1,0 +1,18 @@
+{
+    "base": "rock outcrop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rock outcrop",
+    "n2": "rock outcrops",
+    "n3": "the rock outcrop",
+    "n4": "the rock outcrops",
+    "n5": "rock outcrop's",
+    "n6": "rock outcrops'",
+    "n7": "a rock outcrop",
+    "n8": "many rock outcrops"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "illumination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "illumination",
+    "n2": "illuminations",
+    "n3": "the illumination",
+    "n4": "the illuminations",
+    "n5": "illumination's",
+    "n6": "illuminations'",
+    "n7": "an illumination",
+    "n8": "many illuminations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stereotype",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "stereotype",
+    "n2": "stereotypes",
+    "n3": "the stereotype",
+    "n4": "the stereotypes",
+    "n5": "stereotype's",
+    "n6": "stereotypes'",
+    "n7": "a stereotype",
+    "n8": "many stereotypes"
+}

@@ -7,5 +7,12 @@
     "n2": "units",
     "n3": "the unit",
     "n4": "the units",
-    "n5": "unit's"
+    "n5": "unit's",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "units'",
+    "n7": "a unit",
+    "n8": "many units"
 }

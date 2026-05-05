@@ -1,0 +1,18 @@
+{
+    "base": "line of work",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "line of work",
+    "n2": "line of works",
+    "n3": "the line of work",
+    "n4": "the line of works",
+    "n5": "line of work's",
+    "n6": "line of works'",
+    "n7": "a line of work",
+    "n8": "many line of works"
+}

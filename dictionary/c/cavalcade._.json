@@ -1,0 +1,18 @@
+{
+    "base": "cavalcade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cavalcade",
+    "n2": "cavalcades",
+    "n3": "the cavalcade",
+    "n4": "the cavalcades",
+    "n5": "cavalcade's",
+    "n6": "cavalcades'",
+    "n7": "a cavalcade",
+    "n8": "many cavalcades"
+}

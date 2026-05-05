@@ -1,0 +1,18 @@
+{
+    "base": "magnificence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magnificence",
+    "n2": "magnificences",
+    "n3": "the magnificence",
+    "n4": "the magnificences",
+    "n5": "magnificence's",
+    "n6": "magnificences'",
+    "n7": "a magnificence",
+    "n8": "many magnificences"
+}

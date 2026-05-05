@@ -1,0 +1,18 @@
+{
+    "base": "fishing tackle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fishing tackle",
+    "n2": "fishing tackles",
+    "n3": "the fishing tackle",
+    "n4": "the fishing tackles",
+    "n5": "fishing tackle's",
+    "n6": "fishing tackles'",
+    "n7": "a fishing tackle",
+    "n8": "many fishing tackles"
+}

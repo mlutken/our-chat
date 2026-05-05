@@ -7,5 +7,12 @@
     "n2": "interviews",
     "n3": "the interview",
     "n4": "the interviews",
-    "n5": "interview's"
+    "n5": "interview's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "interviews'",
+    "n7": "an interview",
+    "n8": "many interviews"
 }

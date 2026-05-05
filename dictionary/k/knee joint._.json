@@ -1,0 +1,18 @@
+{
+    "base": "knee joint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "knee joint",
+    "n2": "knee joints",
+    "n3": "the knee joint",
+    "n4": "the knee joints",
+    "n5": "knee joint's",
+    "n6": "knee joints'",
+    "n7": "a knee joint",
+    "n8": "many knee joints"
+}

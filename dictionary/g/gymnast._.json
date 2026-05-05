@@ -1,0 +1,18 @@
+{
+    "base": "gymnast",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "gymnast",
+    "n2": "gymnasts",
+    "n3": "the gymnast",
+    "n4": "the gymnasts",
+    "n5": "gymnast's",
+    "n6": "gymnasts'",
+    "n7": "a gymnast",
+    "n8": "many gymnasts"
+}

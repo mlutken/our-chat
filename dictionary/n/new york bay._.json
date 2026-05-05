@@ -1,0 +1,18 @@
+{
+    "base": "new york bay",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new york bay",
+    "n2": "new york bays",
+    "n3": "the new york bay",
+    "n4": "the new york bays",
+    "n5": "new york bay's",
+    "n6": "new york bays'",
+    "n7": "a new york bay",
+    "n8": "many new york bays"
+}

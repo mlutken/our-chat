@@ -1,0 +1,18 @@
+{
+    "base": "vinyl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vinyl",
+    "n2": "vinyls",
+    "n3": "the vinyl",
+    "n4": "the vinyls",
+    "n5": "vinyl's",
+    "n6": "vinyls'",
+    "n7": "a vinyl",
+    "n8": "many vinyls"
+}

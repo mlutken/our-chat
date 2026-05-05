@@ -1,0 +1,18 @@
+{
+    "base": "rotundity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rotundity",
+    "n2": "rotundities",
+    "n3": "the rotundity",
+    "n4": "the rotundities",
+    "n5": "rotundity's",
+    "n6": "rotundities'",
+    "n7": "a rotundity",
+    "n8": "many rotundities"
+}

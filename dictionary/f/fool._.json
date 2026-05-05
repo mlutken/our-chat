@@ -1,11 +1,24 @@
 {
     "base": "fool",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fool",
     "v2": "fooled",
     "v3": "fooled",
     "v4": "fooling",
-    "v5": "fools"
+    "v5": "fools",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n1": "fool",
+    "n2": "fools",
+    "n3": "the fool",
+    "n4": "the fools",
+    "n5": "fool's",
+    "n6": "fools'",
+    "n7": "a fool",
+    "n8": "many fools"
 }

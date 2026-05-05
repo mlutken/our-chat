@@ -1,0 +1,18 @@
+{
+    "base": "rebuilding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rebuilding",
+    "n2": "rebuildings",
+    "n3": "the rebuilding",
+    "n4": "the rebuildings",
+    "n5": "rebuilding's",
+    "n6": "rebuildings'",
+    "n7": "a rebuilding",
+    "n8": "many rebuildings"
+}

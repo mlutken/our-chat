@@ -1,0 +1,18 @@
+{
+    "base": "long island sound",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "long island sound",
+    "n2": "long island sounds",
+    "n3": "the long island sound",
+    "n4": "the long island sounds",
+    "n5": "long island sound's",
+    "n6": "long island sounds'",
+    "n7": "a long island sound",
+    "n8": "many long island sounds"
+}

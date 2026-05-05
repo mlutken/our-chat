@@ -1,0 +1,18 @@
+{
+    "base": "indignity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indignity",
+    "n2": "indignities",
+    "n3": "the indignity",
+    "n4": "the indignities",
+    "n5": "indignity's",
+    "n6": "indignities'",
+    "n7": "an indignity",
+    "n8": "many indignities"
+}

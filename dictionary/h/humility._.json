@@ -1,0 +1,18 @@
+{
+    "base": "humility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "humility",
+    "n2": "humilities",
+    "n3": "the humility",
+    "n4": "the humilities",
+    "n5": "humility's",
+    "n6": "humilities'",
+    "n7": "a humility",
+    "n8": "many humilities"
+}

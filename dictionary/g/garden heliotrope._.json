@@ -1,0 +1,18 @@
+{
+    "base": "garden heliotrope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "garden heliotrope",
+    "n2": "garden heliotropes",
+    "n3": "the garden heliotrope",
+    "n4": "the garden heliotropes",
+    "n5": "garden heliotrope's",
+    "n6": "garden heliotropes'",
+    "n7": "a garden heliotrope",
+    "n8": "many garden heliotropes"
+}

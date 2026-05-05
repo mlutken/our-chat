@@ -1,0 +1,18 @@
+{
+    "base": "insulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insulation",
+    "n2": "insulations",
+    "n3": "the insulation",
+    "n4": "the insulations",
+    "n5": "insulation's",
+    "n6": "insulations'",
+    "n7": "an insulation",
+    "n8": "many insulations"
+}

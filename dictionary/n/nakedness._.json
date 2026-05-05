@@ -1,0 +1,18 @@
+{
+    "base": "nakedness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nakedness",
+    "n2": "nakednesses",
+    "n3": "the nakedness",
+    "n4": "the nakednesses",
+    "n5": "nakedness'",
+    "n6": "nakednesses'",
+    "n7": "a nakedness",
+    "n8": "many nakednesses"
+}

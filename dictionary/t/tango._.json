@@ -1,0 +1,18 @@
+{
+    "base": "tango",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tango",
+    "n2": "tangos",
+    "n3": "the tango",
+    "n4": "the tangos",
+    "n5": "tango's",
+    "n6": "tangos'",
+    "n7": "a tango",
+    "n8": "many tangos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "cast",
+    "n2": "casts",
+    "n3": "the cast",
+    "n4": "the casts",
+    "n5": "cast's",
+    "n6": "casts'",
+    "n7": "a cast",
+    "n8": "many casts"
+}

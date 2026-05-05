@@ -1,0 +1,18 @@
+{
+    "base": "suspense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "suspense",
+    "n2": "suspenses",
+    "n3": "the suspense",
+    "n4": "the suspenses",
+    "n5": "suspense's",
+    "n6": "suspenses'",
+    "n7": "a suspense",
+    "n8": "many suspenses"
+}

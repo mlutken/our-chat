@@ -1,0 +1,18 @@
+{
+    "base": "gunpowder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gunpowder",
+    "n2": "gunpowders",
+    "n3": "the gunpowder",
+    "n4": "the gunpowders",
+    "n5": "gunpowder's",
+    "n6": "gunpowders'",
+    "n7": "a gunpowder",
+    "n8": "many gunpowders"
+}

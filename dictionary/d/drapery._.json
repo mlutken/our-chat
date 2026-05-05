@@ -1,0 +1,18 @@
+{
+    "base": "drapery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "drapery",
+    "n2": "draperies",
+    "n3": "the drapery",
+    "n4": "the draperies",
+    "n5": "drapery's",
+    "n6": "draperies'",
+    "n7": "a drapery",
+    "n8": "many draperies"
+}

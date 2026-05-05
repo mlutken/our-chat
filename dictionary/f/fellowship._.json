@@ -1,0 +1,18 @@
+{
+    "base": "fellowship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "fellowship",
+    "n2": "fellowships",
+    "n3": "the fellowship",
+    "n4": "the fellowships",
+    "n5": "fellowship's",
+    "n6": "fellowships'",
+    "n7": "a fellowship",
+    "n8": "many fellowships"
+}

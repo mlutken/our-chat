@@ -1,0 +1,18 @@
+{
+    "base": "diabetes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diabetes",
+    "n2": "diabeteses",
+    "n3": "the diabetes",
+    "n4": "the diabeteses",
+    "n5": "diabetes'",
+    "n6": "diabeteses'",
+    "n7": "a diabetes",
+    "n8": "many diabeteses"
+}

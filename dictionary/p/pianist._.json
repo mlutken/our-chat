@@ -1,0 +1,18 @@
+{
+    "base": "pianist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "pianist",
+    "n2": "pianists",
+    "n3": "the pianist",
+    "n4": "the pianists",
+    "n5": "pianist's",
+    "n6": "pianists'",
+    "n7": "a pianist",
+    "n8": "many pianists"
+}

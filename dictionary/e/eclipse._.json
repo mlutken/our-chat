@@ -1,0 +1,18 @@
+{
+    "base": "eclipse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "eclipse",
+    "n2": "eclipses",
+    "n3": "the eclipse",
+    "n4": "the eclipses",
+    "n5": "eclipse's",
+    "n6": "eclipses'",
+    "n7": "an eclipse",
+    "n8": "many eclipses"
+}

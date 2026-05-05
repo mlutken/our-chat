@@ -1,0 +1,18 @@
+{
+    "base": "ideal gas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ideal gas",
+    "n2": "ideal gases",
+    "n3": "the ideal gas",
+    "n4": "the ideal gases",
+    "n5": "ideal gas'",
+    "n6": "ideal gases'",
+    "n7": "an ideal gas",
+    "n8": "many ideal gases"
+}

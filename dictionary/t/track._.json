@@ -1,11 +1,24 @@
 {
     "base": "track",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "track",
     "v2": "tracked",
     "v3": "tracked",
     "v4": "tracking",
-    "v5": "tracks"
+    "v5": "tracks",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "track",
+    "n2": "tracks",
+    "n3": "the track",
+    "n4": "the tracks",
+    "n5": "track's",
+    "n6": "tracks'",
+    "n7": "a track",
+    "n8": "many tracks"
 }

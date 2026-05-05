@@ -1,0 +1,18 @@
+{
+    "base": "water buffalo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water buffalo",
+    "n2": "water buffalos",
+    "n3": "the water buffalo",
+    "n4": "the water buffalos",
+    "n5": "water buffalo's",
+    "n6": "water buffalos'",
+    "n7": "a water buffalo",
+    "n8": "many water buffalos"
+}

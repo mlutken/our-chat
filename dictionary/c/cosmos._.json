@@ -1,0 +1,18 @@
+{
+    "base": "cosmos",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cosmos",
+    "n2": "cosmoses",
+    "n3": "the cosmos",
+    "n4": "the cosmoses",
+    "n5": "cosmos'",
+    "n6": "cosmoses'",
+    "n7": "a cosmos",
+    "n8": "many cosmoses"
+}

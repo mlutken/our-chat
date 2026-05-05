@@ -1,0 +1,18 @@
+{
+    "base": "speed of light",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "speed of light",
+    "n2": "speed of lights",
+    "n3": "the speed of light",
+    "n4": "the speed of lights",
+    "n5": "speed of light's",
+    "n6": "speed of lights'",
+    "n7": "a speed of light",
+    "n8": "many speed of lights"
+}

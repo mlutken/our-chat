@@ -1,0 +1,18 @@
+{
+    "base": "disinterest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disinterest",
+    "n2": "disinterests",
+    "n3": "the disinterest",
+    "n4": "the disinterests",
+    "n5": "disinterest's",
+    "n6": "disinterests'",
+    "n7": "a disinterest",
+    "n8": "many disinterests"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "leap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "leap",
+    "n2": "leaps",
+    "n3": "the leap",
+    "n4": "the leaps",
+    "n5": "leap's",
+    "n6": "leaps'",
+    "n7": "a leap",
+    "n8": "many leaps"
+}

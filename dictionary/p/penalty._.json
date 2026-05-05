@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "penalty",
-    "n2": "penaltys",
+    "n2": "penalties",
     "n3": "the penalty",
-    "n4": "the penaltys",
-    "n5": "penalty's"
+    "n4": "the penalties",
+    "n5": "penalty's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "penalties'",
+    "n7": "a penalty",
+    "n8": "many penalties"
 }

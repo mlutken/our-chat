@@ -1,0 +1,18 @@
+{
+    "base": "mania",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mania",
+    "n2": "manias",
+    "n3": "the mania",
+    "n4": "the manias",
+    "n5": "mania's",
+    "n6": "manias'",
+    "n7": "a mania",
+    "n8": "many manias"
+}

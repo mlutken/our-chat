@@ -7,5 +7,12 @@
     "n2": "educations",
     "n3": "the education",
     "n4": "the educations",
-    "n5": "education's"
+    "n5": "education's",
+    "proper": false,
+    "commonness": 58,
+    "max_commonness": 6834,
+    "commonness_ge_count": 266,
+    "n6": "educations'",
+    "n7": "an education",
+    "n8": "many educations"
 }

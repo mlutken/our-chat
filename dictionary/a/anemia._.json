@@ -1,0 +1,18 @@
+{
+    "base": "anemia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "anemia",
+    "n2": "anemias",
+    "n3": "the anemia",
+    "n4": "the anemias",
+    "n5": "anemia's",
+    "n6": "anemias'",
+    "n7": "an anemia",
+    "n8": "many anemias"
+}

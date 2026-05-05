@@ -1,0 +1,18 @@
+{
+    "base": "square mile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "square mile",
+    "n2": "square miles",
+    "n3": "the square mile",
+    "n4": "the square miles",
+    "n5": "square mile's",
+    "n6": "square miles'",
+    "n7": "a square mile",
+    "n8": "many square miles"
+}

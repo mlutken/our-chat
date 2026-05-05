@@ -1,0 +1,18 @@
+{
+    "base": "chrome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "chrome",
+    "n2": "chromes",
+    "n3": "the chrome",
+    "n4": "the chromes",
+    "n5": "chrome's",
+    "n6": "chromes'",
+    "n7": "a chrome",
+    "n8": "many chromes"
+}

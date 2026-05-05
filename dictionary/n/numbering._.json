@@ -1,0 +1,18 @@
+{
+    "base": "numbering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "numbering",
+    "n2": "numberings",
+    "n3": "the numbering",
+    "n4": "the numberings",
+    "n5": "numbering's",
+    "n6": "numberings'",
+    "n7": "a numbering",
+    "n8": "many numberings"
+}

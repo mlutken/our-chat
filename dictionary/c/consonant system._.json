@@ -1,0 +1,18 @@
+{
+    "base": "consonant system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "consonant system",
+    "n2": "consonant systems",
+    "n3": "the consonant system",
+    "n4": "the consonant systems",
+    "n5": "consonant system's",
+    "n6": "consonant systems'",
+    "n7": "a consonant system",
+    "n8": "many consonant systems"
+}

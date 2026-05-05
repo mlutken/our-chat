@@ -1,0 +1,18 @@
+{
+    "base": "ghetto",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ghetto",
+    "n2": "ghettoes",
+    "n3": "the ghetto",
+    "n4": "the ghettoes",
+    "n5": "ghetto's",
+    "n6": "ghettoes'",
+    "n7": "a ghetto",
+    "n8": "many ghettoes"
+}

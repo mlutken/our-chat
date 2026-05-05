@@ -7,5 +7,12 @@
     "n2": "symposia",
     "n3": "the symposium",
     "n4": "the symposia",
-    "n5": "symposium's"
+    "n5": "symposium's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "symposia's",
+    "n7": "a symposium",
+    "n8": "many symposia"
 }

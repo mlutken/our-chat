@@ -1,0 +1,18 @@
+{
+    "base": "finishing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "finishing",
+    "n2": "finishings",
+    "n3": "the finishing",
+    "n4": "the finishings",
+    "n5": "finishing's",
+    "n6": "finishings'",
+    "n7": "a finishing",
+    "n8": "many finishings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "patter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "patter",
+    "n2": "patters",
+    "n3": "the patter",
+    "n4": "the patters",
+    "n5": "patter's",
+    "n6": "patters'",
+    "n7": "a patter",
+    "n8": "many patters"
+}

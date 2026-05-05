@@ -1,0 +1,18 @@
+{
+    "base": "telegraph form",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telegraph form",
+    "n2": "telegraph forms",
+    "n3": "the telegraph form",
+    "n4": "the telegraph forms",
+    "n5": "telegraph form's",
+    "n6": "telegraph forms'",
+    "n7": "a telegraph form",
+    "n8": "many telegraph forms"
+}

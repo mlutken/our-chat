@@ -1,0 +1,18 @@
+{
+    "base": "rediscovery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rediscovery",
+    "n2": "rediscoveries",
+    "n3": "the rediscovery",
+    "n4": "the rediscoveries",
+    "n5": "rediscovery's",
+    "n6": "rediscoveries'",
+    "n7": "a rediscovery",
+    "n8": "many rediscoveries"
+}

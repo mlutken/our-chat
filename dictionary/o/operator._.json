@@ -1,0 +1,18 @@
+{
+    "base": "operator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n1": "operator",
+    "n2": "operators",
+    "n3": "the operator",
+    "n4": "the operators",
+    "n5": "operator's",
+    "n6": "operators'",
+    "n7": "an operator",
+    "n8": "many operators"
+}

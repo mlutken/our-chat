@@ -1,0 +1,18 @@
+{
+    "base": "dock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dock",
+    "n2": "docks",
+    "n3": "the dock",
+    "n4": "the docks",
+    "n5": "dock's",
+    "n6": "docks'",
+    "n7": "a dock",
+    "n8": "many docks"
+}

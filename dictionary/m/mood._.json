@@ -7,5 +7,12 @@
     "n2": "moods",
     "n3": "the mood",
     "n4": "the moods",
-    "n5": "mood's"
+    "n5": "mood's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "moods'",
+    "n7": "a mood",
+    "n8": "many moods"
 }

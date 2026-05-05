@@ -1,0 +1,18 @@
+{
+    "base": "mocker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mocker",
+    "n2": "mockers",
+    "n3": "the mocker",
+    "n4": "the mockers",
+    "n5": "mocker's",
+    "n6": "mockers'",
+    "n7": "a mocker",
+    "n8": "many mockers"
+}

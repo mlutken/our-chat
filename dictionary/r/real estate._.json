@@ -1,0 +1,18 @@
+{
+    "base": "real estate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "real estate",
+    "n2": "real estates",
+    "n3": "the real estate",
+    "n4": "the real estates",
+    "n5": "real estate's",
+    "n6": "real estates'",
+    "n7": "a real estate",
+    "n8": "many real estates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "traineeship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "traineeship",
+    "n2": "traineeships",
+    "n3": "the traineeship",
+    "n4": "the traineeships",
+    "n5": "traineeship's",
+    "n6": "traineeships'",
+    "n7": "a traineeship",
+    "n8": "many traineeships"
+}

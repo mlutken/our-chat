@@ -1,0 +1,18 @@
+{
+    "base": "skimming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skimming",
+    "n2": "skimmings",
+    "n3": "the skimming",
+    "n4": "the skimmings",
+    "n5": "skimming's",
+    "n6": "skimmings'",
+    "n7": "a skimming",
+    "n8": "many skimmings"
+}

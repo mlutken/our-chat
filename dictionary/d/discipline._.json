@@ -7,5 +7,12 @@
     "n2": "disciplines",
     "n3": "the discipline",
     "n4": "the disciplines",
-    "n5": "discipline's"
+    "n5": "discipline's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "disciplines'",
+    "n7": "a discipline",
+    "n8": "many disciplines"
 }

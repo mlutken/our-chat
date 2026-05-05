@@ -1,11 +1,24 @@
 {
     "base": "tug",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tug",
     "v2": "tugged",
     "v3": "tugged",
     "v4": "tugging",
-    "v5": "tugs"
+    "v5": "tugs",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tug",
+    "n2": "tugs",
+    "n3": "the tug",
+    "n4": "the tugs",
+    "n5": "tug's",
+    "n6": "tugs'",
+    "n7": "a tug",
+    "n8": "many tugs"
 }

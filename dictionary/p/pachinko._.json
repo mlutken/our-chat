@@ -1,0 +1,18 @@
+{
+    "base": "pachinko",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pachinko",
+    "n2": "pachinkos",
+    "n3": "the pachinko",
+    "n4": "the pachinkos",
+    "n5": "pachinko's",
+    "n6": "pachinkos'",
+    "n7": "a pachinko",
+    "n8": "many pachinkos"
+}

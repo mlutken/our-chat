@@ -1,0 +1,18 @@
+{
+    "base": "thiamin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thiamin",
+    "n2": "thiamins",
+    "n3": "the thiamin",
+    "n4": "the thiamins",
+    "n5": "thiamin's",
+    "n6": "thiamins'",
+    "n7": "a thiamin",
+    "n8": "many thiamins"
+}

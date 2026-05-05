@@ -1,0 +1,18 @@
+{
+    "base": "doctor of education",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doctor of education",
+    "n2": "doctor of educations",
+    "n3": "the doctor of education",
+    "n4": "the doctor of educations",
+    "n5": "doctor of education's",
+    "n6": "doctor of educations'",
+    "n7": "a doctor of education",
+    "n8": "many doctor of educations"
+}

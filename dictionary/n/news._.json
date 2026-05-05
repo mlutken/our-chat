@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "news",
-    "n2": "news",
+    "n2": "newses",
     "n3": "the news",
-    "n4": "the news",
-    "n5": "news's"
+    "n4": "the newses",
+    "n5": "news'",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "newses'",
+    "n7": "a news",
+    "n8": "many newses"
 }

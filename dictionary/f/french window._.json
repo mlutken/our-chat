@@ -1,0 +1,18 @@
+{
+    "base": "french window",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "french window",
+    "n2": "french windows",
+    "n3": "the french window",
+    "n4": "the french windows",
+    "n5": "french window's",
+    "n6": "french windows'",
+    "n7": "a french window",
+    "n8": "many french windows"
+}

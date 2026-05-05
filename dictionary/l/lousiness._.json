@@ -1,0 +1,18 @@
+{
+    "base": "lousiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lousiness",
+    "n2": "lousinesses",
+    "n3": "the lousiness",
+    "n4": "the lousinesses",
+    "n5": "lousiness'",
+    "n6": "lousinesses'",
+    "n7": "a lousiness",
+    "n8": "many lousinesses"
+}

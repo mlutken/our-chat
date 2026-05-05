@@ -1,0 +1,18 @@
+{
+    "base": "ukrainian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ukrainian",
+    "n2": "ukrainians",
+    "n3": "the ukrainian",
+    "n4": "the ukrainians",
+    "n5": "ukrainian's",
+    "n6": "ukrainians'",
+    "n7": "an ukrainian",
+    "n8": "many ukrainians"
+}

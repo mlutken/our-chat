@@ -1,0 +1,18 @@
+{
+    "base": "masseur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "masseur",
+    "n2": "masseurs",
+    "n3": "the masseur",
+    "n4": "the masseurs",
+    "n5": "masseur's",
+    "n6": "masseurs'",
+    "n7": "a masseur",
+    "n8": "many masseurs"
+}

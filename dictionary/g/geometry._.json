@@ -1,0 +1,18 @@
+{
+    "base": "geometry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "geometry",
+    "n2": "geometries",
+    "n3": "the geometry",
+    "n4": "the geometries",
+    "n5": "geometry's",
+    "n6": "geometries'",
+    "n7": "a geometry",
+    "n8": "many geometries"
+}

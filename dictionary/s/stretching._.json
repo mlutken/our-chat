@@ -1,0 +1,18 @@
+{
+    "base": "stretching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stretching",
+    "n2": "stretchings",
+    "n3": "the stretching",
+    "n4": "the stretchings",
+    "n5": "stretching's",
+    "n6": "stretchings'",
+    "n7": "a stretching",
+    "n8": "many stretchings"
+}

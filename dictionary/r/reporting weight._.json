@@ -1,0 +1,18 @@
+{
+    "base": "reporting weight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reporting weight",
+    "n2": "reporting weights",
+    "n3": "the reporting weight",
+    "n4": "the reporting weights",
+    "n5": "reporting weight's",
+    "n6": "reporting weights'",
+    "n7": "a reporting weight",
+    "n8": "many reporting weights"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fantasist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fantasist",
+    "n2": "fantasists",
+    "n3": "the fantasist",
+    "n4": "the fantasists",
+    "n5": "fantasist's",
+    "n6": "fantasists'",
+    "n7": "a fantasist",
+    "n8": "many fantasists"
+}

@@ -7,5 +7,12 @@
     "n2": "links",
     "n3": "the link",
     "n4": "the links",
-    "n5": "link's"
+    "n5": "link's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "links'",
+    "n7": "a link",
+    "n8": "many links"
 }

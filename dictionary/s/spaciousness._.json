@@ -1,0 +1,18 @@
+{
+    "base": "spaciousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spaciousness",
+    "n2": "spaciousnesses",
+    "n3": "the spaciousness",
+    "n4": "the spaciousnesses",
+    "n5": "spaciousness'",
+    "n6": "spaciousnesses'",
+    "n7": "a spaciousness",
+    "n8": "many spaciousnesses"
+}

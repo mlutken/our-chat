@@ -1,0 +1,18 @@
+{
+    "base": "academy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "academy",
+    "n2": "academies",
+    "n3": "the academy",
+    "n4": "the academies",
+    "n5": "academy's",
+    "n6": "academies'",
+    "n7": "an academy",
+    "n8": "many academies"
+}

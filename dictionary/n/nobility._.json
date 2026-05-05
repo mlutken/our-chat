@@ -1,0 +1,18 @@
+{
+    "base": "nobility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nobility",
+    "n2": "nobilities",
+    "n3": "the nobility",
+    "n4": "the nobilities",
+    "n5": "nobility's",
+    "n6": "nobilities'",
+    "n7": "a nobility",
+    "n8": "many nobilities"
+}

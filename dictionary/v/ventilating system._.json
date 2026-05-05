@@ -1,0 +1,18 @@
+{
+    "base": "ventilating system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ventilating system",
+    "n2": "ventilating systems",
+    "n3": "the ventilating system",
+    "n4": "the ventilating systems",
+    "n5": "ventilating system's",
+    "n6": "ventilating systems'",
+    "n7": "a ventilating system",
+    "n8": "many ventilating systems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "thumbnail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thumbnail",
+    "n2": "thumbnails",
+    "n3": "the thumbnail",
+    "n4": "the thumbnails",
+    "n5": "thumbnail's",
+    "n6": "thumbnails'",
+    "n7": "a thumbnail",
+    "n8": "many thumbnails"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "forte",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forte",
+    "n2": "fortes",
+    "n3": "the forte",
+    "n4": "the fortes",
+    "n5": "forte's",
+    "n6": "fortes'",
+    "n7": "a forte",
+    "n8": "many fortes"
+}

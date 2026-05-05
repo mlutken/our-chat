@@ -1,0 +1,18 @@
+{
+    "base": "inhalation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inhalation",
+    "n2": "inhalations",
+    "n3": "the inhalation",
+    "n4": "the inhalations",
+    "n5": "inhalation's",
+    "n6": "inhalations'",
+    "n7": "an inhalation",
+    "n8": "many inhalations"
+}

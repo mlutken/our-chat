@@ -7,5 +7,12 @@
     "n2": "definitions",
     "n3": "the definition",
     "n4": "the definitions",
-    "n5": "definition's"
+    "n5": "definition's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "definitions'",
+    "n7": "a definition",
+    "n8": "many definitions"
 }

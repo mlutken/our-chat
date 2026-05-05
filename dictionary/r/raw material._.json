@@ -1,0 +1,18 @@
+{
+    "base": "raw material",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "raw material",
+    "n2": "raw materials",
+    "n3": "the raw material",
+    "n4": "the raw materials",
+    "n5": "raw material's",
+    "n6": "raw materials'",
+    "n7": "a raw material",
+    "n8": "many raw materials"
+}

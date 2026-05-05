@@ -1,0 +1,18 @@
+{
+    "base": "boxcar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "boxcar",
+    "n2": "boxcars",
+    "n3": "the boxcar",
+    "n4": "the boxcars",
+    "n5": "boxcar's",
+    "n6": "boxcars'",
+    "n7": "a boxcar",
+    "n8": "many boxcars"
+}

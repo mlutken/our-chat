@@ -1,0 +1,18 @@
+{
+    "base": "conditioned response",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conditioned response",
+    "n2": "conditioned responses",
+    "n3": "the conditioned response",
+    "n4": "the conditioned responses",
+    "n5": "conditioned response's",
+    "n6": "conditioned responses'",
+    "n7": "a conditioned response",
+    "n8": "many conditioned responses"
+}

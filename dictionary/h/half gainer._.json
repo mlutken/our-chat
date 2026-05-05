@@ -1,0 +1,18 @@
+{
+    "base": "half gainer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "half gainer",
+    "n2": "half gainers",
+    "n3": "the half gainer",
+    "n4": "the half gainers",
+    "n5": "half gainer's",
+    "n6": "half gainers'",
+    "n7": "a half gainer",
+    "n8": "many half gainers"
+}

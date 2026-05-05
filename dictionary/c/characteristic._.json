@@ -1,0 +1,18 @@
+{
+    "base": "characteristic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "characteristic",
+    "n2": "characteristics",
+    "n3": "the characteristic",
+    "n4": "the characteristics",
+    "n5": "characteristic's",
+    "n6": "characteristics'",
+    "n7": "a characteristic",
+    "n8": "many characteristics"
+}

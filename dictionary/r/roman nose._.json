@@ -1,0 +1,18 @@
+{
+    "base": "roman nose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roman nose",
+    "n2": "roman noses",
+    "n3": "the roman nose",
+    "n4": "the roman noses",
+    "n5": "roman nose's",
+    "n6": "roman noses'",
+    "n7": "a roman nose",
+    "n8": "many roman noses"
+}

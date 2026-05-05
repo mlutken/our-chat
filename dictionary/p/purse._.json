@@ -1,0 +1,18 @@
+{
+    "base": "purse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "purse",
+    "n2": "purses",
+    "n3": "the purse",
+    "n4": "the purses",
+    "n5": "purse's",
+    "n6": "purses'",
+    "n7": "a purse",
+    "n8": "many purses"
+}

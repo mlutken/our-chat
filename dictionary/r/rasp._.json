@@ -1,0 +1,18 @@
+{
+    "base": "rasp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rasp",
+    "n2": "rasps",
+    "n3": "the rasp",
+    "n4": "the rasps",
+    "n5": "rasp's",
+    "n6": "rasps'",
+    "n7": "a rasp",
+    "n8": "many rasps"
+}

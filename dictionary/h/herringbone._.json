@@ -1,0 +1,18 @@
+{
+    "base": "herringbone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "herringbone",
+    "n2": "herringbones",
+    "n3": "the herringbone",
+    "n4": "the herringbones",
+    "n5": "herringbone's",
+    "n6": "herringbones'",
+    "n7": "a herringbone",
+    "n8": "many herringbones"
+}

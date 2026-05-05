@@ -1,0 +1,18 @@
+{
+    "base": "sky",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n1": "sky",
+    "n2": "skies",
+    "n3": "the sky",
+    "n4": "the skies",
+    "n5": "sky's",
+    "n6": "skies'",
+    "n7": "a sky",
+    "n8": "many skies"
+}

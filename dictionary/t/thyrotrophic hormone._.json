@@ -1,0 +1,18 @@
+{
+    "base": "thyrotrophic hormone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thyrotrophic hormone",
+    "n2": "thyrotrophic hormones",
+    "n3": "the thyrotrophic hormone",
+    "n4": "the thyrotrophic hormones",
+    "n5": "thyrotrophic hormone's",
+    "n6": "thyrotrophic hormones'",
+    "n7": "a thyrotrophic hormone",
+    "n8": "many thyrotrophic hormones"
+}

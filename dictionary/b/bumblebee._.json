@@ -1,0 +1,18 @@
+{
+    "base": "bumblebee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "bumblebee",
+    "n2": "bumblebees",
+    "n3": "the bumblebee",
+    "n4": "the bumblebees",
+    "n5": "bumblebee's",
+    "n6": "bumblebees'",
+    "n7": "a bumblebee",
+    "n8": "many bumblebees"
+}

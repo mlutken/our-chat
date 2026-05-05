@@ -1,0 +1,18 @@
+{
+    "base": "holdup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holdup",
+    "n2": "holdups",
+    "n3": "the holdup",
+    "n4": "the holdups",
+    "n5": "holdup's",
+    "n6": "holdups'",
+    "n7": "a holdup",
+    "n8": "many holdups"
+}

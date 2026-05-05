@@ -1,0 +1,18 @@
+{
+    "base": "window shade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "window shade",
+    "n2": "window shades",
+    "n3": "the window shade",
+    "n4": "the window shades",
+    "n5": "window shade's",
+    "n6": "window shades'",
+    "n7": "a window shade",
+    "n8": "many window shades"
+}

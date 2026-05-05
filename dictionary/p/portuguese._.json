@@ -1,0 +1,18 @@
+{
+    "base": "portuguese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "portuguese",
+    "n2": "portugueses",
+    "n3": "the portuguese",
+    "n4": "the portugueses",
+    "n5": "portuguese's",
+    "n6": "portugueses'",
+    "n7": "a portuguese",
+    "n8": "many portugueses"
+}

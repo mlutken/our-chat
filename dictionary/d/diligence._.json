@@ -1,0 +1,18 @@
+{
+    "base": "diligence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diligence",
+    "n2": "diligences",
+    "n3": "the diligence",
+    "n4": "the diligences",
+    "n5": "diligence's",
+    "n6": "diligences'",
+    "n7": "a diligence",
+    "n8": "many diligences"
+}

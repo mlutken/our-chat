@@ -1,0 +1,18 @@
+{
+    "base": "malignancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "malignancy",
+    "n2": "malignancies",
+    "n3": "the malignancy",
+    "n4": "the malignancies",
+    "n5": "malignancy's",
+    "n6": "malignancies'",
+    "n7": "a malignancy",
+    "n8": "many malignancies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "consideration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "consideration",
+    "n2": "considerations",
+    "n3": "the consideration",
+    "n4": "the considerations",
+    "n5": "consideration's",
+    "n6": "considerations'",
+    "n7": "a consideration",
+    "n8": "many considerations"
+}

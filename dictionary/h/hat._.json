@@ -7,5 +7,12 @@
     "n2": "hats",
     "n3": "the hat",
     "n4": "the hats",
-    "n5": "hat's"
+    "n5": "hat's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "hats'",
+    "n7": "a hat",
+    "n8": "many hats"
 }

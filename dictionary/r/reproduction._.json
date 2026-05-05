@@ -1,0 +1,18 @@
+{
+    "base": "reproduction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reproduction",
+    "n2": "reproductions",
+    "n3": "the reproduction",
+    "n4": "the reproductions",
+    "n5": "reproduction's",
+    "n6": "reproductions'",
+    "n7": "a reproduction",
+    "n8": "many reproductions"
+}

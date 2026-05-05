@@ -1,0 +1,18 @@
+{
+    "base": "squeal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "squeal",
+    "n2": "squeals",
+    "n3": "the squeal",
+    "n4": "the squeals",
+    "n5": "squeal's",
+    "n6": "squeals'",
+    "n7": "a squeal",
+    "n8": "many squeals"
+}

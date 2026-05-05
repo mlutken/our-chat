@@ -1,0 +1,18 @@
+{
+    "base": "no man's land",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "no man's land",
+    "n2": "no man's lands",
+    "n3": "the no man's land",
+    "n4": "the no man's lands",
+    "n5": "no man's land's",
+    "n6": "no man's lands'",
+    "n7": "a no man's land",
+    "n8": "many no man's lands"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "validity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "validity",
+    "n2": "validities",
+    "n3": "the validity",
+    "n4": "the validities",
+    "n5": "validity's",
+    "n6": "validities'",
+    "n7": "a validity",
+    "n8": "many validities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "babel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "babel",
+    "n2": "babels",
+    "n3": "the babel",
+    "n4": "the babels",
+    "n5": "babel's",
+    "n6": "babels'",
+    "n7": "a babel",
+    "n8": "many babels"
+}

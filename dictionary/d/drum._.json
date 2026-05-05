@@ -1,11 +1,24 @@
 {
     "base": "drum",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "drum",
     "v2": "drummed",
     "v3": "drummed",
     "v4": "drumming",
-    "v5": "drums"
+    "v5": "drums",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "drum",
+    "n2": "drums",
+    "n3": "the drum",
+    "n4": "the drums",
+    "n5": "drum's",
+    "n6": "drums'",
+    "n7": "a drum",
+    "n8": "many drums"
 }

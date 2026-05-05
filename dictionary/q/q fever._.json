@@ -1,0 +1,18 @@
+{
+    "base": "q fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "q fever",
+    "n2": "q fevers",
+    "n3": "the q fever",
+    "n4": "the q fevers",
+    "n5": "q fever's",
+    "n6": "q fevers'",
+    "n7": "a q fever",
+    "n8": "many q fevers"
+}

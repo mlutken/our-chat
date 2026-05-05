@@ -1,0 +1,18 @@
+{
+    "base": "grocery store",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grocery store",
+    "n2": "grocery stores",
+    "n3": "the grocery store",
+    "n4": "the grocery stores",
+    "n5": "grocery store's",
+    "n6": "grocery stores'",
+    "n7": "a grocery store",
+    "n8": "many grocery stores"
+}

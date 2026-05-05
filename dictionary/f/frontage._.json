@@ -1,0 +1,18 @@
+{
+    "base": "frontage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "frontage",
+    "n2": "frontages",
+    "n3": "the frontage",
+    "n4": "the frontages",
+    "n5": "frontage's",
+    "n6": "frontages'",
+    "n7": "a frontage",
+    "n8": "many frontages"
+}

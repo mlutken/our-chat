@@ -1,0 +1,18 @@
+{
+    "base": "body part",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "body part",
+    "n2": "body parts",
+    "n3": "the body part",
+    "n4": "the body parts",
+    "n5": "body part's",
+    "n6": "body parts'",
+    "n7": "a body part",
+    "n8": "many body parts"
+}

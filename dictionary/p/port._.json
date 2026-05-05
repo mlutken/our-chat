@@ -1,0 +1,18 @@
+{
+    "base": "port",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "port",
+    "n2": "ports",
+    "n3": "the port",
+    "n4": "the ports",
+    "n5": "port's",
+    "n6": "ports'",
+    "n7": "a port",
+    "n8": "many ports"
+}

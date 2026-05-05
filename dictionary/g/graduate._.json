@@ -1,0 +1,18 @@
+{
+    "base": "graduate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "graduate",
+    "n2": "graduates",
+    "n3": "the graduate",
+    "n4": "the graduates",
+    "n5": "graduate's",
+    "n6": "graduates'",
+    "n7": "a graduate",
+    "n8": "many graduates"
+}

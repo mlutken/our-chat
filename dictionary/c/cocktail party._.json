@@ -1,0 +1,18 @@
+{
+    "base": "cocktail party",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "cocktail party",
+    "n2": "cocktail parties",
+    "n3": "the cocktail party",
+    "n4": "the cocktail parties",
+    "n5": "cocktail party's",
+    "n6": "cocktail parties'",
+    "n7": "a cocktail party",
+    "n8": "many cocktail parties"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "substrate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "substrate",
+    "n2": "substrates",
+    "n3": "the substrate",
+    "n4": "the substrates",
+    "n5": "substrate's",
+    "n6": "substrates'",
+    "n7": "a substrate",
+    "n8": "many substrates"
+}

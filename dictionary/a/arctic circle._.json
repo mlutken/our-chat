@@ -1,0 +1,18 @@
+{
+    "base": "arctic circle",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arctic circle",
+    "n2": "arctic circles",
+    "n3": "the arctic circle",
+    "n4": "the arctic circles",
+    "n5": "arctic circle's",
+    "n6": "arctic circles'",
+    "n7": "an arctic circle",
+    "n8": "many arctic circles"
+}

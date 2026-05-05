@@ -7,5 +7,12 @@
     "n2": "terms",
     "n3": "the term",
     "n4": "the terms",
-    "n5": "term's"
+    "n5": "term's",
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n6": "terms'",
+    "n7": "a term",
+    "n8": "many terms"
 }

@@ -7,5 +7,12 @@
     "n2": "buyers",
     "n3": "the buyer",
     "n4": "the buyers",
-    "n5": "buyer's"
+    "n5": "buyer's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "buyers'",
+    "n7": "a buyer",
+    "n8": "many buyers"
 }

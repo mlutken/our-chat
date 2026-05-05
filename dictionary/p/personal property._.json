@@ -1,0 +1,18 @@
+{
+    "base": "personal property",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "personal property",
+    "n2": "personal properties",
+    "n3": "the personal property",
+    "n4": "the personal properties",
+    "n5": "personal property's",
+    "n6": "personal properties'",
+    "n7": "a personal property",
+    "n8": "many personal properties"
+}

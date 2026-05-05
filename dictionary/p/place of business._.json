@@ -1,0 +1,18 @@
+{
+    "base": "place of business",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "place of business",
+    "n2": "place of businesses",
+    "n3": "the place of business",
+    "n4": "the place of businesses",
+    "n5": "place of business'",
+    "n6": "place of businesses'",
+    "n7": "a place of business",
+    "n8": "many place of businesses"
+}

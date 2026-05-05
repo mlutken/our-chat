@@ -1,0 +1,18 @@
+{
+    "base": "coffee break",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coffee break",
+    "n2": "coffee breaks",
+    "n3": "the coffee break",
+    "n4": "the coffee breaks",
+    "n5": "coffee break's",
+    "n6": "coffee breaks'",
+    "n7": "a coffee break",
+    "n8": "many coffee breaks"
+}

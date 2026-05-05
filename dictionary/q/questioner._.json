@@ -1,0 +1,18 @@
+{
+    "base": "questioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "questioner",
+    "n2": "questioners",
+    "n3": "the questioner",
+    "n4": "the questioners",
+    "n5": "questioner's",
+    "n6": "questioners'",
+    "n7": "a questioner",
+    "n8": "many questioners"
+}

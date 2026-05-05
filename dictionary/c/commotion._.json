@@ -1,0 +1,18 @@
+{
+    "base": "commotion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "commotion",
+    "n2": "commotions",
+    "n3": "the commotion",
+    "n4": "the commotions",
+    "n5": "commotion's",
+    "n6": "commotions'",
+    "n7": "a commotion",
+    "n8": "many commotions"
+}

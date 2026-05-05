@@ -7,5 +7,12 @@
     "n2": "capabilities",
     "n3": "the capability",
     "n4": "the capabilities",
-    "n5": "capability's"
+    "n5": "capability's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "capabilities'",
+    "n7": "a capability",
+    "n8": "many capabilities"
 }

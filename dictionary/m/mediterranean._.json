@@ -1,0 +1,18 @@
+{
+    "base": "mediterranean",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mediterranean",
+    "n2": "mediterraneans",
+    "n3": "the mediterranean",
+    "n4": "the mediterraneans",
+    "n5": "mediterranean's",
+    "n6": "mediterraneans'",
+    "n7": "a mediterranean",
+    "n8": "many mediterraneans"
+}

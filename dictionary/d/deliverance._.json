@@ -1,0 +1,18 @@
+{
+    "base": "deliverance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deliverance",
+    "n2": "deliverances",
+    "n3": "the deliverance",
+    "n4": "the deliverances",
+    "n5": "deliverance's",
+    "n6": "deliverances'",
+    "n7": "a deliverance",
+    "n8": "many deliverances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fifteen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fifteen",
+    "n2": "fifteens",
+    "n3": "the fifteen",
+    "n4": "the fifteens",
+    "n5": "fifteen's",
+    "n6": "fifteens'",
+    "n7": "a fifteen",
+    "n8": "many fifteens"
+}

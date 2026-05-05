@@ -1,0 +1,18 @@
+{
+    "base": "salvation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "salvation",
+    "n2": "salvations",
+    "n3": "the salvation",
+    "n4": "the salvations",
+    "n5": "salvation's",
+    "n6": "salvations'",
+    "n7": "a salvation",
+    "n8": "many salvations"
+}

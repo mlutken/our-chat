@@ -1,0 +1,18 @@
+{
+    "base": "right angle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "right angle",
+    "n2": "right angles",
+    "n3": "the right angle",
+    "n4": "the right angles",
+    "n5": "right angle's",
+    "n6": "right angles'",
+    "n7": "a right angle",
+    "n8": "many right angles"
+}

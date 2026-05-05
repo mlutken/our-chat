@@ -1,0 +1,18 @@
+{
+    "base": "abode",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abode",
+    "n2": "abodes",
+    "n3": "the abode",
+    "n4": "the abodes",
+    "n5": "abode's",
+    "n6": "abodes'",
+    "n7": "an abode",
+    "n8": "many abodes"
+}

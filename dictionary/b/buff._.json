@@ -1,0 +1,18 @@
+{
+    "base": "buff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "buff",
+    "n2": "bufves",
+    "n3": "the buff",
+    "n4": "the bufves",
+    "n5": "buff's",
+    "n6": "bufves'",
+    "n7": "a buff",
+    "n8": "many bufves"
+}

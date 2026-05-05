@@ -1,0 +1,18 @@
+{
+    "base": "ideal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "ideal",
+    "n2": "ideals",
+    "n3": "the ideal",
+    "n4": "the ideals",
+    "n5": "ideal's",
+    "n6": "ideals'",
+    "n7": "an ideal",
+    "n8": "many ideals"
+}

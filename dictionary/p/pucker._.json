@@ -1,0 +1,18 @@
+{
+    "base": "pucker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pucker",
+    "n2": "puckers",
+    "n3": "the pucker",
+    "n4": "the puckers",
+    "n5": "pucker's",
+    "n6": "puckers'",
+    "n7": "a pucker",
+    "n8": "many puckers"
+}

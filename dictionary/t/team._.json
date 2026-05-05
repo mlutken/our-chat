@@ -1,0 +1,18 @@
+{
+    "base": "team",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 51,
+    "max_commonness": 6834,
+    "commonness_ge_count": 322,
+    "n1": "team",
+    "n2": "teams",
+    "n3": "the team",
+    "n4": "the teams",
+    "n5": "team's",
+    "n6": "teams'",
+    "n7": "a team",
+    "n8": "many teams"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "private property",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "private property",
+    "n2": "private properties",
+    "n3": "the private property",
+    "n4": "the private properties",
+    "n5": "private property's",
+    "n6": "private properties'",
+    "n7": "a private property",
+    "n8": "many private properties"
+}

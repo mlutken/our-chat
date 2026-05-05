@@ -1,0 +1,18 @@
+{
+    "base": "waking up",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waking up",
+    "n2": "waking ups",
+    "n3": "the waking up",
+    "n4": "the waking ups",
+    "n5": "waking up's",
+    "n6": "waking ups'",
+    "n7": "a waking up",
+    "n8": "many waking ups"
+}

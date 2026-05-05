@@ -1,0 +1,18 @@
+{
+    "base": "great-niece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "great-niece",
+    "n2": "great-nieces",
+    "n3": "the great-niece",
+    "n4": "the great-nieces",
+    "n5": "great-niece's",
+    "n6": "great-nieces'",
+    "n7": "a great-niece",
+    "n8": "many great-nieces"
+}

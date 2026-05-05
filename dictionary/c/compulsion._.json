@@ -1,0 +1,18 @@
+{
+    "base": "compulsion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "compulsion",
+    "n2": "compulsions",
+    "n3": "the compulsion",
+    "n4": "the compulsions",
+    "n5": "compulsion's",
+    "n6": "compulsions'",
+    "n7": "a compulsion",
+    "n8": "many compulsions"
+}

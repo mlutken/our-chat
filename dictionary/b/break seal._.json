@@ -1,0 +1,18 @@
+{
+    "base": "break seal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "break seal",
+    "n2": "break seals",
+    "n3": "the break seal",
+    "n4": "the break seals",
+    "n5": "break seal's",
+    "n6": "break seals'",
+    "n7": "a break seal",
+    "n8": "many break seals"
+}

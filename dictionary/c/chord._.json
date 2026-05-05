@@ -1,0 +1,18 @@
+{
+    "base": "chord",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "chord",
+    "n2": "chords",
+    "n3": "the chord",
+    "n4": "the chords",
+    "n5": "chord's",
+    "n6": "chords'",
+    "n7": "a chord",
+    "n8": "many chords"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "throng",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "throng",
+    "n2": "throngs",
+    "n3": "the throng",
+    "n4": "the throngs",
+    "n5": "throng's",
+    "n6": "throngs'",
+    "n7": "a throng",
+    "n8": "many throngs"
+}

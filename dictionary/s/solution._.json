@@ -7,5 +7,12 @@
     "n2": "solutions",
     "n3": "the solution",
     "n4": "the solutions",
-    "n5": "solution's"
+    "n5": "solution's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "solutions'",
+    "n7": "a solution",
+    "n8": "many solutions"
 }

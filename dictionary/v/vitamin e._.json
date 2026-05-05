@@ -1,0 +1,18 @@
+{
+    "base": "vitamin e",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vitamin e",
+    "n2": "vitamin es",
+    "n3": "the vitamin e",
+    "n4": "the vitamin es",
+    "n5": "vitamin e's",
+    "n6": "vitamin es'",
+    "n7": "a vitamin e",
+    "n8": "many vitamin es"
+}

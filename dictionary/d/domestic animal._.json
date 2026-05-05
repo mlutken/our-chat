@@ -1,0 +1,18 @@
+{
+    "base": "domestic animal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "domestic animal",
+    "n2": "domestic animals",
+    "n3": "the domestic animal",
+    "n4": "the domestic animals",
+    "n5": "domestic animal's",
+    "n6": "domestic animals'",
+    "n7": "a domestic animal",
+    "n8": "many domestic animals"
+}

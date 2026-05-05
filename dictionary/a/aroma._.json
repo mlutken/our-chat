@@ -1,0 +1,18 @@
+{
+    "base": "aroma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aroma",
+    "n2": "aromas",
+    "n3": "the aroma",
+    "n4": "the aromas",
+    "n5": "aroma's",
+    "n6": "aromas'",
+    "n7": "an aroma",
+    "n8": "many aromas"
+}

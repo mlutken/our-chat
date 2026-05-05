@@ -1,0 +1,18 @@
+{
+    "base": "breeze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "breeze",
+    "n2": "breezes",
+    "n3": "the breeze",
+    "n4": "the breezes",
+    "n5": "breeze's",
+    "n6": "breezes'",
+    "n7": "a breeze",
+    "n8": "many breezes"
+}

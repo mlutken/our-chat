@@ -1,0 +1,18 @@
+{
+    "base": "pathogenesis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pathogenesis",
+    "n2": "pathogenesises",
+    "n3": "the pathogenesis",
+    "n4": "the pathogenesises",
+    "n5": "pathogenesis'",
+    "n6": "pathogenesises'",
+    "n7": "a pathogenesis",
+    "n8": "many pathogenesises"
+}

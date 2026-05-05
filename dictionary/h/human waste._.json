@@ -1,0 +1,18 @@
+{
+    "base": "human waste",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "human waste",
+    "n2": "human wastes",
+    "n3": "the human waste",
+    "n4": "the human wastes",
+    "n5": "human waste's",
+    "n6": "human wastes'",
+    "n7": "a human waste",
+    "n8": "many human wastes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "coping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coping",
+    "n2": "copings",
+    "n3": "the coping",
+    "n4": "the copings",
+    "n5": "coping's",
+    "n6": "copings'",
+    "n7": "a coping",
+    "n8": "many copings"
+}

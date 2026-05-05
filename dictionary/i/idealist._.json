@@ -1,0 +1,18 @@
+{
+    "base": "idealist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "idealist",
+    "n2": "idealists",
+    "n3": "the idealist",
+    "n4": "the idealists",
+    "n5": "idealist's",
+    "n6": "idealists'",
+    "n7": "an idealist",
+    "n8": "many idealists"
+}

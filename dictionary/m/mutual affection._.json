@@ -1,0 +1,18 @@
+{
+    "base": "mutual affection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mutual affection",
+    "n2": "mutual affections",
+    "n3": "the mutual affection",
+    "n4": "the mutual affections",
+    "n5": "mutual affection's",
+    "n6": "mutual affections'",
+    "n7": "a mutual affection",
+    "n8": "many mutual affections"
+}

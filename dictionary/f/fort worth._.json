@@ -1,0 +1,18 @@
+{
+    "base": "fort worth",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fort worth",
+    "n2": "fort worths",
+    "n3": "the fort worth",
+    "n4": "the fort worths",
+    "n5": "fort worth's",
+    "n6": "fort worths'",
+    "n7": "a fort worth",
+    "n8": "many fort worths"
+}

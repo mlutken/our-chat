@@ -1,0 +1,18 @@
+{
+    "base": "motorcar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "motorcar",
+    "n2": "motorcars",
+    "n3": "the motorcar",
+    "n4": "the motorcars",
+    "n5": "motorcar's",
+    "n6": "motorcars'",
+    "n7": "a motorcar",
+    "n8": "many motorcars"
+}

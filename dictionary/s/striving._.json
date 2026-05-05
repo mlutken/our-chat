@@ -1,0 +1,18 @@
+{
+    "base": "striving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "striving",
+    "n2": "strivings",
+    "n3": "the striving",
+    "n4": "the strivings",
+    "n5": "striving's",
+    "n6": "strivings'",
+    "n7": "a striving",
+    "n8": "many strivings"
+}

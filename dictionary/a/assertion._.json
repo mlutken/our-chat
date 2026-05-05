@@ -1,0 +1,18 @@
+{
+    "base": "assertion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "assertion",
+    "n2": "assertions",
+    "n3": "the assertion",
+    "n4": "the assertions",
+    "n5": "assertion's",
+    "n6": "assertions'",
+    "n7": "an assertion",
+    "n8": "many assertions"
+}

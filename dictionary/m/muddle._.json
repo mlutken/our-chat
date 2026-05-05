@@ -1,0 +1,18 @@
+{
+    "base": "muddle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muddle",
+    "n2": "muddles",
+    "n3": "the muddle",
+    "n4": "the muddles",
+    "n5": "muddle's",
+    "n6": "muddles'",
+    "n7": "a muddle",
+    "n8": "many muddles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "water development",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water development",
+    "n2": "water developments",
+    "n3": "the water development",
+    "n4": "the water developments",
+    "n5": "water development's",
+    "n6": "water developments'",
+    "n7": "a water development",
+    "n8": "many water developments"
+}

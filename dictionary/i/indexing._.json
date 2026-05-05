@@ -1,0 +1,18 @@
+{
+    "base": "indexing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indexing",
+    "n2": "indexings",
+    "n3": "the indexing",
+    "n4": "the indexings",
+    "n5": "indexing's",
+    "n6": "indexings'",
+    "n7": "an indexing",
+    "n8": "many indexings"
+}

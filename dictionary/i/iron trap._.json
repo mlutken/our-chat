@@ -1,0 +1,18 @@
+{
+    "base": "iron trap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "iron trap",
+    "n2": "iron traps",
+    "n3": "the iron trap",
+    "n4": "the iron traps",
+    "n5": "iron trap's",
+    "n6": "iron traps'",
+    "n7": "an iron trap",
+    "n8": "many iron traps"
+}

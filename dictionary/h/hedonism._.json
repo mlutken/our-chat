@@ -1,0 +1,18 @@
+{
+    "base": "hedonism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hedonism",
+    "n2": "hedonisms",
+    "n3": "the hedonism",
+    "n4": "the hedonisms",
+    "n5": "hedonism's",
+    "n6": "hedonisms'",
+    "n7": "a hedonism",
+    "n8": "many hedonisms"
+}

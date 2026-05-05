@@ -1,0 +1,18 @@
+{
+    "base": "highwayman",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "highwayman",
+    "n2": "highwaymen",
+    "n3": "the highwayman",
+    "n4": "the highwaymen",
+    "n5": "highwayman's",
+    "n6": "highwaymen's",
+    "n7": "a highwayman",
+    "n8": "many highwaymen"
+}

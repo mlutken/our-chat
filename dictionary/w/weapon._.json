@@ -1,0 +1,18 @@
+{
+    "base": "weapon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "weapon",
+    "n2": "weapons",
+    "n3": "the weapon",
+    "n4": "the weapons",
+    "n5": "weapon's",
+    "n6": "weapons'",
+    "n7": "a weapon",
+    "n8": "many weapons"
+}

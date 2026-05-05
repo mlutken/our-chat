@@ -1,0 +1,18 @@
+{
+    "base": "advocacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "advocacy",
+    "n2": "advocacies",
+    "n3": "the advocacy",
+    "n4": "the advocacies",
+    "n5": "advocacy's",
+    "n6": "advocacies'",
+    "n7": "an advocacy",
+    "n8": "many advocacies"
+}

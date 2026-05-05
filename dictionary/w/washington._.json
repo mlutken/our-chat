@@ -1,0 +1,18 @@
+{
+    "base": "washington",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n1": "washington",
+    "n2": "washingtons",
+    "n3": "the washington",
+    "n4": "the washingtons",
+    "n5": "washington's",
+    "n6": "washingtons'",
+    "n7": "a washington",
+    "n8": "many washingtons"
+}

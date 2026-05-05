@@ -1,0 +1,18 @@
+{
+    "base": "sincerity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sincerity",
+    "n2": "sincerities",
+    "n3": "the sincerity",
+    "n4": "the sincerities",
+    "n5": "sincerity's",
+    "n6": "sincerities'",
+    "n7": "a sincerity",
+    "n8": "many sincerities"
+}

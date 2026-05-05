@@ -1,0 +1,18 @@
+{
+    "base": "heading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heading",
+    "n2": "headings",
+    "n3": "the heading",
+    "n4": "the headings",
+    "n5": "heading's",
+    "n6": "headings'",
+    "n7": "a heading",
+    "n8": "many headings"
+}

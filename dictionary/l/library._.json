@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "library",
-    "n2": "librarys",
+    "n2": "libraries",
     "n3": "the library",
-    "n4": "the librarys",
-    "n5": "library's"
+    "n4": "the libraries",
+    "n5": "library's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "libraries'",
+    "n7": "a library",
+    "n8": "many libraries"
 }

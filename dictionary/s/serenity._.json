@@ -1,0 +1,18 @@
+{
+    "base": "serenity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "serenity",
+    "n2": "serenities",
+    "n3": "the serenity",
+    "n4": "the serenities",
+    "n5": "serenity's",
+    "n6": "serenities'",
+    "n7": "a serenity",
+    "n8": "many serenities"
+}

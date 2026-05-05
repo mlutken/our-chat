@@ -1,0 +1,18 @@
+{
+    "base": "navel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "navel",
+    "n2": "navels",
+    "n3": "the navel",
+    "n4": "the navels",
+    "n5": "navel's",
+    "n6": "navels'",
+    "n7": "a navel",
+    "n8": "many navels"
+}

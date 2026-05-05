@@ -1,0 +1,18 @@
+{
+    "base": "dane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dane",
+    "n2": "danes",
+    "n3": "the dane",
+    "n4": "the danes",
+    "n5": "dane's",
+    "n6": "danes'",
+    "n7": "a dane",
+    "n8": "many danes"
+}

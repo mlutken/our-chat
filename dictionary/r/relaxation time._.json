@@ -1,0 +1,18 @@
+{
+    "base": "relaxation time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "relaxation time",
+    "n2": "relaxation times",
+    "n3": "the relaxation time",
+    "n4": "the relaxation times",
+    "n5": "relaxation time's",
+    "n6": "relaxation times'",
+    "n7": "a relaxation time",
+    "n8": "many relaxation times"
+}

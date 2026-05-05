@@ -1,0 +1,18 @@
+{
+    "base": "liner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liner",
+    "n2": "liners",
+    "n3": "the liner",
+    "n4": "the liners",
+    "n5": "liner's",
+    "n6": "liners'",
+    "n7": "a liner",
+    "n8": "many liners"
+}

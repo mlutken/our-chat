@@ -1,0 +1,18 @@
+{
+    "base": "marginal cost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "marginal cost",
+    "n2": "marginal costs",
+    "n3": "the marginal cost",
+    "n4": "the marginal costs",
+    "n5": "marginal cost's",
+    "n6": "marginal costs'",
+    "n7": "a marginal cost",
+    "n8": "many marginal costs"
+}

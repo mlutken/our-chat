@@ -1,0 +1,18 @@
+{
+    "base": "pay rate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pay rate",
+    "n2": "pay rates",
+    "n3": "the pay rate",
+    "n4": "the pay rates",
+    "n5": "pay rate's",
+    "n6": "pay rates'",
+    "n7": "a pay rate",
+    "n8": "many pay rates"
+}

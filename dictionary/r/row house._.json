@@ -1,0 +1,18 @@
+{
+    "base": "row house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "row house",
+    "n2": "row houses",
+    "n3": "the row house",
+    "n4": "the row houses",
+    "n5": "row house's",
+    "n6": "row houses'",
+    "n7": "a row house",
+    "n8": "many row houses"
+}

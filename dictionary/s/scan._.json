@@ -1,0 +1,18 @@
+{
+    "base": "scan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "scan",
+    "n2": "scans",
+    "n3": "the scan",
+    "n4": "the scans",
+    "n5": "scan's",
+    "n6": "scans'",
+    "n7": "a scan",
+    "n8": "many scans"
+}

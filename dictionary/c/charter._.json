@@ -1,0 +1,18 @@
+{
+    "base": "charter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "charter",
+    "n2": "charters",
+    "n3": "the charter",
+    "n4": "the charters",
+    "n5": "charter's",
+    "n6": "charters'",
+    "n7": "a charter",
+    "n8": "many charters"
+}

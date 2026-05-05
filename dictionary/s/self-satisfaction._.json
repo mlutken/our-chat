@@ -1,0 +1,18 @@
+{
+    "base": "self-satisfaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "self-satisfaction",
+    "n2": "self-satisfactions",
+    "n3": "the self-satisfaction",
+    "n4": "the self-satisfactions",
+    "n5": "self-satisfaction's",
+    "n6": "self-satisfactions'",
+    "n7": "a self-satisfaction",
+    "n8": "many self-satisfactions"
+}

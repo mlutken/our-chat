@@ -1,0 +1,18 @@
+{
+    "base": "disappearance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "disappearance",
+    "n2": "disappearances",
+    "n3": "the disappearance",
+    "n4": "the disappearances",
+    "n5": "disappearance's",
+    "n6": "disappearances'",
+    "n7": "a disappearance",
+    "n8": "many disappearances"
+}

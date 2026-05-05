@@ -1,0 +1,18 @@
+{
+    "base": "sorption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sorption",
+    "n2": "sorptions",
+    "n3": "the sorption",
+    "n4": "the sorptions",
+    "n5": "sorption's",
+    "n6": "sorptions'",
+    "n7": "a sorption",
+    "n8": "many sorptions"
+}

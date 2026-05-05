@@ -7,5 +7,12 @@
     "n2": "brands",
     "n3": "the brand",
     "n4": "the brands",
-    "n5": "brand's"
+    "n5": "brand's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "brands'",
+    "n7": "a brand",
+    "n8": "many brands"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "bather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bather",
+    "n2": "bathers",
+    "n3": "the bather",
+    "n4": "the bathers",
+    "n5": "bather's",
+    "n6": "bathers'",
+    "n7": "a bather",
+    "n8": "many bathers"
+}

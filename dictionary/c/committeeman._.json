@@ -1,0 +1,18 @@
+{
+    "base": "committeeman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "committeeman",
+    "n2": "committeemen",
+    "n3": "the committeeman",
+    "n4": "the committeemen",
+    "n5": "committeeman's",
+    "n6": "committeemen's",
+    "n7": "a committeeman",
+    "n8": "many committeemen"
+}

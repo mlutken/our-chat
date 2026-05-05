@@ -1,0 +1,18 @@
+{
+    "base": "holy sacrament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holy sacrament",
+    "n2": "holy sacraments",
+    "n3": "the holy sacrament",
+    "n4": "the holy sacraments",
+    "n5": "holy sacrament's",
+    "n6": "holy sacraments'",
+    "n7": "a holy sacrament",
+    "n8": "many holy sacraments"
+}

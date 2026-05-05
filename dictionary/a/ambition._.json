@@ -7,5 +7,12 @@
     "n2": "ambitions",
     "n3": "the ambition",
     "n4": "the ambitions",
-    "n5": "ambition's"
+    "n5": "ambition's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "ambitions'",
+    "n7": "an ambition",
+    "n8": "many ambitions"
 }

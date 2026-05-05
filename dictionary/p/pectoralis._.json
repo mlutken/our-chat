@@ -1,0 +1,18 @@
+{
+    "base": "pectoralis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pectoralis",
+    "n2": "pectoralises",
+    "n3": "the pectoralis",
+    "n4": "the pectoralises",
+    "n5": "pectoralis'",
+    "n6": "pectoralises'",
+    "n7": "a pectoralis",
+    "n8": "many pectoralises"
+}

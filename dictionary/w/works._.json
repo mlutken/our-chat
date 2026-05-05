@@ -1,0 +1,18 @@
+{
+    "base": "works",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "works",
+    "n2": "workses",
+    "n3": "the works",
+    "n4": "the workses",
+    "n5": "works'",
+    "n6": "workses'",
+    "n7": "a works",
+    "n8": "many workses"
+}

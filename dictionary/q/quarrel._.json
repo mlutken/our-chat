@@ -1,0 +1,18 @@
+{
+    "base": "quarrel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "quarrel",
+    "n2": "quarrels",
+    "n3": "the quarrel",
+    "n4": "the quarrels",
+    "n5": "quarrel's",
+    "n6": "quarrels'",
+    "n7": "a quarrel",
+    "n8": "many quarrels"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "altitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "altitude",
+    "n2": "altitudes",
+    "n3": "the altitude",
+    "n4": "the altitudes",
+    "n5": "altitude's",
+    "n6": "altitudes'",
+    "n7": "an altitude",
+    "n8": "many altitudes"
+}

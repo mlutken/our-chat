@@ -1,0 +1,18 @@
+{
+    "base": "silence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "silence",
+    "n2": "silences",
+    "n3": "the silence",
+    "n4": "the silences",
+    "n5": "silence's",
+    "n6": "silences'",
+    "n7": "a silence",
+    "n8": "many silences"
+}

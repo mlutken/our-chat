@@ -1,0 +1,18 @@
+{
+    "base": "north",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "north",
+    "n2": "norths",
+    "n3": "the north",
+    "n4": "the norths",
+    "n5": "north's",
+    "n6": "norths'",
+    "n7": "a north",
+    "n8": "many norths"
+}

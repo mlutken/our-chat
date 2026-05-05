@@ -1,0 +1,18 @@
+{
+    "base": "utopia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "utopia",
+    "n2": "utopias",
+    "n3": "the utopia",
+    "n4": "the utopias",
+    "n5": "utopia's",
+    "n6": "utopias'",
+    "n7": "an utopia",
+    "n8": "many utopias"
+}

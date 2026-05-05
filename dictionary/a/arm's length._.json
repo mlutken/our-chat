@@ -1,0 +1,18 @@
+{
+    "base": "arm's length",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arm's length",
+    "n2": "arm's lengths",
+    "n3": "the arm's length",
+    "n4": "the arm's lengths",
+    "n5": "arm's length's",
+    "n6": "arm's lengths'",
+    "n7": "an arm's length",
+    "n8": "many arm's lengths"
+}

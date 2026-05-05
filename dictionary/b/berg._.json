@@ -1,0 +1,18 @@
+{
+    "base": "berg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "berg",
+    "n2": "bergs",
+    "n3": "the berg",
+    "n4": "the bergs",
+    "n5": "berg's",
+    "n6": "bergs'",
+    "n7": "a berg",
+    "n8": "many bergs"
+}

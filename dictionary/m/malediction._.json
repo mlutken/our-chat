@@ -1,0 +1,18 @@
+{
+    "base": "malediction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "malediction",
+    "n2": "maledictions",
+    "n3": "the malediction",
+    "n4": "the maledictions",
+    "n5": "malediction's",
+    "n6": "maledictions'",
+    "n7": "a malediction",
+    "n8": "many maledictions"
+}

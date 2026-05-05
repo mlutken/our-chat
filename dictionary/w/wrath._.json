@@ -1,0 +1,18 @@
+{
+    "base": "wrath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "wrath",
+    "n2": "wraths",
+    "n3": "the wrath",
+    "n4": "the wraths",
+    "n5": "wrath's",
+    "n6": "wraths'",
+    "n7": "a wrath",
+    "n8": "many wraths"
+}

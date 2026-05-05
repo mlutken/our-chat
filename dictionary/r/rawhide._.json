@@ -1,0 +1,18 @@
+{
+    "base": "rawhide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rawhide",
+    "n2": "rawhides",
+    "n3": "the rawhide",
+    "n4": "the rawhides",
+    "n5": "rawhide's",
+    "n6": "rawhides'",
+    "n7": "a rawhide",
+    "n8": "many rawhides"
+}

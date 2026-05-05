@@ -1,0 +1,18 @@
+{
+    "base": "tropidoclonion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tropidoclonion",
+    "n2": "tropidoclonions",
+    "n3": "the tropidoclonion",
+    "n4": "the tropidoclonions",
+    "n5": "tropidoclonion's",
+    "n6": "tropidoclonions'",
+    "n7": "a tropidoclonion",
+    "n8": "many tropidoclonions"
+}

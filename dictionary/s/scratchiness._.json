@@ -1,0 +1,18 @@
+{
+    "base": "scratchiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scratchiness",
+    "n2": "scratchinesses",
+    "n3": "the scratchiness",
+    "n4": "the scratchinesses",
+    "n5": "scratchiness'",
+    "n6": "scratchinesses'",
+    "n7": "a scratchiness",
+    "n8": "many scratchinesses"
+}

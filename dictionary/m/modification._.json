@@ -1,0 +1,18 @@
+{
+    "base": "modification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "modification",
+    "n2": "modifications",
+    "n3": "the modification",
+    "n4": "the modifications",
+    "n5": "modification's",
+    "n6": "modifications'",
+    "n7": "a modification",
+    "n8": "many modifications"
+}

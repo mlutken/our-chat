@@ -1,0 +1,18 @@
+{
+    "base": "industrial park",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "industrial park",
+    "n2": "industrial parks",
+    "n3": "the industrial park",
+    "n4": "the industrial parks",
+    "n5": "industrial park's",
+    "n6": "industrial parks'",
+    "n7": "an industrial park",
+    "n8": "many industrial parks"
+}

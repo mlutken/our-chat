@@ -1,0 +1,18 @@
+{
+    "base": "salve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "salve",
+    "n2": "salves",
+    "n3": "the salve",
+    "n4": "the salves",
+    "n5": "salve's",
+    "n6": "salves'",
+    "n7": "a salve",
+    "n8": "many salves"
+}

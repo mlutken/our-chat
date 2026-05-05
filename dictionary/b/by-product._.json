@@ -1,0 +1,18 @@
+{
+    "base": "by-product",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "by-product",
+    "n2": "by-products",
+    "n3": "the by-product",
+    "n4": "the by-products",
+    "n5": "by-product's",
+    "n6": "by-products'",
+    "n7": "a by-product",
+    "n8": "many by-products"
+}

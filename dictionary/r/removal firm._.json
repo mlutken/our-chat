@@ -1,0 +1,18 @@
+{
+    "base": "removal firm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "removal firm",
+    "n2": "removal firms",
+    "n3": "the removal firm",
+    "n4": "the removal firms",
+    "n5": "removal firm's",
+    "n6": "removal firms'",
+    "n7": "a removal firm",
+    "n8": "many removal firms"
+}

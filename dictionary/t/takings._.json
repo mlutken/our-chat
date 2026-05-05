@@ -1,0 +1,18 @@
+{
+    "base": "takings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "takings",
+    "n2": "takingses",
+    "n3": "the takings",
+    "n4": "the takingses",
+    "n5": "takings'",
+    "n6": "takingses'",
+    "n7": "a takings",
+    "n8": "many takingses"
+}

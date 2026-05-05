@@ -1,0 +1,18 @@
+{
+    "base": "honeymoon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "honeymoon",
+    "n2": "honeymoons",
+    "n3": "the honeymoon",
+    "n4": "the honeymoons",
+    "n5": "honeymoon's",
+    "n6": "honeymoons'",
+    "n7": "a honeymoon",
+    "n8": "many honeymoons"
+}

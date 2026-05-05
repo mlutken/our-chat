@@ -7,5 +7,12 @@
     "n2": "oranges",
     "n3": "the orange",
     "n4": "the oranges",
-    "n5": "orange's"
+    "n5": "orange's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "oranges'",
+    "n7": "an orange",
+    "n8": "many oranges"
 }

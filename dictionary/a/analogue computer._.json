@@ -1,0 +1,18 @@
+{
+    "base": "analogue computer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "analogue computer",
+    "n2": "analogue computers",
+    "n3": "the analogue computer",
+    "n4": "the analogue computers",
+    "n5": "analogue computer's",
+    "n6": "analogue computers'",
+    "n7": "an analogue computer",
+    "n8": "many analogue computers"
+}

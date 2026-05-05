@@ -1,0 +1,18 @@
+{
+    "base": "mudguard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mudguard",
+    "n2": "mudguards",
+    "n3": "the mudguard",
+    "n4": "the mudguards",
+    "n5": "mudguard's",
+    "n6": "mudguards'",
+    "n7": "a mudguard",
+    "n8": "many mudguards"
+}

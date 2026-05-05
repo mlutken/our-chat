@@ -1,0 +1,18 @@
+{
+    "base": "derivative",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "derivative",
+    "n2": "derivatives",
+    "n3": "the derivative",
+    "n4": "the derivatives",
+    "n5": "derivative's",
+    "n6": "derivatives'",
+    "n7": "a derivative",
+    "n8": "many derivatives"
+}

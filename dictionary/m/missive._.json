@@ -1,0 +1,18 @@
+{
+    "base": "missive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "missive",
+    "n2": "missives",
+    "n3": "the missive",
+    "n4": "the missives",
+    "n5": "missive's",
+    "n6": "missives'",
+    "n7": "a missive",
+    "n8": "many missives"
+}

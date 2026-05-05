@@ -1,0 +1,18 @@
+{
+    "base": "upshot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "upshot",
+    "n2": "upshots",
+    "n3": "the upshot",
+    "n4": "the upshots",
+    "n5": "upshot's",
+    "n6": "upshots'",
+    "n7": "an upshot",
+    "n8": "many upshots"
+}

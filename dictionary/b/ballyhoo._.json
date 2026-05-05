@@ -1,0 +1,18 @@
+{
+    "base": "ballyhoo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ballyhoo",
+    "n2": "ballyhoos",
+    "n3": "the ballyhoo",
+    "n4": "the ballyhoos",
+    "n5": "ballyhoo's",
+    "n6": "ballyhoos'",
+    "n7": "a ballyhoo",
+    "n8": "many ballyhoos"
+}

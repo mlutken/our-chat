@@ -1,0 +1,18 @@
+{
+    "base": "ethanol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ethanol",
+    "n2": "ethanols",
+    "n3": "the ethanol",
+    "n4": "the ethanols",
+    "n5": "ethanol's",
+    "n6": "ethanols'",
+    "n7": "an ethanol",
+    "n8": "many ethanols"
+}

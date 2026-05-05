@@ -1,0 +1,18 @@
+{
+    "base": "outrage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "outrage",
+    "n2": "outrages",
+    "n3": "the outrage",
+    "n4": "the outrages",
+    "n5": "outrage's",
+    "n6": "outrages'",
+    "n7": "an outrage",
+    "n8": "many outrages"
+}

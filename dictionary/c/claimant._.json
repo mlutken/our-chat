@@ -1,0 +1,18 @@
+{
+    "base": "claimant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "claimant",
+    "n2": "claimants",
+    "n3": "the claimant",
+    "n4": "the claimants",
+    "n5": "claimant's",
+    "n6": "claimants'",
+    "n7": "a claimant",
+    "n8": "many claimants"
+}

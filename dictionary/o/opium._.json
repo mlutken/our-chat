@@ -1,0 +1,18 @@
+{
+    "base": "opium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "opium",
+    "n2": "opiums",
+    "n3": "the opium",
+    "n4": "the opiums",
+    "n5": "opium's",
+    "n6": "opiums'",
+    "n7": "an opium",
+    "n8": "many opiums"
+}

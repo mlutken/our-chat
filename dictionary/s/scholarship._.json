@@ -1,0 +1,18 @@
+{
+    "base": "scholarship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "scholarship",
+    "n2": "scholarships",
+    "n3": "the scholarship",
+    "n4": "the scholarships",
+    "n5": "scholarship's",
+    "n6": "scholarships'",
+    "n7": "a scholarship",
+    "n8": "many scholarships"
+}

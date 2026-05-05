@@ -1,0 +1,18 @@
+{
+    "base": "wrist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "wrist",
+    "n2": "wrists",
+    "n3": "the wrist",
+    "n4": "the wrists",
+    "n5": "wrist's",
+    "n6": "wrists'",
+    "n7": "a wrist",
+    "n8": "many wrists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "easy money",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "easy money",
+    "n2": "easy moneys",
+    "n3": "the easy money",
+    "n4": "the easy moneys",
+    "n5": "easy money's",
+    "n6": "easy moneys'",
+    "n7": "an easy money",
+    "n8": "many easy moneys"
+}

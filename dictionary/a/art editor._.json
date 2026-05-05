@@ -1,0 +1,18 @@
+{
+    "base": "art editor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "art editor",
+    "n2": "art editors",
+    "n3": "the art editor",
+    "n4": "the art editors",
+    "n5": "art editor's",
+    "n6": "art editors'",
+    "n7": "an art editor",
+    "n8": "many art editors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sherry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sherry",
+    "n2": "sherries",
+    "n3": "the sherry",
+    "n4": "the sherries",
+    "n5": "sherry's",
+    "n6": "sherries'",
+    "n7": "a sherry",
+    "n8": "many sherries"
+}

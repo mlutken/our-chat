@@ -1,0 +1,18 @@
+{
+    "base": "surmise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "surmise",
+    "n2": "surmises",
+    "n3": "the surmise",
+    "n4": "the surmises",
+    "n5": "surmise's",
+    "n6": "surmises'",
+    "n7": "a surmise",
+    "n8": "many surmises"
+}

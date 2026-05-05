@@ -1,0 +1,18 @@
+{
+    "base": "campus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "campus",
+    "n2": "campuses",
+    "n3": "the campus",
+    "n4": "the campuses",
+    "n5": "campus'",
+    "n6": "campuses'",
+    "n7": "a campus",
+    "n8": "many campuses"
+}

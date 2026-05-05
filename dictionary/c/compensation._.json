@@ -1,0 +1,18 @@
+{
+    "base": "compensation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "compensation",
+    "n2": "compensations",
+    "n3": "the compensation",
+    "n4": "the compensations",
+    "n5": "compensation's",
+    "n6": "compensations'",
+    "n7": "a compensation",
+    "n8": "many compensations"
+}

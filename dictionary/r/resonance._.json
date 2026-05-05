@@ -1,0 +1,18 @@
+{
+    "base": "resonance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "resonance",
+    "n2": "resonances",
+    "n3": "the resonance",
+    "n4": "the resonances",
+    "n5": "resonance's",
+    "n6": "resonances'",
+    "n7": "a resonance",
+    "n8": "many resonances"
+}

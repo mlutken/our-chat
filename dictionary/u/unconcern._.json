@@ -1,0 +1,18 @@
+{
+    "base": "unconcern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unconcern",
+    "n2": "unconcerns",
+    "n3": "the unconcern",
+    "n4": "the unconcerns",
+    "n5": "unconcern's",
+    "n6": "unconcerns'",
+    "n7": "an unconcern",
+    "n8": "many unconcerns"
+}

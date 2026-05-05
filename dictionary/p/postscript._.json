@@ -1,0 +1,18 @@
+{
+    "base": "postscript",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "postscript",
+    "n2": "postscripts",
+    "n3": "the postscript",
+    "n4": "the postscripts",
+    "n5": "postscript's",
+    "n6": "postscripts'",
+    "n7": "a postscript",
+    "n8": "many postscripts"
+}

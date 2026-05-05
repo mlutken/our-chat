@@ -1,0 +1,18 @@
+{
+    "base": "sentinel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sentinel",
+    "n2": "sentinels",
+    "n3": "the sentinel",
+    "n4": "the sentinels",
+    "n5": "sentinel's",
+    "n6": "sentinels'",
+    "n7": "a sentinel",
+    "n8": "many sentinels"
+}

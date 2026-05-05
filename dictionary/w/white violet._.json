@@ -1,0 +1,18 @@
+{
+    "base": "white violet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "white violet",
+    "n2": "white violets",
+    "n3": "the white violet",
+    "n4": "the white violets",
+    "n5": "white violet's",
+    "n6": "white violets'",
+    "n7": "a white violet",
+    "n8": "many white violets"
+}

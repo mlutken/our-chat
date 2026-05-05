@@ -7,5 +7,12 @@
     "n2": "inspections",
     "n3": "the inspection",
     "n4": "the inspections",
-    "n5": "inspection's"
+    "n5": "inspection's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "inspections'",
+    "n7": "an inspection",
+    "n8": "many inspections"
 }

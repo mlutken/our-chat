@@ -1,0 +1,18 @@
+{
+    "base": "deterioration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deterioration",
+    "n2": "deteriorations",
+    "n3": "the deterioration",
+    "n4": "the deteriorations",
+    "n5": "deterioration's",
+    "n6": "deteriorations'",
+    "n7": "a deterioration",
+    "n8": "many deteriorations"
+}

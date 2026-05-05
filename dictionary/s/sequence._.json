@@ -1,0 +1,18 @@
+{
+    "base": "sequence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "sequence",
+    "n2": "sequences",
+    "n3": "the sequence",
+    "n4": "the sequences",
+    "n5": "sequence's",
+    "n6": "sequences'",
+    "n7": "a sequence",
+    "n8": "many sequences"
+}

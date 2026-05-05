@@ -1,0 +1,18 @@
+{
+    "base": "waste material",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waste material",
+    "n2": "waste materials",
+    "n3": "the waste material",
+    "n4": "the waste materials",
+    "n5": "waste material's",
+    "n6": "waste materials'",
+    "n7": "a waste material",
+    "n8": "many waste materials"
+}

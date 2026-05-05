@@ -1,0 +1,18 @@
+{
+    "base": "grinding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grinding",
+    "n2": "grindings",
+    "n3": "the grinding",
+    "n4": "the grindings",
+    "n5": "grinding's",
+    "n6": "grindings'",
+    "n7": "a grinding",
+    "n8": "many grindings"
+}

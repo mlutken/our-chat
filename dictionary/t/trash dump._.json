@@ -1,0 +1,18 @@
+{
+    "base": "trash dump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trash dump",
+    "n2": "trash dumps",
+    "n3": "the trash dump",
+    "n4": "the trash dumps",
+    "n5": "trash dump's",
+    "n6": "trash dumps'",
+    "n7": "a trash dump",
+    "n8": "many trash dumps"
+}

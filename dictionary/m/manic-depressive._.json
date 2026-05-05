@@ -1,0 +1,18 @@
+{
+    "base": "manic-depressive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manic-depressive",
+    "n2": "manic-depressives",
+    "n3": "the manic-depressive",
+    "n4": "the manic-depressives",
+    "n5": "manic-depressive's",
+    "n6": "manic-depressives'",
+    "n7": "a manic-depressive",
+    "n8": "many manic-depressives"
+}

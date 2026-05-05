@@ -1,0 +1,18 @@
+{
+    "base": "wafer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wafer",
+    "n2": "wafers",
+    "n3": "the wafer",
+    "n4": "the wafers",
+    "n5": "wafer's",
+    "n6": "wafers'",
+    "n7": "a wafer",
+    "n8": "many wafers"
+}

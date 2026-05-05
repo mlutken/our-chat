@@ -1,0 +1,18 @@
+{
+    "base": "liver fluke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liver fluke",
+    "n2": "liver flukes",
+    "n3": "the liver fluke",
+    "n4": "the liver flukes",
+    "n5": "liver fluke's",
+    "n6": "liver flukes'",
+    "n7": "a liver fluke",
+    "n8": "many liver flukes"
+}

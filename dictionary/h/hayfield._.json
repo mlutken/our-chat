@@ -1,0 +1,18 @@
+{
+    "base": "hayfield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hayfield",
+    "n2": "hayfields",
+    "n3": "the hayfield",
+    "n4": "the hayfields",
+    "n5": "hayfield's",
+    "n6": "hayfields'",
+    "n7": "a hayfield",
+    "n8": "many hayfields"
+}

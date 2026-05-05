@@ -1,0 +1,18 @@
+{
+    "base": "granville wilt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "granville wilt",
+    "n2": "granville wilts",
+    "n3": "the granville wilt",
+    "n4": "the granville wilts",
+    "n5": "granville wilt's",
+    "n6": "granville wilts'",
+    "n7": "a granville wilt",
+    "n8": "many granville wilts"
+}

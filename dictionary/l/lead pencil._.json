@@ -1,0 +1,18 @@
+{
+    "base": "lead pencil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lead pencil",
+    "n2": "lead pencils",
+    "n3": "the lead pencil",
+    "n4": "the lead pencils",
+    "n5": "lead pencil's",
+    "n6": "lead pencils'",
+    "n7": "a lead pencil",
+    "n8": "many lead pencils"
+}

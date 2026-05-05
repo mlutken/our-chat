@@ -1,0 +1,18 @@
+{
+    "base": "dishonor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dishonor",
+    "n2": "dishonors",
+    "n3": "the dishonor",
+    "n4": "the dishonors",
+    "n5": "dishonor's",
+    "n6": "dishonors'",
+    "n7": "a dishonor",
+    "n8": "many dishonors"
+}

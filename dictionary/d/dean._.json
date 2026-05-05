@@ -1,0 +1,18 @@
+{
+    "base": "dean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dean",
+    "n2": "deans",
+    "n3": "the dean",
+    "n4": "the deans",
+    "n5": "dean's",
+    "n6": "deans'",
+    "n7": "a dean",
+    "n8": "many deans"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "korean war",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "korean war",
+    "n2": "korean wars",
+    "n3": "the korean war",
+    "n4": "the korean wars",
+    "n5": "korean war's",
+    "n6": "korean wars'",
+    "n7": "a korean war",
+    "n8": "many korean wars"
+}

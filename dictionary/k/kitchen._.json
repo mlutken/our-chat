@@ -1,0 +1,18 @@
+{
+    "base": "kitchen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n1": "kitchen",
+    "n2": "kitchens",
+    "n3": "the kitchen",
+    "n4": "the kitchens",
+    "n5": "kitchen's",
+    "n6": "kitchens'",
+    "n7": "a kitchen",
+    "n8": "many kitchens"
+}

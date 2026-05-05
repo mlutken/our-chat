@@ -7,5 +7,12 @@
     "n2": "thieves",
     "n3": "the thief",
     "n4": "the thieves",
-    "n5": "thief's"
+    "n5": "thief's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "thieves'",
+    "n7": "a thief",
+    "n8": "many thieves"
 }

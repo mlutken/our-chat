@@ -1,0 +1,18 @@
+{
+    "base": "non-discrimination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "non-discrimination",
+    "n2": "non-discriminations",
+    "n3": "the non-discrimination",
+    "n4": "the non-discriminations",
+    "n5": "non-discrimination's",
+    "n6": "non-discriminations'",
+    "n7": "a non-discrimination",
+    "n8": "many non-discriminations"
+}

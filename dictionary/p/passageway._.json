@@ -1,0 +1,18 @@
+{
+    "base": "passageway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "passageway",
+    "n2": "passageways",
+    "n3": "the passageway",
+    "n4": "the passageways",
+    "n5": "passageway's",
+    "n6": "passageways'",
+    "n7": "a passageway",
+    "n8": "many passageways"
+}

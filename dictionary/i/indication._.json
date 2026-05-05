@@ -7,5 +7,12 @@
     "n2": "indications",
     "n3": "the indication",
     "n4": "the indications",
-    "n5": "indication's"
+    "n5": "indication's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "indications'",
+    "n7": "an indication",
+    "n8": "many indications"
 }

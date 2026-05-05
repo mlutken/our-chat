@@ -1,0 +1,18 @@
+{
+    "base": "infielder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infielder",
+    "n2": "infielders",
+    "n3": "the infielder",
+    "n4": "the infielders",
+    "n5": "infielder's",
+    "n6": "infielders'",
+    "n7": "an infielder",
+    "n8": "many infielders"
+}

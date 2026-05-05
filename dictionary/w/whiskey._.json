@@ -1,0 +1,18 @@
+{
+    "base": "whiskey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "whiskey",
+    "n2": "whiskeys",
+    "n3": "the whiskey",
+    "n4": "the whiskeys",
+    "n5": "whiskey's",
+    "n6": "whiskeys'",
+    "n7": "a whiskey",
+    "n8": "many whiskeys"
+}

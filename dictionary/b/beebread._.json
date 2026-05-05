@@ -1,0 +1,18 @@
+{
+    "base": "beebread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "beebread",
+    "n2": "beebreads",
+    "n3": "the beebread",
+    "n4": "the beebreads",
+    "n5": "beebread's",
+    "n6": "beebreads'",
+    "n7": "a beebread",
+    "n8": "many beebreads"
+}

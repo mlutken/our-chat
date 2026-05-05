@@ -1,0 +1,18 @@
+{
+    "base": "fine arts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fine arts",
+    "n2": "fine artses",
+    "n3": "the fine arts",
+    "n4": "the fine artses",
+    "n5": "fine arts'",
+    "n6": "fine artses'",
+    "n7": "a fine arts",
+    "n8": "many fine artses"
+}

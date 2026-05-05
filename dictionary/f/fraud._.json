@@ -1,0 +1,18 @@
+{
+    "base": "fraud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "fraud",
+    "n2": "frauds",
+    "n3": "the fraud",
+    "n4": "the frauds",
+    "n5": "fraud's",
+    "n6": "frauds'",
+    "n7": "a fraud",
+    "n8": "many frauds"
+}

@@ -7,5 +7,12 @@
     "n2": "refrigerators",
     "n3": "the refrigerator",
     "n4": "the refrigerators",
-    "n5": "refrigerator's"
+    "n5": "refrigerator's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "refrigerators'",
+    "n7": "a refrigerator",
+    "n8": "many refrigerators"
 }

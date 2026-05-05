@@ -1,0 +1,18 @@
+{
+    "base": "liver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "liver",
+    "n2": "livers",
+    "n3": "the liver",
+    "n4": "the livers",
+    "n5": "liver's",
+    "n6": "livers'",
+    "n7": "a liver",
+    "n8": "many livers"
+}

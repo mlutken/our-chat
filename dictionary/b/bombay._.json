@@ -1,0 +1,18 @@
+{
+    "base": "bombay",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bombay",
+    "n2": "bombays",
+    "n3": "the bombay",
+    "n4": "the bombays",
+    "n5": "bombay's",
+    "n6": "bombays'",
+    "n7": "a bombay",
+    "n8": "many bombays"
+}

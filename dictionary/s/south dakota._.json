@@ -1,0 +1,18 @@
+{
+    "base": "south dakota",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "south dakota",
+    "n2": "south dakotas",
+    "n3": "the south dakota",
+    "n4": "the south dakotas",
+    "n5": "south dakota's",
+    "n6": "south dakotas'",
+    "n7": "a south dakota",
+    "n8": "many south dakotas"
+}

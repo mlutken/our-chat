@@ -1,0 +1,18 @@
+{
+    "base": "worriment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "worriment",
+    "n2": "worriments",
+    "n3": "the worriment",
+    "n4": "the worriments",
+    "n5": "worriment's",
+    "n6": "worriments'",
+    "n7": "a worriment",
+    "n8": "many worriments"
+}

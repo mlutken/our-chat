@@ -1,0 +1,18 @@
+{
+    "base": "scrubbing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scrubbing",
+    "n2": "scrubbings",
+    "n3": "the scrubbing",
+    "n4": "the scrubbings",
+    "n5": "scrubbing's",
+    "n6": "scrubbings'",
+    "n7": "a scrubbing",
+    "n8": "many scrubbings"
+}

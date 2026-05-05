@@ -1,0 +1,18 @@
+{
+    "base": "thorn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thorn",
+    "n2": "thorns",
+    "n3": "the thorn",
+    "n4": "the thorns",
+    "n5": "thorn's",
+    "n6": "thorns'",
+    "n7": "a thorn",
+    "n8": "many thorns"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hi",
+    "n2": "his",
+    "n3": "the hi",
+    "n4": "the his",
+    "n5": "hi's",
+    "n6": "his'",
+    "n7": "a hi",
+    "n8": "many his"
+}

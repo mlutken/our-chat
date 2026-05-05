@@ -1,0 +1,18 @@
+{
+    "base": "beef man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beef man",
+    "n2": "beef mans",
+    "n3": "the beef man",
+    "n4": "the beef mans",
+    "n5": "beef man's",
+    "n6": "beef mans'",
+    "n7": "a beef man",
+    "n8": "many beef mans"
+}

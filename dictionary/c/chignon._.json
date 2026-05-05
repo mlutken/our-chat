@@ -1,0 +1,18 @@
+{
+    "base": "chignon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chignon",
+    "n2": "chignons",
+    "n3": "the chignon",
+    "n4": "the chignons",
+    "n5": "chignon's",
+    "n6": "chignons'",
+    "n7": "a chignon",
+    "n8": "many chignons"
+}

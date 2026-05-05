@@ -1,0 +1,18 @@
+{
+    "base": "bleach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bleach",
+    "n2": "bleaches",
+    "n3": "the bleach",
+    "n4": "the bleaches",
+    "n5": "bleach's",
+    "n6": "bleaches'",
+    "n7": "a bleach",
+    "n8": "many bleaches"
+}

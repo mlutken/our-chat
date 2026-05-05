@@ -1,0 +1,18 @@
+{
+    "base": "gift horse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gift horse",
+    "n2": "gift horses",
+    "n3": "the gift horse",
+    "n4": "the gift horses",
+    "n5": "gift horse's",
+    "n6": "gift horses'",
+    "n7": "a gift horse",
+    "n8": "many gift horses"
+}

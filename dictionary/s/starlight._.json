@@ -1,0 +1,18 @@
+{
+    "base": "starlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "starlight",
+    "n2": "starlights",
+    "n3": "the starlight",
+    "n4": "the starlights",
+    "n5": "starlight's",
+    "n6": "starlights'",
+    "n7": "a starlight",
+    "n8": "many starlights"
+}

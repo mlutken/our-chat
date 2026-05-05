@@ -1,0 +1,18 @@
+{
+    "base": "entrepreneur",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "entrepreneur",
+    "n2": "entrepreneurs",
+    "n3": "the entrepreneur",
+    "n4": "the entrepreneurs",
+    "n5": "entrepreneur's",
+    "n6": "entrepreneurs'",
+    "n7": "an entrepreneur",
+    "n8": "many entrepreneurs"
+}

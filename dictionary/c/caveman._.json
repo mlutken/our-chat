@@ -1,0 +1,18 @@
+{
+    "base": "caveman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caveman",
+    "n2": "cavemen",
+    "n3": "the caveman",
+    "n4": "the cavemen",
+    "n5": "caveman's",
+    "n6": "cavemen's",
+    "n7": "a caveman",
+    "n8": "many cavemen"
+}

@@ -7,5 +7,12 @@
     "n2": "maintenances",
     "n3": "the maintenance",
     "n4": "the maintenances",
-    "n5": "maintenance's"
+    "n5": "maintenance's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "maintenances'",
+    "n7": "a maintenance",
+    "n8": "many maintenances"
 }

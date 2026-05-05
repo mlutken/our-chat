@@ -1,0 +1,18 @@
+{
+    "base": "calculus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "calculus",
+    "n2": "calculi",
+    "n3": "the calculus",
+    "n4": "the calculi",
+    "n5": "calculus'",
+    "n6": "calculi's",
+    "n7": "a calculus",
+    "n8": "many calculi"
+}

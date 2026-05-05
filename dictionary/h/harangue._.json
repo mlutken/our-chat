@@ -1,0 +1,18 @@
+{
+    "base": "harangue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "harangue",
+    "n2": "harangues",
+    "n3": "the harangue",
+    "n4": "the harangues",
+    "n5": "harangue's",
+    "n6": "harangues'",
+    "n7": "a harangue",
+    "n8": "many harangues"
+}

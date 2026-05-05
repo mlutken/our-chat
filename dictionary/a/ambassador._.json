@@ -1,0 +1,18 @@
+{
+    "base": "ambassador",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ambassador",
+    "n2": "ambassadors",
+    "n3": "the ambassador",
+    "n4": "the ambassadors",
+    "n5": "ambassador's",
+    "n6": "ambassadors'",
+    "n7": "an ambassador",
+    "n8": "many ambassadors"
+}

@@ -7,5 +7,12 @@
     "n2": "assignments",
     "n3": "the assignment",
     "n4": "the assignments",
-    "n5": "assignment's"
+    "n5": "assignment's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "assignments'",
+    "n7": "an assignment",
+    "n8": "many assignments"
 }

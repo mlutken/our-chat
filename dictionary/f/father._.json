@@ -1,0 +1,18 @@
+{
+    "base": "father",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 80,
+    "max_commonness": 6834,
+    "commonness_ge_count": 166,
+    "n1": "father",
+    "n2": "fathers",
+    "n3": "the father",
+    "n4": "the fathers",
+    "n5": "father's",
+    "n6": "fathers'",
+    "n7": "a father",
+    "n8": "many fathers"
+}

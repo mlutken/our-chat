@@ -1,0 +1,18 @@
+{
+    "base": "local department",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "local department",
+    "n2": "local departments",
+    "n3": "the local department",
+    "n4": "the local departments",
+    "n5": "local department's",
+    "n6": "local departments'",
+    "n7": "a local department",
+    "n8": "many local departments"
+}

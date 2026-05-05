@@ -1,0 +1,18 @@
+{
+    "base": "verisimilitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "verisimilitude",
+    "n2": "verisimilitudes",
+    "n3": "the verisimilitude",
+    "n4": "the verisimilitudes",
+    "n5": "verisimilitude's",
+    "n6": "verisimilitudes'",
+    "n7": "a verisimilitude",
+    "n8": "many verisimilitudes"
+}

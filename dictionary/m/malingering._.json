@@ -1,0 +1,18 @@
+{
+    "base": "malingering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "malingering",
+    "n2": "malingerings",
+    "n3": "the malingering",
+    "n4": "the malingerings",
+    "n5": "malingering's",
+    "n6": "malingerings'",
+    "n7": "a malingering",
+    "n8": "many malingerings"
+}

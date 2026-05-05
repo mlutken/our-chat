@@ -1,0 +1,18 @@
+{
+    "base": "pessimist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pessimist",
+    "n2": "pessimists",
+    "n3": "the pessimist",
+    "n4": "the pessimists",
+    "n5": "pessimist's",
+    "n6": "pessimists'",
+    "n7": "a pessimist",
+    "n8": "many pessimists"
+}

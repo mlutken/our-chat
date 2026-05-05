@@ -1,11 +1,24 @@
 {
     "base": "plug",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "plug",
     "v2": "plugged",
     "v3": "plugged",
     "v4": "plugging",
-    "v5": "plugs"
+    "v5": "plugs",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "plug",
+    "n2": "plugs",
+    "n3": "the plug",
+    "n4": "the plugs",
+    "n5": "plug's",
+    "n6": "plugs'",
+    "n7": "a plug",
+    "n8": "many plugs"
 }

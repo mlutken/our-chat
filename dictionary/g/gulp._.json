@@ -1,0 +1,18 @@
+{
+    "base": "gulp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gulp",
+    "n2": "gulps",
+    "n3": "the gulp",
+    "n4": "the gulps",
+    "n5": "gulp's",
+    "n6": "gulps'",
+    "n7": "a gulp",
+    "n8": "many gulps"
+}

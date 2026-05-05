@@ -1,0 +1,18 @@
+{
+    "base": "impasse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "impasse",
+    "n2": "impasses",
+    "n3": "the impasse",
+    "n4": "the impasses",
+    "n5": "impasse's",
+    "n6": "impasses'",
+    "n7": "an impasse",
+    "n8": "many impasses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ordeal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ordeal",
+    "n2": "ordeals",
+    "n3": "the ordeal",
+    "n4": "the ordeals",
+    "n5": "ordeal's",
+    "n6": "ordeals'",
+    "n7": "an ordeal",
+    "n8": "many ordeals"
+}

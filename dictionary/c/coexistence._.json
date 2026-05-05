@@ -1,0 +1,18 @@
+{
+    "base": "coexistence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coexistence",
+    "n2": "coexistences",
+    "n3": "the coexistence",
+    "n4": "the coexistences",
+    "n5": "coexistence's",
+    "n6": "coexistences'",
+    "n7": "a coexistence",
+    "n8": "many coexistences"
+}

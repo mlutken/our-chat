@@ -1,0 +1,18 @@
+{
+    "base": "liberal arts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liberal arts",
+    "n2": "liberal artses",
+    "n3": "the liberal arts",
+    "n4": "the liberal artses",
+    "n5": "liberal arts'",
+    "n6": "liberal artses'",
+    "n7": "a liberal arts",
+    "n8": "many liberal artses"
+}

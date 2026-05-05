@@ -1,0 +1,18 @@
+{
+    "base": "bagpipe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bagpipe",
+    "n2": "bagpipes",
+    "n3": "the bagpipe",
+    "n4": "the bagpipes",
+    "n5": "bagpipe's",
+    "n6": "bagpipes'",
+    "n7": "a bagpipe",
+    "n8": "many bagpipes"
+}

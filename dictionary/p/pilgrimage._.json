@@ -1,0 +1,18 @@
+{
+    "base": "pilgrimage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pilgrimage",
+    "n2": "pilgrimages",
+    "n3": "the pilgrimage",
+    "n4": "the pilgrimages",
+    "n5": "pilgrimage's",
+    "n6": "pilgrimages'",
+    "n7": "a pilgrimage",
+    "n8": "many pilgrimages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "searchlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "searchlight",
+    "n2": "searchlights",
+    "n3": "the searchlight",
+    "n4": "the searchlights",
+    "n5": "searchlight's",
+    "n6": "searchlights'",
+    "n7": "a searchlight",
+    "n8": "many searchlights"
+}

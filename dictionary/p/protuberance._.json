@@ -1,0 +1,18 @@
+{
+    "base": "protuberance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "protuberance",
+    "n2": "protuberances",
+    "n3": "the protuberance",
+    "n4": "the protuberances",
+    "n5": "protuberance's",
+    "n6": "protuberances'",
+    "n7": "a protuberance",
+    "n8": "many protuberances"
+}

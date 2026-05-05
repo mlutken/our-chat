@@ -1,0 +1,18 @@
+{
+    "base": "temper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "temper",
+    "n2": "tempers",
+    "n3": "the temper",
+    "n4": "the tempers",
+    "n5": "temper's",
+    "n6": "tempers'",
+    "n7": "a temper",
+    "n8": "many tempers"
+}

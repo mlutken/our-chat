@@ -1,0 +1,18 @@
+{
+    "base": "surfactant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "surfactant",
+    "n2": "surfactants",
+    "n3": "the surfactant",
+    "n4": "the surfactants",
+    "n5": "surfactant's",
+    "n6": "surfactants'",
+    "n7": "a surfactant",
+    "n8": "many surfactants"
+}

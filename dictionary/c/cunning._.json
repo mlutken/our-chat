@@ -1,0 +1,18 @@
+{
+    "base": "cunning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cunning",
+    "n2": "cunnings",
+    "n3": "the cunning",
+    "n4": "the cunnings",
+    "n5": "cunning's",
+    "n6": "cunnings'",
+    "n7": "a cunning",
+    "n8": "many cunnings"
+}

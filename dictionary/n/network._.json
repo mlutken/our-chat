@@ -7,5 +7,12 @@
     "n2": "networks",
     "n3": "the network",
     "n4": "the networks",
-    "n5": "network's"
+    "n5": "network's",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n6": "networks'",
+    "n7": "a network",
+    "n8": "many networks"
 }

@@ -7,5 +7,12 @@
     "n2": "partners",
     "n3": "the partner",
     "n4": "the partners",
-    "n5": "partner's"
+    "n5": "partner's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "partners'",
+    "n7": "a partner",
+    "n8": "many partners"
 }

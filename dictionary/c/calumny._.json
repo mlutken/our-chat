@@ -1,0 +1,18 @@
+{
+    "base": "calumny",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "calumny",
+    "n2": "calumnies",
+    "n3": "the calumny",
+    "n4": "the calumnies",
+    "n5": "calumny's",
+    "n6": "calumnies'",
+    "n7": "a calumny",
+    "n8": "many calumnies"
+}

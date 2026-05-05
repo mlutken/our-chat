@@ -1,0 +1,18 @@
+{
+    "base": "hungary",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hungary",
+    "n2": "hungaries",
+    "n3": "the hungary",
+    "n4": "the hungaries",
+    "n5": "hungary's",
+    "n6": "hungaries'",
+    "n7": "a hungary",
+    "n8": "many hungaries"
+}

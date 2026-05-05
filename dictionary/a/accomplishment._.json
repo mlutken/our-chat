@@ -1,0 +1,18 @@
+{
+    "base": "accomplishment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "accomplishment",
+    "n2": "accomplishments",
+    "n3": "the accomplishment",
+    "n4": "the accomplishments",
+    "n5": "accomplishment's",
+    "n6": "accomplishments'",
+    "n7": "an accomplishment",
+    "n8": "many accomplishments"
+}

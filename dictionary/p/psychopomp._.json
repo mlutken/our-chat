@@ -1,0 +1,18 @@
+{
+    "base": "psychopomp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "psychopomp",
+    "n2": "psychopomps",
+    "n3": "the psychopomp",
+    "n4": "the psychopomps",
+    "n5": "psychopomp's",
+    "n6": "psychopomps'",
+    "n7": "a psychopomp",
+    "n8": "many psychopomps"
+}

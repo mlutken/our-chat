@@ -1,0 +1,18 @@
+{
+    "base": "sodium iodide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sodium iodide",
+    "n2": "sodium iodides",
+    "n3": "the sodium iodide",
+    "n4": "the sodium iodides",
+    "n5": "sodium iodide's",
+    "n6": "sodium iodides'",
+    "n7": "a sodium iodide",
+    "n8": "many sodium iodides"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "salesgirl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "salesgirl",
+    "n2": "salesgirls",
+    "n3": "the salesgirl",
+    "n4": "the salesgirls",
+    "n5": "salesgirl's",
+    "n6": "salesgirls'",
+    "n7": "a salesgirl",
+    "n8": "many salesgirls"
+}

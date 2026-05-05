@@ -1,0 +1,18 @@
+{
+    "base": "middle class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "middle class",
+    "n2": "middle classes",
+    "n3": "the middle class",
+    "n4": "the middle classes",
+    "n5": "middle class'",
+    "n6": "middle classes'",
+    "n7": "a middle class",
+    "n8": "many middle classes"
+}

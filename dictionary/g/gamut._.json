@@ -1,0 +1,18 @@
+{
+    "base": "gamut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gamut",
+    "n2": "gamuts",
+    "n3": "the gamut",
+    "n4": "the gamuts",
+    "n5": "gamut's",
+    "n6": "gamuts'",
+    "n7": "a gamut",
+    "n8": "many gamuts"
+}

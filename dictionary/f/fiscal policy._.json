@@ -1,0 +1,18 @@
+{
+    "base": "fiscal policy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fiscal policy",
+    "n2": "fiscal policies",
+    "n3": "the fiscal policy",
+    "n4": "the fiscal policies",
+    "n5": "fiscal policy's",
+    "n6": "fiscal policies'",
+    "n7": "a fiscal policy",
+    "n8": "many fiscal policies"
+}

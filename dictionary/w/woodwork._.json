@@ -1,0 +1,18 @@
+{
+    "base": "woodwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "woodwork",
+    "n2": "woodworks",
+    "n3": "the woodwork",
+    "n4": "the woodworks",
+    "n5": "woodwork's",
+    "n6": "woodworks'",
+    "n7": "a woodwork",
+    "n8": "many woodworks"
+}

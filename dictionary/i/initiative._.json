@@ -7,5 +7,12 @@
     "n2": "initiatives",
     "n3": "the initiative",
     "n4": "the initiatives",
-    "n5": "initiative's"
+    "n5": "initiative's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "initiatives'",
+    "n7": "an initiative",
+    "n8": "many initiatives"
 }

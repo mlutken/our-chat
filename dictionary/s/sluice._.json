@@ -1,0 +1,18 @@
+{
+    "base": "sluice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sluice",
+    "n2": "sluices",
+    "n3": "the sluice",
+    "n4": "the sluices",
+    "n5": "sluice's",
+    "n6": "sluices'",
+    "n7": "a sluice",
+    "n8": "many sluices"
+}

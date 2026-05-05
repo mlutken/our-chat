@@ -1,0 +1,18 @@
+{
+    "base": "spraying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "spraying",
+    "n2": "sprayings",
+    "n3": "the spraying",
+    "n4": "the sprayings",
+    "n5": "spraying's",
+    "n6": "sprayings'",
+    "n7": "a spraying",
+    "n8": "many sprayings"
+}

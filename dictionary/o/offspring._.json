@@ -7,5 +7,12 @@
     "n2": "offsprings",
     "n3": "the offspring",
     "n4": "the offsprings",
-    "n5": "offspring's"
+    "n5": "offspring's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "offsprings'",
+    "n7": "an offspring",
+    "n8": "many offsprings"
 }

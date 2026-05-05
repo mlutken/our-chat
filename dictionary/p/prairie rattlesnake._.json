@@ -1,0 +1,18 @@
+{
+    "base": "prairie rattlesnake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prairie rattlesnake",
+    "n2": "prairie rattlesnakes",
+    "n3": "the prairie rattlesnake",
+    "n4": "the prairie rattlesnakes",
+    "n5": "prairie rattlesnake's",
+    "n6": "prairie rattlesnakes'",
+    "n7": "a prairie rattlesnake",
+    "n8": "many prairie rattlesnakes"
+}

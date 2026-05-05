@@ -1,0 +1,18 @@
+{
+    "base": "whole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "whole",
+    "n2": "wholes",
+    "n3": "the whole",
+    "n4": "the wholes",
+    "n5": "whole's",
+    "n6": "wholes'",
+    "n7": "a whole",
+    "n8": "many wholes"
+}

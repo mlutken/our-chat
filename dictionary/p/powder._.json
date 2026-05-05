@@ -1,0 +1,18 @@
+{
+    "base": "powder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "powder",
+    "n2": "powders",
+    "n3": "the powder",
+    "n4": "the powders",
+    "n5": "powder's",
+    "n6": "powders'",
+    "n7": "a powder",
+    "n8": "many powders"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "john",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "john",
+    "n2": "johns",
+    "n3": "the john",
+    "n4": "the johns",
+    "n5": "john's",
+    "n6": "johns'",
+    "n7": "a john",
+    "n8": "many johns"
+}

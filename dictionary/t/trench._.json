@@ -1,0 +1,18 @@
+{
+    "base": "trench",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trench",
+    "n2": "trenches",
+    "n3": "the trench",
+    "n4": "the trenches",
+    "n5": "trench's",
+    "n6": "trenches'",
+    "n7": "a trench",
+    "n8": "many trenches"
+}

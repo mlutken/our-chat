@@ -1,0 +1,18 @@
+{
+    "base": "virginia creeper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "virginia creeper",
+    "n2": "virginia creepers",
+    "n3": "the virginia creeper",
+    "n4": "the virginia creepers",
+    "n5": "virginia creeper's",
+    "n6": "virginia creepers'",
+    "n7": "a virginia creeper",
+    "n8": "many virginia creepers"
+}

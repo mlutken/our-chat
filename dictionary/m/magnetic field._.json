@@ -1,0 +1,18 @@
+{
+    "base": "magnetic field",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "magnetic field",
+    "n2": "magnetic fields",
+    "n3": "the magnetic field",
+    "n4": "the magnetic fields",
+    "n5": "magnetic field's",
+    "n6": "magnetic fields'",
+    "n7": "a magnetic field",
+    "n8": "many magnetic fields"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "social system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "social system",
+    "n2": "social systems",
+    "n3": "the social system",
+    "n4": "the social systems",
+    "n5": "social system's",
+    "n6": "social systems'",
+    "n7": "a social system",
+    "n8": "many social systems"
+}

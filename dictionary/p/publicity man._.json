@@ -1,0 +1,18 @@
+{
+    "base": "publicity man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "publicity man",
+    "n2": "publicity mans",
+    "n3": "the publicity man",
+    "n4": "the publicity mans",
+    "n5": "publicity man's",
+    "n6": "publicity mans'",
+    "n7": "a publicity man",
+    "n8": "many publicity mans"
+}

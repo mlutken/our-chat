@@ -7,5 +7,12 @@
     "n2": "breaths",
     "n3": "the breath",
     "n4": "the breaths",
-    "n5": "breath's"
+    "n5": "breath's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "breaths'",
+    "n7": "a breath",
+    "n8": "many breaths"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "cabana",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cabana",
+    "n2": "cabanas",
+    "n3": "the cabana",
+    "n4": "the cabanas",
+    "n5": "cabana's",
+    "n6": "cabanas'",
+    "n7": "a cabana",
+    "n8": "many cabanas"
+}

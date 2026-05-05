@@ -1,0 +1,18 @@
+{
+    "base": "enactment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "enactment",
+    "n2": "enactments",
+    "n3": "the enactment",
+    "n4": "the enactments",
+    "n5": "enactment's",
+    "n6": "enactments'",
+    "n7": "an enactment",
+    "n8": "many enactments"
+}

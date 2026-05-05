@@ -7,5 +7,12 @@
     "n2": "webs",
     "n3": "the web",
     "n4": "the webs",
-    "n5": "web's"
+    "n5": "web's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "webs'",
+    "n7": "a web",
+    "n8": "many webs"
 }

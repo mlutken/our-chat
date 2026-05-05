@@ -1,0 +1,18 @@
+{
+    "base": "laborer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "laborer",
+    "n2": "laborers",
+    "n3": "the laborer",
+    "n4": "the laborers",
+    "n5": "laborer's",
+    "n6": "laborers'",
+    "n7": "a laborer",
+    "n8": "many laborers"
+}

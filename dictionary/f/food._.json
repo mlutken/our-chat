@@ -7,5 +7,12 @@
     "n2": "foods",
     "n3": "the food",
     "n4": "the foods",
-    "n5": "food's"
+    "n5": "food's",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "foods'",
+    "n7": "a food",
+    "n8": "many foods"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "gardening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gardening",
+    "n2": "gardenings",
+    "n3": "the gardening",
+    "n4": "the gardenings",
+    "n5": "gardening's",
+    "n6": "gardenings'",
+    "n7": "a gardening",
+    "n8": "many gardenings"
+}

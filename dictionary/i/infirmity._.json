@@ -1,0 +1,18 @@
+{
+    "base": "infirmity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infirmity",
+    "n2": "infirmities",
+    "n3": "the infirmity",
+    "n4": "the infirmities",
+    "n5": "infirmity's",
+    "n6": "infirmities'",
+    "n7": "an infirmity",
+    "n8": "many infirmities"
+}

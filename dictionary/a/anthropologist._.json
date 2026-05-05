@@ -1,0 +1,18 @@
+{
+    "base": "anthropologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "anthropologist",
+    "n2": "anthropologists",
+    "n3": "the anthropologist",
+    "n4": "the anthropologists",
+    "n5": "anthropologist's",
+    "n6": "anthropologists'",
+    "n7": "an anthropologist",
+    "n8": "many anthropologists"
+}

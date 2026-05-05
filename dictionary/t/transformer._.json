@@ -1,0 +1,18 @@
+{
+    "base": "transformer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transformer",
+    "n2": "transformers",
+    "n3": "the transformer",
+    "n4": "the transformers",
+    "n5": "transformer's",
+    "n6": "transformers'",
+    "n7": "a transformer",
+    "n8": "many transformers"
+}

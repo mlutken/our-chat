@@ -1,0 +1,18 @@
+{
+    "base": "transgression",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transgression",
+    "n2": "transgressions",
+    "n3": "the transgression",
+    "n4": "the transgressions",
+    "n5": "transgression's",
+    "n6": "transgressions'",
+    "n7": "a transgression",
+    "n8": "many transgressions"
+}

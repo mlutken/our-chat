@@ -1,0 +1,18 @@
+{
+    "base": "brothel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brothel",
+    "n2": "brothels",
+    "n3": "the brothel",
+    "n4": "the brothels",
+    "n5": "brothel's",
+    "n6": "brothels'",
+    "n7": "a brothel",
+    "n8": "many brothels"
+}

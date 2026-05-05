@@ -1,0 +1,18 @@
+{
+    "base": "bias",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bias",
+    "n2": "biases",
+    "n3": "the bias",
+    "n4": "the biases",
+    "n5": "bias'",
+    "n6": "biases'",
+    "n7": "a bias",
+    "n8": "many biases"
+}

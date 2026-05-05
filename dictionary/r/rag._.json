@@ -1,0 +1,18 @@
+{
+    "base": "rag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "rag",
+    "n2": "rags",
+    "n3": "the rag",
+    "n4": "the rags",
+    "n5": "rag's",
+    "n6": "rags'",
+    "n7": "a rag",
+    "n8": "many rags"
+}

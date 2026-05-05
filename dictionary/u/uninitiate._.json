@@ -1,0 +1,18 @@
+{
+    "base": "uninitiate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "uninitiate",
+    "n2": "uninitiates",
+    "n3": "the uninitiate",
+    "n4": "the uninitiates",
+    "n5": "uninitiate's",
+    "n6": "uninitiates'",
+    "n7": "a uninitiate",
+    "n8": "many uninitiates"
+}

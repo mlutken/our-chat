@@ -1,0 +1,18 @@
+{
+    "base": "proclamation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "proclamation",
+    "n2": "proclamations",
+    "n3": "the proclamation",
+    "n4": "the proclamations",
+    "n5": "proclamation's",
+    "n6": "proclamations'",
+    "n7": "a proclamation",
+    "n8": "many proclamations"
+}

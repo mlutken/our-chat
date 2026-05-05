@@ -1,0 +1,18 @@
+{
+    "base": "gag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "gag",
+    "n2": "gags",
+    "n3": "the gag",
+    "n4": "the gags",
+    "n5": "gag's",
+    "n6": "gags'",
+    "n7": "a gag",
+    "n8": "many gags"
+}

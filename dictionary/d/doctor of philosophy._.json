@@ -1,0 +1,18 @@
+{
+    "base": "doctor of philosophy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doctor of philosophy",
+    "n2": "doctor of philosophies",
+    "n3": "the doctor of philosophy",
+    "n4": "the doctor of philosophies",
+    "n5": "doctor of philosophy's",
+    "n6": "doctor of philosophies'",
+    "n7": "a doctor of philosophy",
+    "n8": "many doctor of philosophies"
+}

@@ -1,11 +1,24 @@
 {
     "base": "resolve",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "resolve",
     "v2": "resolved",
     "v3": "resolved",
     "v4": "resolving",
-    "v5": "resolves"
+    "v5": "resolves",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "resolve",
+    "n2": "resolves",
+    "n3": "the resolve",
+    "n4": "the resolves",
+    "n5": "resolve's",
+    "n6": "resolves'",
+    "n7": "a resolve",
+    "n8": "many resolves"
 }

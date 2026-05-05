@@ -1,0 +1,18 @@
+{
+    "base": "insult",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "insult",
+    "n2": "insults",
+    "n3": "the insult",
+    "n4": "the insults",
+    "n5": "insult's",
+    "n6": "insults'",
+    "n7": "an insult",
+    "n8": "many insults"
+}

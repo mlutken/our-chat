@@ -1,0 +1,18 @@
+{
+    "base": "synthetic cubism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "synthetic cubism",
+    "n2": "synthetic cubisms",
+    "n3": "the synthetic cubism",
+    "n4": "the synthetic cubisms",
+    "n5": "synthetic cubism's",
+    "n6": "synthetic cubisms'",
+    "n7": "a synthetic cubism",
+    "n8": "many synthetic cubisms"
+}

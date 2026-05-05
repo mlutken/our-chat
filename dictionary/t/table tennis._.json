@@ -1,0 +1,18 @@
+{
+    "base": "table tennis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "table tennis",
+    "n2": "table tennises",
+    "n3": "the table tennis",
+    "n4": "the table tennises",
+    "n5": "table tennis'",
+    "n6": "table tennises'",
+    "n7": "a table tennis",
+    "n8": "many table tennises"
+}

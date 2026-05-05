@@ -1,0 +1,18 @@
+{
+    "base": "troubleshooter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "troubleshooter",
+    "n2": "troubleshooters",
+    "n3": "the troubleshooter",
+    "n4": "the troubleshooters",
+    "n5": "troubleshooter's",
+    "n6": "troubleshooters'",
+    "n7": "a troubleshooter",
+    "n8": "many troubleshooters"
+}

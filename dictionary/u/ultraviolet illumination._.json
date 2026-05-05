@@ -1,0 +1,18 @@
+{
+    "base": "ultraviolet illumination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ultraviolet illumination",
+    "n2": "ultraviolet illuminations",
+    "n3": "the ultraviolet illumination",
+    "n4": "the ultraviolet illuminations",
+    "n5": "ultraviolet illumination's",
+    "n6": "ultraviolet illuminations'",
+    "n7": "an ultraviolet illumination",
+    "n8": "many ultraviolet illuminations"
+}

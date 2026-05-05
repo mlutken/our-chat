@@ -1,0 +1,18 @@
+{
+    "base": "hater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hater",
+    "n2": "haters",
+    "n3": "the hater",
+    "n4": "the haters",
+    "n5": "hater's",
+    "n6": "haters'",
+    "n7": "a hater",
+    "n8": "many haters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "little sister",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "little sister",
+    "n2": "little sisters",
+    "n3": "the little sister",
+    "n4": "the little sisters",
+    "n5": "little sister's",
+    "n6": "little sisters'",
+    "n7": "a little sister",
+    "n8": "many little sisters"
+}

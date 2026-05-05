@@ -1,0 +1,18 @@
+{
+    "base": "scar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "scar",
+    "n2": "scars",
+    "n3": "the scar",
+    "n4": "the scars",
+    "n5": "scar's",
+    "n6": "scars'",
+    "n7": "a scar",
+    "n8": "many scars"
+}

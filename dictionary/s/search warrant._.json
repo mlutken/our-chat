@@ -1,0 +1,18 @@
+{
+    "base": "search warrant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "search warrant",
+    "n2": "search warrants",
+    "n3": "the search warrant",
+    "n4": "the search warrants",
+    "n5": "search warrant's",
+    "n6": "search warrants'",
+    "n7": "a search warrant",
+    "n8": "many search warrants"
+}

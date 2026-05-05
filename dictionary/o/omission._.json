@@ -1,0 +1,18 @@
+{
+    "base": "omission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "omission",
+    "n2": "omissions",
+    "n3": "the omission",
+    "n4": "the omissions",
+    "n5": "omission's",
+    "n6": "omissions'",
+    "n7": "an omission",
+    "n8": "many omissions"
+}

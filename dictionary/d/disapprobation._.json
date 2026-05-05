@@ -1,0 +1,18 @@
+{
+    "base": "disapprobation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disapprobation",
+    "n2": "disapprobations",
+    "n3": "the disapprobation",
+    "n4": "the disapprobations",
+    "n5": "disapprobation's",
+    "n6": "disapprobations'",
+    "n7": "a disapprobation",
+    "n8": "many disapprobations"
+}

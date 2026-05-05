@@ -1,0 +1,18 @@
+{
+    "base": "cigar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "cigar",
+    "n2": "cigars",
+    "n3": "the cigar",
+    "n4": "the cigars",
+    "n5": "cigar's",
+    "n6": "cigars'",
+    "n7": "a cigar",
+    "n8": "many cigars"
+}

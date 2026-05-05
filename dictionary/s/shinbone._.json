@@ -1,0 +1,18 @@
+{
+    "base": "shinbone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shinbone",
+    "n2": "shinbones",
+    "n3": "the shinbone",
+    "n4": "the shinbones",
+    "n5": "shinbone's",
+    "n6": "shinbones'",
+    "n7": "a shinbone",
+    "n8": "many shinbones"
+}

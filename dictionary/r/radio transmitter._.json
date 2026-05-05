@@ -1,0 +1,18 @@
+{
+    "base": "radio transmitter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "radio transmitter",
+    "n2": "radio transmitters",
+    "n3": "the radio transmitter",
+    "n4": "the radio transmitters",
+    "n5": "radio transmitter's",
+    "n6": "radio transmitters'",
+    "n7": "a radio transmitter",
+    "n8": "many radio transmitters"
+}

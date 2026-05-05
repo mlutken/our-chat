@@ -1,0 +1,18 @@
+{
+    "base": "whir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whir",
+    "n2": "whirs",
+    "n3": "the whir",
+    "n4": "the whirs",
+    "n5": "whir's",
+    "n6": "whirs'",
+    "n7": "a whir",
+    "n8": "many whirs"
+}

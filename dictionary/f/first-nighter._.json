@@ -1,0 +1,18 @@
+{
+    "base": "first-nighter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "first-nighter",
+    "n2": "first-nighters",
+    "n3": "the first-nighter",
+    "n4": "the first-nighters",
+    "n5": "first-nighter's",
+    "n6": "first-nighters'",
+    "n7": "a first-nighter",
+    "n8": "many first-nighters"
+}

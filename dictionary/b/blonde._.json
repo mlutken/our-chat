@@ -1,0 +1,18 @@
+{
+    "base": "blonde",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blonde",
+    "n2": "blondes",
+    "n3": "the blonde",
+    "n4": "the blondes",
+    "n5": "blonde's",
+    "n6": "blondes'",
+    "n7": "a blonde",
+    "n8": "many blondes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dialect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dialect",
+    "n2": "dialects",
+    "n3": "the dialect",
+    "n4": "the dialects",
+    "n5": "dialect's",
+    "n6": "dialects'",
+    "n7": "a dialect",
+    "n8": "many dialects"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "leaving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leaving",
+    "n2": "leavings",
+    "n3": "the leaving",
+    "n4": "the leavings",
+    "n5": "leaving's",
+    "n6": "leavings'",
+    "n7": "a leaving",
+    "n8": "many leavings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "refocusing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "refocusing",
+    "n2": "refocusings",
+    "n3": "the refocusing",
+    "n4": "the refocusings",
+    "n5": "refocusing's",
+    "n6": "refocusings'",
+    "n7": "a refocusing",
+    "n8": "many refocusings"
+}

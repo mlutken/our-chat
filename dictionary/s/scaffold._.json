@@ -1,0 +1,18 @@
+{
+    "base": "scaffold",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scaffold",
+    "n2": "scaffolds",
+    "n3": "the scaffold",
+    "n4": "the scaffolds",
+    "n5": "scaffold's",
+    "n6": "scaffolds'",
+    "n7": "a scaffold",
+    "n8": "many scaffolds"
+}

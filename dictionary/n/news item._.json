@@ -1,0 +1,18 @@
+{
+    "base": "news item",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "news item",
+    "n2": "news items",
+    "n3": "the news item",
+    "n4": "the news items",
+    "n5": "news item's",
+    "n6": "news items'",
+    "n7": "a news item",
+    "n8": "many news items"
+}

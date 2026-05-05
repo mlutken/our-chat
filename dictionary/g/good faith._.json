@@ -1,0 +1,18 @@
+{
+    "base": "good faith",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "good faith",
+    "n2": "good faiths",
+    "n3": "the good faith",
+    "n4": "the good faiths",
+    "n5": "good faith's",
+    "n6": "good faiths'",
+    "n7": "a good faith",
+    "n8": "many good faiths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "field general",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "field general",
+    "n2": "field generals",
+    "n3": "the field general",
+    "n4": "the field generals",
+    "n5": "field general's",
+    "n6": "field generals'",
+    "n7": "a field general",
+    "n8": "many field generals"
+}

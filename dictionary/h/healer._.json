@@ -1,0 +1,18 @@
+{
+    "base": "healer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "healer",
+    "n2": "healers",
+    "n3": "the healer",
+    "n4": "the healers",
+    "n5": "healer's",
+    "n6": "healers'",
+    "n7": "a healer",
+    "n8": "many healers"
+}

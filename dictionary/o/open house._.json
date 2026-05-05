@@ -1,0 +1,18 @@
+{
+    "base": "open house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "open house",
+    "n2": "open houses",
+    "n3": "the open house",
+    "n4": "the open houses",
+    "n5": "open house's",
+    "n6": "open houses'",
+    "n7": "an open house",
+    "n8": "many open houses"
+}

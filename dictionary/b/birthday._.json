@@ -7,5 +7,12 @@
     "n2": "birthdays",
     "n3": "the birthday",
     "n4": "the birthdays",
-    "n5": "birthday's"
+    "n5": "birthday's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "birthdays'",
+    "n7": "a birthday",
+    "n8": "many birthdays"
 }

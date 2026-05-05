@@ -7,5 +7,12 @@
     "n2": "photos",
     "n3": "the photo",
     "n4": "the photos",
-    "n5": "photo's"
+    "n5": "photo's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "photos'",
+    "n7": "a photo",
+    "n8": "many photos"
 }

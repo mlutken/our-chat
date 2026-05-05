@@ -1,0 +1,18 @@
+{
+    "base": "favor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "favor",
+    "n2": "favors",
+    "n3": "the favor",
+    "n4": "the favors",
+    "n5": "favor's",
+    "n6": "favors'",
+    "n7": "a favor",
+    "n8": "many favors"
+}

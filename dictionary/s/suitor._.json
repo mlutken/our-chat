@@ -1,0 +1,18 @@
+{
+    "base": "suitor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suitor",
+    "n2": "suitors",
+    "n3": "the suitor",
+    "n4": "the suitors",
+    "n5": "suitor's",
+    "n6": "suitors'",
+    "n7": "a suitor",
+    "n8": "many suitors"
+}

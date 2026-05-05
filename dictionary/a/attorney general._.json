@@ -1,0 +1,18 @@
+{
+    "base": "attorney general",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "attorney general",
+    "n2": "attorney generals",
+    "n3": "the attorney general",
+    "n4": "the attorney generals",
+    "n5": "attorney general's",
+    "n6": "attorney generals'",
+    "n7": "an attorney general",
+    "n8": "many attorney generals"
+}

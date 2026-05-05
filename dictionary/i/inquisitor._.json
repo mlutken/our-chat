@@ -1,0 +1,18 @@
+{
+    "base": "inquisitor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inquisitor",
+    "n2": "inquisitors",
+    "n3": "the inquisitor",
+    "n4": "the inquisitors",
+    "n5": "inquisitor's",
+    "n6": "inquisitors'",
+    "n7": "an inquisitor",
+    "n8": "many inquisitors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ague",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ague",
+    "n2": "agues",
+    "n3": "the ague",
+    "n4": "the agues",
+    "n5": "ague's",
+    "n6": "agues'",
+    "n7": "an ague",
+    "n8": "many agues"
+}

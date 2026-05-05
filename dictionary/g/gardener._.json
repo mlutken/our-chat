@@ -1,0 +1,18 @@
+{
+    "base": "gardener",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "gardener",
+    "n2": "gardeners",
+    "n3": "the gardener",
+    "n4": "the gardeners",
+    "n5": "gardener's",
+    "n6": "gardeners'",
+    "n7": "a gardener",
+    "n8": "many gardeners"
+}

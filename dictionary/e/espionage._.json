@@ -1,0 +1,18 @@
+{
+    "base": "espionage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "espionage",
+    "n2": "espionages",
+    "n3": "the espionage",
+    "n4": "the espionages",
+    "n5": "espionage's",
+    "n6": "espionages'",
+    "n7": "an espionage",
+    "n8": "many espionages"
+}

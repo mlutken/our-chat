@@ -7,5 +7,12 @@
     "n2": "drawers",
     "n3": "the drawer",
     "n4": "the drawers",
-    "n5": "drawer's"
+    "n5": "drawer's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "drawers'",
+    "n7": "a drawer",
+    "n8": "many drawers"
 }

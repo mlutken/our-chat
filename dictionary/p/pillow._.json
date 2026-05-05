@@ -1,0 +1,18 @@
+{
+    "base": "pillow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "pillow",
+    "n2": "pillows",
+    "n3": "the pillow",
+    "n4": "the pillows",
+    "n5": "pillow's",
+    "n6": "pillows'",
+    "n7": "a pillow",
+    "n8": "many pillows"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "phoneme",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "phoneme",
+    "n2": "phonemes",
+    "n3": "the phoneme",
+    "n4": "the phonemes",
+    "n5": "phoneme's",
+    "n6": "phonemes'",
+    "n7": "a phoneme",
+    "n8": "many phonemes"
+}

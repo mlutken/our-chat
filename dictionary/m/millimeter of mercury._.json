@@ -1,0 +1,18 @@
+{
+    "base": "millimeter of mercury",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "millimeter of mercury",
+    "n2": "millimeter of mercuries",
+    "n3": "the millimeter of mercury",
+    "n4": "the millimeter of mercuries",
+    "n5": "millimeter of mercury's",
+    "n6": "millimeter of mercuries'",
+    "n7": "a millimeter of mercury",
+    "n8": "many millimeter of mercuries"
+}

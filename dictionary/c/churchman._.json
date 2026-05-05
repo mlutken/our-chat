@@ -1,0 +1,18 @@
+{
+    "base": "churchman",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "churchman",
+    "n2": "churchmen",
+    "n3": "the churchman",
+    "n4": "the churchmen",
+    "n5": "churchman's",
+    "n6": "churchmen's",
+    "n7": "a churchman",
+    "n8": "many churchmen"
+}

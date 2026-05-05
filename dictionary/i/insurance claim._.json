@@ -1,0 +1,18 @@
+{
+    "base": "insurance claim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insurance claim",
+    "n2": "insurance claims",
+    "n3": "the insurance claim",
+    "n4": "the insurance claims",
+    "n5": "insurance claim's",
+    "n6": "insurance claims'",
+    "n7": "an insurance claim",
+    "n8": "many insurance claims"
+}

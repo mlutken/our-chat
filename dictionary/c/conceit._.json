@@ -1,0 +1,18 @@
+{
+    "base": "conceit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conceit",
+    "n2": "conceits",
+    "n3": "the conceit",
+    "n4": "the conceits",
+    "n5": "conceit's",
+    "n6": "conceits'",
+    "n7": "a conceit",
+    "n8": "many conceits"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hurricane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hurricane",
+    "n2": "hurricanes",
+    "n3": "the hurricane",
+    "n4": "the hurricanes",
+    "n5": "hurricane's",
+    "n6": "hurricanes'",
+    "n7": "a hurricane",
+    "n8": "many hurricanes"
+}

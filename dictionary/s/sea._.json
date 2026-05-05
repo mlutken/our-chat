@@ -1,0 +1,18 @@
+{
+    "base": "sea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n1": "sea",
+    "n2": "seas",
+    "n3": "the sea",
+    "n4": "the seas",
+    "n5": "sea's",
+    "n6": "seas'",
+    "n7": "a sea",
+    "n8": "many seas"
+}

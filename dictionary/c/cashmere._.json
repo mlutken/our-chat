@@ -1,0 +1,18 @@
+{
+    "base": "cashmere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cashmere",
+    "n2": "cashmeres",
+    "n3": "the cashmere",
+    "n4": "the cashmeres",
+    "n5": "cashmere's",
+    "n6": "cashmeres'",
+    "n7": "a cashmere",
+    "n8": "many cashmeres"
+}

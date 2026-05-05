@@ -1,0 +1,18 @@
+{
+    "base": "anatomical",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anatomical",
+    "n2": "anatomicals",
+    "n3": "the anatomical",
+    "n4": "the anatomicals",
+    "n5": "anatomical's",
+    "n6": "anatomicals'",
+    "n7": "an anatomical",
+    "n8": "many anatomicals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "camping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "camping",
+    "n2": "campings",
+    "n3": "the camping",
+    "n4": "the campings",
+    "n5": "camping's",
+    "n6": "campings'",
+    "n7": "a camping",
+    "n8": "many campings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dame",
+    "n2": "dames",
+    "n3": "the dame",
+    "n4": "the dames",
+    "n5": "dame's",
+    "n6": "dames'",
+    "n7": "a dame",
+    "n8": "many dames"
+}

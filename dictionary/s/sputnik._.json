@@ -1,0 +1,18 @@
+{
+    "base": "sputnik",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sputnik",
+    "n2": "sputniks",
+    "n3": "the sputnik",
+    "n4": "the sputniks",
+    "n5": "sputnik's",
+    "n6": "sputniks'",
+    "n7": "a sputnik",
+    "n8": "many sputniks"
+}

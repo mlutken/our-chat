@@ -1,0 +1,18 @@
+{
+    "base": "birthright",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "birthright",
+    "n2": "birthrights",
+    "n3": "the birthright",
+    "n4": "the birthrights",
+    "n5": "birthright's",
+    "n6": "birthrights'",
+    "n7": "a birthright",
+    "n8": "many birthrights"
+}

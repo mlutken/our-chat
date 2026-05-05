@@ -1,0 +1,18 @@
+{
+    "base": "filing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "filing",
+    "n2": "filings",
+    "n3": "the filing",
+    "n4": "the filings",
+    "n5": "filing's",
+    "n6": "filings'",
+    "n7": "a filing",
+    "n8": "many filings"
+}

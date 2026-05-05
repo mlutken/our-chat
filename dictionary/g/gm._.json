@@ -1,0 +1,18 @@
+{
+    "base": "gm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "gm",
+    "n2": "gms",
+    "n3": "the gm",
+    "n4": "the gms",
+    "n5": "gm's",
+    "n6": "gms'",
+    "n7": "a gm",
+    "n8": "many gms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "acapulco",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "acapulco",
+    "n2": "acapulcos",
+    "n3": "the acapulco",
+    "n4": "the acapulcos",
+    "n5": "acapulco's",
+    "n6": "acapulcos'",
+    "n7": "an acapulco",
+    "n8": "many acapulcos"
+}

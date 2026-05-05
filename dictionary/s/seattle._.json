@@ -1,0 +1,18 @@
+{
+    "base": "seattle",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seattle",
+    "n2": "seattles",
+    "n3": "the seattle",
+    "n4": "the seattles",
+    "n5": "seattle's",
+    "n6": "seattles'",
+    "n7": "a seattle",
+    "n8": "many seattles"
+}

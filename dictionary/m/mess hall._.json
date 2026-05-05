@@ -1,0 +1,18 @@
+{
+    "base": "mess hall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mess hall",
+    "n2": "mess halls",
+    "n3": "the mess hall",
+    "n4": "the mess halls",
+    "n5": "mess hall's",
+    "n6": "mess halls'",
+    "n7": "a mess hall",
+    "n8": "many mess halls"
+}

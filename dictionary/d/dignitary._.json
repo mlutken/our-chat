@@ -1,0 +1,18 @@
+{
+    "base": "dignitary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dignitary",
+    "n2": "dignitaries",
+    "n3": "the dignitary",
+    "n4": "the dignitaries",
+    "n5": "dignitary's",
+    "n6": "dignitaries'",
+    "n7": "a dignitary",
+    "n8": "many dignitaries"
+}

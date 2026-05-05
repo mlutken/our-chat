@@ -1,0 +1,18 @@
+{
+    "base": "visual space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "visual space",
+    "n2": "visual spaces",
+    "n3": "the visual space",
+    "n4": "the visual spaces",
+    "n5": "visual space's",
+    "n6": "visual spaces'",
+    "n7": "a visual space",
+    "n8": "many visual spaces"
+}

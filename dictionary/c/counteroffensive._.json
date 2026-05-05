@@ -1,0 +1,18 @@
+{
+    "base": "counteroffensive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "counteroffensive",
+    "n2": "counteroffensives",
+    "n3": "the counteroffensive",
+    "n4": "the counteroffensives",
+    "n5": "counteroffensive's",
+    "n6": "counteroffensives'",
+    "n7": "a counteroffensive",
+    "n8": "many counteroffensives"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reducing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reducing",
+    "n2": "reducings",
+    "n3": "the reducing",
+    "n4": "the reducings",
+    "n5": "reducing's",
+    "n6": "reducings'",
+    "n7": "a reducing",
+    "n8": "many reducings"
+}

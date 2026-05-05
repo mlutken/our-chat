@@ -1,0 +1,18 @@
+{
+    "base": "london",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "london",
+    "n2": "londons",
+    "n3": "the london",
+    "n4": "the londons",
+    "n5": "london's",
+    "n6": "londons'",
+    "n7": "a london",
+    "n8": "many londons"
+}

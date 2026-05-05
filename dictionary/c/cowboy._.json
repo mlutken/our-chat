@@ -1,0 +1,18 @@
+{
+    "base": "cowboy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "cowboy",
+    "n2": "cowboys",
+    "n3": "the cowboy",
+    "n4": "the cowboys",
+    "n5": "cowboy's",
+    "n6": "cowboys'",
+    "n7": "a cowboy",
+    "n8": "many cowboys"
+}

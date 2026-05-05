@@ -1,0 +1,18 @@
+{
+    "base": "interplay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "interplay",
+    "n2": "interplays",
+    "n3": "the interplay",
+    "n4": "the interplays",
+    "n5": "interplay's",
+    "n6": "interplays'",
+    "n7": "an interplay",
+    "n8": "many interplays"
+}

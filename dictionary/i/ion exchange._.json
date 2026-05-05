@@ -1,0 +1,18 @@
+{
+    "base": "ion exchange",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ion exchange",
+    "n2": "ion exchanges",
+    "n3": "the ion exchange",
+    "n4": "the ion exchanges",
+    "n5": "ion exchange's",
+    "n6": "ion exchanges'",
+    "n7": "an ion exchange",
+    "n8": "many ion exchanges"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aminomethane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aminomethane",
+    "n2": "aminomethanes",
+    "n3": "the aminomethane",
+    "n4": "the aminomethanes",
+    "n5": "aminomethane's",
+    "n6": "aminomethanes'",
+    "n7": "an aminomethane",
+    "n8": "many aminomethanes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "auto",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "auto",
+    "n2": "autos",
+    "n3": "the auto",
+    "n4": "the autos",
+    "n5": "auto's",
+    "n6": "autos'",
+    "n7": "an auto",
+    "n8": "many autos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "electric circuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electric circuit",
+    "n2": "electric circuits",
+    "n3": "the electric circuit",
+    "n4": "the electric circuits",
+    "n5": "electric circuit's",
+    "n6": "electric circuits'",
+    "n7": "an electric circuit",
+    "n8": "many electric circuits"
+}

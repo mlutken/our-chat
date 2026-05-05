@@ -1,0 +1,18 @@
+{
+    "base": "trader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "trader",
+    "n2": "traders",
+    "n3": "the trader",
+    "n4": "the traders",
+    "n5": "trader's",
+    "n6": "traders'",
+    "n7": "a trader",
+    "n8": "many traders"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pothole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pothole",
+    "n2": "potholes",
+    "n3": "the pothole",
+    "n4": "the potholes",
+    "n5": "pothole's",
+    "n6": "potholes'",
+    "n7": "a pothole",
+    "n8": "many potholes"
+}

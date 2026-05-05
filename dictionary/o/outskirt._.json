@@ -1,0 +1,18 @@
+{
+    "base": "outskirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outskirt",
+    "n2": "outskirts",
+    "n3": "the outskirt",
+    "n4": "the outskirts",
+    "n5": "outskirt's",
+    "n6": "outskirts'",
+    "n7": "an outskirt",
+    "n8": "many outskirts"
+}

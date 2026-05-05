@@ -1,0 +1,18 @@
+{
+    "base": "grape",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grape",
+    "n2": "grapes",
+    "n3": "the grape",
+    "n4": "the grapes",
+    "n5": "grape's",
+    "n6": "grapes'",
+    "n7": "a grape",
+    "n8": "many grapes"
+}

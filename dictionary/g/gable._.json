@@ -1,0 +1,18 @@
+{
+    "base": "gable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gable",
+    "n2": "gables",
+    "n3": "the gable",
+    "n4": "the gables",
+    "n5": "gable's",
+    "n6": "gables'",
+    "n7": "a gable",
+    "n8": "many gables"
+}

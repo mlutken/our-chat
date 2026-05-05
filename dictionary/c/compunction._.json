@@ -1,0 +1,18 @@
+{
+    "base": "compunction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "compunction",
+    "n2": "compunctions",
+    "n3": "the compunction",
+    "n4": "the compunctions",
+    "n5": "compunction's",
+    "n6": "compunctions'",
+    "n7": "a compunction",
+    "n8": "many compunctions"
+}

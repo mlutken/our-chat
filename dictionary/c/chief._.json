@@ -1,0 +1,18 @@
+{
+    "base": "chief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "chief",
+    "n2": "chieves",
+    "n3": "the chief",
+    "n4": "the chieves",
+    "n5": "chief's",
+    "n6": "chieves'",
+    "n7": "a chief",
+    "n8": "many chieves"
+}

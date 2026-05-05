@@ -7,5 +7,12 @@
     "n2": "inflations",
     "n3": "the inflation",
     "n4": "the inflations",
-    "n5": "inflation's"
+    "n5": "inflation's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "inflations'",
+    "n7": "an inflation",
+    "n8": "many inflations"
 }

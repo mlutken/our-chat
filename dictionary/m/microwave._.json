@@ -1,0 +1,18 @@
+{
+    "base": "microwave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "microwave",
+    "n2": "microwaves",
+    "n3": "the microwave",
+    "n4": "the microwaves",
+    "n5": "microwave's",
+    "n6": "microwaves'",
+    "n7": "a microwave",
+    "n8": "many microwaves"
+}

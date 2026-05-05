@@ -1,0 +1,18 @@
+{
+    "base": "quarter mile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "quarter mile",
+    "n2": "quarter miles",
+    "n3": "the quarter mile",
+    "n4": "the quarter miles",
+    "n5": "quarter mile's",
+    "n6": "quarter miles'",
+    "n7": "a quarter mile",
+    "n8": "many quarter miles"
+}

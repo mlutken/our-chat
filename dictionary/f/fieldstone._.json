@@ -1,0 +1,18 @@
+{
+    "base": "fieldstone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fieldstone",
+    "n2": "fieldstones",
+    "n3": "the fieldstone",
+    "n4": "the fieldstones",
+    "n5": "fieldstone's",
+    "n6": "fieldstones'",
+    "n7": "a fieldstone",
+    "n8": "many fieldstones"
+}

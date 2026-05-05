@@ -1,0 +1,18 @@
+{
+    "base": "flute",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flute",
+    "n2": "flutes",
+    "n3": "the flute",
+    "n4": "the flutes",
+    "n5": "flute's",
+    "n6": "flutes'",
+    "n7": "a flute",
+    "n8": "many flutes"
+}

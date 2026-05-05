@@ -1,0 +1,18 @@
+{
+    "base": "bully",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bully",
+    "n2": "bullies",
+    "n3": "the bully",
+    "n4": "the bullies",
+    "n5": "bully's",
+    "n6": "bullies'",
+    "n7": "a bully",
+    "n8": "many bullies"
+}

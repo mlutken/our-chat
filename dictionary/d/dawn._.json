@@ -1,0 +1,18 @@
+{
+    "base": "dawn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "dawn",
+    "n2": "dawns",
+    "n3": "the dawn",
+    "n4": "the dawns",
+    "n5": "dawn's",
+    "n6": "dawns'",
+    "n7": "a dawn",
+    "n8": "many dawns"
+}

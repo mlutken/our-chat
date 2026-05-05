@@ -1,0 +1,18 @@
+{
+    "base": "narrow escape",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "narrow escape",
+    "n2": "narrow escapes",
+    "n3": "the narrow escape",
+    "n4": "the narrow escapes",
+    "n5": "narrow escape's",
+    "n6": "narrow escapes'",
+    "n7": "a narrow escape",
+    "n8": "many narrow escapes"
+}

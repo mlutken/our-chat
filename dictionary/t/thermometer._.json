@@ -1,0 +1,18 @@
+{
+    "base": "thermometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "thermometer",
+    "n2": "thermometers",
+    "n3": "the thermometer",
+    "n4": "the thermometers",
+    "n5": "thermometer's",
+    "n6": "thermometers'",
+    "n7": "a thermometer",
+    "n8": "many thermometers"
+}

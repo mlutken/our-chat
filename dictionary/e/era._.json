@@ -1,0 +1,18 @@
+{
+    "base": "era",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "era",
+    "n2": "eras",
+    "n3": "the era",
+    "n4": "the eras",
+    "n5": "era's",
+    "n6": "eras'",
+    "n7": "an era",
+    "n8": "many eras"
+}

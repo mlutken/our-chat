@@ -1,0 +1,18 @@
+{
+    "base": "proprietorship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "proprietorship",
+    "n2": "proprietorships",
+    "n3": "the proprietorship",
+    "n4": "the proprietorships",
+    "n5": "proprietorship's",
+    "n6": "proprietorships'",
+    "n7": "a proprietorship",
+    "n8": "many proprietorships"
+}

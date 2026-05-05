@@ -1,0 +1,18 @@
+{
+    "base": "preexistence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preexistence",
+    "n2": "preexistences",
+    "n3": "the preexistence",
+    "n4": "the preexistences",
+    "n5": "preexistence's",
+    "n6": "preexistences'",
+    "n7": "a preexistence",
+    "n8": "many preexistences"
+}

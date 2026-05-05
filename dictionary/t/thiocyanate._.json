@@ -1,0 +1,18 @@
+{
+    "base": "thiocyanate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thiocyanate",
+    "n2": "thiocyanates",
+    "n3": "the thiocyanate",
+    "n4": "the thiocyanates",
+    "n5": "thiocyanate's",
+    "n6": "thiocyanates'",
+    "n7": "a thiocyanate",
+    "n8": "many thiocyanates"
+}

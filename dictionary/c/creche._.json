@@ -1,0 +1,18 @@
+{
+    "base": "creche",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "creche",
+    "n2": "creches",
+    "n3": "the creche",
+    "n4": "the creches",
+    "n5": "creche's",
+    "n6": "creches'",
+    "n7": "a creche",
+    "n8": "many creches"
+}

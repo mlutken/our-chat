@@ -1,0 +1,18 @@
+{
+    "base": "dispatch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "dispatch",
+    "n2": "dispatches",
+    "n3": "the dispatch",
+    "n4": "the dispatches",
+    "n5": "dispatch's",
+    "n6": "dispatches'",
+    "n7": "a dispatch",
+    "n8": "many dispatches"
+}

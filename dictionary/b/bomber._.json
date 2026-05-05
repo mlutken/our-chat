@@ -1,0 +1,18 @@
+{
+    "base": "bomber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "bomber",
+    "n2": "bombers",
+    "n3": "the bomber",
+    "n4": "the bombers",
+    "n5": "bomber's",
+    "n6": "bombers'",
+    "n7": "a bomber",
+    "n8": "many bombers"
+}

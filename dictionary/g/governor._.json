@@ -1,0 +1,18 @@
+{
+    "base": "governor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "governor",
+    "n2": "governors",
+    "n3": "the governor",
+    "n4": "the governors",
+    "n5": "governor's",
+    "n6": "governors'",
+    "n7": "a governor",
+    "n8": "many governors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "military man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "military man",
+    "n2": "military mans",
+    "n3": "the military man",
+    "n4": "the military mans",
+    "n5": "military man's",
+    "n6": "military mans'",
+    "n7": "a military man",
+    "n8": "many military mans"
+}

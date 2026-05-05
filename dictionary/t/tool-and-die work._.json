@@ -1,0 +1,18 @@
+{
+    "base": "tool-and-die work",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tool-and-die work",
+    "n2": "tool-and-die works",
+    "n3": "the tool-and-die work",
+    "n4": "the tool-and-die works",
+    "n5": "tool-and-die work's",
+    "n6": "tool-and-die works'",
+    "n7": "a tool-and-die work",
+    "n8": "many tool-and-die works"
+}

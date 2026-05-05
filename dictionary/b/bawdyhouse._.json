@@ -1,0 +1,18 @@
+{
+    "base": "bawdyhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bawdyhouse",
+    "n2": "bawdyhouses",
+    "n3": "the bawdyhouse",
+    "n4": "the bawdyhouses",
+    "n5": "bawdyhouse's",
+    "n6": "bawdyhouses'",
+    "n7": "a bawdyhouse",
+    "n8": "many bawdyhouses"
+}

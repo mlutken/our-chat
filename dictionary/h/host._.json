@@ -1,11 +1,24 @@
 {
     "base": "host",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "host",
     "v2": "hosted",
     "v3": "hosted",
     "v4": "hosting",
-    "v5": "hosts"
+    "v5": "hosts",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "host",
+    "n2": "hosts",
+    "n3": "the host",
+    "n4": "the hosts",
+    "n5": "host's",
+    "n6": "hosts'",
+    "n7": "a host",
+    "n8": "many hosts"
 }

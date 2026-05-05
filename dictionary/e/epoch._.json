@@ -1,0 +1,18 @@
+{
+    "base": "epoch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "epoch",
+    "n2": "epoches",
+    "n3": "the epoch",
+    "n4": "the epoches",
+    "n5": "epoch's",
+    "n6": "epoches'",
+    "n7": "an epoch",
+    "n8": "many epoches"
+}

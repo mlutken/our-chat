@@ -7,5 +7,12 @@
     "n2": "protections",
     "n3": "the protection",
     "n4": "the protections",
-    "n5": "protection's"
+    "n5": "protection's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "protections'",
+    "n7": "a protection",
+    "n8": "many protections"
 }

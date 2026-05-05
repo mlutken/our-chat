@@ -1,0 +1,18 @@
+{
+    "base": "human being",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "human being",
+    "n2": "human beings",
+    "n3": "the human being",
+    "n4": "the human beings",
+    "n5": "human being's",
+    "n6": "human beings'",
+    "n7": "a human being",
+    "n8": "many human beings"
+}

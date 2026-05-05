@@ -7,5 +7,12 @@
     "n2": "courts",
     "n3": "the court",
     "n4": "the courts",
-    "n5": "court's"
+    "n5": "court's",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "courts'",
+    "n7": "a court",
+    "n8": "many courts"
 }

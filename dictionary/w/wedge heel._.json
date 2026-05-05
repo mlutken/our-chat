@@ -1,0 +1,18 @@
+{
+    "base": "wedge heel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wedge heel",
+    "n2": "wedge heels",
+    "n3": "the wedge heel",
+    "n4": "the wedge heels",
+    "n5": "wedge heel's",
+    "n6": "wedge heels'",
+    "n7": "a wedge heel",
+    "n8": "many wedge heels"
+}

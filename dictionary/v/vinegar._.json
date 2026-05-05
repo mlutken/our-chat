@@ -1,0 +1,18 @@
+{
+    "base": "vinegar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vinegar",
+    "n2": "vinegars",
+    "n3": "the vinegar",
+    "n4": "the vinegars",
+    "n5": "vinegar's",
+    "n6": "vinegars'",
+    "n7": "a vinegar",
+    "n8": "many vinegars"
+}

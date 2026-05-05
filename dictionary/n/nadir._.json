@@ -1,0 +1,18 @@
+{
+    "base": "nadir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nadir",
+    "n2": "nadirs",
+    "n3": "the nadir",
+    "n4": "the nadirs",
+    "n5": "nadir's",
+    "n6": "nadirs'",
+    "n7": "a nadir",
+    "n8": "many nadirs"
+}

@@ -7,5 +7,12 @@
     "n2": "cups",
     "n3": "the cup",
     "n4": "the cups",
-    "n5": "cup's"
+    "n5": "cup's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "cups'",
+    "n7": "a cup",
+    "n8": "many cups"
 }

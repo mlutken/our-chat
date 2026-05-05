@@ -1,0 +1,18 @@
+{
+    "base": "square root",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "square root",
+    "n2": "square roots",
+    "n3": "the square root",
+    "n4": "the square roots",
+    "n5": "square root's",
+    "n6": "square roots'",
+    "n7": "a square root",
+    "n8": "many square roots"
+}

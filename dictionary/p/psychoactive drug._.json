@@ -1,0 +1,18 @@
+{
+    "base": "psychoactive drug",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "psychoactive drug",
+    "n2": "psychoactive drugs",
+    "n3": "the psychoactive drug",
+    "n4": "the psychoactive drugs",
+    "n5": "psychoactive drug's",
+    "n6": "psychoactive drugs'",
+    "n7": "a psychoactive drug",
+    "n8": "many psychoactive drugs"
+}

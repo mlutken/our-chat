@@ -1,0 +1,18 @@
+{
+    "base": "slavery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "slavery",
+    "n2": "slaveries",
+    "n3": "the slavery",
+    "n4": "the slaveries",
+    "n5": "slavery's",
+    "n6": "slaveries'",
+    "n7": "a slavery",
+    "n8": "many slaveries"
+}

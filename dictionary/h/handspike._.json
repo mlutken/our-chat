@@ -1,0 +1,18 @@
+{
+    "base": "handspike",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "handspike",
+    "n2": "handspikes",
+    "n3": "the handspike",
+    "n4": "the handspikes",
+    "n5": "handspike's",
+    "n6": "handspikes'",
+    "n7": "a handspike",
+    "n8": "many handspikes"
+}

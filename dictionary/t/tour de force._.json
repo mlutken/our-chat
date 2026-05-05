@@ -1,0 +1,18 @@
+{
+    "base": "tour de force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tour de force",
+    "n2": "tour de forces",
+    "n3": "the tour de force",
+    "n4": "the tour de forces",
+    "n5": "tour de force's",
+    "n6": "tour de forces'",
+    "n7": "a tour de force",
+    "n8": "many tour de forces"
+}

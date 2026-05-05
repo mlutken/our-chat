@@ -1,0 +1,18 @@
+{
+    "base": "exaggeration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "exaggeration",
+    "n2": "exaggerations",
+    "n3": "the exaggeration",
+    "n4": "the exaggerations",
+    "n5": "exaggeration's",
+    "n6": "exaggerations'",
+    "n7": "an exaggeration",
+    "n8": "many exaggerations"
+}

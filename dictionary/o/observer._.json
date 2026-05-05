@@ -1,0 +1,18 @@
+{
+    "base": "observer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "observer",
+    "n2": "observers",
+    "n3": "the observer",
+    "n4": "the observers",
+    "n5": "observer's",
+    "n6": "observers'",
+    "n7": "an observer",
+    "n8": "many observers"
+}

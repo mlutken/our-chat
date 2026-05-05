@@ -1,0 +1,18 @@
+{
+    "base": "preemployment training program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preemployment training program",
+    "n2": "preemployment training programs",
+    "n3": "the preemployment training program",
+    "n4": "the preemployment training programs",
+    "n5": "preemployment training program's",
+    "n6": "preemployment training programs'",
+    "n7": "a preemployment training program",
+    "n8": "many preemployment training programs"
+}

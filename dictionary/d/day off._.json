@@ -1,0 +1,18 @@
+{
+    "base": "day off",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "day off",
+    "n2": "day ofves",
+    "n3": "the day off",
+    "n4": "the day ofves",
+    "n5": "day off's",
+    "n6": "day ofves'",
+    "n7": "a day off",
+    "n8": "many day ofves"
+}

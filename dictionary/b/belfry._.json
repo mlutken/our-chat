@@ -1,0 +1,18 @@
+{
+    "base": "belfry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "belfry",
+    "n2": "belfries",
+    "n3": "the belfry",
+    "n4": "the belfries",
+    "n5": "belfry's",
+    "n6": "belfries'",
+    "n7": "a belfry",
+    "n8": "many belfries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "men",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "men",
+    "n2": "mens",
+    "n3": "the men",
+    "n4": "the mens",
+    "n5": "men's",
+    "n6": "mens'",
+    "n7": "a men",
+    "n8": "many mens"
+}

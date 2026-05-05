@@ -1,0 +1,18 @@
+{
+    "base": "collective",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "collective",
+    "n2": "collectives",
+    "n3": "the collective",
+    "n4": "the collectives",
+    "n5": "collective's",
+    "n6": "collectives'",
+    "n7": "a collective",
+    "n8": "many collectives"
+}

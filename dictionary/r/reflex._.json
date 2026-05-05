@@ -1,0 +1,18 @@
+{
+    "base": "reflex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "reflex",
+    "n2": "reflexes",
+    "n3": "the reflex",
+    "n4": "the reflexes",
+    "n5": "reflex's",
+    "n6": "reflexes'",
+    "n7": "a reflex",
+    "n8": "many reflexes"
+}

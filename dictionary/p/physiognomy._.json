@@ -1,0 +1,18 @@
+{
+    "base": "physiognomy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "physiognomy",
+    "n2": "physiognomies",
+    "n3": "the physiognomy",
+    "n4": "the physiognomies",
+    "n5": "physiognomy's",
+    "n6": "physiognomies'",
+    "n7": "a physiognomy",
+    "n8": "many physiognomies"
+}

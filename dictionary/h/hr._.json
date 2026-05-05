@@ -1,0 +1,18 @@
+{
+    "base": "hr",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "hr",
+    "n2": "hrs",
+    "n3": "the hr",
+    "n4": "the hrs",
+    "n5": "hr's",
+    "n6": "hrs'",
+    "n7": "a hr",
+    "n8": "many hrs"
+}

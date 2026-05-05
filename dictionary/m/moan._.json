@@ -1,11 +1,24 @@
 {
     "base": "moan",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "moan",
     "v2": "moaned",
     "v3": "moaned",
     "v4": "moaning",
-    "v5": "moans"
+    "v5": "moans",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moan",
+    "n2": "moans",
+    "n3": "the moan",
+    "n4": "the moans",
+    "n5": "moan's",
+    "n6": "moans'",
+    "n7": "a moan",
+    "n8": "many moans"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "germany",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "germany",
+    "n2": "germanies",
+    "n3": "the germany",
+    "n4": "the germanies",
+    "n5": "germany's",
+    "n6": "germanies'",
+    "n7": "a germany",
+    "n8": "many germanies"
+}

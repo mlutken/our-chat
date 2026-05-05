@@ -1,0 +1,18 @@
+{
+    "base": "accuracy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "accuracy",
+    "n2": "accuracies",
+    "n3": "the accuracy",
+    "n4": "the accuracies",
+    "n5": "accuracy's",
+    "n6": "accuracies'",
+    "n7": "an accuracy",
+    "n8": "many accuracies"
+}

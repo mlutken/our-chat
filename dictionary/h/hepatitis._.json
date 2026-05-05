@@ -1,0 +1,18 @@
+{
+    "base": "hepatitis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hepatitis",
+    "n2": "hepatitises",
+    "n3": "the hepatitis",
+    "n4": "the hepatitises",
+    "n5": "hepatitis'",
+    "n6": "hepatitises'",
+    "n7": "a hepatitis",
+    "n8": "many hepatitises"
+}

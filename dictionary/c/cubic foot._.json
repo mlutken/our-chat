@@ -1,0 +1,18 @@
+{
+    "base": "cubic foot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cubic foot",
+    "n2": "cubic foots",
+    "n3": "the cubic foot",
+    "n4": "the cubic foots",
+    "n5": "cubic foot's",
+    "n6": "cubic foots'",
+    "n7": "a cubic foot",
+    "n8": "many cubic foots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "synchrony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "synchrony",
+    "n2": "synchronies",
+    "n3": "the synchrony",
+    "n4": "the synchronies",
+    "n5": "synchrony's",
+    "n6": "synchronies'",
+    "n7": "a synchrony",
+    "n8": "many synchronies"
+}

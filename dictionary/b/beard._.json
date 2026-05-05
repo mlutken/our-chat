@@ -1,0 +1,18 @@
+{
+    "base": "beard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "beard",
+    "n2": "beards",
+    "n3": "the beard",
+    "n4": "the beards",
+    "n5": "beard's",
+    "n6": "beards'",
+    "n7": "a beard",
+    "n8": "many beards"
+}

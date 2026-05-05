@@ -1,0 +1,18 @@
+{
+    "base": "cube",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cube",
+    "n2": "cubes",
+    "n3": "the cube",
+    "n4": "the cubes",
+    "n5": "cube's",
+    "n6": "cubes'",
+    "n7": "a cube",
+    "n8": "many cubes"
+}

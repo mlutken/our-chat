@@ -1,0 +1,18 @@
+{
+    "base": "dress shop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dress shop",
+    "n2": "dress shops",
+    "n3": "the dress shop",
+    "n4": "the dress shops",
+    "n5": "dress shop's",
+    "n6": "dress shops'",
+    "n7": "a dress shop",
+    "n8": "many dress shops"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hilarity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hilarity",
+    "n2": "hilarities",
+    "n3": "the hilarity",
+    "n4": "the hilarities",
+    "n5": "hilarity's",
+    "n6": "hilarities'",
+    "n7": "a hilarity",
+    "n8": "many hilarities"
+}

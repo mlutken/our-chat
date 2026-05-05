@@ -1,0 +1,18 @@
+{
+    "base": "small-arm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "small-arm",
+    "n2": "small-arms",
+    "n3": "the small-arm",
+    "n4": "the small-arms",
+    "n5": "small-arm's",
+    "n6": "small-arms'",
+    "n7": "a small-arm",
+    "n8": "many small-arms"
+}

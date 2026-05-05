@@ -1,0 +1,18 @@
+{
+    "base": "rundown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rundown",
+    "n2": "rundowns",
+    "n3": "the rundown",
+    "n4": "the rundowns",
+    "n5": "rundown's",
+    "n6": "rundowns'",
+    "n7": "a rundown",
+    "n8": "many rundowns"
+}

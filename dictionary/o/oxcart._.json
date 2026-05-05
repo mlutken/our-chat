@@ -1,0 +1,18 @@
+{
+    "base": "oxcart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oxcart",
+    "n2": "oxcarts",
+    "n3": "the oxcart",
+    "n4": "the oxcarts",
+    "n5": "oxcart's",
+    "n6": "oxcarts'",
+    "n7": "an oxcart",
+    "n8": "many oxcarts"
+}

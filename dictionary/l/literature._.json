@@ -7,5 +7,12 @@
     "n2": "literatures",
     "n3": "the literature",
     "n4": "the literatures",
-    "n5": "literature's"
+    "n5": "literature's",
+    "proper": false,
+    "commonness": 73,
+    "max_commonness": 6834,
+    "commonness_ge_count": 191,
+    "n6": "literatures'",
+    "n7": "a literature",
+    "n8": "many literatures"
 }

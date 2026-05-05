@@ -1,0 +1,18 @@
+{
+    "base": "flapper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flapper",
+    "n2": "flappers",
+    "n3": "the flapper",
+    "n4": "the flappers",
+    "n5": "flapper's",
+    "n6": "flappers'",
+    "n7": "a flapper",
+    "n8": "many flappers"
+}

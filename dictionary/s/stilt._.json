@@ -1,0 +1,18 @@
+{
+    "base": "stilt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stilt",
+    "n2": "stilts",
+    "n3": "the stilt",
+    "n4": "the stilts",
+    "n5": "stilt's",
+    "n6": "stilts'",
+    "n7": "a stilt",
+    "n8": "many stilts"
+}

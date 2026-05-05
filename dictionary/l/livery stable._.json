@@ -1,0 +1,18 @@
+{
+    "base": "livery stable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "livery stable",
+    "n2": "livery stables",
+    "n3": "the livery stable",
+    "n4": "the livery stables",
+    "n5": "livery stable's",
+    "n6": "livery stables'",
+    "n7": "a livery stable",
+    "n8": "many livery stables"
+}

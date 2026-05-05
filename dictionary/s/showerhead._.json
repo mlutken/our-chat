@@ -1,0 +1,18 @@
+{
+    "base": "showerhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "showerhead",
+    "n2": "showerheads",
+    "n3": "the showerhead",
+    "n4": "the showerheads",
+    "n5": "showerhead's",
+    "n6": "showerheads'",
+    "n7": "a showerhead",
+    "n8": "many showerheads"
+}

@@ -7,5 +7,12 @@
     "n2": "patiences",
     "n3": "the patience",
     "n4": "the patiences",
-    "n5": "patience's"
+    "n5": "patience's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "patiences'",
+    "n7": "a patience",
+    "n8": "many patiences"
 }

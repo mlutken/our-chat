@@ -1,0 +1,18 @@
+{
+    "base": "producer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "producer",
+    "n2": "producers",
+    "n3": "the producer",
+    "n4": "the producers",
+    "n5": "producer's",
+    "n6": "producers'",
+    "n7": "a producer",
+    "n8": "many producers"
+}

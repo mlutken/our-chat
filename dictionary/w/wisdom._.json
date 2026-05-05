@@ -1,0 +1,18 @@
+{
+    "base": "wisdom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "wisdom",
+    "n2": "wisdoms",
+    "n3": "the wisdom",
+    "n4": "the wisdoms",
+    "n5": "wisdom's",
+    "n6": "wisdoms'",
+    "n7": "a wisdom",
+    "n8": "many wisdoms"
+}

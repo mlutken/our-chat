@@ -1,0 +1,18 @@
+{
+    "base": "halfback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "halfback",
+    "n2": "halfbacks",
+    "n3": "the halfback",
+    "n4": "the halfbacks",
+    "n5": "halfback's",
+    "n6": "halfbacks'",
+    "n7": "a halfback",
+    "n8": "many halfbacks"
+}

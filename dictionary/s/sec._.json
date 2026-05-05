@@ -1,0 +1,18 @@
+{
+    "base": "sec",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sec",
+    "n2": "secs",
+    "n3": "the sec",
+    "n4": "the secs",
+    "n5": "sec's",
+    "n6": "secs'",
+    "n7": "a sec",
+    "n8": "many secs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "roadway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "roadway",
+    "n2": "roadways",
+    "n3": "the roadway",
+    "n4": "the roadways",
+    "n5": "roadway's",
+    "n6": "roadways'",
+    "n7": "a roadway",
+    "n8": "many roadways"
+}

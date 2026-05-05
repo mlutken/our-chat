@@ -1,0 +1,18 @@
+{
+    "base": "conduction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conduction",
+    "n2": "conductions",
+    "n3": "the conduction",
+    "n4": "the conductions",
+    "n5": "conduction's",
+    "n6": "conductions'",
+    "n7": "a conduction",
+    "n8": "many conductions"
+}

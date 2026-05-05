@@ -1,0 +1,18 @@
+{
+    "base": "papa",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "papa",
+    "n2": "papas",
+    "n3": "the papa",
+    "n4": "the papas",
+    "n5": "papa's",
+    "n6": "papas'",
+    "n7": "a papa",
+    "n8": "many papas"
+}

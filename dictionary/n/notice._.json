@@ -1,11 +1,24 @@
 {
     "base": "notice",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "notice",
     "v2": "noticed",
     "v3": "noticed",
     "v4": "noticing",
-    "v5": "notices"
+    "v5": "notices",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "notice",
+    "n2": "notices",
+    "n3": "the notice",
+    "n4": "the notices",
+    "n5": "notice's",
+    "n6": "notices'",
+    "n7": "a notice",
+    "n8": "many notices"
 }

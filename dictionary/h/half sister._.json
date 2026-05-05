@@ -1,0 +1,18 @@
+{
+    "base": "half sister",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "half sister",
+    "n2": "half sisters",
+    "n3": "the half sister",
+    "n4": "the half sisters",
+    "n5": "half sister's",
+    "n6": "half sisters'",
+    "n7": "a half sister",
+    "n8": "many half sisters"
+}

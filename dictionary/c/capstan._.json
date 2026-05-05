@@ -1,0 +1,18 @@
+{
+    "base": "capstan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capstan",
+    "n2": "capstans",
+    "n3": "the capstan",
+    "n4": "the capstans",
+    "n5": "capstan's",
+    "n6": "capstans'",
+    "n7": "a capstan",
+    "n8": "many capstans"
+}

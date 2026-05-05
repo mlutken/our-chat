@@ -1,0 +1,18 @@
+{
+    "base": "the devil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "the devil",
+    "n2": "the devils",
+    "n3": "the the devil",
+    "n4": "the the devils",
+    "n5": "the devil's",
+    "n6": "the devils'",
+    "n7": "a the devil",
+    "n8": "many the devils"
+}

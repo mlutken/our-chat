@@ -1,0 +1,18 @@
+{
+    "base": "gas jet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "gas jet",
+    "n2": "gas jets",
+    "n3": "the gas jet",
+    "n4": "the gas jets",
+    "n5": "gas jet's",
+    "n6": "gas jets'",
+    "n7": "a gas jet",
+    "n8": "many gas jets"
+}

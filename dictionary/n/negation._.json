@@ -1,0 +1,18 @@
+{
+    "base": "negation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "negation",
+    "n2": "negations",
+    "n3": "the negation",
+    "n4": "the negations",
+    "n5": "negation's",
+    "n6": "negations'",
+    "n7": "a negation",
+    "n8": "many negations"
+}

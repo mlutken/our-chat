@@ -1,0 +1,18 @@
+{
+    "base": "payne's gray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "payne's gray",
+    "n2": "payne's grays",
+    "n3": "the payne's gray",
+    "n4": "the payne's grays",
+    "n5": "payne's gray's",
+    "n6": "payne's grays'",
+    "n7": "a payne's gray",
+    "n8": "many payne's grays"
+}

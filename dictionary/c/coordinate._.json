@@ -1,0 +1,18 @@
+{
+    "base": "coordinate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coordinate",
+    "n2": "coordinates",
+    "n3": "the coordinate",
+    "n4": "the coordinates",
+    "n5": "coordinate's",
+    "n6": "coordinates'",
+    "n7": "a coordinate",
+    "n8": "many coordinates"
+}

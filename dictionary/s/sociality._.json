@@ -1,0 +1,18 @@
+{
+    "base": "sociality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sociality",
+    "n2": "socialities",
+    "n3": "the sociality",
+    "n4": "the socialities",
+    "n5": "sociality's",
+    "n6": "socialities'",
+    "n7": "a sociality",
+    "n8": "many socialities"
+}

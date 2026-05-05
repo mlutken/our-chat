@@ -1,0 +1,18 @@
+{
+    "base": "horizontal bar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horizontal bar",
+    "n2": "horizontal bars",
+    "n3": "the horizontal bar",
+    "n4": "the horizontal bars",
+    "n5": "horizontal bar's",
+    "n6": "horizontal bars'",
+    "n7": "a horizontal bar",
+    "n8": "many horizontal bars"
+}

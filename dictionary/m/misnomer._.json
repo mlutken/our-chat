@@ -1,0 +1,18 @@
+{
+    "base": "misnomer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misnomer",
+    "n2": "misnomers",
+    "n3": "the misnomer",
+    "n4": "the misnomers",
+    "n5": "misnomer's",
+    "n6": "misnomers'",
+    "n7": "a misnomer",
+    "n8": "many misnomers"
+}

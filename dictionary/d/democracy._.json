@@ -1,0 +1,18 @@
+{
+    "base": "democracy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "democracy",
+    "n2": "democracies",
+    "n3": "the democracy",
+    "n4": "the democracies",
+    "n5": "democracy's",
+    "n6": "democracies'",
+    "n7": "a democracy",
+    "n8": "many democracies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ghana",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ghana",
+    "n2": "ghanas",
+    "n3": "the ghana",
+    "n4": "the ghanas",
+    "n5": "ghana's",
+    "n6": "ghanas'",
+    "n7": "a ghana",
+    "n8": "many ghanas"
+}

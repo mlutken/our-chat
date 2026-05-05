@@ -1,0 +1,18 @@
+{
+    "base": "black eye",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "black eye",
+    "n2": "black eyes",
+    "n3": "the black eye",
+    "n4": "the black eyes",
+    "n5": "black eye's",
+    "n6": "black eyes'",
+    "n7": "a black eye",
+    "n8": "many black eyes"
+}

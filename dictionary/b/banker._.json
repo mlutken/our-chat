@@ -1,0 +1,18 @@
+{
+    "base": "banker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "banker",
+    "n2": "bankers",
+    "n3": "the banker",
+    "n4": "the bankers",
+    "n5": "banker's",
+    "n6": "bankers'",
+    "n7": "a banker",
+    "n8": "many bankers"
+}

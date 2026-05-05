@@ -1,0 +1,18 @@
+{
+    "base": "messenger boy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "messenger boy",
+    "n2": "messenger boys",
+    "n3": "the messenger boy",
+    "n4": "the messenger boys",
+    "n5": "messenger boy's",
+    "n6": "messenger boys'",
+    "n7": "a messenger boy",
+    "n8": "many messenger boys"
+}

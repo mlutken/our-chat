@@ -1,0 +1,18 @@
+{
+    "base": "volleyball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "volleyball",
+    "n2": "volleyballs",
+    "n3": "the volleyball",
+    "n4": "the volleyballs",
+    "n5": "volleyball's",
+    "n6": "volleyballs'",
+    "n7": "a volleyball",
+    "n8": "many volleyballs"
+}

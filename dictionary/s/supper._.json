@@ -1,0 +1,18 @@
+{
+    "base": "supper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "supper",
+    "n2": "suppers",
+    "n3": "the supper",
+    "n4": "the suppers",
+    "n5": "supper's",
+    "n6": "suppers'",
+    "n7": "a supper",
+    "n8": "many suppers"
+}

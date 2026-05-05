@@ -1,0 +1,18 @@
+{
+    "base": "best",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "best",
+    "n2": "bests",
+    "n3": "the best",
+    "n4": "the bests",
+    "n5": "best's",
+    "n6": "bests'",
+    "n7": "a best",
+    "n8": "many bests"
+}

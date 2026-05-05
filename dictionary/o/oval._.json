@@ -1,0 +1,18 @@
+{
+    "base": "oval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "oval",
+    "n2": "ovals",
+    "n3": "the oval",
+    "n4": "the ovals",
+    "n5": "oval's",
+    "n6": "ovals'",
+    "n7": "an oval",
+    "n8": "many ovals"
+}

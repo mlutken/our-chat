@@ -1,0 +1,18 @@
+{
+    "base": "housekeeping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "housekeeping",
+    "n2": "housekeepings",
+    "n3": "the housekeeping",
+    "n4": "the housekeepings",
+    "n5": "housekeeping's",
+    "n6": "housekeepings'",
+    "n7": "a housekeeping",
+    "n8": "many housekeepings"
+}

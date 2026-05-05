@@ -1,0 +1,18 @@
+{
+    "base": "defense policy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "defense policy",
+    "n2": "defense policies",
+    "n3": "the defense policy",
+    "n4": "the defense policies",
+    "n5": "defense policy's",
+    "n6": "defense policies'",
+    "n7": "a defense policy",
+    "n8": "many defense policies"
+}

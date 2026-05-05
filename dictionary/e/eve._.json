@@ -1,0 +1,18 @@
+{
+    "base": "eve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "eve",
+    "n2": "eves",
+    "n3": "the eve",
+    "n4": "the eves",
+    "n5": "eve's",
+    "n6": "eves'",
+    "n7": "an eve",
+    "n8": "many eves"
+}

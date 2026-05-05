@@ -1,0 +1,18 @@
+{
+    "base": "foil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "foil",
+    "n2": "foils",
+    "n3": "the foil",
+    "n4": "the foils",
+    "n5": "foil's",
+    "n6": "foils'",
+    "n7": "a foil",
+    "n8": "many foils"
+}

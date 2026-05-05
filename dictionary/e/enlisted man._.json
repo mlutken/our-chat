@@ -1,0 +1,18 @@
+{
+    "base": "enlisted man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enlisted man",
+    "n2": "enlisted mans",
+    "n3": "the enlisted man",
+    "n4": "the enlisted mans",
+    "n5": "enlisted man's",
+    "n6": "enlisted mans'",
+    "n7": "an enlisted man",
+    "n8": "many enlisted mans"
+}

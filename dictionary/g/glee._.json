@@ -1,0 +1,18 @@
+{
+    "base": "glee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "glee",
+    "n2": "glees",
+    "n3": "the glee",
+    "n4": "the glees",
+    "n5": "glee's",
+    "n6": "glees'",
+    "n7": "a glee",
+    "n8": "many glees"
+}

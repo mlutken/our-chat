@@ -1,0 +1,18 @@
+{
+    "base": "daybreak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "daybreak",
+    "n2": "daybreaks",
+    "n3": "the daybreak",
+    "n4": "the daybreaks",
+    "n5": "daybreak's",
+    "n6": "daybreaks'",
+    "n7": "a daybreak",
+    "n8": "many daybreaks"
+}

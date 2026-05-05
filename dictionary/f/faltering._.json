@@ -1,0 +1,18 @@
+{
+    "base": "faltering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "faltering",
+    "n2": "falterings",
+    "n3": "the faltering",
+    "n4": "the falterings",
+    "n5": "faltering's",
+    "n6": "falterings'",
+    "n7": "a faltering",
+    "n8": "many falterings"
+}

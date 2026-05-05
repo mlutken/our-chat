@@ -1,0 +1,18 @@
+{
+    "base": "pathologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pathologist",
+    "n2": "pathologists",
+    "n3": "the pathologist",
+    "n4": "the pathologists",
+    "n5": "pathologist's",
+    "n6": "pathologists'",
+    "n7": "a pathologist",
+    "n8": "many pathologists"
+}

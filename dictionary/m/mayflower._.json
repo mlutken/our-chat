@@ -1,0 +1,18 @@
+{
+    "base": "mayflower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mayflower",
+    "n2": "mayflowers",
+    "n3": "the mayflower",
+    "n4": "the mayflowers",
+    "n5": "mayflower's",
+    "n6": "mayflowers'",
+    "n7": "a mayflower",
+    "n8": "many mayflowers"
+}

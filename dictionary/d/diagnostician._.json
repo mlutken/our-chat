@@ -1,0 +1,18 @@
+{
+    "base": "diagnostician",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diagnostician",
+    "n2": "diagnosticians",
+    "n3": "the diagnostician",
+    "n4": "the diagnosticians",
+    "n5": "diagnostician's",
+    "n6": "diagnosticians'",
+    "n7": "a diagnostician",
+    "n8": "many diagnosticians"
+}

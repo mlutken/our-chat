@@ -1,0 +1,18 @@
+{
+    "base": "wages",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wages",
+    "n2": "wageses",
+    "n3": "the wages",
+    "n4": "the wageses",
+    "n5": "wages'",
+    "n6": "wageses'",
+    "n7": "a wages",
+    "n8": "many wageses"
+}

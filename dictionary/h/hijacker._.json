@@ -1,0 +1,18 @@
+{
+    "base": "hijacker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hijacker",
+    "n2": "hijackers",
+    "n3": "the hijacker",
+    "n4": "the hijackers",
+    "n5": "hijacker's",
+    "n6": "hijackers'",
+    "n7": "a hijacker",
+    "n8": "many hijackers"
+}

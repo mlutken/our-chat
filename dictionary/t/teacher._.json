@@ -7,5 +7,12 @@
     "n2": "teachers",
     "n3": "the teacher",
     "n4": "the teachers",
-    "n5": "teacher's"
+    "n5": "teacher's",
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n6": "teachers'",
+    "n7": "a teacher",
+    "n8": "many teachers"
 }

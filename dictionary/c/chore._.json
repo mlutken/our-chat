@@ -1,0 +1,18 @@
+{
+    "base": "chore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "chore",
+    "n2": "chores",
+    "n3": "the chore",
+    "n4": "the chores",
+    "n5": "chore's",
+    "n6": "chores'",
+    "n7": "a chore",
+    "n8": "many chores"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "importation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "importation",
+    "n2": "importations",
+    "n3": "the importation",
+    "n4": "the importations",
+    "n5": "importation's",
+    "n6": "importations'",
+    "n7": "an importation",
+    "n8": "many importations"
+}

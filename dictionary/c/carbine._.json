@@ -1,0 +1,18 @@
+{
+    "base": "carbine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "carbine",
+    "n2": "carbines",
+    "n3": "the carbine",
+    "n4": "the carbines",
+    "n5": "carbine's",
+    "n6": "carbines'",
+    "n7": "a carbine",
+    "n8": "many carbines"
+}

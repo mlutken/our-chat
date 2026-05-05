@@ -1,0 +1,18 @@
+{
+    "base": "potter",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "potter",
+    "n2": "potters",
+    "n3": "the potter",
+    "n4": "the potters",
+    "n5": "potter's",
+    "n6": "potters'",
+    "n7": "a potter",
+    "n8": "many potters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "barometric pressure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barometric pressure",
+    "n2": "barometric pressures",
+    "n3": "the barometric pressure",
+    "n4": "the barometric pressures",
+    "n5": "barometric pressure's",
+    "n6": "barometric pressures'",
+    "n7": "a barometric pressure",
+    "n8": "many barometric pressures"
+}

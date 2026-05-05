@@ -1,0 +1,18 @@
+{
+    "base": "arts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "arts",
+    "n2": "artses",
+    "n3": "the arts",
+    "n4": "the artses",
+    "n5": "arts'",
+    "n6": "artses'",
+    "n7": "an arts",
+    "n8": "many artses"
+}

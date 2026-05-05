@@ -1,0 +1,18 @@
+{
+    "base": "hurdle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hurdle",
+    "n2": "hurdles",
+    "n3": "the hurdle",
+    "n4": "the hurdles",
+    "n5": "hurdle's",
+    "n6": "hurdles'",
+    "n7": "a hurdle",
+    "n8": "many hurdles"
+}

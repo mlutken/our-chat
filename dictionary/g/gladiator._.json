@@ -1,0 +1,18 @@
+{
+    "base": "gladiator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gladiator",
+    "n2": "gladiators",
+    "n3": "the gladiator",
+    "n4": "the gladiators",
+    "n5": "gladiator's",
+    "n6": "gladiators'",
+    "n7": "a gladiator",
+    "n8": "many gladiators"
+}

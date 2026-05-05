@@ -1,0 +1,18 @@
+{
+    "base": "tolerance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tolerance",
+    "n2": "tolerances",
+    "n3": "the tolerance",
+    "n4": "the tolerances",
+    "n5": "tolerance's",
+    "n6": "tolerances'",
+    "n7": "a tolerance",
+    "n8": "many tolerances"
+}

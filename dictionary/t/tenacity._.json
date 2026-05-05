@@ -1,0 +1,18 @@
+{
+    "base": "tenacity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tenacity",
+    "n2": "tenacities",
+    "n3": "the tenacity",
+    "n4": "the tenacities",
+    "n5": "tenacity's",
+    "n6": "tenacities'",
+    "n7": "a tenacity",
+    "n8": "many tenacities"
+}

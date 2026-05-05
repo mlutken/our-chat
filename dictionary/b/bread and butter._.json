@@ -1,0 +1,18 @@
+{
+    "base": "bread and butter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bread and butter",
+    "n2": "bread and butters",
+    "n3": "the bread and butter",
+    "n4": "the bread and butters",
+    "n5": "bread and butter's",
+    "n6": "bread and butters'",
+    "n7": "a bread and butter",
+    "n8": "many bread and butters"
+}

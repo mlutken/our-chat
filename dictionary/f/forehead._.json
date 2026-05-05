@@ -1,0 +1,18 @@
+{
+    "base": "forehead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "forehead",
+    "n2": "foreheads",
+    "n3": "the forehead",
+    "n4": "the foreheads",
+    "n5": "forehead's",
+    "n6": "foreheads'",
+    "n7": "a forehead",
+    "n8": "many foreheads"
+}

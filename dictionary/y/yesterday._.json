@@ -1,8 +1,21 @@
 {
     "base": "yesterday",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "yesterday",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "yesterday",
+    "n2": "yesterdays",
+    "n3": "the yesterday",
+    "n4": "the yesterdays",
+    "n5": "yesterday's",
+    "n6": "yesterdays'",
+    "n7": "a yesterday",
+    "n8": "many yesterdays"
 }

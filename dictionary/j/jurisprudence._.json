@@ -1,0 +1,18 @@
+{
+    "base": "jurisprudence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jurisprudence",
+    "n2": "jurisprudences",
+    "n3": "the jurisprudence",
+    "n4": "the jurisprudences",
+    "n5": "jurisprudence's",
+    "n6": "jurisprudences'",
+    "n7": "a jurisprudence",
+    "n8": "many jurisprudences"
+}

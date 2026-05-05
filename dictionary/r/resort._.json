@@ -1,0 +1,18 @@
+{
+    "base": "resort",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "resort",
+    "n2": "resorts",
+    "n3": "the resort",
+    "n4": "the resorts",
+    "n5": "resort's",
+    "n6": "resorts'",
+    "n7": "a resort",
+    "n8": "many resorts"
+}

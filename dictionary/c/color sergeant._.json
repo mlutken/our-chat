@@ -1,0 +1,18 @@
+{
+    "base": "color sergeant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "color sergeant",
+    "n2": "color sergeants",
+    "n3": "the color sergeant",
+    "n4": "the color sergeants",
+    "n5": "color sergeant's",
+    "n6": "color sergeants'",
+    "n7": "a color sergeant",
+    "n8": "many color sergeants"
+}

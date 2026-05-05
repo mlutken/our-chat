@@ -1,0 +1,18 @@
+{
+    "base": "hitler",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hitler",
+    "n2": "hitlers",
+    "n3": "the hitler",
+    "n4": "the hitlers",
+    "n5": "hitler's",
+    "n6": "hitlers'",
+    "n7": "a hitler",
+    "n8": "many hitlers"
+}

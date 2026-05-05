@@ -1,0 +1,18 @@
+{
+    "base": "disciple",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disciple",
+    "n2": "disciples",
+    "n3": "the disciple",
+    "n4": "the disciples",
+    "n5": "disciple's",
+    "n6": "disciples'",
+    "n7": "a disciple",
+    "n8": "many disciples"
+}

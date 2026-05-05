@@ -1,0 +1,18 @@
+{
+    "base": "germ",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "germ",
+    "n2": "germs",
+    "n3": "the germ",
+    "n4": "the germs",
+    "n5": "germ's",
+    "n6": "germs'",
+    "n7": "a germ",
+    "n8": "many germs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "herman melville",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "herman melville",
+    "n2": "herman melvilles",
+    "n3": "the herman melville",
+    "n4": "the herman melvilles",
+    "n5": "herman melville's",
+    "n6": "herman melvilles'",
+    "n7": "a herman melville",
+    "n8": "many herman melvilles"
+}

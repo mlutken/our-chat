@@ -1,0 +1,18 @@
+{
+    "base": "ringing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ringing",
+    "n2": "ringings",
+    "n3": "the ringing",
+    "n4": "the ringings",
+    "n5": "ringing's",
+    "n6": "ringings'",
+    "n7": "a ringing",
+    "n8": "many ringings"
+}

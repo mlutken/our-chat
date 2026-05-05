@@ -1,0 +1,18 @@
+{
+    "base": "linguistic unit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "linguistic unit",
+    "n2": "linguistic units",
+    "n3": "the linguistic unit",
+    "n4": "the linguistic units",
+    "n5": "linguistic unit's",
+    "n6": "linguistic units'",
+    "n7": "a linguistic unit",
+    "n8": "many linguistic units"
+}

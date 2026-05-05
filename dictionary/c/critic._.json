@@ -1,0 +1,18 @@
+{
+    "base": "critic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "critic",
+    "n2": "critics",
+    "n3": "the critic",
+    "n4": "the critics",
+    "n5": "critic's",
+    "n6": "critics'",
+    "n7": "a critic",
+    "n8": "many critics"
+}

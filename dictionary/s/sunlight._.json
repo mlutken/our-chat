@@ -1,0 +1,18 @@
+{
+    "base": "sunlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "sunlight",
+    "n2": "sunlights",
+    "n3": "the sunlight",
+    "n4": "the sunlights",
+    "n5": "sunlight's",
+    "n6": "sunlights'",
+    "n7": "a sunlight",
+    "n8": "many sunlights"
+}

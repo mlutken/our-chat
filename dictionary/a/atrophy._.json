@@ -1,0 +1,18 @@
+{
+    "base": "atrophy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "atrophy",
+    "n2": "atrophies",
+    "n3": "the atrophy",
+    "n4": "the atrophies",
+    "n5": "atrophy's",
+    "n6": "atrophies'",
+    "n7": "an atrophy",
+    "n8": "many atrophies"
+}

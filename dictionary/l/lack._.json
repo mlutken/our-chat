@@ -1,0 +1,18 @@
+{
+    "base": "lack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n1": "lack",
+    "n2": "lacks",
+    "n3": "the lack",
+    "n4": "the lacks",
+    "n5": "lack's",
+    "n6": "lacks'",
+    "n7": "a lack",
+    "n8": "many lacks"
+}

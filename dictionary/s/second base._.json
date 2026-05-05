@@ -1,0 +1,18 @@
+{
+    "base": "second base",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "second base",
+    "n2": "second bases",
+    "n3": "the second base",
+    "n4": "the second bases",
+    "n5": "second base's",
+    "n6": "second bases'",
+    "n7": "a second base",
+    "n8": "many second bases"
+}

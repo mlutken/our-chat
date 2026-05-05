@@ -13,5 +13,12 @@
     "v2": "booked",
     "v3": "booked",
     "v4": "booking",
-    "v5": "books"
+    "v5": "books",
+    "proper": false,
+    "commonness": 59,
+    "max_commonness": 6834,
+    "commonness_ge_count": 262,
+    "n6": "books'",
+    "n7": "a book",
+    "n8": "many books"
 }

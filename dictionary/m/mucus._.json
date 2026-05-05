@@ -1,0 +1,18 @@
+{
+    "base": "mucus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mucus",
+    "n2": "mucuses",
+    "n3": "the mucus",
+    "n4": "the mucuses",
+    "n5": "mucus'",
+    "n6": "mucuses'",
+    "n7": "a mucus",
+    "n8": "many mucuses"
+}

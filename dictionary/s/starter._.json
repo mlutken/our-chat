@@ -1,0 +1,18 @@
+{
+    "base": "starter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "starter",
+    "n2": "starters",
+    "n3": "the starter",
+    "n4": "the starters",
+    "n5": "starter's",
+    "n6": "starters'",
+    "n7": "a starter",
+    "n8": "many starters"
+}

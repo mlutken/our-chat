@@ -1,0 +1,18 @@
+{
+    "base": "testicle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "testicle",
+    "n2": "testicles",
+    "n3": "the testicle",
+    "n4": "the testicles",
+    "n5": "testicle's",
+    "n6": "testicles'",
+    "n7": "a testicle",
+    "n8": "many testicles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "barbarian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barbarian",
+    "n2": "barbarians",
+    "n3": "the barbarian",
+    "n4": "the barbarians",
+    "n5": "barbarian's",
+    "n6": "barbarians'",
+    "n7": "a barbarian",
+    "n8": "many barbarians"
+}

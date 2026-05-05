@@ -1,0 +1,18 @@
+{
+    "base": "private detective",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "private detective",
+    "n2": "private detectives",
+    "n3": "the private detective",
+    "n4": "the private detectives",
+    "n5": "private detective's",
+    "n6": "private detectives'",
+    "n7": "a private detective",
+    "n8": "many private detectives"
+}

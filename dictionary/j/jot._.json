@@ -1,0 +1,18 @@
+{
+    "base": "jot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jot",
+    "n2": "jots",
+    "n3": "the jot",
+    "n4": "the jots",
+    "n5": "jot's",
+    "n6": "jots'",
+    "n7": "a jot",
+    "n8": "many jots"
+}

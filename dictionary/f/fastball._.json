@@ -1,0 +1,18 @@
+{
+    "base": "fastball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fastball",
+    "n2": "fastballs",
+    "n3": "the fastball",
+    "n4": "the fastballs",
+    "n5": "fastball's",
+    "n6": "fastballs'",
+    "n7": "a fastball",
+    "n8": "many fastballs"
+}

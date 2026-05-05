@@ -1,0 +1,18 @@
+{
+    "base": "rosary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rosary",
+    "n2": "rosaries",
+    "n3": "the rosary",
+    "n4": "the rosaries",
+    "n5": "rosary's",
+    "n6": "rosaries'",
+    "n7": "a rosary",
+    "n8": "many rosaries"
+}

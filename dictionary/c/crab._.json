@@ -1,0 +1,18 @@
+{
+    "base": "crab",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crab",
+    "n2": "crabs",
+    "n3": "the crab",
+    "n4": "the crabs",
+    "n5": "crab's",
+    "n6": "crabs'",
+    "n7": "a crab",
+    "n8": "many crabs"
+}

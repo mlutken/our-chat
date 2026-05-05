@@ -7,5 +7,12 @@
     "n2": "cookies",
     "n3": "the cookie",
     "n4": "the cookies",
-    "n5": "cookie's"
+    "n5": "cookie's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "cookies'",
+    "n7": "a cookie",
+    "n8": "many cookies"
 }

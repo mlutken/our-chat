@@ -1,0 +1,18 @@
+{
+    "base": "status quo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "status quo",
+    "n2": "status quos",
+    "n3": "the status quo",
+    "n4": "the status quos",
+    "n5": "status quo's",
+    "n6": "status quos'",
+    "n7": "a status quo",
+    "n8": "many status quos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "growth rate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "growth rate",
+    "n2": "growth rates",
+    "n3": "the growth rate",
+    "n4": "the growth rates",
+    "n5": "growth rate's",
+    "n6": "growth rates'",
+    "n7": "a growth rate",
+    "n8": "many growth rates"
+}

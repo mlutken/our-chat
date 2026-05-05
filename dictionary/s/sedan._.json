@@ -1,0 +1,18 @@
+{
+    "base": "sedan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sedan",
+    "n2": "sedans",
+    "n3": "the sedan",
+    "n4": "the sedans",
+    "n5": "sedan's",
+    "n6": "sedans'",
+    "n7": "a sedan",
+    "n8": "many sedans"
+}

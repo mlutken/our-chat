@@ -1,0 +1,18 @@
+{
+    "base": "glaucoma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glaucoma",
+    "n2": "glaucomas",
+    "n3": "the glaucoma",
+    "n4": "the glaucomas",
+    "n5": "glaucoma's",
+    "n6": "glaucomas'",
+    "n7": "a glaucoma",
+    "n8": "many glaucomas"
+}

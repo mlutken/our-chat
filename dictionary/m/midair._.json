@@ -1,0 +1,18 @@
+{
+    "base": "midair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "midair",
+    "n2": "midairs",
+    "n3": "the midair",
+    "n4": "the midairs",
+    "n5": "midair's",
+    "n6": "midairs'",
+    "n7": "a midair",
+    "n8": "many midairs"
+}

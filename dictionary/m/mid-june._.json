@@ -1,0 +1,18 @@
+{
+    "base": "mid-june",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mid-june",
+    "n2": "mid-junes",
+    "n3": "the mid-june",
+    "n4": "the mid-junes",
+    "n5": "mid-june's",
+    "n6": "mid-junes'",
+    "n7": "a mid-june",
+    "n8": "many mid-junes"
+}

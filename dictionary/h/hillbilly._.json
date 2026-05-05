@@ -1,0 +1,18 @@
+{
+    "base": "hillbilly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hillbilly",
+    "n2": "hillbillies",
+    "n3": "the hillbilly",
+    "n4": "the hillbillies",
+    "n5": "hillbilly's",
+    "n6": "hillbillies'",
+    "n7": "a hillbilly",
+    "n8": "many hillbillies"
+}

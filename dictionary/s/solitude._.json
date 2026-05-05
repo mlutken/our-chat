@@ -1,0 +1,18 @@
+{
+    "base": "solitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solitude",
+    "n2": "solitudes",
+    "n3": "the solitude",
+    "n4": "the solitudes",
+    "n5": "solitude's",
+    "n6": "solitudes'",
+    "n7": "a solitude",
+    "n8": "many solitudes"
+}

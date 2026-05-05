@@ -1,0 +1,18 @@
+{
+    "base": "nowhere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nowhere",
+    "n2": "nowheres",
+    "n3": "the nowhere",
+    "n4": "the nowheres",
+    "n5": "nowhere's",
+    "n6": "nowheres'",
+    "n7": "a nowhere",
+    "n8": "many nowheres"
+}

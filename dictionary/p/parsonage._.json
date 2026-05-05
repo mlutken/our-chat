@@ -1,0 +1,18 @@
+{
+    "base": "parsonage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parsonage",
+    "n2": "parsonages",
+    "n3": "the parsonage",
+    "n4": "the parsonages",
+    "n5": "parsonage's",
+    "n6": "parsonages'",
+    "n7": "a parsonage",
+    "n8": "many parsonages"
+}

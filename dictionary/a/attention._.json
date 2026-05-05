@@ -7,5 +7,12 @@
     "n2": "attentions",
     "n3": "the attention",
     "n4": "the attentions",
-    "n5": "attention's"
+    "n5": "attention's",
+    "proper": false,
+    "commonness": 77,
+    "max_commonness": 6834,
+    "commonness_ge_count": 176,
+    "n6": "attentions'",
+    "n7": "an attention",
+    "n8": "many attentions"
 }

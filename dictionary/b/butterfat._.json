@@ -1,0 +1,18 @@
+{
+    "base": "butterfat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "butterfat",
+    "n2": "butterfats",
+    "n3": "the butterfat",
+    "n4": "the butterfats",
+    "n5": "butterfat's",
+    "n6": "butterfats'",
+    "n7": "a butterfat",
+    "n8": "many butterfats"
+}

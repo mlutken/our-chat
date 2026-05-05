@@ -1,0 +1,18 @@
+{
+    "base": "vanishing point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vanishing point",
+    "n2": "vanishing points",
+    "n3": "the vanishing point",
+    "n4": "the vanishing points",
+    "n5": "vanishing point's",
+    "n6": "vanishing points'",
+    "n7": "a vanishing point",
+    "n8": "many vanishing points"
+}

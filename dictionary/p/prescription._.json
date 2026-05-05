@@ -1,0 +1,18 @@
+{
+    "base": "prescription",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "prescription",
+    "n2": "prescriptions",
+    "n3": "the prescription",
+    "n4": "the prescriptions",
+    "n5": "prescription's",
+    "n6": "prescriptions'",
+    "n7": "a prescription",
+    "n8": "many prescriptions"
+}

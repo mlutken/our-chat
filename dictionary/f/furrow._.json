@@ -1,0 +1,18 @@
+{
+    "base": "furrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "furrow",
+    "n2": "furrows",
+    "n3": "the furrow",
+    "n4": "the furrows",
+    "n5": "furrow's",
+    "n6": "furrows'",
+    "n7": "a furrow",
+    "n8": "many furrows"
+}

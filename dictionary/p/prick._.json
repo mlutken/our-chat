@@ -1,11 +1,24 @@
 {
     "base": "prick",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "prick",
     "v2": "pricked",
     "v3": "pricked",
     "v4": "pricking",
-    "v5": "pricks"
+    "v5": "pricks",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prick",
+    "n2": "pricks",
+    "n3": "the prick",
+    "n4": "the pricks",
+    "n5": "prick's",
+    "n6": "pricks'",
+    "n7": "a prick",
+    "n8": "many pricks"
 }

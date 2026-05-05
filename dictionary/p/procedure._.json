@@ -7,5 +7,12 @@
     "n2": "procedures",
     "n3": "the procedure",
     "n4": "the procedures",
-    "n5": "procedure's"
+    "n5": "procedure's",
+    "proper": false,
+    "commonness": 56,
+    "max_commonness": 6834,
+    "commonness_ge_count": 277,
+    "n6": "procedures'",
+    "n7": "a procedure",
+    "n8": "many procedures"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "english professor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "english professor",
+    "n2": "english professors",
+    "n3": "the english professor",
+    "n4": "the english professors",
+    "n5": "english professor's",
+    "n6": "english professors'",
+    "n7": "an english professor",
+    "n8": "many english professors"
+}

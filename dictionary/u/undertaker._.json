@@ -1,0 +1,18 @@
+{
+    "base": "undertaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "undertaker",
+    "n2": "undertakers",
+    "n3": "the undertaker",
+    "n4": "the undertakers",
+    "n5": "undertaker's",
+    "n6": "undertakers'",
+    "n7": "an undertaker",
+    "n8": "many undertakers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "illustration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "illustration",
+    "n2": "illustrations",
+    "n3": "the illustration",
+    "n4": "the illustrations",
+    "n5": "illustration's",
+    "n6": "illustrations'",
+    "n7": "an illustration",
+    "n8": "many illustrations"
+}

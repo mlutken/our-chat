@@ -1,0 +1,18 @@
+{
+    "base": "sodium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sodium",
+    "n2": "sodiums",
+    "n3": "the sodium",
+    "n4": "the sodiums",
+    "n5": "sodium's",
+    "n6": "sodiums'",
+    "n7": "a sodium",
+    "n8": "many sodiums"
+}

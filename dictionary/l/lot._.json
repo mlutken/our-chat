@@ -1,0 +1,18 @@
+{
+    "base": "lot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "lot",
+    "n2": "lots",
+    "n3": "the lot",
+    "n4": "the lots",
+    "n5": "lot's",
+    "n6": "lots'",
+    "n7": "a lot",
+    "n8": "many lots"
+}

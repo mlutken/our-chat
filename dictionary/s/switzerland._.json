@@ -1,0 +1,18 @@
+{
+    "base": "switzerland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "switzerland",
+    "n2": "switzerlands",
+    "n3": "the switzerland",
+    "n4": "the switzerlands",
+    "n5": "switzerland's",
+    "n6": "switzerlands'",
+    "n7": "a switzerland",
+    "n8": "many switzerlands"
+}

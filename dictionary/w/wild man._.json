@@ -1,0 +1,18 @@
+{
+    "base": "wild man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wild man",
+    "n2": "wild mans",
+    "n3": "the wild man",
+    "n4": "the wild mans",
+    "n5": "wild man's",
+    "n6": "wild mans'",
+    "n7": "a wild man",
+    "n8": "many wild mans"
+}

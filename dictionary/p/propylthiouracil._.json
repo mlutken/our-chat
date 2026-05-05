@@ -1,0 +1,18 @@
+{
+    "base": "propylthiouracil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "propylthiouracil",
+    "n2": "propylthiouracils",
+    "n3": "the propylthiouracil",
+    "n4": "the propylthiouracils",
+    "n5": "propylthiouracil's",
+    "n6": "propylthiouracils'",
+    "n7": "a propylthiouracil",
+    "n8": "many propylthiouracils"
+}

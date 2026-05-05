@@ -1,0 +1,18 @@
+{
+    "base": "hydrogen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "hydrogen",
+    "n2": "hydrogens",
+    "n3": "the hydrogen",
+    "n4": "the hydrogens",
+    "n5": "hydrogen's",
+    "n6": "hydrogens'",
+    "n7": "a hydrogen",
+    "n8": "many hydrogens"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "laundry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laundry",
+    "n2": "laundries",
+    "n3": "the laundry",
+    "n4": "the laundries",
+    "n5": "laundry's",
+    "n6": "laundries'",
+    "n7": "a laundry",
+    "n8": "many laundries"
+}

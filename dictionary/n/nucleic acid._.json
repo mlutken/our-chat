@@ -1,0 +1,18 @@
+{
+    "base": "nucleic acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nucleic acid",
+    "n2": "nucleic acids",
+    "n3": "the nucleic acid",
+    "n4": "the nucleic acids",
+    "n5": "nucleic acid's",
+    "n6": "nucleic acids'",
+    "n7": "a nucleic acid",
+    "n8": "many nucleic acids"
+}

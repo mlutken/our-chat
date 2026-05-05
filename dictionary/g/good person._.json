@@ -1,0 +1,18 @@
+{
+    "base": "good person",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "good person",
+    "n2": "good persons",
+    "n3": "the good person",
+    "n4": "the good persons",
+    "n5": "good person's",
+    "n6": "good persons'",
+    "n7": "a good person",
+    "n8": "many good persons"
+}

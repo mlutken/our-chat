@@ -1,0 +1,18 @@
+{
+    "base": "drunkenness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drunkenness",
+    "n2": "drunkennesses",
+    "n3": "the drunkenness",
+    "n4": "the drunkennesses",
+    "n5": "drunkenness'",
+    "n6": "drunkennesses'",
+    "n7": "a drunkenness",
+    "n8": "many drunkennesses"
+}

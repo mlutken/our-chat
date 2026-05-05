@@ -13,5 +13,12 @@
     "v2": "painted",
     "v3": "painted",
     "v4": "painting",
-    "v5": "paints"
+    "v5": "paints",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "paints'",
+    "n7": "a paint",
+    "n8": "many paints"
 }

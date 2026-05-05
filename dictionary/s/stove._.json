@@ -1,0 +1,18 @@
+{
+    "base": "stove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "stove",
+    "n2": "stoves",
+    "n3": "the stove",
+    "n4": "the stoves",
+    "n5": "stove's",
+    "n6": "stoves'",
+    "n7": "a stove",
+    "n8": "many stoves"
+}

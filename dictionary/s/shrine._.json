@@ -1,0 +1,18 @@
+{
+    "base": "shrine",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shrine",
+    "n2": "shrines",
+    "n3": "the shrine",
+    "n4": "the shrines",
+    "n5": "shrine's",
+    "n6": "shrines'",
+    "n7": "a shrine",
+    "n8": "many shrines"
+}

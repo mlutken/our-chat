@@ -1,0 +1,18 @@
+{
+    "base": "imposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "imposition",
+    "n2": "impositions",
+    "n3": "the imposition",
+    "n4": "the impositions",
+    "n5": "imposition's",
+    "n6": "impositions'",
+    "n7": "an imposition",
+    "n8": "many impositions"
+}

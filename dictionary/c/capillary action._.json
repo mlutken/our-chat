@@ -1,0 +1,18 @@
+{
+    "base": "capillary action",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capillary action",
+    "n2": "capillary actions",
+    "n3": "the capillary action",
+    "n4": "the capillary actions",
+    "n5": "capillary action's",
+    "n6": "capillary actions'",
+    "n7": "a capillary action",
+    "n8": "many capillary actions"
+}

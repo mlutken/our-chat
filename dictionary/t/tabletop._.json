@@ -1,0 +1,18 @@
+{
+    "base": "tabletop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tabletop",
+    "n2": "tabletops",
+    "n3": "the tabletop",
+    "n4": "the tabletops",
+    "n5": "tabletop's",
+    "n6": "tabletops'",
+    "n7": "a tabletop",
+    "n8": "many tabletops"
+}

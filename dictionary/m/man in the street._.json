@@ -1,0 +1,18 @@
+{
+    "base": "man in the street",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "man in the street",
+    "n2": "man in the streets",
+    "n3": "the man in the street",
+    "n4": "the man in the streets",
+    "n5": "man in the street's",
+    "n6": "man in the streets'",
+    "n7": "a man in the street",
+    "n8": "many man in the streets"
+}

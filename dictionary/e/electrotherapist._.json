@@ -1,0 +1,18 @@
+{
+    "base": "electrotherapist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrotherapist",
+    "n2": "electrotherapists",
+    "n3": "the electrotherapist",
+    "n4": "the electrotherapists",
+    "n5": "electrotherapist's",
+    "n6": "electrotherapists'",
+    "n7": "an electrotherapist",
+    "n8": "many electrotherapists"
+}

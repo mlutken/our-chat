@@ -1,0 +1,18 @@
+{
+    "base": "earnestness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "earnestness",
+    "n2": "earnestnesses",
+    "n3": "the earnestness",
+    "n4": "the earnestnesses",
+    "n5": "earnestness'",
+    "n6": "earnestnesses'",
+    "n7": "an earnestness",
+    "n8": "many earnestnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "oxen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "oxen",
+    "n2": "oxens",
+    "n3": "the oxen",
+    "n4": "the oxens",
+    "n5": "oxen's",
+    "n6": "oxens'",
+    "n7": "an oxen",
+    "n8": "many oxens"
+}

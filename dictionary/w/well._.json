@@ -1,9 +1,22 @@
 {
     "base": "well",
     "classes": [
+        "n",
         "intj",
         "adv"
     ],
     "f0": "well",
-    "adv_subtype": "manner"
+    "adv_subtype": "manner",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "well",
+    "n2": "wells",
+    "n3": "the well",
+    "n4": "the wells",
+    "n5": "well's",
+    "n6": "wells'",
+    "n7": "a well",
+    "n8": "many wells"
 }

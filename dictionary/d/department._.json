@@ -7,5 +7,12 @@
     "n2": "departments",
     "n3": "the department",
     "n4": "the departments",
-    "n5": "department's"
+    "n5": "department's",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n6": "departments'",
+    "n7": "a department",
+    "n8": "many departments"
 }

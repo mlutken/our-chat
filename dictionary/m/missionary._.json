@@ -1,0 +1,18 @@
+{
+    "base": "missionary",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "missionary",
+    "n2": "missionaries",
+    "n3": "the missionary",
+    "n4": "the missionaries",
+    "n5": "missionary's",
+    "n6": "missionaries'",
+    "n7": "a missionary",
+    "n8": "many missionaries"
+}

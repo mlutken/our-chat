@@ -1,0 +1,18 @@
+{
+    "base": "cracking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cracking",
+    "n2": "crackings",
+    "n3": "the cracking",
+    "n4": "the crackings",
+    "n5": "cracking's",
+    "n6": "crackings'",
+    "n7": "a cracking",
+    "n8": "many crackings"
+}

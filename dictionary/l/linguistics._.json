@@ -1,0 +1,18 @@
+{
+    "base": "linguistics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "linguistics",
+    "n2": "linguisticses",
+    "n3": "the linguistics",
+    "n4": "the linguisticses",
+    "n5": "linguistics'",
+    "n6": "linguisticses'",
+    "n7": "a linguistics",
+    "n8": "many linguisticses"
+}

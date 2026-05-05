@@ -1,0 +1,18 @@
+{
+    "base": "boredom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "boredom",
+    "n2": "boredoms",
+    "n3": "the boredom",
+    "n4": "the boredoms",
+    "n5": "boredom's",
+    "n6": "boredoms'",
+    "n7": "a boredom",
+    "n8": "many boredoms"
+}

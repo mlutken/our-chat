@@ -1,0 +1,18 @@
+{
+    "base": "encumbrance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "encumbrance",
+    "n2": "encumbrances",
+    "n3": "the encumbrance",
+    "n4": "the encumbrances",
+    "n5": "encumbrance's",
+    "n6": "encumbrances'",
+    "n7": "an encumbrance",
+    "n8": "many encumbrances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "income tax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "income tax",
+    "n2": "income taxes",
+    "n3": "the income tax",
+    "n4": "the income taxes",
+    "n5": "income tax's",
+    "n6": "income taxes'",
+    "n7": "an income tax",
+    "n8": "many income taxes"
+}

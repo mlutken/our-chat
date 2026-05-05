@@ -1,11 +1,24 @@
 {
     "base": "wonder",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wonder",
     "v2": "wondered",
     "v3": "wondered",
     "v4": "wondering",
-    "v5": "wonders"
+    "v5": "wonders",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "wonder",
+    "n2": "wonders",
+    "n3": "the wonder",
+    "n4": "the wonders",
+    "n5": "wonder's",
+    "n6": "wonders'",
+    "n7": "a wonder",
+    "n8": "many wonders"
 }

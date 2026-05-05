@@ -1,0 +1,18 @@
+{
+    "base": "hp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hp",
+    "n2": "hps",
+    "n3": "the hp",
+    "n4": "the hps",
+    "n5": "hp's",
+    "n6": "hps'",
+    "n7": "a hp",
+    "n8": "many hps"
+}

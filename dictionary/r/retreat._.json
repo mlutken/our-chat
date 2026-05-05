@@ -1,0 +1,18 @@
+{
+    "base": "retreat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "retreat",
+    "n2": "retreats",
+    "n3": "the retreat",
+    "n4": "the retreats",
+    "n5": "retreat's",
+    "n6": "retreats'",
+    "n7": "a retreat",
+    "n8": "many retreats"
+}

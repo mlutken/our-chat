@@ -1,0 +1,18 @@
+{
+    "base": "brush cut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brush cut",
+    "n2": "brush cuts",
+    "n3": "the brush cut",
+    "n4": "the brush cuts",
+    "n5": "brush cut's",
+    "n6": "brush cuts'",
+    "n7": "a brush cut",
+    "n8": "many brush cuts"
+}

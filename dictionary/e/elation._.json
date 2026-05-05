@@ -1,0 +1,18 @@
+{
+    "base": "elation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "elation",
+    "n2": "elations",
+    "n3": "the elation",
+    "n4": "the elations",
+    "n5": "elation's",
+    "n6": "elations'",
+    "n7": "an elation",
+    "n8": "many elations"
+}

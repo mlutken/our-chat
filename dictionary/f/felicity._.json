@@ -1,0 +1,18 @@
+{
+    "base": "felicity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "felicity",
+    "n2": "felicities",
+    "n3": "the felicity",
+    "n4": "the felicities",
+    "n5": "felicity's",
+    "n6": "felicities'",
+    "n7": "a felicity",
+    "n8": "many felicities"
+}

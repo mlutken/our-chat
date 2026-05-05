@@ -1,0 +1,18 @@
+{
+    "base": "pompousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pompousness",
+    "n2": "pompousnesses",
+    "n3": "the pompousness",
+    "n4": "the pompousnesses",
+    "n5": "pompousness'",
+    "n6": "pompousnesses'",
+    "n7": "a pompousness",
+    "n8": "many pompousnesses"
+}

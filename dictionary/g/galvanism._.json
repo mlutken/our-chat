@@ -1,0 +1,18 @@
+{
+    "base": "galvanism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "galvanism",
+    "n2": "galvanisms",
+    "n3": "the galvanism",
+    "n4": "the galvanisms",
+    "n5": "galvanism's",
+    "n6": "galvanisms'",
+    "n7": "a galvanism",
+    "n8": "many galvanisms"
+}

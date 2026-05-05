@@ -1,0 +1,18 @@
+{
+    "base": "ill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ill",
+    "n2": "ills",
+    "n3": "the ill",
+    "n4": "the ills",
+    "n5": "ill's",
+    "n6": "ills'",
+    "n7": "an ill",
+    "n8": "many ills"
+}

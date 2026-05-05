@@ -1,0 +1,18 @@
+{
+    "base": "demonstration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "demonstration",
+    "n2": "demonstrations",
+    "n3": "the demonstration",
+    "n4": "the demonstrations",
+    "n5": "demonstration's",
+    "n6": "demonstrations'",
+    "n7": "a demonstration",
+    "n8": "many demonstrations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bridged-t",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bridged-t",
+    "n2": "bridged-ts",
+    "n3": "the bridged-t",
+    "n4": "the bridged-ts",
+    "n5": "bridged-t's",
+    "n6": "bridged-ts'",
+    "n7": "a bridged-t",
+    "n8": "many bridged-ts"
+}

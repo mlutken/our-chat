@@ -1,0 +1,18 @@
+{
+    "base": "ornament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ornament",
+    "n2": "ornaments",
+    "n3": "the ornament",
+    "n4": "the ornaments",
+    "n5": "ornament's",
+    "n6": "ornaments'",
+    "n7": "an ornament",
+    "n8": "many ornaments"
+}

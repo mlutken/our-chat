@@ -1,0 +1,18 @@
+{
+    "base": "orator",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orator",
+    "n2": "orators",
+    "n3": "the orator",
+    "n4": "the orators",
+    "n5": "orator's",
+    "n6": "orators'",
+    "n7": "an orator",
+    "n8": "many orators"
+}

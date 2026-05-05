@@ -1,0 +1,18 @@
+{
+    "base": "amphibology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amphibology",
+    "n2": "amphibologies",
+    "n3": "the amphibology",
+    "n4": "the amphibologies",
+    "n5": "amphibology's",
+    "n6": "amphibologies'",
+    "n7": "an amphibology",
+    "n8": "many amphibologies"
+}

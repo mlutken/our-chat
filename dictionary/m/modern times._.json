@@ -1,0 +1,18 @@
+{
+    "base": "modern times",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "modern times",
+    "n2": "modern timeses",
+    "n3": "the modern times",
+    "n4": "the modern timeses",
+    "n5": "modern times'",
+    "n6": "modern timeses'",
+    "n7": "a modern times",
+    "n8": "many modern timeses"
+}

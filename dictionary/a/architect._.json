@@ -1,0 +1,18 @@
+{
+    "base": "architect",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "architect",
+    "n2": "architects",
+    "n3": "the architect",
+    "n4": "the architects",
+    "n5": "architect's",
+    "n6": "architects'",
+    "n7": "an architect",
+    "n8": "many architects"
+}

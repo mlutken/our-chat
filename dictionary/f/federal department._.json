@@ -1,0 +1,18 @@
+{
+    "base": "federal department",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "federal department",
+    "n2": "federal departments",
+    "n3": "the federal department",
+    "n4": "the federal departments",
+    "n5": "federal department's",
+    "n6": "federal departments'",
+    "n7": "a federal department",
+    "n8": "many federal departments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "irony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "irony",
+    "n2": "ironies",
+    "n3": "the irony",
+    "n4": "the ironies",
+    "n5": "irony's",
+    "n6": "ironies'",
+    "n7": "an irony",
+    "n8": "many ironies"
+}

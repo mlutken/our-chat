@@ -1,0 +1,18 @@
+{
+    "base": "faker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "faker",
+    "n2": "fakers",
+    "n3": "the faker",
+    "n4": "the fakers",
+    "n5": "faker's",
+    "n6": "fakers'",
+    "n7": "a faker",
+    "n8": "many fakers"
+}

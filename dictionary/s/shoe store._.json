@@ -1,0 +1,18 @@
+{
+    "base": "shoe store",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoe store",
+    "n2": "shoe stores",
+    "n3": "the shoe store",
+    "n4": "the shoe stores",
+    "n5": "shoe store's",
+    "n6": "shoe stores'",
+    "n7": "a shoe store",
+    "n8": "many shoe stores"
+}

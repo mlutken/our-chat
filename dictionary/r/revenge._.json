@@ -1,0 +1,18 @@
+{
+    "base": "revenge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "revenge",
+    "n2": "revenges",
+    "n3": "the revenge",
+    "n4": "the revenges",
+    "n5": "revenge's",
+    "n6": "revenges'",
+    "n7": "a revenge",
+    "n8": "many revenges"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shooting preserve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "shooting preserve",
+    "n2": "shooting preserves",
+    "n3": "the shooting preserve",
+    "n4": "the shooting preserves",
+    "n5": "shooting preserve's",
+    "n6": "shooting preserves'",
+    "n7": "a shooting preserve",
+    "n8": "many shooting preserves"
+}

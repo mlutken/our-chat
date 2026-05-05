@@ -1,0 +1,18 @@
+{
+    "base": "conditioning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conditioning",
+    "n2": "conditionings",
+    "n3": "the conditioning",
+    "n4": "the conditionings",
+    "n5": "conditioning's",
+    "n6": "conditionings'",
+    "n7": "a conditioning",
+    "n8": "many conditionings"
+}

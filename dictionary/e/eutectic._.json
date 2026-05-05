@@ -1,0 +1,18 @@
+{
+    "base": "eutectic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eutectic",
+    "n2": "eutectics",
+    "n3": "the eutectic",
+    "n4": "the eutectics",
+    "n5": "eutectic's",
+    "n6": "eutectics'",
+    "n7": "an eutectic",
+    "n8": "many eutectics"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "verandah",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "verandah",
+    "n2": "verandahs",
+    "n3": "the verandah",
+    "n4": "the verandahs",
+    "n5": "verandah's",
+    "n6": "verandahs'",
+    "n7": "a verandah",
+    "n8": "many verandahs"
+}

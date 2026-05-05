@@ -1,0 +1,18 @@
+{
+    "base": "underachievement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "underachievement",
+    "n2": "underachievements",
+    "n3": "the underachievement",
+    "n4": "the underachievements",
+    "n5": "underachievement's",
+    "n6": "underachievements'",
+    "n7": "an underachievement",
+    "n8": "many underachievements"
+}

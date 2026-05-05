@@ -1,0 +1,18 @@
+{
+    "base": "uplifting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "uplifting",
+    "n2": "upliftings",
+    "n3": "the uplifting",
+    "n4": "the upliftings",
+    "n5": "uplifting's",
+    "n6": "upliftings'",
+    "n7": "an uplifting",
+    "n8": "many upliftings"
+}

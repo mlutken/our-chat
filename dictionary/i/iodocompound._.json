@@ -1,0 +1,18 @@
+{
+    "base": "iodocompound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "iodocompound",
+    "n2": "iodocompounds",
+    "n3": "the iodocompound",
+    "n4": "the iodocompounds",
+    "n5": "iodocompound's",
+    "n6": "iodocompounds'",
+    "n7": "an iodocompound",
+    "n8": "many iodocompounds"
+}

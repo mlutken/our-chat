@@ -1,0 +1,18 @@
+{
+    "base": "battle line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "battle line",
+    "n2": "battle lines",
+    "n3": "the battle line",
+    "n4": "the battle lines",
+    "n5": "battle line's",
+    "n6": "battle lines'",
+    "n7": "a battle line",
+    "n8": "many battle lines"
+}

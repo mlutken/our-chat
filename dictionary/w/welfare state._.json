@@ -1,0 +1,18 @@
+{
+    "base": "welfare state",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "welfare state",
+    "n2": "welfare states",
+    "n3": "the welfare state",
+    "n4": "the welfare states",
+    "n5": "welfare state's",
+    "n6": "welfare states'",
+    "n7": "a welfare state",
+    "n8": "many welfare states"
+}

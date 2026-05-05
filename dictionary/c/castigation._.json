@@ -1,0 +1,18 @@
+{
+    "base": "castigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "castigation",
+    "n2": "castigations",
+    "n3": "the castigation",
+    "n4": "the castigations",
+    "n5": "castigation's",
+    "n6": "castigations'",
+    "n7": "a castigation",
+    "n8": "many castigations"
+}

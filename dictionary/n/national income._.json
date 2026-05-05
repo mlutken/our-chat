@@ -1,0 +1,18 @@
+{
+    "base": "national income",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "national income",
+    "n2": "national incomes",
+    "n3": "the national income",
+    "n4": "the national incomes",
+    "n5": "national income's",
+    "n6": "national incomes'",
+    "n7": "a national income",
+    "n8": "many national incomes"
+}

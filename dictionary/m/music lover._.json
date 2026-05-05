@@ -1,0 +1,18 @@
+{
+    "base": "music lover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "music lover",
+    "n2": "music lovers",
+    "n3": "the music lover",
+    "n4": "the music lovers",
+    "n5": "music lover's",
+    "n6": "music lovers'",
+    "n7": "a music lover",
+    "n8": "many music lovers"
+}

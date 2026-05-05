@@ -1,0 +1,18 @@
+{
+    "base": "scoundrel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scoundrel",
+    "n2": "scoundrels",
+    "n3": "the scoundrel",
+    "n4": "the scoundrels",
+    "n5": "scoundrel's",
+    "n6": "scoundrels'",
+    "n7": "a scoundrel",
+    "n8": "many scoundrels"
+}

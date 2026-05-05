@@ -1,11 +1,24 @@
 {
     "base": "mention",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "mention",
     "v2": "mentioned",
     "v3": "mentioned",
     "v4": "mentioning",
-    "v5": "mentions"
+    "v5": "mentions",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "mention",
+    "n2": "mentions",
+    "n3": "the mention",
+    "n4": "the mentions",
+    "n5": "mention's",
+    "n6": "mentions'",
+    "n7": "a mention",
+    "n8": "many mentions"
 }

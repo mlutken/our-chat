@@ -1,0 +1,18 @@
+{
+    "base": "grab sample",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grab sample",
+    "n2": "grab samples",
+    "n3": "the grab sample",
+    "n4": "the grab samples",
+    "n5": "grab sample's",
+    "n6": "grab samples'",
+    "n7": "a grab sample",
+    "n8": "many grab samples"
+}

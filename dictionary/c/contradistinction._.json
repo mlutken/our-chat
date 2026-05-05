@@ -1,0 +1,18 @@
+{
+    "base": "contradistinction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contradistinction",
+    "n2": "contradistinctions",
+    "n3": "the contradistinction",
+    "n4": "the contradistinctions",
+    "n5": "contradistinction's",
+    "n6": "contradistinctions'",
+    "n7": "a contradistinction",
+    "n8": "many contradistinctions"
+}

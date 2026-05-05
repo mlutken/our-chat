@@ -1,0 +1,18 @@
+{
+    "base": "shaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shaking",
+    "n2": "shakings",
+    "n3": "the shaking",
+    "n4": "the shakings",
+    "n5": "shaking's",
+    "n6": "shakings'",
+    "n7": "a shaking",
+    "n8": "many shakings"
+}

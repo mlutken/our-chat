@@ -1,0 +1,18 @@
+{
+    "base": "warhorse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "warhorse",
+    "n2": "warhorses",
+    "n3": "the warhorse",
+    "n4": "the warhorses",
+    "n5": "warhorse's",
+    "n6": "warhorses'",
+    "n7": "a warhorse",
+    "n8": "many warhorses"
+}

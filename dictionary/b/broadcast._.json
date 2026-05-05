@@ -1,0 +1,18 @@
+{
+    "base": "broadcast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "broadcast",
+    "n2": "broadcasts",
+    "n3": "the broadcast",
+    "n4": "the broadcasts",
+    "n5": "broadcast's",
+    "n6": "broadcasts'",
+    "n7": "a broadcast",
+    "n8": "many broadcasts"
+}

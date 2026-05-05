@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "priority",
-    "n2": "prioritys",
+    "n2": "priorities",
     "n3": "the priority",
-    "n4": "the prioritys",
-    "n5": "priority's"
+    "n4": "the priorities",
+    "n5": "priority's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "priorities'",
+    "n7": "a priority",
+    "n8": "many priorities"
 }

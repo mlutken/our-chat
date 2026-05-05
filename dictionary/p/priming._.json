@@ -1,0 +1,18 @@
+{
+    "base": "priming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "priming",
+    "n2": "primings",
+    "n3": "the priming",
+    "n4": "the primings",
+    "n5": "priming's",
+    "n6": "primings'",
+    "n7": "a priming",
+    "n8": "many primings"
+}

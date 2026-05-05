@@ -7,5 +7,12 @@
     "n2": "suns",
     "n3": "the sun",
     "n4": "the suns",
-    "n5": "sun's"
+    "n5": "sun's",
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n6": "suns'",
+    "n7": "a sun",
+    "n8": "many suns"
 }

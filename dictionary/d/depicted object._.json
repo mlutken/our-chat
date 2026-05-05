@@ -1,0 +1,18 @@
+{
+    "base": "depicted object",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "depicted object",
+    "n2": "depicted objects",
+    "n3": "the depicted object",
+    "n4": "the depicted objects",
+    "n5": "depicted object's",
+    "n6": "depicted objects'",
+    "n7": "a depicted object",
+    "n8": "many depicted objects"
+}

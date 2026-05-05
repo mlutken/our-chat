@@ -1,0 +1,18 @@
+{
+    "base": "goner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "goner",
+    "n2": "goners",
+    "n3": "the goner",
+    "n4": "the goners",
+    "n5": "goner's",
+    "n6": "goners'",
+    "n7": "a goner",
+    "n8": "many goners"
+}

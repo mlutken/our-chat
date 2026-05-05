@@ -1,0 +1,18 @@
+{
+    "base": "sports jacket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sports jacket",
+    "n2": "sports jackets",
+    "n3": "the sports jacket",
+    "n4": "the sports jackets",
+    "n5": "sports jacket's",
+    "n6": "sports jackets'",
+    "n7": "a sports jacket",
+    "n8": "many sports jackets"
+}

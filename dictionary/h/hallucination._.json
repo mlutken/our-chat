@@ -1,0 +1,18 @@
+{
+    "base": "hallucination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hallucination",
+    "n2": "hallucinations",
+    "n3": "the hallucination",
+    "n4": "the hallucinations",
+    "n5": "hallucination's",
+    "n6": "hallucinations'",
+    "n7": "a hallucination",
+    "n8": "many hallucinations"
+}

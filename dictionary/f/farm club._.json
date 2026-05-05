@@ -1,0 +1,18 @@
+{
+    "base": "farm club",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "farm club",
+    "n2": "farm clubs",
+    "n3": "the farm club",
+    "n4": "the farm clubs",
+    "n5": "farm club's",
+    "n6": "farm clubs'",
+    "n7": "a farm club",
+    "n8": "many farm clubs"
+}

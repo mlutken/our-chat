@@ -1,0 +1,18 @@
+{
+    "base": "letterhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "letterhead",
+    "n2": "letterheads",
+    "n3": "the letterhead",
+    "n4": "the letterheads",
+    "n5": "letterhead's",
+    "n6": "letterheads'",
+    "n7": "a letterhead",
+    "n8": "many letterheads"
+}

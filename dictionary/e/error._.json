@@ -7,5 +7,12 @@
     "n2": "errors",
     "n3": "the error",
     "n4": "the errors",
-    "n5": "error's"
+    "n5": "error's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "errors'",
+    "n7": "an error",
+    "n8": "many errors"
 }

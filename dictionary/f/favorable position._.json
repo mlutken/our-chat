@@ -1,0 +1,18 @@
+{
+    "base": "favorable position",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "favorable position",
+    "n2": "favorable positions",
+    "n3": "the favorable position",
+    "n4": "the favorable positions",
+    "n5": "favorable position's",
+    "n6": "favorable positions'",
+    "n7": "a favorable position",
+    "n8": "many favorable positions"
+}

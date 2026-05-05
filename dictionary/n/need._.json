@@ -1,11 +1,24 @@
 {
     "base": "need",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "need",
     "v2": "needed",
     "v3": "needed",
     "v4": "needing",
-    "v5": "needs"
+    "v5": "needs",
+    "proper": false,
+    "commonness": 98,
+    "max_commonness": 6834,
+    "commonness_ge_count": 123,
+    "n1": "need",
+    "n2": "needs",
+    "n3": "the need",
+    "n4": "the needs",
+    "n5": "need's",
+    "n6": "needs'",
+    "n7": "a need",
+    "n8": "many needs"
 }

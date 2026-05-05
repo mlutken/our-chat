@@ -1,0 +1,18 @@
+{
+    "base": "fighter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "fighter",
+    "n2": "fighters",
+    "n3": "the fighter",
+    "n4": "the fighters",
+    "n5": "fighter's",
+    "n6": "fighters'",
+    "n7": "a fighter",
+    "n8": "many fighters"
+}

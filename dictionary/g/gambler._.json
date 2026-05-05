@@ -1,0 +1,18 @@
+{
+    "base": "gambler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gambler",
+    "n2": "gamblers",
+    "n3": "the gambler",
+    "n4": "the gamblers",
+    "n5": "gambler's",
+    "n6": "gamblers'",
+    "n7": "a gambler",
+    "n8": "many gamblers"
+}

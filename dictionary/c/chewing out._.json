@@ -1,0 +1,18 @@
+{
+    "base": "chewing out",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chewing out",
+    "n2": "chewing outs",
+    "n3": "the chewing out",
+    "n4": "the chewing outs",
+    "n5": "chewing out's",
+    "n6": "chewing outs'",
+    "n7": "a chewing out",
+    "n8": "many chewing outs"
+}

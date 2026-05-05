@@ -1,0 +1,18 @@
+{
+    "base": "ethiopian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ethiopian",
+    "n2": "ethiopians",
+    "n3": "the ethiopian",
+    "n4": "the ethiopians",
+    "n5": "ethiopian's",
+    "n6": "ethiopians'",
+    "n7": "an ethiopian",
+    "n8": "many ethiopians"
+}

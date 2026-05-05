@@ -1,0 +1,18 @@
+{
+    "base": "killing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "killing",
+    "n2": "killings",
+    "n3": "the killing",
+    "n4": "the killings",
+    "n5": "killing's",
+    "n6": "killings'",
+    "n7": "a killing",
+    "n8": "many killings"
+}

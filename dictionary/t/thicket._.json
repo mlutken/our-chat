@@ -1,0 +1,18 @@
+{
+    "base": "thicket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "thicket",
+    "n2": "thickets",
+    "n3": "the thicket",
+    "n4": "the thickets",
+    "n5": "thicket's",
+    "n6": "thickets'",
+    "n7": "a thicket",
+    "n8": "many thickets"
+}

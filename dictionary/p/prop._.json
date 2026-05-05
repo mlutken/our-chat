@@ -1,0 +1,18 @@
+{
+    "base": "prop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prop",
+    "n2": "props",
+    "n3": "the prop",
+    "n4": "the props",
+    "n5": "prop's",
+    "n6": "props'",
+    "n7": "a prop",
+    "n8": "many props"
+}

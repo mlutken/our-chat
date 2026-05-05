@@ -1,0 +1,18 @@
+{
+    "base": "enjoyment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "enjoyment",
+    "n2": "enjoyments",
+    "n3": "the enjoyment",
+    "n4": "the enjoyments",
+    "n5": "enjoyment's",
+    "n6": "enjoyments'",
+    "n7": "an enjoyment",
+    "n8": "many enjoyments"
+}

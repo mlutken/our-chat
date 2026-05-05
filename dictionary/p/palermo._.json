@@ -1,0 +1,18 @@
+{
+    "base": "palermo",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "palermo",
+    "n2": "palermos",
+    "n3": "the palermo",
+    "n4": "the palermos",
+    "n5": "palermo's",
+    "n6": "palermos'",
+    "n7": "a palermo",
+    "n8": "many palermos"
+}

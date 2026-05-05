@@ -1,0 +1,18 @@
+{
+    "base": "finn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "finn",
+    "n2": "finns",
+    "n3": "the finn",
+    "n4": "the finns",
+    "n5": "finn's",
+    "n6": "finns'",
+    "n7": "a finn",
+    "n8": "many finns"
+}

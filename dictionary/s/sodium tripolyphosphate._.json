@@ -1,0 +1,18 @@
+{
+    "base": "sodium tripolyphosphate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sodium tripolyphosphate",
+    "n2": "sodium tripolyphosphates",
+    "n3": "the sodium tripolyphosphate",
+    "n4": "the sodium tripolyphosphates",
+    "n5": "sodium tripolyphosphate's",
+    "n6": "sodium tripolyphosphates'",
+    "n7": "a sodium tripolyphosphate",
+    "n8": "many sodium tripolyphosphates"
+}

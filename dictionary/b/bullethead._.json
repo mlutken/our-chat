@@ -1,0 +1,18 @@
+{
+    "base": "bullethead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bullethead",
+    "n2": "bulletheads",
+    "n3": "the bullethead",
+    "n4": "the bulletheads",
+    "n5": "bullethead's",
+    "n6": "bulletheads'",
+    "n7": "a bullethead",
+    "n8": "many bulletheads"
+}

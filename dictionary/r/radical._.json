@@ -1,0 +1,18 @@
+{
+    "base": "radical",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "radical",
+    "n2": "radicals",
+    "n3": "the radical",
+    "n4": "the radicals",
+    "n5": "radical's",
+    "n6": "radicals'",
+    "n7": "a radical",
+    "n8": "many radicals"
+}

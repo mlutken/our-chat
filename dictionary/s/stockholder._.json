@@ -1,0 +1,18 @@
+{
+    "base": "stockholder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "stockholder",
+    "n2": "stockholders",
+    "n3": "the stockholder",
+    "n4": "the stockholders",
+    "n5": "stockholder's",
+    "n6": "stockholders'",
+    "n7": "a stockholder",
+    "n8": "many stockholders"
+}

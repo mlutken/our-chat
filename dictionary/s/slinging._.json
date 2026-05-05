@@ -1,0 +1,18 @@
+{
+    "base": "slinging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slinging",
+    "n2": "slingings",
+    "n3": "the slinging",
+    "n4": "the slingings",
+    "n5": "slinging's",
+    "n6": "slingings'",
+    "n7": "a slinging",
+    "n8": "many slingings"
+}

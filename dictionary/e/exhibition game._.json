@@ -1,0 +1,18 @@
+{
+    "base": "exhibition game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exhibition game",
+    "n2": "exhibition games",
+    "n3": "the exhibition game",
+    "n4": "the exhibition games",
+    "n5": "exhibition game's",
+    "n6": "exhibition games'",
+    "n7": "an exhibition game",
+    "n8": "many exhibition games"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "odyssey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "odyssey",
+    "n2": "odysseys",
+    "n3": "the odyssey",
+    "n4": "the odysseys",
+    "n5": "odyssey's",
+    "n6": "odysseys'",
+    "n7": "an odyssey",
+    "n8": "many odysseys"
+}

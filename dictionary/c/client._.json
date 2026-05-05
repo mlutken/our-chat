@@ -7,5 +7,12 @@
     "n2": "clients",
     "n3": "the client",
     "n4": "the clients",
-    "n5": "client's"
+    "n5": "client's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "clients'",
+    "n7": "a client",
+    "n8": "many clients"
 }

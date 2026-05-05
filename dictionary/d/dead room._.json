@@ -1,0 +1,18 @@
+{
+    "base": "dead room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dead room",
+    "n2": "dead rooms",
+    "n3": "the dead room",
+    "n4": "the dead rooms",
+    "n5": "dead room's",
+    "n6": "dead rooms'",
+    "n7": "a dead room",
+    "n8": "many dead rooms"
+}

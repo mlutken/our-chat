@@ -1,0 +1,18 @@
+{
+    "base": "monosyllable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "monosyllable",
+    "n2": "monosyllables",
+    "n3": "the monosyllable",
+    "n4": "the monosyllables",
+    "n5": "monosyllable's",
+    "n6": "monosyllables'",
+    "n7": "a monosyllable",
+    "n8": "many monosyllables"
+}

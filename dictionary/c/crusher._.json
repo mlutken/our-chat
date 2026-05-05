@@ -1,0 +1,18 @@
+{
+    "base": "crusher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "crusher",
+    "n2": "crushers",
+    "n3": "the crusher",
+    "n4": "the crushers",
+    "n5": "crusher's",
+    "n6": "crushers'",
+    "n7": "a crusher",
+    "n8": "many crushers"
+}

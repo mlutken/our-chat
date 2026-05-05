@@ -1,0 +1,18 @@
+{
+    "base": "englishman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "englishman",
+    "n2": "englishmen",
+    "n3": "the englishman",
+    "n4": "the englishmen",
+    "n5": "englishman's",
+    "n6": "englishmen's",
+    "n7": "an englishman",
+    "n8": "many englishmen"
+}

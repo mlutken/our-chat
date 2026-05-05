@@ -1,11 +1,24 @@
 {
     "base": "affect",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "affect",
     "v2": "affected",
     "v3": "affected",
     "v4": "affecting",
-    "v5": "affects"
+    "v5": "affects",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "affect",
+    "n2": "affects",
+    "n3": "the affect",
+    "n4": "the affects",
+    "n5": "affect's",
+    "n6": "affects'",
+    "n7": "an affect",
+    "n8": "many affects"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "marksmanship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "marksmanship",
+    "n2": "marksmanships",
+    "n3": "the marksmanship",
+    "n4": "the marksmanships",
+    "n5": "marksmanship's",
+    "n6": "marksmanships'",
+    "n7": "a marksmanship",
+    "n8": "many marksmanships"
+}

@@ -7,5 +7,12 @@
     "n2": "steps",
     "n3": "the step",
     "n4": "the steps",
-    "n5": "step's"
+    "n5": "step's",
+    "proper": false,
+    "commonness": 59,
+    "max_commonness": 6834,
+    "commonness_ge_count": 262,
+    "n6": "steps'",
+    "n7": "a step",
+    "n8": "many steps"
 }

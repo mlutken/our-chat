@@ -1,0 +1,18 @@
+{
+    "base": "remuneration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "remuneration",
+    "n2": "remunerations",
+    "n3": "the remuneration",
+    "n4": "the remunerations",
+    "n5": "remuneration's",
+    "n6": "remunerations'",
+    "n7": "a remuneration",
+    "n8": "many remunerations"
+}

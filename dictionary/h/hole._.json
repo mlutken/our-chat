@@ -1,0 +1,18 @@
+{
+    "base": "hole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "hole",
+    "n2": "holes",
+    "n3": "the hole",
+    "n4": "the holes",
+    "n5": "hole's",
+    "n6": "holes'",
+    "n7": "a hole",
+    "n8": "many holes"
+}

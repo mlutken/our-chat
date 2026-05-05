@@ -1,0 +1,18 @@
+{
+    "base": "paso doble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paso doble",
+    "n2": "pasos dobles",
+    "n3": "the paso doble",
+    "n4": "the pasos dobles",
+    "n5": "paso doble's",
+    "n6": "pasos dobles'",
+    "n7": "a paso doble",
+    "n8": "many pasos dobles"
+}

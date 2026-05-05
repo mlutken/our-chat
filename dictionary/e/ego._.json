@@ -1,0 +1,18 @@
+{
+    "base": "ego",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ego",
+    "n2": "egos",
+    "n3": "the ego",
+    "n4": "the egos",
+    "n5": "ego's",
+    "n6": "egos'",
+    "n7": "an ego",
+    "n8": "many egos"
+}

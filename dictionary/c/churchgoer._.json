@@ -1,0 +1,18 @@
+{
+    "base": "churchgoer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "churchgoer",
+    "n2": "churchgoers",
+    "n3": "the churchgoer",
+    "n4": "the churchgoers",
+    "n5": "churchgoer's",
+    "n6": "churchgoers'",
+    "n7": "a churchgoer",
+    "n8": "many churchgoers"
+}

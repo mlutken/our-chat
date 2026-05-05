@@ -1,0 +1,18 @@
+{
+    "base": "glottochronology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glottochronology",
+    "n2": "glottochronologies",
+    "n3": "the glottochronology",
+    "n4": "the glottochronologies",
+    "n5": "glottochronology's",
+    "n6": "glottochronologies'",
+    "n7": "a glottochronology",
+    "n8": "many glottochronologies"
+}

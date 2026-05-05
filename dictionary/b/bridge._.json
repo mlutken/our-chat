@@ -1,0 +1,18 @@
+{
+    "base": "bridge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "bridge",
+    "n2": "bridges",
+    "n3": "the bridge",
+    "n4": "the bridges",
+    "n5": "bridge's",
+    "n6": "bridges'",
+    "n7": "a bridge",
+    "n8": "many bridges"
+}

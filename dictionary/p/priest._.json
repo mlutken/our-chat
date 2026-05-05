@@ -1,0 +1,18 @@
+{
+    "base": "priest",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "priest",
+    "n2": "priests",
+    "n3": "the priest",
+    "n4": "the priests",
+    "n5": "priest's",
+    "n6": "priests'",
+    "n7": "a priest",
+    "n8": "many priests"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "subpoena duces tecum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subpoena duces tecum",
+    "n2": "subpoena duces tecums",
+    "n3": "the subpoena duces tecum",
+    "n4": "the subpoena duces tecums",
+    "n5": "subpoena duces tecum's",
+    "n6": "subpoena duces tecums'",
+    "n7": "a subpoena duces tecum",
+    "n8": "many subpoena duces tecums"
+}

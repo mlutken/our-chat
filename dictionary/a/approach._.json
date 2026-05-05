@@ -7,5 +7,12 @@
     "n2": "approaches",
     "n3": "the approach",
     "n4": "the approaches",
-    "n5": "approach's"
+    "n5": "approach's",
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n6": "approaches'",
+    "n7": "an approach",
+    "n8": "many approaches"
 }

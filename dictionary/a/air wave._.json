@@ -1,0 +1,18 @@
+{
+    "base": "air wave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "air wave",
+    "n2": "air waves",
+    "n3": "the air wave",
+    "n4": "the air waves",
+    "n5": "air wave's",
+    "n6": "air waves'",
+    "n7": "an air wave",
+    "n8": "many air waves"
+}

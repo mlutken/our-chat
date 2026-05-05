@@ -1,0 +1,18 @@
+{
+    "base": "pervaporation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pervaporation",
+    "n2": "pervaporations",
+    "n3": "the pervaporation",
+    "n4": "the pervaporations",
+    "n5": "pervaporation's",
+    "n6": "pervaporations'",
+    "n7": "a pervaporation",
+    "n8": "many pervaporations"
+}

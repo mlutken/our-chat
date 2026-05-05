@@ -1,0 +1,18 @@
+{
+    "base": "neuter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neuter",
+    "n2": "neuters",
+    "n3": "the neuter",
+    "n4": "the neuters",
+    "n5": "neuter's",
+    "n6": "neuters'",
+    "n7": "a neuter",
+    "n8": "many neuters"
+}

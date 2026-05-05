@@ -1,0 +1,18 @@
+{
+    "base": "cancellation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cancellation",
+    "n2": "cancellations",
+    "n3": "the cancellation",
+    "n4": "the cancellations",
+    "n5": "cancellation's",
+    "n6": "cancellations'",
+    "n7": "a cancellation",
+    "n8": "many cancellations"
+}

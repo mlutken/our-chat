@@ -1,0 +1,18 @@
+{
+    "base": "prize money",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prize money",
+    "n2": "prize moneys",
+    "n3": "the prize money",
+    "n4": "the prize moneys",
+    "n5": "prize money's",
+    "n6": "prize moneys'",
+    "n7": "a prize money",
+    "n8": "many prize moneys"
+}

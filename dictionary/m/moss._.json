@@ -1,0 +1,18 @@
+{
+    "base": "moss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moss",
+    "n2": "mosses",
+    "n3": "the moss",
+    "n4": "the mosses",
+    "n5": "moss'",
+    "n6": "mosses'",
+    "n7": "a moss",
+    "n8": "many mosses"
+}

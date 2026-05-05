@@ -1,0 +1,18 @@
+{
+    "base": "minneapolis",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "minneapolis",
+    "n2": "minneapolises",
+    "n3": "the minneapolis",
+    "n4": "the minneapolises",
+    "n5": "minneapolis'",
+    "n6": "minneapolises'",
+    "n7": "a minneapolis",
+    "n8": "many minneapolises"
+}

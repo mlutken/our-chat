@@ -1,0 +1,18 @@
+{
+    "base": "undertaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "undertaking",
+    "n2": "undertakings",
+    "n3": "the undertaking",
+    "n4": "the undertakings",
+    "n5": "undertaking's",
+    "n6": "undertakings'",
+    "n7": "an undertaking",
+    "n8": "many undertakings"
+}

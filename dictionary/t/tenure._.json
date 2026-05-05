@@ -1,0 +1,18 @@
+{
+    "base": "tenure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tenure",
+    "n2": "tenures",
+    "n3": "the tenure",
+    "n4": "the tenures",
+    "n5": "tenure's",
+    "n6": "tenures'",
+    "n7": "a tenure",
+    "n8": "many tenures"
+}

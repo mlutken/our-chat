@@ -1,0 +1,18 @@
+{
+    "base": "albany",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "albany",
+    "n2": "albanies",
+    "n3": "the albany",
+    "n4": "the albanies",
+    "n5": "albany's",
+    "n6": "albanies'",
+    "n7": "an albany",
+    "n8": "many albanies"
+}

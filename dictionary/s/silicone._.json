@@ -1,0 +1,18 @@
+{
+    "base": "silicone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "silicone",
+    "n2": "silicones",
+    "n3": "the silicone",
+    "n4": "the silicones",
+    "n5": "silicone's",
+    "n6": "silicones'",
+    "n7": "a silicone",
+    "n8": "many silicones"
+}

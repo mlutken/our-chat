@@ -1,0 +1,18 @@
+{
+    "base": "high finance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "high finance",
+    "n2": "high finances",
+    "n3": "the high finance",
+    "n4": "the high finances",
+    "n5": "high finance's",
+    "n6": "high finances'",
+    "n7": "a high finance",
+    "n8": "many high finances"
+}

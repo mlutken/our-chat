@@ -1,0 +1,18 @@
+{
+    "base": "turbulence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turbulence",
+    "n2": "turbulences",
+    "n3": "the turbulence",
+    "n4": "the turbulences",
+    "n5": "turbulence's",
+    "n6": "turbulences'",
+    "n7": "a turbulence",
+    "n8": "many turbulences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "political system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "political system",
+    "n2": "political systems",
+    "n3": "the political system",
+    "n4": "the political systems",
+    "n5": "political system's",
+    "n6": "political systems'",
+    "n7": "a political system",
+    "n8": "many political systems"
+}

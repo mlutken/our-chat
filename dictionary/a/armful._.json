@@ -1,0 +1,18 @@
+{
+    "base": "armful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "armful",
+    "n2": "armfuls",
+    "n3": "the armful",
+    "n4": "the armfuls",
+    "n5": "armful's",
+    "n6": "armfuls'",
+    "n7": "an armful",
+    "n8": "many armfuls"
+}

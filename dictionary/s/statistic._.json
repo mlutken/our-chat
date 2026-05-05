@@ -1,0 +1,18 @@
+{
+    "base": "statistic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "statistic",
+    "n2": "statistics",
+    "n3": "the statistic",
+    "n4": "the statistics",
+    "n5": "statistic's",
+    "n6": "statistics'",
+    "n7": "a statistic",
+    "n8": "many statistics"
+}

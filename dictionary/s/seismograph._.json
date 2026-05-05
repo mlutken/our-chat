@@ -1,0 +1,18 @@
+{
+    "base": "seismograph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seismograph",
+    "n2": "seismographs",
+    "n3": "the seismograph",
+    "n4": "the seismographs",
+    "n5": "seismograph's",
+    "n6": "seismographs'",
+    "n7": "a seismograph",
+    "n8": "many seismographs"
+}

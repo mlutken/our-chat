@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "physics",
-    "n2": "physics",
+    "n2": "physicses",
     "n3": "the physics",
-    "n4": "the physics",
-    "n5": "physics's"
+    "n4": "the physicses",
+    "n5": "physics'",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "physicses'",
+    "n7": "a physics",
+    "n8": "many physicses"
 }

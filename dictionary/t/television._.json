@@ -7,5 +7,12 @@
     "n2": "televisions",
     "n3": "the television",
     "n4": "the televisions",
-    "n5": "television's"
+    "n5": "television's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "televisions'",
+    "n7": "a television",
+    "n8": "many televisions"
 }

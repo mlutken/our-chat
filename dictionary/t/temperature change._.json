@@ -1,0 +1,18 @@
+{
+    "base": "temperature change",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "temperature change",
+    "n2": "temperature changes",
+    "n3": "the temperature change",
+    "n4": "the temperature changes",
+    "n5": "temperature change's",
+    "n6": "temperature changes'",
+    "n7": "a temperature change",
+    "n8": "many temperature changes"
+}

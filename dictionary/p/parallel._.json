@@ -1,0 +1,18 @@
+{
+    "base": "parallel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "parallel",
+    "n2": "parallels",
+    "n3": "the parallel",
+    "n4": "the parallels",
+    "n5": "parallel's",
+    "n6": "parallels'",
+    "n7": "a parallel",
+    "n8": "many parallels"
+}

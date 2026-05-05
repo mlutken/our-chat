@@ -1,0 +1,18 @@
+{
+    "base": "laos",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "laos",
+    "n2": "laoses",
+    "n3": "the laos",
+    "n4": "the laoses",
+    "n5": "laos'",
+    "n6": "laoses'",
+    "n7": "a laos",
+    "n8": "many laoses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "powerfulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "powerfulness",
+    "n2": "powerfulnesses",
+    "n3": "the powerfulness",
+    "n4": "the powerfulnesses",
+    "n5": "powerfulness'",
+    "n6": "powerfulnesses'",
+    "n7": "a powerfulness",
+    "n8": "many powerfulnesses"
+}

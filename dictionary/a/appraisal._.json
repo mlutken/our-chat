@@ -1,0 +1,18 @@
+{
+    "base": "appraisal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "appraisal",
+    "n2": "appraisals",
+    "n3": "the appraisal",
+    "n4": "the appraisals",
+    "n5": "appraisal's",
+    "n6": "appraisals'",
+    "n7": "an appraisal",
+    "n8": "many appraisals"
+}

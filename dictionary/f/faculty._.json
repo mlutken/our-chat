@@ -1,0 +1,18 @@
+{
+    "base": "faculty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "faculty",
+    "n2": "faculties",
+    "n3": "the faculty",
+    "n4": "the faculties",
+    "n5": "faculty's",
+    "n6": "faculties'",
+    "n7": "a faculty",
+    "n8": "many faculties"
+}

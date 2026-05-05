@@ -1,0 +1,18 @@
+{
+    "base": "press corps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "press corps",
+    "n2": "press corpses",
+    "n3": "the press corps",
+    "n4": "the press corpses",
+    "n5": "press corps'",
+    "n6": "press corpses'",
+    "n7": "a press corps",
+    "n8": "many press corpses"
+}

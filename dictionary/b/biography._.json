@@ -1,0 +1,18 @@
+{
+    "base": "biography",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "biography",
+    "n2": "biographies",
+    "n3": "the biography",
+    "n4": "the biographies",
+    "n5": "biography's",
+    "n6": "biographies'",
+    "n7": "a biography",
+    "n8": "many biographies"
+}

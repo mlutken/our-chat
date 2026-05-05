@@ -1,0 +1,18 @@
+{
+    "base": "liberal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "liberal",
+    "n2": "liberals",
+    "n3": "the liberal",
+    "n4": "the liberals",
+    "n5": "liberal's",
+    "n6": "liberals'",
+    "n7": "a liberal",
+    "n8": "many liberals"
+}

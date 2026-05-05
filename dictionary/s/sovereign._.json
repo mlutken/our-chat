@@ -1,0 +1,18 @@
+{
+    "base": "sovereign",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sovereign",
+    "n2": "sovereigns",
+    "n3": "the sovereign",
+    "n4": "the sovereigns",
+    "n5": "sovereign's",
+    "n6": "sovereigns'",
+    "n7": "a sovereign",
+    "n8": "many sovereigns"
+}

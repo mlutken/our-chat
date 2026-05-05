@@ -1,0 +1,18 @@
+{
+    "base": "symmetry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "symmetry",
+    "n2": "symmetries",
+    "n3": "the symmetry",
+    "n4": "the symmetries",
+    "n5": "symmetry's",
+    "n6": "symmetries'",
+    "n7": "a symmetry",
+    "n8": "many symmetries"
+}

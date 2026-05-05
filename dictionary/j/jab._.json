@@ -1,0 +1,18 @@
+{
+    "base": "jab",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jab",
+    "n2": "jabs",
+    "n3": "the jab",
+    "n4": "the jabs",
+    "n5": "jab's",
+    "n6": "jabs'",
+    "n7": "a jab",
+    "n8": "many jabs"
+}

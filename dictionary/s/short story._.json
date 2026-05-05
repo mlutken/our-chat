@@ -1,0 +1,18 @@
+{
+    "base": "short story",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "short story",
+    "n2": "short stories",
+    "n3": "the short story",
+    "n4": "the short stories",
+    "n5": "short story's",
+    "n6": "short stories'",
+    "n7": "a short story",
+    "n8": "many short stories"
+}

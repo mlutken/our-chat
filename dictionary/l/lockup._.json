@@ -1,0 +1,18 @@
+{
+    "base": "lockup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lockup",
+    "n2": "lockups",
+    "n3": "the lockup",
+    "n4": "the lockups",
+    "n5": "lockup's",
+    "n6": "lockups'",
+    "n7": "a lockup",
+    "n8": "many lockups"
+}

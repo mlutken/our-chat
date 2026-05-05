@@ -1,0 +1,18 @@
+{
+    "base": "circumference",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "circumference",
+    "n2": "circumferences",
+    "n3": "the circumference",
+    "n4": "the circumferences",
+    "n5": "circumference's",
+    "n6": "circumferences'",
+    "n7": "a circumference",
+    "n8": "many circumferences"
+}

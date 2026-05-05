@@ -1,0 +1,18 @@
+{
+    "base": "crew member",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "crew member",
+    "n2": "crew members",
+    "n3": "the crew member",
+    "n4": "the crew members",
+    "n5": "crew member's",
+    "n6": "crew members'",
+    "n7": "a crew member",
+    "n8": "many crew members"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "third person",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "third person",
+    "n2": "third persons",
+    "n3": "the third person",
+    "n4": "the third persons",
+    "n5": "third person's",
+    "n6": "third persons'",
+    "n7": "a third person",
+    "n8": "many third persons"
+}

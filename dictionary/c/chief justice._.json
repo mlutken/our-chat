@@ -1,0 +1,18 @@
+{
+    "base": "chief justice",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chief justice",
+    "n2": "chief justices",
+    "n3": "the chief justice",
+    "n4": "the chief justices",
+    "n5": "chief justice's",
+    "n6": "chief justices'",
+    "n7": "a chief justice",
+    "n8": "many chief justices"
+}

@@ -1,11 +1,24 @@
 {
     "base": "tip",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tip",
     "v2": "tipped",
     "v3": "tipped",
     "v4": "tipping",
-    "v5": "tips"
+    "v5": "tips",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "tip",
+    "n2": "tips",
+    "n3": "the tip",
+    "n4": "the tips",
+    "n5": "tip's",
+    "n6": "tips'",
+    "n7": "a tip",
+    "n8": "many tips"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "execution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "execution",
+    "n2": "executions",
+    "n3": "the execution",
+    "n4": "the executions",
+    "n5": "execution's",
+    "n6": "executions'",
+    "n7": "an execution",
+    "n8": "many executions"
+}

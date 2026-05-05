@@ -1,0 +1,18 @@
+{
+    "base": "sewage disposal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sewage disposal",
+    "n2": "sewage disposals",
+    "n3": "the sewage disposal",
+    "n4": "the sewage disposals",
+    "n5": "sewage disposal's",
+    "n6": "sewage disposals'",
+    "n7": "a sewage disposal",
+    "n8": "many sewage disposals"
+}

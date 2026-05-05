@@ -1,0 +1,18 @@
+{
+    "base": "flats",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flats",
+    "n2": "flatses",
+    "n3": "the flats",
+    "n4": "the flatses",
+    "n5": "flats'",
+    "n6": "flatses'",
+    "n7": "a flats",
+    "n8": "many flatses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "threshold",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "threshold",
+    "n2": "thresholds",
+    "n3": "the threshold",
+    "n4": "the thresholds",
+    "n5": "threshold's",
+    "n6": "thresholds'",
+    "n7": "a threshold",
+    "n8": "many thresholds"
+}

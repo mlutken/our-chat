@@ -1,0 +1,18 @@
+{
+    "base": "noun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "noun",
+    "n2": "nouns",
+    "n3": "the noun",
+    "n4": "the nouns",
+    "n5": "noun's",
+    "n6": "nouns'",
+    "n7": "a noun",
+    "n8": "many nouns"
+}

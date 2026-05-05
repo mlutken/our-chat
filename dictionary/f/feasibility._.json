@@ -1,0 +1,18 @@
+{
+    "base": "feasibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "feasibility",
+    "n2": "feasibilities",
+    "n3": "the feasibility",
+    "n4": "the feasibilities",
+    "n5": "feasibility's",
+    "n6": "feasibilities'",
+    "n7": "a feasibility",
+    "n8": "many feasibilities"
+}

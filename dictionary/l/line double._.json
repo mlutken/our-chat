@@ -1,0 +1,18 @@
+{
+    "base": "line double",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "line double",
+    "n2": "line doubles",
+    "n3": "the line double",
+    "n4": "the line doubles",
+    "n5": "line double's",
+    "n6": "line doubles'",
+    "n7": "a line double",
+    "n8": "many line doubles"
+}

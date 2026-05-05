@@ -1,0 +1,18 @@
+{
+    "base": "microphoning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "microphoning",
+    "n2": "microphonings",
+    "n3": "the microphoning",
+    "n4": "the microphonings",
+    "n5": "microphoning's",
+    "n6": "microphonings'",
+    "n7": "a microphoning",
+    "n8": "many microphonings"
+}

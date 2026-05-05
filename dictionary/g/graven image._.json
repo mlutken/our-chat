@@ -1,0 +1,18 @@
+{
+    "base": "graven image",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "graven image",
+    "n2": "graven images",
+    "n3": "the graven image",
+    "n4": "the graven images",
+    "n5": "graven image's",
+    "n6": "graven images'",
+    "n7": "a graven image",
+    "n8": "many graven images"
+}

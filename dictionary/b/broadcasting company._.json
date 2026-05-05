@@ -1,0 +1,18 @@
+{
+    "base": "broadcasting company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "broadcasting company",
+    "n2": "broadcasting companies",
+    "n3": "the broadcasting company",
+    "n4": "the broadcasting companies",
+    "n5": "broadcasting company's",
+    "n6": "broadcasting companies'",
+    "n7": "a broadcasting company",
+    "n8": "many broadcasting companies"
+}

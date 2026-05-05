@@ -7,5 +7,12 @@
     "n2": "symptoms",
     "n3": "the symptom",
     "n4": "the symptoms",
-    "n5": "symptom's"
+    "n5": "symptom's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "symptoms'",
+    "n7": "a symptom",
+    "n8": "many symptoms"
 }

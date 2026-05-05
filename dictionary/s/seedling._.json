@@ -1,0 +1,18 @@
+{
+    "base": "seedling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seedling",
+    "n2": "seedlings",
+    "n3": "the seedling",
+    "n4": "the seedlings",
+    "n5": "seedling's",
+    "n6": "seedlings'",
+    "n7": "a seedling",
+    "n8": "many seedlings"
+}

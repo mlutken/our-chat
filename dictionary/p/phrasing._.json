@@ -1,0 +1,18 @@
+{
+    "base": "phrasing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phrasing",
+    "n2": "phrasings",
+    "n3": "the phrasing",
+    "n4": "the phrasings",
+    "n5": "phrasing's",
+    "n6": "phrasings'",
+    "n7": "a phrasing",
+    "n8": "many phrasings"
+}

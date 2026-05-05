@@ -1,0 +1,18 @@
+{
+    "base": "ethic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ethic",
+    "n2": "ethics",
+    "n3": "the ethic",
+    "n4": "the ethics",
+    "n5": "ethic's",
+    "n6": "ethics'",
+    "n7": "an ethic",
+    "n8": "many ethics"
+}

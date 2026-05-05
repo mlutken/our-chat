@@ -1,0 +1,18 @@
+{
+    "base": "boon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boon",
+    "n2": "boons",
+    "n3": "the boon",
+    "n4": "the boons",
+    "n5": "boon's",
+    "n6": "boons'",
+    "n7": "a boon",
+    "n8": "many boons"
+}

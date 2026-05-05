@@ -1,0 +1,18 @@
+{
+    "base": "business activity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business activity",
+    "n2": "business activities",
+    "n3": "the business activity",
+    "n4": "the business activities",
+    "n5": "business activity's",
+    "n6": "business activities'",
+    "n7": "a business activity",
+    "n8": "many business activities"
+}

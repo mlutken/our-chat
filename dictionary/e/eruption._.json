@@ -1,0 +1,18 @@
+{
+    "base": "eruption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eruption",
+    "n2": "eruptions",
+    "n3": "the eruption",
+    "n4": "the eruptions",
+    "n5": "eruption's",
+    "n6": "eruptions'",
+    "n7": "an eruption",
+    "n8": "many eruptions"
+}

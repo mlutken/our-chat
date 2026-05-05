@@ -1,0 +1,18 @@
+{
+    "base": "sacred writing",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sacred writing",
+    "n2": "sacred writings",
+    "n3": "the sacred writing",
+    "n4": "the sacred writings",
+    "n5": "sacred writing's",
+    "n6": "sacred writings'",
+    "n7": "a sacred writing",
+    "n8": "many sacred writings"
+}

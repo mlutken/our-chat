@@ -7,5 +7,12 @@
     "n2": "analyses",
     "n3": "the analysis",
     "n4": "the analyses",
-    "n5": "analysis's"
+    "n5": "analysis'",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "analyses'",
+    "n7": "an analysis",
+    "n8": "many analyses"
 }

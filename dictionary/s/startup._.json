@@ -1,0 +1,18 @@
+{
+    "base": "startup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "startup",
+    "n2": "startups",
+    "n3": "the startup",
+    "n4": "the startups",
+    "n5": "startup's",
+    "n6": "startups'",
+    "n7": "a startup",
+    "n8": "many startups"
+}

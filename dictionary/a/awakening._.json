@@ -1,0 +1,18 @@
+{
+    "base": "awakening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "awakening",
+    "n2": "awakenings",
+    "n3": "the awakening",
+    "n4": "the awakenings",
+    "n5": "awakening's",
+    "n6": "awakenings'",
+    "n7": "an awakening",
+    "n8": "many awakenings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cash basis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cash basis",
+    "n2": "cash basises",
+    "n3": "the cash basis",
+    "n4": "the cash basises",
+    "n5": "cash basis'",
+    "n6": "cash basises'",
+    "n7": "a cash basis",
+    "n8": "many cash basises"
+}

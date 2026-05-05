@@ -1,0 +1,18 @@
+{
+    "base": "base hit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "base hit",
+    "n2": "base hits",
+    "n3": "the base hit",
+    "n4": "the base hits",
+    "n5": "base hit's",
+    "n6": "base hits'",
+    "n7": "a base hit",
+    "n8": "many base hits"
+}

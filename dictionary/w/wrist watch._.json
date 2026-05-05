@@ -1,0 +1,18 @@
+{
+    "base": "wrist watch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wrist watch",
+    "n2": "wrist watches",
+    "n3": "the wrist watch",
+    "n4": "the wrist watches",
+    "n5": "wrist watch's",
+    "n6": "wrist watches'",
+    "n7": "a wrist watch",
+    "n8": "many wrist watches"
+}

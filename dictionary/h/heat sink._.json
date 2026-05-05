@@ -1,0 +1,18 @@
+{
+    "base": "heat sink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heat sink",
+    "n2": "heat sinks",
+    "n3": "the heat sink",
+    "n4": "the heat sinks",
+    "n5": "heat sink's",
+    "n6": "heat sinks'",
+    "n7": "a heat sink",
+    "n8": "many heat sinks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "eagle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eagle",
+    "n2": "eagles",
+    "n3": "the eagle",
+    "n4": "the eagles",
+    "n5": "eagle's",
+    "n6": "eagles'",
+    "n7": "an eagle",
+    "n8": "many eagles"
+}

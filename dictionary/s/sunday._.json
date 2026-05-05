@@ -1,0 +1,18 @@
+{
+    "base": "sunday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n1": "sunday",
+    "n2": "sundays",
+    "n3": "the sunday",
+    "n4": "the sundays",
+    "n5": "sunday's",
+    "n6": "sundays'",
+    "n7": "a sunday",
+    "n8": "many sundays"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shin",
+    "n2": "shins",
+    "n3": "the shin",
+    "n4": "the shins",
+    "n5": "shin's",
+    "n6": "shins'",
+    "n7": "a shin",
+    "n8": "many shins"
+}

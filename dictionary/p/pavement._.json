@@ -1,0 +1,18 @@
+{
+    "base": "pavement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "pavement",
+    "n2": "pavements",
+    "n3": "the pavement",
+    "n4": "the pavements",
+    "n5": "pavement's",
+    "n6": "pavements'",
+    "n7": "a pavement",
+    "n8": "many pavements"
+}

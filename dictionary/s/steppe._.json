@@ -1,0 +1,18 @@
+{
+    "base": "steppe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steppe",
+    "n2": "steppes",
+    "n3": "the steppe",
+    "n4": "the steppes",
+    "n5": "steppe's",
+    "n6": "steppes'",
+    "n7": "a steppe",
+    "n8": "many steppes"
+}

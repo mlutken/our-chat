@@ -1,0 +1,18 @@
+{
+    "base": "underwear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "underwear",
+    "n2": "underwears",
+    "n3": "the underwear",
+    "n4": "the underwears",
+    "n5": "underwear's",
+    "n6": "underwears'",
+    "n7": "an underwear",
+    "n8": "many underwears"
+}

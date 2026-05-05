@@ -1,0 +1,18 @@
+{
+    "base": "patronage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "patronage",
+    "n2": "patronages",
+    "n3": "the patronage",
+    "n4": "the patronages",
+    "n5": "patronage's",
+    "n6": "patronages'",
+    "n7": "a patronage",
+    "n8": "many patronages"
+}

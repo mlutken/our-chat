@@ -1,0 +1,18 @@
+{
+    "base": "portrait",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "portrait",
+    "n2": "portraits",
+    "n3": "the portrait",
+    "n4": "the portraits",
+    "n5": "portrait's",
+    "n6": "portraits'",
+    "n7": "a portrait",
+    "n8": "many portraits"
+}

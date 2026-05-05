@@ -1,0 +1,18 @@
+{
+    "base": "cast iron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cast iron",
+    "n2": "cast irons",
+    "n3": "the cast iron",
+    "n4": "the cast irons",
+    "n5": "cast iron's",
+    "n6": "cast irons'",
+    "n7": "a cast iron",
+    "n8": "many cast irons"
+}

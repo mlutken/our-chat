@@ -1,0 +1,18 @@
+{
+    "base": "mentality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mentality",
+    "n2": "mentalities",
+    "n3": "the mentality",
+    "n4": "the mentalities",
+    "n5": "mentality's",
+    "n6": "mentalities'",
+    "n7": "a mentality",
+    "n8": "many mentalities"
+}

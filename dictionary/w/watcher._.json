@@ -1,0 +1,18 @@
+{
+    "base": "watcher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "watcher",
+    "n2": "watchers",
+    "n3": "the watcher",
+    "n4": "the watchers",
+    "n5": "watcher's",
+    "n6": "watchers'",
+    "n7": "a watcher",
+    "n8": "many watchers"
+}

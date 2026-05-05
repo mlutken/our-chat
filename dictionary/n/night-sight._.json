@@ -1,0 +1,18 @@
+{
+    "base": "night-sight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "night-sight",
+    "n2": "night-sights",
+    "n3": "the night-sight",
+    "n4": "the night-sights",
+    "n5": "night-sight's",
+    "n6": "night-sights'",
+    "n7": "a night-sight",
+    "n8": "many night-sights"
+}

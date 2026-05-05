@@ -1,0 +1,18 @@
+{
+    "base": "southernism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "southernism",
+    "n2": "southernisms",
+    "n3": "the southernism",
+    "n4": "the southernisms",
+    "n5": "southernism's",
+    "n6": "southernisms'",
+    "n7": "a southernism",
+    "n8": "many southernisms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "booby trap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "booby trap",
+    "n2": "booby traps",
+    "n3": "the booby trap",
+    "n4": "the booby traps",
+    "n5": "booby trap's",
+    "n6": "booby traps'",
+    "n7": "a booby trap",
+    "n8": "many booby traps"
+}

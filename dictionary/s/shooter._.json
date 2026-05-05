@@ -1,0 +1,18 @@
+{
+    "base": "shooter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shooter",
+    "n2": "shooters",
+    "n3": "the shooter",
+    "n4": "the shooters",
+    "n5": "shooter's",
+    "n6": "shooters'",
+    "n7": "a shooter",
+    "n8": "many shooters"
+}

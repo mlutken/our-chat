@@ -1,0 +1,18 @@
+{
+    "base": "belshazzar",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "belshazzar",
+    "n2": "belshazzars",
+    "n3": "the belshazzar",
+    "n4": "the belshazzars",
+    "n5": "belshazzar's",
+    "n6": "belshazzars'",
+    "n7": "a belshazzar",
+    "n8": "many belshazzars"
+}

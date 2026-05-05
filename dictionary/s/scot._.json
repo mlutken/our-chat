@@ -1,0 +1,18 @@
+{
+    "base": "scot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "scot",
+    "n2": "scots",
+    "n3": "the scot",
+    "n4": "the scots",
+    "n5": "scot's",
+    "n6": "scots'",
+    "n7": "a scot",
+    "n8": "many scots"
+}

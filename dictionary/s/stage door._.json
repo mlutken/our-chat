@@ -1,0 +1,18 @@
+{
+    "base": "stage door",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stage door",
+    "n2": "stage doors",
+    "n3": "the stage door",
+    "n4": "the stage doors",
+    "n5": "stage door's",
+    "n6": "stage doors'",
+    "n7": "a stage door",
+    "n8": "many stage doors"
+}

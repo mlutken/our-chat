@@ -1,0 +1,18 @@
+{
+    "base": "maryland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "maryland",
+    "n2": "marylands",
+    "n3": "the maryland",
+    "n4": "the marylands",
+    "n5": "maryland's",
+    "n6": "marylands'",
+    "n7": "a maryland",
+    "n8": "many marylands"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "expressiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "expressiveness",
+    "n2": "expressivenesses",
+    "n3": "the expressiveness",
+    "n4": "the expressivenesses",
+    "n5": "expressiveness'",
+    "n6": "expressivenesses'",
+    "n7": "an expressiveness",
+    "n8": "many expressivenesses"
+}

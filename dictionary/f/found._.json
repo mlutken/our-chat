@@ -1,11 +1,24 @@
 {
     "base": "found",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "found",
     "v2": "founded",
     "v3": "founded",
     "v4": "founding",
-    "v5": "founds"
+    "v5": "founds",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "found",
+    "n2": "founds",
+    "n3": "the found",
+    "n4": "the founds",
+    "n5": "found's",
+    "n6": "founds'",
+    "n7": "a found",
+    "n8": "many founds"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "redevelopment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "redevelopment",
+    "n2": "redevelopments",
+    "n3": "the redevelopment",
+    "n4": "the redevelopments",
+    "n5": "redevelopment's",
+    "n6": "redevelopments'",
+    "n7": "a redevelopment",
+    "n8": "many redevelopments"
+}

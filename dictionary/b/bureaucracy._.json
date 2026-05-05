@@ -1,0 +1,18 @@
+{
+    "base": "bureaucracy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bureaucracy",
+    "n2": "bureaucracies",
+    "n3": "the bureaucracy",
+    "n4": "the bureaucracies",
+    "n5": "bureaucracy's",
+    "n6": "bureaucracies'",
+    "n7": "a bureaucracy",
+    "n8": "many bureaucracies"
+}

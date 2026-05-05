@@ -1,0 +1,18 @@
+{
+    "base": "wag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wag",
+    "n2": "wags",
+    "n3": "the wag",
+    "n4": "the wags",
+    "n5": "wag's",
+    "n6": "wags'",
+    "n7": "a wag",
+    "n8": "many wags"
+}

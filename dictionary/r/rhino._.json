@@ -1,0 +1,18 @@
+{
+    "base": "rhino",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rhino",
+    "n2": "rhinos",
+    "n3": "the rhino",
+    "n4": "the rhinos",
+    "n5": "rhino's",
+    "n6": "rhinos'",
+    "n7": "a rhino",
+    "n8": "many rhinos"
+}

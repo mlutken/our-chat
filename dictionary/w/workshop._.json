@@ -1,0 +1,18 @@
+{
+    "base": "workshop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "workshop",
+    "n2": "workshops",
+    "n3": "the workshop",
+    "n4": "the workshops",
+    "n5": "workshop's",
+    "n6": "workshops'",
+    "n7": "a workshop",
+    "n8": "many workshops"
+}

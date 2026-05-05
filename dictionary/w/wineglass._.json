@@ -1,0 +1,18 @@
+{
+    "base": "wineglass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wineglass",
+    "n2": "wineglasses",
+    "n3": "the wineglass",
+    "n4": "the wineglasses",
+    "n5": "wineglass'",
+    "n6": "wineglasses'",
+    "n7": "a wineglass",
+    "n8": "many wineglasses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "evildoer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "evildoer",
+    "n2": "evildoers",
+    "n3": "the evildoer",
+    "n4": "the evildoers",
+    "n5": "evildoer's",
+    "n6": "evildoers'",
+    "n7": "an evildoer",
+    "n8": "many evildoers"
+}

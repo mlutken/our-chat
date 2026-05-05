@@ -1,0 +1,18 @@
+{
+    "base": "vividness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vividness",
+    "n2": "vividnesses",
+    "n3": "the vividness",
+    "n4": "the vividnesses",
+    "n5": "vividness'",
+    "n6": "vividnesses'",
+    "n7": "a vividness",
+    "n8": "many vividnesses"
+}

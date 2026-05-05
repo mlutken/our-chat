@@ -1,0 +1,18 @@
+{
+    "base": "epistemology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epistemology",
+    "n2": "epistemologies",
+    "n3": "the epistemology",
+    "n4": "the epistemologies",
+    "n5": "epistemology's",
+    "n6": "epistemologies'",
+    "n7": "an epistemology",
+    "n8": "many epistemologies"
+}

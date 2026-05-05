@@ -1,7 +1,20 @@
 {
     "base": "counting",
     "classes": [
+        "n",
         "pre"
     ],
-    "f0": "counting"
+    "f0": "counting",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "counting",
+    "n2": "countings",
+    "n3": "the counting",
+    "n4": "the countings",
+    "n5": "counting's",
+    "n6": "countings'",
+    "n7": "a counting",
+    "n8": "many countings"
 }

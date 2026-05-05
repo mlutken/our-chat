@@ -1,0 +1,18 @@
+{
+    "base": "squire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "squire",
+    "n2": "squires",
+    "n3": "the squire",
+    "n4": "the squires",
+    "n5": "squire's",
+    "n6": "squires'",
+    "n7": "a squire",
+    "n8": "many squires"
+}

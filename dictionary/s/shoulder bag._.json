@@ -1,0 +1,18 @@
+{
+    "base": "shoulder bag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shoulder bag",
+    "n2": "shoulder bags",
+    "n3": "the shoulder bag",
+    "n4": "the shoulder bags",
+    "n5": "shoulder bag's",
+    "n6": "shoulder bags'",
+    "n7": "a shoulder bag",
+    "n8": "many shoulder bags"
+}

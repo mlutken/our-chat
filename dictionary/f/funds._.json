@@ -1,0 +1,18 @@
+{
+    "base": "funds",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "funds",
+    "n2": "fundses",
+    "n3": "the funds",
+    "n4": "the fundses",
+    "n5": "funds'",
+    "n6": "fundses'",
+    "n7": "a funds",
+    "n8": "many fundses"
+}

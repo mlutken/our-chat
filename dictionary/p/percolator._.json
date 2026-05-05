@@ -1,0 +1,18 @@
+{
+    "base": "percolator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "percolator",
+    "n2": "percolators",
+    "n3": "the percolator",
+    "n4": "the percolators",
+    "n5": "percolator's",
+    "n6": "percolators'",
+    "n7": "a percolator",
+    "n8": "many percolators"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "falling off",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "falling off",
+    "n2": "falling ofves",
+    "n3": "the falling off",
+    "n4": "the falling ofves",
+    "n5": "falling off's",
+    "n6": "falling ofves'",
+    "n7": "a falling off",
+    "n8": "many falling ofves"
+}

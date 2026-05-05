@@ -1,0 +1,18 @@
+{
+    "base": "peninsula",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peninsula",
+    "n2": "peninsulas",
+    "n3": "the peninsula",
+    "n4": "the peninsulas",
+    "n5": "peninsula's",
+    "n6": "peninsulas'",
+    "n7": "a peninsula",
+    "n8": "many peninsulas"
+}

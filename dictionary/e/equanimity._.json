@@ -1,0 +1,18 @@
+{
+    "base": "equanimity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "equanimity",
+    "n2": "equanimities",
+    "n3": "the equanimity",
+    "n4": "the equanimities",
+    "n5": "equanimity's",
+    "n6": "equanimities'",
+    "n7": "an equanimity",
+    "n8": "many equanimities"
+}

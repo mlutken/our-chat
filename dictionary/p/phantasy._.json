@@ -1,0 +1,18 @@
+{
+    "base": "phantasy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phantasy",
+    "n2": "phantasies",
+    "n3": "the phantasy",
+    "n4": "the phantasies",
+    "n5": "phantasy's",
+    "n6": "phantasies'",
+    "n7": "a phantasy",
+    "n8": "many phantasies"
+}

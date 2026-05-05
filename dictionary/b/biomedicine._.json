@@ -1,0 +1,18 @@
+{
+    "base": "biomedicine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "biomedicine",
+    "n2": "biomedicines",
+    "n3": "the biomedicine",
+    "n4": "the biomedicines",
+    "n5": "biomedicine's",
+    "n6": "biomedicines'",
+    "n7": "a biomedicine",
+    "n8": "many biomedicines"
+}

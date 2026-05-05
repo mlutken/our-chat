@@ -1,0 +1,18 @@
+{
+    "base": "southpaw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "southpaw",
+    "n2": "southpaws",
+    "n3": "the southpaw",
+    "n4": "the southpaws",
+    "n5": "southpaw's",
+    "n6": "southpaws'",
+    "n7": "a southpaw",
+    "n8": "many southpaws"
+}

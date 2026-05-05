@@ -1,0 +1,18 @@
+{
+    "base": "verbena",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "verbena",
+    "n2": "verbenas",
+    "n3": "the verbena",
+    "n4": "the verbenas",
+    "n5": "verbena's",
+    "n6": "verbenas'",
+    "n7": "a verbena",
+    "n8": "many verbenas"
+}

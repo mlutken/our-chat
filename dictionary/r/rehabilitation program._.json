@@ -1,0 +1,18 @@
+{
+    "base": "rehabilitation program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rehabilitation program",
+    "n2": "rehabilitation programs",
+    "n3": "the rehabilitation program",
+    "n4": "the rehabilitation programs",
+    "n5": "rehabilitation program's",
+    "n6": "rehabilitation programs'",
+    "n7": "a rehabilitation program",
+    "n8": "many rehabilitation programs"
+}

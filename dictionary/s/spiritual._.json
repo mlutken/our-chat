@@ -1,0 +1,18 @@
+{
+    "base": "spiritual",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spiritual",
+    "n2": "spirituals",
+    "n3": "the spiritual",
+    "n4": "the spirituals",
+    "n5": "spiritual's",
+    "n6": "spirituals'",
+    "n7": "a spiritual",
+    "n8": "many spirituals"
+}

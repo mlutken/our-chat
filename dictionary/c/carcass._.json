@@ -1,0 +1,18 @@
+{
+    "base": "carcass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "carcass",
+    "n2": "carcasses",
+    "n3": "the carcass",
+    "n4": "the carcasses",
+    "n5": "carcass'",
+    "n6": "carcasses'",
+    "n7": "a carcass",
+    "n8": "many carcasses"
+}

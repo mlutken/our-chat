@@ -1,0 +1,18 @@
+{
+    "base": "sound effect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sound effect",
+    "n2": "sound effects",
+    "n3": "the sound effect",
+    "n4": "the sound effects",
+    "n5": "sound effect's",
+    "n6": "sound effects'",
+    "n7": "a sound effect",
+    "n8": "many sound effects"
+}

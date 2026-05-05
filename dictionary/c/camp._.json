@@ -1,11 +1,24 @@
 {
     "base": "camp",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "camp",
     "v2": "camped",
     "v3": "camped",
     "v4": "camping",
-    "v5": "camps"
+    "v5": "camps",
+    "proper": false,
+    "commonness": 37,
+    "max_commonness": 6834,
+    "commonness_ge_count": 486,
+    "n1": "camp",
+    "n2": "camps",
+    "n3": "the camp",
+    "n4": "the camps",
+    "n5": "camp's",
+    "n6": "camps'",
+    "n7": "a camp",
+    "n8": "many camps"
 }

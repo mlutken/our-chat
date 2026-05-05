@@ -1,0 +1,18 @@
+{
+    "base": "prizefight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prizefight",
+    "n2": "prizefights",
+    "n3": "the prizefight",
+    "n4": "the prizefights",
+    "n5": "prizefight's",
+    "n6": "prizefights'",
+    "n7": "a prizefight",
+    "n8": "many prizefights"
+}

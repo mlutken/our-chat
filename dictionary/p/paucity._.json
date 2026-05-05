@@ -1,0 +1,18 @@
+{
+    "base": "paucity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paucity",
+    "n2": "paucities",
+    "n3": "the paucity",
+    "n4": "the paucities",
+    "n5": "paucity's",
+    "n6": "paucities'",
+    "n7": "a paucity",
+    "n8": "many paucities"
+}

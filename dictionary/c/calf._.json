@@ -1,0 +1,18 @@
+{
+    "base": "calf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "calf",
+    "n2": "calves",
+    "n3": "the calf",
+    "n4": "the calves",
+    "n5": "calf's",
+    "n6": "calves'",
+    "n7": "a calf",
+    "n8": "many calves"
+}

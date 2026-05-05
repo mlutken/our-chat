@@ -1,0 +1,18 @@
+{
+    "base": "coil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coil",
+    "n2": "coils",
+    "n3": "the coil",
+    "n4": "the coils",
+    "n5": "coil's",
+    "n6": "coils'",
+    "n7": "a coil",
+    "n8": "many coils"
+}

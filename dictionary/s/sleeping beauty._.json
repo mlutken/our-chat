@@ -1,0 +1,18 @@
+{
+    "base": "sleeping beauty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sleeping beauty",
+    "n2": "sleeping beauties",
+    "n3": "the sleeping beauty",
+    "n4": "the sleeping beauties",
+    "n5": "sleeping beauty's",
+    "n6": "sleeping beauties'",
+    "n7": "a sleeping beauty",
+    "n8": "many sleeping beauties"
+}

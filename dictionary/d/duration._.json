@@ -1,0 +1,18 @@
+{
+    "base": "duration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "duration",
+    "n2": "durations",
+    "n3": "the duration",
+    "n4": "the durations",
+    "n5": "duration's",
+    "n6": "durations'",
+    "n7": "a duration",
+    "n8": "many durations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "weapons system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "weapons system",
+    "n2": "weapons systems",
+    "n3": "the weapons system",
+    "n4": "the weapons systems",
+    "n5": "weapons system's",
+    "n6": "weapons systems'",
+    "n7": "a weapons system",
+    "n8": "many weapons systems"
+}

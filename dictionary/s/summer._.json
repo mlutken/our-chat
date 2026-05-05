@@ -7,5 +7,12 @@
     "n2": "summers",
     "n3": "the summer",
     "n4": "the summers",
-    "n5": "summer's"
+    "n5": "summer's",
+    "proper": false,
+    "commonness": 58,
+    "max_commonness": 6834,
+    "commonness_ge_count": 266,
+    "n6": "summers'",
+    "n7": "a summer",
+    "n8": "many summers"
 }

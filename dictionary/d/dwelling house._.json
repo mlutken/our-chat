@@ -1,0 +1,18 @@
+{
+    "base": "dwelling house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dwelling house",
+    "n2": "dwelling houses",
+    "n3": "the dwelling house",
+    "n4": "the dwelling houses",
+    "n5": "dwelling house's",
+    "n6": "dwelling houses'",
+    "n7": "a dwelling house",
+    "n8": "many dwelling houses"
+}

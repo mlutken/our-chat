@@ -7,5 +7,12 @@
     "n2": "partnerships",
     "n3": "the partnership",
     "n4": "the partnerships",
-    "n5": "partnership's"
+    "n5": "partnership's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "partnerships'",
+    "n7": "a partnership",
+    "n8": "many partnerships"
 }

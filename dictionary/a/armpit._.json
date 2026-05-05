@@ -1,0 +1,18 @@
+{
+    "base": "armpit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "armpit",
+    "n2": "armpits",
+    "n3": "the armpit",
+    "n4": "the armpits",
+    "n5": "armpit's",
+    "n6": "armpits'",
+    "n7": "an armpit",
+    "n8": "many armpits"
+}

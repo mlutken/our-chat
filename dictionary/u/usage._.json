@@ -7,5 +7,12 @@
     "n2": "usages",
     "n3": "the usage",
     "n4": "the usages",
-    "n5": "usage's"
+    "n5": "usage's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "usages'",
+    "n7": "an usage",
+    "n8": "many usages"
 }

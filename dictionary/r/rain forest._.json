@@ -1,0 +1,18 @@
+{
+    "base": "rain forest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rain forest",
+    "n2": "rain forests",
+    "n3": "the rain forest",
+    "n4": "the rain forests",
+    "n5": "rain forest's",
+    "n6": "rain forests'",
+    "n7": "a rain forest",
+    "n8": "many rain forests"
+}

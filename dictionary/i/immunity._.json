@@ -1,0 +1,18 @@
+{
+    "base": "immunity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "immunity",
+    "n2": "immunities",
+    "n3": "the immunity",
+    "n4": "the immunities",
+    "n5": "immunity's",
+    "n6": "immunities'",
+    "n7": "an immunity",
+    "n8": "many immunities"
+}

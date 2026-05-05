@@ -7,5 +7,12 @@
     "n2": "removals",
     "n3": "the removal",
     "n4": "the removals",
-    "n5": "removal's"
+    "n5": "removal's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "removals'",
+    "n7": "a removal",
+    "n8": "many removals"
 }

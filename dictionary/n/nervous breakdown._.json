@@ -1,0 +1,18 @@
+{
+    "base": "nervous breakdown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "nervous breakdown",
+    "n2": "nervous breakdowns",
+    "n3": "the nervous breakdown",
+    "n4": "the nervous breakdowns",
+    "n5": "nervous breakdown's",
+    "n6": "nervous breakdowns'",
+    "n7": "a nervous breakdown",
+    "n8": "many nervous breakdowns"
+}

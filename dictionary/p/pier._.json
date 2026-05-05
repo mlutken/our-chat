@@ -1,0 +1,18 @@
+{
+    "base": "pier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pier",
+    "n2": "piers",
+    "n3": "the pier",
+    "n4": "the piers",
+    "n5": "pier's",
+    "n6": "piers'",
+    "n7": "a pier",
+    "n8": "many piers"
+}

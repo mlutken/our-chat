@@ -1,0 +1,18 @@
+{
+    "base": "chamber of commerce",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chamber of commerce",
+    "n2": "chamber of commerces",
+    "n3": "the chamber of commerce",
+    "n4": "the chamber of commerces",
+    "n5": "chamber of commerce's",
+    "n6": "chamber of commerces'",
+    "n7": "a chamber of commerce",
+    "n8": "many chamber of commerces"
+}

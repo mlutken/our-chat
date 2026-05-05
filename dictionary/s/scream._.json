@@ -1,11 +1,24 @@
 {
     "base": "scream",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "scream",
     "v2": "screamed",
     "v3": "screamed",
     "v4": "screaming",
-    "v5": "screams"
+    "v5": "screams",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "scream",
+    "n2": "screams",
+    "n3": "the scream",
+    "n4": "the screams",
+    "n5": "scream's",
+    "n6": "screams'",
+    "n7": "a scream",
+    "n8": "many screams"
 }

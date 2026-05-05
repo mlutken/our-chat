@@ -1,0 +1,18 @@
+{
+    "base": "offstage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "offstage",
+    "n2": "offstages",
+    "n3": "the offstage",
+    "n4": "the offstages",
+    "n5": "offstage's",
+    "n6": "offstages'",
+    "n7": "an offstage",
+    "n8": "many offstages"
+}

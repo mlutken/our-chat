@@ -1,0 +1,18 @@
+{
+    "base": "slip of paper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slip of paper",
+    "n2": "slip of papers",
+    "n3": "the slip of paper",
+    "n4": "the slip of papers",
+    "n5": "slip of paper's",
+    "n6": "slip of papers'",
+    "n7": "a slip of paper",
+    "n8": "many slip of papers"
+}

@@ -7,5 +7,12 @@
     "n2": "judgments",
     "n3": "the judgment",
     "n4": "the judgments",
-    "n5": "judgment's"
+    "n5": "judgment's",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n6": "judgments'",
+    "n7": "a judgment",
+    "n8": "many judgments"
 }

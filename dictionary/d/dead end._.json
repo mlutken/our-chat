@@ -1,0 +1,18 @@
+{
+    "base": "dead end",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dead end",
+    "n2": "dead ends",
+    "n3": "the dead end",
+    "n4": "the dead ends",
+    "n5": "dead end's",
+    "n6": "dead ends'",
+    "n7": "a dead end",
+    "n8": "many dead ends"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sickroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sickroom",
+    "n2": "sickrooms",
+    "n3": "the sickroom",
+    "n4": "the sickrooms",
+    "n5": "sickroom's",
+    "n6": "sickrooms'",
+    "n7": "a sickroom",
+    "n8": "many sickrooms"
+}

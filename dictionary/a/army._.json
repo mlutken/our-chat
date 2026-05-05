@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "army",
-    "n2": "armys",
+    "n2": "armies",
     "n3": "the army",
-    "n4": "the armys",
-    "n5": "army's"
+    "n4": "the armies",
+    "n5": "army's",
+    "proper": false,
+    "commonness": 63,
+    "max_commonness": 6834,
+    "commonness_ge_count": 241,
+    "n6": "armies'",
+    "n7": "an army",
+    "n8": "many armies"
 }

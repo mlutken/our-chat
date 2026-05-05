@@ -1,0 +1,18 @@
+{
+    "base": "tornado",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tornado",
+    "n2": "tornadoes",
+    "n3": "the tornado",
+    "n4": "the tornadoes",
+    "n5": "tornado's",
+    "n6": "tornadoes'",
+    "n7": "a tornado",
+    "n8": "many tornadoes"
+}

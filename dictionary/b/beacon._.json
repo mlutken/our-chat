@@ -1,0 +1,18 @@
+{
+    "base": "beacon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beacon",
+    "n2": "beacons",
+    "n3": "the beacon",
+    "n4": "the beacons",
+    "n5": "beacon's",
+    "n6": "beacons'",
+    "n7": "a beacon",
+    "n8": "many beacons"
+}

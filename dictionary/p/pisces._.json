@@ -1,0 +1,18 @@
+{
+    "base": "pisces",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pisces",
+    "n2": "pisceses",
+    "n3": "the pisces",
+    "n4": "the pisceses",
+    "n5": "pisces'",
+    "n6": "pisceses'",
+    "n7": "a pisces",
+    "n8": "many pisceses"
+}

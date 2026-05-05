@@ -1,0 +1,18 @@
+{
+    "base": "texas",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "texas",
+    "n2": "texases",
+    "n3": "the texas",
+    "n4": "the texases",
+    "n5": "texas'",
+    "n6": "texases'",
+    "n7": "a texas",
+    "n8": "many texases"
+}

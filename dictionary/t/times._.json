@@ -1,0 +1,18 @@
+{
+    "base": "times",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "times",
+    "n2": "timeses",
+    "n3": "the times",
+    "n4": "the timeses",
+    "n5": "times'",
+    "n6": "timeses'",
+    "n7": "a times",
+    "n8": "many timeses"
+}

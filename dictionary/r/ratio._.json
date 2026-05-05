@@ -7,5 +7,12 @@
     "n2": "ratios",
     "n3": "the ratio",
     "n4": "the ratios",
-    "n5": "ratio's"
+    "n5": "ratio's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "ratios'",
+    "n7": "a ratio",
+    "n8": "many ratios"
 }

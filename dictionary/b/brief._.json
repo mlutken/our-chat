@@ -1,0 +1,18 @@
+{
+    "base": "brief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brief",
+    "n2": "brieves",
+    "n3": "the brief",
+    "n4": "the brieves",
+    "n5": "brief's",
+    "n6": "brieves'",
+    "n7": "a brief",
+    "n8": "many brieves"
+}

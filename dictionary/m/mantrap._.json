@@ -1,0 +1,18 @@
+{
+    "base": "mantrap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mantrap",
+    "n2": "mantraps",
+    "n3": "the mantrap",
+    "n4": "the mantraps",
+    "n5": "mantrap's",
+    "n6": "mantraps'",
+    "n7": "a mantrap",
+    "n8": "many mantraps"
+}

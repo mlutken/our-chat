@@ -1,0 +1,18 @@
+{
+    "base": "treachery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "treachery",
+    "n2": "treacheries",
+    "n3": "the treachery",
+    "n4": "the treacheries",
+    "n5": "treachery's",
+    "n6": "treacheries'",
+    "n7": "a treachery",
+    "n8": "many treacheries"
+}

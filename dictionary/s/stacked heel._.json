@@ -1,0 +1,18 @@
+{
+    "base": "stacked heel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stacked heel",
+    "n2": "stacked heels",
+    "n3": "the stacked heel",
+    "n4": "the stacked heels",
+    "n5": "stacked heel's",
+    "n6": "stacked heels'",
+    "n7": "a stacked heel",
+    "n8": "many stacked heels"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "sheep",
-    "n2": "sheep",
+    "n2": "sheeps",
     "n3": "the sheep",
-    "n4": "the sheep",
-    "n5": "sheep's"
+    "n4": "the sheeps",
+    "n5": "sheep's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "sheeps'",
+    "n7": "a sheep",
+    "n8": "many sheeps"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "non-jew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "non-jew",
+    "n2": "non-jews",
+    "n3": "the non-jew",
+    "n4": "the non-jews",
+    "n5": "non-jew's",
+    "n6": "non-jews'",
+    "n7": "a non-jew",
+    "n8": "many non-jews"
+}

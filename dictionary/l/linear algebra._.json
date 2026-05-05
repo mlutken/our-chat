@@ -1,0 +1,18 @@
+{
+    "base": "linear algebra",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "linear algebra",
+    "n2": "linear algebras",
+    "n3": "the linear algebra",
+    "n4": "the linear algebras",
+    "n5": "linear algebra's",
+    "n6": "linear algebras'",
+    "n7": "a linear algebra",
+    "n8": "many linear algebras"
+}

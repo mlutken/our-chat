@@ -7,5 +7,12 @@
     "n2": "dealers",
     "n3": "the dealer",
     "n4": "the dealers",
-    "n5": "dealer's"
+    "n5": "dealer's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "dealers'",
+    "n7": "a dealer",
+    "n8": "many dealers"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "plug-ugly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plug-ugly",
+    "n2": "plug-uglies",
+    "n3": "the plug-ugly",
+    "n4": "the plug-uglies",
+    "n5": "plug-ugly's",
+    "n6": "plug-uglies'",
+    "n7": "a plug-ugly",
+    "n8": "many plug-uglies"
+}

@@ -7,5 +7,12 @@
     "n2": "menus",
     "n3": "the menu",
     "n4": "the menus",
-    "n5": "menu's"
+    "n5": "menu's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "menus'",
+    "n7": "a menu",
+    "n8": "many menus"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "paramagnet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paramagnet",
+    "n2": "paramagnets",
+    "n3": "the paramagnet",
+    "n4": "the paramagnets",
+    "n5": "paramagnet's",
+    "n6": "paramagnets'",
+    "n7": "a paramagnet",
+    "n8": "many paramagnets"
+}

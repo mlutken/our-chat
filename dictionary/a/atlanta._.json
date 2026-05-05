@@ -1,0 +1,18 @@
+{
+    "base": "atlanta",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "atlanta",
+    "n2": "atlantas",
+    "n3": "the atlanta",
+    "n4": "the atlantas",
+    "n5": "atlanta's",
+    "n6": "atlantas'",
+    "n7": "an atlanta",
+    "n8": "many atlantas"
+}

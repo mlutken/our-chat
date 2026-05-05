@@ -1,0 +1,18 @@
+{
+    "base": "honeybee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "honeybee",
+    "n2": "honeybees",
+    "n3": "the honeybee",
+    "n4": "the honeybees",
+    "n5": "honeybee's",
+    "n6": "honeybees'",
+    "n7": "a honeybee",
+    "n8": "many honeybees"
+}

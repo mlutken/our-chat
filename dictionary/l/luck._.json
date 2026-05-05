@@ -1,0 +1,18 @@
+{
+    "base": "luck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "luck",
+    "n2": "lucks",
+    "n3": "the luck",
+    "n4": "the lucks",
+    "n5": "luck's",
+    "n6": "lucks'",
+    "n7": "a luck",
+    "n8": "many lucks"
+}

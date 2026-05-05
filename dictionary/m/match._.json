@@ -1,11 +1,24 @@
 {
     "base": "match",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "match",
     "v2": "matched",
     "v3": "matched",
     "v4": "matching",
-    "v5": "matches"
+    "v5": "matches",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "match",
+    "n2": "matches",
+    "n3": "the match",
+    "n4": "the matches",
+    "n5": "match's",
+    "n6": "matches'",
+    "n7": "a match",
+    "n8": "many matches"
 }

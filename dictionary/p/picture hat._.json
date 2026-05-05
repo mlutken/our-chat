@@ -1,0 +1,18 @@
+{
+    "base": "picture hat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picture hat",
+    "n2": "picture hats",
+    "n3": "the picture hat",
+    "n4": "the picture hats",
+    "n5": "picture hat's",
+    "n6": "picture hats'",
+    "n7": "a picture hat",
+    "n8": "many picture hats"
+}

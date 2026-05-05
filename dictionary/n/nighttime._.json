@@ -1,0 +1,18 @@
+{
+    "base": "nighttime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nighttime",
+    "n2": "nighttimes",
+    "n3": "the nighttime",
+    "n4": "the nighttimes",
+    "n5": "nighttime's",
+    "n6": "nighttimes'",
+    "n7": "a nighttime",
+    "n8": "many nighttimes"
+}

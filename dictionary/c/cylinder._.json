@@ -1,0 +1,18 @@
+{
+    "base": "cylinder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cylinder",
+    "n2": "cylinders",
+    "n3": "the cylinder",
+    "n4": "the cylinders",
+    "n5": "cylinder's",
+    "n6": "cylinders'",
+    "n7": "a cylinder",
+    "n8": "many cylinders"
+}

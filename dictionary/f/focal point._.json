@@ -1,0 +1,18 @@
+{
+    "base": "focal point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "focal point",
+    "n2": "focal points",
+    "n3": "the focal point",
+    "n4": "the focal points",
+    "n5": "focal point's",
+    "n6": "focal points'",
+    "n7": "a focal point",
+    "n8": "many focal points"
+}

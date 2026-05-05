@@ -7,5 +7,12 @@
     "n2": "apices",
     "n3": "the apex",
     "n4": "the apices",
-    "n5": "apex's"
+    "n5": "apex's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "apices'",
+    "n7": "an apex",
+    "n8": "many apices"
 }

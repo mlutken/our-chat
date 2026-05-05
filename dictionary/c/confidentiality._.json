@@ -1,0 +1,18 @@
+{
+    "base": "confidentiality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confidentiality",
+    "n2": "confidentialities",
+    "n3": "the confidentiality",
+    "n4": "the confidentialities",
+    "n5": "confidentiality's",
+    "n6": "confidentialities'",
+    "n7": "a confidentiality",
+    "n8": "many confidentialities"
+}

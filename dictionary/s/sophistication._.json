@@ -1,0 +1,18 @@
+{
+    "base": "sophistication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sophistication",
+    "n2": "sophistications",
+    "n3": "the sophistication",
+    "n4": "the sophistications",
+    "n5": "sophistication's",
+    "n6": "sophistications'",
+    "n7": "a sophistication",
+    "n8": "many sophistications"
+}

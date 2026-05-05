@@ -7,5 +7,12 @@
     "n2": "reviews",
     "n3": "the review",
     "n4": "the reviews",
-    "n5": "review's"
+    "n5": "review's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "reviews'",
+    "n7": "a review",
+    "n8": "many reviews"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "perpetration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perpetration",
+    "n2": "perpetrations",
+    "n3": "the perpetration",
+    "n4": "the perpetrations",
+    "n5": "perpetration's",
+    "n6": "perpetrations'",
+    "n7": "a perpetration",
+    "n8": "many perpetrations"
+}

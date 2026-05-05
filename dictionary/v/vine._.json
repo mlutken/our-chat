@@ -1,0 +1,18 @@
+{
+    "base": "vine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "vine",
+    "n2": "vines",
+    "n3": "the vine",
+    "n4": "the vines",
+    "n5": "vine's",
+    "n6": "vines'",
+    "n7": "a vine",
+    "n8": "many vines"
+}

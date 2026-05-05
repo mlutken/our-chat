@@ -1,0 +1,18 @@
+{
+    "base": "brokerage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brokerage",
+    "n2": "brokerages",
+    "n3": "the brokerage",
+    "n4": "the brokerages",
+    "n5": "brokerage's",
+    "n6": "brokerages'",
+    "n7": "a brokerage",
+    "n8": "many brokerages"
+}

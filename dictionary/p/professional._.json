@@ -7,5 +7,12 @@
     "n2": "professionals",
     "n3": "the professional",
     "n4": "the professionals",
-    "n5": "professional's"
+    "n5": "professional's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "professionals'",
+    "n7": "a professional",
+    "n8": "many professionals"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "gum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gum",
+    "n2": "gums",
+    "n3": "the gum",
+    "n4": "the gums",
+    "n5": "gum's",
+    "n6": "gums'",
+    "n7": "a gum",
+    "n8": "many gums"
+}

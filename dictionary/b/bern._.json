@@ -1,0 +1,18 @@
+{
+    "base": "bern",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "bern",
+    "n2": "berns",
+    "n3": "the bern",
+    "n4": "the berns",
+    "n5": "bern's",
+    "n6": "berns'",
+    "n7": "a bern",
+    "n8": "many berns"
+}

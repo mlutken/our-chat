@@ -1,0 +1,18 @@
+{
+    "base": "venture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "venture",
+    "n2": "ventures",
+    "n3": "the venture",
+    "n4": "the ventures",
+    "n5": "venture's",
+    "n6": "ventures'",
+    "n7": "a venture",
+    "n8": "many ventures"
+}

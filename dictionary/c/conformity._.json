@@ -1,0 +1,18 @@
+{
+    "base": "conformity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "conformity",
+    "n2": "conformities",
+    "n3": "the conformity",
+    "n4": "the conformities",
+    "n5": "conformity's",
+    "n6": "conformities'",
+    "n7": "a conformity",
+    "n8": "many conformities"
+}

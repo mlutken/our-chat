@@ -1,0 +1,18 @@
+{
+    "base": "pretext",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pretext",
+    "n2": "pretexts",
+    "n3": "the pretext",
+    "n4": "the pretexts",
+    "n5": "pretext's",
+    "n6": "pretexts'",
+    "n7": "a pretext",
+    "n8": "many pretexts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "defection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "defection",
+    "n2": "defections",
+    "n3": "the defection",
+    "n4": "the defections",
+    "n5": "defection's",
+    "n6": "defections'",
+    "n7": "a defection",
+    "n8": "many defections"
+}

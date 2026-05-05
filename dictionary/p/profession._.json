@@ -7,5 +7,12 @@
     "n2": "professions",
     "n3": "the profession",
     "n4": "the professions",
-    "n5": "profession's"
+    "n5": "profession's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "professions'",
+    "n7": "a profession",
+    "n8": "many professions"
 }

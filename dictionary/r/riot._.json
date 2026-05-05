@@ -1,0 +1,18 @@
+{
+    "base": "riot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "riot",
+    "n2": "riots",
+    "n3": "the riot",
+    "n4": "the riots",
+    "n5": "riot's",
+    "n6": "riots'",
+    "n7": "a riot",
+    "n8": "many riots"
+}

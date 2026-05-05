@@ -1,0 +1,18 @@
+{
+    "base": "twig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "twig",
+    "n2": "twigs",
+    "n3": "the twig",
+    "n4": "the twigs",
+    "n5": "twig's",
+    "n6": "twigs'",
+    "n7": "a twig",
+    "n8": "many twigs"
+}

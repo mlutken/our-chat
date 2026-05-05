@@ -1,0 +1,18 @@
+{
+    "base": "pound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n1": "pound",
+    "n2": "pounds",
+    "n3": "the pound",
+    "n4": "the pounds",
+    "n5": "pound's",
+    "n6": "pounds'",
+    "n7": "a pound",
+    "n8": "many pounds"
+}

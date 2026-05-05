@@ -7,5 +7,12 @@
     "n2": "panels",
     "n3": "the panel",
     "n4": "the panels",
-    "n5": "panel's"
+    "n5": "panel's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "panels'",
+    "n7": "a panel",
+    "n8": "many panels"
 }

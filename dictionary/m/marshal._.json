@@ -1,0 +1,18 @@
+{
+    "base": "marshal",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "marshal",
+    "n2": "marshals",
+    "n3": "the marshal",
+    "n4": "the marshals",
+    "n5": "marshal's",
+    "n6": "marshals'",
+    "n7": "a marshal",
+    "n8": "many marshals"
+}

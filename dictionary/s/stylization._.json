@@ -1,0 +1,18 @@
+{
+    "base": "stylization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stylization",
+    "n2": "stylizations",
+    "n3": "the stylization",
+    "n4": "the stylizations",
+    "n5": "stylization's",
+    "n6": "stylizations'",
+    "n7": "a stylization",
+    "n8": "many stylizations"
+}

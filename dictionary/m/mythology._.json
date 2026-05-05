@@ -1,0 +1,18 @@
+{
+    "base": "mythology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "mythology",
+    "n2": "mythologies",
+    "n3": "the mythology",
+    "n4": "the mythologies",
+    "n5": "mythology's",
+    "n6": "mythologies'",
+    "n7": "a mythology",
+    "n8": "many mythologies"
+}

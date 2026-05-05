@@ -1,0 +1,18 @@
+{
+    "base": "pealing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pealing",
+    "n2": "pealings",
+    "n3": "the pealing",
+    "n4": "the pealings",
+    "n5": "pealing's",
+    "n6": "pealings'",
+    "n7": "a pealing",
+    "n8": "many pealings"
+}

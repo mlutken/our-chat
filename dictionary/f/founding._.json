@@ -1,0 +1,18 @@
+{
+    "base": "founding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "founding",
+    "n2": "foundings",
+    "n3": "the founding",
+    "n4": "the foundings",
+    "n5": "founding's",
+    "n6": "foundings'",
+    "n7": "a founding",
+    "n8": "many foundings"
+}

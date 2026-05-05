@@ -7,5 +7,12 @@
     "n2": "guidelines",
     "n3": "the guideline",
     "n4": "the guidelines",
-    "n5": "guideline's"
+    "n5": "guideline's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "guidelines'",
+    "n7": "a guideline",
+    "n8": "many guidelines"
 }

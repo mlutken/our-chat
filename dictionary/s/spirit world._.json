@@ -1,0 +1,18 @@
+{
+    "base": "spirit world",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spirit world",
+    "n2": "spirit worlds",
+    "n3": "the spirit world",
+    "n4": "the spirit worlds",
+    "n5": "spirit world's",
+    "n6": "spirit worlds'",
+    "n7": "a spirit world",
+    "n8": "many spirit worlds"
+}

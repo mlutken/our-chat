@@ -1,0 +1,18 @@
+{
+    "base": "supply closet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "supply closet",
+    "n2": "supply closets",
+    "n3": "the supply closet",
+    "n4": "the supply closets",
+    "n5": "supply closet's",
+    "n6": "supply closets'",
+    "n7": "a supply closet",
+    "n8": "many supply closets"
+}

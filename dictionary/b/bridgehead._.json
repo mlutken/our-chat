@@ -1,0 +1,18 @@
+{
+    "base": "bridgehead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bridgehead",
+    "n2": "bridgeheads",
+    "n3": "the bridgehead",
+    "n4": "the bridgeheads",
+    "n5": "bridgehead's",
+    "n6": "bridgeheads'",
+    "n7": "a bridgehead",
+    "n8": "many bridgeheads"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "prairie dog",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prairie dog",
+    "n2": "prairie dogs",
+    "n3": "the prairie dog",
+    "n4": "the prairie dogs",
+    "n5": "prairie dog's",
+    "n6": "prairie dogs'",
+    "n7": "a prairie dog",
+    "n8": "many prairie dogs"
+}

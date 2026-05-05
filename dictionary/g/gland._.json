@@ -1,0 +1,18 @@
+{
+    "base": "gland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "gland",
+    "n2": "glands",
+    "n3": "the gland",
+    "n4": "the glands",
+    "n5": "gland's",
+    "n6": "glands'",
+    "n7": "a gland",
+    "n8": "many glands"
+}

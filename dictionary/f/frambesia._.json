@@ -1,0 +1,18 @@
+{
+    "base": "frambesia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "frambesia",
+    "n2": "frambesias",
+    "n3": "the frambesia",
+    "n4": "the frambesias",
+    "n5": "frambesia's",
+    "n6": "frambesias'",
+    "n7": "a frambesia",
+    "n8": "many frambesias"
+}

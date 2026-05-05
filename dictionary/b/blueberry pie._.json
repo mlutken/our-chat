@@ -1,0 +1,18 @@
+{
+    "base": "blueberry pie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blueberry pie",
+    "n2": "blueberry pies",
+    "n3": "the blueberry pie",
+    "n4": "the blueberry pies",
+    "n5": "blueberry pie's",
+    "n6": "blueberry pies'",
+    "n7": "a blueberry pie",
+    "n8": "many blueberry pies"
+}

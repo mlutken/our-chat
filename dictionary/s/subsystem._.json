@@ -1,0 +1,18 @@
+{
+    "base": "subsystem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "subsystem",
+    "n2": "subsystems",
+    "n3": "the subsystem",
+    "n4": "the subsystems",
+    "n5": "subsystem's",
+    "n6": "subsystems'",
+    "n7": "a subsystem",
+    "n8": "many subsystems"
+}

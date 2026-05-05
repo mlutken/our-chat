@@ -7,5 +7,12 @@
     "n2": "images",
     "n3": "the image",
     "n4": "the images",
-    "n5": "image's"
+    "n5": "image's",
+    "proper": false,
+    "commonness": 51,
+    "max_commonness": 6834,
+    "commonness_ge_count": 322,
+    "n6": "images'",
+    "n7": "an image",
+    "n8": "many images"
 }

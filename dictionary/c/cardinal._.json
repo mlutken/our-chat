@@ -1,0 +1,18 @@
+{
+    "base": "cardinal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cardinal",
+    "n2": "cardinals",
+    "n3": "the cardinal",
+    "n4": "the cardinals",
+    "n5": "cardinal's",
+    "n6": "cardinals'",
+    "n7": "a cardinal",
+    "n8": "many cardinals"
+}

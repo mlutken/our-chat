@@ -1,0 +1,18 @@
+{
+    "base": "gripe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gripe",
+    "n2": "gripes",
+    "n3": "the gripe",
+    "n4": "the gripes",
+    "n5": "gripe's",
+    "n6": "gripes'",
+    "n7": "a gripe",
+    "n8": "many gripes"
+}

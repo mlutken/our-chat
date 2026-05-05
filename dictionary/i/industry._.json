@@ -7,5 +7,12 @@
     "n2": "industries",
     "n3": "the industry",
     "n4": "the industries",
-    "n5": "industry's"
+    "n5": "industry's",
+    "proper": false,
+    "commonness": 71,
+    "max_commonness": 6834,
+    "commonness_ge_count": 203,
+    "n6": "industries'",
+    "n7": "an industry",
+    "n8": "many industries"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "department store",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "department store",
+    "n2": "department stores",
+    "n3": "the department store",
+    "n4": "the department stores",
+    "n5": "department store's",
+    "n6": "department stores'",
+    "n7": "a department store",
+    "n8": "many department stores"
+}

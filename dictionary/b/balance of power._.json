@@ -1,0 +1,18 @@
+{
+    "base": "balance of power",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "balance of power",
+    "n2": "balance of powers",
+    "n3": "the balance of power",
+    "n4": "the balance of powers",
+    "n5": "balance of power's",
+    "n6": "balance of powers'",
+    "n7": "a balance of power",
+    "n8": "many balance of powers"
+}

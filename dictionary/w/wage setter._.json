@@ -1,0 +1,18 @@
+{
+    "base": "wage setter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wage setter",
+    "n2": "wage setters",
+    "n3": "the wage setter",
+    "n4": "the wage setters",
+    "n5": "wage setter's",
+    "n6": "wage setters'",
+    "n7": "a wage setter",
+    "n8": "many wage setters"
+}

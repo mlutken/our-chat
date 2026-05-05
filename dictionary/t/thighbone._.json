@@ -1,0 +1,18 @@
+{
+    "base": "thighbone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thighbone",
+    "n2": "thighbones",
+    "n3": "the thighbone",
+    "n4": "the thighbones",
+    "n5": "thighbone's",
+    "n6": "thighbones'",
+    "n7": "a thighbone",
+    "n8": "many thighbones"
+}

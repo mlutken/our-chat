@@ -1,0 +1,18 @@
+{
+    "base": "tact",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tact",
+    "n2": "tacts",
+    "n3": "the tact",
+    "n4": "the tacts",
+    "n5": "tact's",
+    "n6": "tacts'",
+    "n7": "a tact",
+    "n8": "many tacts"
+}

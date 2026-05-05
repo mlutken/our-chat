@@ -1,0 +1,18 @@
+{
+    "base": "hudson river",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hudson river",
+    "n2": "hudson rivers",
+    "n3": "the hudson river",
+    "n4": "the hudson rivers",
+    "n5": "hudson river's",
+    "n6": "hudson rivers'",
+    "n7": "a hudson river",
+    "n8": "many hudson rivers"
+}

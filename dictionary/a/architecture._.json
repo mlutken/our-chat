@@ -1,0 +1,18 @@
+{
+    "base": "architecture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "architecture",
+    "n2": "architectures",
+    "n3": "the architecture",
+    "n4": "the architectures",
+    "n5": "architecture's",
+    "n6": "architectures'",
+    "n7": "an architecture",
+    "n8": "many architectures"
+}

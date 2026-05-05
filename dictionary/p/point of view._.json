@@ -1,0 +1,18 @@
+{
+    "base": "point of view",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "point of view",
+    "n2": "point of views",
+    "n3": "the point of view",
+    "n4": "the point of views",
+    "n5": "point of view's",
+    "n6": "point of views'",
+    "n7": "a point of view",
+    "n8": "many point of views"
+}

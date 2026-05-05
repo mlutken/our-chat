@@ -1,0 +1,18 @@
+{
+    "base": "evolution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "evolution",
+    "n2": "evolutions",
+    "n3": "the evolution",
+    "n4": "the evolutions",
+    "n5": "evolution's",
+    "n6": "evolutions'",
+    "n7": "an evolution",
+    "n8": "many evolutions"
+}

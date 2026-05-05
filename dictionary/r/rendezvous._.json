@@ -1,0 +1,18 @@
+{
+    "base": "rendezvous",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "rendezvous",
+    "n2": "rendezvouses",
+    "n3": "the rendezvous",
+    "n4": "the rendezvouses",
+    "n5": "rendezvous'",
+    "n6": "rendezvouses'",
+    "n7": "a rendezvous",
+    "n8": "many rendezvouses"
+}

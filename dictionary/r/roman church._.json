@@ -1,0 +1,18 @@
+{
+    "base": "roman church",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "roman church",
+    "n2": "roman churches",
+    "n3": "the roman church",
+    "n4": "the roman churches",
+    "n5": "roman church's",
+    "n6": "roman churches'",
+    "n7": "a roman church",
+    "n8": "many roman churches"
+}

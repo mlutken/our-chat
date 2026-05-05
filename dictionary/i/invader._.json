@@ -1,0 +1,18 @@
+{
+    "base": "invader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "invader",
+    "n2": "invaders",
+    "n3": "the invader",
+    "n4": "the invaders",
+    "n5": "invader's",
+    "n6": "invaders'",
+    "n7": "an invader",
+    "n8": "many invaders"
+}

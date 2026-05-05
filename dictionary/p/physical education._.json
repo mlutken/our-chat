@@ -1,0 +1,18 @@
+{
+    "base": "physical education",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "physical education",
+    "n2": "physical educations",
+    "n3": "the physical education",
+    "n4": "the physical educations",
+    "n5": "physical education's",
+    "n6": "physical educations'",
+    "n7": "a physical education",
+    "n8": "many physical educations"
+}

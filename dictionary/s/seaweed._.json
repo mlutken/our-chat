@@ -1,0 +1,18 @@
+{
+    "base": "seaweed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seaweed",
+    "n2": "seaweeds",
+    "n3": "the seaweed",
+    "n4": "the seaweeds",
+    "n5": "seaweed's",
+    "n6": "seaweeds'",
+    "n7": "a seaweed",
+    "n8": "many seaweeds"
+}

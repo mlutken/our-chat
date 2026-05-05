@@ -1,0 +1,18 @@
+{
+    "base": "screenplay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "screenplay",
+    "n2": "screenplays",
+    "n3": "the screenplay",
+    "n4": "the screenplays",
+    "n5": "screenplay's",
+    "n6": "screenplays'",
+    "n7": "a screenplay",
+    "n8": "many screenplays"
+}

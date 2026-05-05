@@ -1,0 +1,18 @@
+{
+    "base": "firelight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "firelight",
+    "n2": "firelights",
+    "n3": "the firelight",
+    "n4": "the firelights",
+    "n5": "firelight's",
+    "n6": "firelights'",
+    "n7": "a firelight",
+    "n8": "many firelights"
+}

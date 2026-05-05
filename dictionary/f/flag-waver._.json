@@ -1,0 +1,18 @@
+{
+    "base": "flag-waver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flag-waver",
+    "n2": "flag-wavers",
+    "n3": "the flag-waver",
+    "n4": "the flag-wavers",
+    "n5": "flag-waver's",
+    "n6": "flag-wavers'",
+    "n7": "a flag-waver",
+    "n8": "many flag-wavers"
+}

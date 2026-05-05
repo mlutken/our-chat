@@ -1,0 +1,18 @@
+{
+    "base": "cup of tea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cup of tea",
+    "n2": "cup of teas",
+    "n3": "the cup of tea",
+    "n4": "the cup of teas",
+    "n5": "cup of tea's",
+    "n6": "cup of teas'",
+    "n7": "a cup of tea",
+    "n8": "many cup of teas"
+}

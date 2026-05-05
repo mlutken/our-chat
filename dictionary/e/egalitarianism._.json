@@ -1,0 +1,18 @@
+{
+    "base": "egalitarianism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "egalitarianism",
+    "n2": "egalitarianisms",
+    "n3": "the egalitarianism",
+    "n4": "the egalitarianisms",
+    "n5": "egalitarianism's",
+    "n6": "egalitarianisms'",
+    "n7": "an egalitarianism",
+    "n8": "many egalitarianisms"
+}

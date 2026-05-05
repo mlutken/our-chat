@@ -1,0 +1,18 @@
+{
+    "base": "greeting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "greeting",
+    "n2": "greetings",
+    "n3": "the greeting",
+    "n4": "the greetings",
+    "n5": "greeting's",
+    "n6": "greetings'",
+    "n7": "a greeting",
+    "n8": "many greetings"
+}

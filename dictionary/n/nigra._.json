@@ -1,0 +1,18 @@
+{
+    "base": "nigra",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nigra",
+    "n2": "nigras",
+    "n3": "the nigra",
+    "n4": "the nigras",
+    "n5": "nigra's",
+    "n6": "nigras'",
+    "n7": "a nigra",
+    "n8": "many nigras"
+}

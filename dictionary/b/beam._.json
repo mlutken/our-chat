@@ -1,11 +1,24 @@
 {
     "base": "beam",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "beam",
     "v2": "beamed",
     "v3": "beamed",
     "v4": "beaming",
-    "v5": "beams"
+    "v5": "beams",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "beam",
+    "n2": "beams",
+    "n3": "the beam",
+    "n4": "the beams",
+    "n5": "beam's",
+    "n6": "beams'",
+    "n7": "a beam",
+    "n8": "many beams"
 }

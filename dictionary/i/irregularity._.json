@@ -1,0 +1,18 @@
+{
+    "base": "irregularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "irregularity",
+    "n2": "irregularities",
+    "n3": "the irregularity",
+    "n4": "the irregularities",
+    "n5": "irregularity's",
+    "n6": "irregularities'",
+    "n7": "an irregularity",
+    "n8": "many irregularities"
+}

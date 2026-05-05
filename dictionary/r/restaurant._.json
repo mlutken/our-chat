@@ -7,5 +7,12 @@
     "n2": "restaurants",
     "n3": "the restaurant",
     "n4": "the restaurants",
-    "n5": "restaurant's"
+    "n5": "restaurant's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "restaurants'",
+    "n7": "a restaurant",
+    "n8": "many restaurants"
 }

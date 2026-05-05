@@ -1,0 +1,18 @@
+{
+    "base": "nationality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nationality",
+    "n2": "nationalities",
+    "n3": "the nationality",
+    "n4": "the nationalities",
+    "n5": "nationality's",
+    "n6": "nationalities'",
+    "n7": "a nationality",
+    "n8": "many nationalities"
+}

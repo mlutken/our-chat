@@ -1,0 +1,18 @@
+{
+    "base": "solidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "solidity",
+    "n2": "solidities",
+    "n3": "the solidity",
+    "n4": "the solidities",
+    "n5": "solidity's",
+    "n6": "solidities'",
+    "n7": "a solidity",
+    "n8": "many solidities"
+}

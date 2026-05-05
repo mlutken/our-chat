@@ -1,0 +1,18 @@
+{
+    "base": "utensil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "utensil",
+    "n2": "utensils",
+    "n3": "the utensil",
+    "n4": "the utensils",
+    "n5": "utensil's",
+    "n6": "utensils'",
+    "n7": "an utensil",
+    "n8": "many utensils"
+}

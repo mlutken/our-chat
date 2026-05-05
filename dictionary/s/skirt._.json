@@ -1,0 +1,18 @@
+{
+    "base": "skirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "skirt",
+    "n2": "skirts",
+    "n3": "the skirt",
+    "n4": "the skirts",
+    "n5": "skirt's",
+    "n6": "skirts'",
+    "n7": "a skirt",
+    "n8": "many skirts"
+}

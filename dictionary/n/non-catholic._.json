@@ -1,0 +1,18 @@
+{
+    "base": "non-catholic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "non-catholic",
+    "n2": "non-catholics",
+    "n3": "the non-catholic",
+    "n4": "the non-catholics",
+    "n5": "non-catholic's",
+    "n6": "non-catholics'",
+    "n7": "a non-catholic",
+    "n8": "many non-catholics"
+}

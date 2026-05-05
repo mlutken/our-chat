@@ -1,0 +1,18 @@
+{
+    "base": "castanets",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "castanets",
+    "n2": "castanetses",
+    "n3": "the castanets",
+    "n4": "the castanetses",
+    "n5": "castanets'",
+    "n6": "castanetses'",
+    "n7": "a castanets",
+    "n8": "many castanetses"
+}

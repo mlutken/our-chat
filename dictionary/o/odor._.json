@@ -1,0 +1,18 @@
+{
+    "base": "odor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "odor",
+    "n2": "odors",
+    "n3": "the odor",
+    "n4": "the odors",
+    "n5": "odor's",
+    "n6": "odors'",
+    "n7": "an odor",
+    "n8": "many odors"
+}

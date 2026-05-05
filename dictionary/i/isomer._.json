@@ -1,0 +1,18 @@
+{
+    "base": "isomer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "isomer",
+    "n2": "isomers",
+    "n3": "the isomer",
+    "n4": "the isomers",
+    "n5": "isomer's",
+    "n6": "isomers'",
+    "n7": "an isomer",
+    "n8": "many isomers"
+}

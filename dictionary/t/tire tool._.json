@@ -1,0 +1,18 @@
+{
+    "base": "tire tool",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tire tool",
+    "n2": "tire tools",
+    "n3": "the tire tool",
+    "n4": "the tire tools",
+    "n5": "tire tool's",
+    "n6": "tire tools'",
+    "n7": "a tire tool",
+    "n8": "many tire tools"
+}

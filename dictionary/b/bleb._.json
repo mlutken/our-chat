@@ -1,0 +1,18 @@
+{
+    "base": "bleb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bleb",
+    "n2": "blebs",
+    "n3": "the bleb",
+    "n4": "the blebs",
+    "n5": "bleb's",
+    "n6": "blebs'",
+    "n7": "a bleb",
+    "n8": "many blebs"
+}

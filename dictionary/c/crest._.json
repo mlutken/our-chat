@@ -1,0 +1,18 @@
+{
+    "base": "crest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "crest",
+    "n2": "crests",
+    "n3": "the crest",
+    "n4": "the crests",
+    "n5": "crest's",
+    "n6": "crests'",
+    "n7": "a crest",
+    "n8": "many crests"
+}

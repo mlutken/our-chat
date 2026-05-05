@@ -1,0 +1,18 @@
+{
+    "base": "punk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "punk",
+    "n2": "punks",
+    "n3": "the punk",
+    "n4": "the punks",
+    "n5": "punk's",
+    "n6": "punks'",
+    "n7": "a punk",
+    "n8": "many punks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "walking stick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "walking stick",
+    "n2": "walking sticks",
+    "n3": "the walking stick",
+    "n4": "the walking sticks",
+    "n5": "walking stick's",
+    "n6": "walking sticks'",
+    "n7": "a walking stick",
+    "n8": "many walking sticks"
+}

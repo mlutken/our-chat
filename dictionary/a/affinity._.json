@@ -1,0 +1,18 @@
+{
+    "base": "affinity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "affinity",
+    "n2": "affinities",
+    "n3": "the affinity",
+    "n4": "the affinities",
+    "n5": "affinity's",
+    "n6": "affinities'",
+    "n7": "an affinity",
+    "n8": "many affinities"
+}

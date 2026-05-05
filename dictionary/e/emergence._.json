@@ -1,0 +1,18 @@
+{
+    "base": "emergence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "emergence",
+    "n2": "emergences",
+    "n3": "the emergence",
+    "n4": "the emergences",
+    "n5": "emergence's",
+    "n6": "emergences'",
+    "n7": "an emergence",
+    "n8": "many emergences"
+}

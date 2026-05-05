@@ -1,0 +1,18 @@
+{
+    "base": "dogwood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dogwood",
+    "n2": "dogwoods",
+    "n3": "the dogwood",
+    "n4": "the dogwoods",
+    "n5": "dogwood's",
+    "n6": "dogwoods'",
+    "n7": "a dogwood",
+    "n8": "many dogwoods"
+}

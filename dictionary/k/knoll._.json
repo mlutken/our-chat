@@ -1,0 +1,18 @@
+{
+    "base": "knoll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "knoll",
+    "n2": "knolls",
+    "n3": "the knoll",
+    "n4": "the knolls",
+    "n5": "knoll's",
+    "n6": "knolls'",
+    "n7": "a knoll",
+    "n8": "many knolls"
+}

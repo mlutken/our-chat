@@ -1,0 +1,18 @@
+{
+    "base": "low temperature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "low temperature",
+    "n2": "low temperatures",
+    "n3": "the low temperature",
+    "n4": "the low temperatures",
+    "n5": "low temperature's",
+    "n6": "low temperatures'",
+    "n7": "a low temperature",
+    "n8": "many low temperatures"
+}

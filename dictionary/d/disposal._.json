@@ -1,0 +1,18 @@
+{
+    "base": "disposal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "disposal",
+    "n2": "disposals",
+    "n3": "the disposal",
+    "n4": "the disposals",
+    "n5": "disposal's",
+    "n6": "disposals'",
+    "n7": "a disposal",
+    "n8": "many disposals"
+}

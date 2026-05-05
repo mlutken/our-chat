@@ -1,0 +1,18 @@
+{
+    "base": "limb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "limb",
+    "n2": "limbs",
+    "n3": "the limb",
+    "n4": "the limbs",
+    "n5": "limb's",
+    "n6": "limbs'",
+    "n7": "a limb",
+    "n8": "many limbs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aspirant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aspirant",
+    "n2": "aspirants",
+    "n3": "the aspirant",
+    "n4": "the aspirants",
+    "n5": "aspirant's",
+    "n6": "aspirants'",
+    "n7": "an aspirant",
+    "n8": "many aspirants"
+}

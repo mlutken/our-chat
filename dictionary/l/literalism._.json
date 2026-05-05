@@ -1,0 +1,18 @@
+{
+    "base": "literalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "literalism",
+    "n2": "literalisms",
+    "n3": "the literalism",
+    "n4": "the literalisms",
+    "n5": "literalism's",
+    "n6": "literalisms'",
+    "n7": "a literalism",
+    "n8": "many literalisms"
+}

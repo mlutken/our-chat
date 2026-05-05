@@ -1,0 +1,18 @@
+{
+    "base": "topgallant mast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "topgallant mast",
+    "n2": "topgallant masts",
+    "n3": "the topgallant mast",
+    "n4": "the topgallant masts",
+    "n5": "topgallant mast's",
+    "n6": "topgallant masts'",
+    "n7": "a topgallant mast",
+    "n8": "many topgallant masts"
+}

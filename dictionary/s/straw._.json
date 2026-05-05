@@ -1,0 +1,18 @@
+{
+    "base": "straw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "straw",
+    "n2": "straws",
+    "n3": "the straw",
+    "n4": "the straws",
+    "n5": "straw's",
+    "n6": "straws'",
+    "n7": "a straw",
+    "n8": "many straws"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "interdependence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "interdependence",
+    "n2": "interdependences",
+    "n3": "the interdependence",
+    "n4": "the interdependences",
+    "n5": "interdependence's",
+    "n6": "interdependences'",
+    "n7": "an interdependence",
+    "n8": "many interdependences"
+}

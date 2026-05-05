@@ -1,0 +1,18 @@
+{
+    "base": "approval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "approval",
+    "n2": "approvals",
+    "n3": "the approval",
+    "n4": "the approvals",
+    "n5": "approval's",
+    "n6": "approvals'",
+    "n7": "an approval",
+    "n8": "many approvals"
+}

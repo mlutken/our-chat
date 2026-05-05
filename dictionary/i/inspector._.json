@@ -7,5 +7,12 @@
     "n2": "inspectors",
     "n3": "the inspector",
     "n4": "the inspectors",
-    "n5": "inspector's"
+    "n5": "inspector's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "inspectors'",
+    "n7": "an inspector",
+    "n8": "many inspectors"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "quirk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quirk",
+    "n2": "quirks",
+    "n3": "the quirk",
+    "n4": "the quirks",
+    "n5": "quirk's",
+    "n6": "quirks'",
+    "n7": "a quirk",
+    "n8": "many quirks"
+}

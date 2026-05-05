@@ -1,0 +1,18 @@
+{
+    "base": "codification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "codification",
+    "n2": "codifications",
+    "n3": "the codification",
+    "n4": "the codifications",
+    "n5": "codification's",
+    "n6": "codifications'",
+    "n7": "a codification",
+    "n8": "many codifications"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "torpor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "torpor",
+    "n2": "torpors",
+    "n3": "the torpor",
+    "n4": "the torpors",
+    "n5": "torpor's",
+    "n6": "torpors'",
+    "n7": "a torpor",
+    "n8": "many torpors"
+}

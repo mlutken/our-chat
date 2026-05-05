@@ -1,0 +1,18 @@
+{
+    "base": "self-will",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "self-will",
+    "n2": "self-wills",
+    "n3": "the self-will",
+    "n4": "the self-wills",
+    "n5": "self-will's",
+    "n6": "self-wills'",
+    "n7": "a self-will",
+    "n8": "many self-wills"
+}

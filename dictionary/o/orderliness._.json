@@ -1,0 +1,18 @@
+{
+    "base": "orderliness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orderliness",
+    "n2": "orderlinesses",
+    "n3": "the orderliness",
+    "n4": "the orderlinesses",
+    "n5": "orderliness'",
+    "n6": "orderlinesses'",
+    "n7": "an orderliness",
+    "n8": "many orderlinesses"
+}

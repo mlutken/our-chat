@@ -1,0 +1,18 @@
+{
+    "base": "fingerprinting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fingerprinting",
+    "n2": "fingerprintings",
+    "n3": "the fingerprinting",
+    "n4": "the fingerprintings",
+    "n5": "fingerprinting's",
+    "n6": "fingerprintings'",
+    "n7": "a fingerprinting",
+    "n8": "many fingerprintings"
+}

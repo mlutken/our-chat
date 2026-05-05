@@ -1,0 +1,18 @@
+{
+    "base": "cleat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cleat",
+    "n2": "cleats",
+    "n3": "the cleat",
+    "n4": "the cleats",
+    "n5": "cleat's",
+    "n6": "cleats'",
+    "n7": "a cleat",
+    "n8": "many cleats"
+}

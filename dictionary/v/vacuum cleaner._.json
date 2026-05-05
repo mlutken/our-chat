@@ -1,0 +1,18 @@
+{
+    "base": "vacuum cleaner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vacuum cleaner",
+    "n2": "vacuum cleaners",
+    "n3": "the vacuum cleaner",
+    "n4": "the vacuum cleaners",
+    "n5": "vacuum cleaner's",
+    "n6": "vacuum cleaners'",
+    "n7": "a vacuum cleaner",
+    "n8": "many vacuum cleaners"
+}

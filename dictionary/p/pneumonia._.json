@@ -1,0 +1,18 @@
+{
+    "base": "pneumonia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pneumonia",
+    "n2": "pneumonias",
+    "n3": "the pneumonia",
+    "n4": "the pneumonias",
+    "n5": "pneumonia's",
+    "n6": "pneumonias'",
+    "n7": "a pneumonia",
+    "n8": "many pneumonias"
+}

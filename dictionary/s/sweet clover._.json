@@ -1,0 +1,18 @@
+{
+    "base": "sweet clover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "sweet clover",
+    "n2": "sweet clovers",
+    "n3": "the sweet clover",
+    "n4": "the sweet clovers",
+    "n5": "sweet clover's",
+    "n6": "sweet clovers'",
+    "n7": "a sweet clover",
+    "n8": "many sweet clovers"
+}

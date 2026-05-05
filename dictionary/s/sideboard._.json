@@ -1,0 +1,18 @@
+{
+    "base": "sideboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sideboard",
+    "n2": "sideboards",
+    "n3": "the sideboard",
+    "n4": "the sideboards",
+    "n5": "sideboard's",
+    "n6": "sideboards'",
+    "n7": "a sideboard",
+    "n8": "many sideboards"
+}

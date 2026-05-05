@@ -1,0 +1,18 @@
+{
+    "base": "corruption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corruption",
+    "n2": "corruptions",
+    "n3": "the corruption",
+    "n4": "the corruptions",
+    "n5": "corruption's",
+    "n6": "corruptions'",
+    "n7": "a corruption",
+    "n8": "many corruptions"
+}

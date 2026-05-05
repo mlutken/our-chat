@@ -1,0 +1,18 @@
+{
+    "base": "cramp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cramp",
+    "n2": "cramps",
+    "n3": "the cramp",
+    "n4": "the cramps",
+    "n5": "cramp's",
+    "n6": "cramps'",
+    "n7": "a cramp",
+    "n8": "many cramps"
+}

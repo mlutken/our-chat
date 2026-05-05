@@ -1,0 +1,18 @@
+{
+    "base": "cerebellum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cerebellum",
+    "n2": "cerebella",
+    "n3": "the cerebellum",
+    "n4": "the cerebella",
+    "n5": "cerebellum's",
+    "n6": "cerebella's",
+    "n7": "a cerebellum",
+    "n8": "many cerebella"
+}

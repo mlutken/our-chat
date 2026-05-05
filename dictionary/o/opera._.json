@@ -1,0 +1,18 @@
+{
+    "base": "opera",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "opera",
+    "n2": "operas",
+    "n3": "the opera",
+    "n4": "the operas",
+    "n5": "opera's",
+    "n6": "operas'",
+    "n7": "an opera",
+    "n8": "many operas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "picket boat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picket boat",
+    "n2": "picket boats",
+    "n3": "the picket boat",
+    "n4": "the picket boats",
+    "n5": "picket boat's",
+    "n6": "picket boats'",
+    "n7": "a picket boat",
+    "n8": "many picket boats"
+}

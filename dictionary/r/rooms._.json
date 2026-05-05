@@ -1,0 +1,18 @@
+{
+    "base": "rooms",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rooms",
+    "n2": "roomses",
+    "n3": "the rooms",
+    "n4": "the roomses",
+    "n5": "rooms'",
+    "n6": "roomses'",
+    "n7": "a rooms",
+    "n8": "many roomses"
+}

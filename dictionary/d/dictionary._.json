@@ -1,0 +1,18 @@
+{
+    "base": "dictionary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n1": "dictionary",
+    "n2": "dictionaries",
+    "n3": "the dictionary",
+    "n4": "the dictionaries",
+    "n5": "dictionary's",
+    "n6": "dictionaries'",
+    "n7": "a dictionary",
+    "n8": "many dictionaries"
+}

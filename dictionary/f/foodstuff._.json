@@ -1,0 +1,18 @@
+{
+    "base": "foodstuff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foodstuff",
+    "n2": "foodstufves",
+    "n3": "the foodstuff",
+    "n4": "the foodstufves",
+    "n5": "foodstuff's",
+    "n6": "foodstufves'",
+    "n7": "a foodstuff",
+    "n8": "many foodstufves"
+}

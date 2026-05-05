@@ -1,0 +1,18 @@
+{
+    "base": "linden",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "linden",
+    "n2": "lindens",
+    "n3": "the linden",
+    "n4": "the lindens",
+    "n5": "linden's",
+    "n6": "lindens'",
+    "n7": "a linden",
+    "n8": "many lindens"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "battle-ax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "battle-ax",
+    "n2": "battle-axes",
+    "n3": "the battle-ax",
+    "n4": "the battle-axes",
+    "n5": "battle-ax's",
+    "n6": "battle-axes'",
+    "n7": "a battle-ax",
+    "n8": "many battle-axes"
+}

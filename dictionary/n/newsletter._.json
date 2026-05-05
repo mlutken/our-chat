@@ -1,0 +1,18 @@
+{
+    "base": "newsletter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "newsletter",
+    "n2": "newsletters",
+    "n3": "the newsletter",
+    "n4": "the newsletters",
+    "n5": "newsletter's",
+    "n6": "newsletters'",
+    "n7": "a newsletter",
+    "n8": "many newsletters"
+}

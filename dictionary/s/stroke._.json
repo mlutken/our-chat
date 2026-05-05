@@ -1,0 +1,18 @@
+{
+    "base": "stroke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "stroke",
+    "n2": "strokes",
+    "n3": "the stroke",
+    "n4": "the strokes",
+    "n5": "stroke's",
+    "n6": "strokes'",
+    "n7": "a stroke",
+    "n8": "many strokes"
+}

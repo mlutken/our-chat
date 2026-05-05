@@ -1,0 +1,18 @@
+{
+    "base": "nostalgia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nostalgia",
+    "n2": "nostalgias",
+    "n3": "the nostalgia",
+    "n4": "the nostalgias",
+    "n5": "nostalgia's",
+    "n6": "nostalgias'",
+    "n7": "a nostalgia",
+    "n8": "many nostalgias"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "florist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "florist",
+    "n2": "florists",
+    "n3": "the florist",
+    "n4": "the florists",
+    "n5": "florist's",
+    "n6": "florists'",
+    "n7": "a florist",
+    "n8": "many florists"
+}

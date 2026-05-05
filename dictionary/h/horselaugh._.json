@@ -1,0 +1,18 @@
+{
+    "base": "horselaugh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horselaugh",
+    "n2": "horselaughs",
+    "n3": "the horselaugh",
+    "n4": "the horselaughs",
+    "n5": "horselaugh's",
+    "n6": "horselaughs'",
+    "n7": "a horselaugh",
+    "n8": "many horselaughs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "management personnel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "management personnel",
+    "n2": "management personnels",
+    "n3": "the management personnel",
+    "n4": "the management personnels",
+    "n5": "management personnel's",
+    "n6": "management personnels'",
+    "n7": "a management personnel",
+    "n8": "many management personnels"
+}

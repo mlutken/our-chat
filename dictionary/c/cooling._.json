@@ -1,0 +1,18 @@
+{
+    "base": "cooling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "cooling",
+    "n2": "coolings",
+    "n3": "the cooling",
+    "n4": "the coolings",
+    "n5": "cooling's",
+    "n6": "coolings'",
+    "n7": "a cooling",
+    "n8": "many coolings"
+}

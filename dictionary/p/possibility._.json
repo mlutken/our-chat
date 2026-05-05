@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "possibility",
-    "n2": "possibilitys",
+    "n2": "possibilities",
     "n3": "the possibility",
-    "n4": "the possibilitys",
-    "n5": "possibility's"
+    "n4": "the possibilities",
+    "n5": "possibility's",
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n6": "possibilities'",
+    "n7": "a possibility",
+    "n8": "many possibilities"
 }

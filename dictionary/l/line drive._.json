@@ -1,0 +1,18 @@
+{
+    "base": "line drive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "line drive",
+    "n2": "line drives",
+    "n3": "the line drive",
+    "n4": "the line drives",
+    "n5": "line drive's",
+    "n6": "line drives'",
+    "n7": "a line drive",
+    "n8": "many line drives"
+}

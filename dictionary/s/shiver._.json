@@ -1,0 +1,18 @@
+{
+    "base": "shiver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shiver",
+    "n2": "shivers",
+    "n3": "the shiver",
+    "n4": "the shivers",
+    "n5": "shiver's",
+    "n6": "shivers'",
+    "n7": "a shiver",
+    "n8": "many shivers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "expansion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "expansion",
+    "n2": "expansions",
+    "n3": "the expansion",
+    "n4": "the expansions",
+    "n5": "expansion's",
+    "n6": "expansions'",
+    "n7": "an expansion",
+    "n8": "many expansions"
+}

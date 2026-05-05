@@ -1,0 +1,18 @@
+{
+    "base": "bickering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bickering",
+    "n2": "bickerings",
+    "n3": "the bickering",
+    "n4": "the bickerings",
+    "n5": "bickering's",
+    "n6": "bickerings'",
+    "n7": "a bickering",
+    "n8": "many bickerings"
+}

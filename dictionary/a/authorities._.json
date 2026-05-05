@@ -1,0 +1,18 @@
+{
+    "base": "authorities",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "authorities",
+    "n2": "authoritieses",
+    "n3": "the authorities",
+    "n4": "the authoritieses",
+    "n5": "authorities'",
+    "n6": "authoritieses'",
+    "n7": "an authorities",
+    "n8": "many authoritieses"
+}

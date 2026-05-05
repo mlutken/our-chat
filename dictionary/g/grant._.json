@@ -1,0 +1,18 @@
+{
+    "base": "grant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "grant",
+    "n2": "grants",
+    "n3": "the grant",
+    "n4": "the grants",
+    "n5": "grant's",
+    "n6": "grants'",
+    "n7": "a grant",
+    "n8": "many grants"
+}

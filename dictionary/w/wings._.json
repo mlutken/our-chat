@@ -1,0 +1,18 @@
+{
+    "base": "wings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wings",
+    "n2": "wingses",
+    "n3": "the wings",
+    "n4": "the wingses",
+    "n5": "wings'",
+    "n6": "wingses'",
+    "n7": "a wings",
+    "n8": "many wingses"
+}

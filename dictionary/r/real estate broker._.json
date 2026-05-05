@@ -1,0 +1,18 @@
+{
+    "base": "real estate broker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "real estate broker",
+    "n2": "real estate brokers",
+    "n3": "the real estate broker",
+    "n4": "the real estate brokers",
+    "n5": "real estate broker's",
+    "n6": "real estate brokers'",
+    "n7": "a real estate broker",
+    "n8": "many real estate brokers"
+}

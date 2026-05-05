@@ -1,0 +1,18 @@
+{
+    "base": "checkup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "checkup",
+    "n2": "checkups",
+    "n3": "the checkup",
+    "n4": "the checkups",
+    "n5": "checkup's",
+    "n6": "checkups'",
+    "n7": "a checkup",
+    "n8": "many checkups"
+}

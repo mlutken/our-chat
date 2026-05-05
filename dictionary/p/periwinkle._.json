@@ -1,0 +1,18 @@
+{
+    "base": "periwinkle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "periwinkle",
+    "n2": "periwinkles",
+    "n3": "the periwinkle",
+    "n4": "the periwinkles",
+    "n5": "periwinkle's",
+    "n6": "periwinkles'",
+    "n7": "a periwinkle",
+    "n8": "many periwinkles"
+}

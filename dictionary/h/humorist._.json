@@ -1,0 +1,18 @@
+{
+    "base": "humorist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "humorist",
+    "n2": "humorists",
+    "n3": "the humorist",
+    "n4": "the humorists",
+    "n5": "humorist's",
+    "n6": "humorists'",
+    "n7": "a humorist",
+    "n8": "many humorists"
+}

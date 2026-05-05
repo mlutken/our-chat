@@ -7,5 +7,12 @@
     "n2": "capacities",
     "n3": "the capacity",
     "n4": "the capacities",
-    "n5": "capacity's"
+    "n5": "capacity's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "capacities'",
+    "n7": "a capacity",
+    "n8": "many capacities"
 }

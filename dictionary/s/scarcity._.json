@@ -1,0 +1,18 @@
+{
+    "base": "scarcity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scarcity",
+    "n2": "scarcities",
+    "n3": "the scarcity",
+    "n4": "the scarcities",
+    "n5": "scarcity's",
+    "n6": "scarcities'",
+    "n7": "a scarcity",
+    "n8": "many scarcities"
+}

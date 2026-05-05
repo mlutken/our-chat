@@ -1,0 +1,18 @@
+{
+    "base": "poverty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "poverty",
+    "n2": "poverties",
+    "n3": "the poverty",
+    "n4": "the poverties",
+    "n5": "poverty's",
+    "n6": "poverties'",
+    "n7": "a poverty",
+    "n8": "many poverties"
+}

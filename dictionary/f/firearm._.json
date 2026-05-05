@@ -1,0 +1,18 @@
+{
+    "base": "firearm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "firearm",
+    "n2": "firearms",
+    "n3": "the firearm",
+    "n4": "the firearms",
+    "n5": "firearm's",
+    "n6": "firearms'",
+    "n7": "a firearm",
+    "n8": "many firearms"
+}

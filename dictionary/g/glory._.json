@@ -1,0 +1,18 @@
+{
+    "base": "glory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "glory",
+    "n2": "glories",
+    "n3": "the glory",
+    "n4": "the glories",
+    "n5": "glory's",
+    "n6": "glories'",
+    "n7": "a glory",
+    "n8": "many glories"
+}

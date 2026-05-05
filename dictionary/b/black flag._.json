@@ -1,0 +1,18 @@
+{
+    "base": "black flag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "black flag",
+    "n2": "black flags",
+    "n3": "the black flag",
+    "n4": "the black flags",
+    "n5": "black flag's",
+    "n6": "black flags'",
+    "n7": "a black flag",
+    "n8": "many black flags"
+}

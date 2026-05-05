@@ -1,0 +1,18 @@
+{
+    "base": "french horn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "french horn",
+    "n2": "french horns",
+    "n3": "the french horn",
+    "n4": "the french horns",
+    "n5": "french horn's",
+    "n6": "french horns'",
+    "n7": "a french horn",
+    "n8": "many french horns"
+}

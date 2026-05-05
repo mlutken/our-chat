@@ -1,0 +1,18 @@
+{
+    "base": "gymnastics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "gymnastics",
+    "n2": "gymnasticses",
+    "n3": "the gymnastics",
+    "n4": "the gymnasticses",
+    "n5": "gymnastics'",
+    "n6": "gymnasticses'",
+    "n7": "a gymnastics",
+    "n8": "many gymnasticses"
+}

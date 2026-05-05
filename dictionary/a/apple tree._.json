@@ -1,0 +1,18 @@
+{
+    "base": "apple tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "apple tree",
+    "n2": "apple trees",
+    "n3": "the apple tree",
+    "n4": "the apple trees",
+    "n5": "apple tree's",
+    "n6": "apple trees'",
+    "n7": "an apple tree",
+    "n8": "many apple trees"
+}

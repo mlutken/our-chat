@@ -1,0 +1,18 @@
+{
+    "base": "actinometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "actinometer",
+    "n2": "actinometers",
+    "n3": "the actinometer",
+    "n4": "the actinometers",
+    "n5": "actinometer's",
+    "n6": "actinometers'",
+    "n7": "an actinometer",
+    "n8": "many actinometers"
+}

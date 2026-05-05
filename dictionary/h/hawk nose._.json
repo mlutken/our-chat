@@ -1,0 +1,18 @@
+{
+    "base": "hawk nose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hawk nose",
+    "n2": "hawk noses",
+    "n3": "the hawk nose",
+    "n4": "the hawk noses",
+    "n5": "hawk nose's",
+    "n6": "hawk noses'",
+    "n7": "a hawk nose",
+    "n8": "many hawk noses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sirloin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sirloin",
+    "n2": "sirloins",
+    "n3": "the sirloin",
+    "n4": "the sirloins",
+    "n5": "sirloin's",
+    "n6": "sirloins'",
+    "n7": "a sirloin",
+    "n8": "many sirloins"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "amateur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "amateur",
+    "n2": "amateurs",
+    "n3": "the amateur",
+    "n4": "the amateurs",
+    "n5": "amateur's",
+    "n6": "amateurs'",
+    "n7": "an amateur",
+    "n8": "many amateurs"
+}

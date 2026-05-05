@@ -1,0 +1,18 @@
+{
+    "base": "ballplayer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "ballplayer",
+    "n2": "ballplayers",
+    "n3": "the ballplayer",
+    "n4": "the ballplayers",
+    "n5": "ballplayer's",
+    "n6": "ballplayers'",
+    "n7": "a ballplayer",
+    "n8": "many ballplayers"
+}

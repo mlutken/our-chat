@@ -1,0 +1,18 @@
+{
+    "base": "ilk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ilk",
+    "n2": "ilks",
+    "n3": "the ilk",
+    "n4": "the ilks",
+    "n5": "ilk's",
+    "n6": "ilks'",
+    "n7": "an ilk",
+    "n8": "many ilks"
+}

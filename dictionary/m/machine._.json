@@ -7,5 +7,12 @@
     "n2": "machines",
     "n3": "the machine",
     "n4": "the machines",
-    "n5": "machine's"
+    "n5": "machine's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "machines'",
+    "n7": "a machine",
+    "n8": "many machines"
 }

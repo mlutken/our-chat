@@ -1,0 +1,18 @@
+{
+    "base": "fourteen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fourteen",
+    "n2": "fourteens",
+    "n3": "the fourteen",
+    "n4": "the fourteens",
+    "n5": "fourteen's",
+    "n6": "fourteens'",
+    "n7": "a fourteen",
+    "n8": "many fourteens"
+}

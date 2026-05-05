@@ -1,0 +1,18 @@
+{
+    "base": "hawk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hawk",
+    "n2": "hawks",
+    "n3": "the hawk",
+    "n4": "the hawks",
+    "n5": "hawk's",
+    "n6": "hawks'",
+    "n7": "a hawk",
+    "n8": "many hawks"
+}

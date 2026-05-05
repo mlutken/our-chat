@@ -1,0 +1,18 @@
+{
+    "base": "directive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "directive",
+    "n2": "directives",
+    "n3": "the directive",
+    "n4": "the directives",
+    "n5": "directive's",
+    "n6": "directives'",
+    "n7": "a directive",
+    "n8": "many directives"
+}

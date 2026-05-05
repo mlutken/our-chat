@@ -7,5 +7,12 @@
     "n2": "costs",
     "n3": "the cost",
     "n4": "the costs",
-    "n5": "cost's"
+    "n5": "cost's",
+    "proper": false,
+    "commonness": 86,
+    "max_commonness": 6834,
+    "commonness_ge_count": 144,
+    "n6": "costs'",
+    "n7": "a cost",
+    "n8": "many costs"
 }

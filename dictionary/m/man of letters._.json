@@ -1,0 +1,18 @@
+{
+    "base": "man of letters",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "man of letters",
+    "n2": "men of letters",
+    "n3": "the man of letters",
+    "n4": "the men of letters",
+    "n5": "man of letters'",
+    "n6": "men of letters'",
+    "n7": "a man of letters",
+    "n8": "many men of letters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "oyster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oyster",
+    "n2": "oysters",
+    "n3": "the oyster",
+    "n4": "the oysters",
+    "n5": "oyster's",
+    "n6": "oysters'",
+    "n7": "an oyster",
+    "n8": "many oysters"
+}

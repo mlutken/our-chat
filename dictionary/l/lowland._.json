@@ -1,0 +1,18 @@
+{
+    "base": "lowland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lowland",
+    "n2": "lowlands",
+    "n3": "the lowland",
+    "n4": "the lowlands",
+    "n5": "lowland's",
+    "n6": "lowlands'",
+    "n7": "a lowland",
+    "n8": "many lowlands"
+}

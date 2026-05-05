@@ -1,0 +1,18 @@
+{
+    "base": "retreated",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retreated",
+    "n2": "retreateds",
+    "n3": "the retreated",
+    "n4": "the retreateds",
+    "n5": "retreated's",
+    "n6": "retreateds'",
+    "n7": "a retreated",
+    "n8": "many retreateds"
+}

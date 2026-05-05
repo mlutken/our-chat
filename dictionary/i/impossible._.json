@@ -1,0 +1,18 @@
+{
+    "base": "impossible",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impossible",
+    "n2": "impossibles",
+    "n3": "the impossible",
+    "n4": "the impossibles",
+    "n5": "impossible's",
+    "n6": "impossibles'",
+    "n7": "an impossible",
+    "n8": "many impossibles"
+}

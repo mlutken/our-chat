@@ -1,0 +1,18 @@
+{
+    "base": "contour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "contour",
+    "n2": "contours",
+    "n3": "the contour",
+    "n4": "the contours",
+    "n5": "contour's",
+    "n6": "contours'",
+    "n7": "a contour",
+    "n8": "many contours"
+}

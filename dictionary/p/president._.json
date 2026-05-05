@@ -7,5 +7,12 @@
     "n2": "presidents",
     "n3": "the president",
     "n4": "the presidents",
-    "n5": "president's"
+    "n5": "president's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "presidents'",
+    "n7": "a president",
+    "n8": "many presidents"
 }

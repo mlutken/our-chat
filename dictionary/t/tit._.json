@@ -1,0 +1,18 @@
+{
+    "base": "tit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tit",
+    "n2": "tits",
+    "n3": "the tit",
+    "n4": "the tits",
+    "n5": "tit's",
+    "n6": "tits'",
+    "n7": "a tit",
+    "n8": "many tits"
+}

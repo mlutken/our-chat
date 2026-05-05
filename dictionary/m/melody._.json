@@ -1,0 +1,18 @@
+{
+    "base": "melody",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "melody",
+    "n2": "melodies",
+    "n3": "the melody",
+    "n4": "the melodies",
+    "n5": "melody's",
+    "n6": "melodies'",
+    "n7": "a melody",
+    "n8": "many melodies"
+}

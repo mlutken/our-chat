@@ -1,0 +1,18 @@
+{
+    "base": "far east",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "far east",
+    "n2": "far easts",
+    "n3": "the far east",
+    "n4": "the far easts",
+    "n5": "far east's",
+    "n6": "far easts'",
+    "n7": "a far east",
+    "n8": "many far easts"
+}

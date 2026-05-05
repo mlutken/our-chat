@@ -1,0 +1,18 @@
+{
+    "base": "frangipani",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "frangipani",
+    "n2": "frangipanis",
+    "n3": "the frangipani",
+    "n4": "the frangipanis",
+    "n5": "frangipani's",
+    "n6": "frangipanis'",
+    "n7": "a frangipani",
+    "n8": "many frangipanis"
+}

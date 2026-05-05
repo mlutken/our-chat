@@ -1,0 +1,18 @@
+{
+    "base": "handkerchief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "handkerchief",
+    "n2": "handkerchieves",
+    "n3": "the handkerchief",
+    "n4": "the handkerchieves",
+    "n5": "handkerchief's",
+    "n6": "handkerchieves'",
+    "n7": "a handkerchief",
+    "n8": "many handkerchieves"
+}

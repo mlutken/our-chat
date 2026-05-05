@@ -1,0 +1,18 @@
+{
+    "base": "kilometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kilometer",
+    "n2": "kilometers",
+    "n3": "the kilometer",
+    "n4": "the kilometers",
+    "n5": "kilometer's",
+    "n6": "kilometers'",
+    "n7": "a kilometer",
+    "n8": "many kilometers"
+}

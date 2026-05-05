@@ -1,0 +1,18 @@
+{
+    "base": "sacramento",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sacramento",
+    "n2": "sacramentos",
+    "n3": "the sacramento",
+    "n4": "the sacramentos",
+    "n5": "sacramento's",
+    "n6": "sacramentos'",
+    "n7": "a sacramento",
+    "n8": "many sacramentos"
+}

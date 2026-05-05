@@ -1,0 +1,18 @@
+{
+    "base": "east",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "east",
+    "n2": "easts",
+    "n3": "the east",
+    "n4": "the easts",
+    "n5": "east's",
+    "n6": "easts'",
+    "n7": "an east",
+    "n8": "many easts"
+}

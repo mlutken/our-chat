@@ -1,0 +1,18 @@
+{
+    "base": "distributor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "distributor",
+    "n2": "distributors",
+    "n3": "the distributor",
+    "n4": "the distributors",
+    "n5": "distributor's",
+    "n6": "distributors'",
+    "n7": "a distributor",
+    "n8": "many distributors"
+}

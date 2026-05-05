@@ -1,0 +1,18 @@
+{
+    "base": "marker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marker",
+    "n2": "markers",
+    "n3": "the marker",
+    "n4": "the markers",
+    "n5": "marker's",
+    "n6": "markers'",
+    "n7": "a marker",
+    "n8": "many markers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rooftop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rooftop",
+    "n2": "rooftops",
+    "n3": "the rooftop",
+    "n4": "the rooftops",
+    "n5": "rooftop's",
+    "n6": "rooftops'",
+    "n7": "a rooftop",
+    "n8": "many rooftops"
+}

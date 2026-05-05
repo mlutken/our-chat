@@ -1,0 +1,18 @@
+{
+    "base": "assignee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "assignee",
+    "n2": "assignees",
+    "n3": "the assignee",
+    "n4": "the assignees",
+    "n5": "assignee's",
+    "n6": "assignees'",
+    "n7": "an assignee",
+    "n8": "many assignees"
+}

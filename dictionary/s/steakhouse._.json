@@ -1,0 +1,18 @@
+{
+    "base": "steakhouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steakhouse",
+    "n2": "steakhouses",
+    "n3": "the steakhouse",
+    "n4": "the steakhouses",
+    "n5": "steakhouse's",
+    "n6": "steakhouses'",
+    "n7": "a steakhouse",
+    "n8": "many steakhouses"
+}

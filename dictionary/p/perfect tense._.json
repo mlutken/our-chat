@@ -1,0 +1,18 @@
+{
+    "base": "perfect tense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perfect tense",
+    "n2": "perfect tenses",
+    "n3": "the perfect tense",
+    "n4": "the perfect tenses",
+    "n5": "perfect tense's",
+    "n6": "perfect tenses'",
+    "n7": "a perfect tense",
+    "n8": "many perfect tenses"
+}

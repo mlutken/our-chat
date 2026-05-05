@@ -1,0 +1,18 @@
+{
+    "base": "federal court",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "federal court",
+    "n2": "federal courts",
+    "n3": "the federal court",
+    "n4": "the federal courts",
+    "n5": "federal court's",
+    "n6": "federal courts'",
+    "n7": "a federal court",
+    "n8": "many federal courts"
+}

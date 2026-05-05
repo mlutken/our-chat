@@ -1,0 +1,18 @@
+{
+    "base": "pants",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "pants",
+    "n2": "pantses",
+    "n3": "the pants",
+    "n4": "the pantses",
+    "n5": "pants'",
+    "n6": "pantses'",
+    "n7": "a pants",
+    "n8": "many pantses"
+}

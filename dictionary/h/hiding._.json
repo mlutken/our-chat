@@ -1,0 +1,18 @@
+{
+    "base": "hiding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hiding",
+    "n2": "hidings",
+    "n3": "the hiding",
+    "n4": "the hidings",
+    "n5": "hiding's",
+    "n6": "hidings'",
+    "n7": "a hiding",
+    "n8": "many hidings"
+}

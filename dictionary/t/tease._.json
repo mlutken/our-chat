@@ -1,11 +1,24 @@
 {
     "base": "tease",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tease",
     "v2": "teased",
     "v3": "teased",
     "v4": "teasing",
-    "v5": "teases"
+    "v5": "teases",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tease",
+    "n2": "teases",
+    "n3": "the tease",
+    "n4": "the teases",
+    "n5": "tease's",
+    "n6": "teases'",
+    "n7": "a tease",
+    "n8": "many teases"
 }

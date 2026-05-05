@@ -1,0 +1,18 @@
+{
+    "base": "alexander the great",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alexander the great",
+    "n2": "alexander the greats",
+    "n3": "the alexander the great",
+    "n4": "the alexander the greats",
+    "n5": "alexander the great's",
+    "n6": "alexander the greats'",
+    "n7": "an alexander the great",
+    "n8": "many alexander the greats"
+}

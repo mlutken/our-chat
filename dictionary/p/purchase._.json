@@ -13,5 +13,12 @@
     "v2": "purchased",
     "v3": "purchased",
     "v4": "purchasing",
-    "v5": "purchases"
+    "v5": "purchases",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "purchases'",
+    "n7": "a purchase",
+    "n8": "many purchases"
 }

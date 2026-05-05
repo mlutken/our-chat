@@ -1,0 +1,18 @@
+{
+    "base": "pope",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pope",
+    "n2": "popes",
+    "n3": "the pope",
+    "n4": "the popes",
+    "n5": "pope's",
+    "n6": "popes'",
+    "n7": "a pope",
+    "n8": "many popes"
+}

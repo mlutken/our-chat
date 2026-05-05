@@ -1,11 +1,24 @@
 {
     "base": "target",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "target",
     "v2": "targeted",
     "v3": "targeted",
     "v4": "targeting",
-    "v5": "targets"
+    "v5": "targets",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "target",
+    "n2": "targets",
+    "n3": "the target",
+    "n4": "the targets",
+    "n5": "target's",
+    "n6": "targets'",
+    "n7": "a target",
+    "n8": "many targets"
 }

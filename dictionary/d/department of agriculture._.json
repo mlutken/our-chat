@@ -1,0 +1,18 @@
+{
+    "base": "department of agriculture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "department of agriculture",
+    "n2": "department of agricultures",
+    "n3": "the department of agriculture",
+    "n4": "the department of agricultures",
+    "n5": "department of agriculture's",
+    "n6": "department of agricultures'",
+    "n7": "a department of agriculture",
+    "n8": "many department of agricultures"
+}

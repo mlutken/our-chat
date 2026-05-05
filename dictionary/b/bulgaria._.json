@@ -1,0 +1,18 @@
+{
+    "base": "bulgaria",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bulgaria",
+    "n2": "bulgarias",
+    "n3": "the bulgaria",
+    "n4": "the bulgarias",
+    "n5": "bulgaria's",
+    "n6": "bulgarias'",
+    "n7": "a bulgaria",
+    "n8": "many bulgarias"
+}

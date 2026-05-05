@@ -1,0 +1,18 @@
+{
+    "base": "yokel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "yokel",
+    "n2": "yokels",
+    "n3": "the yokel",
+    "n4": "the yokels",
+    "n5": "yokel's",
+    "n6": "yokels'",
+    "n7": "a yokel",
+    "n8": "many yokels"
+}

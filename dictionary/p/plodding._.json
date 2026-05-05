@@ -1,0 +1,18 @@
+{
+    "base": "plodding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plodding",
+    "n2": "ploddings",
+    "n3": "the plodding",
+    "n4": "the ploddings",
+    "n5": "plodding's",
+    "n6": "ploddings'",
+    "n7": "a plodding",
+    "n8": "many ploddings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "monstrosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "monstrosity",
+    "n2": "monstrosities",
+    "n3": "the monstrosity",
+    "n4": "the monstrosities",
+    "n5": "monstrosity's",
+    "n6": "monstrosities'",
+    "n7": "a monstrosity",
+    "n8": "many monstrosities"
+}

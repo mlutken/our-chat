@@ -1,0 +1,18 @@
+{
+    "base": "shaft",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "shaft",
+    "n2": "shafts",
+    "n3": "the shaft",
+    "n4": "the shafts",
+    "n5": "shaft's",
+    "n6": "shafts'",
+    "n7": "a shaft",
+    "n8": "many shafts"
+}

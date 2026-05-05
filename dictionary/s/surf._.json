@@ -1,0 +1,18 @@
+{
+    "base": "surf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "surf",
+    "n2": "surves",
+    "n3": "the surf",
+    "n4": "the surves",
+    "n5": "surf's",
+    "n6": "surves'",
+    "n7": "a surf",
+    "n8": "many surves"
+}

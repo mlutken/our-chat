@@ -1,0 +1,18 @@
+{
+    "base": "anachronism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anachronism",
+    "n2": "anachronisms",
+    "n3": "the anachronism",
+    "n4": "the anachronisms",
+    "n5": "anachronism's",
+    "n6": "anachronisms'",
+    "n7": "an anachronism",
+    "n8": "many anachronisms"
+}

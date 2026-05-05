@@ -1,0 +1,18 @@
+{
+    "base": "excelsior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "excelsior",
+    "n2": "excelsiors",
+    "n3": "the excelsior",
+    "n4": "the excelsiors",
+    "n5": "excelsior's",
+    "n6": "excelsiors'",
+    "n7": "an excelsior",
+    "n8": "many excelsiors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "military vehicle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "military vehicle",
+    "n2": "military vehicles",
+    "n3": "the military vehicle",
+    "n4": "the military vehicles",
+    "n5": "military vehicle's",
+    "n6": "military vehicles'",
+    "n7": "a military vehicle",
+    "n8": "many military vehicles"
+}

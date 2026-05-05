@@ -1,0 +1,18 @@
+{
+    "base": "murmuring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "murmuring",
+    "n2": "murmurings",
+    "n3": "the murmuring",
+    "n4": "the murmurings",
+    "n5": "murmuring's",
+    "n6": "murmurings'",
+    "n7": "a murmuring",
+    "n8": "many murmurings"
+}

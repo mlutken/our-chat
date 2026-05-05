@@ -1,0 +1,18 @@
+{
+    "base": "antiserum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "antiserum",
+    "n2": "antisera",
+    "n3": "the antiserum",
+    "n4": "the antisera",
+    "n5": "antiserum's",
+    "n6": "antisera's",
+    "n7": "an antiserum",
+    "n8": "many antisera"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "crackpot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crackpot",
+    "n2": "crackpots",
+    "n3": "the crackpot",
+    "n4": "the crackpots",
+    "n5": "crackpot's",
+    "n6": "crackpots'",
+    "n7": "a crackpot",
+    "n8": "many crackpots"
+}

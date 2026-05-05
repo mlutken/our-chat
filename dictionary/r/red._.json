@@ -1,9 +1,22 @@
 {
     "base": "red",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "red",
     "adj2": "redder",
-    "adj3": "reddest"
+    "adj3": "reddest",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "red",
+    "n2": "reds",
+    "n3": "the red",
+    "n4": "the reds",
+    "n5": "red's",
+    "n6": "reds'",
+    "n7": "a red",
+    "n8": "many reds"
 }

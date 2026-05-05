@@ -1,0 +1,18 @@
+{
+    "base": "clang",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clang",
+    "n2": "clangs",
+    "n3": "the clang",
+    "n4": "the clangs",
+    "n5": "clang's",
+    "n6": "clangs'",
+    "n7": "a clang",
+    "n8": "many clangs"
+}

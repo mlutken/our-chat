@@ -1,0 +1,18 @@
+{
+    "base": "musket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "musket",
+    "n2": "muskets",
+    "n3": "the musket",
+    "n4": "the muskets",
+    "n5": "musket's",
+    "n6": "muskets'",
+    "n7": "a musket",
+    "n8": "many muskets"
+}

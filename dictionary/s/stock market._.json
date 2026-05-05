@@ -1,0 +1,18 @@
+{
+    "base": "stock market",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "stock market",
+    "n2": "stock markets",
+    "n3": "the stock market",
+    "n4": "the stock markets",
+    "n5": "stock market's",
+    "n6": "stock markets'",
+    "n7": "a stock market",
+    "n8": "many stock markets"
+}

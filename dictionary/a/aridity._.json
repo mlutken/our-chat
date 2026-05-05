@@ -1,0 +1,18 @@
+{
+    "base": "aridity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aridity",
+    "n2": "aridities",
+    "n3": "the aridity",
+    "n4": "the aridities",
+    "n5": "aridity's",
+    "n6": "aridities'",
+    "n7": "an aridity",
+    "n8": "many aridities"
+}

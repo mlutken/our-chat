@@ -1,11 +1,24 @@
 {
     "base": "reserve",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "reserve",
     "v2": "reserved",
     "v3": "reserved",
     "v4": "reserving",
-    "v5": "reserves"
+    "v5": "reserves",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "reserve",
+    "n2": "reserves",
+    "n3": "the reserve",
+    "n4": "the reserves",
+    "n5": "reserve's",
+    "n6": "reserves'",
+    "n7": "a reserve",
+    "n8": "many reserves"
 }

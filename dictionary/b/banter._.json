@@ -1,0 +1,18 @@
+{
+    "base": "banter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "banter",
+    "n2": "banters",
+    "n3": "the banter",
+    "n4": "the banters",
+    "n5": "banter's",
+    "n6": "banters'",
+    "n7": "a banter",
+    "n8": "many banters"
+}

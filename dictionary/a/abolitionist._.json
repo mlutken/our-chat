@@ -1,0 +1,18 @@
+{
+    "base": "abolitionist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abolitionist",
+    "n2": "abolitionists",
+    "n3": "the abolitionist",
+    "n4": "the abolitionists",
+    "n5": "abolitionist's",
+    "n6": "abolitionists'",
+    "n7": "an abolitionist",
+    "n8": "many abolitionists"
+}

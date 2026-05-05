@@ -1,0 +1,18 @@
+{
+    "base": "amazement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "amazement",
+    "n2": "amazements",
+    "n3": "the amazement",
+    "n4": "the amazements",
+    "n5": "amazement's",
+    "n6": "amazements'",
+    "n7": "an amazement",
+    "n8": "many amazements"
+}

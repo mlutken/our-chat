@@ -1,0 +1,18 @@
+{
+    "base": "supreme court",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "supreme court",
+    "n2": "supreme courts",
+    "n3": "the supreme court",
+    "n4": "the supreme courts",
+    "n5": "supreme court's",
+    "n6": "supreme courts'",
+    "n7": "a supreme court",
+    "n8": "many supreme courts"
+}

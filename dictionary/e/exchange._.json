@@ -7,5 +7,12 @@
     "n2": "exchanges",
     "n3": "the exchange",
     "n4": "the exchanges",
-    "n5": "exchange's"
+    "n5": "exchange's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "exchanges'",
+    "n7": "an exchange",
+    "n8": "many exchanges"
 }

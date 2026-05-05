@@ -1,11 +1,24 @@
 {
     "base": "drag",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "drag",
     "v2": "dragged",
     "v3": "dragged",
     "v4": "dragging",
-    "v5": "drags"
+    "v5": "drags",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drag",
+    "n2": "drags",
+    "n3": "the drag",
+    "n4": "the drags",
+    "n5": "drag's",
+    "n6": "drags'",
+    "n7": "a drag",
+    "n8": "many drags"
 }

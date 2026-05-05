@@ -1,0 +1,18 @@
+{
+    "base": "yoga",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yoga",
+    "n2": "yogas",
+    "n3": "the yoga",
+    "n4": "the yogas",
+    "n5": "yoga's",
+    "n6": "yogas'",
+    "n7": "a yoga",
+    "n8": "many yogas"
+}

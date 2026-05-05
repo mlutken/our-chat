@@ -1,0 +1,18 @@
+{
+    "base": "law of nations",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "law of nations",
+    "n2": "law of nationses",
+    "n3": "the law of nations",
+    "n4": "the law of nationses",
+    "n5": "law of nations'",
+    "n6": "law of nationses'",
+    "n7": "a law of nations",
+    "n8": "many law of nationses"
+}

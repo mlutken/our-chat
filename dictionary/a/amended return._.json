@@ -1,0 +1,18 @@
+{
+    "base": "amended return",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "amended return",
+    "n2": "amended returns",
+    "n3": "the amended return",
+    "n4": "the amended returns",
+    "n5": "amended return's",
+    "n6": "amended returns'",
+    "n7": "an amended return",
+    "n8": "many amended returns"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "eagerness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "eagerness",
+    "n2": "eagernesses",
+    "n3": "the eagerness",
+    "n4": "the eagernesses",
+    "n5": "eagerness'",
+    "n6": "eagernesses'",
+    "n7": "an eagerness",
+    "n8": "many eagernesses"
+}

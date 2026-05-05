@@ -1,0 +1,18 @@
+{
+    "base": "pencil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "pencil",
+    "n2": "pencils",
+    "n3": "the pencil",
+    "n4": "the pencils",
+    "n5": "pencil's",
+    "n6": "pencils'",
+    "n7": "a pencil",
+    "n8": "many pencils"
+}

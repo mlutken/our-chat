@@ -1,0 +1,18 @@
+{
+    "base": "bombast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bombast",
+    "n2": "bombasts",
+    "n3": "the bombast",
+    "n4": "the bombasts",
+    "n5": "bombast's",
+    "n6": "bombasts'",
+    "n7": "a bombast",
+    "n8": "many bombasts"
+}

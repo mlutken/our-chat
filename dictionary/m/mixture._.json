@@ -7,5 +7,12 @@
     "n2": "mixtures",
     "n3": "the mixture",
     "n4": "the mixtures",
-    "n5": "mixture's"
+    "n5": "mixture's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "mixtures'",
+    "n7": "a mixture",
+    "n8": "many mixtures"
 }

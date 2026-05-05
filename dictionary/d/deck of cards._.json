@@ -1,0 +1,18 @@
+{
+    "base": "deck of cards",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deck of cards",
+    "n2": "deck of cardses",
+    "n3": "the deck of cards",
+    "n4": "the deck of cardses",
+    "n5": "deck of cards'",
+    "n6": "deck of cardses'",
+    "n7": "a deck of cards",
+    "n8": "many deck of cardses"
+}

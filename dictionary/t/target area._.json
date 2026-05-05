@@ -1,0 +1,18 @@
+{
+    "base": "target area",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "target area",
+    "n2": "target areas",
+    "n3": "the target area",
+    "n4": "the target areas",
+    "n5": "target area's",
+    "n6": "target areas'",
+    "n7": "a target area",
+    "n8": "many target areas"
+}

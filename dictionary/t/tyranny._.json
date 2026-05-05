@@ -1,0 +1,18 @@
+{
+    "base": "tyranny",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tyranny",
+    "n2": "tyrannies",
+    "n3": "the tyranny",
+    "n4": "the tyrannies",
+    "n5": "tyranny's",
+    "n6": "tyrannies'",
+    "n7": "a tyranny",
+    "n8": "many tyrannies"
+}

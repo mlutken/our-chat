@@ -1,0 +1,18 @@
+{
+    "base": "crimson",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crimson",
+    "n2": "crimsons",
+    "n3": "the crimson",
+    "n4": "the crimsons",
+    "n5": "crimson's",
+    "n6": "crimsons'",
+    "n7": "a crimson",
+    "n8": "many crimsons"
+}

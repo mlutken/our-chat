@@ -1,0 +1,18 @@
+{
+    "base": "expulsion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "expulsion",
+    "n2": "expulsions",
+    "n3": "the expulsion",
+    "n4": "the expulsions",
+    "n5": "expulsion's",
+    "n6": "expulsions'",
+    "n7": "an expulsion",
+    "n8": "many expulsions"
+}

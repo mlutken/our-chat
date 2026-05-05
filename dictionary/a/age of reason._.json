@@ -1,0 +1,18 @@
+{
+    "base": "age of reason",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "age of reason",
+    "n2": "age of reasons",
+    "n3": "the age of reason",
+    "n4": "the age of reasons",
+    "n5": "age of reason's",
+    "n6": "age of reasons'",
+    "n7": "an age of reason",
+    "n8": "many age of reasons"
+}

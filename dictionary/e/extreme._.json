@@ -1,0 +1,18 @@
+{
+    "base": "extreme",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "extreme",
+    "n2": "extremes",
+    "n3": "the extreme",
+    "n4": "the extremes",
+    "n5": "extreme's",
+    "n6": "extremes'",
+    "n7": "an extreme",
+    "n8": "many extremes"
+}

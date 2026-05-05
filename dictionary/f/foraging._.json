@@ -1,0 +1,18 @@
+{
+    "base": "foraging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foraging",
+    "n2": "foragings",
+    "n3": "the foraging",
+    "n4": "the foragings",
+    "n5": "foraging's",
+    "n6": "foragings'",
+    "n7": "a foraging",
+    "n8": "many foragings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "image orthicon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "image orthicon",
+    "n2": "image orthicons",
+    "n3": "the image orthicon",
+    "n4": "the image orthicons",
+    "n5": "image orthicon's",
+    "n6": "image orthicons'",
+    "n7": "an image orthicon",
+    "n8": "many image orthicons"
+}

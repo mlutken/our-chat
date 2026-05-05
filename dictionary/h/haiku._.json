@@ -1,0 +1,18 @@
+{
+    "base": "haiku",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "haiku",
+    "n2": "haikus",
+    "n3": "the haiku",
+    "n4": "the haikus",
+    "n5": "haiku's",
+    "n6": "haikus'",
+    "n7": "a haiku",
+    "n8": "many haikus"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "congratulations",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "congratulations",
+    "n2": "congratulationses",
+    "n3": "the congratulations",
+    "n4": "the congratulationses",
+    "n5": "congratulations'",
+    "n6": "congratulationses'",
+    "n7": "a congratulations",
+    "n8": "many congratulationses"
+}

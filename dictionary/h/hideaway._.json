@@ -1,0 +1,18 @@
+{
+    "base": "hideaway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hideaway",
+    "n2": "hideaways",
+    "n3": "the hideaway",
+    "n4": "the hideaways",
+    "n5": "hideaway's",
+    "n6": "hideaways'",
+    "n7": "a hideaway",
+    "n8": "many hideaways"
+}

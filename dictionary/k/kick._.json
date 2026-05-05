@@ -1,11 +1,24 @@
 {
     "base": "kick",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "kick",
     "v2": "kicked",
     "v3": "kicked",
     "v4": "kicking",
-    "v5": "kicks"
+    "v5": "kicks",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "kick",
+    "n2": "kicks",
+    "n3": "the kick",
+    "n4": "the kicks",
+    "n5": "kick's",
+    "n6": "kicks'",
+    "n7": "a kick",
+    "n8": "many kicks"
 }

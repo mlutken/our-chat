@@ -13,5 +13,12 @@
     "n2": "comments",
     "n3": "the comment",
     "n4": "the comments",
-    "n5": "comment's"
+    "n5": "comment's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "comments'",
+    "n7": "a comment",
+    "n8": "many comments"
 }

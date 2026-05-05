@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "efficiency",
-    "n2": "efficiencys",
+    "n2": "efficiencies",
     "n3": "the efficiency",
-    "n4": "the efficiencys",
-    "n5": "efficiency's"
+    "n4": "the efficiencies",
+    "n5": "efficiency's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "efficiencies'",
+    "n7": "an efficiency",
+    "n8": "many efficiencies"
 }

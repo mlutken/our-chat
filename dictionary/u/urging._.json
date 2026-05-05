@@ -1,0 +1,18 @@
+{
+    "base": "urging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "urging",
+    "n2": "urgings",
+    "n3": "the urging",
+    "n4": "the urgings",
+    "n5": "urging's",
+    "n6": "urgings'",
+    "n7": "an urging",
+    "n8": "many urgings"
+}

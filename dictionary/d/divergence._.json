@@ -1,0 +1,18 @@
+{
+    "base": "divergence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "divergence",
+    "n2": "divergences",
+    "n3": "the divergence",
+    "n4": "the divergences",
+    "n5": "divergence's",
+    "n6": "divergences'",
+    "n7": "a divergence",
+    "n8": "many divergences"
+}

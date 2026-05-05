@@ -1,0 +1,18 @@
+{
+    "base": "morocco",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "morocco",
+    "n2": "moroccos",
+    "n3": "the morocco",
+    "n4": "the moroccos",
+    "n5": "morocco's",
+    "n6": "moroccos'",
+    "n7": "a morocco",
+    "n8": "many moroccos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mobcap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mobcap",
+    "n2": "mobcaps",
+    "n3": "the mobcap",
+    "n4": "the mobcaps",
+    "n5": "mobcap's",
+    "n6": "mobcaps'",
+    "n7": "a mobcap",
+    "n8": "many mobcaps"
+}

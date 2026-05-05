@@ -1,0 +1,18 @@
+{
+    "base": "secularism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "secularism",
+    "n2": "secularisms",
+    "n3": "the secularism",
+    "n4": "the secularisms",
+    "n5": "secularism's",
+    "n6": "secularisms'",
+    "n7": "a secularism",
+    "n8": "many secularisms"
+}

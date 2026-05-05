@@ -1,0 +1,18 @@
+{
+    "base": "cambodia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cambodia",
+    "n2": "cambodias",
+    "n3": "the cambodia",
+    "n4": "the cambodias",
+    "n5": "cambodia's",
+    "n6": "cambodias'",
+    "n7": "a cambodia",
+    "n8": "many cambodias"
+}

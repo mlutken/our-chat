@@ -1,0 +1,18 @@
+{
+    "base": "gamecock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gamecock",
+    "n2": "gamecocks",
+    "n3": "the gamecock",
+    "n4": "the gamecocks",
+    "n5": "gamecock's",
+    "n6": "gamecocks'",
+    "n7": "a gamecock",
+    "n8": "many gamecocks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "manhattan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "manhattan",
+    "n2": "manhattans",
+    "n3": "the manhattan",
+    "n4": "the manhattans",
+    "n5": "manhattan's",
+    "n6": "manhattans'",
+    "n7": "a manhattan",
+    "n8": "many manhattans"
+}

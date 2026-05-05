@@ -1,0 +1,18 @@
+{
+    "base": "nicotine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nicotine",
+    "n2": "nicotines",
+    "n3": "the nicotine",
+    "n4": "the nicotines",
+    "n5": "nicotine's",
+    "n6": "nicotines'",
+    "n7": "a nicotine",
+    "n8": "many nicotines"
+}

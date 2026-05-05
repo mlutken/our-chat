@@ -1,0 +1,18 @@
+{
+    "base": "troll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "troll",
+    "n2": "trolls",
+    "n3": "the troll",
+    "n4": "the trolls",
+    "n5": "troll's",
+    "n6": "trolls'",
+    "n7": "a troll",
+    "n8": "many trolls"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "security",
-    "n2": "securitys",
+    "n2": "securities",
     "n3": "the security",
-    "n4": "the securitys",
-    "n5": "security's"
+    "n4": "the securities",
+    "n5": "security's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "securities'",
+    "n7": "a security",
+    "n8": "many securities"
 }

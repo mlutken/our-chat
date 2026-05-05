@@ -1,0 +1,18 @@
+{
+    "base": "weariness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "weariness",
+    "n2": "wearinesses",
+    "n3": "the weariness",
+    "n4": "the wearinesses",
+    "n5": "weariness'",
+    "n6": "wearinesses'",
+    "n7": "a weariness",
+    "n8": "many wearinesses"
+}

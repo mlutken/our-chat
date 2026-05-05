@@ -1,0 +1,18 @@
+{
+    "base": "tavern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tavern",
+    "n2": "taverns",
+    "n3": "the tavern",
+    "n4": "the taverns",
+    "n5": "tavern's",
+    "n6": "taverns'",
+    "n7": "a tavern",
+    "n8": "many taverns"
+}

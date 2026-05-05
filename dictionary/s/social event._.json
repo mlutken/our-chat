@@ -1,0 +1,18 @@
+{
+    "base": "social event",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "social event",
+    "n2": "social events",
+    "n3": "the social event",
+    "n4": "the social events",
+    "n5": "social event's",
+    "n6": "social events'",
+    "n7": "a social event",
+    "n8": "many social events"
+}

@@ -7,5 +7,12 @@
     "n2": "salts",
     "n3": "the salt",
     "n4": "the salts",
-    "n5": "salt's"
+    "n5": "salt's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "salts'",
+    "n7": "a salt",
+    "n8": "many salts"
 }

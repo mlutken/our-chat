@@ -1,0 +1,18 @@
+{
+    "base": "contention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "contention",
+    "n2": "contentions",
+    "n3": "the contention",
+    "n4": "the contentions",
+    "n5": "contention's",
+    "n6": "contentions'",
+    "n7": "a contention",
+    "n8": "many contentions"
+}

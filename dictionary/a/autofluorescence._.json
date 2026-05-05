@@ -1,0 +1,18 @@
+{
+    "base": "autofluorescence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "autofluorescence",
+    "n2": "autofluorescences",
+    "n3": "the autofluorescence",
+    "n4": "the autofluorescences",
+    "n5": "autofluorescence's",
+    "n6": "autofluorescences'",
+    "n7": "an autofluorescence",
+    "n8": "many autofluorescences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "richmond",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "richmond",
+    "n2": "richmonds",
+    "n3": "the richmond",
+    "n4": "the richmonds",
+    "n5": "richmond's",
+    "n6": "richmonds'",
+    "n7": "a richmond",
+    "n8": "many richmonds"
+}

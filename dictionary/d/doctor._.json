@@ -7,5 +7,12 @@
     "n2": "doctors",
     "n3": "the doctor",
     "n4": "the doctors",
-    "n5": "doctor's"
+    "n5": "doctor's",
+    "proper": false,
+    "commonness": 75,
+    "max_commonness": 6834,
+    "commonness_ge_count": 182,
+    "n6": "doctors'",
+    "n7": "a doctor",
+    "n8": "many doctors"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "no-goal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "no-goal",
+    "n2": "no-goals",
+    "n3": "the no-goal",
+    "n4": "the no-goals",
+    "n5": "no-goal's",
+    "n6": "no-goals'",
+    "n7": "a no-goal",
+    "n8": "many no-goals"
+}

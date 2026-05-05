@@ -1,0 +1,18 @@
+{
+    "base": "ripening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ripening",
+    "n2": "ripenings",
+    "n3": "the ripening",
+    "n4": "the ripenings",
+    "n5": "ripening's",
+    "n6": "ripenings'",
+    "n7": "a ripening",
+    "n8": "many ripenings"
+}

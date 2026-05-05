@@ -7,5 +7,12 @@
     "n2": "advantages",
     "n3": "the advantage",
     "n4": "the advantages",
-    "n5": "advantage's"
+    "n5": "advantage's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "advantages'",
+    "n7": "an advantage",
+    "n8": "many advantages"
 }

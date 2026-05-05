@@ -7,5 +7,12 @@
     "n2": "fruits",
     "n3": "the fruit",
     "n4": "the fruits",
-    "n5": "fruit's"
+    "n5": "fruit's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "fruits'",
+    "n7": "a fruit",
+    "n8": "many fruits"
 }

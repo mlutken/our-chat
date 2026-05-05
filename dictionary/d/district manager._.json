@@ -1,0 +1,18 @@
+{
+    "base": "district manager",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "district manager",
+    "n2": "district managers",
+    "n3": "the district manager",
+    "n4": "the district managers",
+    "n5": "district manager's",
+    "n6": "district managers'",
+    "n7": "a district manager",
+    "n8": "many district managers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "isocyanate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "isocyanate",
+    "n2": "isocyanates",
+    "n3": "the isocyanate",
+    "n4": "the isocyanates",
+    "n5": "isocyanate's",
+    "n6": "isocyanates'",
+    "n7": "an isocyanate",
+    "n8": "many isocyanates"
+}

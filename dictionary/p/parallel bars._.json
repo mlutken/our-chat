@@ -1,0 +1,18 @@
+{
+    "base": "parallel bars",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parallel bars",
+    "n2": "parallel barses",
+    "n3": "the parallel bars",
+    "n4": "the parallel barses",
+    "n5": "parallel bars'",
+    "n6": "parallel barses'",
+    "n7": "a parallel bars",
+    "n8": "many parallel barses"
+}

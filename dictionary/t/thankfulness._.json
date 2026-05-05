@@ -1,0 +1,18 @@
+{
+    "base": "thankfulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thankfulness",
+    "n2": "thankfulnesses",
+    "n3": "the thankfulness",
+    "n4": "the thankfulnesses",
+    "n5": "thankfulness'",
+    "n6": "thankfulnesses'",
+    "n7": "a thankfulness",
+    "n8": "many thankfulnesses"
+}

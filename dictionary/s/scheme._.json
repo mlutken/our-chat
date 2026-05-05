@@ -1,0 +1,18 @@
+{
+    "base": "scheme",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "scheme",
+    "n2": "schemes",
+    "n3": "the scheme",
+    "n4": "the schemes",
+    "n5": "scheme's",
+    "n6": "schemes'",
+    "n7": "a scheme",
+    "n8": "many schemes"
+}

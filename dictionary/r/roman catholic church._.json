@@ -1,0 +1,18 @@
+{
+    "base": "roman catholic church",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "roman catholic church",
+    "n2": "roman catholic churches",
+    "n3": "the roman catholic church",
+    "n4": "the roman catholic churches",
+    "n5": "roman catholic church's",
+    "n6": "roman catholic churches'",
+    "n7": "a roman catholic church",
+    "n8": "many roman catholic churches"
+}

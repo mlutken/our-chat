@@ -1,0 +1,18 @@
+{
+    "base": "hacker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hacker",
+    "n2": "hackers",
+    "n3": "the hacker",
+    "n4": "the hackers",
+    "n5": "hacker's",
+    "n6": "hackers'",
+    "n7": "a hacker",
+    "n8": "many hackers"
+}

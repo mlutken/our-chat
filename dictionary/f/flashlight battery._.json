@@ -1,0 +1,18 @@
+{
+    "base": "flashlight battery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flashlight battery",
+    "n2": "flashlight batteries",
+    "n3": "the flashlight battery",
+    "n4": "the flashlight batteries",
+    "n5": "flashlight battery's",
+    "n6": "flashlight batteries'",
+    "n7": "a flashlight battery",
+    "n8": "many flashlight batteries"
+}

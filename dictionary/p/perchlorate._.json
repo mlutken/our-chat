@@ -1,0 +1,18 @@
+{
+    "base": "perchlorate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perchlorate",
+    "n2": "perchlorates",
+    "n3": "the perchlorate",
+    "n4": "the perchlorates",
+    "n5": "perchlorate's",
+    "n6": "perchlorates'",
+    "n7": "a perchlorate",
+    "n8": "many perchlorates"
+}

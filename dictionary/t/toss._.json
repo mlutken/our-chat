@@ -1,0 +1,18 @@
+{
+    "base": "toss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "toss",
+    "n2": "tosses",
+    "n3": "the toss",
+    "n4": "the tosses",
+    "n5": "toss'",
+    "n6": "tosses'",
+    "n7": "a toss",
+    "n8": "many tosses"
+}

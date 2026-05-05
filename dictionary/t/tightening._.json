@@ -1,0 +1,18 @@
+{
+    "base": "tightening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tightening",
+    "n2": "tightenings",
+    "n3": "the tightening",
+    "n4": "the tightenings",
+    "n5": "tightening's",
+    "n6": "tightenings'",
+    "n7": "a tightening",
+    "n8": "many tightenings"
+}

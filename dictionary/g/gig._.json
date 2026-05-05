@@ -1,0 +1,18 @@
+{
+    "base": "gig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gig",
+    "n2": "gigs",
+    "n3": "the gig",
+    "n4": "the gigs",
+    "n5": "gig's",
+    "n6": "gigs'",
+    "n7": "a gig",
+    "n8": "many gigs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "airflow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "airflow",
+    "n2": "airflows",
+    "n3": "the airflow",
+    "n4": "the airflows",
+    "n5": "airflow's",
+    "n6": "airflows'",
+    "n7": "an airflow",
+    "n8": "many airflows"
+}

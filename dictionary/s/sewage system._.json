@@ -1,0 +1,18 @@
+{
+    "base": "sewage system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sewage system",
+    "n2": "sewage systems",
+    "n3": "the sewage system",
+    "n4": "the sewage systems",
+    "n5": "sewage system's",
+    "n6": "sewage systems'",
+    "n7": "a sewage system",
+    "n8": "many sewage systems"
+}

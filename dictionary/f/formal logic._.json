@@ -1,0 +1,18 @@
+{
+    "base": "formal logic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "formal logic",
+    "n2": "formal logics",
+    "n3": "the formal logic",
+    "n4": "the formal logics",
+    "n5": "formal logic's",
+    "n6": "formal logics'",
+    "n7": "a formal logic",
+    "n8": "many formal logics"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "guessing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guessing",
+    "n2": "guessings",
+    "n3": "the guessing",
+    "n4": "the guessings",
+    "n5": "guessing's",
+    "n6": "guessings'",
+    "n7": "a guessing",
+    "n8": "many guessings"
+}

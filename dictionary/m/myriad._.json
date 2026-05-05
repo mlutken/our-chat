@@ -1,0 +1,18 @@
+{
+    "base": "myriad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "myriad",
+    "n2": "myriads",
+    "n3": "the myriad",
+    "n4": "the myriads",
+    "n5": "myriad's",
+    "n6": "myriads'",
+    "n7": "a myriad",
+    "n8": "many myriads"
+}

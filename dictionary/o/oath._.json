@@ -1,0 +1,18 @@
+{
+    "base": "oath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "oath",
+    "n2": "oaths",
+    "n3": "the oath",
+    "n4": "the oaths",
+    "n5": "oath's",
+    "n6": "oaths'",
+    "n7": "an oath",
+    "n8": "many oaths"
+}

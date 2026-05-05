@@ -1,11 +1,24 @@
 {
     "base": "battle",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "battle",
     "v2": "battled",
     "v3": "battled",
     "v4": "battling",
-    "v5": "battles"
+    "v5": "battles",
+    "proper": false,
+    "commonness": 81,
+    "max_commonness": 6834,
+    "commonness_ge_count": 162,
+    "n1": "battle",
+    "n2": "battles",
+    "n3": "the battle",
+    "n4": "the battles",
+    "n5": "battle's",
+    "n6": "battles'",
+    "n7": "a battle",
+    "n8": "many battles"
 }

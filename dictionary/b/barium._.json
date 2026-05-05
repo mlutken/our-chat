@@ -1,0 +1,18 @@
+{
+    "base": "barium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barium",
+    "n2": "bariums",
+    "n3": "the barium",
+    "n4": "the bariums",
+    "n5": "barium's",
+    "n6": "bariums'",
+    "n7": "a barium",
+    "n8": "many bariums"
+}

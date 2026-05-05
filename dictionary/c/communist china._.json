@@ -1,0 +1,18 @@
+{
+    "base": "communist china",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "communist china",
+    "n2": "communist chinas",
+    "n3": "the communist china",
+    "n4": "the communist chinas",
+    "n5": "communist china's",
+    "n6": "communist chinas'",
+    "n7": "a communist china",
+    "n8": "many communist chinas"
+}

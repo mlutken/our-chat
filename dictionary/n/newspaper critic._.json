@@ -1,0 +1,18 @@
+{
+    "base": "newspaper critic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "newspaper critic",
+    "n2": "newspaper critics",
+    "n3": "the newspaper critic",
+    "n4": "the newspaper critics",
+    "n5": "newspaper critic's",
+    "n6": "newspaper critics'",
+    "n7": "a newspaper critic",
+    "n8": "many newspaper critics"
+}

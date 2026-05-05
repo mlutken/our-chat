@@ -1,0 +1,18 @@
+{
+    "base": "advisor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "advisor",
+    "n2": "advisors",
+    "n3": "the advisor",
+    "n4": "the advisors",
+    "n5": "advisor's",
+    "n6": "advisors'",
+    "n7": "an advisor",
+    "n8": "many advisors"
+}

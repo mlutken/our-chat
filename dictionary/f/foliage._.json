@@ -1,0 +1,18 @@
+{
+    "base": "foliage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "foliage",
+    "n2": "foliages",
+    "n3": "the foliage",
+    "n4": "the foliages",
+    "n5": "foliage's",
+    "n6": "foliages'",
+    "n7": "a foliage",
+    "n8": "many foliages"
+}

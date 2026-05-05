@@ -1,0 +1,18 @@
+{
+    "base": "uneasiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "uneasiness",
+    "n2": "uneasinesses",
+    "n3": "the uneasiness",
+    "n4": "the uneasinesses",
+    "n5": "uneasiness'",
+    "n6": "uneasinesses'",
+    "n7": "an uneasiness",
+    "n8": "many uneasinesses"
+}

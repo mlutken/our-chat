@@ -1,0 +1,18 @@
+{
+    "base": "righteousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "righteousness",
+    "n2": "righteousnesses",
+    "n3": "the righteousness",
+    "n4": "the righteousnesses",
+    "n5": "righteousness'",
+    "n6": "righteousnesses'",
+    "n7": "a righteousness",
+    "n8": "many righteousnesses"
+}

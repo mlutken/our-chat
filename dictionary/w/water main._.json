@@ -1,0 +1,18 @@
+{
+    "base": "water main",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water main",
+    "n2": "water mains",
+    "n3": "the water main",
+    "n4": "the water mains",
+    "n5": "water main's",
+    "n6": "water mains'",
+    "n7": "a water main",
+    "n8": "many water mains"
+}

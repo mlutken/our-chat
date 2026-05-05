@@ -1,0 +1,18 @@
+{
+    "base": "indecision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "indecision",
+    "n2": "indecisions",
+    "n3": "the indecision",
+    "n4": "the indecisions",
+    "n5": "indecision's",
+    "n6": "indecisions'",
+    "n7": "an indecision",
+    "n8": "many indecisions"
+}

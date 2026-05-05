@@ -1,0 +1,18 @@
+{
+    "base": "outfit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "outfit",
+    "n2": "outfits",
+    "n3": "the outfit",
+    "n4": "the outfits",
+    "n5": "outfit's",
+    "n6": "outfits'",
+    "n7": "an outfit",
+    "n8": "many outfits"
+}

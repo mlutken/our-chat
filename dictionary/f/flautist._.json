@@ -1,0 +1,18 @@
+{
+    "base": "flautist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flautist",
+    "n2": "flautists",
+    "n3": "the flautist",
+    "n4": "the flautists",
+    "n5": "flautist's",
+    "n6": "flautists'",
+    "n7": "a flautist",
+    "n8": "many flautists"
+}

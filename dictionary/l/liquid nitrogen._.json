@@ -1,0 +1,18 @@
+{
+    "base": "liquid nitrogen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "liquid nitrogen",
+    "n2": "liquid nitrogens",
+    "n3": "the liquid nitrogen",
+    "n4": "the liquid nitrogens",
+    "n5": "liquid nitrogen's",
+    "n6": "liquid nitrogens'",
+    "n7": "a liquid nitrogen",
+    "n8": "many liquid nitrogens"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gentian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gentian",
+    "n2": "gentians",
+    "n3": "the gentian",
+    "n4": "the gentians",
+    "n5": "gentian's",
+    "n6": "gentians'",
+    "n7": "a gentian",
+    "n8": "many gentians"
+}

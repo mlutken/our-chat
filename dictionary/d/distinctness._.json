@@ -1,0 +1,18 @@
+{
+    "base": "distinctness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "distinctness",
+    "n2": "distinctnesses",
+    "n3": "the distinctness",
+    "n4": "the distinctnesses",
+    "n5": "distinctness'",
+    "n6": "distinctnesses'",
+    "n7": "a distinctness",
+    "n8": "many distinctnesses"
+}

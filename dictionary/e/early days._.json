@@ -1,0 +1,18 @@
+{
+    "base": "early days",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "early days",
+    "n2": "early dayses",
+    "n3": "the early days",
+    "n4": "the early dayses",
+    "n5": "early days'",
+    "n6": "early dayses'",
+    "n7": "an early days",
+    "n8": "many early dayses"
+}

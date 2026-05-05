@@ -7,5 +7,12 @@
     "n2": "visions",
     "n3": "the vision",
     "n4": "the visions",
-    "n5": "vision's"
+    "n5": "vision's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "visions'",
+    "n7": "a vision",
+    "n8": "many visions"
 }

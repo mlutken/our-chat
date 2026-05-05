@@ -1,0 +1,18 @@
+{
+    "base": "dirge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dirge",
+    "n2": "dirges",
+    "n3": "the dirge",
+    "n4": "the dirges",
+    "n5": "dirge's",
+    "n6": "dirges'",
+    "n7": "a dirge",
+    "n8": "many dirges"
+}

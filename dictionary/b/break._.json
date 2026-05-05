@@ -1,11 +1,24 @@
 {
     "base": "break",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "break",
     "v2": "broke",
     "v3": "broken",
     "v4": "breaking",
-    "v5": "breaks"
+    "v5": "breaks",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "break",
+    "n2": "breaks",
+    "n3": "the break",
+    "n4": "the breaks",
+    "n5": "break's",
+    "n6": "breaks'",
+    "n7": "a break",
+    "n8": "many breaks"
 }

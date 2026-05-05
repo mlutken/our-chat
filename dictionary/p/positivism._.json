@@ -1,0 +1,18 @@
+{
+    "base": "positivism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "positivism",
+    "n2": "positivisms",
+    "n3": "the positivism",
+    "n4": "the positivisms",
+    "n5": "positivism's",
+    "n6": "positivisms'",
+    "n7": "a positivism",
+    "n8": "many positivisms"
+}

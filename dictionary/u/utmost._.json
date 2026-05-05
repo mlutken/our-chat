@@ -1,0 +1,18 @@
+{
+    "base": "utmost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "utmost",
+    "n2": "utmosts",
+    "n3": "the utmost",
+    "n4": "the utmosts",
+    "n5": "utmost's",
+    "n6": "utmosts'",
+    "n7": "an utmost",
+    "n8": "many utmosts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reader",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "reader",
+    "n2": "readers",
+    "n3": "the reader",
+    "n4": "the readers",
+    "n5": "reader's",
+    "n6": "readers'",
+    "n7": "a reader",
+    "n8": "many readers"
+}

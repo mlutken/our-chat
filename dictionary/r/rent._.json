@@ -1,0 +1,18 @@
+{
+    "base": "rent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "rent",
+    "n2": "rents",
+    "n3": "the rent",
+    "n4": "the rents",
+    "n5": "rent's",
+    "n6": "rents'",
+    "n7": "a rent",
+    "n8": "many rents"
+}

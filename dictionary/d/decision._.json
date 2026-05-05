@@ -7,5 +7,12 @@
     "n2": "decisions",
     "n3": "the decision",
     "n4": "the decisions",
-    "n5": "decision's"
+    "n5": "decision's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "decisions'",
+    "n7": "a decision",
+    "n8": "many decisions"
 }

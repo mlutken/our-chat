@@ -1,0 +1,18 @@
+{
+    "base": "twisting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "twisting",
+    "n2": "twistings",
+    "n3": "the twisting",
+    "n4": "the twistings",
+    "n5": "twisting's",
+    "n6": "twistings'",
+    "n7": "a twisting",
+    "n8": "many twistings"
+}

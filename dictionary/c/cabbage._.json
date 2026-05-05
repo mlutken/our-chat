@@ -1,0 +1,18 @@
+{
+    "base": "cabbage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cabbage",
+    "n2": "cabbages",
+    "n3": "the cabbage",
+    "n4": "the cabbages",
+    "n5": "cabbage's",
+    "n6": "cabbages'",
+    "n7": "a cabbage",
+    "n8": "many cabbages"
+}

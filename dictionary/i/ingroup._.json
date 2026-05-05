@@ -1,0 +1,18 @@
+{
+    "base": "ingroup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ingroup",
+    "n2": "ingroups",
+    "n3": "the ingroup",
+    "n4": "the ingroups",
+    "n5": "ingroup's",
+    "n6": "ingroups'",
+    "n7": "an ingroup",
+    "n8": "many ingroups"
+}

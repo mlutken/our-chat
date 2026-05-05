@@ -1,0 +1,18 @@
+{
+    "base": "harbor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "harbor",
+    "n2": "harbors",
+    "n3": "the harbor",
+    "n4": "the harbors",
+    "n5": "harbor's",
+    "n6": "harbors'",
+    "n7": "a harbor",
+    "n8": "many harbors"
+}

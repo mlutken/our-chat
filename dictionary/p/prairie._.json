@@ -1,0 +1,18 @@
+{
+    "base": "prairie",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prairie",
+    "n2": "prairies",
+    "n3": "the prairie",
+    "n4": "the prairies",
+    "n5": "prairie's",
+    "n6": "prairies'",
+    "n7": "a prairie",
+    "n8": "many prairies"
+}

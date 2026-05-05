@@ -1,0 +1,18 @@
+{
+    "base": "enrollee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enrollee",
+    "n2": "enrollees",
+    "n3": "the enrollee",
+    "n4": "the enrollees",
+    "n5": "enrollee's",
+    "n6": "enrollees'",
+    "n7": "an enrollee",
+    "n8": "many enrollees"
+}

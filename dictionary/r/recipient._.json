@@ -1,0 +1,18 @@
+{
+    "base": "recipient",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "recipient",
+    "n2": "recipients",
+    "n3": "the recipient",
+    "n4": "the recipients",
+    "n5": "recipient's",
+    "n6": "recipients'",
+    "n7": "a recipient",
+    "n8": "many recipients"
+}

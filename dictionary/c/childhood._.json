@@ -7,5 +7,12 @@
     "n2": "childhoods",
     "n3": "the childhood",
     "n4": "the childhoods",
-    "n5": "childhood's"
+    "n5": "childhood's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "childhoods'",
+    "n7": "a childhood",
+    "n8": "many childhoods"
 }

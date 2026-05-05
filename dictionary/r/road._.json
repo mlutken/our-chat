@@ -7,5 +7,12 @@
     "n2": "roads",
     "n3": "the road",
     "n4": "the roads",
-    "n5": "road's"
+    "n5": "road's",
+    "proper": false,
+    "commonness": 96,
+    "max_commonness": 6834,
+    "commonness_ge_count": 128,
+    "n6": "roads'",
+    "n7": "a road",
+    "n8": "many roads"
 }

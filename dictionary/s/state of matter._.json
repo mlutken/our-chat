@@ -1,0 +1,18 @@
+{
+    "base": "state of matter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "state of matter",
+    "n2": "state of matters",
+    "n3": "the state of matter",
+    "n4": "the state of matters",
+    "n5": "state of matter's",
+    "n6": "state of matters'",
+    "n7": "a state of matter",
+    "n8": "many state of matters"
+}

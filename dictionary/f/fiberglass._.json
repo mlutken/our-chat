@@ -1,0 +1,18 @@
+{
+    "base": "fiberglass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fiberglass",
+    "n2": "fiberglasses",
+    "n3": "the fiberglass",
+    "n4": "the fiberglasses",
+    "n5": "fiberglass'",
+    "n6": "fiberglasses'",
+    "n7": "a fiberglass",
+    "n8": "many fiberglasses"
+}

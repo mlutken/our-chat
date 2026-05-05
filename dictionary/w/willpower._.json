@@ -1,0 +1,18 @@
+{
+    "base": "willpower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "willpower",
+    "n2": "willpowers",
+    "n3": "the willpower",
+    "n4": "the willpowers",
+    "n5": "willpower's",
+    "n6": "willpowers'",
+    "n7": "a willpower",
+    "n8": "many willpowers"
+}

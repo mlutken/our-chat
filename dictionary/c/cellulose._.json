@@ -1,0 +1,18 @@
+{
+    "base": "cellulose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "cellulose",
+    "n2": "celluloses",
+    "n3": "the cellulose",
+    "n4": "the celluloses",
+    "n5": "cellulose's",
+    "n6": "celluloses'",
+    "n7": "a cellulose",
+    "n8": "many celluloses"
+}

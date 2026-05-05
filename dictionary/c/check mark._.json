@@ -1,0 +1,18 @@
+{
+    "base": "check mark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "check mark",
+    "n2": "check marks",
+    "n3": "the check mark",
+    "n4": "the check marks",
+    "n5": "check mark's",
+    "n6": "check marks'",
+    "n7": "a check mark",
+    "n8": "many check marks"
+}

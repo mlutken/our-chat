@@ -1,0 +1,18 @@
+{
+    "base": "candour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "candour",
+    "n2": "candours",
+    "n3": "the candour",
+    "n4": "the candours",
+    "n5": "candour's",
+    "n6": "candours'",
+    "n7": "a candour",
+    "n8": "many candours"
+}

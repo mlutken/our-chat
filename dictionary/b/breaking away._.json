@@ -1,0 +1,18 @@
+{
+    "base": "breaking away",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "breaking away",
+    "n2": "breaking aways",
+    "n3": "the breaking away",
+    "n4": "the breaking aways",
+    "n5": "breaking away's",
+    "n6": "breaking aways'",
+    "n7": "a breaking away",
+    "n8": "many breaking aways"
+}

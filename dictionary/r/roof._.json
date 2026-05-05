@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "roof",
-    "n2": "roofs",
+    "n2": "rooves",
     "n3": "the roof",
-    "n4": "the roofs",
-    "n5": "roof's"
+    "n4": "the rooves",
+    "n5": "roof's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "rooves'",
+    "n7": "a roof",
+    "n8": "many rooves"
 }

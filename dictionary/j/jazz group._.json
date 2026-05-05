@@ -1,0 +1,18 @@
+{
+    "base": "jazz group",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jazz group",
+    "n2": "jazz groups",
+    "n3": "the jazz group",
+    "n4": "the jazz groups",
+    "n5": "jazz group's",
+    "n6": "jazz groups'",
+    "n7": "a jazz group",
+    "n8": "many jazz groups"
+}

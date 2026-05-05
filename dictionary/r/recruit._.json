@@ -1,0 +1,18 @@
+{
+    "base": "recruit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "recruit",
+    "n2": "recruits",
+    "n3": "the recruit",
+    "n4": "the recruits",
+    "n5": "recruit's",
+    "n6": "recruits'",
+    "n7": "a recruit",
+    "n8": "many recruits"
+}

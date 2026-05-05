@@ -1,0 +1,18 @@
+{
+    "base": "biceps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "biceps",
+    "n2": "bicepses",
+    "n3": "the biceps",
+    "n4": "the bicepses",
+    "n5": "biceps'",
+    "n6": "bicepses'",
+    "n7": "a biceps",
+    "n8": "many bicepses"
+}

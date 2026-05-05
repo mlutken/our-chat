@@ -1,0 +1,18 @@
+{
+    "base": "adulterer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "adulterer",
+    "n2": "adulterers",
+    "n3": "the adulterer",
+    "n4": "the adulterers",
+    "n5": "adulterer's",
+    "n6": "adulterers'",
+    "n7": "an adulterer",
+    "n8": "many adulterers"
+}

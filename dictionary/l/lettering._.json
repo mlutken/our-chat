@@ -1,0 +1,18 @@
+{
+    "base": "lettering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "lettering",
+    "n2": "letterings",
+    "n3": "the lettering",
+    "n4": "the letterings",
+    "n5": "lettering's",
+    "n6": "letterings'",
+    "n7": "a lettering",
+    "n8": "many letterings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pupil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "pupil",
+    "n2": "pupils",
+    "n3": "the pupil",
+    "n4": "the pupils",
+    "n5": "pupil's",
+    "n6": "pupils'",
+    "n7": "a pupil",
+    "n8": "many pupils"
+}

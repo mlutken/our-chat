@@ -1,0 +1,18 @@
+{
+    "base": "peace of mind",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peace of mind",
+    "n2": "peace of minds",
+    "n3": "the peace of mind",
+    "n4": "the peace of minds",
+    "n5": "peace of mind's",
+    "n6": "peace of minds'",
+    "n7": "a peace of mind",
+    "n8": "many peace of minds"
+}

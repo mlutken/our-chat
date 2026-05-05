@@ -7,5 +7,12 @@
     "n2": "instances",
     "n3": "the instance",
     "n4": "the instances",
-    "n5": "instance's"
+    "n5": "instance's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "instances'",
+    "n7": "an instance",
+    "n8": "many instances"
 }

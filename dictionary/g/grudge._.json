@@ -1,0 +1,18 @@
+{
+    "base": "grudge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "grudge",
+    "n2": "grudges",
+    "n3": "the grudge",
+    "n4": "the grudges",
+    "n5": "grudge's",
+    "n6": "grudges'",
+    "n7": "a grudge",
+    "n8": "many grudges"
+}

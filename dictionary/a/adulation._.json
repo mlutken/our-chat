@@ -1,0 +1,18 @@
+{
+    "base": "adulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adulation",
+    "n2": "adulations",
+    "n3": "the adulation",
+    "n4": "the adulations",
+    "n5": "adulation's",
+    "n6": "adulations'",
+    "n7": "an adulation",
+    "n8": "many adulations"
+}

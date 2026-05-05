@@ -1,0 +1,18 @@
+{
+    "base": "holder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "holder",
+    "n2": "holders",
+    "n3": "the holder",
+    "n4": "the holders",
+    "n5": "holder's",
+    "n6": "holders'",
+    "n7": "a holder",
+    "n8": "many holders"
+}

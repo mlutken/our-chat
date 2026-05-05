@@ -1,0 +1,18 @@
+{
+    "base": "southwest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "southwest",
+    "n2": "southwests",
+    "n3": "the southwest",
+    "n4": "the southwests",
+    "n5": "southwest's",
+    "n6": "southwests'",
+    "n7": "a southwest",
+    "n8": "many southwests"
+}

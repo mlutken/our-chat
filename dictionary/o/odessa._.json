@@ -1,0 +1,18 @@
+{
+    "base": "odessa",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "odessa",
+    "n2": "odessas",
+    "n3": "the odessa",
+    "n4": "the odessas",
+    "n5": "odessa's",
+    "n6": "odessas'",
+    "n7": "an odessa",
+    "n8": "many odessas"
+}

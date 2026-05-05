@@ -1,0 +1,18 @@
+{
+    "base": "uniformity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "uniformity",
+    "n2": "uniformities",
+    "n3": "the uniformity",
+    "n4": "the uniformities",
+    "n5": "uniformity's",
+    "n6": "uniformities'",
+    "n7": "a uniformity",
+    "n8": "many uniformities"
+}

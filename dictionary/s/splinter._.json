@@ -1,0 +1,18 @@
+{
+    "base": "splinter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "splinter",
+    "n2": "splinters",
+    "n3": "the splinter",
+    "n4": "the splinters",
+    "n5": "splinter's",
+    "n6": "splinters'",
+    "n7": "a splinter",
+    "n8": "many splinters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "atom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "atom",
+    "n2": "atoms",
+    "n3": "the atom",
+    "n4": "the atoms",
+    "n5": "atom's",
+    "n6": "atoms'",
+    "n7": "an atom",
+    "n8": "many atoms"
+}

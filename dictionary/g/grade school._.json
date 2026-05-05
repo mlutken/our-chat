@@ -1,0 +1,18 @@
+{
+    "base": "grade school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grade school",
+    "n2": "grade schools",
+    "n3": "the grade school",
+    "n4": "the grade schools",
+    "n5": "grade school's",
+    "n6": "grade schools'",
+    "n7": "a grade school",
+    "n8": "many grade schools"
+}

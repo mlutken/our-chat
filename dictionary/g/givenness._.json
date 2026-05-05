@@ -1,0 +1,18 @@
+{
+    "base": "givenness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "givenness",
+    "n2": "givennesses",
+    "n3": "the givenness",
+    "n4": "the givennesses",
+    "n5": "givenness'",
+    "n6": "givennesses'",
+    "n7": "a givenness",
+    "n8": "many givennesses"
+}

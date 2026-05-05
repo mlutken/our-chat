@@ -1,0 +1,18 @@
+{
+    "base": "ingratitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ingratitude",
+    "n2": "ingratitudes",
+    "n3": "the ingratitude",
+    "n4": "the ingratitudes",
+    "n5": "ingratitude's",
+    "n6": "ingratitudes'",
+    "n7": "an ingratitude",
+    "n8": "many ingratitudes"
+}

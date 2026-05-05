@@ -1,0 +1,18 @@
+{
+    "base": "tin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "tin",
+    "n2": "tins",
+    "n3": "the tin",
+    "n4": "the tins",
+    "n5": "tin's",
+    "n6": "tins'",
+    "n7": "a tin",
+    "n8": "many tins"
+}

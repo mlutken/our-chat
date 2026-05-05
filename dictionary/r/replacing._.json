@@ -1,0 +1,18 @@
+{
+    "base": "replacing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "replacing",
+    "n2": "replacings",
+    "n3": "the replacing",
+    "n4": "the replacings",
+    "n5": "replacing's",
+    "n6": "replacings'",
+    "n7": "a replacing",
+    "n8": "many replacings"
+}

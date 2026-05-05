@@ -1,0 +1,18 @@
+{
+    "base": "rubric",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rubric",
+    "n2": "rubrics",
+    "n3": "the rubric",
+    "n4": "the rubrics",
+    "n5": "rubric's",
+    "n6": "rubrics'",
+    "n7": "a rubric",
+    "n8": "many rubrics"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "publishing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "publishing",
+    "n2": "publishings",
+    "n3": "the publishing",
+    "n4": "the publishings",
+    "n5": "publishing's",
+    "n6": "publishings'",
+    "n7": "a publishing",
+    "n8": "many publishings"
+}

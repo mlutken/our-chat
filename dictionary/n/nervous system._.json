@@ -1,0 +1,18 @@
+{
+    "base": "nervous system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nervous system",
+    "n2": "nervous systems",
+    "n3": "the nervous system",
+    "n4": "the nervous systems",
+    "n5": "nervous system's",
+    "n6": "nervous systems'",
+    "n7": "a nervous system",
+    "n8": "many nervous systems"
+}

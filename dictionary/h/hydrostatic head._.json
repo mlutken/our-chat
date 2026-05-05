@@ -1,0 +1,18 @@
+{
+    "base": "hydrostatic head",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hydrostatic head",
+    "n2": "hydrostatic heads",
+    "n3": "the hydrostatic head",
+    "n4": "the hydrostatic heads",
+    "n5": "hydrostatic head's",
+    "n6": "hydrostatic heads'",
+    "n7": "a hydrostatic head",
+    "n8": "many hydrostatic heads"
+}

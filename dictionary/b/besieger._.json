@@ -1,0 +1,18 @@
+{
+    "base": "besieger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "besieger",
+    "n2": "besiegers",
+    "n3": "the besieger",
+    "n4": "the besiegers",
+    "n5": "besieger's",
+    "n6": "besiegers'",
+    "n7": "a besieger",
+    "n8": "many besiegers"
+}

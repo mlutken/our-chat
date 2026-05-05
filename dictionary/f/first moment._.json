@@ -1,0 +1,18 @@
+{
+    "base": "first moment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "first moment",
+    "n2": "first moments",
+    "n3": "the first moment",
+    "n4": "the first moments",
+    "n5": "first moment's",
+    "n6": "first moments'",
+    "n7": "a first moment",
+    "n8": "many first moments"
+}

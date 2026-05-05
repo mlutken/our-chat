@@ -1,0 +1,18 @@
+{
+    "base": "truck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "truck",
+    "n2": "trucks",
+    "n3": "the truck",
+    "n4": "the trucks",
+    "n5": "truck's",
+    "n6": "trucks'",
+    "n7": "a truck",
+    "n8": "many trucks"
+}

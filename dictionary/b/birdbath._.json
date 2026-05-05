@@ -1,0 +1,18 @@
+{
+    "base": "birdbath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "birdbath",
+    "n2": "birdbaths",
+    "n3": "the birdbath",
+    "n4": "the birdbaths",
+    "n5": "birdbath's",
+    "n6": "birdbaths'",
+    "n7": "a birdbath",
+    "n8": "many birdbaths"
+}

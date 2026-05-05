@@ -1,0 +1,18 @@
+{
+    "base": "franc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "franc",
+    "n2": "francs",
+    "n3": "the franc",
+    "n4": "the francs",
+    "n5": "franc's",
+    "n6": "francs'",
+    "n7": "a franc",
+    "n8": "many francs"
+}

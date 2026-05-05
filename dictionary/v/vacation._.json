@@ -1,0 +1,18 @@
+{
+    "base": "vacation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "vacation",
+    "n2": "vacations",
+    "n3": "the vacation",
+    "n4": "the vacations",
+    "n5": "vacation's",
+    "n6": "vacations'",
+    "n7": "a vacation",
+    "n8": "many vacations"
+}

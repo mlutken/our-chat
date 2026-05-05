@@ -1,0 +1,18 @@
+{
+    "base": "prisoner of war",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prisoner of war",
+    "n2": "prisoner of wars",
+    "n3": "the prisoner of war",
+    "n4": "the prisoner of wars",
+    "n5": "prisoner of war's",
+    "n6": "prisoner of wars'",
+    "n7": "a prisoner of war",
+    "n8": "many prisoner of wars"
+}

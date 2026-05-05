@@ -1,0 +1,18 @@
+{
+    "base": "bride-gift",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bride-gift",
+    "n2": "bride-gifts",
+    "n3": "the bride-gift",
+    "n4": "the bride-gifts",
+    "n5": "bride-gift's",
+    "n6": "bride-gifts'",
+    "n7": "a bride-gift",
+    "n8": "many bride-gifts"
+}

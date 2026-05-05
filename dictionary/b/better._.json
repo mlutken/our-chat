@@ -1,0 +1,18 @@
+{
+    "base": "better",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "better",
+    "n2": "betters",
+    "n3": "the better",
+    "n4": "the betters",
+    "n5": "better's",
+    "n6": "betters'",
+    "n7": "a better",
+    "n8": "many betters"
+}

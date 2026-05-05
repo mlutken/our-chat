@@ -1,0 +1,18 @@
+{
+    "base": "indianapolis",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "indianapolis",
+    "n2": "indianapolises",
+    "n3": "the indianapolis",
+    "n4": "the indianapolises",
+    "n5": "indianapolis'",
+    "n6": "indianapolises'",
+    "n7": "an indianapolis",
+    "n8": "many indianapolises"
+}

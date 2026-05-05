@@ -1,0 +1,18 @@
+{
+    "base": "roosevelt",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roosevelt",
+    "n2": "roosevelts",
+    "n3": "the roosevelt",
+    "n4": "the roosevelts",
+    "n5": "roosevelt's",
+    "n6": "roosevelts'",
+    "n7": "a roosevelt",
+    "n8": "many roosevelts"
+}

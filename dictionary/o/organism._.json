@@ -1,0 +1,18 @@
+{
+    "base": "organism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "organism",
+    "n2": "organisms",
+    "n3": "the organism",
+    "n4": "the organisms",
+    "n5": "organism's",
+    "n6": "organisms'",
+    "n7": "an organism",
+    "n8": "many organisms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "know-how",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "know-how",
+    "n2": "know-hows",
+    "n3": "the know-how",
+    "n4": "the know-hows",
+    "n5": "know-how's",
+    "n6": "know-hows'",
+    "n7": "a know-how",
+    "n8": "many know-hows"
+}

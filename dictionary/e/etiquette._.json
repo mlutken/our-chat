@@ -1,0 +1,18 @@
+{
+    "base": "etiquette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "etiquette",
+    "n2": "etiquettes",
+    "n3": "the etiquette",
+    "n4": "the etiquettes",
+    "n5": "etiquette's",
+    "n6": "etiquettes'",
+    "n7": "an etiquette",
+    "n8": "many etiquettes"
+}

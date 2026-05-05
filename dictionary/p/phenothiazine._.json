@@ -1,0 +1,18 @@
+{
+    "base": "phenothiazine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "phenothiazine",
+    "n2": "phenothiazines",
+    "n3": "the phenothiazine",
+    "n4": "the phenothiazines",
+    "n5": "phenothiazine's",
+    "n6": "phenothiazines'",
+    "n7": "a phenothiazine",
+    "n8": "many phenothiazines"
+}

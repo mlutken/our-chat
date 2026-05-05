@@ -1,11 +1,24 @@
 {
     "base": "slip",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "slip",
     "v2": "slipped",
     "v3": "slipped",
     "v4": "slipping",
-    "v5": "slips"
+    "v5": "slips",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "slip",
+    "n2": "slips",
+    "n3": "the slip",
+    "n4": "the slips",
+    "n5": "slip's",
+    "n6": "slips'",
+    "n7": "a slip",
+    "n8": "many slips"
 }

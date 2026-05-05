@@ -1,0 +1,18 @@
+{
+    "base": "misunderstanding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misunderstanding",
+    "n2": "misunderstandings",
+    "n3": "the misunderstanding",
+    "n4": "the misunderstandings",
+    "n5": "misunderstanding's",
+    "n6": "misunderstandings'",
+    "n7": "a misunderstanding",
+    "n8": "many misunderstandings"
+}

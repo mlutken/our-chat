@@ -1,0 +1,18 @@
+{
+    "base": "sitting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sitting",
+    "n2": "sittings",
+    "n3": "the sitting",
+    "n4": "the sittings",
+    "n5": "sitting's",
+    "n6": "sittings'",
+    "n7": "a sitting",
+    "n8": "many sittings"
+}

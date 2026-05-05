@@ -1,0 +1,18 @@
+{
+    "base": "stub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stub",
+    "n2": "stubs",
+    "n3": "the stub",
+    "n4": "the stubs",
+    "n5": "stub's",
+    "n6": "stubs'",
+    "n7": "a stub",
+    "n8": "many stubs"
+}

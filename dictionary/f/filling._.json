@@ -1,0 +1,18 @@
+{
+    "base": "filling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "filling",
+    "n2": "fillings",
+    "n3": "the filling",
+    "n4": "the fillings",
+    "n5": "filling's",
+    "n6": "fillings'",
+    "n7": "a filling",
+    "n8": "many fillings"
+}

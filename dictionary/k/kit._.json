@@ -1,0 +1,18 @@
+{
+    "base": "kit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "kit",
+    "n2": "kits",
+    "n3": "the kit",
+    "n4": "the kits",
+    "n5": "kit's",
+    "n6": "kits'",
+    "n7": "a kit",
+    "n8": "many kits"
+}

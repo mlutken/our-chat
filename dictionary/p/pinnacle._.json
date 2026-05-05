@@ -1,0 +1,18 @@
+{
+    "base": "pinnacle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pinnacle",
+    "n2": "pinnacles",
+    "n3": "the pinnacle",
+    "n4": "the pinnacles",
+    "n5": "pinnacle's",
+    "n6": "pinnacles'",
+    "n7": "a pinnacle",
+    "n8": "many pinnacles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "columnist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "columnist",
+    "n2": "columnists",
+    "n3": "the columnist",
+    "n4": "the columnists",
+    "n5": "columnist's",
+    "n6": "columnists'",
+    "n7": "a columnist",
+    "n8": "many columnists"
+}

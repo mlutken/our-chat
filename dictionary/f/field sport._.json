@@ -1,0 +1,18 @@
+{
+    "base": "field sport",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "field sport",
+    "n2": "field sports",
+    "n3": "the field sport",
+    "n4": "the field sports",
+    "n5": "field sport's",
+    "n6": "field sports'",
+    "n7": "a field sport",
+    "n8": "many field sports"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rutabaga",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rutabaga",
+    "n2": "rutabagas",
+    "n3": "the rutabaga",
+    "n4": "the rutabagas",
+    "n5": "rutabaga's",
+    "n6": "rutabagas'",
+    "n7": "a rutabaga",
+    "n8": "many rutabagas"
+}

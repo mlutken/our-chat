@@ -13,5 +13,12 @@
     "v2": "forced",
     "v3": "forced",
     "v4": "forcing",
-    "v5": "forces"
+    "v5": "forces",
+    "proper": false,
+    "commonness": 99,
+    "max_commonness": 6834,
+    "commonness_ge_count": 120,
+    "n6": "forces'",
+    "n7": "a force",
+    "n8": "many forces"
 }

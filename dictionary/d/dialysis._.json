@@ -1,0 +1,18 @@
+{
+    "base": "dialysis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "dialysis",
+    "n2": "dialyses",
+    "n3": "the dialysis",
+    "n4": "the dialyses",
+    "n5": "dialysis'",
+    "n6": "dialyses'",
+    "n7": "a dialysis",
+    "n8": "many dialyses"
+}

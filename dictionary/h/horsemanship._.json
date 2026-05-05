@@ -1,0 +1,18 @@
+{
+    "base": "horsemanship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horsemanship",
+    "n2": "horsemanships",
+    "n3": "the horsemanship",
+    "n4": "the horsemanships",
+    "n5": "horsemanship's",
+    "n6": "horsemanships'",
+    "n7": "a horsemanship",
+    "n8": "many horsemanships"
+}

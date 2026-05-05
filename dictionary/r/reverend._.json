@@ -1,0 +1,18 @@
+{
+    "base": "reverend",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reverend",
+    "n2": "reverends",
+    "n3": "the reverend",
+    "n4": "the reverends",
+    "n5": "reverend's",
+    "n6": "reverends'",
+    "n7": "a reverend",
+    "n8": "many reverends"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "air-to-surface missile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "air-to-surface missile",
+    "n2": "air-to-surface missiles",
+    "n3": "the air-to-surface missile",
+    "n4": "the air-to-surface missiles",
+    "n5": "air-to-surface missile's",
+    "n6": "air-to-surface missiles'",
+    "n7": "an air-to-surface missile",
+    "n8": "many air-to-surface missiles"
+}

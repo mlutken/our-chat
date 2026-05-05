@@ -1,0 +1,18 @@
+{
+    "base": "translation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "translation",
+    "n2": "translations",
+    "n3": "the translation",
+    "n4": "the translations",
+    "n5": "translation's",
+    "n6": "translations'",
+    "n7": "a translation",
+    "n8": "many translations"
+}

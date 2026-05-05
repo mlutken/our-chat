@@ -1,0 +1,18 @@
+{
+    "base": "medical intern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medical intern",
+    "n2": "medical interns",
+    "n3": "the medical intern",
+    "n4": "the medical interns",
+    "n5": "medical intern's",
+    "n6": "medical interns'",
+    "n7": "a medical intern",
+    "n8": "many medical interns"
+}

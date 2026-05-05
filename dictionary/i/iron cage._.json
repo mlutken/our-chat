@@ -1,0 +1,18 @@
+{
+    "base": "iron cage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "iron cage",
+    "n2": "iron cages",
+    "n3": "the iron cage",
+    "n4": "the iron cages",
+    "n5": "iron cage's",
+    "n6": "iron cages'",
+    "n7": "an iron cage",
+    "n8": "many iron cages"
+}

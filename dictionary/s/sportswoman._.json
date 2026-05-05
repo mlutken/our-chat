@@ -1,0 +1,18 @@
+{
+    "base": "sportswoman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sportswoman",
+    "n2": "sportswomen",
+    "n3": "the sportswoman",
+    "n4": "the sportswomen",
+    "n5": "sportswoman's",
+    "n6": "sportswomen's",
+    "n7": "a sportswoman",
+    "n8": "many sportswomen"
+}

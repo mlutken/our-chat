@@ -1,0 +1,18 @@
+{
+    "base": "stone wall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stone wall",
+    "n2": "stone walls",
+    "n3": "the stone wall",
+    "n4": "the stone walls",
+    "n5": "stone wall's",
+    "n6": "stone walls'",
+    "n7": "a stone wall",
+    "n8": "many stone walls"
+}

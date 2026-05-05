@@ -1,0 +1,18 @@
+{
+    "base": "bromophenol blue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bromophenol blue",
+    "n2": "bromophenol blues",
+    "n3": "the bromophenol blue",
+    "n4": "the bromophenol blues",
+    "n5": "bromophenol blue's",
+    "n6": "bromophenol blues'",
+    "n7": "a bromophenol blue",
+    "n8": "many bromophenol blues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tentacle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tentacle",
+    "n2": "tentacles",
+    "n3": "the tentacle",
+    "n4": "the tentacles",
+    "n5": "tentacle's",
+    "n6": "tentacles'",
+    "n7": "a tentacle",
+    "n8": "many tentacles"
+}

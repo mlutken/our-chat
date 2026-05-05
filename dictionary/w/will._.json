@@ -1,7 +1,20 @@
 {
     "base": "will",
     "classes": [
+        "n",
         "aux"
     ],
-    "f0": "will"
+    "f0": "will",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "will",
+    "n2": "wills",
+    "n3": "the will",
+    "n4": "the wills",
+    "n5": "will's",
+    "n6": "wills'",
+    "n7": "a will",
+    "n8": "many wills"
 }

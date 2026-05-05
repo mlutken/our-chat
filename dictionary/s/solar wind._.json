@@ -1,0 +1,18 @@
+{
+    "base": "solar wind",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solar wind",
+    "n2": "solar winds",
+    "n3": "the solar wind",
+    "n4": "the solar winds",
+    "n5": "solar wind's",
+    "n6": "solar winds'",
+    "n7": "a solar wind",
+    "n8": "many solar winds"
+}

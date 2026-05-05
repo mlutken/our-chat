@@ -1,0 +1,18 @@
+{
+    "base": "glove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "glove",
+    "n2": "gloves",
+    "n3": "the glove",
+    "n4": "the gloves",
+    "n5": "glove's",
+    "n6": "gloves'",
+    "n7": "a glove",
+    "n8": "many gloves"
+}

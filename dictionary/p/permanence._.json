@@ -1,0 +1,18 @@
+{
+    "base": "permanence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "permanence",
+    "n2": "permanences",
+    "n3": "the permanence",
+    "n4": "the permanences",
+    "n5": "permanence's",
+    "n6": "permanences'",
+    "n7": "a permanence",
+    "n8": "many permanences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "interruption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "interruption",
+    "n2": "interruptions",
+    "n3": "the interruption",
+    "n4": "the interruptions",
+    "n5": "interruption's",
+    "n6": "interruptions'",
+    "n7": "an interruption",
+    "n8": "many interruptions"
+}

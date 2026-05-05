@@ -1,0 +1,18 @@
+{
+    "base": "outsider",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "outsider",
+    "n2": "outsiders",
+    "n3": "the outsider",
+    "n4": "the outsiders",
+    "n5": "outsider's",
+    "n6": "outsiders'",
+    "n7": "an outsider",
+    "n8": "many outsiders"
+}

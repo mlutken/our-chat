@@ -1,0 +1,18 @@
+{
+    "base": "darkness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "darkness",
+    "n2": "darknesses",
+    "n3": "the darkness",
+    "n4": "the darknesses",
+    "n5": "darkness'",
+    "n6": "darknesses'",
+    "n7": "a darkness",
+    "n8": "many darknesses"
+}

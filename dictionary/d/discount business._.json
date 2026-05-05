@@ -1,0 +1,18 @@
+{
+    "base": "discount business",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "discount business",
+    "n2": "discount businesses",
+    "n3": "the discount business",
+    "n4": "the discount businesses",
+    "n5": "discount business'",
+    "n6": "discount businesses'",
+    "n7": "a discount business",
+    "n8": "many discount businesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "micrometeorite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "micrometeorite",
+    "n2": "micrometeorites",
+    "n3": "the micrometeorite",
+    "n4": "the micrometeorites",
+    "n5": "micrometeorite's",
+    "n6": "micrometeorites'",
+    "n7": "a micrometeorite",
+    "n8": "many micrometeorites"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "congress gaiter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "congress gaiter",
+    "n2": "congress gaiters",
+    "n3": "the congress gaiter",
+    "n4": "the congress gaiters",
+    "n5": "congress gaiter's",
+    "n6": "congress gaiters'",
+    "n7": "a congress gaiter",
+    "n8": "many congress gaiters"
+}

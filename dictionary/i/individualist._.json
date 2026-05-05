@@ -1,0 +1,18 @@
+{
+    "base": "individualist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "individualist",
+    "n2": "individualists",
+    "n3": "the individualist",
+    "n4": "the individualists",
+    "n5": "individualist's",
+    "n6": "individualists'",
+    "n7": "an individualist",
+    "n8": "many individualists"
+}

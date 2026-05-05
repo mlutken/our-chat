@@ -1,0 +1,18 @@
+{
+    "base": "loser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "loser",
+    "n2": "losers",
+    "n3": "the loser",
+    "n4": "the losers",
+    "n5": "loser's",
+    "n6": "losers'",
+    "n7": "a loser",
+    "n8": "many losers"
+}

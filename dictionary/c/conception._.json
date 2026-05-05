@@ -1,0 +1,18 @@
+{
+    "base": "conception",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "conception",
+    "n2": "conceptions",
+    "n3": "the conception",
+    "n4": "the conceptions",
+    "n5": "conception's",
+    "n6": "conceptions'",
+    "n7": "a conception",
+    "n8": "many conceptions"
+}

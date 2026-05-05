@@ -1,0 +1,18 @@
+{
+    "base": "conclave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conclave",
+    "n2": "conclaves",
+    "n3": "the conclave",
+    "n4": "the conclaves",
+    "n5": "conclave's",
+    "n6": "conclaves'",
+    "n7": "a conclave",
+    "n8": "many conclaves"
+}

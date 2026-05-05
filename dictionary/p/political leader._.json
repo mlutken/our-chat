@@ -1,0 +1,18 @@
+{
+    "base": "political leader",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "political leader",
+    "n2": "political leaders",
+    "n3": "the political leader",
+    "n4": "the political leaders",
+    "n5": "political leader's",
+    "n6": "political leaders'",
+    "n7": "a political leader",
+    "n8": "many political leaders"
+}

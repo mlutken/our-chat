@@ -1,0 +1,18 @@
+{
+    "base": "standstill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "standstill",
+    "n2": "standstills",
+    "n3": "the standstill",
+    "n4": "the standstills",
+    "n5": "standstill's",
+    "n6": "standstills'",
+    "n7": "a standstill",
+    "n8": "many standstills"
+}

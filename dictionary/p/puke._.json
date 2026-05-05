@@ -1,0 +1,18 @@
+{
+    "base": "puke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "puke",
+    "n2": "pukes",
+    "n3": "the puke",
+    "n4": "the pukes",
+    "n5": "puke's",
+    "n6": "pukes'",
+    "n7": "a puke",
+    "n8": "many pukes"
+}

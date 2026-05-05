@@ -1,0 +1,18 @@
+{
+    "base": "luminary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "luminary",
+    "n2": "luminaries",
+    "n3": "the luminary",
+    "n4": "the luminaries",
+    "n5": "luminary's",
+    "n6": "luminaries'",
+    "n7": "a luminary",
+    "n8": "many luminaries"
+}

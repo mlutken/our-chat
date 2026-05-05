@@ -1,0 +1,18 @@
+{
+    "base": "alkali bee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "alkali bee",
+    "n2": "alkali bees",
+    "n3": "the alkali bee",
+    "n4": "the alkali bees",
+    "n5": "alkali bee's",
+    "n6": "alkali bees'",
+    "n7": "an alkali bee",
+    "n8": "many alkali bees"
+}

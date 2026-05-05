@@ -1,0 +1,18 @@
+{
+    "base": "lordship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lordship",
+    "n2": "lordships",
+    "n3": "the lordship",
+    "n4": "the lordships",
+    "n5": "lordship's",
+    "n6": "lordships'",
+    "n7": "a lordship",
+    "n8": "many lordships"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "discourse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "discourse",
+    "n2": "discourses",
+    "n3": "the discourse",
+    "n4": "the discourses",
+    "n5": "discourse's",
+    "n6": "discourses'",
+    "n7": "a discourse",
+    "n8": "many discourses"
+}

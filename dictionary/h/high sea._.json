@@ -1,0 +1,18 @@
+{
+    "base": "high sea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "high sea",
+    "n2": "high seas",
+    "n3": "the high sea",
+    "n4": "the high seas",
+    "n5": "high sea's",
+    "n6": "high seas'",
+    "n7": "a high sea",
+    "n8": "many high seas"
+}

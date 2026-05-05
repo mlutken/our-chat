@@ -1,0 +1,18 @@
+{
+    "base": "bilharziasis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bilharziasis",
+    "n2": "bilharziasises",
+    "n3": "the bilharziasis",
+    "n4": "the bilharziasises",
+    "n5": "bilharziasis'",
+    "n6": "bilharziasises'",
+    "n7": "a bilharziasis",
+    "n8": "many bilharziasises"
+}

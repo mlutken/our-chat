@@ -1,0 +1,18 @@
+{
+    "base": "church father",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "church father",
+    "n2": "church fathers",
+    "n3": "the church father",
+    "n4": "the church fathers",
+    "n5": "church father's",
+    "n6": "church fathers'",
+    "n7": "a church father",
+    "n8": "many church fathers"
+}

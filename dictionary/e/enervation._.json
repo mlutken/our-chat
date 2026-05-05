@@ -1,0 +1,18 @@
+{
+    "base": "enervation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enervation",
+    "n2": "enervations",
+    "n3": "the enervation",
+    "n4": "the enervations",
+    "n5": "enervation's",
+    "n6": "enervations'",
+    "n7": "an enervation",
+    "n8": "many enervations"
+}

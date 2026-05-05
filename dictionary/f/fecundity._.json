@@ -1,0 +1,18 @@
+{
+    "base": "fecundity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fecundity",
+    "n2": "fecundities",
+    "n3": "the fecundity",
+    "n4": "the fecundities",
+    "n5": "fecundity's",
+    "n6": "fecundities'",
+    "n7": "a fecundity",
+    "n8": "many fecundities"
+}

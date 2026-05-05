@@ -1,0 +1,18 @@
+{
+    "base": "conqueror",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conqueror",
+    "n2": "conquerors",
+    "n3": "the conqueror",
+    "n4": "the conquerors",
+    "n5": "conqueror's",
+    "n6": "conquerors'",
+    "n7": "a conqueror",
+    "n8": "many conquerors"
+}

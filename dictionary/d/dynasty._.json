@@ -1,0 +1,18 @@
+{
+    "base": "dynasty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dynasty",
+    "n2": "dynasties",
+    "n3": "the dynasty",
+    "n4": "the dynasties",
+    "n5": "dynasty's",
+    "n6": "dynasties'",
+    "n7": "a dynasty",
+    "n8": "many dynasties"
+}

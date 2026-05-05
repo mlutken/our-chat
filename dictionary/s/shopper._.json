@@ -1,0 +1,18 @@
+{
+    "base": "shopper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shopper",
+    "n2": "shoppers",
+    "n3": "the shopper",
+    "n4": "the shoppers",
+    "n5": "shopper's",
+    "n6": "shoppers'",
+    "n7": "a shopper",
+    "n8": "many shoppers"
+}

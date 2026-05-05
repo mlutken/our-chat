@@ -7,5 +7,12 @@
     "n2": "queens",
     "n3": "the queen",
     "n4": "the queens",
-    "n5": "queen's"
+    "n5": "queen's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "queens'",
+    "n7": "a queen",
+    "n8": "many queens"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "suite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "suite",
+    "n2": "suites",
+    "n3": "the suite",
+    "n4": "the suites",
+    "n5": "suite's",
+    "n6": "suites'",
+    "n7": "a suite",
+    "n8": "many suites"
+}

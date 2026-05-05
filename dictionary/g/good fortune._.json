@@ -1,0 +1,18 @@
+{
+    "base": "good fortune",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "good fortune",
+    "n2": "good fortunes",
+    "n3": "the good fortune",
+    "n4": "the good fortunes",
+    "n5": "good fortune's",
+    "n6": "good fortunes'",
+    "n7": "a good fortune",
+    "n8": "many good fortunes"
+}

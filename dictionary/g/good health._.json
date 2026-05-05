@@ -1,0 +1,18 @@
+{
+    "base": "good health",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "good health",
+    "n2": "good healths",
+    "n3": "the good health",
+    "n4": "the good healths",
+    "n5": "good health's",
+    "n6": "good healths'",
+    "n7": "a good health",
+    "n8": "many good healths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "confinement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "confinement",
+    "n2": "confinements",
+    "n3": "the confinement",
+    "n4": "the confinements",
+    "n5": "confinement's",
+    "n6": "confinements'",
+    "n7": "a confinement",
+    "n8": "many confinements"
+}

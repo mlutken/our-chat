@@ -1,0 +1,18 @@
+{
+    "base": "trichloroacetic acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trichloroacetic acid",
+    "n2": "trichloroacetic acids",
+    "n3": "the trichloroacetic acid",
+    "n4": "the trichloroacetic acids",
+    "n5": "trichloroacetic acid's",
+    "n6": "trichloroacetic acids'",
+    "n7": "a trichloroacetic acid",
+    "n8": "many trichloroacetic acids"
+}

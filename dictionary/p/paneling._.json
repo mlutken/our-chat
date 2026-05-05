@@ -1,0 +1,18 @@
+{
+    "base": "paneling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "paneling",
+    "n2": "panelings",
+    "n3": "the paneling",
+    "n4": "the panelings",
+    "n5": "paneling's",
+    "n6": "panelings'",
+    "n7": "a paneling",
+    "n8": "many panelings"
+}

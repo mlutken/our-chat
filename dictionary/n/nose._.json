@@ -1,0 +1,18 @@
+{
+    "base": "nose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "nose",
+    "n2": "noses",
+    "n3": "the nose",
+    "n4": "the noses",
+    "n5": "nose's",
+    "n6": "noses'",
+    "n7": "a nose",
+    "n8": "many noses"
+}

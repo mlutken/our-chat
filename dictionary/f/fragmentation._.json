@@ -1,0 +1,18 @@
+{
+    "base": "fragmentation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fragmentation",
+    "n2": "fragmentations",
+    "n3": "the fragmentation",
+    "n4": "the fragmentations",
+    "n5": "fragmentation's",
+    "n6": "fragmentations'",
+    "n7": "a fragmentation",
+    "n8": "many fragmentations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aftereffect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aftereffect",
+    "n2": "aftereffects",
+    "n3": "the aftereffect",
+    "n4": "the aftereffects",
+    "n5": "aftereffect's",
+    "n6": "aftereffects'",
+    "n7": "an aftereffect",
+    "n8": "many aftereffects"
+}

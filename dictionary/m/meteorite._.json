@@ -1,0 +1,18 @@
+{
+    "base": "meteorite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "meteorite",
+    "n2": "meteorites",
+    "n3": "the meteorite",
+    "n4": "the meteorites",
+    "n5": "meteorite's",
+    "n6": "meteorites'",
+    "n7": "a meteorite",
+    "n8": "many meteorites"
+}

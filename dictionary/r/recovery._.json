@@ -7,5 +7,12 @@
     "n2": "recoveries",
     "n3": "the recovery",
     "n4": "the recoveries",
-    "n5": "recovery's"
+    "n5": "recovery's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "recoveries'",
+    "n7": "a recovery",
+    "n8": "many recoveries"
 }

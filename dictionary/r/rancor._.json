@@ -1,0 +1,18 @@
+{
+    "base": "rancor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rancor",
+    "n2": "rancors",
+    "n3": "the rancor",
+    "n4": "the rancors",
+    "n5": "rancor's",
+    "n6": "rancors'",
+    "n7": "a rancor",
+    "n8": "many rancors"
+}

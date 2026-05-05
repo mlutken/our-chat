@@ -1,0 +1,18 @@
+{
+    "base": "agglutinin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "agglutinin",
+    "n2": "agglutinins",
+    "n3": "the agglutinin",
+    "n4": "the agglutinins",
+    "n5": "agglutinin's",
+    "n6": "agglutinins'",
+    "n7": "an agglutinin",
+    "n8": "many agglutinins"
+}

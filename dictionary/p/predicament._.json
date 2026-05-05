@@ -1,0 +1,18 @@
+{
+    "base": "predicament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "predicament",
+    "n2": "predicaments",
+    "n3": "the predicament",
+    "n4": "the predicaments",
+    "n5": "predicament's",
+    "n6": "predicaments'",
+    "n7": "a predicament",
+    "n8": "many predicaments"
+}

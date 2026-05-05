@@ -1,0 +1,18 @@
+{
+    "base": "hamming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hamming",
+    "n2": "hammings",
+    "n3": "the hamming",
+    "n4": "the hammings",
+    "n5": "hamming's",
+    "n6": "hammings'",
+    "n7": "a hamming",
+    "n8": "many hammings"
+}

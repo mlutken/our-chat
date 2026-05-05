@@ -1,0 +1,18 @@
+{
+    "base": "freezing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "freezing",
+    "n2": "freezings",
+    "n3": "the freezing",
+    "n4": "the freezings",
+    "n5": "freezing's",
+    "n6": "freezings'",
+    "n7": "a freezing",
+    "n8": "many freezings"
+}

@@ -1,11 +1,24 @@
 {
     "base": "want",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "want",
     "v2": "wanted",
     "v3": "wanted",
     "v4": "wanting",
-    "v5": "wants"
+    "v5": "wants",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "want",
+    "n2": "wants",
+    "n3": "the want",
+    "n4": "the wants",
+    "n5": "want's",
+    "n6": "wants'",
+    "n7": "a want",
+    "n8": "many wants"
 }

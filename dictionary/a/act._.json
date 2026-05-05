@@ -7,5 +7,12 @@
     "n2": "acts",
     "n3": "the act",
     "n4": "the acts",
-    "n5": "act's"
+    "n5": "act's",
+    "proper": false,
+    "commonness": 71,
+    "max_commonness": 6834,
+    "commonness_ge_count": 203,
+    "n6": "acts'",
+    "n7": "an act",
+    "n8": "many acts"
 }

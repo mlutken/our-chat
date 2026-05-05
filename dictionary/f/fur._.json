@@ -1,0 +1,18 @@
+{
+    "base": "fur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "fur",
+    "n2": "furs",
+    "n3": "the fur",
+    "n4": "the furs",
+    "n5": "fur's",
+    "n6": "furs'",
+    "n7": "a fur",
+    "n8": "many furs"
+}

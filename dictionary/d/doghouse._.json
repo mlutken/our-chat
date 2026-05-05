@@ -1,0 +1,18 @@
+{
+    "base": "doghouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doghouse",
+    "n2": "doghouses",
+    "n3": "the doghouse",
+    "n4": "the doghouses",
+    "n5": "doghouse's",
+    "n6": "doghouses'",
+    "n7": "a doghouse",
+    "n8": "many doghouses"
+}

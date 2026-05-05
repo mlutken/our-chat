@@ -1,0 +1,18 @@
+{
+    "base": "petroleum geologist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "petroleum geologist",
+    "n2": "petroleum geologists",
+    "n3": "the petroleum geologist",
+    "n4": "the petroleum geologists",
+    "n5": "petroleum geologist's",
+    "n6": "petroleum geologists'",
+    "n7": "a petroleum geologist",
+    "n8": "many petroleum geologists"
+}

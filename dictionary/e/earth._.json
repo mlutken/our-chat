@@ -7,5 +7,12 @@
     "n2": "earths",
     "n3": "the earth",
     "n4": "the earths",
-    "n5": "earth's"
+    "n5": "earth's",
+    "proper": false,
+    "commonness": 94,
+    "max_commonness": 6834,
+    "commonness_ge_count": 131,
+    "n6": "earths'",
+    "n7": "an earth",
+    "n8": "many earths"
 }

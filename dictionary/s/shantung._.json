@@ -1,0 +1,18 @@
+{
+    "base": "shantung",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shantung",
+    "n2": "shantungs",
+    "n3": "the shantung",
+    "n4": "the shantungs",
+    "n5": "shantung's",
+    "n6": "shantungs'",
+    "n7": "a shantung",
+    "n8": "many shantungs"
+}

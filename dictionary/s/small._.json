@@ -1,9 +1,22 @@
 {
     "base": "small",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "small",
     "adj2": "smaller",
-    "adj3": "smallest"
+    "adj3": "smallest",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "small",
+    "n2": "smalls",
+    "n3": "the small",
+    "n4": "the smalls",
+    "n5": "small's",
+    "n6": "smalls'",
+    "n7": "a small",
+    "n8": "many smalls"
 }

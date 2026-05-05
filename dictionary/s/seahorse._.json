@@ -1,0 +1,18 @@
+{
+    "base": "seahorse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seahorse",
+    "n2": "seahorses",
+    "n3": "the seahorse",
+    "n4": "the seahorses",
+    "n5": "seahorse's",
+    "n6": "seahorses'",
+    "n7": "a seahorse",
+    "n8": "many seahorses"
+}

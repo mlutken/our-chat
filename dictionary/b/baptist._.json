@@ -1,0 +1,18 @@
+{
+    "base": "baptist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "baptist",
+    "n2": "baptists",
+    "n3": "the baptist",
+    "n4": "the baptists",
+    "n5": "baptist's",
+    "n6": "baptists'",
+    "n7": "a baptist",
+    "n8": "many baptists"
+}

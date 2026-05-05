@@ -1,0 +1,18 @@
+{
+    "base": "marmalade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marmalade",
+    "n2": "marmalades",
+    "n3": "the marmalade",
+    "n4": "the marmalades",
+    "n5": "marmalade's",
+    "n6": "marmalades'",
+    "n7": "a marmalade",
+    "n8": "many marmalades"
+}

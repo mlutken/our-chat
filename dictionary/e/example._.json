@@ -7,5 +7,12 @@
     "n2": "examples",
     "n3": "the example",
     "n4": "the examples",
-    "n5": "example's"
+    "n5": "example's",
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n6": "examples'",
+    "n7": "an example",
+    "n8": "many examples"
 }

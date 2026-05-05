@@ -1,0 +1,18 @@
+{
+    "base": "college girl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "college girl",
+    "n2": "college girls",
+    "n3": "the college girl",
+    "n4": "the college girls",
+    "n5": "college girl's",
+    "n6": "college girls'",
+    "n7": "a college girl",
+    "n8": "many college girls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sicilian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sicilian",
+    "n2": "sicilians",
+    "n3": "the sicilian",
+    "n4": "the sicilians",
+    "n5": "sicilian's",
+    "n6": "sicilians'",
+    "n7": "a sicilian",
+    "n8": "many sicilians"
+}

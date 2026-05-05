@@ -1,0 +1,18 @@
+{
+    "base": "south sea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "south sea",
+    "n2": "south seas",
+    "n3": "the south sea",
+    "n4": "the south seas",
+    "n5": "south sea's",
+    "n6": "south seas'",
+    "n7": "a south sea",
+    "n8": "many south seas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pinpoint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pinpoint",
+    "n2": "pinpoints",
+    "n3": "the pinpoint",
+    "n4": "the pinpoints",
+    "n5": "pinpoint's",
+    "n6": "pinpoints'",
+    "n7": "a pinpoint",
+    "n8": "many pinpoints"
+}

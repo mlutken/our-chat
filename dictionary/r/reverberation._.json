@@ -1,0 +1,18 @@
+{
+    "base": "reverberation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "reverberation",
+    "n2": "reverberations",
+    "n3": "the reverberation",
+    "n4": "the reverberations",
+    "n5": "reverberation's",
+    "n6": "reverberations'",
+    "n7": "a reverberation",
+    "n8": "many reverberations"
+}

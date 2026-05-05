@@ -1,0 +1,18 @@
+{
+    "base": "deficit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deficit",
+    "n2": "deficits",
+    "n3": "the deficit",
+    "n4": "the deficits",
+    "n5": "deficit's",
+    "n6": "deficits'",
+    "n7": "a deficit",
+    "n8": "many deficits"
+}

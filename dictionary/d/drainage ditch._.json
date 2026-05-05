@@ -1,0 +1,18 @@
+{
+    "base": "drainage ditch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "drainage ditch",
+    "n2": "drainage ditches",
+    "n3": "the drainage ditch",
+    "n4": "the drainage ditches",
+    "n5": "drainage ditch's",
+    "n6": "drainage ditches'",
+    "n7": "a drainage ditch",
+    "n8": "many drainage ditches"
+}

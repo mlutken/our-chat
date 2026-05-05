@@ -1,0 +1,18 @@
+{
+    "base": "salary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "salary",
+    "n2": "salaries",
+    "n3": "the salary",
+    "n4": "the salaries",
+    "n5": "salary's",
+    "n6": "salaries'",
+    "n7": "a salary",
+    "n8": "many salaries"
+}

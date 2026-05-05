@@ -1,0 +1,18 @@
+{
+    "base": "windshield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "windshield",
+    "n2": "windshields",
+    "n3": "the windshield",
+    "n4": "the windshields",
+    "n5": "windshield's",
+    "n6": "windshields'",
+    "n7": "a windshield",
+    "n8": "many windshields"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fairyland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fairyland",
+    "n2": "fairylands",
+    "n3": "the fairyland",
+    "n4": "the fairylands",
+    "n5": "fairyland's",
+    "n6": "fairylands'",
+    "n7": "a fairyland",
+    "n8": "many fairylands"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mystery story",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "mystery story",
+    "n2": "mystery stories",
+    "n3": "the mystery story",
+    "n4": "the mystery stories",
+    "n5": "mystery story's",
+    "n6": "mystery stories'",
+    "n7": "a mystery story",
+    "n8": "many mystery stories"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "manchester",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "manchester",
+    "n2": "manchesters",
+    "n3": "the manchester",
+    "n4": "the manchesters",
+    "n5": "manchester's",
+    "n6": "manchesters'",
+    "n7": "a manchester",
+    "n8": "many manchesters"
+}

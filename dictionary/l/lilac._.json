@@ -1,0 +1,18 @@
+{
+    "base": "lilac",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "lilac",
+    "n2": "lilacs",
+    "n3": "the lilac",
+    "n4": "the lilacs",
+    "n5": "lilac's",
+    "n6": "lilacs'",
+    "n7": "a lilac",
+    "n8": "many lilacs"
+}

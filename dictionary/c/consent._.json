@@ -1,0 +1,18 @@
+{
+    "base": "consent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "consent",
+    "n2": "consents",
+    "n3": "the consent",
+    "n4": "the consents",
+    "n5": "consent's",
+    "n6": "consents'",
+    "n7": "a consent",
+    "n8": "many consents"
+}

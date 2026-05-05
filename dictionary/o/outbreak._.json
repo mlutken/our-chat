@@ -1,0 +1,18 @@
+{
+    "base": "outbreak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outbreak",
+    "n2": "outbreaks",
+    "n3": "the outbreak",
+    "n4": "the outbreaks",
+    "n5": "outbreak's",
+    "n6": "outbreaks'",
+    "n7": "an outbreak",
+    "n8": "many outbreaks"
+}

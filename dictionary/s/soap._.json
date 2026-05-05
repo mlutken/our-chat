@@ -1,0 +1,18 @@
+{
+    "base": "soap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "soap",
+    "n2": "soaps",
+    "n3": "the soap",
+    "n4": "the soaps",
+    "n5": "soap's",
+    "n6": "soaps'",
+    "n7": "a soap",
+    "n8": "many soaps"
+}

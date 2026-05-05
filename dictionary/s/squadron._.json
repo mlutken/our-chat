@@ -1,0 +1,18 @@
+{
+    "base": "squadron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "squadron",
+    "n2": "squadrons",
+    "n3": "the squadron",
+    "n4": "the squadrons",
+    "n5": "squadron's",
+    "n6": "squadrons'",
+    "n7": "a squadron",
+    "n8": "many squadrons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "criminality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "criminality",
+    "n2": "criminalities",
+    "n3": "the criminality",
+    "n4": "the criminalities",
+    "n5": "criminality's",
+    "n6": "criminalities'",
+    "n7": "a criminality",
+    "n8": "many criminalities"
+}

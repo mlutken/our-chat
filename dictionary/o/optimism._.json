@@ -1,0 +1,18 @@
+{
+    "base": "optimism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "optimism",
+    "n2": "optimisms",
+    "n3": "the optimism",
+    "n4": "the optimisms",
+    "n5": "optimism's",
+    "n6": "optimisms'",
+    "n7": "an optimism",
+    "n8": "many optimisms"
+}

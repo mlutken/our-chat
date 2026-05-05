@@ -1,11 +1,24 @@
 {
     "base": "ban",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "ban",
     "v2": "banned",
     "v3": "banned",
     "v4": "banning",
-    "v5": "bans"
+    "v5": "bans",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ban",
+    "n2": "bani",
+    "n3": "the ban",
+    "n4": "the bani",
+    "n5": "ban's",
+    "n6": "bani's",
+    "n7": "a ban",
+    "n8": "many bani"
 }

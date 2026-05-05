@@ -1,0 +1,18 @@
+{
+    "base": "mumbo jumbo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mumbo jumbo",
+    "n2": "mumbo jumbos",
+    "n3": "the mumbo jumbo",
+    "n4": "the mumbo jumbos",
+    "n5": "mumbo jumbo's",
+    "n6": "mumbo jumbos'",
+    "n7": "a mumbo jumbo",
+    "n8": "many mumbo jumbos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rhythm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "rhythm",
+    "n2": "rhythms",
+    "n3": "the rhythm",
+    "n4": "the rhythms",
+    "n5": "rhythm's",
+    "n6": "rhythms'",
+    "n7": "a rhythm",
+    "n8": "many rhythms"
+}

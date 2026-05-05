@@ -1,0 +1,18 @@
+{
+    "base": "blending",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blending",
+    "n2": "blendings",
+    "n3": "the blending",
+    "n4": "the blendings",
+    "n5": "blending's",
+    "n6": "blendings'",
+    "n7": "a blending",
+    "n8": "many blendings"
+}

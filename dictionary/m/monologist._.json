@@ -1,0 +1,18 @@
+{
+    "base": "monologist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monologist",
+    "n2": "monologists",
+    "n3": "the monologist",
+    "n4": "the monologists",
+    "n5": "monologist's",
+    "n6": "monologists'",
+    "n7": "a monologist",
+    "n8": "many monologists"
+}

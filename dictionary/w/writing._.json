@@ -7,5 +7,12 @@
     "n2": "writings",
     "n3": "the writing",
     "n4": "the writings",
-    "n5": "writing's"
+    "n5": "writing's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "writings'",
+    "n7": "a writing",
+    "n8": "many writings"
 }

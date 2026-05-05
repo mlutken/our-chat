@@ -1,0 +1,18 @@
+{
+    "base": "velvet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "velvet",
+    "n2": "velvets",
+    "n3": "the velvet",
+    "n4": "the velvets",
+    "n5": "velvet's",
+    "n6": "velvets'",
+    "n7": "a velvet",
+    "n8": "many velvets"
+}

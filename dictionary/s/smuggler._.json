@@ -1,0 +1,18 @@
+{
+    "base": "smuggler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "smuggler",
+    "n2": "smugglers",
+    "n3": "the smuggler",
+    "n4": "the smugglers",
+    "n5": "smuggler's",
+    "n6": "smugglers'",
+    "n7": "a smuggler",
+    "n8": "many smugglers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fellow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 86,
+    "max_commonness": 6834,
+    "commonness_ge_count": 144,
+    "n1": "fellow",
+    "n2": "fellows",
+    "n3": "the fellow",
+    "n4": "the fellows",
+    "n5": "fellow's",
+    "n6": "fellows'",
+    "n7": "a fellow",
+    "n8": "many fellows"
+}

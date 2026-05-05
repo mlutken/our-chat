@@ -1,0 +1,18 @@
+{
+    "base": "chuckle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chuckle",
+    "n2": "chuckles",
+    "n3": "the chuckle",
+    "n4": "the chuckles",
+    "n5": "chuckle's",
+    "n6": "chuckles'",
+    "n7": "a chuckle",
+    "n8": "many chuckles"
+}

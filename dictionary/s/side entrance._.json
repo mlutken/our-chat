@@ -1,0 +1,18 @@
+{
+    "base": "side entrance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "side entrance",
+    "n2": "side entrances",
+    "n3": "the side entrance",
+    "n4": "the side entrances",
+    "n5": "side entrance's",
+    "n6": "side entrances'",
+    "n7": "a side entrance",
+    "n8": "many side entrances"
+}

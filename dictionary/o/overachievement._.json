@@ -1,0 +1,18 @@
+{
+    "base": "overachievement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "overachievement",
+    "n2": "overachievements",
+    "n3": "the overachievement",
+    "n4": "the overachievements",
+    "n5": "overachievement's",
+    "n6": "overachievements'",
+    "n7": "an overachievement",
+    "n8": "many overachievements"
+}

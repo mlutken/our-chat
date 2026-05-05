@@ -1,0 +1,18 @@
+{
+    "base": "completion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "completion",
+    "n2": "completions",
+    "n3": "the completion",
+    "n4": "the completions",
+    "n5": "completion's",
+    "n6": "completions'",
+    "n7": "a completion",
+    "n8": "many completions"
+}

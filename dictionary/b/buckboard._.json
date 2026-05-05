@@ -1,0 +1,18 @@
+{
+    "base": "buckboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "buckboard",
+    "n2": "buckboards",
+    "n3": "the buckboard",
+    "n4": "the buckboards",
+    "n5": "buckboard's",
+    "n6": "buckboards'",
+    "n7": "a buckboard",
+    "n8": "many buckboards"
+}

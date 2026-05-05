@@ -1,0 +1,18 @@
+{
+    "base": "southeast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "southeast",
+    "n2": "southeasts",
+    "n3": "the southeast",
+    "n4": "the southeasts",
+    "n5": "southeast's",
+    "n6": "southeasts'",
+    "n7": "a southeast",
+    "n8": "many southeasts"
+}

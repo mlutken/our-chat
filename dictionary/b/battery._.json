@@ -7,5 +7,12 @@
     "n2": "batteries",
     "n3": "the battery",
     "n4": "the batteries",
-    "n5": "battery's"
+    "n5": "battery's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "batteries'",
+    "n7": "a battery",
+    "n8": "many batteries"
 }

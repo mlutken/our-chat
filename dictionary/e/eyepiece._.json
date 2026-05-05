@@ -1,0 +1,18 @@
+{
+    "base": "eyepiece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eyepiece",
+    "n2": "eyepieces",
+    "n3": "the eyepiece",
+    "n4": "the eyepieces",
+    "n5": "eyepiece's",
+    "n6": "eyepieces'",
+    "n7": "an eyepiece",
+    "n8": "many eyepieces"
+}

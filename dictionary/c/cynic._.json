@@ -1,0 +1,18 @@
+{
+    "base": "cynic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cynic",
+    "n2": "cynics",
+    "n3": "the cynic",
+    "n4": "the cynics",
+    "n5": "cynic's",
+    "n6": "cynics'",
+    "n7": "a cynic",
+    "n8": "many cynics"
+}

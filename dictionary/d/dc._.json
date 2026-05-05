@@ -1,0 +1,18 @@
+{
+    "base": "dc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "dc",
+    "n2": "dcs",
+    "n3": "the dc",
+    "n4": "the dcs",
+    "n5": "dc's",
+    "n6": "dcs'",
+    "n7": "a dc",
+    "n8": "many dcs"
+}

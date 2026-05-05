@@ -1,0 +1,18 @@
+{
+    "base": "trio",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "trio",
+    "n2": "trios",
+    "n3": "the trio",
+    "n4": "the trios",
+    "n5": "trio's",
+    "n6": "trios'",
+    "n7": "a trio",
+    "n8": "many trios"
+}

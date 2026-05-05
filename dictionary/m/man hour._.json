@@ -1,0 +1,18 @@
+{
+    "base": "man hour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "man hour",
+    "n2": "man hours",
+    "n3": "the man hour",
+    "n4": "the man hours",
+    "n5": "man hour's",
+    "n6": "man hours'",
+    "n7": "a man hour",
+    "n8": "many man hours"
+}

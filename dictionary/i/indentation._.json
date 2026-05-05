@@ -1,0 +1,18 @@
+{
+    "base": "indentation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indentation",
+    "n2": "indentations",
+    "n3": "the indentation",
+    "n4": "the indentations",
+    "n5": "indentation's",
+    "n6": "indentations'",
+    "n7": "an indentation",
+    "n8": "many indentations"
+}

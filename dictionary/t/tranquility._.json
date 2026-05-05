@@ -1,0 +1,18 @@
+{
+    "base": "tranquility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tranquility",
+    "n2": "tranquilities",
+    "n3": "the tranquility",
+    "n4": "the tranquilities",
+    "n5": "tranquility's",
+    "n6": "tranquilities'",
+    "n7": "a tranquility",
+    "n8": "many tranquilities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "jan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jan",
+    "n2": "jans",
+    "n3": "the jan",
+    "n4": "the jans",
+    "n5": "jan's",
+    "n6": "jans'",
+    "n7": "a jan",
+    "n8": "many jans"
+}

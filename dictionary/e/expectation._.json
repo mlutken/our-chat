@@ -1,0 +1,18 @@
+{
+    "base": "expectation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "expectation",
+    "n2": "expectations",
+    "n3": "the expectation",
+    "n4": "the expectations",
+    "n5": "expectation's",
+    "n6": "expectations'",
+    "n7": "an expectation",
+    "n8": "many expectations"
+}

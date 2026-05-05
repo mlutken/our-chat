@@ -1,0 +1,18 @@
+{
+    "base": "crank call",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crank call",
+    "n2": "crank calls",
+    "n3": "the crank call",
+    "n4": "the crank calls",
+    "n5": "crank call's",
+    "n6": "crank calls'",
+    "n7": "a crank call",
+    "n8": "many crank calls"
+}

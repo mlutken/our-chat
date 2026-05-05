@@ -1,0 +1,18 @@
+{
+    "base": "nutrient",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nutrient",
+    "n2": "nutrients",
+    "n3": "the nutrient",
+    "n4": "the nutrients",
+    "n5": "nutrient's",
+    "n6": "nutrients'",
+    "n7": "a nutrient",
+    "n8": "many nutrients"
+}

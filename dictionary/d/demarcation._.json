@@ -1,0 +1,18 @@
+{
+    "base": "demarcation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "demarcation",
+    "n2": "demarcations",
+    "n3": "the demarcation",
+    "n4": "the demarcations",
+    "n5": "demarcation's",
+    "n6": "demarcations'",
+    "n7": "a demarcation",
+    "n8": "many demarcations"
+}

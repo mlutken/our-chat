@@ -1,0 +1,18 @@
+{
+    "base": "dark blue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dark blue",
+    "n2": "dark blues",
+    "n3": "the dark blue",
+    "n4": "the dark blues",
+    "n5": "dark blue's",
+    "n6": "dark blues'",
+    "n7": "a dark blue",
+    "n8": "many dark blues"
+}

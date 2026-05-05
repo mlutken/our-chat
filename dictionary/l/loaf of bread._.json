@@ -1,0 +1,18 @@
+{
+    "base": "loaf of bread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loaf of bread",
+    "n2": "loaf of breads",
+    "n3": "the loaf of bread",
+    "n4": "the loaf of breads",
+    "n5": "loaf of bread's",
+    "n6": "loaf of breads'",
+    "n7": "a loaf of bread",
+    "n8": "many loaf of breads"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "quaver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quaver",
+    "n2": "quavers",
+    "n3": "the quaver",
+    "n4": "the quavers",
+    "n5": "quaver's",
+    "n6": "quavers'",
+    "n7": "a quaver",
+    "n8": "many quavers"
+}

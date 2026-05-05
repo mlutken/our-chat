@@ -1,0 +1,18 @@
+{
+    "base": "narrowness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "narrowness",
+    "n2": "narrownesses",
+    "n3": "the narrowness",
+    "n4": "the narrownesses",
+    "n5": "narrowness'",
+    "n6": "narrownesses'",
+    "n7": "a narrowness",
+    "n8": "many narrownesses"
+}

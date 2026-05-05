@@ -1,0 +1,18 @@
+{
+    "base": "comportment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "comportment",
+    "n2": "comportments",
+    "n3": "the comportment",
+    "n4": "the comportments",
+    "n5": "comportment's",
+    "n6": "comportments'",
+    "n7": "a comportment",
+    "n8": "many comportments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "soldiery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "soldiery",
+    "n2": "soldieries",
+    "n3": "the soldiery",
+    "n4": "the soldieries",
+    "n5": "soldiery's",
+    "n6": "soldieries'",
+    "n7": "a soldiery",
+    "n8": "many soldieries"
+}

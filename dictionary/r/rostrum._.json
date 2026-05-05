@@ -1,0 +1,18 @@
+{
+    "base": "rostrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rostrum",
+    "n2": "rostra",
+    "n3": "the rostrum",
+    "n4": "the rostra",
+    "n5": "rostrum's",
+    "n6": "rostra's",
+    "n7": "a rostrum",
+    "n8": "many rostra"
+}

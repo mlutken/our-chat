@@ -1,0 +1,18 @@
+{
+    "base": "glutton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glutton",
+    "n2": "gluttons",
+    "n3": "the glutton",
+    "n4": "the gluttons",
+    "n5": "glutton's",
+    "n6": "gluttons'",
+    "n7": "a glutton",
+    "n8": "many gluttons"
+}

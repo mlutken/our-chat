@@ -1,6 +1,7 @@
 {
     "base": "counsel",
     "classes": [
+        "n",
         "v"
     ],
     "commonness": 3,
@@ -10,5 +11,14 @@
     "v2": "counselled",
     "v3": "counselled",
     "v4": "counselling",
-    "v5": "counsels"
+    "v5": "counsels",
+    "proper": false,
+    "n1": "counsel",
+    "n2": "counsels",
+    "n3": "the counsel",
+    "n4": "the counsels",
+    "n5": "counsel's",
+    "n6": "counsels'",
+    "n7": "a counsel",
+    "n8": "many counsels"
 }

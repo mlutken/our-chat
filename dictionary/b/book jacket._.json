@@ -1,0 +1,18 @@
+{
+    "base": "book jacket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "book jacket",
+    "n2": "book jackets",
+    "n3": "the book jacket",
+    "n4": "the book jackets",
+    "n5": "book jacket's",
+    "n6": "book jackets'",
+    "n7": "a book jacket",
+    "n8": "many book jackets"
+}

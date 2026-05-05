@@ -13,5 +13,12 @@
     "v2": "answered",
     "v3": "answered",
     "v4": "answering",
-    "v5": "answers"
+    "v5": "answers",
+    "proper": false,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n6": "answers'",
+    "n7": "an answer",
+    "n8": "many answers"
 }

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "agency",
-    "n2": "agencys",
+    "n2": "agencies",
     "n3": "the agency",
-    "n4": "the agencys",
-    "n5": "agency's"
+    "n4": "the agencies",
+    "n5": "agency's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "agencies'",
+    "n7": "an agency",
+    "n8": "many agencies"
 }

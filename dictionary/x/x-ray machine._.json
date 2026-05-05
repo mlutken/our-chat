@@ -1,0 +1,18 @@
+{
+    "base": "x-ray machine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "x-ray machine",
+    "n2": "x-ray machines",
+    "n3": "the x-ray machine",
+    "n4": "the x-ray machines",
+    "n5": "x-ray machine's",
+    "n6": "x-ray machines'",
+    "n7": "a x-ray machine",
+    "n8": "many x-ray machines"
+}

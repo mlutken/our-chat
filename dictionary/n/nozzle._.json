@@ -1,0 +1,18 @@
+{
+    "base": "nozzle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nozzle",
+    "n2": "nozzles",
+    "n3": "the nozzle",
+    "n4": "the nozzles",
+    "n5": "nozzle's",
+    "n6": "nozzles'",
+    "n7": "a nozzle",
+    "n8": "many nozzles"
+}

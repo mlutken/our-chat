@@ -1,0 +1,18 @@
+{
+    "base": "gap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "gap",
+    "n2": "gaps",
+    "n3": "the gap",
+    "n4": "the gaps",
+    "n5": "gap's",
+    "n6": "gaps'",
+    "n7": "a gap",
+    "n8": "many gaps"
+}

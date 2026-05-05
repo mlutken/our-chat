@@ -1,0 +1,18 @@
+{
+    "base": "infancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "infancy",
+    "n2": "infancies",
+    "n3": "the infancy",
+    "n4": "the infancies",
+    "n5": "infancy's",
+    "n6": "infancies'",
+    "n7": "an infancy",
+    "n8": "many infancies"
+}

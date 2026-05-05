@@ -1,0 +1,18 @@
+{
+    "base": "clean slate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clean slate",
+    "n2": "clean slates",
+    "n3": "the clean slate",
+    "n4": "the clean slates",
+    "n5": "clean slate's",
+    "n6": "clean slates'",
+    "n7": "a clean slate",
+    "n8": "many clean slates"
+}

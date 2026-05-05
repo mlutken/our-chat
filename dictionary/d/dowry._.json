@@ -1,0 +1,18 @@
+{
+    "base": "dowry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dowry",
+    "n2": "dowries",
+    "n3": "the dowry",
+    "n4": "the dowries",
+    "n5": "dowry's",
+    "n6": "dowries'",
+    "n7": "a dowry",
+    "n8": "many dowries"
+}

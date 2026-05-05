@@ -1,0 +1,18 @@
+{
+    "base": "sunday school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sunday school",
+    "n2": "sunday schools",
+    "n3": "the sunday school",
+    "n4": "the sunday schools",
+    "n5": "sunday school's",
+    "n6": "sunday schools'",
+    "n7": "a sunday school",
+    "n8": "many sunday schools"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "neutralization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "neutralization",
+    "n2": "neutralizations",
+    "n3": "the neutralization",
+    "n4": "the neutralizations",
+    "n5": "neutralization's",
+    "n6": "neutralizations'",
+    "n7": "a neutralization",
+    "n8": "many neutralizations"
+}

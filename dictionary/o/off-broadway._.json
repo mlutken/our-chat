@@ -1,0 +1,18 @@
+{
+    "base": "off-broadway",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "off-broadway",
+    "n2": "off-broadways",
+    "n3": "the off-broadway",
+    "n4": "the off-broadways",
+    "n5": "off-broadway's",
+    "n6": "off-broadways'",
+    "n7": "an off-broadway",
+    "n8": "many off-broadways"
+}

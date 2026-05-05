@@ -1,0 +1,18 @@
+{
+    "base": "plain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plain",
+    "n2": "plains",
+    "n3": "the plain",
+    "n4": "the plains",
+    "n5": "plain's",
+    "n6": "plains'",
+    "n7": "a plain",
+    "n8": "many plains"
+}

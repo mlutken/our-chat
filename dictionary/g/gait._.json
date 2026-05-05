@@ -1,0 +1,18 @@
+{
+    "base": "gait",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gait",
+    "n2": "gaits",
+    "n3": "the gait",
+    "n4": "the gaits",
+    "n5": "gait's",
+    "n6": "gaits'",
+    "n7": "a gait",
+    "n8": "many gaits"
+}

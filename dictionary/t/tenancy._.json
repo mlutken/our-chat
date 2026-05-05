@@ -1,0 +1,18 @@
+{
+    "base": "tenancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tenancy",
+    "n2": "tenancies",
+    "n3": "the tenancy",
+    "n4": "the tenancies",
+    "n5": "tenancy's",
+    "n6": "tenancies'",
+    "n7": "a tenancy",
+    "n8": "many tenancies"
+}

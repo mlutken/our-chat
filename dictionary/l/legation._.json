@@ -1,0 +1,18 @@
+{
+    "base": "legation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "legation",
+    "n2": "legations",
+    "n3": "the legation",
+    "n4": "the legations",
+    "n5": "legation's",
+    "n6": "legations'",
+    "n7": "a legation",
+    "n8": "many legations"
+}

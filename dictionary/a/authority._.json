@@ -7,5 +7,12 @@
     "n2": "authorities",
     "n3": "the authority",
     "n4": "the authorities",
-    "n5": "authority's"
+    "n5": "authority's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "authorities'",
+    "n7": "an authority",
+    "n8": "many authorities"
 }

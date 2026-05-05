@@ -1,0 +1,18 @@
+{
+    "base": "ground level",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ground level",
+    "n2": "ground levels",
+    "n3": "the ground level",
+    "n4": "the ground levels",
+    "n5": "ground level's",
+    "n6": "ground levels'",
+    "n7": "a ground level",
+    "n8": "many ground levels"
+}

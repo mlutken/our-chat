@@ -1,0 +1,18 @@
+{
+    "base": "mercer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mercer",
+    "n2": "mercers",
+    "n3": "the mercer",
+    "n4": "the mercers",
+    "n5": "mercer's",
+    "n6": "mercers'",
+    "n7": "a mercer",
+    "n8": "many mercers"
+}

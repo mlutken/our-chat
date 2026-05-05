@@ -1,0 +1,18 @@
+{
+    "base": "basin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "basin",
+    "n2": "basins",
+    "n3": "the basin",
+    "n4": "the basins",
+    "n5": "basin's",
+    "n6": "basins'",
+    "n7": "a basin",
+    "n8": "many basins"
+}

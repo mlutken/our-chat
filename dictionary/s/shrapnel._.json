@@ -1,0 +1,18 @@
+{
+    "base": "shrapnel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shrapnel",
+    "n2": "shrapnels",
+    "n3": "the shrapnel",
+    "n4": "the shrapnels",
+    "n5": "shrapnel's",
+    "n6": "shrapnels'",
+    "n7": "a shrapnel",
+    "n8": "many shrapnels"
+}

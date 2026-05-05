@@ -1,0 +1,18 @@
+{
+    "base": "turntable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turntable",
+    "n2": "turntables",
+    "n3": "the turntable",
+    "n4": "the turntables",
+    "n5": "turntable's",
+    "n6": "turntables'",
+    "n7": "a turntable",
+    "n8": "many turntables"
+}

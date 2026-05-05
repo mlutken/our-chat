@@ -1,0 +1,18 @@
+{
+    "base": "impunity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impunity",
+    "n2": "impunities",
+    "n3": "the impunity",
+    "n4": "the impunities",
+    "n5": "impunity's",
+    "n6": "impunities'",
+    "n7": "an impunity",
+    "n8": "many impunities"
+}

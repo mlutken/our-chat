@@ -1,0 +1,18 @@
+{
+    "base": "doctorate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doctorate",
+    "n2": "doctorates",
+    "n3": "the doctorate",
+    "n4": "the doctorates",
+    "n5": "doctorate's",
+    "n6": "doctorates'",
+    "n7": "a doctorate",
+    "n8": "many doctorates"
+}

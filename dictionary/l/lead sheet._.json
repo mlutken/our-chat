@@ -1,0 +1,18 @@
+{
+    "base": "lead sheet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lead sheet",
+    "n2": "lead sheets",
+    "n3": "the lead sheet",
+    "n4": "the lead sheets",
+    "n5": "lead sheet's",
+    "n6": "lead sheets'",
+    "n7": "a lead sheet",
+    "n8": "many lead sheets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mouthful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mouthful",
+    "n2": "mouthfuls",
+    "n3": "the mouthful",
+    "n4": "the mouthfuls",
+    "n5": "mouthful's",
+    "n6": "mouthfuls'",
+    "n7": "a mouthful",
+    "n8": "many mouthfuls"
+}

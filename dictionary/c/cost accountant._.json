@@ -1,0 +1,18 @@
+{
+    "base": "cost accountant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cost accountant",
+    "n2": "cost accountants",
+    "n3": "the cost accountant",
+    "n4": "the cost accountants",
+    "n5": "cost accountant's",
+    "n6": "cost accountants'",
+    "n7": "a cost accountant",
+    "n8": "many cost accountants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "caretaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caretaker",
+    "n2": "caretakers",
+    "n3": "the caretaker",
+    "n4": "the caretakers",
+    "n5": "caretaker's",
+    "n6": "caretakers'",
+    "n7": "a caretaker",
+    "n8": "many caretakers"
+}

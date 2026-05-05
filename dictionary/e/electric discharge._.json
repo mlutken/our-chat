@@ -1,0 +1,18 @@
+{
+    "base": "electric discharge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electric discharge",
+    "n2": "electric discharges",
+    "n3": "the electric discharge",
+    "n4": "the electric discharges",
+    "n5": "electric discharge's",
+    "n6": "electric discharges'",
+    "n7": "an electric discharge",
+    "n8": "many electric discharges"
+}

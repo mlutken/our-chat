@@ -1,0 +1,18 @@
+{
+    "base": "gamin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gamin",
+    "n2": "gamins",
+    "n3": "the gamin",
+    "n4": "the gamins",
+    "n5": "gamin's",
+    "n6": "gamins'",
+    "n7": "a gamin",
+    "n8": "many gamins"
+}

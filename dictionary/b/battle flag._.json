@@ -1,0 +1,18 @@
+{
+    "base": "battle flag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "battle flag",
+    "n2": "battle flags",
+    "n3": "the battle flag",
+    "n4": "the battle flags",
+    "n5": "battle flag's",
+    "n6": "battle flags'",
+    "n7": "a battle flag",
+    "n8": "many battle flags"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "scorn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "scorn",
+    "n2": "scorns",
+    "n3": "the scorn",
+    "n4": "the scorns",
+    "n5": "scorn's",
+    "n6": "scorns'",
+    "n7": "a scorn",
+    "n8": "many scorns"
+}

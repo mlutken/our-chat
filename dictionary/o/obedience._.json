@@ -1,0 +1,18 @@
+{
+    "base": "obedience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "obedience",
+    "n2": "obediences",
+    "n3": "the obedience",
+    "n4": "the obediences",
+    "n5": "obedience's",
+    "n6": "obediences'",
+    "n7": "an obedience",
+    "n8": "many obediences"
+}

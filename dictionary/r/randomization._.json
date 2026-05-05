@@ -1,0 +1,18 @@
+{
+    "base": "randomization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "randomization",
+    "n2": "randomizations",
+    "n3": "the randomization",
+    "n4": "the randomizations",
+    "n5": "randomization's",
+    "n6": "randomizations'",
+    "n7": "a randomization",
+    "n8": "many randomizations"
+}

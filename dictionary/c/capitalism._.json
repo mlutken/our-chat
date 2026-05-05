@@ -1,0 +1,18 @@
+{
+    "base": "capitalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "capitalism",
+    "n2": "capitalisms",
+    "n3": "the capitalism",
+    "n4": "the capitalisms",
+    "n5": "capitalism's",
+    "n6": "capitalisms'",
+    "n7": "a capitalism",
+    "n8": "many capitalisms"
+}

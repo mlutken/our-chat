@@ -1,0 +1,18 @@
+{
+    "base": "cheese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cheese",
+    "n2": "cheeses",
+    "n3": "the cheese",
+    "n4": "the cheeses",
+    "n5": "cheese's",
+    "n6": "cheeses'",
+    "n7": "a cheese",
+    "n8": "many cheeses"
+}

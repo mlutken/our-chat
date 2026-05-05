@@ -1,0 +1,18 @@
+{
+    "base": "howling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "howling",
+    "n2": "howlings",
+    "n3": "the howling",
+    "n4": "the howlings",
+    "n5": "howling's",
+    "n6": "howlings'",
+    "n7": "a howling",
+    "n8": "many howlings"
+}

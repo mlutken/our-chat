@@ -1,0 +1,18 @@
+{
+    "base": "world council",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "world council",
+    "n2": "world councils",
+    "n3": "the world council",
+    "n4": "the world councils",
+    "n5": "world council's",
+    "n6": "world councils'",
+    "n7": "a world council",
+    "n8": "many world councils"
+}

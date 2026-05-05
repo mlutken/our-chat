@@ -1,0 +1,18 @@
+{
+    "base": "trough",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "trough",
+    "n2": "troughs",
+    "n3": "the trough",
+    "n4": "the troughs",
+    "n5": "trough's",
+    "n6": "troughs'",
+    "n7": "a trough",
+    "n8": "many troughs"
+}

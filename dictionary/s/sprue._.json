@@ -1,0 +1,18 @@
+{
+    "base": "sprue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sprue",
+    "n2": "sprues",
+    "n3": "the sprue",
+    "n4": "the sprues",
+    "n5": "sprue's",
+    "n6": "sprues'",
+    "n7": "a sprue",
+    "n8": "many sprues"
+}

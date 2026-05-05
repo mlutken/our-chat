@@ -1,0 +1,18 @@
+{
+    "base": "hysteria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hysteria",
+    "n2": "hysterias",
+    "n3": "the hysteria",
+    "n4": "the hysterias",
+    "n5": "hysteria's",
+    "n6": "hysterias'",
+    "n7": "a hysteria",
+    "n8": "many hysterias"
+}

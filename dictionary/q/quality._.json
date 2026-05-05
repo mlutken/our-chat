@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "quality",
-    "n2": "qualitys",
+    "n2": "qualities",
     "n3": "the quality",
-    "n4": "the qualitys",
-    "n5": "quality's"
+    "n4": "the qualities",
+    "n5": "quality's",
+    "proper": false,
+    "commonness": 76,
+    "max_commonness": 6834,
+    "commonness_ge_count": 180,
+    "n6": "qualities'",
+    "n7": "a quality",
+    "n8": "many qualities"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "precipitin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "precipitin",
+    "n2": "precipitins",
+    "n3": "the precipitin",
+    "n4": "the precipitins",
+    "n5": "precipitin's",
+    "n6": "precipitins'",
+    "n7": "a precipitin",
+    "n8": "many precipitins"
+}

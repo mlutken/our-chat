@@ -1,0 +1,18 @@
+{
+    "base": "cadmium yellow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cadmium yellow",
+    "n2": "cadmium yellows",
+    "n3": "the cadmium yellow",
+    "n4": "the cadmium yellows",
+    "n5": "cadmium yellow's",
+    "n6": "cadmium yellows'",
+    "n7": "a cadmium yellow",
+    "n8": "many cadmium yellows"
+}

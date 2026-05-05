@@ -1,0 +1,18 @@
+{
+    "base": "drugstore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "drugstore",
+    "n2": "drugstores",
+    "n3": "the drugstore",
+    "n4": "the drugstores",
+    "n5": "drugstore's",
+    "n6": "drugstores'",
+    "n7": "a drugstore",
+    "n8": "many drugstores"
+}

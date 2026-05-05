@@ -7,5 +7,12 @@
     "n2": "versions",
     "n3": "the version",
     "n4": "the versions",
-    "n5": "version's"
+    "n5": "version's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "versions'",
+    "n7": "a version",
+    "n8": "many versions"
 }

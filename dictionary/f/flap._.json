@@ -1,11 +1,24 @@
 {
     "base": "flap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "flap",
     "v2": "flapped",
     "v3": "flapped",
     "v4": "flapping",
-    "v5": "flaps"
+    "v5": "flaps",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flap",
+    "n2": "flaps",
+    "n3": "the flap",
+    "n4": "the flaps",
+    "n5": "flap's",
+    "n6": "flaps'",
+    "n7": "a flap",
+    "n8": "many flaps"
 }

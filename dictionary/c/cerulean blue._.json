@@ -1,0 +1,18 @@
+{
+    "base": "cerulean blue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cerulean blue",
+    "n2": "cerulean blues",
+    "n3": "the cerulean blue",
+    "n4": "the cerulean blues",
+    "n5": "cerulean blue's",
+    "n6": "cerulean blues'",
+    "n7": "a cerulean blue",
+    "n8": "many cerulean blues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "journalist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "journalist",
+    "n2": "journalists",
+    "n3": "the journalist",
+    "n4": "the journalists",
+    "n5": "journalist's",
+    "n6": "journalists'",
+    "n7": "a journalist",
+    "n8": "many journalists"
+}

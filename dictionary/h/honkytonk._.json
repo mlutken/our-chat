@@ -1,0 +1,18 @@
+{
+    "base": "honkytonk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "honkytonk",
+    "n2": "honkytonks",
+    "n3": "the honkytonk",
+    "n4": "the honkytonks",
+    "n5": "honkytonk's",
+    "n6": "honkytonks'",
+    "n7": "a honkytonk",
+    "n8": "many honkytonks"
+}

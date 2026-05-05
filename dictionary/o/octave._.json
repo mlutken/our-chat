@@ -1,0 +1,18 @@
+{
+    "base": "octave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "octave",
+    "n2": "octaves",
+    "n3": "the octave",
+    "n4": "the octaves",
+    "n5": "octave's",
+    "n6": "octaves'",
+    "n7": "an octave",
+    "n8": "many octaves"
+}

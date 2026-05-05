@@ -1,0 +1,18 @@
+{
+    "base": "stager",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stager",
+    "n2": "stagers",
+    "n3": "the stager",
+    "n4": "the stagers",
+    "n5": "stager's",
+    "n6": "stagers'",
+    "n7": "a stager",
+    "n8": "many stagers"
+}

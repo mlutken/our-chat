@@ -1,0 +1,18 @@
+{
+    "base": "rh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rh",
+    "n2": "rhs",
+    "n3": "the rh",
+    "n4": "the rhs",
+    "n5": "rh's",
+    "n6": "rhs'",
+    "n7": "a rh",
+    "n8": "many rhs"
+}

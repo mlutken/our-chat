@@ -1,0 +1,18 @@
+{
+    "base": "leaflet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leaflet",
+    "n2": "leaflets",
+    "n3": "the leaflet",
+    "n4": "the leaflets",
+    "n5": "leaflet's",
+    "n6": "leaflets'",
+    "n7": "a leaflet",
+    "n8": "many leaflets"
+}

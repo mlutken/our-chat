@@ -1,0 +1,18 @@
+{
+    "base": "terrain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "terrain",
+    "n2": "terrains",
+    "n3": "the terrain",
+    "n4": "the terrains",
+    "n5": "terrain's",
+    "n6": "terrains'",
+    "n7": "a terrain",
+    "n8": "many terrains"
+}

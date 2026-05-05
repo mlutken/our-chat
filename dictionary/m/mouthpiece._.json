@@ -1,0 +1,18 @@
+{
+    "base": "mouthpiece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mouthpiece",
+    "n2": "mouthpieces",
+    "n3": "the mouthpiece",
+    "n4": "the mouthpieces",
+    "n5": "mouthpiece's",
+    "n6": "mouthpieces'",
+    "n7": "a mouthpiece",
+    "n8": "many mouthpieces"
+}

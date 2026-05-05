@@ -1,0 +1,18 @@
+{
+    "base": "septum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "septum",
+    "n2": "septa",
+    "n3": "the septum",
+    "n4": "the septa",
+    "n5": "septum's",
+    "n6": "septa's",
+    "n7": "a septum",
+    "n8": "many septa"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "damascus",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "damascus",
+    "n2": "damascuses",
+    "n3": "the damascus",
+    "n4": "the damascuses",
+    "n5": "damascus'",
+    "n6": "damascuses'",
+    "n7": "a damascus",
+    "n8": "many damascuses"
+}

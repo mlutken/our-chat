@@ -7,5 +7,12 @@
     "n2": "indices",
     "n3": "the index",
     "n4": "the indices",
-    "n5": "index's"
+    "n5": "index's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "indices'",
+    "n7": "an index",
+    "n8": "many indices"
 }

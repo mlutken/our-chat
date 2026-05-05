@@ -1,0 +1,18 @@
+{
+    "base": "napoleon bonaparte",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "napoleon bonaparte",
+    "n2": "napoleon bonapartes",
+    "n3": "the napoleon bonaparte",
+    "n4": "the napoleon bonapartes",
+    "n5": "napoleon bonaparte's",
+    "n6": "napoleon bonapartes'",
+    "n7": "a napoleon bonaparte",
+    "n8": "many napoleon bonapartes"
+}

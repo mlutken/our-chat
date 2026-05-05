@@ -1,0 +1,18 @@
+{
+    "base": "violin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "violin",
+    "n2": "violins",
+    "n3": "the violin",
+    "n4": "the violins",
+    "n5": "violin's",
+    "n6": "violins'",
+    "n7": "a violin",
+    "n8": "many violins"
+}

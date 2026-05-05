@@ -1,0 +1,18 @@
+{
+    "base": "slave trade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slave trade",
+    "n2": "slave trades",
+    "n3": "the slave trade",
+    "n4": "the slave trades",
+    "n5": "slave trade's",
+    "n6": "slave trades'",
+    "n7": "a slave trade",
+    "n8": "many slave trades"
+}

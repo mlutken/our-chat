@@ -1,0 +1,18 @@
+{
+    "base": "relentlessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "relentlessness",
+    "n2": "relentlessnesses",
+    "n3": "the relentlessness",
+    "n4": "the relentlessnesses",
+    "n5": "relentlessness'",
+    "n6": "relentlessnesses'",
+    "n7": "a relentlessness",
+    "n8": "many relentlessnesses"
+}

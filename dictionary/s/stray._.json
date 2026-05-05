@@ -1,0 +1,18 @@
+{
+    "base": "stray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stray",
+    "n2": "strays",
+    "n3": "the stray",
+    "n4": "the strays",
+    "n5": "stray's",
+    "n6": "strays'",
+    "n7": "a stray",
+    "n8": "many strays"
+}

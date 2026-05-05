@@ -1,0 +1,18 @@
+{
+    "base": "protest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "protest",
+    "n2": "protests",
+    "n3": "the protest",
+    "n4": "the protests",
+    "n5": "protest's",
+    "n6": "protests'",
+    "n7": "a protest",
+    "n8": "many protests"
+}

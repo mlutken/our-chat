@@ -1,0 +1,18 @@
+{
+    "base": "bankruptcy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bankruptcy",
+    "n2": "bankruptcies",
+    "n3": "the bankruptcy",
+    "n4": "the bankruptcies",
+    "n5": "bankruptcy's",
+    "n6": "bankruptcies'",
+    "n7": "a bankruptcy",
+    "n8": "many bankruptcies"
+}

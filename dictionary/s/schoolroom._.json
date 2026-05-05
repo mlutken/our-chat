@@ -1,0 +1,18 @@
+{
+    "base": "schoolroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "schoolroom",
+    "n2": "schoolrooms",
+    "n3": "the schoolroom",
+    "n4": "the schoolrooms",
+    "n5": "schoolroom's",
+    "n6": "schoolrooms'",
+    "n7": "a schoolroom",
+    "n8": "many schoolrooms"
+}

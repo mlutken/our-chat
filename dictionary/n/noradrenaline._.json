@@ -1,0 +1,18 @@
+{
+    "base": "noradrenaline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "noradrenaline",
+    "n2": "noradrenalines",
+    "n3": "the noradrenaline",
+    "n4": "the noradrenalines",
+    "n5": "noradrenaline's",
+    "n6": "noradrenalines'",
+    "n7": "a noradrenaline",
+    "n8": "many noradrenalines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "os",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "os",
+    "n2": "ora",
+    "n3": "the os",
+    "n4": "the ora",
+    "n5": "os'",
+    "n6": "ora's",
+    "n7": "an os",
+    "n8": "many ora"
+}

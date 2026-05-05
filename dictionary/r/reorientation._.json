@@ -1,0 +1,18 @@
+{
+    "base": "reorientation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reorientation",
+    "n2": "reorientations",
+    "n3": "the reorientation",
+    "n4": "the reorientations",
+    "n5": "reorientation's",
+    "n6": "reorientations'",
+    "n7": "a reorientation",
+    "n8": "many reorientations"
+}

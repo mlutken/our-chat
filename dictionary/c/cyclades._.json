@@ -1,0 +1,18 @@
+{
+    "base": "cyclades",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cyclades",
+    "n2": "cycladeses",
+    "n3": "the cyclades",
+    "n4": "the cycladeses",
+    "n5": "cyclades'",
+    "n6": "cycladeses'",
+    "n7": "a cyclades",
+    "n8": "many cycladeses"
+}

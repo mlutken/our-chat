@@ -1,0 +1,18 @@
+{
+    "base": "slum area",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slum area",
+    "n2": "slum areas",
+    "n3": "the slum area",
+    "n4": "the slum areas",
+    "n5": "slum area's",
+    "n6": "slum areas'",
+    "n7": "a slum area",
+    "n8": "many slum areas"
+}

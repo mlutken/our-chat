@@ -1,0 +1,18 @@
+{
+    "base": "puppet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "puppet",
+    "n2": "puppets",
+    "n3": "the puppet",
+    "n4": "the puppets",
+    "n5": "puppet's",
+    "n6": "puppets'",
+    "n7": "a puppet",
+    "n8": "many puppets"
+}

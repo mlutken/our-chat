@@ -1,0 +1,18 @@
+{
+    "base": "latitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "latitude",
+    "n2": "latitudes",
+    "n3": "the latitude",
+    "n4": "the latitudes",
+    "n5": "latitude's",
+    "n6": "latitudes'",
+    "n7": "a latitude",
+    "n8": "many latitudes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "machinist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "machinist",
+    "n2": "machinists",
+    "n3": "the machinist",
+    "n4": "the machinists",
+    "n5": "machinist's",
+    "n6": "machinists'",
+    "n7": "a machinist",
+    "n8": "many machinists"
+}

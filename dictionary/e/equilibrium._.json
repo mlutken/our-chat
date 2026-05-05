@@ -1,0 +1,18 @@
+{
+    "base": "equilibrium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "equilibrium",
+    "n2": "equilibria",
+    "n3": "the equilibrium",
+    "n4": "the equilibria",
+    "n5": "equilibrium's",
+    "n6": "equilibria's",
+    "n7": "an equilibrium",
+    "n8": "many equilibria"
+}

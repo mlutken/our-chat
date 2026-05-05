@@ -1,0 +1,18 @@
+{
+    "base": "tollgate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tollgate",
+    "n2": "tollgates",
+    "n3": "the tollgate",
+    "n4": "the tollgates",
+    "n5": "tollgate's",
+    "n6": "tollgates'",
+    "n7": "a tollgate",
+    "n8": "many tollgates"
+}

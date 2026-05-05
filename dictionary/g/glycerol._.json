@@ -1,0 +1,18 @@
+{
+    "base": "glycerol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "glycerol",
+    "n2": "glycerols",
+    "n3": "the glycerol",
+    "n4": "the glycerols",
+    "n5": "glycerol's",
+    "n6": "glycerols'",
+    "n7": "a glycerol",
+    "n8": "many glycerols"
+}

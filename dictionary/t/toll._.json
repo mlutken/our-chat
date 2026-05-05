@@ -1,0 +1,18 @@
+{
+    "base": "toll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "toll",
+    "n2": "tolls",
+    "n3": "the toll",
+    "n4": "the tolls",
+    "n5": "toll's",
+    "n6": "tolls'",
+    "n7": "a toll",
+    "n8": "many tolls"
+}

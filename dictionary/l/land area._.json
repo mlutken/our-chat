@@ -1,0 +1,18 @@
+{
+    "base": "land area",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "land area",
+    "n2": "land areas",
+    "n3": "the land area",
+    "n4": "the land areas",
+    "n5": "land area's",
+    "n6": "land areas'",
+    "n7": "a land area",
+    "n8": "many land areas"
+}

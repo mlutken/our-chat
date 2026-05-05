@@ -1,0 +1,18 @@
+{
+    "base": "swede",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swede",
+    "n2": "swedes",
+    "n3": "the swede",
+    "n4": "the swedes",
+    "n5": "swede's",
+    "n6": "swedes'",
+    "n7": "a swede",
+    "n8": "many swedes"
+}

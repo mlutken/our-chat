@@ -1,0 +1,18 @@
+{
+    "base": "anion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anion",
+    "n2": "anions",
+    "n3": "the anion",
+    "n4": "the anions",
+    "n5": "anion's",
+    "n6": "anions'",
+    "n7": "an anion",
+    "n8": "many anions"
+}

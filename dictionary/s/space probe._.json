@@ -1,0 +1,18 @@
+{
+    "base": "space probe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "space probe",
+    "n2": "space probes",
+    "n3": "the space probe",
+    "n4": "the space probes",
+    "n5": "space probe's",
+    "n6": "space probes'",
+    "n7": "a space probe",
+    "n8": "many space probes"
+}

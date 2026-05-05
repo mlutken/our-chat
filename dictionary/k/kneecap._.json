@@ -1,0 +1,18 @@
+{
+    "base": "kneecap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kneecap",
+    "n2": "kneecaps",
+    "n3": "the kneecap",
+    "n4": "the kneecaps",
+    "n5": "kneecap's",
+    "n6": "kneecaps'",
+    "n7": "a kneecap",
+    "n8": "many kneecaps"
+}

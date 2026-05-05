@@ -1,0 +1,18 @@
+{
+    "base": "despoiler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "despoiler",
+    "n2": "despoilers",
+    "n3": "the despoiler",
+    "n4": "the despoilers",
+    "n5": "despoiler's",
+    "n6": "despoilers'",
+    "n7": "a despoiler",
+    "n8": "many despoilers"
+}

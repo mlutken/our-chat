@@ -1,0 +1,18 @@
+{
+    "base": "destroyer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "destroyer",
+    "n2": "destroyers",
+    "n3": "the destroyer",
+    "n4": "the destroyers",
+    "n5": "destroyer's",
+    "n6": "destroyers'",
+    "n7": "a destroyer",
+    "n8": "many destroyers"
+}

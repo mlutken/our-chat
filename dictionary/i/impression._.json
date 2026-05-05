@@ -7,5 +7,12 @@
     "n2": "impressions",
     "n3": "the impression",
     "n4": "the impressions",
-    "n5": "impression's"
+    "n5": "impression's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "impressions'",
+    "n7": "an impression",
+    "n8": "many impressions"
 }

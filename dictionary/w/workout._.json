@@ -1,0 +1,18 @@
+{
+    "base": "workout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "workout",
+    "n2": "workouts",
+    "n3": "the workout",
+    "n4": "the workouts",
+    "n5": "workout's",
+    "n6": "workouts'",
+    "n7": "a workout",
+    "n8": "many workouts"
+}

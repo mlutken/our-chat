@@ -1,0 +1,18 @@
+{
+    "base": "lorelei",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lorelei",
+    "n2": "loreleis",
+    "n3": "the lorelei",
+    "n4": "the loreleis",
+    "n5": "lorelei's",
+    "n6": "loreleis'",
+    "n7": "a lorelei",
+    "n8": "many loreleis"
+}

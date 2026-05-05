@@ -1,0 +1,18 @@
+{
+    "base": "bachelor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bachelor",
+    "n2": "bachelors",
+    "n3": "the bachelor",
+    "n4": "the bachelors",
+    "n5": "bachelor's",
+    "n6": "bachelors'",
+    "n7": "a bachelor",
+    "n8": "many bachelors"
+}

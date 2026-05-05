@@ -11,5 +11,12 @@
     "n4": "the outsides",
     "n5": "outside's",
     "f0": "outside",
-    "adv_subtype": "place"
+    "adv_subtype": "place",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "outsides'",
+    "n7": "an outside",
+    "n8": "many outsides"
 }

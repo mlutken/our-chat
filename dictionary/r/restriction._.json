@@ -1,0 +1,18 @@
+{
+    "base": "restriction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "restriction",
+    "n2": "restrictions",
+    "n3": "the restriction",
+    "n4": "the restrictions",
+    "n5": "restriction's",
+    "n6": "restrictions'",
+    "n7": "a restriction",
+    "n8": "many restrictions"
+}

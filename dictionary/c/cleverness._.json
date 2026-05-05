@@ -1,0 +1,18 @@
+{
+    "base": "cleverness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cleverness",
+    "n2": "clevernesses",
+    "n3": "the cleverness",
+    "n4": "the clevernesses",
+    "n5": "cleverness'",
+    "n6": "clevernesses'",
+    "n7": "a cleverness",
+    "n8": "many clevernesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sinusoid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sinusoid",
+    "n2": "sinusoids",
+    "n3": "the sinusoid",
+    "n4": "the sinusoids",
+    "n5": "sinusoid's",
+    "n6": "sinusoids'",
+    "n7": "a sinusoid",
+    "n8": "many sinusoids"
+}

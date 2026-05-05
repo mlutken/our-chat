@@ -7,5 +7,12 @@
     "n2": "flights",
     "n3": "the flight",
     "n4": "the flights",
-    "n5": "flight's"
+    "n5": "flight's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "flights'",
+    "n7": "a flight",
+    "n8": "many flights"
 }

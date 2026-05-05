@@ -1,0 +1,18 @@
+{
+    "base": "chain reaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chain reaction",
+    "n2": "chain reactions",
+    "n3": "the chain reaction",
+    "n4": "the chain reactions",
+    "n5": "chain reaction's",
+    "n6": "chain reactions'",
+    "n7": "a chain reaction",
+    "n8": "many chain reactions"
+}

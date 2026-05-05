@@ -1,0 +1,18 @@
+{
+    "base": "figural blindness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "figural blindness",
+    "n2": "figural blindnesses",
+    "n3": "the figural blindness",
+    "n4": "the figural blindnesses",
+    "n5": "figural blindness'",
+    "n6": "figural blindnesses'",
+    "n7": "a figural blindness",
+    "n8": "many figural blindnesses"
+}

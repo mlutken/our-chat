@@ -1,0 +1,18 @@
+{
+    "base": "receipts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "receipts",
+    "n2": "receiptses",
+    "n3": "the receipts",
+    "n4": "the receiptses",
+    "n5": "receipts'",
+    "n6": "receiptses'",
+    "n7": "a receipts",
+    "n8": "many receiptses"
+}

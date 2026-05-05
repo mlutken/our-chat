@@ -7,5 +7,12 @@
     "n2": "lengths",
     "n3": "the length",
     "n4": "the lengths",
-    "n5": "length's"
+    "n5": "length's",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n6": "lengths'",
+    "n7": "a length",
+    "n8": "many lengths"
 }

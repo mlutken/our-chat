@@ -1,0 +1,18 @@
+{
+    "base": "mv",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mv",
+    "n2": "mvs",
+    "n3": "the mv",
+    "n4": "the mvs",
+    "n5": "mv's",
+    "n6": "mvs'",
+    "n7": "a mv",
+    "n8": "many mvs"
+}

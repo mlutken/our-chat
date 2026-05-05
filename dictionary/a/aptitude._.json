@@ -1,0 +1,18 @@
+{
+    "base": "aptitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "aptitude",
+    "n2": "aptitudes",
+    "n3": "the aptitude",
+    "n4": "the aptitudes",
+    "n5": "aptitude's",
+    "n6": "aptitudes'",
+    "n7": "an aptitude",
+    "n8": "many aptitudes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "zone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zone",
+    "n2": "zones",
+    "n3": "the zone",
+    "n4": "the zones",
+    "n5": "zone's",
+    "n6": "zones'",
+    "n7": "a zone",
+    "n8": "many zones"
+}

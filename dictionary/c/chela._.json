@@ -1,0 +1,18 @@
+{
+    "base": "chela",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chela",
+    "n2": "chelae",
+    "n3": "the chela",
+    "n4": "the chelae",
+    "n5": "chela's",
+    "n6": "chelae's",
+    "n7": "a chela",
+    "n8": "many chelae"
+}

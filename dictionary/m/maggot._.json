@@ -1,0 +1,18 @@
+{
+    "base": "maggot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "maggot",
+    "n2": "maggots",
+    "n3": "the maggot",
+    "n4": "the maggots",
+    "n5": "maggot's",
+    "n6": "maggots'",
+    "n7": "a maggot",
+    "n8": "many maggots"
+}

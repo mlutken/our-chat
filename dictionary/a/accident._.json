@@ -7,5 +7,12 @@
     "n2": "accidents",
     "n3": "the accident",
     "n4": "the accidents",
-    "n5": "accident's"
+    "n5": "accident's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "accidents'",
+    "n7": "an accident",
+    "n8": "many accidents"
 }

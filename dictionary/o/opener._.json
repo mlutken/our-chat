@@ -1,0 +1,18 @@
+{
+    "base": "opener",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "opener",
+    "n2": "openers",
+    "n3": "the opener",
+    "n4": "the openers",
+    "n5": "opener's",
+    "n6": "openers'",
+    "n7": "an opener",
+    "n8": "many openers"
+}

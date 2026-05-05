@@ -1,0 +1,18 @@
+{
+    "base": "safe-conduct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "safe-conduct",
+    "n2": "safe-conducts",
+    "n3": "the safe-conduct",
+    "n4": "the safe-conducts",
+    "n5": "safe-conduct's",
+    "n6": "safe-conducts'",
+    "n7": "a safe-conduct",
+    "n8": "many safe-conducts"
+}

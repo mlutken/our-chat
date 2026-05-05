@@ -1,0 +1,18 @@
+{
+    "base": "sports car",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sports car",
+    "n2": "sports cars",
+    "n3": "the sports car",
+    "n4": "the sports cars",
+    "n5": "sports car's",
+    "n6": "sports cars'",
+    "n7": "a sports car",
+    "n8": "many sports cars"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "soap powder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soap powder",
+    "n2": "soap powders",
+    "n3": "the soap powder",
+    "n4": "the soap powders",
+    "n5": "soap powder's",
+    "n6": "soap powders'",
+    "n7": "a soap powder",
+    "n8": "many soap powders"
+}

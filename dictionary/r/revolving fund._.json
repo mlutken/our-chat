@@ -1,0 +1,18 @@
+{
+    "base": "revolving fund",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "revolving fund",
+    "n2": "revolving funds",
+    "n3": "the revolving fund",
+    "n4": "the revolving funds",
+    "n5": "revolving fund's",
+    "n6": "revolving funds'",
+    "n7": "a revolving fund",
+    "n8": "many revolving funds"
+}

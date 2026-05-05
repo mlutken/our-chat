@@ -1,0 +1,18 @@
+{
+    "base": "terra firma",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "terra firma",
+    "n2": "terra firmas",
+    "n3": "the terra firma",
+    "n4": "the terra firmas",
+    "n5": "terra firma's",
+    "n6": "terra firmas'",
+    "n7": "a terra firma",
+    "n8": "many terra firmas"
+}

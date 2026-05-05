@@ -1,0 +1,18 @@
+{
+    "base": "safeguard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "safeguard",
+    "n2": "safeguards",
+    "n3": "the safeguard",
+    "n4": "the safeguards",
+    "n5": "safeguard's",
+    "n6": "safeguards'",
+    "n7": "a safeguard",
+    "n8": "many safeguards"
+}

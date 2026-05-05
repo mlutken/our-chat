@@ -1,0 +1,18 @@
+{
+    "base": "pitch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "pitch",
+    "n2": "pitches",
+    "n3": "the pitch",
+    "n4": "the pitches",
+    "n5": "pitch's",
+    "n6": "pitches'",
+    "n7": "a pitch",
+    "n8": "many pitches"
+}

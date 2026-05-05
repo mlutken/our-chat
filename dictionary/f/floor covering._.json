@@ -1,0 +1,18 @@
+{
+    "base": "floor covering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "floor covering",
+    "n2": "floor coverings",
+    "n3": "the floor covering",
+    "n4": "the floor coverings",
+    "n5": "floor covering's",
+    "n6": "floor coverings'",
+    "n7": "a floor covering",
+    "n8": "many floor coverings"
+}

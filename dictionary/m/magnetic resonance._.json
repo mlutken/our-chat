@@ -1,0 +1,18 @@
+{
+    "base": "magnetic resonance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "magnetic resonance",
+    "n2": "magnetic resonances",
+    "n3": "the magnetic resonance",
+    "n4": "the magnetic resonances",
+    "n5": "magnetic resonance's",
+    "n6": "magnetic resonances'",
+    "n7": "a magnetic resonance",
+    "n8": "many magnetic resonances"
+}

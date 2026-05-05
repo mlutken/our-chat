@@ -7,5 +7,12 @@
     "n2": "confusions",
     "n3": "the confusion",
     "n4": "the confusions",
-    "n5": "confusion's"
+    "n5": "confusion's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "confusions'",
+    "n7": "a confusion",
+    "n8": "many confusions"
 }

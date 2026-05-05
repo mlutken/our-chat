@@ -1,0 +1,18 @@
+{
+    "base": "operating capital",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "operating capital",
+    "n2": "operating capitals",
+    "n3": "the operating capital",
+    "n4": "the operating capitals",
+    "n5": "operating capital's",
+    "n6": "operating capitals'",
+    "n7": "an operating capital",
+    "n8": "many operating capitals"
+}

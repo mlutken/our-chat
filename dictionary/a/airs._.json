@@ -1,0 +1,18 @@
+{
+    "base": "airs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "airs",
+    "n2": "airses",
+    "n3": "the airs",
+    "n4": "the airses",
+    "n5": "airs'",
+    "n6": "airses'",
+    "n7": "an airs",
+    "n8": "many airses"
+}

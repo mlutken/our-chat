@@ -1,0 +1,18 @@
+{
+    "base": "token",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "token",
+    "n2": "tokens",
+    "n3": "the token",
+    "n4": "the tokens",
+    "n5": "token's",
+    "n6": "tokens'",
+    "n7": "a token",
+    "n8": "many tokens"
+}

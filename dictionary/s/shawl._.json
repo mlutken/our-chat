@@ -1,0 +1,18 @@
+{
+    "base": "shawl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shawl",
+    "n2": "shawls",
+    "n3": "the shawl",
+    "n4": "the shawls",
+    "n5": "shawl's",
+    "n6": "shawls'",
+    "n7": "a shawl",
+    "n8": "many shawls"
+}

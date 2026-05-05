@@ -1,0 +1,18 @@
+{
+    "base": "frog",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "frog",
+    "n2": "frogs",
+    "n3": "the frog",
+    "n4": "the frogs",
+    "n5": "frog's",
+    "n6": "frogs'",
+    "n7": "a frog",
+    "n8": "many frogs"
+}

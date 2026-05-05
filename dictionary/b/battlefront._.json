@@ -1,0 +1,18 @@
+{
+    "base": "battlefront",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "battlefront",
+    "n2": "battlefronts",
+    "n3": "the battlefront",
+    "n4": "the battlefronts",
+    "n5": "battlefront's",
+    "n6": "battlefronts'",
+    "n7": "a battlefront",
+    "n8": "many battlefronts"
+}

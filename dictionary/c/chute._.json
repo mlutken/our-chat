@@ -1,0 +1,18 @@
+{
+    "base": "chute",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chute",
+    "n2": "chutes",
+    "n3": "the chute",
+    "n4": "the chutes",
+    "n5": "chute's",
+    "n6": "chutes'",
+    "n7": "a chute",
+    "n8": "many chutes"
+}

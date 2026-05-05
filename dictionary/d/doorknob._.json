@@ -1,0 +1,18 @@
+{
+    "base": "doorknob",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doorknob",
+    "n2": "doorknobs",
+    "n3": "the doorknob",
+    "n4": "the doorknobs",
+    "n5": "doorknob's",
+    "n6": "doorknobs'",
+    "n7": "a doorknob",
+    "n8": "many doorknobs"
+}

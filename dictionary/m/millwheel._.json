@@ -1,0 +1,18 @@
+{
+    "base": "millwheel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "millwheel",
+    "n2": "millwheels",
+    "n3": "the millwheel",
+    "n4": "the millwheels",
+    "n5": "millwheel's",
+    "n6": "millwheels'",
+    "n7": "a millwheel",
+    "n8": "many millwheels"
+}

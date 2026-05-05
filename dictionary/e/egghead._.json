@@ -1,0 +1,18 @@
+{
+    "base": "egghead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "egghead",
+    "n2": "eggheads",
+    "n3": "the egghead",
+    "n4": "the eggheads",
+    "n5": "egghead's",
+    "n6": "eggheads'",
+    "n7": "an egghead",
+    "n8": "many eggheads"
+}

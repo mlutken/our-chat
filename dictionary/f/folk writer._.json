@@ -1,0 +1,18 @@
+{
+    "base": "folk writer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "folk writer",
+    "n2": "folk writers",
+    "n3": "the folk writer",
+    "n4": "the folk writers",
+    "n5": "folk writer's",
+    "n6": "folk writers'",
+    "n7": "a folk writer",
+    "n8": "many folk writers"
+}

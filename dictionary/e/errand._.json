@@ -1,0 +1,18 @@
+{
+    "base": "errand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "errand",
+    "n2": "errands",
+    "n3": "the errand",
+    "n4": "the errands",
+    "n5": "errand's",
+    "n6": "errands'",
+    "n7": "an errand",
+    "n8": "many errands"
+}

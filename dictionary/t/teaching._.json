@@ -1,0 +1,18 @@
+{
+    "base": "teaching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "teaching",
+    "n2": "teachings",
+    "n3": "the teaching",
+    "n4": "the teachings",
+    "n5": "teaching's",
+    "n6": "teachings'",
+    "n7": "a teaching",
+    "n8": "many teachings"
+}

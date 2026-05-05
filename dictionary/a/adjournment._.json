@@ -1,0 +1,18 @@
+{
+    "base": "adjournment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "adjournment",
+    "n2": "adjournments",
+    "n3": "the adjournment",
+    "n4": "the adjournments",
+    "n5": "adjournment's",
+    "n6": "adjournments'",
+    "n7": "an adjournment",
+    "n8": "many adjournments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "theatregoer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "theatregoer",
+    "n2": "theatregoers",
+    "n3": "the theatregoer",
+    "n4": "the theatregoers",
+    "n5": "theatregoer's",
+    "n6": "theatregoers'",
+    "n7": "a theatregoer",
+    "n8": "many theatregoers"
+}

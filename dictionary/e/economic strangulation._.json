@@ -1,0 +1,18 @@
+{
+    "base": "economic strangulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "economic strangulation",
+    "n2": "economic strangulations",
+    "n3": "the economic strangulation",
+    "n4": "the economic strangulations",
+    "n5": "economic strangulation's",
+    "n6": "economic strangulations'",
+    "n7": "an economic strangulation",
+    "n8": "many economic strangulations"
+}

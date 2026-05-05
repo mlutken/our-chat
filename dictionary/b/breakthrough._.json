@@ -1,0 +1,18 @@
+{
+    "base": "breakthrough",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "breakthrough",
+    "n2": "breakthroughs",
+    "n3": "the breakthrough",
+    "n4": "the breakthroughs",
+    "n5": "breakthrough's",
+    "n6": "breakthroughs'",
+    "n7": "a breakthrough",
+    "n8": "many breakthroughs"
+}

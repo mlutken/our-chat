@@ -1,0 +1,18 @@
+{
+    "base": "filming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "filming",
+    "n2": "filmings",
+    "n3": "the filming",
+    "n4": "the filmings",
+    "n5": "filming's",
+    "n6": "filmings'",
+    "n7": "a filming",
+    "n8": "many filmings"
+}

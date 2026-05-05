@@ -1,0 +1,18 @@
+{
+    "base": "lure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lure",
+    "n2": "lures",
+    "n3": "the lure",
+    "n4": "the lures",
+    "n5": "lure's",
+    "n6": "lures'",
+    "n7": "a lure",
+    "n8": "many lures"
+}

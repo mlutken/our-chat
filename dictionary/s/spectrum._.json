@@ -1,0 +1,18 @@
+{
+    "base": "spectrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "spectrum",
+    "n2": "spectra",
+    "n3": "the spectrum",
+    "n4": "the spectra",
+    "n5": "spectrum's",
+    "n6": "spectra's",
+    "n7": "a spectrum",
+    "n8": "many spectra"
+}

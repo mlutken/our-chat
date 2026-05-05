@@ -1,0 +1,18 @@
+{
+    "base": "drought",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "drought",
+    "n2": "droughts",
+    "n3": "the drought",
+    "n4": "the droughts",
+    "n5": "drought's",
+    "n6": "droughts'",
+    "n7": "a drought",
+    "n8": "many droughts"
+}

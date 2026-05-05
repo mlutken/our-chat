@@ -1,0 +1,18 @@
+{
+    "base": "danish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "danish",
+    "n2": "danishes",
+    "n3": "the danish",
+    "n4": "the danishes",
+    "n5": "danish's",
+    "n6": "danishes'",
+    "n7": "a danish",
+    "n8": "many danishes"
+}

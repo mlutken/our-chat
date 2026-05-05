@@ -1,0 +1,18 @@
+{
+    "base": "filly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "filly",
+    "n2": "fillies",
+    "n3": "the filly",
+    "n4": "the fillies",
+    "n5": "filly's",
+    "n6": "fillies'",
+    "n7": "a filly",
+    "n8": "many fillies"
+}

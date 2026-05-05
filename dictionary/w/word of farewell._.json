@@ -1,0 +1,18 @@
+{
+    "base": "word of farewell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "word of farewell",
+    "n2": "word of farewells",
+    "n3": "the word of farewell",
+    "n4": "the word of farewells",
+    "n5": "word of farewell's",
+    "n6": "word of farewells'",
+    "n7": "a word of farewell",
+    "n8": "many word of farewells"
+}

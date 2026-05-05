@@ -1,0 +1,18 @@
+{
+    "base": "civil service",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "civil service",
+    "n2": "civil services",
+    "n3": "the civil service",
+    "n4": "the civil services",
+    "n5": "civil service's",
+    "n6": "civil services'",
+    "n7": "a civil service",
+    "n8": "many civil services"
+}

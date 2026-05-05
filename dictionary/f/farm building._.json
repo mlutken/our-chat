@@ -1,0 +1,18 @@
+{
+    "base": "farm building",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "farm building",
+    "n2": "farm buildings",
+    "n3": "the farm building",
+    "n4": "the farm buildings",
+    "n5": "farm building's",
+    "n6": "farm buildings'",
+    "n7": "a farm building",
+    "n8": "many farm buildings"
+}

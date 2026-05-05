@@ -1,0 +1,18 @@
+{
+    "base": "derrick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "derrick",
+    "n2": "derricks",
+    "n3": "the derrick",
+    "n4": "the derricks",
+    "n5": "derrick's",
+    "n6": "derricks'",
+    "n7": "a derrick",
+    "n8": "many derricks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "travelogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "travelogue",
+    "n2": "travelogues",
+    "n3": "the travelogue",
+    "n4": "the travelogues",
+    "n5": "travelogue's",
+    "n6": "travelogues'",
+    "n7": "a travelogue",
+    "n8": "many travelogues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pit run",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "pit run",
+    "n2": "pit runs",
+    "n3": "the pit run",
+    "n4": "the pit runs",
+    "n5": "pit run's",
+    "n6": "pit runs'",
+    "n7": "a pit run",
+    "n8": "many pit runs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "flow rate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "flow rate",
+    "n2": "flow rates",
+    "n3": "the flow rate",
+    "n4": "the flow rates",
+    "n5": "flow rate's",
+    "n6": "flow rates'",
+    "n7": "a flow rate",
+    "n8": "many flow rates"
+}

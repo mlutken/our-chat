@@ -1,0 +1,18 @@
+{
+    "base": "nuisance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "nuisance",
+    "n2": "nuisances",
+    "n3": "the nuisance",
+    "n4": "the nuisances",
+    "n5": "nuisance's",
+    "n6": "nuisances'",
+    "n7": "a nuisance",
+    "n8": "many nuisances"
+}

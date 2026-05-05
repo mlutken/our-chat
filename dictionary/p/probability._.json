@@ -1,0 +1,18 @@
+{
+    "base": "probability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "probability",
+    "n2": "probabilities",
+    "n3": "the probability",
+    "n4": "the probabilities",
+    "n5": "probability's",
+    "n6": "probabilities'",
+    "n7": "a probability",
+    "n8": "many probabilities"
+}

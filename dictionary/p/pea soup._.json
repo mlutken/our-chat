@@ -1,0 +1,18 @@
+{
+    "base": "pea soup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pea soup",
+    "n2": "pea soups",
+    "n3": "the pea soup",
+    "n4": "the pea soups",
+    "n5": "pea soup's",
+    "n6": "pea soups'",
+    "n7": "a pea soup",
+    "n8": "many pea soups"
+}

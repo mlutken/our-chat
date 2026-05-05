@@ -1,0 +1,18 @@
+{
+    "base": "typhus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "typhus",
+    "n2": "typhuses",
+    "n3": "the typhus",
+    "n4": "the typhuses",
+    "n5": "typhus'",
+    "n6": "typhuses'",
+    "n7": "a typhus",
+    "n8": "many typhuses"
+}

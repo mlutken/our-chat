@@ -1,0 +1,18 @@
+{
+    "base": "yardage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "yardage",
+    "n2": "yardages",
+    "n3": "the yardage",
+    "n4": "the yardages",
+    "n5": "yardage's",
+    "n6": "yardages'",
+    "n7": "a yardage",
+    "n8": "many yardages"
+}

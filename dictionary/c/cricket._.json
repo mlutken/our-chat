@@ -1,0 +1,18 @@
+{
+    "base": "cricket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cricket",
+    "n2": "crickets",
+    "n3": "the cricket",
+    "n4": "the crickets",
+    "n5": "cricket's",
+    "n6": "crickets'",
+    "n7": "a cricket",
+    "n8": "many crickets"
+}

@@ -1,8 +1,21 @@
 {
     "base": "tonight",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "tonight",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tonight",
+    "n2": "tonights",
+    "n3": "the tonight",
+    "n4": "the tonights",
+    "n5": "tonight's",
+    "n6": "tonights'",
+    "n7": "a tonight",
+    "n8": "many tonights"
 }

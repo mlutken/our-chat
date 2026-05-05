@@ -1,0 +1,18 @@
+{
+    "base": "round table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "round table",
+    "n2": "round tables",
+    "n3": "the round table",
+    "n4": "the round tables",
+    "n5": "round table's",
+    "n6": "round tables'",
+    "n7": "a round table",
+    "n8": "many round tables"
+}

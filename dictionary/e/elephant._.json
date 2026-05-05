@@ -1,0 +1,18 @@
+{
+    "base": "elephant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "elephant",
+    "n2": "elephants",
+    "n3": "the elephant",
+    "n4": "the elephants",
+    "n5": "elephant's",
+    "n6": "elephants'",
+    "n7": "an elephant",
+    "n8": "many elephants"
+}

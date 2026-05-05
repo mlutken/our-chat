@@ -1,0 +1,18 @@
+{
+    "base": "second hand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "second hand",
+    "n2": "second hands",
+    "n3": "the second hand",
+    "n4": "the second hands",
+    "n5": "second hand's",
+    "n6": "second hands'",
+    "n7": "a second hand",
+    "n8": "many second hands"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "confessor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confessor",
+    "n2": "confessors",
+    "n3": "the confessor",
+    "n4": "the confessors",
+    "n5": "confessor's",
+    "n6": "confessors'",
+    "n7": "a confessor",
+    "n8": "many confessors"
+}

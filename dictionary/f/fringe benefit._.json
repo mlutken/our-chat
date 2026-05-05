@@ -1,0 +1,18 @@
+{
+    "base": "fringe benefit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fringe benefit",
+    "n2": "fringe benefits",
+    "n3": "the fringe benefit",
+    "n4": "the fringe benefits",
+    "n5": "fringe benefit's",
+    "n6": "fringe benefits'",
+    "n7": "a fringe benefit",
+    "n8": "many fringe benefits"
+}

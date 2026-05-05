@@ -1,0 +1,18 @@
+{
+    "base": "runaway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "runaway",
+    "n2": "runaways",
+    "n3": "the runaway",
+    "n4": "the runaways",
+    "n5": "runaway's",
+    "n6": "runaways'",
+    "n7": "a runaway",
+    "n8": "many runaways"
+}

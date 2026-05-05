@@ -1,0 +1,18 @@
+{
+    "base": "noon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "noon",
+    "n2": "noons",
+    "n3": "the noon",
+    "n4": "the noons",
+    "n5": "noon's",
+    "n6": "noons'",
+    "n7": "a noon",
+    "n8": "many noons"
+}

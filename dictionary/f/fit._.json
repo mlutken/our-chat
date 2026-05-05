@@ -1,6 +1,7 @@
 {
     "base": "fit",
     "classes": [
+        "n",
         "adj",
         "v"
     ],
@@ -11,5 +12,17 @@
     "v2": "fitted",
     "v3": "fitted",
     "v4": "fitting",
-    "v5": "fits"
+    "v5": "fits",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "fit",
+    "n2": "fits",
+    "n3": "the fit",
+    "n4": "the fits",
+    "n5": "fit's",
+    "n6": "fits'",
+    "n7": "a fit",
+    "n8": "many fits"
 }

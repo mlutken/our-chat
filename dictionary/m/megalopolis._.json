@@ -1,0 +1,18 @@
+{
+    "base": "megalopolis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "megalopolis",
+    "n2": "megalopolises",
+    "n3": "the megalopolis",
+    "n4": "the megalopolises",
+    "n5": "megalopolis'",
+    "n6": "megalopolises'",
+    "n7": "a megalopolis",
+    "n8": "many megalopolises"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "leaping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leaping",
+    "n2": "leapings",
+    "n3": "the leaping",
+    "n4": "the leapings",
+    "n5": "leaping's",
+    "n6": "leapings'",
+    "n7": "a leaping",
+    "n8": "many leapings"
+}

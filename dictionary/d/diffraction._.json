@@ -1,0 +1,18 @@
+{
+    "base": "diffraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diffraction",
+    "n2": "diffractions",
+    "n3": "the diffraction",
+    "n4": "the diffractions",
+    "n5": "diffraction's",
+    "n6": "diffractions'",
+    "n7": "a diffraction",
+    "n8": "many diffractions"
+}

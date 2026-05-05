@@ -1,0 +1,18 @@
+{
+    "base": "gabardine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gabardine",
+    "n2": "gabardines",
+    "n3": "the gabardine",
+    "n4": "the gabardines",
+    "n5": "gabardine's",
+    "n6": "gabardines'",
+    "n7": "a gabardine",
+    "n8": "many gabardines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "transmutation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "transmutation",
+    "n2": "transmutations",
+    "n3": "the transmutation",
+    "n4": "the transmutations",
+    "n5": "transmutation's",
+    "n6": "transmutations'",
+    "n7": "a transmutation",
+    "n8": "many transmutations"
+}

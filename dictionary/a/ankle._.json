@@ -1,0 +1,18 @@
+{
+    "base": "ankle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ankle",
+    "n2": "ankles",
+    "n3": "the ankle",
+    "n4": "the ankles",
+    "n5": "ankle's",
+    "n6": "ankles'",
+    "n7": "an ankle",
+    "n8": "many ankles"
+}

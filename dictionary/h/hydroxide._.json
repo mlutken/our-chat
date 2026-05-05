@@ -1,0 +1,18 @@
+{
+    "base": "hydroxide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hydroxide",
+    "n2": "hydroxides",
+    "n3": "the hydroxide",
+    "n4": "the hydroxides",
+    "n5": "hydroxide's",
+    "n6": "hydroxides'",
+    "n7": "a hydroxide",
+    "n8": "many hydroxides"
+}

@@ -7,5 +7,12 @@
     "n2": "lice",
     "n3": "the louse",
     "n4": "the lice",
-    "n5": "louse's"
+    "n5": "louse's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "lice's",
+    "n7": "a louse",
+    "n8": "many lice"
 }

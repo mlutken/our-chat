@@ -1,0 +1,18 @@
+{
+    "base": "hush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hush",
+    "n2": "hushes",
+    "n3": "the hush",
+    "n4": "the hushes",
+    "n5": "hush's",
+    "n6": "hushes'",
+    "n7": "a hush",
+    "n8": "many hushes"
+}

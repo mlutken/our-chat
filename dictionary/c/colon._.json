@@ -1,0 +1,18 @@
+{
+    "base": "colon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "colon",
+    "n2": "cola",
+    "n3": "the colon",
+    "n4": "the cola",
+    "n5": "colon's",
+    "n6": "cola's",
+    "n7": "a colon",
+    "n8": "many cola"
+}

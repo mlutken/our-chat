@@ -1,0 +1,18 @@
+{
+    "base": "typewriter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "typewriter",
+    "n2": "typewriters",
+    "n3": "the typewriter",
+    "n4": "the typewriters",
+    "n5": "typewriter's",
+    "n6": "typewriters'",
+    "n7": "a typewriter",
+    "n8": "many typewriters"
+}

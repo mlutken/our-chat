@@ -1,0 +1,18 @@
+{
+    "base": "figuring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "figuring",
+    "n2": "figurings",
+    "n3": "the figuring",
+    "n4": "the figurings",
+    "n5": "figuring's",
+    "n6": "figurings'",
+    "n7": "a figuring",
+    "n8": "many figurings"
+}

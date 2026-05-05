@@ -1,0 +1,18 @@
+{
+    "base": "inevitable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inevitable",
+    "n2": "inevitables",
+    "n3": "the inevitable",
+    "n4": "the inevitables",
+    "n5": "inevitable's",
+    "n6": "inevitables'",
+    "n7": "an inevitable",
+    "n8": "many inevitables"
+}

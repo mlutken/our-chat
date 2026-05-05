@@ -1,0 +1,18 @@
+{
+    "base": "middle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "middle",
+    "n2": "middles",
+    "n3": "the middle",
+    "n4": "the middles",
+    "n5": "middle's",
+    "n6": "middles'",
+    "n7": "a middle",
+    "n8": "many middles"
+}

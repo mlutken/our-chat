@@ -1,0 +1,18 @@
+{
+    "base": "assembly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "assembly",
+    "n2": "assemblies",
+    "n3": "the assembly",
+    "n4": "the assemblies",
+    "n5": "assembly's",
+    "n6": "assemblies'",
+    "n7": "an assembly",
+    "n8": "many assemblies"
+}

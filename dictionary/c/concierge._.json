@@ -1,0 +1,18 @@
+{
+    "base": "concierge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "concierge",
+    "n2": "concierges",
+    "n3": "the concierge",
+    "n4": "the concierges",
+    "n5": "concierge's",
+    "n6": "concierges'",
+    "n7": "a concierge",
+    "n8": "many concierges"
+}

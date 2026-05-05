@@ -1,11 +1,24 @@
 {
     "base": "boast",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "boast",
     "v2": "boasted",
     "v3": "boasted",
     "v4": "boasting",
-    "v5": "boasts"
+    "v5": "boasts",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boast",
+    "n2": "boasts",
+    "n3": "the boast",
+    "n4": "the boasts",
+    "n5": "boast's",
+    "n6": "boasts'",
+    "n7": "a boast",
+    "n8": "many boasts"
 }

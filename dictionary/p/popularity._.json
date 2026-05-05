@@ -1,0 +1,18 @@
+{
+    "base": "popularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "popularity",
+    "n2": "popularities",
+    "n3": "the popularity",
+    "n4": "the popularities",
+    "n5": "popularity's",
+    "n6": "popularities'",
+    "n7": "a popularity",
+    "n8": "many popularities"
+}

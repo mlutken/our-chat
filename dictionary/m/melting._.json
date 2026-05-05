@@ -1,0 +1,18 @@
+{
+    "base": "melting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "melting",
+    "n2": "meltings",
+    "n3": "the melting",
+    "n4": "the meltings",
+    "n5": "melting's",
+    "n6": "meltings'",
+    "n7": "a melting",
+    "n8": "many meltings"
+}

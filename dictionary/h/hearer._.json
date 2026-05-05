@@ -1,0 +1,18 @@
+{
+    "base": "hearer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hearer",
+    "n2": "hearers",
+    "n3": "the hearer",
+    "n4": "the hearers",
+    "n5": "hearer's",
+    "n6": "hearers'",
+    "n7": "a hearer",
+    "n8": "many hearers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "punster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "punster",
+    "n2": "punsters",
+    "n3": "the punster",
+    "n4": "the punsters",
+    "n5": "punster's",
+    "n6": "punsters'",
+    "n7": "a punster",
+    "n8": "many punsters"
+}

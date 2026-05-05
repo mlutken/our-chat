@@ -1,0 +1,18 @@
+{
+    "base": "denomination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "denomination",
+    "n2": "denominations",
+    "n3": "the denomination",
+    "n4": "the denominations",
+    "n5": "denomination's",
+    "n6": "denominations'",
+    "n7": "a denomination",
+    "n8": "many denominations"
+}

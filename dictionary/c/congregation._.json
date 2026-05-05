@@ -1,0 +1,18 @@
+{
+    "base": "congregation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "congregation",
+    "n2": "congregations",
+    "n3": "the congregation",
+    "n4": "the congregations",
+    "n5": "congregation's",
+    "n6": "congregations'",
+    "n7": "a congregation",
+    "n8": "many congregations"
+}

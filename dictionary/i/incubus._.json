@@ -1,0 +1,18 @@
+{
+    "base": "incubus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incubus",
+    "n2": "incubi",
+    "n3": "the incubus",
+    "n4": "the incubi",
+    "n5": "incubus'",
+    "n6": "incubi's",
+    "n7": "an incubus",
+    "n8": "many incubi"
+}

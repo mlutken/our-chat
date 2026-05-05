@@ -7,5 +7,12 @@
     "n2": "dinners",
     "n3": "the dinner",
     "n4": "the dinners",
-    "n5": "dinner's"
+    "n5": "dinner's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "dinners'",
+    "n7": "a dinner",
+    "n8": "many dinners"
 }

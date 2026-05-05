@@ -1,0 +1,18 @@
+{
+    "base": "coconut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "coconut",
+    "n2": "coconuts",
+    "n3": "the coconut",
+    "n4": "the coconuts",
+    "n5": "coconut's",
+    "n6": "coconuts'",
+    "n7": "a coconut",
+    "n8": "many coconuts"
+}

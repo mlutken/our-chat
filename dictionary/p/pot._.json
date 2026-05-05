@@ -7,5 +7,12 @@
     "n2": "pots",
     "n3": "the pot",
     "n4": "the pots",
-    "n5": "pot's"
+    "n5": "pot's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "pots'",
+    "n7": "a pot",
+    "n8": "many pots"
 }

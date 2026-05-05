@@ -1,0 +1,18 @@
+{
+    "base": "snowfall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snowfall",
+    "n2": "snowfalls",
+    "n3": "the snowfall",
+    "n4": "the snowfalls",
+    "n5": "snowfall's",
+    "n6": "snowfalls'",
+    "n7": "a snowfall",
+    "n8": "many snowfalls"
+}

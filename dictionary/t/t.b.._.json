@@ -1,0 +1,18 @@
+{
+    "base": "t.b.",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "t.b.",
+    "n2": "t.b.s",
+    "n3": "the t.b.",
+    "n4": "the t.b.s",
+    "n5": "t.b.'s",
+    "n6": "t.b.s'",
+    "n7": "a t.b.",
+    "n8": "many t.b.s"
+}

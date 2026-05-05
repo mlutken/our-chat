@@ -1,0 +1,18 @@
+{
+    "base": "storefront",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "storefront",
+    "n2": "storefronts",
+    "n3": "the storefront",
+    "n4": "the storefronts",
+    "n5": "storefront's",
+    "n6": "storefronts'",
+    "n7": "a storefront",
+    "n8": "many storefronts"
+}

@@ -1,11 +1,24 @@
 {
     "base": "flood",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "flood",
     "v2": "flooded",
     "v3": "flooded",
     "v4": "flooding",
-    "v5": "floods"
+    "v5": "floods",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "flood",
+    "n2": "floods",
+    "n3": "the flood",
+    "n4": "the floods",
+    "n5": "flood's",
+    "n6": "floods'",
+    "n7": "a flood",
+    "n8": "many floods"
 }

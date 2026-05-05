@@ -1,0 +1,18 @@
+{
+    "base": "blood vessel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "blood vessel",
+    "n2": "blood vessels",
+    "n3": "the blood vessel",
+    "n4": "the blood vessels",
+    "n5": "blood vessel's",
+    "n6": "blood vessels'",
+    "n7": "a blood vessel",
+    "n8": "many blood vessels"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pertinence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pertinence",
+    "n2": "pertinences",
+    "n3": "the pertinence",
+    "n4": "the pertinences",
+    "n5": "pertinence's",
+    "n6": "pertinences'",
+    "n7": "a pertinence",
+    "n8": "many pertinences"
+}

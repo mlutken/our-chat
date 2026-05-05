@@ -1,0 +1,18 @@
+{
+    "base": "expectancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "expectancy",
+    "n2": "expectancies",
+    "n3": "the expectancy",
+    "n4": "the expectancies",
+    "n5": "expectancy's",
+    "n6": "expectancies'",
+    "n7": "an expectancy",
+    "n8": "many expectancies"
+}

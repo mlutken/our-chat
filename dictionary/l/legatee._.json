@@ -1,0 +1,18 @@
+{
+    "base": "legatee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legatee",
+    "n2": "legatees",
+    "n3": "the legatee",
+    "n4": "the legatees",
+    "n5": "legatee's",
+    "n6": "legatees'",
+    "n7": "a legatee",
+    "n8": "many legatees"
+}

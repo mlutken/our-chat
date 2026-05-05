@@ -1,0 +1,18 @@
+{
+    "base": "kit and caboodle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kit and caboodle",
+    "n2": "kit and caboodles",
+    "n3": "the kit and caboodle",
+    "n4": "the kit and caboodles",
+    "n5": "kit and caboodle's",
+    "n6": "kit and caboodles'",
+    "n7": "a kit and caboodle",
+    "n8": "many kit and caboodles"
+}

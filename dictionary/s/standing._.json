@@ -1,0 +1,18 @@
+{
+    "base": "standing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "standing",
+    "n2": "standings",
+    "n3": "the standing",
+    "n4": "the standings",
+    "n5": "standing's",
+    "n6": "standings'",
+    "n7": "a standing",
+    "n8": "many standings"
+}

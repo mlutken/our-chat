@@ -1,0 +1,18 @@
+{
+    "base": "eccentricity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "eccentricity",
+    "n2": "eccentricities",
+    "n3": "the eccentricity",
+    "n4": "the eccentricities",
+    "n5": "eccentricity's",
+    "n6": "eccentricities'",
+    "n7": "an eccentricity",
+    "n8": "many eccentricities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "craze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "craze",
+    "n2": "crazes",
+    "n3": "the craze",
+    "n4": "the crazes",
+    "n5": "craze's",
+    "n6": "crazes'",
+    "n7": "a craze",
+    "n8": "many crazes"
+}

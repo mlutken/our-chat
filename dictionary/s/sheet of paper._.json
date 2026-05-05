@@ -1,0 +1,18 @@
+{
+    "base": "sheet of paper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sheet of paper",
+    "n2": "sheet of papers",
+    "n3": "the sheet of paper",
+    "n4": "the sheet of papers",
+    "n5": "sheet of paper's",
+    "n6": "sheet of papers'",
+    "n7": "a sheet of paper",
+    "n8": "many sheet of papers"
+}

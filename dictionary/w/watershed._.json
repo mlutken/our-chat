@@ -1,0 +1,18 @@
+{
+    "base": "watershed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "watershed",
+    "n2": "watersheds",
+    "n3": "the watershed",
+    "n4": "the watersheds",
+    "n5": "watershed's",
+    "n6": "watersheds'",
+    "n7": "a watershed",
+    "n8": "many watersheds"
+}

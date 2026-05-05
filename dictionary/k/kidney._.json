@@ -1,0 +1,18 @@
+{
+    "base": "kidney",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "kidney",
+    "n2": "kidneys",
+    "n3": "the kidney",
+    "n4": "the kidneys",
+    "n5": "kidney's",
+    "n6": "kidneys'",
+    "n7": "a kidney",
+    "n8": "many kidneys"
+}

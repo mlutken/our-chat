@@ -1,0 +1,18 @@
+{
+    "base": "calibration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "calibration",
+    "n2": "calibrations",
+    "n3": "the calibration",
+    "n4": "the calibrations",
+    "n5": "calibration's",
+    "n6": "calibrations'",
+    "n7": "a calibration",
+    "n8": "many calibrations"
+}

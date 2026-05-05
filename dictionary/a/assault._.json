@@ -1,0 +1,18 @@
+{
+    "base": "assault",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "assault",
+    "n2": "assaults",
+    "n3": "the assault",
+    "n4": "the assaults",
+    "n5": "assault's",
+    "n6": "assaults'",
+    "n7": "an assault",
+    "n8": "many assaults"
+}

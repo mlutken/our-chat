@@ -1,0 +1,18 @@
+{
+    "base": "smokehouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "smokehouse",
+    "n2": "smokehouses",
+    "n3": "the smokehouse",
+    "n4": "the smokehouses",
+    "n5": "smokehouse's",
+    "n6": "smokehouses'",
+    "n7": "a smokehouse",
+    "n8": "many smokehouses"
+}

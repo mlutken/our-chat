@@ -1,0 +1,18 @@
+{
+    "base": "bargaining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bargaining",
+    "n2": "bargainings",
+    "n3": "the bargaining",
+    "n4": "the bargainings",
+    "n5": "bargaining's",
+    "n6": "bargainings'",
+    "n7": "a bargaining",
+    "n8": "many bargainings"
+}

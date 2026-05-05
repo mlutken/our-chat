@@ -1,0 +1,18 @@
+{
+    "base": "trading post",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trading post",
+    "n2": "trading posts",
+    "n3": "the trading post",
+    "n4": "the trading posts",
+    "n5": "trading post's",
+    "n6": "trading posts'",
+    "n7": "a trading post",
+    "n8": "many trading posts"
+}

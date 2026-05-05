@@ -1,0 +1,18 @@
+{
+    "base": "hearth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hearth",
+    "n2": "hearths",
+    "n3": "the hearth",
+    "n4": "the hearths",
+    "n5": "hearth's",
+    "n6": "hearths'",
+    "n7": "a hearth",
+    "n8": "many hearths"
+}

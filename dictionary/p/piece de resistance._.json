@@ -1,0 +1,18 @@
+{
+    "base": "piece de resistance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piece de resistance",
+    "n2": "piece de resistances",
+    "n3": "the piece de resistance",
+    "n4": "the piece de resistances",
+    "n5": "piece de resistance's",
+    "n6": "piece de resistances'",
+    "n7": "a piece de resistance",
+    "n8": "many piece de resistances"
+}

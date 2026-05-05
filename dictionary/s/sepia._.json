@@ -1,0 +1,18 @@
+{
+    "base": "sepia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sepia",
+    "n2": "sepias",
+    "n3": "the sepia",
+    "n4": "the sepias",
+    "n5": "sepia's",
+    "n6": "sepias'",
+    "n7": "a sepia",
+    "n8": "many sepias"
+}

@@ -7,5 +7,12 @@
     "n2": "bottoms",
     "n3": "the bottom",
     "n4": "the bottoms",
-    "n5": "bottom's"
+    "n5": "bottom's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "bottoms'",
+    "n7": "a bottom",
+    "n8": "many bottoms"
 }

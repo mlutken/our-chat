@@ -1,0 +1,18 @@
+{
+    "base": "upper hand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "upper hand",
+    "n2": "upper hands",
+    "n3": "the upper hand",
+    "n4": "the upper hands",
+    "n5": "upper hand's",
+    "n6": "upper hands'",
+    "n7": "an upper hand",
+    "n8": "many upper hands"
+}

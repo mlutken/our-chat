@@ -1,0 +1,18 @@
+{
+    "base": "flash flood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flash flood",
+    "n2": "flash floods",
+    "n3": "the flash flood",
+    "n4": "the flash floods",
+    "n5": "flash flood's",
+    "n6": "flash floods'",
+    "n7": "a flash flood",
+    "n8": "many flash floods"
+}

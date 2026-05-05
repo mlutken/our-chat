@@ -1,0 +1,18 @@
+{
+    "base": "racketeer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "racketeer",
+    "n2": "racketeers",
+    "n3": "the racketeer",
+    "n4": "the racketeers",
+    "n5": "racketeer's",
+    "n6": "racketeers'",
+    "n7": "a racketeer",
+    "n8": "many racketeers"
+}

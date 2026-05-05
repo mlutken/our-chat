@@ -1,0 +1,18 @@
+{
+    "base": "romanticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "romanticism",
+    "n2": "romanticisms",
+    "n3": "the romanticism",
+    "n4": "the romanticisms",
+    "n5": "romanticism's",
+    "n6": "romanticisms'",
+    "n7": "a romanticism",
+    "n8": "many romanticisms"
+}

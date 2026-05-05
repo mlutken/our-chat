@@ -1,0 +1,18 @@
+{
+    "base": "guatemala",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guatemala",
+    "n2": "guatemalas",
+    "n3": "the guatemala",
+    "n4": "the guatemalas",
+    "n5": "guatemala's",
+    "n6": "guatemalas'",
+    "n7": "a guatemala",
+    "n8": "many guatemalas"
+}

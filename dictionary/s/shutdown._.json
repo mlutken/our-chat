@@ -1,0 +1,18 @@
+{
+    "base": "shutdown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "shutdown",
+    "n2": "shutdowns",
+    "n3": "the shutdown",
+    "n4": "the shutdowns",
+    "n5": "shutdown's",
+    "n6": "shutdowns'",
+    "n7": "a shutdown",
+    "n8": "many shutdowns"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "charity",
-    "n2": "charitys",
+    "n2": "charities",
     "n3": "the charity",
-    "n4": "the charitys",
-    "n5": "charity's"
+    "n4": "the charities",
+    "n5": "charity's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "charities'",
+    "n7": "a charity",
+    "n8": "many charities"
 }

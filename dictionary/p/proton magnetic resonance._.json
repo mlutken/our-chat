@@ -1,0 +1,18 @@
+{
+    "base": "proton magnetic resonance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proton magnetic resonance",
+    "n2": "proton magnetic resonances",
+    "n3": "the proton magnetic resonance",
+    "n4": "the proton magnetic resonances",
+    "n5": "proton magnetic resonance's",
+    "n6": "proton magnetic resonances'",
+    "n7": "a proton magnetic resonance",
+    "n8": "many proton magnetic resonances"
+}

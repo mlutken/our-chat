@@ -1,0 +1,18 @@
+{
+    "base": "manifold",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "manifold",
+    "n2": "manifolds",
+    "n3": "the manifold",
+    "n4": "the manifolds",
+    "n5": "manifold's",
+    "n6": "manifolds'",
+    "n7": "a manifold",
+    "n8": "many manifolds"
+}

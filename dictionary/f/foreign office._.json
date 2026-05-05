@@ -1,0 +1,18 @@
+{
+    "base": "foreign office",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foreign office",
+    "n2": "foreign offices",
+    "n3": "the foreign office",
+    "n4": "the foreign offices",
+    "n5": "foreign office's",
+    "n6": "foreign offices'",
+    "n7": "a foreign office",
+    "n8": "many foreign offices"
+}

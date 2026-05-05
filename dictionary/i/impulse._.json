@@ -1,0 +1,18 @@
+{
+    "base": "impulse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "impulse",
+    "n2": "impulses",
+    "n3": "the impulse",
+    "n4": "the impulses",
+    "n5": "impulse's",
+    "n6": "impulses'",
+    "n7": "an impulse",
+    "n8": "many impulses"
+}

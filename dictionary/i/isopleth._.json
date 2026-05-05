@@ -1,0 +1,18 @@
+{
+    "base": "isopleth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "isopleth",
+    "n2": "isopleths",
+    "n3": "the isopleth",
+    "n4": "the isopleths",
+    "n5": "isopleth's",
+    "n6": "isopleths'",
+    "n7": "an isopleth",
+    "n8": "many isopleths"
+}

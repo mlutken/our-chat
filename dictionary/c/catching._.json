@@ -1,0 +1,18 @@
+{
+    "base": "catching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "catching",
+    "n2": "catchings",
+    "n3": "the catching",
+    "n4": "the catchings",
+    "n5": "catching's",
+    "n6": "catchings'",
+    "n7": "a catching",
+    "n8": "many catchings"
+}

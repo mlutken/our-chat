@@ -1,0 +1,18 @@
+{
+    "base": "protestantism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "protestantism",
+    "n2": "protestantisms",
+    "n3": "the protestantism",
+    "n4": "the protestantisms",
+    "n5": "protestantism's",
+    "n6": "protestantisms'",
+    "n7": "a protestantism",
+    "n8": "many protestantisms"
+}

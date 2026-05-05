@@ -7,5 +7,12 @@
     "n2": "memberships",
     "n3": "the membership",
     "n4": "the memberships",
-    "n5": "membership's"
+    "n5": "membership's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "memberships'",
+    "n7": "a membership",
+    "n8": "many memberships"
 }

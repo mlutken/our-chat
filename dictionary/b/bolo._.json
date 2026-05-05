@@ -1,0 +1,18 @@
+{
+    "base": "bolo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bolo",
+    "n2": "bolos",
+    "n3": "the bolo",
+    "n4": "the bolos",
+    "n5": "bolo's",
+    "n6": "bolos'",
+    "n7": "a bolo",
+    "n8": "many bolos"
+}

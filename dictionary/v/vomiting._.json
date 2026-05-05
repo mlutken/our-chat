@@ -1,0 +1,18 @@
+{
+    "base": "vomiting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vomiting",
+    "n2": "vomitings",
+    "n3": "the vomiting",
+    "n4": "the vomitings",
+    "n5": "vomiting's",
+    "n6": "vomitings'",
+    "n7": "a vomiting",
+    "n8": "many vomitings"
+}

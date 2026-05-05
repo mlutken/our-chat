@@ -1,0 +1,18 @@
+{
+    "base": "contrition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contrition",
+    "n2": "contritions",
+    "n3": "the contrition",
+    "n4": "the contritions",
+    "n5": "contrition's",
+    "n6": "contritions'",
+    "n7": "a contrition",
+    "n8": "many contritions"
+}

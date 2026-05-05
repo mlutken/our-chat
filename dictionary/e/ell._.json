@@ -1,0 +1,18 @@
+{
+    "base": "ell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ell",
+    "n2": "ells",
+    "n3": "the ell",
+    "n4": "the ells",
+    "n5": "ell's",
+    "n6": "ells'",
+    "n7": "an ell",
+    "n8": "many ells"
+}

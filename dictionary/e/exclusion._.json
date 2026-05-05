@@ -1,0 +1,18 @@
+{
+    "base": "exclusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exclusion",
+    "n2": "exclusions",
+    "n3": "the exclusion",
+    "n4": "the exclusions",
+    "n5": "exclusion's",
+    "n6": "exclusions'",
+    "n7": "an exclusion",
+    "n8": "many exclusions"
+}

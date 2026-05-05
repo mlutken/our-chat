@@ -1,0 +1,18 @@
+{
+    "base": "great grandmother",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "great grandmother",
+    "n2": "great grandmothers",
+    "n3": "the great grandmother",
+    "n4": "the great grandmothers",
+    "n5": "great grandmother's",
+    "n6": "great grandmothers'",
+    "n7": "a great grandmother",
+    "n8": "many great grandmothers"
+}

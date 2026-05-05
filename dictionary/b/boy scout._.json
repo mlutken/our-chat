@@ -1,0 +1,18 @@
+{
+    "base": "boy scout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boy scout",
+    "n2": "boy scouts",
+    "n3": "the boy scout",
+    "n4": "the boy scouts",
+    "n5": "boy scout's",
+    "n6": "boy scouts'",
+    "n7": "a boy scout",
+    "n8": "many boy scouts"
+}

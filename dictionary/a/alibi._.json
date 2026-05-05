@@ -1,0 +1,18 @@
+{
+    "base": "alibi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "alibi",
+    "n2": "alibis",
+    "n3": "the alibi",
+    "n4": "the alibis",
+    "n5": "alibi's",
+    "n6": "alibis'",
+    "n7": "an alibi",
+    "n8": "many alibis"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aperture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aperture",
+    "n2": "apertures",
+    "n3": "the aperture",
+    "n4": "the apertures",
+    "n5": "aperture's",
+    "n6": "apertures'",
+    "n7": "an aperture",
+    "n8": "many apertures"
+}

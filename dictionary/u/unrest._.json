@@ -1,0 +1,18 @@
+{
+    "base": "unrest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unrest",
+    "n2": "unrests",
+    "n3": "the unrest",
+    "n4": "the unrests",
+    "n5": "unrest's",
+    "n6": "unrests'",
+    "n7": "an unrest",
+    "n8": "many unrests"
+}

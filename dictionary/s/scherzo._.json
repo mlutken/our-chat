@@ -1,0 +1,18 @@
+{
+    "base": "scherzo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scherzo",
+    "n2": "scherzi",
+    "n3": "the scherzo",
+    "n4": "the scherzi",
+    "n5": "scherzo's",
+    "n6": "scherzi's",
+    "n7": "a scherzo",
+    "n8": "many scherzi"
+}

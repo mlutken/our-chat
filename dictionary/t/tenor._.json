@@ -1,0 +1,18 @@
+{
+    "base": "tenor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tenor",
+    "n2": "tenors",
+    "n3": "the tenor",
+    "n4": "the tenors",
+    "n5": "tenor's",
+    "n6": "tenors'",
+    "n7": "a tenor",
+    "n8": "many tenors"
+}

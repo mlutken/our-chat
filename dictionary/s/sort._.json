@@ -1,11 +1,24 @@
 {
     "base": "sort",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "sort",
     "v2": "sorted",
     "v3": "sorted",
     "v4": "sorting",
-    "v5": "sorts"
+    "v5": "sorts",
+    "proper": false,
+    "commonness": 68,
+    "max_commonness": 6834,
+    "commonness_ge_count": 222,
+    "n1": "sort",
+    "n2": "sorts",
+    "n3": "the sort",
+    "n4": "the sorts",
+    "n5": "sort's",
+    "n6": "sorts'",
+    "n7": "a sort",
+    "n8": "many sorts"
 }

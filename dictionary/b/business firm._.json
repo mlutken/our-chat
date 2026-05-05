@@ -1,0 +1,18 @@
+{
+    "base": "business firm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business firm",
+    "n2": "business firms",
+    "n3": "the business firm",
+    "n4": "the business firms",
+    "n5": "business firm's",
+    "n6": "business firms'",
+    "n7": "a business firm",
+    "n8": "many business firms"
+}

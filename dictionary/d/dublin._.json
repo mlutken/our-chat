@@ -1,0 +1,18 @@
+{
+    "base": "dublin",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dublin",
+    "n2": "dublins",
+    "n3": "the dublin",
+    "n4": "the dublins",
+    "n5": "dublin's",
+    "n6": "dublins'",
+    "n7": "a dublin",
+    "n8": "many dublins"
+}

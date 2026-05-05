@@ -1,0 +1,18 @@
+{
+    "base": "rural area",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "rural area",
+    "n2": "rural areas",
+    "n3": "the rural area",
+    "n4": "the rural areas",
+    "n5": "rural area's",
+    "n6": "rural areas'",
+    "n7": "a rural area",
+    "n8": "many rural areas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "coffee cup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coffee cup",
+    "n2": "coffee cups",
+    "n3": "the coffee cup",
+    "n4": "the coffee cups",
+    "n5": "coffee cup's",
+    "n6": "coffee cups'",
+    "n7": "a coffee cup",
+    "n8": "many coffee cups"
+}

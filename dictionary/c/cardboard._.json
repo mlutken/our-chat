@@ -1,0 +1,18 @@
+{
+    "base": "cardboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cardboard",
+    "n2": "cardboards",
+    "n3": "the cardboard",
+    "n4": "the cardboards",
+    "n5": "cardboard's",
+    "n6": "cardboards'",
+    "n7": "a cardboard",
+    "n8": "many cardboards"
+}

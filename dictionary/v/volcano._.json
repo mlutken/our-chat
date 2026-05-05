@@ -1,0 +1,18 @@
+{
+    "base": "volcano",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "volcano",
+    "n2": "volcanoes",
+    "n3": "the volcano",
+    "n4": "the volcanoes",
+    "n5": "volcano's",
+    "n6": "volcanoes'",
+    "n7": "a volcano",
+    "n8": "many volcanoes"
+}

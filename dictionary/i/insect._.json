@@ -7,5 +7,12 @@
     "n2": "insects",
     "n3": "the insect",
     "n4": "the insects",
-    "n5": "insect's"
+    "n5": "insect's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "insects'",
+    "n7": "an insect",
+    "n8": "many insects"
 }

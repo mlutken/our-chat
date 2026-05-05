@@ -1,0 +1,18 @@
+{
+    "base": "fiend",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "fiend",
+    "n2": "fiends",
+    "n3": "the fiend",
+    "n4": "the fiends",
+    "n5": "fiend's",
+    "n6": "fiends'",
+    "n7": "a fiend",
+    "n8": "many fiends"
+}

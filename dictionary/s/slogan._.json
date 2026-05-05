@@ -1,0 +1,18 @@
+{
+    "base": "slogan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slogan",
+    "n2": "slogans",
+    "n3": "the slogan",
+    "n4": "the slogans",
+    "n5": "slogan's",
+    "n6": "slogans'",
+    "n7": "a slogan",
+    "n8": "many slogans"
+}

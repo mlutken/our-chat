@@ -1,0 +1,18 @@
+{
+    "base": "street clothes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "street clothes",
+    "n2": "street clotheses",
+    "n3": "the street clothes",
+    "n4": "the street clotheses",
+    "n5": "street clothes'",
+    "n6": "street clotheses'",
+    "n7": "a street clothes",
+    "n8": "many street clotheses"
+}

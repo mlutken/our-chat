@@ -1,11 +1,24 @@
 {
     "base": "preserve",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "preserve",
     "v2": "preserved",
     "v3": "preserved",
     "v4": "preserving",
-    "v5": "preserves"
+    "v5": "preserves",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preserve",
+    "n2": "preserves",
+    "n3": "the preserve",
+    "n4": "the preserves",
+    "n5": "preserve's",
+    "n6": "preserves'",
+    "n7": "a preserve",
+    "n8": "many preserves"
 }

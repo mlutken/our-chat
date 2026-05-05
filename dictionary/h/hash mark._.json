@@ -1,0 +1,18 @@
+{
+    "base": "hash mark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hash mark",
+    "n2": "hash marks",
+    "n3": "the hash mark",
+    "n4": "the hash marks",
+    "n5": "hash mark's",
+    "n6": "hash marks'",
+    "n7": "a hash mark",
+    "n8": "many hash marks"
+}

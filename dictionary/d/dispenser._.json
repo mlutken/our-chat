@@ -1,0 +1,18 @@
+{
+    "base": "dispenser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dispenser",
+    "n2": "dispensers",
+    "n3": "the dispenser",
+    "n4": "the dispensers",
+    "n5": "dispenser's",
+    "n6": "dispensers'",
+    "n7": "a dispenser",
+    "n8": "many dispensers"
+}

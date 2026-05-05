@@ -1,0 +1,18 @@
+{
+    "base": "title page",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "title page",
+    "n2": "title pages",
+    "n3": "the title page",
+    "n4": "the title pages",
+    "n5": "title page's",
+    "n6": "title pages'",
+    "n7": "a title page",
+    "n8": "many title pages"
+}

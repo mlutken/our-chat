@@ -1,0 +1,18 @@
+{
+    "base": "facet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "facet",
+    "n2": "facets",
+    "n3": "the facet",
+    "n4": "the facets",
+    "n5": "facet's",
+    "n6": "facets'",
+    "n7": "a facet",
+    "n8": "many facets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hallway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "hallway",
+    "n2": "hallways",
+    "n3": "the hallway",
+    "n4": "the hallways",
+    "n5": "hallway's",
+    "n6": "hallways'",
+    "n7": "a hallway",
+    "n8": "many hallways"
+}

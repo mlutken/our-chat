@@ -1,11 +1,24 @@
 {
     "base": "drain",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "drain",
     "v2": "drained",
     "v3": "drained",
     "v4": "draining",
-    "v5": "drains"
+    "v5": "drains",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drain",
+    "n2": "drains",
+    "n3": "the drain",
+    "n4": "the drains",
+    "n5": "drain's",
+    "n6": "drains'",
+    "n7": "a drain",
+    "n8": "many drains"
 }

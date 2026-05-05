@@ -1,0 +1,18 @@
+{
+    "base": "spain",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spain",
+    "n2": "spains",
+    "n3": "the spain",
+    "n4": "the spains",
+    "n5": "spain's",
+    "n6": "spains'",
+    "n7": "a spain",
+    "n8": "many spains"
+}

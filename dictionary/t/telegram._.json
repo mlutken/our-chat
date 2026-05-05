@@ -1,0 +1,18 @@
+{
+    "base": "telegram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "telegram",
+    "n2": "telegrams",
+    "n3": "the telegram",
+    "n4": "the telegrams",
+    "n5": "telegram's",
+    "n6": "telegrams'",
+    "n7": "a telegram",
+    "n8": "many telegrams"
+}

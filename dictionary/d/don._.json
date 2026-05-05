@@ -1,0 +1,18 @@
+{
+    "base": "don",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "don",
+    "n2": "dons",
+    "n3": "the don",
+    "n4": "the dons",
+    "n5": "don's",
+    "n6": "dons'",
+    "n7": "a don",
+    "n8": "many dons"
+}

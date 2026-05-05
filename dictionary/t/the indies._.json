@@ -1,0 +1,18 @@
+{
+    "base": "the indies",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "the indies",
+    "n2": "the indieses",
+    "n3": "the the indies",
+    "n4": "the the indieses",
+    "n5": "the indies'",
+    "n6": "the indieses'",
+    "n7": "a the indies",
+    "n8": "many the indieses"
+}

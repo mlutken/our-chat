@@ -1,0 +1,18 @@
+{
+    "base": "horse-trail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horse-trail",
+    "n2": "horse-trails",
+    "n3": "the horse-trail",
+    "n4": "the horse-trails",
+    "n5": "horse-trail's",
+    "n6": "horse-trails'",
+    "n7": "a horse-trail",
+    "n8": "many horse-trails"
+}

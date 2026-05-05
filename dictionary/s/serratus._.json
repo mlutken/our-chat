@@ -1,0 +1,18 @@
+{
+    "base": "serratus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "serratus",
+    "n2": "serratuses",
+    "n3": "the serratus",
+    "n4": "the serratuses",
+    "n5": "serratus'",
+    "n6": "serratuses'",
+    "n7": "a serratus",
+    "n8": "many serratuses"
+}

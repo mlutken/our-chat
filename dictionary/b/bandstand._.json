@@ -1,0 +1,18 @@
+{
+    "base": "bandstand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bandstand",
+    "n2": "bandstands",
+    "n3": "the bandstand",
+    "n4": "the bandstands",
+    "n5": "bandstand's",
+    "n6": "bandstands'",
+    "n7": "a bandstand",
+    "n8": "many bandstands"
+}

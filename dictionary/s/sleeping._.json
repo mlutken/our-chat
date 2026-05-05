@@ -1,0 +1,18 @@
+{
+    "base": "sleeping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sleeping",
+    "n2": "sleepings",
+    "n3": "the sleeping",
+    "n4": "the sleepings",
+    "n5": "sleeping's",
+    "n6": "sleepings'",
+    "n7": "a sleeping",
+    "n8": "many sleepings"
+}

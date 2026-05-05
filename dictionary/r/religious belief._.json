@@ -1,0 +1,18 @@
+{
+    "base": "religious belief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "religious belief",
+    "n2": "religious believes",
+    "n3": "the religious belief",
+    "n4": "the religious believes",
+    "n5": "religious belief's",
+    "n6": "religious believes'",
+    "n7": "a religious belief",
+    "n8": "many religious believes"
+}

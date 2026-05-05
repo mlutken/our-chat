@@ -1,0 +1,18 @@
+{
+    "base": "spore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spore",
+    "n2": "spores",
+    "n3": "the spore",
+    "n4": "the spores",
+    "n5": "spore's",
+    "n6": "spores'",
+    "n7": "a spore",
+    "n8": "many spores"
+}

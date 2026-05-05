@@ -1,0 +1,18 @@
+{
+    "base": "political arena",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "political arena",
+    "n2": "political arenas",
+    "n3": "the political arena",
+    "n4": "the political arenas",
+    "n5": "political arena's",
+    "n6": "political arenas'",
+    "n7": "a political arena",
+    "n8": "many political arenas"
+}

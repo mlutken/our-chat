@@ -1,0 +1,18 @@
+{
+    "base": "ultraviolet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ultraviolet",
+    "n2": "ultraviolets",
+    "n3": "the ultraviolet",
+    "n4": "the ultraviolets",
+    "n5": "ultraviolet's",
+    "n6": "ultraviolets'",
+    "n7": "an ultraviolet",
+    "n8": "many ultraviolets"
+}

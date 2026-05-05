@@ -1,0 +1,18 @@
+{
+    "base": "batting coach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "batting coach",
+    "n2": "batting coaches",
+    "n3": "the batting coach",
+    "n4": "the batting coaches",
+    "n5": "batting coach's",
+    "n6": "batting coaches'",
+    "n7": "a batting coach",
+    "n8": "many batting coaches"
+}

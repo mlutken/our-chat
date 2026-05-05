@@ -1,0 +1,18 @@
+{
+    "base": "ruffian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ruffian",
+    "n2": "ruffians",
+    "n3": "the ruffian",
+    "n4": "the ruffians",
+    "n5": "ruffian's",
+    "n6": "ruffians'",
+    "n7": "a ruffian",
+    "n8": "many ruffians"
+}

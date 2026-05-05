@@ -1,11 +1,24 @@
 {
     "base": "carry",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "carry",
     "v2": "carried",
     "v3": "carried",
     "v4": "carrying",
-    "v5": "carries"
+    "v5": "carries",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carry",
+    "n2": "carries",
+    "n3": "the carry",
+    "n4": "the carries",
+    "n5": "carry's",
+    "n6": "carries'",
+    "n7": "a carry",
+    "n8": "many carries"
 }

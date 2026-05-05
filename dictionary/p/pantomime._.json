@@ -1,0 +1,18 @@
+{
+    "base": "pantomime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pantomime",
+    "n2": "pantomimes",
+    "n3": "the pantomime",
+    "n4": "the pantomimes",
+    "n5": "pantomime's",
+    "n6": "pantomimes'",
+    "n7": "a pantomime",
+    "n8": "many pantomimes"
+}

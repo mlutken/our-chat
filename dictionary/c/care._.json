@@ -13,5 +13,12 @@
     "v2": "cared",
     "v3": "cared",
     "v4": "caring",
-    "v5": "cares"
+    "v5": "cares",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "cares'",
+    "n7": "a care",
+    "n8": "many cares"
 }

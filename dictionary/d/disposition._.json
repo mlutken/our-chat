@@ -1,0 +1,18 @@
+{
+    "base": "disposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "disposition",
+    "n2": "dispositions",
+    "n3": "the disposition",
+    "n4": "the dispositions",
+    "n5": "disposition's",
+    "n6": "dispositions'",
+    "n7": "a disposition",
+    "n8": "many dispositions"
+}

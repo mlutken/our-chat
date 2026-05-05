@@ -7,5 +7,12 @@
     "n2": "prices",
     "n3": "the price",
     "n4": "the prices",
-    "n5": "price's"
+    "n5": "price's",
+    "proper": false,
+    "commonness": 70,
+    "max_commonness": 6834,
+    "commonness_ge_count": 209,
+    "n6": "prices'",
+    "n7": "a price",
+    "n8": "many prices"
 }

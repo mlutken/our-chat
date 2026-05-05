@@ -1,0 +1,18 @@
+{
+    "base": "coverlet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coverlet",
+    "n2": "coverlets",
+    "n3": "the coverlet",
+    "n4": "the coverlets",
+    "n5": "coverlet's",
+    "n6": "coverlets'",
+    "n7": "a coverlet",
+    "n8": "many coverlets"
+}

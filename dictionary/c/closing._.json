@@ -1,0 +1,18 @@
+{
+    "base": "closing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "closing",
+    "n2": "closings",
+    "n3": "the closing",
+    "n4": "the closings",
+    "n5": "closing's",
+    "n6": "closings'",
+    "n7": "a closing",
+    "n8": "many closings"
+}

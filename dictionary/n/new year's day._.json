@@ -1,0 +1,18 @@
+{
+    "base": "new year's day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "new year's day",
+    "n2": "new year's days",
+    "n3": "the new year's day",
+    "n4": "the new year's days",
+    "n5": "new year's day's",
+    "n6": "new year's days'",
+    "n7": "a new year's day",
+    "n8": "many new year's days"
+}

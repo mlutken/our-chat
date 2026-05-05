@@ -1,0 +1,18 @@
+{
+    "base": "tide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "tide",
+    "n2": "tides",
+    "n3": "the tide",
+    "n4": "the tides",
+    "n5": "tide's",
+    "n6": "tides'",
+    "n7": "a tide",
+    "n8": "many tides"
+}

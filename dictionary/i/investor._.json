@@ -7,5 +7,12 @@
     "n2": "investors",
     "n3": "the investor",
     "n4": "the investors",
-    "n5": "investor's"
+    "n5": "investor's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "investors'",
+    "n7": "an investor",
+    "n8": "many investors"
 }

@@ -7,5 +7,12 @@
     "n2": "ears",
     "n3": "the ear",
     "n4": "the ears",
-    "n5": "ear's"
+    "n5": "ear's",
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n6": "ears'",
+    "n7": "an ear",
+    "n8": "many ears"
 }

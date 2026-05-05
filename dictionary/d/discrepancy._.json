@@ -1,0 +1,18 @@
+{
+    "base": "discrepancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "discrepancy",
+    "n2": "discrepancies",
+    "n3": "the discrepancy",
+    "n4": "the discrepancies",
+    "n5": "discrepancy's",
+    "n6": "discrepancies'",
+    "n7": "a discrepancy",
+    "n8": "many discrepancies"
+}

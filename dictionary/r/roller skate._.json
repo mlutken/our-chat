@@ -1,0 +1,18 @@
+{
+    "base": "roller skate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roller skate",
+    "n2": "roller skates",
+    "n3": "the roller skate",
+    "n4": "the roller skates",
+    "n5": "roller skate's",
+    "n6": "roller skates'",
+    "n7": "a roller skate",
+    "n8": "many roller skates"
+}

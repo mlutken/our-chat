@@ -1,0 +1,18 @@
+{
+    "base": "lummox",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lummox",
+    "n2": "lummoxes",
+    "n3": "the lummox",
+    "n4": "the lummoxes",
+    "n5": "lummox's",
+    "n6": "lummoxes'",
+    "n7": "a lummox",
+    "n8": "many lummoxes"
+}

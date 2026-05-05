@@ -1,0 +1,18 @@
+{
+    "base": "tattletale grey",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tattletale grey",
+    "n2": "tattletale greys",
+    "n3": "the tattletale grey",
+    "n4": "the tattletale greys",
+    "n5": "tattletale grey's",
+    "n6": "tattletale greys'",
+    "n7": "a tattletale grey",
+    "n8": "many tattletale greys"
+}

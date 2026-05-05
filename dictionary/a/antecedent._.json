@@ -1,0 +1,18 @@
+{
+    "base": "antecedent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "antecedent",
+    "n2": "antecedents",
+    "n3": "the antecedent",
+    "n4": "the antecedents",
+    "n5": "antecedent's",
+    "n6": "antecedents'",
+    "n7": "an antecedent",
+    "n8": "many antecedents"
+}

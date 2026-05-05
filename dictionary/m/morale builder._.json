@@ -1,0 +1,18 @@
+{
+    "base": "morale builder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "morale builder",
+    "n2": "morale builders",
+    "n3": "the morale builder",
+    "n4": "the morale builders",
+    "n5": "morale builder's",
+    "n6": "morale builders'",
+    "n7": "a morale builder",
+    "n8": "many morale builders"
+}

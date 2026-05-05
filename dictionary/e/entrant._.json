@@ -1,0 +1,18 @@
+{
+    "base": "entrant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "entrant",
+    "n2": "entrants",
+    "n3": "the entrant",
+    "n4": "the entrants",
+    "n5": "entrant's",
+    "n6": "entrants'",
+    "n7": "an entrant",
+    "n8": "many entrants"
+}

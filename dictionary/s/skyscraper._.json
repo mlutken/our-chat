@@ -1,0 +1,18 @@
+{
+    "base": "skyscraper",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skyscraper",
+    "n2": "skyscrapers",
+    "n3": "the skyscraper",
+    "n4": "the skyscrapers",
+    "n5": "skyscraper's",
+    "n6": "skyscrapers'",
+    "n7": "a skyscraper",
+    "n8": "many skyscrapers"
+}

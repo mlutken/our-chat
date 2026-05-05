@@ -1,0 +1,18 @@
+{
+    "base": "government office",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "government office",
+    "n2": "government offices",
+    "n3": "the government office",
+    "n4": "the government offices",
+    "n5": "government office's",
+    "n6": "government offices'",
+    "n7": "a government office",
+    "n8": "many government offices"
+}

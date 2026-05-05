@@ -1,11 +1,24 @@
 {
     "base": "file",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "file",
     "v2": "filed",
     "v3": "filed",
     "v4": "filing",
-    "v5": "files"
+    "v5": "files",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "file",
+    "n2": "files",
+    "n3": "the file",
+    "n4": "the files",
+    "n5": "file's",
+    "n6": "files'",
+    "n7": "a file",
+    "n8": "many files"
 }

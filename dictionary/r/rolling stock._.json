@@ -1,0 +1,18 @@
+{
+    "base": "rolling stock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rolling stock",
+    "n2": "rolling stocks",
+    "n3": "the rolling stock",
+    "n4": "the rolling stocks",
+    "n5": "rolling stock's",
+    "n6": "rolling stocks'",
+    "n7": "a rolling stock",
+    "n8": "many rolling stocks"
+}

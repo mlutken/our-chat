@@ -1,0 +1,18 @@
+{
+    "base": "stationery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stationery",
+    "n2": "stationeries",
+    "n3": "the stationery",
+    "n4": "the stationeries",
+    "n5": "stationery's",
+    "n6": "stationeries'",
+    "n7": "a stationery",
+    "n8": "many stationeries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "granny",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "granny",
+    "n2": "grannies",
+    "n3": "the granny",
+    "n4": "the grannies",
+    "n5": "granny's",
+    "n6": "grannies'",
+    "n7": "a granny",
+    "n8": "many grannies"
+}

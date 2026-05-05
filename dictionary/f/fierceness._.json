@@ -1,0 +1,18 @@
+{
+    "base": "fierceness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fierceness",
+    "n2": "fiercenesses",
+    "n3": "the fierceness",
+    "n4": "the fiercenesses",
+    "n5": "fierceness'",
+    "n6": "fiercenesses'",
+    "n7": "a fierceness",
+    "n8": "many fiercenesses"
+}

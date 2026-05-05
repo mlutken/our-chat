@@ -1,0 +1,18 @@
+{
+    "base": "agony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "agony",
+    "n2": "agonies",
+    "n3": "the agony",
+    "n4": "the agonies",
+    "n5": "agony's",
+    "n6": "agonies'",
+    "n7": "an agony",
+    "n8": "many agonies"
+}

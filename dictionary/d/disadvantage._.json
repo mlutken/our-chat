@@ -1,0 +1,18 @@
+{
+    "base": "disadvantage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "disadvantage",
+    "n2": "disadvantages",
+    "n3": "the disadvantage",
+    "n4": "the disadvantages",
+    "n5": "disadvantage's",
+    "n6": "disadvantages'",
+    "n7": "a disadvantage",
+    "n8": "many disadvantages"
+}

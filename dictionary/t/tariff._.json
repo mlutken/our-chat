@@ -1,0 +1,18 @@
+{
+    "base": "tariff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tariff",
+    "n2": "tarifves",
+    "n3": "the tariff",
+    "n4": "the tarifves",
+    "n5": "tariff's",
+    "n6": "tarifves'",
+    "n7": "a tariff",
+    "n8": "many tarifves"
+}

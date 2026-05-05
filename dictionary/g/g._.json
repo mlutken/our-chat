@@ -1,0 +1,18 @@
+{
+    "base": "g",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "g",
+    "n2": "gs",
+    "n3": "the g",
+    "n4": "the gs",
+    "n5": "g's",
+    "n6": "gs'",
+    "n7": "a g",
+    "n8": "many gs"
+}

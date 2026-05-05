@@ -1,0 +1,18 @@
+{
+    "base": "postmark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "postmark",
+    "n2": "postmarks",
+    "n3": "the postmark",
+    "n4": "the postmarks",
+    "n5": "postmark's",
+    "n6": "postmarks'",
+    "n7": "a postmark",
+    "n8": "many postmarks"
+}

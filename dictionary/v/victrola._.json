@@ -1,0 +1,18 @@
+{
+    "base": "victrola",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "victrola",
+    "n2": "victrolas",
+    "n3": "the victrola",
+    "n4": "the victrolas",
+    "n5": "victrola's",
+    "n6": "victrolas'",
+    "n7": "a victrola",
+    "n8": "many victrolas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "parisology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parisology",
+    "n2": "parisologies",
+    "n3": "the parisology",
+    "n4": "the parisologies",
+    "n5": "parisology's",
+    "n6": "parisologies'",
+    "n7": "a parisology",
+    "n8": "many parisologies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "contingency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contingency",
+    "n2": "contingencies",
+    "n3": "the contingency",
+    "n4": "the contingencies",
+    "n5": "contingency's",
+    "n6": "contingencies'",
+    "n7": "a contingency",
+    "n8": "many contingencies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nervousness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nervousness",
+    "n2": "nervousnesses",
+    "n3": "the nervousness",
+    "n4": "the nervousnesses",
+    "n5": "nervousness'",
+    "n6": "nervousnesses'",
+    "n7": "a nervousness",
+    "n8": "many nervousnesses"
+}

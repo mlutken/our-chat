@@ -1,0 +1,18 @@
+{
+    "base": "exposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "exposition",
+    "n2": "expositions",
+    "n3": "the exposition",
+    "n4": "the expositions",
+    "n5": "exposition's",
+    "n6": "expositions'",
+    "n7": "an exposition",
+    "n8": "many expositions"
+}

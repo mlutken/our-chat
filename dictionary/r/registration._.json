@@ -7,5 +7,12 @@
     "n2": "registrations",
     "n3": "the registration",
     "n4": "the registrations",
-    "n5": "registration's"
+    "n5": "registration's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "registrations'",
+    "n7": "a registration",
+    "n8": "many registrations"
 }

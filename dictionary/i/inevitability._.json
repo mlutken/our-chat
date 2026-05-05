@@ -1,0 +1,18 @@
+{
+    "base": "inevitability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inevitability",
+    "n2": "inevitabilities",
+    "n3": "the inevitability",
+    "n4": "the inevitabilities",
+    "n5": "inevitability's",
+    "n6": "inevitabilities'",
+    "n7": "an inevitability",
+    "n8": "many inevitabilities"
+}

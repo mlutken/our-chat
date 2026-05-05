@@ -1,0 +1,18 @@
+{
+    "base": "bleat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bleat",
+    "n2": "bleats",
+    "n3": "the bleat",
+    "n4": "the bleats",
+    "n5": "bleat's",
+    "n6": "bleats'",
+    "n7": "a bleat",
+    "n8": "many bleats"
+}

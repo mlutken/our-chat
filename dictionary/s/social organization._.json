@@ -1,0 +1,18 @@
+{
+    "base": "social organization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "social organization",
+    "n2": "social organizations",
+    "n3": "the social organization",
+    "n4": "the social organizations",
+    "n5": "social organization's",
+    "n6": "social organizations'",
+    "n7": "a social organization",
+    "n8": "many social organizations"
+}

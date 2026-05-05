@@ -1,0 +1,18 @@
+{
+    "base": "clump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "clump",
+    "n2": "clumps",
+    "n3": "the clump",
+    "n4": "the clumps",
+    "n5": "clump's",
+    "n6": "clumps'",
+    "n7": "a clump",
+    "n8": "many clumps"
+}

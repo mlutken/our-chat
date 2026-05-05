@@ -1,0 +1,18 @@
+{
+    "base": "lurch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lurch",
+    "n2": "lurches",
+    "n3": "the lurch",
+    "n4": "the lurches",
+    "n5": "lurch's",
+    "n6": "lurches'",
+    "n7": "a lurch",
+    "n8": "many lurches"
+}

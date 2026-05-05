@@ -1,0 +1,18 @@
+{
+    "base": "field goal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "field goal",
+    "n2": "field goals",
+    "n3": "the field goal",
+    "n4": "the field goals",
+    "n5": "field goal's",
+    "n6": "field goals'",
+    "n7": "a field goal",
+    "n8": "many field goals"
+}

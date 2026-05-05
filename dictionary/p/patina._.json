@@ -1,0 +1,18 @@
+{
+    "base": "patina",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "patina",
+    "n2": "patinae",
+    "n3": "the patina",
+    "n4": "the patinae",
+    "n5": "patina's",
+    "n6": "patinae's",
+    "n7": "a patina",
+    "n8": "many patinae"
+}

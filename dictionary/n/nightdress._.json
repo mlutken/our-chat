@@ -1,0 +1,18 @@
+{
+    "base": "nightdress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nightdress",
+    "n2": "nightdresses",
+    "n3": "the nightdress",
+    "n4": "the nightdresses",
+    "n5": "nightdress'",
+    "n6": "nightdresses'",
+    "n7": "a nightdress",
+    "n8": "many nightdresses"
+}

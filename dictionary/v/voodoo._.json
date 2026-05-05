@@ -1,0 +1,18 @@
+{
+    "base": "voodoo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voodoo",
+    "n2": "voodoos",
+    "n3": "the voodoo",
+    "n4": "the voodoos",
+    "n5": "voodoo's",
+    "n6": "voodoos'",
+    "n7": "a voodoo",
+    "n8": "many voodoos"
+}

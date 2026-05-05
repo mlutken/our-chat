@@ -1,0 +1,18 @@
+{
+    "base": "prohibition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "prohibition",
+    "n2": "prohibitions",
+    "n3": "the prohibition",
+    "n4": "the prohibitions",
+    "n5": "prohibition's",
+    "n6": "prohibitions'",
+    "n7": "a prohibition",
+    "n8": "many prohibitions"
+}

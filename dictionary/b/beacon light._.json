@@ -1,0 +1,18 @@
+{
+    "base": "beacon light",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beacon light",
+    "n2": "beacon lights",
+    "n3": "the beacon light",
+    "n4": "the beacon lights",
+    "n5": "beacon light's",
+    "n6": "beacon lights'",
+    "n7": "a beacon light",
+    "n8": "many beacon lights"
+}

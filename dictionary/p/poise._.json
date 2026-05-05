@@ -1,0 +1,18 @@
+{
+    "base": "poise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "poise",
+    "n2": "poises",
+    "n3": "the poise",
+    "n4": "the poises",
+    "n5": "poise's",
+    "n6": "poises'",
+    "n7": "a poise",
+    "n8": "many poises"
+}

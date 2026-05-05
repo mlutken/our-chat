@@ -7,5 +7,12 @@
     "n2": "boards",
     "n3": "the board",
     "n4": "the boards",
-    "n5": "board's"
+    "n5": "board's",
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n6": "boards'",
+    "n7": "a board",
+    "n8": "many boards"
 }

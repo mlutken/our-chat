@@ -1,0 +1,18 @@
+{
+    "base": "inhabitant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "inhabitant",
+    "n2": "inhabitants",
+    "n3": "the inhabitant",
+    "n4": "the inhabitants",
+    "n5": "inhabitant's",
+    "n6": "inhabitants'",
+    "n7": "an inhabitant",
+    "n8": "many inhabitants"
+}

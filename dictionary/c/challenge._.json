@@ -1,11 +1,24 @@
 {
     "base": "challenge",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "challenge",
     "v2": "challenged",
     "v3": "challenged",
     "v4": "challenging",
-    "v5": "challenges"
+    "v5": "challenges",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "challenge",
+    "n2": "challenges",
+    "n3": "the challenge",
+    "n4": "the challenges",
+    "n5": "challenge's",
+    "n6": "challenges'",
+    "n7": "a challenge",
+    "n8": "many challenges"
 }

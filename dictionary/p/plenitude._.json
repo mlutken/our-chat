@@ -1,0 +1,18 @@
+{
+    "base": "plenitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plenitude",
+    "n2": "plenitudes",
+    "n3": "the plenitude",
+    "n4": "the plenitudes",
+    "n5": "plenitude's",
+    "n6": "plenitudes'",
+    "n7": "a plenitude",
+    "n8": "many plenitudes"
+}

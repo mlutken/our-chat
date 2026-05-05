@@ -7,5 +7,12 @@
     "n2": "selections",
     "n3": "the selection",
     "n4": "the selections",
-    "n5": "selection's"
+    "n5": "selection's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "selections'",
+    "n7": "a selection",
+    "n8": "many selections"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "jewel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jewel",
+    "n2": "jewels",
+    "n3": "the jewel",
+    "n4": "the jewels",
+    "n5": "jewel's",
+    "n6": "jewels'",
+    "n7": "a jewel",
+    "n8": "many jewels"
+}

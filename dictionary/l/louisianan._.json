@@ -1,0 +1,18 @@
+{
+    "base": "louisianan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "louisianan",
+    "n2": "louisianans",
+    "n3": "the louisianan",
+    "n4": "the louisianans",
+    "n5": "louisianan's",
+    "n6": "louisianans'",
+    "n7": "a louisianan",
+    "n8": "many louisianans"
+}

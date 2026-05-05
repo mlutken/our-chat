@@ -7,5 +7,12 @@
     "n2": "republics",
     "n3": "the republic",
     "n4": "the republics",
-    "n5": "republic's"
+    "n5": "republic's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "republics'",
+    "n7": "a republic",
+    "n8": "many republics"
 }

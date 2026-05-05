@@ -1,0 +1,18 @@
+{
+    "base": "rabbit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "rabbit",
+    "n2": "rabbits",
+    "n3": "the rabbit",
+    "n4": "the rabbits",
+    "n5": "rabbit's",
+    "n6": "rabbits'",
+    "n7": "a rabbit",
+    "n8": "many rabbits"
+}

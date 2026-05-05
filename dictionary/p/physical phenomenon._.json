@@ -1,0 +1,18 @@
+{
+    "base": "physical phenomenon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "physical phenomenon",
+    "n2": "physical phenomenons",
+    "n3": "the physical phenomenon",
+    "n4": "the physical phenomenons",
+    "n5": "physical phenomenon's",
+    "n6": "physical phenomenons'",
+    "n7": "a physical phenomenon",
+    "n8": "many physical phenomenons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "freak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "freak",
+    "n2": "freaks",
+    "n3": "the freak",
+    "n4": "the freaks",
+    "n5": "freak's",
+    "n6": "freaks'",
+    "n7": "a freak",
+    "n8": "many freaks"
+}

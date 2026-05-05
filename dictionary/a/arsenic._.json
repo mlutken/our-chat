@@ -1,0 +1,18 @@
+{
+    "base": "arsenic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arsenic",
+    "n2": "arsenics",
+    "n3": "the arsenic",
+    "n4": "the arsenics",
+    "n5": "arsenic's",
+    "n6": "arsenics'",
+    "n7": "an arsenic",
+    "n8": "many arsenics"
+}

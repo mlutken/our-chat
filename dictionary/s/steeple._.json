@@ -1,0 +1,18 @@
+{
+    "base": "steeple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "steeple",
+    "n2": "steeples",
+    "n3": "the steeple",
+    "n4": "the steeples",
+    "n5": "steeple's",
+    "n6": "steeples'",
+    "n7": "a steeple",
+    "n8": "many steeples"
+}

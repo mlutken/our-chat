@@ -1,0 +1,18 @@
+{
+    "base": "vocational rehabilitation program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vocational rehabilitation program",
+    "n2": "vocational rehabilitation programs",
+    "n3": "the vocational rehabilitation program",
+    "n4": "the vocational rehabilitation programs",
+    "n5": "vocational rehabilitation program's",
+    "n6": "vocational rehabilitation programs'",
+    "n7": "a vocational rehabilitation program",
+    "n8": "many vocational rehabilitation programs"
+}

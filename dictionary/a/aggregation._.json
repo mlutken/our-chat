@@ -1,0 +1,18 @@
+{
+    "base": "aggregation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aggregation",
+    "n2": "aggregations",
+    "n3": "the aggregation",
+    "n4": "the aggregations",
+    "n5": "aggregation's",
+    "n6": "aggregations'",
+    "n7": "an aggregation",
+    "n8": "many aggregations"
+}

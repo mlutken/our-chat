@@ -7,5 +7,12 @@
     "n2": "layers",
     "n3": "the layer",
     "n4": "the layers",
-    "n5": "layer's"
+    "n5": "layer's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "layers'",
+    "n7": "a layer",
+    "n8": "many layers"
 }

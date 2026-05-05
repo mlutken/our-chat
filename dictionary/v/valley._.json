@@ -1,0 +1,18 @@
+{
+    "base": "valley",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "valley",
+    "n2": "valleys",
+    "n3": "the valley",
+    "n4": "the valleys",
+    "n5": "valley's",
+    "n6": "valleys'",
+    "n7": "a valley",
+    "n8": "many valleys"
+}

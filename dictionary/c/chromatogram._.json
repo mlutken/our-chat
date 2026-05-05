@@ -1,0 +1,18 @@
+{
+    "base": "chromatogram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chromatogram",
+    "n2": "chromatograms",
+    "n3": "the chromatogram",
+    "n4": "the chromatograms",
+    "n5": "chromatogram's",
+    "n6": "chromatograms'",
+    "n7": "a chromatogram",
+    "n8": "many chromatograms"
+}

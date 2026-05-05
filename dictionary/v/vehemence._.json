@@ -1,0 +1,18 @@
+{
+    "base": "vehemence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vehemence",
+    "n2": "vehemences",
+    "n3": "the vehemence",
+    "n4": "the vehemences",
+    "n5": "vehemence's",
+    "n6": "vehemences'",
+    "n7": "a vehemence",
+    "n8": "many vehemences"
+}

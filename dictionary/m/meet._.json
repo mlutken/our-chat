@@ -1,11 +1,24 @@
 {
     "base": "meet",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "meet",
     "v2": "met",
     "v3": "met",
     "v4": "meeting",
-    "v5": "meets"
+    "v5": "meets",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "meet",
+    "n2": "meets",
+    "n3": "the meet",
+    "n4": "the meets",
+    "n5": "meet's",
+    "n6": "meets'",
+    "n7": "a meet",
+    "n8": "many meets"
 }

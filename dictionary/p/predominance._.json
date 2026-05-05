@@ -1,0 +1,18 @@
+{
+    "base": "predominance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "predominance",
+    "n2": "predominances",
+    "n3": "the predominance",
+    "n4": "the predominances",
+    "n5": "predominance's",
+    "n6": "predominances'",
+    "n7": "a predominance",
+    "n8": "many predominances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "deficiency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "deficiency",
+    "n2": "deficiencies",
+    "n3": "the deficiency",
+    "n4": "the deficiencies",
+    "n5": "deficiency's",
+    "n6": "deficiencies'",
+    "n7": "a deficiency",
+    "n8": "many deficiencies"
+}

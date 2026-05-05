@@ -1,0 +1,18 @@
+{
+    "base": "radar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "radar",
+    "n2": "radars",
+    "n3": "the radar",
+    "n4": "the radars",
+    "n5": "radar's",
+    "n6": "radars'",
+    "n7": "a radar",
+    "n8": "many radars"
+}

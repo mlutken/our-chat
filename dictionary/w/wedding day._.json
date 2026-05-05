@@ -1,0 +1,18 @@
+{
+    "base": "wedding day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wedding day",
+    "n2": "wedding days",
+    "n3": "the wedding day",
+    "n4": "the wedding days",
+    "n5": "wedding day's",
+    "n6": "wedding days'",
+    "n7": "a wedding day",
+    "n8": "many wedding days"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "anglophilia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anglophilia",
+    "n2": "anglophilias",
+    "n3": "the anglophilia",
+    "n4": "the anglophilias",
+    "n5": "anglophilia's",
+    "n6": "anglophilias'",
+    "n7": "an anglophilia",
+    "n8": "many anglophilias"
+}

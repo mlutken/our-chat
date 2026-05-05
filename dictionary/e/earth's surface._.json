@@ -1,0 +1,18 @@
+{
+    "base": "earth's surface",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "earth's surface",
+    "n2": "earth's surfaces",
+    "n3": "the earth's surface",
+    "n4": "the earth's surfaces",
+    "n5": "earth's surface's",
+    "n6": "earth's surfaces'",
+    "n7": "an earth's surface",
+    "n8": "many earth's surfaces"
+}

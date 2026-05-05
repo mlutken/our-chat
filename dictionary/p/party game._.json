@@ -1,0 +1,18 @@
+{
+    "base": "party game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "party game",
+    "n2": "party games",
+    "n3": "the party game",
+    "n4": "the party games",
+    "n5": "party game's",
+    "n6": "party games'",
+    "n7": "a party game",
+    "n8": "many party games"
+}

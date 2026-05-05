@@ -1,0 +1,18 @@
+{
+    "base": "efficacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "efficacy",
+    "n2": "efficacies",
+    "n3": "the efficacy",
+    "n4": "the efficacies",
+    "n5": "efficacy's",
+    "n6": "efficacies'",
+    "n7": "an efficacy",
+    "n8": "many efficacies"
+}

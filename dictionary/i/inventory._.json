@@ -1,0 +1,18 @@
+{
+    "base": "inventory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "inventory",
+    "n2": "inventories",
+    "n3": "the inventory",
+    "n4": "the inventories",
+    "n5": "inventory's",
+    "n6": "inventories'",
+    "n7": "an inventory",
+    "n8": "many inventories"
+}

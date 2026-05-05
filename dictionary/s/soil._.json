@@ -7,5 +7,12 @@
     "n2": "soils",
     "n3": "the soil",
     "n4": "the soils",
-    "n5": "soil's"
+    "n5": "soil's",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n6": "soils'",
+    "n7": "a soil",
+    "n8": "many soils"
 }

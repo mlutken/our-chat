@@ -1,0 +1,18 @@
+{
+    "base": "cadence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cadence",
+    "n2": "cadences",
+    "n3": "the cadence",
+    "n4": "the cadences",
+    "n5": "cadence's",
+    "n6": "cadences'",
+    "n7": "a cadence",
+    "n8": "many cadences"
+}

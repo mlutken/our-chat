@@ -1,0 +1,18 @@
+{
+    "base": "blasphemy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blasphemy",
+    "n2": "blasphemies",
+    "n3": "the blasphemy",
+    "n4": "the blasphemies",
+    "n5": "blasphemy's",
+    "n6": "blasphemies'",
+    "n7": "a blasphemy",
+    "n8": "many blasphemies"
+}

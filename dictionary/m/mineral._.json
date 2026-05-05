@@ -1,0 +1,18 @@
+{
+    "base": "mineral",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "mineral",
+    "n2": "minerals",
+    "n3": "the mineral",
+    "n4": "the minerals",
+    "n5": "mineral's",
+    "n6": "minerals'",
+    "n7": "a mineral",
+    "n8": "many minerals"
+}

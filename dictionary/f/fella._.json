@@ -1,0 +1,18 @@
+{
+    "base": "fella",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fella",
+    "n2": "fellas",
+    "n3": "the fella",
+    "n4": "the fellas",
+    "n5": "fella's",
+    "n6": "fellas'",
+    "n7": "a fella",
+    "n8": "many fellas"
+}

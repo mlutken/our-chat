@@ -1,0 +1,18 @@
+{
+    "base": "existentialist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "existentialist",
+    "n2": "existentialists",
+    "n3": "the existentialist",
+    "n4": "the existentialists",
+    "n5": "existentialist's",
+    "n6": "existentialists'",
+    "n7": "an existentialist",
+    "n8": "many existentialists"
+}

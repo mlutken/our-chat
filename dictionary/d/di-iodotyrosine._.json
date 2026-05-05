@@ -1,0 +1,18 @@
+{
+    "base": "di-iodotyrosine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "di-iodotyrosine",
+    "n2": "di-iodotyrosines",
+    "n3": "the di-iodotyrosine",
+    "n4": "the di-iodotyrosines",
+    "n5": "di-iodotyrosine's",
+    "n6": "di-iodotyrosines'",
+    "n7": "a di-iodotyrosine",
+    "n8": "many di-iodotyrosines"
+}

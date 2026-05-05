@@ -1,0 +1,18 @@
+{
+    "base": "backstage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "backstage",
+    "n2": "backstages",
+    "n3": "the backstage",
+    "n4": "the backstages",
+    "n5": "backstage's",
+    "n6": "backstages'",
+    "n7": "a backstage",
+    "n8": "many backstages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "christ",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "christ",
+    "n2": "christs",
+    "n3": "the christ",
+    "n4": "the christs",
+    "n5": "christ's",
+    "n6": "christs'",
+    "n7": "a christ",
+    "n8": "many christs"
+}

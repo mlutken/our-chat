@@ -1,0 +1,18 @@
+{
+    "base": "tv room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tv room",
+    "n2": "tv rooms",
+    "n3": "the tv room",
+    "n4": "the tv rooms",
+    "n5": "tv room's",
+    "n6": "tv rooms'",
+    "n7": "a tv room",
+    "n8": "many tv rooms"
+}

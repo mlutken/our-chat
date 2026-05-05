@@ -1,0 +1,18 @@
+{
+    "base": "foyer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "foyer",
+    "n2": "foyers",
+    "n3": "the foyer",
+    "n4": "the foyers",
+    "n5": "foyer's",
+    "n6": "foyers'",
+    "n7": "a foyer",
+    "n8": "many foyers"
+}

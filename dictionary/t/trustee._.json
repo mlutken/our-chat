@@ -1,0 +1,18 @@
+{
+    "base": "trustee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "trustee",
+    "n2": "trustees",
+    "n3": "the trustee",
+    "n4": "the trustees",
+    "n5": "trustee's",
+    "n6": "trustees'",
+    "n7": "a trustee",
+    "n8": "many trustees"
+}

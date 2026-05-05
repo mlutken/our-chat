@@ -1,0 +1,18 @@
+{
+    "base": "re-introduction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "re-introduction",
+    "n2": "re-introductions",
+    "n3": "the re-introduction",
+    "n4": "the re-introductions",
+    "n5": "re-introduction's",
+    "n6": "re-introductions'",
+    "n7": "a re-introduction",
+    "n8": "many re-introductions"
+}

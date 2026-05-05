@@ -1,0 +1,18 @@
+{
+    "base": "brush fire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brush fire",
+    "n2": "brush fires",
+    "n3": "the brush fire",
+    "n4": "the brush fires",
+    "n5": "brush fire's",
+    "n6": "brush fires'",
+    "n7": "a brush fire",
+    "n8": "many brush fires"
+}

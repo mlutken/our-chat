@@ -1,0 +1,18 @@
+{
+    "base": "spanish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "spanish",
+    "n2": "spanishes",
+    "n3": "the spanish",
+    "n4": "the spanishes",
+    "n5": "spanish's",
+    "n6": "spanishes'",
+    "n7": "a spanish",
+    "n8": "many spanishes"
+}

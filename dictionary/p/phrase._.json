@@ -1,0 +1,18 @@
+{
+    "base": "phrase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "phrase",
+    "n2": "phrases",
+    "n3": "the phrase",
+    "n4": "the phrases",
+    "n5": "phrase's",
+    "n6": "phrases'",
+    "n7": "a phrase",
+    "n8": "many phrases"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "triangle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "triangle",
+    "n2": "triangles",
+    "n3": "the triangle",
+    "n4": "the triangles",
+    "n5": "triangle's",
+    "n6": "triangles'",
+    "n7": "a triangle",
+    "n8": "many triangles"
+}

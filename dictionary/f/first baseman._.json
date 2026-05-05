@@ -1,0 +1,18 @@
+{
+    "base": "first baseman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "first baseman",
+    "n2": "first basemen",
+    "n3": "the first baseman",
+    "n4": "the first basemen",
+    "n5": "first baseman's",
+    "n6": "first basemen's",
+    "n7": "a first baseman",
+    "n8": "many first basemen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cur",
+    "n2": "curs",
+    "n3": "the cur",
+    "n4": "the curs",
+    "n5": "cur's",
+    "n6": "curs'",
+    "n7": "a cur",
+    "n8": "many curs"
+}

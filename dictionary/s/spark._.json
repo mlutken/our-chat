@@ -1,11 +1,24 @@
 {
     "base": "spark",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "spark",
     "v2": "sparked",
     "v3": "sparked",
     "v4": "sparking",
-    "v5": "sparks"
+    "v5": "sparks",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "spark",
+    "n2": "sparks",
+    "n3": "the spark",
+    "n4": "the sparks",
+    "n5": "spark's",
+    "n6": "sparks'",
+    "n7": "a spark",
+    "n8": "many sparks"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sophisticate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sophisticate",
+    "n2": "sophisticates",
+    "n3": "the sophisticate",
+    "n4": "the sophisticates",
+    "n5": "sophisticate's",
+    "n6": "sophisticates'",
+    "n7": "a sophisticate",
+    "n8": "many sophisticates"
+}

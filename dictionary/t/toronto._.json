@@ -1,0 +1,18 @@
+{
+    "base": "toronto",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toronto",
+    "n2": "torontos",
+    "n3": "the toronto",
+    "n4": "the torontos",
+    "n5": "toronto's",
+    "n6": "torontos'",
+    "n7": "a toronto",
+    "n8": "many torontos"
+}

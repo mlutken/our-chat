@@ -1,11 +1,24 @@
 {
     "base": "fly",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fly",
     "v2": "flew",
     "v3": "flown",
     "v4": "flying",
-    "v5": "flies"
+    "v5": "flies",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "fly",
+    "n2": "flies",
+    "n3": "the fly",
+    "n4": "the flies",
+    "n5": "fly's",
+    "n6": "flies'",
+    "n7": "a fly",
+    "n8": "many flies"
 }

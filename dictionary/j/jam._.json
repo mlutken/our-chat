@@ -1,0 +1,18 @@
+{
+    "base": "jam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "jam",
+    "n2": "jams",
+    "n3": "the jam",
+    "n4": "the jams",
+    "n5": "jam's",
+    "n6": "jams'",
+    "n7": "a jam",
+    "n8": "many jams"
+}

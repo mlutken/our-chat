@@ -1,0 +1,18 @@
+{
+    "base": "wand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wand",
+    "n2": "wands",
+    "n3": "the wand",
+    "n4": "the wands",
+    "n5": "wand's",
+    "n6": "wands'",
+    "n7": "a wand",
+    "n8": "many wands"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mirror",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "mirror",
+    "n2": "mirrors",
+    "n3": "the mirror",
+    "n4": "the mirrors",
+    "n5": "mirror's",
+    "n6": "mirrors'",
+    "n7": "a mirror",
+    "n8": "many mirrors"
+}

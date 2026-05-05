@@ -1,0 +1,18 @@
+{
+    "base": "litter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "litter",
+    "n2": "litters",
+    "n3": "the litter",
+    "n4": "the litters",
+    "n5": "litter's",
+    "n6": "litters'",
+    "n7": "a litter",
+    "n8": "many litters"
+}

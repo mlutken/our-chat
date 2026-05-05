@@ -1,0 +1,18 @@
+{
+    "base": "anastomosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "anastomosis",
+    "n2": "anastomoses",
+    "n3": "the anastomosis",
+    "n4": "the anastomoses",
+    "n5": "anastomosis'",
+    "n6": "anastomoses'",
+    "n7": "an anastomosis",
+    "n8": "many anastomoses"
+}

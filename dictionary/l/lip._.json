@@ -1,0 +1,18 @@
+{
+    "base": "lip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n1": "lip",
+    "n2": "lips",
+    "n3": "the lip",
+    "n4": "the lips",
+    "n5": "lip's",
+    "n6": "lips'",
+    "n7": "a lip",
+    "n8": "many lips"
+}

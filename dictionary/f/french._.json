@@ -1,0 +1,18 @@
+{
+    "base": "french",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "french",
+    "n2": "frenches",
+    "n3": "the french",
+    "n4": "the frenches",
+    "n5": "french's",
+    "n6": "frenches'",
+    "n7": "a french",
+    "n8": "many frenches"
+}

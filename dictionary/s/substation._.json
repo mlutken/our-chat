@@ -1,0 +1,18 @@
+{
+    "base": "substation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "substation",
+    "n2": "substations",
+    "n3": "the substation",
+    "n4": "the substations",
+    "n5": "substation's",
+    "n6": "substations'",
+    "n7": "a substation",
+    "n8": "many substations"
+}

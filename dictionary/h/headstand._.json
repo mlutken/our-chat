@@ -1,0 +1,18 @@
+{
+    "base": "headstand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "headstand",
+    "n2": "headstands",
+    "n3": "the headstand",
+    "n4": "the headstands",
+    "n5": "headstand's",
+    "n6": "headstands'",
+    "n7": "a headstand",
+    "n8": "many headstands"
+}

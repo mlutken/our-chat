@@ -1,0 +1,18 @@
+{
+    "base": "briefcase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "briefcase",
+    "n2": "briefcases",
+    "n3": "the briefcase",
+    "n4": "the briefcases",
+    "n5": "briefcase's",
+    "n6": "briefcases'",
+    "n7": "a briefcase",
+    "n8": "many briefcases"
+}

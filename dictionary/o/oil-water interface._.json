@@ -1,0 +1,18 @@
+{
+    "base": "oil-water interface",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oil-water interface",
+    "n2": "oil-water interfaces",
+    "n3": "the oil-water interface",
+    "n4": "the oil-water interfaces",
+    "n5": "oil-water interface's",
+    "n6": "oil-water interfaces'",
+    "n7": "an oil-water interface",
+    "n8": "many oil-water interfaces"
+}

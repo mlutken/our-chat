@@ -1,0 +1,18 @@
+{
+    "base": "clangoring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clangoring",
+    "n2": "clangorings",
+    "n3": "the clangoring",
+    "n4": "the clangorings",
+    "n5": "clangoring's",
+    "n6": "clangorings'",
+    "n7": "a clangoring",
+    "n8": "many clangorings"
+}

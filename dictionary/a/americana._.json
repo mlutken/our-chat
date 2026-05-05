@@ -1,0 +1,18 @@
+{
+    "base": "americana",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "americana",
+    "n2": "americanas",
+    "n3": "the americana",
+    "n4": "the americanas",
+    "n5": "americana's",
+    "n6": "americanas'",
+    "n7": "an americana",
+    "n8": "many americanas"
+}

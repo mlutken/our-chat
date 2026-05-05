@@ -1,0 +1,18 @@
+{
+    "base": "bus stop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bus stop",
+    "n2": "bus stops",
+    "n3": "the bus stop",
+    "n4": "the bus stops",
+    "n5": "bus stop's",
+    "n6": "bus stops'",
+    "n7": "a bus stop",
+    "n8": "many bus stops"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "enfant terrible",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enfant terrible",
+    "n2": "enfant terribles",
+    "n3": "the enfant terrible",
+    "n4": "the enfant terribles",
+    "n5": "enfant terrible's",
+    "n6": "enfant terribles'",
+    "n7": "an enfant terrible",
+    "n8": "many enfant terribles"
+}

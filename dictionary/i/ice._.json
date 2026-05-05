@@ -7,5 +7,12 @@
     "n2": "ices",
     "n3": "the ice",
     "n4": "the ices",
-    "n5": "ice's"
+    "n5": "ice's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "ices'",
+    "n7": "an ice",
+    "n8": "many ices"
 }

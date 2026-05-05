@@ -1,0 +1,18 @@
+{
+    "base": "cockatoo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cockatoo",
+    "n2": "cockatoos",
+    "n3": "the cockatoo",
+    "n4": "the cockatoos",
+    "n5": "cockatoo's",
+    "n6": "cockatoos'",
+    "n7": "a cockatoo",
+    "n8": "many cockatoos"
+}

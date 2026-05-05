@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "tennis",
-    "n2": "tennis",
+    "n2": "tennises",
     "n3": "the tennis",
-    "n4": "the tennis",
-    "n5": "tennis's"
+    "n4": "the tennises",
+    "n5": "tennis'",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "tennises'",
+    "n7": "a tennis",
+    "n8": "many tennises"
 }

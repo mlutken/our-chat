@@ -1,0 +1,18 @@
+{
+    "base": "ordinance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ordinance",
+    "n2": "ordinances",
+    "n3": "the ordinance",
+    "n4": "the ordinances",
+    "n5": "ordinance's",
+    "n6": "ordinances'",
+    "n7": "an ordinance",
+    "n8": "many ordinances"
+}

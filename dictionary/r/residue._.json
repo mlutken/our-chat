@@ -1,0 +1,18 @@
+{
+    "base": "residue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "residue",
+    "n2": "residues",
+    "n3": "the residue",
+    "n4": "the residues",
+    "n5": "residue's",
+    "n6": "residues'",
+    "n7": "a residue",
+    "n8": "many residues"
+}

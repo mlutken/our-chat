@@ -1,0 +1,18 @@
+{
+    "base": "wardroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wardroom",
+    "n2": "wardrooms",
+    "n3": "the wardroom",
+    "n4": "the wardrooms",
+    "n5": "wardroom's",
+    "n6": "wardrooms'",
+    "n7": "a wardroom",
+    "n8": "many wardrooms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "massachusetts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "massachusetts",
+    "n2": "massachusettses",
+    "n3": "the massachusetts",
+    "n4": "the massachusettses",
+    "n5": "massachusetts'",
+    "n6": "massachusettses'",
+    "n7": "a massachusetts",
+    "n8": "many massachusettses"
+}

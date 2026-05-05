@@ -1,0 +1,18 @@
+{
+    "base": "luster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "luster",
+    "n2": "lusters",
+    "n3": "the luster",
+    "n4": "the lusters",
+    "n5": "luster's",
+    "n6": "lusters'",
+    "n7": "a luster",
+    "n8": "many lusters"
+}

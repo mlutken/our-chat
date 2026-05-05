@@ -1,0 +1,18 @@
+{
+    "base": "hail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hail",
+    "n2": "hails",
+    "n3": "the hail",
+    "n4": "the hails",
+    "n5": "hail's",
+    "n6": "hails'",
+    "n7": "a hail",
+    "n8": "many hails"
+}

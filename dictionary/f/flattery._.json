@@ -1,0 +1,18 @@
+{
+    "base": "flattery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flattery",
+    "n2": "flatteries",
+    "n3": "the flattery",
+    "n4": "the flatteries",
+    "n5": "flattery's",
+    "n6": "flatteries'",
+    "n7": "a flattery",
+    "n8": "many flatteries"
+}

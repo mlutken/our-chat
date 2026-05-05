@@ -1,0 +1,18 @@
+{
+    "base": "zinc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "zinc",
+    "n2": "zincs",
+    "n3": "the zinc",
+    "n4": "the zincs",
+    "n5": "zinc's",
+    "n6": "zincs'",
+    "n7": "a zinc",
+    "n8": "many zincs"
+}

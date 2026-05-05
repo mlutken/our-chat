@@ -1,0 +1,18 @@
+{
+    "base": "tulip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tulip",
+    "n2": "tulips",
+    "n3": "the tulip",
+    "n4": "the tulips",
+    "n5": "tulip's",
+    "n6": "tulips'",
+    "n7": "a tulip",
+    "n8": "many tulips"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "peg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "peg",
+    "n2": "pegs",
+    "n3": "the peg",
+    "n4": "the pegs",
+    "n5": "peg's",
+    "n6": "pegs'",
+    "n7": "a peg",
+    "n8": "many pegs"
+}

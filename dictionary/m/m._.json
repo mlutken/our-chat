@@ -1,0 +1,18 @@
+{
+    "base": "m",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "m",
+    "n2": "ms",
+    "n3": "the m",
+    "n4": "the ms",
+    "n5": "m's",
+    "n6": "ms'",
+    "n7": "a m",
+    "n8": "many ms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "air mattress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "air mattress",
+    "n2": "air mattresses",
+    "n3": "the air mattress",
+    "n4": "the air mattresses",
+    "n5": "air mattress'",
+    "n6": "air mattresses'",
+    "n7": "an air mattress",
+    "n8": "many air mattresses"
+}

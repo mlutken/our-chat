@@ -1,0 +1,18 @@
+{
+    "base": "streptococcus anhemolyticus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "streptococcus anhemolyticus",
+    "n2": "streptococcus anhemolyticuses",
+    "n3": "the streptococcus anhemolyticus",
+    "n4": "the streptococcus anhemolyticuses",
+    "n5": "streptococcus anhemolyticus'",
+    "n6": "streptococcus anhemolyticuses'",
+    "n7": "a streptococcus anhemolyticus",
+    "n8": "many streptococcus anhemolyticuses"
+}

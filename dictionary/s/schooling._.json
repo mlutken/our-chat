@@ -1,0 +1,18 @@
+{
+    "base": "schooling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "schooling",
+    "n2": "schoolings",
+    "n3": "the schooling",
+    "n4": "the schoolings",
+    "n5": "schooling's",
+    "n6": "schoolings'",
+    "n7": "a schooling",
+    "n8": "many schoolings"
+}

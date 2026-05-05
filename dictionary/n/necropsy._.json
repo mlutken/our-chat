@@ -1,0 +1,18 @@
+{
+    "base": "necropsy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "necropsy",
+    "n2": "necropsies",
+    "n3": "the necropsy",
+    "n4": "the necropsies",
+    "n5": "necropsy's",
+    "n6": "necropsies'",
+    "n7": "a necropsy",
+    "n8": "many necropsies"
+}

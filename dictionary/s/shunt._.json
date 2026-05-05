@@ -1,0 +1,18 @@
+{
+    "base": "shunt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "shunt",
+    "n2": "shunts",
+    "n3": "the shunt",
+    "n4": "the shunts",
+    "n5": "shunt's",
+    "n6": "shunts'",
+    "n7": "a shunt",
+    "n8": "many shunts"
+}

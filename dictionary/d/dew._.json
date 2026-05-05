@@ -1,0 +1,18 @@
+{
+    "base": "dew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dew",
+    "n2": "dews",
+    "n3": "the dew",
+    "n4": "the dews",
+    "n5": "dew's",
+    "n6": "dews'",
+    "n7": "a dew",
+    "n8": "many dews"
+}

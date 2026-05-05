@@ -1,0 +1,18 @@
+{
+    "base": "nihilism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nihilism",
+    "n2": "nihilisms",
+    "n3": "the nihilism",
+    "n4": "the nihilisms",
+    "n5": "nihilism's",
+    "n6": "nihilisms'",
+    "n7": "a nihilism",
+    "n8": "many nihilisms"
+}

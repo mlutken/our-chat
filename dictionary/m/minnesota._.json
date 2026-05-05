@@ -1,0 +1,18 @@
+{
+    "base": "minnesota",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "minnesota",
+    "n2": "minnesotas",
+    "n3": "the minnesota",
+    "n4": "the minnesotas",
+    "n5": "minnesota's",
+    "n6": "minnesotas'",
+    "n7": "a minnesota",
+    "n8": "many minnesotas"
+}

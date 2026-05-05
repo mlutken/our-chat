@@ -1,0 +1,18 @@
+{
+    "base": "cud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cud",
+    "n2": "cuds",
+    "n3": "the cud",
+    "n4": "the cuds",
+    "n5": "cud's",
+    "n6": "cuds'",
+    "n7": "a cud",
+    "n8": "many cuds"
+}

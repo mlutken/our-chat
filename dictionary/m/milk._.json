@@ -1,11 +1,24 @@
 {
     "base": "milk",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "milk",
     "v2": "milked",
     "v3": "milked",
     "v4": "milking",
-    "v5": "milks"
+    "v5": "milks",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "milk",
+    "n2": "milks",
+    "n3": "the milk",
+    "n4": "the milks",
+    "n5": "milk's",
+    "n6": "milks'",
+    "n7": "a milk",
+    "n8": "many milks"
 }

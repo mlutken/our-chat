@@ -1,11 +1,24 @@
 {
     "base": "fence",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fence",
     "v2": "fenced",
     "v3": "fenced",
     "v4": "fencing",
-    "v5": "fences"
+    "v5": "fences",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "fence",
+    "n2": "fences",
+    "n3": "the fence",
+    "n4": "the fences",
+    "n5": "fence's",
+    "n6": "fences'",
+    "n7": "a fence",
+    "n8": "many fences"
 }

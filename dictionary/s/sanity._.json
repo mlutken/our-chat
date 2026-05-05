@@ -1,0 +1,18 @@
+{
+    "base": "sanity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sanity",
+    "n2": "sanities",
+    "n3": "the sanity",
+    "n4": "the sanities",
+    "n5": "sanity's",
+    "n6": "sanities'",
+    "n7": "a sanity",
+    "n8": "many sanities"
+}

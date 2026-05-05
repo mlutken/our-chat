@@ -1,0 +1,18 @@
+{
+    "base": "ammoniac",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ammoniac",
+    "n2": "ammoniacs",
+    "n3": "the ammoniac",
+    "n4": "the ammoniacs",
+    "n5": "ammoniac's",
+    "n6": "ammoniacs'",
+    "n7": "an ammoniac",
+    "n8": "many ammoniacs"
+}

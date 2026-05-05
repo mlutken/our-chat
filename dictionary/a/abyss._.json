@@ -1,0 +1,18 @@
+{
+    "base": "abyss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "abyss",
+    "n2": "abysses",
+    "n3": "the abyss",
+    "n4": "the abysses",
+    "n5": "abyss'",
+    "n6": "abysses'",
+    "n7": "an abyss",
+    "n8": "many abysses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "pen",
+    "n2": "pens",
+    "n3": "the pen",
+    "n4": "the pens",
+    "n5": "pen's",
+    "n6": "pens'",
+    "n7": "a pen",
+    "n8": "many pens"
+}

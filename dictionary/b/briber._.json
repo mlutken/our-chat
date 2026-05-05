@@ -1,0 +1,18 @@
+{
+    "base": "briber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "briber",
+    "n2": "bribers",
+    "n3": "the briber",
+    "n4": "the bribers",
+    "n5": "briber's",
+    "n6": "bribers'",
+    "n7": "a briber",
+    "n8": "many bribers"
+}

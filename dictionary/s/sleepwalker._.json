@@ -1,0 +1,18 @@
+{
+    "base": "sleepwalker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sleepwalker",
+    "n2": "sleepwalkers",
+    "n3": "the sleepwalker",
+    "n4": "the sleepwalkers",
+    "n5": "sleepwalker's",
+    "n6": "sleepwalkers'",
+    "n7": "a sleepwalker",
+    "n8": "many sleepwalkers"
+}

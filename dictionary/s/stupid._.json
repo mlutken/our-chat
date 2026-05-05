@@ -1,9 +1,22 @@
 {
     "base": "stupid",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "stupid",
     "adj2": "more stupid",
-    "adj3": "most stupid"
+    "adj3": "most stupid",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stupid",
+    "n2": "stupids",
+    "n3": "the stupid",
+    "n4": "the stupids",
+    "n5": "stupid's",
+    "n6": "stupids'",
+    "n7": "a stupid",
+    "n8": "many stupids"
 }

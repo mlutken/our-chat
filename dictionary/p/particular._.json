@@ -1,0 +1,18 @@
+{
+    "base": "particular",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "particular",
+    "n2": "particulars",
+    "n3": "the particular",
+    "n4": "the particulars",
+    "n5": "particular's",
+    "n6": "particulars'",
+    "n7": "a particular",
+    "n8": "many particulars"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "scowl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scowl",
+    "n2": "scowls",
+    "n3": "the scowl",
+    "n4": "the scowls",
+    "n5": "scowl's",
+    "n6": "scowls'",
+    "n7": "a scowl",
+    "n8": "many scowls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "free radical",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "free radical",
+    "n2": "free radicals",
+    "n3": "the free radical",
+    "n4": "the free radicals",
+    "n5": "free radical's",
+    "n6": "free radicals'",
+    "n7": "a free radical",
+    "n8": "many free radicals"
+}

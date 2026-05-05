@@ -1,0 +1,18 @@
+{
+    "base": "thermal emission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thermal emission",
+    "n2": "thermal emissions",
+    "n3": "the thermal emission",
+    "n4": "the thermal emissions",
+    "n5": "thermal emission's",
+    "n6": "thermal emissions'",
+    "n7": "a thermal emission",
+    "n8": "many thermal emissions"
+}

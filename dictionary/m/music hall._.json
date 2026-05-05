@@ -1,0 +1,18 @@
+{
+    "base": "music hall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "music hall",
+    "n2": "music halls",
+    "n3": "the music hall",
+    "n4": "the music halls",
+    "n5": "music hall's",
+    "n6": "music halls'",
+    "n7": "a music hall",
+    "n8": "many music halls"
+}

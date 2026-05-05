@@ -1,0 +1,18 @@
+{
+    "base": "layoff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "layoff",
+    "n2": "layofves",
+    "n3": "the layoff",
+    "n4": "the layofves",
+    "n5": "layoff's",
+    "n6": "layofves'",
+    "n7": "a layoff",
+    "n8": "many layofves"
+}

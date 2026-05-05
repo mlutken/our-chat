@@ -1,0 +1,18 @@
+{
+    "base": "diatom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diatom",
+    "n2": "diatoms",
+    "n3": "the diatom",
+    "n4": "the diatoms",
+    "n5": "diatom's",
+    "n6": "diatoms'",
+    "n7": "a diatom",
+    "n8": "many diatoms"
+}

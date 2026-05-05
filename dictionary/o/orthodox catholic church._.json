@@ -1,0 +1,18 @@
+{
+    "base": "orthodox catholic church",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orthodox catholic church",
+    "n2": "orthodox catholic churches",
+    "n3": "the orthodox catholic church",
+    "n4": "the orthodox catholic churches",
+    "n5": "orthodox catholic church's",
+    "n6": "orthodox catholic churches'",
+    "n7": "an orthodox catholic church",
+    "n8": "many orthodox catholic churches"
+}

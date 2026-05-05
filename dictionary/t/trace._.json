@@ -1,11 +1,24 @@
 {
     "base": "trace",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trace",
     "v2": "traced",
     "v3": "traced",
     "v4": "tracing",
-    "v5": "traces"
+    "v5": "traces",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "trace",
+    "n2": "traces",
+    "n3": "the trace",
+    "n4": "the traces",
+    "n5": "trace's",
+    "n6": "traces'",
+    "n7": "a trace",
+    "n8": "many traces"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "corsage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corsage",
+    "n2": "corsages",
+    "n3": "the corsage",
+    "n4": "the corsages",
+    "n5": "corsage's",
+    "n6": "corsages'",
+    "n7": "a corsage",
+    "n8": "many corsages"
+}

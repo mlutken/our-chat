@@ -1,0 +1,18 @@
+{
+    "base": "lemonade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lemonade",
+    "n2": "lemonades",
+    "n3": "the lemonade",
+    "n4": "the lemonades",
+    "n5": "lemonade's",
+    "n6": "lemonades'",
+    "n7": "a lemonade",
+    "n8": "many lemonades"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "open sesame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "open sesame",
+    "n2": "open sesames",
+    "n3": "the open sesame",
+    "n4": "the open sesames",
+    "n5": "open sesame's",
+    "n6": "open sesames'",
+    "n7": "an open sesame",
+    "n8": "many open sesames"
+}

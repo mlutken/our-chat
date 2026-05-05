@@ -1,0 +1,18 @@
+{
+    "base": "hyacinth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hyacinth",
+    "n2": "hyacinths",
+    "n3": "the hyacinth",
+    "n4": "the hyacinths",
+    "n5": "hyacinth's",
+    "n6": "hyacinths'",
+    "n7": "a hyacinth",
+    "n8": "many hyacinths"
+}

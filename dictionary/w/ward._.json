@@ -1,0 +1,18 @@
+{
+    "base": "ward",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ward",
+    "n2": "wards",
+    "n3": "the ward",
+    "n4": "the wards",
+    "n5": "ward's",
+    "n6": "wards'",
+    "n7": "a ward",
+    "n8": "many wards"
+}

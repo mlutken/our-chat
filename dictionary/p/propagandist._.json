@@ -1,0 +1,18 @@
+{
+    "base": "propagandist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "propagandist",
+    "n2": "propagandists",
+    "n3": "the propagandist",
+    "n4": "the propagandists",
+    "n5": "propagandist's",
+    "n6": "propagandists'",
+    "n7": "a propagandist",
+    "n8": "many propagandists"
+}

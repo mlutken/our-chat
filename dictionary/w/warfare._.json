@@ -1,0 +1,18 @@
+{
+    "base": "warfare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "warfare",
+    "n2": "warfares",
+    "n3": "the warfare",
+    "n4": "the warfares",
+    "n5": "warfare's",
+    "n6": "warfares'",
+    "n7": "a warfare",
+    "n8": "many warfares"
+}

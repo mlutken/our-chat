@@ -1,0 +1,18 @@
+{
+    "base": "accusation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "accusation",
+    "n2": "accusations",
+    "n3": "the accusation",
+    "n4": "the accusations",
+    "n5": "accusation's",
+    "n6": "accusations'",
+    "n7": "an accusation",
+    "n8": "many accusations"
+}

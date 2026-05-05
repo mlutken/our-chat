@@ -1,0 +1,18 @@
+{
+    "base": "caravan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caravan",
+    "n2": "caravans",
+    "n3": "the caravan",
+    "n4": "the caravans",
+    "n5": "caravan's",
+    "n6": "caravans'",
+    "n7": "a caravan",
+    "n8": "many caravans"
+}

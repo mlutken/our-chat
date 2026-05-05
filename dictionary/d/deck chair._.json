@@ -1,0 +1,18 @@
+{
+    "base": "deck chair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deck chair",
+    "n2": "deck chairs",
+    "n3": "the deck chair",
+    "n4": "the deck chairs",
+    "n5": "deck chair's",
+    "n6": "deck chairs'",
+    "n7": "a deck chair",
+    "n8": "many deck chairs"
+}

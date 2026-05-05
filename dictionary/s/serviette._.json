@@ -1,0 +1,18 @@
+{
+    "base": "serviette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "serviette",
+    "n2": "serviettes",
+    "n3": "the serviette",
+    "n4": "the serviettes",
+    "n5": "serviette's",
+    "n6": "serviettes'",
+    "n7": "a serviette",
+    "n8": "many serviettes"
+}

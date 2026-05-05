@@ -1,0 +1,18 @@
+{
+    "base": "tennessee",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tennessee",
+    "n2": "tennessees",
+    "n3": "the tennessee",
+    "n4": "the tennessees",
+    "n5": "tennessee's",
+    "n6": "tennessees'",
+    "n7": "a tennessee",
+    "n8": "many tennessees"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wavelength",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "wavelength",
+    "n2": "wavelengths",
+    "n3": "the wavelength",
+    "n4": "the wavelengths",
+    "n5": "wavelength's",
+    "n6": "wavelengths'",
+    "n7": "a wavelength",
+    "n8": "many wavelengths"
+}

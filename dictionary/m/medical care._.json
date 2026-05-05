@@ -1,0 +1,18 @@
+{
+    "base": "medical care",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medical care",
+    "n2": "medical cares",
+    "n3": "the medical care",
+    "n4": "the medical cares",
+    "n5": "medical care's",
+    "n6": "medical cares'",
+    "n7": "a medical care",
+    "n8": "many medical cares"
+}

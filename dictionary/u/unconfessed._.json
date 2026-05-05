@@ -1,0 +1,18 @@
+{
+    "base": "unconfessed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unconfessed",
+    "n2": "unconfesseds",
+    "n3": "the unconfessed",
+    "n4": "the unconfesseds",
+    "n5": "unconfessed's",
+    "n6": "unconfesseds'",
+    "n7": "an unconfessed",
+    "n8": "many unconfesseds"
+}

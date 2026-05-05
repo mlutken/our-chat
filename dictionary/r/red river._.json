@@ -1,0 +1,18 @@
+{
+    "base": "red river",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "red river",
+    "n2": "red rivers",
+    "n3": "the red river",
+    "n4": "the red rivers",
+    "n5": "red river's",
+    "n6": "red rivers'",
+    "n7": "a red river",
+    "n8": "many red rivers"
+}

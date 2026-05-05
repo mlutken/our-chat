@@ -1,0 +1,18 @@
+{
+    "base": "glimmer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glimmer",
+    "n2": "glimmers",
+    "n3": "the glimmer",
+    "n4": "the glimmers",
+    "n5": "glimmer's",
+    "n6": "glimmers'",
+    "n7": "a glimmer",
+    "n8": "many glimmers"
+}

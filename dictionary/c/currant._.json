@@ -1,0 +1,18 @@
+{
+    "base": "currant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "currant",
+    "n2": "currants",
+    "n3": "the currant",
+    "n4": "the currants",
+    "n5": "currant's",
+    "n6": "currants'",
+    "n7": "a currant",
+    "n8": "many currants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "diagnosing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diagnosing",
+    "n2": "diagnosings",
+    "n3": "the diagnosing",
+    "n4": "the diagnosings",
+    "n5": "diagnosing's",
+    "n6": "diagnosings'",
+    "n7": "a diagnosing",
+    "n8": "many diagnosings"
+}

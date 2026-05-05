@@ -1,0 +1,18 @@
+{
+    "base": "deliberation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deliberation",
+    "n2": "deliberations",
+    "n3": "the deliberation",
+    "n4": "the deliberations",
+    "n5": "deliberation's",
+    "n6": "deliberations'",
+    "n7": "a deliberation",
+    "n8": "many deliberations"
+}

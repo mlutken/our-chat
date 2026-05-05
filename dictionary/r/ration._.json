@@ -1,0 +1,18 @@
+{
+    "base": "ration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "ration",
+    "n2": "rations",
+    "n3": "the ration",
+    "n4": "the rations",
+    "n5": "ration's",
+    "n6": "rations'",
+    "n7": "a ration",
+    "n8": "many rations"
+}

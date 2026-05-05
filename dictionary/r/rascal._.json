@@ -1,0 +1,18 @@
+{
+    "base": "rascal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rascal",
+    "n2": "rascals",
+    "n3": "the rascal",
+    "n4": "the rascals",
+    "n5": "rascal's",
+    "n6": "rascals'",
+    "n7": "a rascal",
+    "n8": "many rascals"
+}

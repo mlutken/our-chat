@@ -1,0 +1,18 @@
+{
+    "base": "superficiality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "superficiality",
+    "n2": "superficialities",
+    "n3": "the superficiality",
+    "n4": "the superficialities",
+    "n5": "superficiality's",
+    "n6": "superficialities'",
+    "n7": "a superficiality",
+    "n8": "many superficialities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "railroad siding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "railroad siding",
+    "n2": "railroad sidings",
+    "n3": "the railroad siding",
+    "n4": "the railroad sidings",
+    "n5": "railroad siding's",
+    "n6": "railroad sidings'",
+    "n7": "a railroad siding",
+    "n8": "many railroad sidings"
+}

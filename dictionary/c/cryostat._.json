@@ -1,0 +1,18 @@
+{
+    "base": "cryostat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cryostat",
+    "n2": "cryostats",
+    "n3": "the cryostat",
+    "n4": "the cryostats",
+    "n5": "cryostat's",
+    "n6": "cryostats'",
+    "n7": "a cryostat",
+    "n8": "many cryostats"
+}

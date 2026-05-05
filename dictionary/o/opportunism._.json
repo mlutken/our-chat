@@ -1,0 +1,18 @@
+{
+    "base": "opportunism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "opportunism",
+    "n2": "opportunisms",
+    "n3": "the opportunism",
+    "n4": "the opportunisms",
+    "n5": "opportunism's",
+    "n6": "opportunisms'",
+    "n7": "an opportunism",
+    "n8": "many opportunisms"
+}

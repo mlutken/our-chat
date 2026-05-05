@@ -1,0 +1,18 @@
+{
+    "base": "curbside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "curbside",
+    "n2": "curbsides",
+    "n3": "the curbside",
+    "n4": "the curbsides",
+    "n5": "curbside's",
+    "n6": "curbsides'",
+    "n7": "a curbside",
+    "n8": "many curbsides"
+}

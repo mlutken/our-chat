@@ -1,0 +1,18 @@
+{
+    "base": "census",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "census",
+    "n2": "censuses",
+    "n3": "the census",
+    "n4": "the censuses",
+    "n5": "census'",
+    "n6": "censuses'",
+    "n7": "a census",
+    "n8": "many censuses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bygone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bygone",
+    "n2": "bygones",
+    "n3": "the bygone",
+    "n4": "the bygones",
+    "n5": "bygone's",
+    "n6": "bygones'",
+    "n7": "a bygone",
+    "n8": "many bygones"
+}

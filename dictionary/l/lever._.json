@@ -1,0 +1,18 @@
+{
+    "base": "lever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lever",
+    "n2": "levers",
+    "n3": "the lever",
+    "n4": "the levers",
+    "n5": "lever's",
+    "n6": "levers'",
+    "n7": "a lever",
+    "n8": "many levers"
+}

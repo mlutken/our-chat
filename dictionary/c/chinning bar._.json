@@ -1,0 +1,18 @@
+{
+    "base": "chinning bar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chinning bar",
+    "n2": "chinning bars",
+    "n3": "the chinning bar",
+    "n4": "the chinning bars",
+    "n5": "chinning bar's",
+    "n6": "chinning bars'",
+    "n7": "a chinning bar",
+    "n8": "many chinning bars"
+}

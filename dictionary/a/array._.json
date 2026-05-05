@@ -1,0 +1,18 @@
+{
+    "base": "array",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "array",
+    "n2": "arrays",
+    "n3": "the array",
+    "n4": "the arrays",
+    "n5": "array's",
+    "n6": "arrays'",
+    "n7": "an array",
+    "n8": "many arrays"
+}

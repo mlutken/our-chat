@@ -1,0 +1,18 @@
+{
+    "base": "fair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fair",
+    "n2": "fairs",
+    "n3": "the fair",
+    "n4": "the fairs",
+    "n5": "fair's",
+    "n6": "fairs'",
+    "n7": "a fair",
+    "n8": "many fairs"
+}

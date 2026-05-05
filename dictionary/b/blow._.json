@@ -1,0 +1,18 @@
+{
+    "base": "blow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "blow",
+    "n2": "blows",
+    "n3": "the blow",
+    "n4": "the blows",
+    "n5": "blow's",
+    "n6": "blows'",
+    "n7": "a blow",
+    "n8": "many blows"
+}

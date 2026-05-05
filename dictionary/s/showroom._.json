@@ -1,0 +1,18 @@
+{
+    "base": "showroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "showroom",
+    "n2": "showrooms",
+    "n3": "the showroom",
+    "n4": "the showrooms",
+    "n5": "showroom's",
+    "n6": "showrooms'",
+    "n7": "a showroom",
+    "n8": "many showrooms"
+}

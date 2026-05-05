@@ -1,0 +1,18 @@
+{
+    "base": "bid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bid",
+    "n2": "bids",
+    "n3": "the bid",
+    "n4": "the bids",
+    "n5": "bid's",
+    "n6": "bids'",
+    "n7": "a bid",
+    "n8": "many bids"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "electrical engineer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrical engineer",
+    "n2": "electrical engineers",
+    "n3": "the electrical engineer",
+    "n4": "the electrical engineers",
+    "n5": "electrical engineer's",
+    "n6": "electrical engineers'",
+    "n7": "an electrical engineer",
+    "n8": "many electrical engineers"
+}

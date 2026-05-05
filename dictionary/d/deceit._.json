@@ -1,0 +1,18 @@
+{
+    "base": "deceit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deceit",
+    "n2": "deceits",
+    "n3": "the deceit",
+    "n4": "the deceits",
+    "n5": "deceit's",
+    "n6": "deceits'",
+    "n7": "a deceit",
+    "n8": "many deceits"
+}

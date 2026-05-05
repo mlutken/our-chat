@@ -1,0 +1,18 @@
+{
+    "base": "divan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "divan",
+    "n2": "divans",
+    "n3": "the divan",
+    "n4": "the divans",
+    "n5": "divan's",
+    "n6": "divans'",
+    "n7": "a divan",
+    "n8": "many divans"
+}

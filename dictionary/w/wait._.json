@@ -1,11 +1,24 @@
 {
     "base": "wait",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wait",
     "v2": "waited",
     "v3": "waited",
     "v4": "waiting",
-    "v5": "waits"
+    "v5": "waits",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "wait",
+    "n2": "waits",
+    "n3": "the wait",
+    "n4": "the waits",
+    "n5": "wait's",
+    "n6": "waits'",
+    "n7": "a wait",
+    "n8": "many waits"
 }

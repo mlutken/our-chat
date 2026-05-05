@@ -1,0 +1,18 @@
+{
+    "base": "running time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "running time",
+    "n2": "running times",
+    "n3": "the running time",
+    "n4": "the running times",
+    "n5": "running time's",
+    "n6": "running times'",
+    "n7": "a running time",
+    "n8": "many running times"
+}

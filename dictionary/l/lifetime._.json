@@ -1,0 +1,18 @@
+{
+    "base": "lifetime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lifetime",
+    "n2": "lifetimes",
+    "n3": "the lifetime",
+    "n4": "the lifetimes",
+    "n5": "lifetime's",
+    "n6": "lifetimes'",
+    "n7": "a lifetime",
+    "n8": "many lifetimes"
+}

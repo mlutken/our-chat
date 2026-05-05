@@ -1,0 +1,18 @@
+{
+    "base": "natural order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "natural order",
+    "n2": "natural orders",
+    "n3": "the natural order",
+    "n4": "the natural orders",
+    "n5": "natural order's",
+    "n6": "natural orders'",
+    "n7": "a natural order",
+    "n8": "many natural orders"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "avenue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "avenue",
+    "n2": "avenues",
+    "n3": "the avenue",
+    "n4": "the avenues",
+    "n5": "avenue's",
+    "n6": "avenues'",
+    "n7": "an avenue",
+    "n8": "many avenues"
+}

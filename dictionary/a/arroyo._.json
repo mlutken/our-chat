@@ -1,0 +1,18 @@
+{
+    "base": "arroyo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "arroyo",
+    "n2": "arroyos",
+    "n3": "the arroyo",
+    "n4": "the arroyos",
+    "n5": "arroyo's",
+    "n6": "arroyos'",
+    "n7": "an arroyo",
+    "n8": "many arroyos"
+}

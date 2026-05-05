@@ -1,0 +1,18 @@
+{
+    "base": "neo jazz",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neo jazz",
+    "n2": "neo jazzes",
+    "n3": "the neo jazz",
+    "n4": "the neo jazzes",
+    "n5": "neo jazz's",
+    "n6": "neo jazzes'",
+    "n7": "a neo jazz",
+    "n8": "many neo jazzes"
+}

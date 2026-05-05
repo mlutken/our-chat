@@ -1,0 +1,18 @@
+{
+    "base": "liar",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "liar",
+    "n2": "liars",
+    "n3": "the liar",
+    "n4": "the liars",
+    "n5": "liar's",
+    "n6": "liars'",
+    "n7": "a liar",
+    "n8": "many liars"
+}

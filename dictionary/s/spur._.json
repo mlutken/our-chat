@@ -1,0 +1,18 @@
+{
+    "base": "spur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "spur",
+    "n2": "spurs",
+    "n3": "the spur",
+    "n4": "the spurs",
+    "n5": "spur's",
+    "n6": "spurs'",
+    "n7": "a spur",
+    "n8": "many spurs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ribbon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ribbon",
+    "n2": "ribbons",
+    "n3": "the ribbon",
+    "n4": "the ribbons",
+    "n5": "ribbon's",
+    "n6": "ribbons'",
+    "n7": "a ribbon",
+    "n8": "many ribbons"
+}

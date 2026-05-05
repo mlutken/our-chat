@@ -1,0 +1,18 @@
+{
+    "base": "ferment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ferment",
+    "n2": "ferments",
+    "n3": "the ferment",
+    "n4": "the ferments",
+    "n5": "ferment's",
+    "n6": "ferments'",
+    "n7": "a ferment",
+    "n8": "many ferments"
+}

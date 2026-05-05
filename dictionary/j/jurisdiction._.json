@@ -1,0 +1,18 @@
+{
+    "base": "jurisdiction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "jurisdiction",
+    "n2": "jurisdictions",
+    "n3": "the jurisdiction",
+    "n4": "the jurisdictions",
+    "n5": "jurisdiction's",
+    "n6": "jurisdictions'",
+    "n7": "a jurisdiction",
+    "n8": "many jurisdictions"
+}

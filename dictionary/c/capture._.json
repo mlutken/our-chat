@@ -1,11 +1,24 @@
 {
     "base": "capture",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "capture",
     "v2": "captured",
     "v3": "captured",
     "v4": "capturing",
-    "v5": "captures"
+    "v5": "captures",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "capture",
+    "n2": "captures",
+    "n3": "the capture",
+    "n4": "the captures",
+    "n5": "capture's",
+    "n6": "captures'",
+    "n7": "a capture",
+    "n8": "many captures"
 }

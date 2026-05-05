@@ -1,0 +1,18 @@
+{
+    "base": "flowing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flowing",
+    "n2": "flowings",
+    "n3": "the flowing",
+    "n4": "the flowings",
+    "n5": "flowing's",
+    "n6": "flowings'",
+    "n7": "a flowing",
+    "n8": "many flowings"
+}

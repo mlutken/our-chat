@@ -1,0 +1,18 @@
+{
+    "base": "graybeard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "graybeard",
+    "n2": "graybeards",
+    "n3": "the graybeard",
+    "n4": "the graybeards",
+    "n5": "graybeard's",
+    "n6": "graybeards'",
+    "n7": "a graybeard",
+    "n8": "many graybeards"
+}

@@ -7,5 +7,12 @@
     "n2": "truths",
     "n3": "the truth",
     "n4": "the truths",
-    "n5": "truth's"
+    "n5": "truth's",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "truths'",
+    "n7": "a truth",
+    "n8": "many truths"
 }

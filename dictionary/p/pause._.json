@@ -1,11 +1,24 @@
 {
     "base": "pause",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pause",
     "v2": "paused",
     "v3": "paused",
     "v4": "pausing",
-    "v5": "pauses"
+    "v5": "pauses",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "pause",
+    "n2": "pauses",
+    "n3": "the pause",
+    "n4": "the pauses",
+    "n5": "pause's",
+    "n6": "pauses'",
+    "n7": "a pause",
+    "n8": "many pauses"
 }

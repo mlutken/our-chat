@@ -1,0 +1,18 @@
+{
+    "base": "fielding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fielding",
+    "n2": "fieldings",
+    "n3": "the fielding",
+    "n4": "the fieldings",
+    "n5": "fielding's",
+    "n6": "fieldings'",
+    "n7": "a fielding",
+    "n8": "many fieldings"
+}

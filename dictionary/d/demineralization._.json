@@ -1,0 +1,18 @@
+{
+    "base": "demineralization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "demineralization",
+    "n2": "demineralizations",
+    "n3": "the demineralization",
+    "n4": "the demineralizations",
+    "n5": "demineralization's",
+    "n6": "demineralizations'",
+    "n7": "a demineralization",
+    "n8": "many demineralizations"
+}

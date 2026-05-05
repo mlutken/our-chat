@@ -1,0 +1,18 @@
+{
+    "base": "vindication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "vindication",
+    "n2": "vindications",
+    "n3": "the vindication",
+    "n4": "the vindications",
+    "n5": "vindication's",
+    "n6": "vindications'",
+    "n7": "a vindication",
+    "n8": "many vindications"
+}

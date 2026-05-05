@@ -1,0 +1,18 @@
+{
+    "base": "line coach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "line coach",
+    "n2": "line coaches",
+    "n3": "the line coach",
+    "n4": "the line coaches",
+    "n5": "line coach's",
+    "n6": "line coaches'",
+    "n7": "a line coach",
+    "n8": "many line coaches"
+}

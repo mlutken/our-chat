@@ -1,0 +1,18 @@
+{
+    "base": "canvas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "canvas",
+    "n2": "canvases",
+    "n3": "the canvas",
+    "n4": "the canvases",
+    "n5": "canvas'",
+    "n6": "canvases'",
+    "n7": "a canvas",
+    "n8": "many canvases"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "faithful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "faithful",
+    "n2": "faithfuls",
+    "n3": "the faithful",
+    "n4": "the faithfuls",
+    "n5": "faithful's",
+    "n6": "faithfuls'",
+    "n7": "a faithful",
+    "n8": "many faithfuls"
+}

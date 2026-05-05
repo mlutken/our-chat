@@ -1,0 +1,18 @@
+{
+    "base": "bazaar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bazaar",
+    "n2": "bazaars",
+    "n3": "the bazaar",
+    "n4": "the bazaars",
+    "n5": "bazaar's",
+    "n6": "bazaars'",
+    "n7": "a bazaar",
+    "n8": "many bazaars"
+}

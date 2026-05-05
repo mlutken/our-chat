@@ -1,0 +1,18 @@
+{
+    "base": "alter ego",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alter ego",
+    "n2": "alter egos",
+    "n3": "the alter ego",
+    "n4": "the alter egos",
+    "n5": "alter ego's",
+    "n6": "alter egos'",
+    "n7": "an alter ego",
+    "n8": "many alter egos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "accouterment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "accouterment",
+    "n2": "accouterments",
+    "n3": "the accouterment",
+    "n4": "the accouterments",
+    "n5": "accouterment's",
+    "n6": "accouterments'",
+    "n7": "an accouterment",
+    "n8": "many accouterments"
+}

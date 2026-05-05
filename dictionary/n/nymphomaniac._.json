@@ -1,0 +1,18 @@
+{
+    "base": "nymphomaniac",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nymphomaniac",
+    "n2": "nymphomaniacs",
+    "n3": "the nymphomaniac",
+    "n4": "the nymphomaniacs",
+    "n5": "nymphomaniac's",
+    "n6": "nymphomaniacs'",
+    "n7": "a nymphomaniac",
+    "n8": "many nymphomaniacs"
+}

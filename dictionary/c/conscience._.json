@@ -1,0 +1,18 @@
+{
+    "base": "conscience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "conscience",
+    "n2": "consciences",
+    "n3": "the conscience",
+    "n4": "the consciences",
+    "n5": "conscience's",
+    "n6": "consciences'",
+    "n7": "a conscience",
+    "n8": "many consciences"
+}

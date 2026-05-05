@@ -1,0 +1,18 @@
+{
+    "base": "womb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "womb",
+    "n2": "wombs",
+    "n3": "the womb",
+    "n4": "the wombs",
+    "n5": "womb's",
+    "n6": "wombs'",
+    "n7": "a womb",
+    "n8": "many wombs"
+}

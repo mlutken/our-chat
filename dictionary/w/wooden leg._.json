@@ -1,0 +1,18 @@
+{
+    "base": "wooden leg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wooden leg",
+    "n2": "wooden legs",
+    "n3": "the wooden leg",
+    "n4": "the wooden legs",
+    "n5": "wooden leg's",
+    "n6": "wooden legs'",
+    "n7": "a wooden leg",
+    "n8": "many wooden legs"
+}

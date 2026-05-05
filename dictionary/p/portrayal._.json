@@ -1,0 +1,18 @@
+{
+    "base": "portrayal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "portrayal",
+    "n2": "portrayals",
+    "n3": "the portrayal",
+    "n4": "the portrayals",
+    "n5": "portrayal's",
+    "n6": "portrayals'",
+    "n7": "a portrayal",
+    "n8": "many portrayals"
+}

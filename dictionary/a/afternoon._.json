@@ -1,0 +1,18 @@
+{
+    "base": "afternoon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n1": "afternoon",
+    "n2": "afternoons",
+    "n3": "the afternoon",
+    "n4": "the afternoons",
+    "n5": "afternoon's",
+    "n6": "afternoons'",
+    "n7": "an afternoon",
+    "n8": "many afternoons"
+}

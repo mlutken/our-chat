@@ -1,0 +1,18 @@
+{
+    "base": "slat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slat",
+    "n2": "slats",
+    "n3": "the slat",
+    "n4": "the slats",
+    "n5": "slat's",
+    "n6": "slats'",
+    "n7": "a slat",
+    "n8": "many slats"
+}

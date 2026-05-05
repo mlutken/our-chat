@@ -1,0 +1,18 @@
+{
+    "base": "robbery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "robbery",
+    "n2": "robberies",
+    "n3": "the robbery",
+    "n4": "the robberies",
+    "n5": "robbery's",
+    "n6": "robberies'",
+    "n7": "a robbery",
+    "n8": "many robberies"
+}

@@ -7,5 +7,12 @@
     "n2": "populations",
     "n3": "the population",
     "n4": "the populations",
-    "n5": "population's"
+    "n5": "population's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "populations'",
+    "n7": "a population",
+    "n8": "many populations"
 }

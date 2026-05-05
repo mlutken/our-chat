@@ -1,0 +1,18 @@
+{
+    "base": "sharpness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sharpness",
+    "n2": "sharpnesses",
+    "n3": "the sharpness",
+    "n4": "the sharpnesses",
+    "n5": "sharpness'",
+    "n6": "sharpnesses'",
+    "n7": "a sharpness",
+    "n8": "many sharpnesses"
+}

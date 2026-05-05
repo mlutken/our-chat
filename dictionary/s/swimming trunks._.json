@@ -1,0 +1,18 @@
+{
+    "base": "swimming trunks",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swimming trunks",
+    "n2": "swimming trunkses",
+    "n3": "the swimming trunks",
+    "n4": "the swimming trunkses",
+    "n5": "swimming trunks'",
+    "n6": "swimming trunkses'",
+    "n7": "a swimming trunks",
+    "n8": "many swimming trunkses"
+}

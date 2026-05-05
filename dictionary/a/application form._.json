@@ -1,0 +1,18 @@
+{
+    "base": "application form",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "application form",
+    "n2": "application forms",
+    "n3": "the application form",
+    "n4": "the application forms",
+    "n5": "application form's",
+    "n6": "application forms'",
+    "n7": "an application form",
+    "n8": "many application forms"
+}

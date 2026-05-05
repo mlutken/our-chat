@@ -1,0 +1,18 @@
+{
+    "base": "ant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ant",
+    "n2": "ants",
+    "n3": "the ant",
+    "n4": "the ants",
+    "n5": "ant's",
+    "n6": "ants'",
+    "n7": "an ant",
+    "n8": "many ants"
+}

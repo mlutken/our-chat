@@ -1,0 +1,18 @@
+{
+    "base": "fluoride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fluoride",
+    "n2": "fluorides",
+    "n3": "the fluoride",
+    "n4": "the fluorides",
+    "n5": "fluoride's",
+    "n6": "fluorides'",
+    "n7": "a fluoride",
+    "n8": "many fluorides"
+}

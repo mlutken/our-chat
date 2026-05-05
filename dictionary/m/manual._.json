@@ -1,0 +1,18 @@
+{
+    "base": "manual",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "manual",
+    "n2": "manuals",
+    "n3": "the manual",
+    "n4": "the manuals",
+    "n5": "manual's",
+    "n6": "manuals'",
+    "n7": "a manual",
+    "n8": "many manuals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "saliva",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "saliva",
+    "n2": "salivas",
+    "n3": "the saliva",
+    "n4": "the salivas",
+    "n5": "saliva's",
+    "n6": "salivas'",
+    "n7": "a saliva",
+    "n8": "many salivas"
+}

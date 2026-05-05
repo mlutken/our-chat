@@ -1,0 +1,18 @@
+{
+    "base": "human race",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "human race",
+    "n2": "human races",
+    "n3": "the human race",
+    "n4": "the human races",
+    "n5": "human race's",
+    "n6": "human races'",
+    "n7": "a human race",
+    "n8": "many human races"
+}

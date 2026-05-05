@@ -1,0 +1,18 @@
+{
+    "base": "stenography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stenography",
+    "n2": "stenographies",
+    "n3": "the stenography",
+    "n4": "the stenographies",
+    "n5": "stenography's",
+    "n6": "stenographies'",
+    "n7": "a stenography",
+    "n8": "many stenographies"
+}

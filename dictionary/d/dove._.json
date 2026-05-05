@@ -1,0 +1,18 @@
+{
+    "base": "dove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dove",
+    "n2": "doves",
+    "n3": "the dove",
+    "n4": "the doves",
+    "n5": "dove's",
+    "n6": "doves'",
+    "n7": "a dove",
+    "n8": "many doves"
+}

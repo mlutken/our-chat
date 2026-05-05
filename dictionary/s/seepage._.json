@@ -1,0 +1,18 @@
+{
+    "base": "seepage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seepage",
+    "n2": "seepages",
+    "n3": "the seepage",
+    "n4": "the seepages",
+    "n5": "seepage's",
+    "n6": "seepages'",
+    "n7": "a seepage",
+    "n8": "many seepages"
+}

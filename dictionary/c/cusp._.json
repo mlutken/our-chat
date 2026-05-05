@@ -1,0 +1,18 @@
+{
+    "base": "cusp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cusp",
+    "n2": "cusps",
+    "n3": "the cusp",
+    "n4": "the cusps",
+    "n5": "cusp's",
+    "n6": "cusps'",
+    "n7": "a cusp",
+    "n8": "many cusps"
+}

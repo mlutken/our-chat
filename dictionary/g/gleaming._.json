@@ -1,0 +1,18 @@
+{
+    "base": "gleaming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gleaming",
+    "n2": "gleamings",
+    "n3": "the gleaming",
+    "n4": "the gleamings",
+    "n5": "gleaming's",
+    "n6": "gleamings'",
+    "n7": "a gleaming",
+    "n8": "many gleamings"
+}

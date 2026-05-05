@@ -1,0 +1,18 @@
+{
+    "base": "celiac artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "celiac artery",
+    "n2": "celiac arteries",
+    "n3": "the celiac artery",
+    "n4": "the celiac arteries",
+    "n5": "celiac artery's",
+    "n6": "celiac arteries'",
+    "n7": "a celiac artery",
+    "n8": "many celiac arteries"
+}

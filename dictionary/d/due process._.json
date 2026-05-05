@@ -1,0 +1,18 @@
+{
+    "base": "due process",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "due process",
+    "n2": "due processes",
+    "n3": "the due process",
+    "n4": "the due processes",
+    "n5": "due process'",
+    "n6": "due processes'",
+    "n7": "a due process",
+    "n8": "many due processes"
+}

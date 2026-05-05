@@ -1,0 +1,18 @@
+{
+    "base": "reverse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "reverse",
+    "n2": "reverses",
+    "n3": "the reverse",
+    "n4": "the reverses",
+    "n5": "reverse's",
+    "n6": "reverses'",
+    "n7": "a reverse",
+    "n8": "many reverses"
+}

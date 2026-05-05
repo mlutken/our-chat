@@ -1,0 +1,18 @@
+{
+    "base": "profusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "profusion",
+    "n2": "profusions",
+    "n3": "the profusion",
+    "n4": "the profusions",
+    "n5": "profusion's",
+    "n6": "profusions'",
+    "n7": "a profusion",
+    "n8": "many profusions"
+}

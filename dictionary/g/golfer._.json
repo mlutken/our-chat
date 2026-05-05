@@ -1,0 +1,18 @@
+{
+    "base": "golfer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "golfer",
+    "n2": "golfers",
+    "n3": "the golfer",
+    "n4": "the golfers",
+    "n5": "golfer's",
+    "n6": "golfers'",
+    "n7": "a golfer",
+    "n8": "many golfers"
+}

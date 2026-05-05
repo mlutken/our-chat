@@ -1,0 +1,18 @@
+{
+    "base": "ditch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ditch",
+    "n2": "ditches",
+    "n3": "the ditch",
+    "n4": "the ditches",
+    "n5": "ditch's",
+    "n6": "ditches'",
+    "n7": "a ditch",
+    "n8": "many ditches"
+}

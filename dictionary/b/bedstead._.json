@@ -1,0 +1,18 @@
+{
+    "base": "bedstead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bedstead",
+    "n2": "bedsteads",
+    "n3": "the bedstead",
+    "n4": "the bedsteads",
+    "n5": "bedstead's",
+    "n6": "bedsteads'",
+    "n7": "a bedstead",
+    "n8": "many bedsteads"
+}

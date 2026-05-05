@@ -1,0 +1,18 @@
+{
+    "base": "milquetoast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "milquetoast",
+    "n2": "milquetoasts",
+    "n3": "the milquetoast",
+    "n4": "the milquetoasts",
+    "n5": "milquetoast's",
+    "n6": "milquetoasts'",
+    "n7": "a milquetoast",
+    "n8": "many milquetoasts"
+}

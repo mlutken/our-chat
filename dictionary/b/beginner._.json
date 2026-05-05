@@ -1,0 +1,18 @@
+{
+    "base": "beginner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beginner",
+    "n2": "beginners",
+    "n3": "the beginner",
+    "n4": "the beginners",
+    "n5": "beginner's",
+    "n6": "beginners'",
+    "n7": "a beginner",
+    "n8": "many beginners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "predicator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "predicator",
+    "n2": "predicators",
+    "n3": "the predicator",
+    "n4": "the predicators",
+    "n5": "predicator's",
+    "n6": "predicators'",
+    "n7": "a predicator",
+    "n8": "many predicators"
+}

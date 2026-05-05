@@ -1,0 +1,18 @@
+{
+    "base": "enclave",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enclave",
+    "n2": "enclaves",
+    "n3": "the enclave",
+    "n4": "the enclaves",
+    "n5": "enclave's",
+    "n6": "enclaves'",
+    "n7": "an enclave",
+    "n8": "many enclaves"
+}

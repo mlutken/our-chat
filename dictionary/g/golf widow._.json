@@ -1,0 +1,18 @@
+{
+    "base": "golf widow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "golf widow",
+    "n2": "golf widows",
+    "n3": "the golf widow",
+    "n4": "the golf widows",
+    "n5": "golf widow's",
+    "n6": "golf widows'",
+    "n7": "a golf widow",
+    "n8": "many golf widows"
+}

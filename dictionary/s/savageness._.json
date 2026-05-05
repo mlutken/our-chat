@@ -1,0 +1,18 @@
+{
+    "base": "savageness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "savageness",
+    "n2": "savagenesses",
+    "n3": "the savageness",
+    "n4": "the savagenesses",
+    "n5": "savageness'",
+    "n6": "savagenesses'",
+    "n7": "a savageness",
+    "n8": "many savagenesses"
+}

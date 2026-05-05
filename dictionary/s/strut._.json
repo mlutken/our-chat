@@ -1,0 +1,18 @@
+{
+    "base": "strut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "strut",
+    "n2": "struts",
+    "n3": "the strut",
+    "n4": "the struts",
+    "n5": "strut's",
+    "n6": "struts'",
+    "n7": "a strut",
+    "n8": "many struts"
+}

@@ -7,5 +7,12 @@
     "n2": "bloods",
     "n3": "the blood",
     "n4": "the bloods",
-    "n5": "blood's"
+    "n5": "blood's",
+    "proper": false,
+    "commonness": 71,
+    "max_commonness": 6834,
+    "commonness_ge_count": 203,
+    "n6": "bloods'",
+    "n7": "a blood",
+    "n8": "many bloods"
 }

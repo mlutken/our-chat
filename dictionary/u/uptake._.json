@@ -1,0 +1,18 @@
+{
+    "base": "uptake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "uptake",
+    "n2": "uptakes",
+    "n3": "the uptake",
+    "n4": "the uptakes",
+    "n5": "uptake's",
+    "n6": "uptakes'",
+    "n7": "an uptake",
+    "n8": "many uptakes"
+}

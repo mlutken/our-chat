@@ -1,0 +1,18 @@
+{
+    "base": "quickie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quickie",
+    "n2": "quickies",
+    "n3": "the quickie",
+    "n4": "the quickies",
+    "n5": "quickie's",
+    "n6": "quickies'",
+    "n7": "a quickie",
+    "n8": "many quickies"
+}

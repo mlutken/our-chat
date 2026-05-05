@@ -1,0 +1,18 @@
+{
+    "base": "indian python",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "indian python",
+    "n2": "indian pythons",
+    "n3": "the indian python",
+    "n4": "the indian pythons",
+    "n5": "indian python's",
+    "n6": "indian pythons'",
+    "n7": "an indian python",
+    "n8": "many indian pythons"
+}

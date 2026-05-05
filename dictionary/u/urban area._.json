@@ -1,0 +1,18 @@
+{
+    "base": "urban area",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "urban area",
+    "n2": "urban areas",
+    "n3": "the urban area",
+    "n4": "the urban areas",
+    "n5": "urban area's",
+    "n6": "urban areas'",
+    "n7": "an urban area",
+    "n8": "many urban areas"
+}

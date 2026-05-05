@@ -1,0 +1,18 @@
+{
+    "base": "movie theater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "movie theater",
+    "n2": "movie theaters",
+    "n3": "the movie theater",
+    "n4": "the movie theaters",
+    "n5": "movie theater's",
+    "n6": "movie theaters'",
+    "n7": "a movie theater",
+    "n8": "many movie theaters"
+}

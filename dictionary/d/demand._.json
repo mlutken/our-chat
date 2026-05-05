@@ -7,5 +7,12 @@
     "n2": "demands",
     "n3": "the demand",
     "n4": "the demands",
-    "n5": "demand's"
+    "n5": "demand's",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "demands'",
+    "n7": "a demand",
+    "n8": "many demands"
 }

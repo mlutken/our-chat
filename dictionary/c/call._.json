@@ -1,11 +1,24 @@
 {
     "base": "call",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "call",
     "v2": "called",
     "v3": "called",
     "v4": "calling",
-    "v5": "calls"
+    "v5": "calls",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "call",
+    "n2": "calls",
+    "n3": "the call",
+    "n4": "the calls",
+    "n5": "call's",
+    "n6": "calls'",
+    "n7": "a call",
+    "n8": "many calls"
 }

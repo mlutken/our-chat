@@ -7,5 +7,12 @@
     "n2": "leagues",
     "n3": "the league",
     "n4": "the leagues",
-    "n5": "league's"
+    "n5": "league's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "leagues'",
+    "n7": "a league",
+    "n8": "many leagues"
 }

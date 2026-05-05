@@ -1,0 +1,18 @@
+{
+    "base": "pemmican",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pemmican",
+    "n2": "pemmicans",
+    "n3": "the pemmican",
+    "n4": "the pemmicans",
+    "n5": "pemmican's",
+    "n6": "pemmicans'",
+    "n7": "a pemmican",
+    "n8": "many pemmicans"
+}

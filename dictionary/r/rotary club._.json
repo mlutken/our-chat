@@ -1,0 +1,18 @@
+{
+    "base": "rotary club",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rotary club",
+    "n2": "rotary clubs",
+    "n3": "the rotary club",
+    "n4": "the rotary clubs",
+    "n5": "rotary club's",
+    "n6": "rotary clubs'",
+    "n7": "a rotary club",
+    "n8": "many rotary clubs"
+}

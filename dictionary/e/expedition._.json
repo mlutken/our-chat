@@ -1,0 +1,18 @@
+{
+    "base": "expedition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "expedition",
+    "n2": "expeditions",
+    "n3": "the expedition",
+    "n4": "the expeditions",
+    "n5": "expedition's",
+    "n6": "expeditions'",
+    "n7": "an expedition",
+    "n8": "many expeditions"
+}

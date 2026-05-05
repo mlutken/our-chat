@@ -1,0 +1,18 @@
+{
+    "base": "column chromatography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "column chromatography",
+    "n2": "column chromatographies",
+    "n3": "the column chromatography",
+    "n4": "the column chromatographies",
+    "n5": "column chromatography's",
+    "n6": "column chromatographies'",
+    "n7": "a column chromatography",
+    "n8": "many column chromatographies"
+}

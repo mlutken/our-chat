@@ -1,0 +1,18 @@
+{
+    "base": "mind's eye",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mind's eye",
+    "n2": "mind's eyes",
+    "n3": "the mind's eye",
+    "n4": "the mind's eyes",
+    "n5": "mind's eye's",
+    "n6": "mind's eyes'",
+    "n7": "a mind's eye",
+    "n8": "many mind's eyes"
+}

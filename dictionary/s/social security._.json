@@ -1,0 +1,18 @@
+{
+    "base": "social security",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "social security",
+    "n2": "social securities",
+    "n3": "the social security",
+    "n4": "the social securities",
+    "n5": "social security's",
+    "n6": "social securities'",
+    "n7": "a social security",
+    "n8": "many social securities"
+}

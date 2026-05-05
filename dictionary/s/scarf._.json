@@ -7,5 +7,12 @@
     "n2": "scarves",
     "n3": "the scarf",
     "n4": "the scarves",
-    "n5": "scarf's"
+    "n5": "scarf's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "scarves'",
+    "n7": "a scarf",
+    "n8": "many scarves"
 }

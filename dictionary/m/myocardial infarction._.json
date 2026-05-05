@@ -1,0 +1,18 @@
+{
+    "base": "myocardial infarction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "myocardial infarction",
+    "n2": "myocardial infarctions",
+    "n3": "the myocardial infarction",
+    "n4": "the myocardial infarctions",
+    "n5": "myocardial infarction's",
+    "n6": "myocardial infarctions'",
+    "n7": "a myocardial infarction",
+    "n8": "many myocardial infarctions"
+}

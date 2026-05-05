@@ -1,0 +1,18 @@
+{
+    "base": "bug",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bug",
+    "n2": "bugs",
+    "n3": "the bug",
+    "n4": "the bugs",
+    "n5": "bug's",
+    "n6": "bugs'",
+    "n7": "a bug",
+    "n8": "many bugs"
+}

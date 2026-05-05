@@ -7,5 +7,12 @@
     "n2": "patterns",
     "n3": "the pattern",
     "n4": "the patterns",
-    "n5": "pattern's"
+    "n5": "pattern's",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "patterns'",
+    "n7": "a pattern",
+    "n8": "many patterns"
 }

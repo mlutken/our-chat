@@ -1,0 +1,18 @@
+{
+    "base": "knife thrust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "knife thrust",
+    "n2": "knife thrusts",
+    "n3": "the knife thrust",
+    "n4": "the knife thrusts",
+    "n5": "knife thrust's",
+    "n6": "knife thrusts'",
+    "n7": "a knife thrust",
+    "n8": "many knife thrusts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "boyhood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "boyhood",
+    "n2": "boyhoods",
+    "n3": "the boyhood",
+    "n4": "the boyhoods",
+    "n5": "boyhood's",
+    "n6": "boyhoods'",
+    "n7": "a boyhood",
+    "n8": "many boyhoods"
+}

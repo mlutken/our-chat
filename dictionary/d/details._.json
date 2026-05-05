@@ -1,0 +1,18 @@
+{
+    "base": "details",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "details",
+    "n2": "detailses",
+    "n3": "the details",
+    "n4": "the detailses",
+    "n5": "details'",
+    "n6": "detailses'",
+    "n7": "a details",
+    "n8": "many detailses"
+}

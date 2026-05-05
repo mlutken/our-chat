@@ -1,0 +1,18 @@
+{
+    "base": "rumanian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rumanian",
+    "n2": "rumanians",
+    "n3": "the rumanian",
+    "n4": "the rumanians",
+    "n5": "rumanian's",
+    "n6": "rumanians'",
+    "n7": "a rumanian",
+    "n8": "many rumanians"
+}

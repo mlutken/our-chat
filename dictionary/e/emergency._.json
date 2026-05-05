@@ -1,0 +1,18 @@
+{
+    "base": "emergency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "emergency",
+    "n2": "emergencies",
+    "n3": "the emergency",
+    "n4": "the emergencies",
+    "n5": "emergency's",
+    "n6": "emergencies'",
+    "n7": "an emergency",
+    "n8": "many emergencies"
+}

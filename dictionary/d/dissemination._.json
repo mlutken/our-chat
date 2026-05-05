@@ -1,0 +1,18 @@
+{
+    "base": "dissemination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dissemination",
+    "n2": "disseminations",
+    "n3": "the dissemination",
+    "n4": "the disseminations",
+    "n5": "dissemination's",
+    "n6": "disseminations'",
+    "n7": "a dissemination",
+    "n8": "many disseminations"
+}

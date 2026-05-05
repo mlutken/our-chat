@@ -1,0 +1,18 @@
+{
+    "base": "syllable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "syllable",
+    "n2": "syllables",
+    "n3": "the syllable",
+    "n4": "the syllables",
+    "n5": "syllable's",
+    "n6": "syllables'",
+    "n7": "a syllable",
+    "n8": "many syllables"
+}

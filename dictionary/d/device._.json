@@ -7,5 +7,12 @@
     "n2": "devices",
     "n3": "the device",
     "n4": "the devices",
-    "n5": "device's"
+    "n5": "device's",
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n6": "devices'",
+    "n7": "a device",
+    "n8": "many devices"
 }

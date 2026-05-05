@@ -1,0 +1,18 @@
+{
+    "base": "first name",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "first name",
+    "n2": "first names",
+    "n3": "the first name",
+    "n4": "the first names",
+    "n5": "first name's",
+    "n6": "first names'",
+    "n7": "a first name",
+    "n8": "many first names"
+}

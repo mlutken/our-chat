@@ -1,0 +1,18 @@
+{
+    "base": "flatus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flatus",
+    "n2": "flatuses",
+    "n3": "the flatus",
+    "n4": "the flatuses",
+    "n5": "flatus'",
+    "n6": "flatuses'",
+    "n7": "a flatus",
+    "n8": "many flatuses"
+}

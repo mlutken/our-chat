@@ -1,0 +1,18 @@
+{
+    "base": "nationalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "nationalism",
+    "n2": "nationalisms",
+    "n3": "the nationalism",
+    "n4": "the nationalisms",
+    "n5": "nationalism's",
+    "n6": "nationalisms'",
+    "n7": "a nationalism",
+    "n8": "many nationalisms"
+}

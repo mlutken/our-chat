@@ -1,0 +1,18 @@
+{
+    "base": "pheasant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pheasant",
+    "n2": "pheasants",
+    "n3": "the pheasant",
+    "n4": "the pheasants",
+    "n5": "pheasant's",
+    "n6": "pheasants'",
+    "n7": "a pheasant",
+    "n8": "many pheasants"
+}

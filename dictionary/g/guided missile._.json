@@ -1,0 +1,18 @@
+{
+    "base": "guided missile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guided missile",
+    "n2": "guided missiles",
+    "n3": "the guided missile",
+    "n4": "the guided missiles",
+    "n5": "guided missile's",
+    "n6": "guided missiles'",
+    "n7": "a guided missile",
+    "n8": "many guided missiles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "velocity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "velocity",
+    "n2": "velocities",
+    "n3": "the velocity",
+    "n4": "the velocities",
+    "n5": "velocity's",
+    "n6": "velocities'",
+    "n7": "a velocity",
+    "n8": "many velocities"
+}

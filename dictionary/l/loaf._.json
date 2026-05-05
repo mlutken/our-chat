@@ -7,5 +7,12 @@
     "n2": "loaves",
     "n3": "the loaf",
     "n4": "the loaves",
-    "n5": "loaf's"
+    "n5": "loaf's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "loaves'",
+    "n7": "a loaf",
+    "n8": "many loaves"
 }

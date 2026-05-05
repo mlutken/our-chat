@@ -1,0 +1,18 @@
+{
+    "base": "musing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "musing",
+    "n2": "musings",
+    "n3": "the musing",
+    "n4": "the musings",
+    "n5": "musing's",
+    "n6": "musings'",
+    "n7": "a musing",
+    "n8": "many musings"
+}

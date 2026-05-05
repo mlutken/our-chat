@@ -1,0 +1,18 @@
+{
+    "base": "discrimination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "discrimination",
+    "n2": "discriminations",
+    "n3": "the discrimination",
+    "n4": "the discriminations",
+    "n5": "discrimination's",
+    "n6": "discriminations'",
+    "n7": "a discrimination",
+    "n8": "many discriminations"
+}

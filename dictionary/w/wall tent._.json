@@ -1,0 +1,18 @@
+{
+    "base": "wall tent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wall tent",
+    "n2": "wall tents",
+    "n3": "the wall tent",
+    "n4": "the wall tents",
+    "n5": "wall tent's",
+    "n6": "wall tents'",
+    "n7": "a wall tent",
+    "n8": "many wall tents"
+}

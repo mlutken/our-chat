@@ -1,0 +1,18 @@
+{
+    "base": "russia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "russia",
+    "n2": "russias",
+    "n3": "the russia",
+    "n4": "the russias",
+    "n5": "russia's",
+    "n6": "russias'",
+    "n7": "a russia",
+    "n8": "many russias"
+}

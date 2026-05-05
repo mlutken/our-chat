@@ -1,0 +1,18 @@
+{
+    "base": "hypervelocity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hypervelocity",
+    "n2": "hypervelocities",
+    "n3": "the hypervelocity",
+    "n4": "the hypervelocities",
+    "n5": "hypervelocity's",
+    "n6": "hypervelocities'",
+    "n7": "a hypervelocity",
+    "n8": "many hypervelocities"
+}

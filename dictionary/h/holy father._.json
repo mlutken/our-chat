@@ -1,0 +1,18 @@
+{
+    "base": "holy father",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holy father",
+    "n2": "holy fathers",
+    "n3": "the holy father",
+    "n4": "the holy fathers",
+    "n5": "holy father's",
+    "n6": "holy fathers'",
+    "n7": "a holy father",
+    "n8": "many holy fathers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "alabama",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "alabama",
+    "n2": "alabamas",
+    "n3": "the alabama",
+    "n4": "the alabamas",
+    "n5": "alabama's",
+    "n6": "alabamas'",
+    "n7": "an alabama",
+    "n8": "many alabamas"
+}

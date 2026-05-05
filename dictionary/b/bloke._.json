@@ -1,0 +1,18 @@
+{
+    "base": "bloke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bloke",
+    "n2": "blokes",
+    "n3": "the bloke",
+    "n4": "the blokes",
+    "n5": "bloke's",
+    "n6": "blokes'",
+    "n7": "a bloke",
+    "n8": "many blokes"
+}

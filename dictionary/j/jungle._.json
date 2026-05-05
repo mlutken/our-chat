@@ -1,0 +1,18 @@
+{
+    "base": "jungle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "jungle",
+    "n2": "jungles",
+    "n3": "the jungle",
+    "n4": "the jungles",
+    "n5": "jungle's",
+    "n6": "jungles'",
+    "n7": "a jungle",
+    "n8": "many jungles"
+}

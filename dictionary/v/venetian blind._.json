@@ -1,0 +1,18 @@
+{
+    "base": "venetian blind",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "venetian blind",
+    "n2": "venetian blinds",
+    "n3": "the venetian blind",
+    "n4": "the venetian blinds",
+    "n5": "venetian blind's",
+    "n6": "venetian blinds'",
+    "n7": "a venetian blind",
+    "n8": "many venetian blinds"
+}

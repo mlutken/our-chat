@@ -1,0 +1,18 @@
+{
+    "base": "fortress",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fortress",
+    "n2": "fortresses",
+    "n3": "the fortress",
+    "n4": "the fortresses",
+    "n5": "fortress'",
+    "n6": "fortresses'",
+    "n7": "a fortress",
+    "n8": "many fortresses"
+}

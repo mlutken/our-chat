@@ -1,0 +1,18 @@
+{
+    "base": "scrutin uninominal voting system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scrutin uninominal voting system",
+    "n2": "scrutin uninominal voting systems",
+    "n3": "the scrutin uninominal voting system",
+    "n4": "the scrutin uninominal voting systems",
+    "n5": "scrutin uninominal voting system's",
+    "n6": "scrutin uninominal voting systems'",
+    "n7": "a scrutin uninominal voting system",
+    "n8": "many scrutin uninominal voting systems"
+}

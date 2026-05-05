@@ -1,0 +1,18 @@
+{
+    "base": "bogy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bogy",
+    "n2": "bogies",
+    "n3": "the bogy",
+    "n4": "the bogies",
+    "n5": "bogy's",
+    "n6": "bogies'",
+    "n7": "a bogy",
+    "n8": "many bogies"
+}

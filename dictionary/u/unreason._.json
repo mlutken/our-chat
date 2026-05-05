@@ -1,0 +1,18 @@
+{
+    "base": "unreason",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unreason",
+    "n2": "unreasons",
+    "n3": "the unreason",
+    "n4": "the unreasons",
+    "n5": "unreason's",
+    "n6": "unreasons'",
+    "n7": "an unreason",
+    "n8": "many unreasons"
+}

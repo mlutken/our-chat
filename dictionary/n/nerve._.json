@@ -1,0 +1,18 @@
+{
+    "base": "nerve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "nerve",
+    "n2": "nerves",
+    "n3": "the nerve",
+    "n4": "the nerves",
+    "n5": "nerve's",
+    "n6": "nerves'",
+    "n7": "a nerve",
+    "n8": "many nerves"
+}

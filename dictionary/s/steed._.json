@@ -1,0 +1,18 @@
+{
+    "base": "steed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steed",
+    "n2": "steeds",
+    "n3": "the steed",
+    "n4": "the steeds",
+    "n5": "steed's",
+    "n6": "steeds'",
+    "n7": "a steed",
+    "n8": "many steeds"
+}

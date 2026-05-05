@@ -1,0 +1,18 @@
+{
+    "base": "pop fly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pop fly",
+    "n2": "pop flies",
+    "n3": "the pop fly",
+    "n4": "the pop flies",
+    "n5": "pop fly's",
+    "n6": "pop flies'",
+    "n7": "a pop fly",
+    "n8": "many pop flies"
+}

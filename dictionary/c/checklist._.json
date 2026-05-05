@@ -1,0 +1,18 @@
+{
+    "base": "checklist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "checklist",
+    "n2": "checklists",
+    "n3": "the checklist",
+    "n4": "the checklists",
+    "n5": "checklist's",
+    "n6": "checklists'",
+    "n7": "a checklist",
+    "n8": "many checklists"
+}

@@ -7,5 +7,12 @@
     "n2": "standards",
     "n3": "the standard",
     "n4": "the standards",
-    "n5": "standard's"
+    "n5": "standard's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "standards'",
+    "n7": "a standard",
+    "n8": "many standards"
 }

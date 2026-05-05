@@ -1,0 +1,18 @@
+{
+    "base": "iraq",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "iraq",
+    "n2": "iraqs",
+    "n3": "the iraq",
+    "n4": "the iraqs",
+    "n5": "iraq's",
+    "n6": "iraqs'",
+    "n7": "an iraq",
+    "n8": "many iraqs"
+}

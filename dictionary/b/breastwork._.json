@@ -1,0 +1,18 @@
+{
+    "base": "breastwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breastwork",
+    "n2": "breastworks",
+    "n3": "the breastwork",
+    "n4": "the breastworks",
+    "n5": "breastwork's",
+    "n6": "breastworks'",
+    "n7": "a breastwork",
+    "n8": "many breastworks"
+}

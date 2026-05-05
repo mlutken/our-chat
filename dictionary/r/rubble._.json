@@ -1,0 +1,18 @@
+{
+    "base": "rubble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rubble",
+    "n2": "rubbles",
+    "n3": "the rubble",
+    "n4": "the rubbles",
+    "n5": "rubble's",
+    "n6": "rubbles'",
+    "n7": "a rubble",
+    "n8": "many rubbles"
+}

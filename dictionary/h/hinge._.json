@@ -1,0 +1,18 @@
+{
+    "base": "hinge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hinge",
+    "n2": "hinges",
+    "n3": "the hinge",
+    "n4": "the hinges",
+    "n5": "hinge's",
+    "n6": "hinges'",
+    "n7": "a hinge",
+    "n8": "many hinges"
+}

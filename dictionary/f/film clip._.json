@@ -1,0 +1,18 @@
+{
+    "base": "film clip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "film clip",
+    "n2": "film clips",
+    "n3": "the film clip",
+    "n4": "the film clips",
+    "n5": "film clip's",
+    "n6": "film clips'",
+    "n7": "a film clip",
+    "n8": "many film clips"
+}

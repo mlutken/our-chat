@@ -1,0 +1,18 @@
+{
+    "base": "football team",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "football team",
+    "n2": "football teams",
+    "n3": "the football team",
+    "n4": "the football teams",
+    "n5": "football team's",
+    "n6": "football teams'",
+    "n7": "a football team",
+    "n8": "many football teams"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pew",
+    "n2": "pews",
+    "n3": "the pew",
+    "n4": "the pews",
+    "n5": "pew's",
+    "n6": "pews'",
+    "n7": "a pew",
+    "n8": "many pews"
+}

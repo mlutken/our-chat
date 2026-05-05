@@ -1,0 +1,18 @@
+{
+    "base": "constellation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "constellation",
+    "n2": "constellations",
+    "n3": "the constellation",
+    "n4": "the constellations",
+    "n5": "constellation's",
+    "n6": "constellations'",
+    "n7": "a constellation",
+    "n8": "many constellations"
+}

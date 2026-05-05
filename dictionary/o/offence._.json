@@ -1,0 +1,18 @@
+{
+    "base": "offence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "offence",
+    "n2": "offences",
+    "n3": "the offence",
+    "n4": "the offences",
+    "n5": "offence's",
+    "n6": "offences'",
+    "n7": "an offence",
+    "n8": "many offences"
+}

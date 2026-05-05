@@ -1,0 +1,18 @@
+{
+    "base": "mobility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mobility",
+    "n2": "mobilities",
+    "n3": "the mobility",
+    "n4": "the mobilities",
+    "n5": "mobility's",
+    "n6": "mobilities'",
+    "n7": "a mobility",
+    "n8": "many mobilities"
+}

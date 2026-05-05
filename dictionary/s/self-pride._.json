@@ -1,0 +1,18 @@
+{
+    "base": "self-pride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-pride",
+    "n2": "self-prides",
+    "n3": "the self-pride",
+    "n4": "the self-prides",
+    "n5": "self-pride's",
+    "n6": "self-prides'",
+    "n7": "a self-pride",
+    "n8": "many self-prides"
+}

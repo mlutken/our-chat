@@ -1,0 +1,18 @@
+{
+    "base": "sealing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sealing",
+    "n2": "sealings",
+    "n3": "the sealing",
+    "n4": "the sealings",
+    "n5": "sealing's",
+    "n6": "sealings'",
+    "n7": "a sealing",
+    "n8": "many sealings"
+}

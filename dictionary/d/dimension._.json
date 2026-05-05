@@ -1,0 +1,18 @@
+{
+    "base": "dimension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "dimension",
+    "n2": "dimensions",
+    "n3": "the dimension",
+    "n4": "the dimensions",
+    "n5": "dimension's",
+    "n6": "dimensions'",
+    "n7": "a dimension",
+    "n8": "many dimensions"
+}

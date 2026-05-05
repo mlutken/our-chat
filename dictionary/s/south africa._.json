@@ -1,0 +1,18 @@
+{
+    "base": "south africa",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "south africa",
+    "n2": "south africas",
+    "n3": "the south africa",
+    "n4": "the south africas",
+    "n5": "south africa's",
+    "n6": "south africas'",
+    "n7": "a south africa",
+    "n8": "many south africas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mausoleum",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mausoleum",
+    "n2": "mausolea",
+    "n3": "the mausoleum",
+    "n4": "the mausolea",
+    "n5": "mausoleum's",
+    "n6": "mausolea's",
+    "n7": "a mausoleum",
+    "n8": "many mausolea"
+}

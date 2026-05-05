@@ -1,0 +1,18 @@
+{
+    "base": "brier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brier",
+    "n2": "briers",
+    "n3": "the brier",
+    "n4": "the briers",
+    "n5": "brier's",
+    "n6": "briers'",
+    "n7": "a brier",
+    "n8": "many briers"
+}

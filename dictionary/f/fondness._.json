@@ -1,0 +1,18 @@
+{
+    "base": "fondness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fondness",
+    "n2": "fondnesses",
+    "n3": "the fondness",
+    "n4": "the fondnesses",
+    "n5": "fondness'",
+    "n6": "fondnesses'",
+    "n7": "a fondness",
+    "n8": "many fondnesses"
+}

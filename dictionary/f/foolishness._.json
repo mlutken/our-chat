@@ -1,0 +1,18 @@
+{
+    "base": "foolishness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "foolishness",
+    "n2": "foolishnesses",
+    "n3": "the foolishness",
+    "n4": "the foolishnesses",
+    "n5": "foolishness'",
+    "n6": "foolishnesses'",
+    "n7": "a foolishness",
+    "n8": "many foolishnesses"
+}

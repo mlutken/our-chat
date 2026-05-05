@@ -1,11 +1,24 @@
 {
     "base": "burn",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "burn",
     "v2": "burned/burnt",
     "v3": "burned/burnt",
     "v4": "burning",
-    "v5": "burns"
+    "v5": "burns",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "burn",
+    "n2": "burns",
+    "n3": "the burn",
+    "n4": "the burns",
+    "n5": "burn's",
+    "n6": "burns'",
+    "n7": "a burn",
+    "n8": "many burns"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sucker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sucker",
+    "n2": "suckers",
+    "n3": "the sucker",
+    "n4": "the suckers",
+    "n5": "sucker's",
+    "n6": "suckers'",
+    "n7": "a sucker",
+    "n8": "many suckers"
+}

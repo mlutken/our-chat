@@ -1,0 +1,18 @@
+{
+    "base": "clarity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "clarity",
+    "n2": "clarities",
+    "n3": "the clarity",
+    "n4": "the clarities",
+    "n5": "clarity's",
+    "n6": "clarities'",
+    "n7": "a clarity",
+    "n8": "many clarities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "anarchy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anarchy",
+    "n2": "anarchies",
+    "n3": "the anarchy",
+    "n4": "the anarchies",
+    "n5": "anarchy's",
+    "n6": "anarchies'",
+    "n7": "an anarchy",
+    "n8": "many anarchies"
+}

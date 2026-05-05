@@ -7,5 +7,12 @@
     "n2": "candidates",
     "n3": "the candidate",
     "n4": "the candidates",
-    "n5": "candidate's"
+    "n5": "candidate's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "candidates'",
+    "n7": "a candidate",
+    "n8": "many candidates"
 }

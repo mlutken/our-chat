@@ -1,0 +1,18 @@
+{
+    "base": "entanglement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "entanglement",
+    "n2": "entanglements",
+    "n3": "the entanglement",
+    "n4": "the entanglements",
+    "n5": "entanglement's",
+    "n6": "entanglements'",
+    "n7": "an entanglement",
+    "n8": "many entanglements"
+}

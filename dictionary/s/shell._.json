@@ -1,0 +1,18 @@
+{
+    "base": "shell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "shell",
+    "n2": "shells",
+    "n3": "the shell",
+    "n4": "the shells",
+    "n5": "shell's",
+    "n6": "shells'",
+    "n7": "a shell",
+    "n8": "many shells"
+}

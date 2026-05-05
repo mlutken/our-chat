@@ -1,0 +1,18 @@
+{
+    "base": "voltaire",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "voltaire",
+    "n2": "voltaires",
+    "n3": "the voltaire",
+    "n4": "the voltaires",
+    "n5": "voltaire's",
+    "n6": "voltaires'",
+    "n7": "a voltaire",
+    "n8": "many voltaires"
+}

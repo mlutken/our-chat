@@ -7,5 +7,12 @@
     "n2": "rocks",
     "n3": "the rock",
     "n4": "the rocks",
-    "n5": "rock's"
+    "n5": "rock's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "rocks'",
+    "n7": "a rock",
+    "n8": "many rocks"
 }

@@ -1,11 +1,24 @@
 {
     "base": "march",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "march",
     "v2": "marched",
     "v3": "marched",
     "v4": "marching",
-    "v5": "marches"
+    "v5": "marches",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "march",
+    "n2": "marches",
+    "n3": "the march",
+    "n4": "the marches",
+    "n5": "march's",
+    "n6": "marches'",
+    "n7": "a march",
+    "n8": "many marches"
 }

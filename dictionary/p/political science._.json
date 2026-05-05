@@ -1,0 +1,18 @@
+{
+    "base": "political science",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "political science",
+    "n2": "political sciences",
+    "n3": "the political science",
+    "n4": "the political sciences",
+    "n5": "political science's",
+    "n6": "political sciences'",
+    "n7": "a political science",
+    "n8": "many political sciences"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "half-hour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "half-hour",
+    "n2": "half-hours",
+    "n3": "the half-hour",
+    "n4": "the half-hours",
+    "n5": "half-hour's",
+    "n6": "half-hours'",
+    "n7": "a half-hour",
+    "n8": "many half-hours"
+}

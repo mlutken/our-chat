@@ -1,0 +1,18 @@
+{
+    "base": "work camp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "work camp",
+    "n2": "work camps",
+    "n3": "the work camp",
+    "n4": "the work camps",
+    "n5": "work camp's",
+    "n6": "work camps'",
+    "n7": "a work camp",
+    "n8": "many work camps"
+}

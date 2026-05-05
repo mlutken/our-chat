@@ -1,0 +1,18 @@
+{
+    "base": "services",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "services",
+    "n2": "serviceses",
+    "n3": "the services",
+    "n4": "the serviceses",
+    "n5": "services'",
+    "n6": "serviceses'",
+    "n7": "a services",
+    "n8": "many serviceses"
+}

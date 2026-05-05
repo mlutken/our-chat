@@ -1,0 +1,18 @@
+{
+    "base": "haste",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "haste",
+    "n2": "hastes",
+    "n3": "the haste",
+    "n4": "the hastes",
+    "n5": "haste's",
+    "n6": "hastes'",
+    "n7": "a haste",
+    "n8": "many hastes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "yacht",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yacht",
+    "n2": "yachts",
+    "n3": "the yacht",
+    "n4": "the yachts",
+    "n5": "yacht's",
+    "n6": "yachts'",
+    "n7": "a yacht",
+    "n8": "many yachts"
+}

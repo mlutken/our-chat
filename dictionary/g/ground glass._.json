@@ -1,0 +1,18 @@
+{
+    "base": "ground glass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ground glass",
+    "n2": "ground glasses",
+    "n3": "the ground glass",
+    "n4": "the ground glasses",
+    "n5": "ground glass'",
+    "n6": "ground glasses'",
+    "n7": "a ground glass",
+    "n8": "many ground glasses"
+}

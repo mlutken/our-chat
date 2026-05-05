@@ -1,0 +1,18 @@
+{
+    "base": "monday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "monday",
+    "n2": "mondays",
+    "n3": "the monday",
+    "n4": "the mondays",
+    "n5": "monday's",
+    "n6": "mondays'",
+    "n7": "a monday",
+    "n8": "many mondays"
+}

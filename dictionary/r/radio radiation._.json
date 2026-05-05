@@ -1,0 +1,18 @@
+{
+    "base": "radio radiation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "radio radiation",
+    "n2": "radio radiations",
+    "n3": "the radio radiation",
+    "n4": "the radio radiations",
+    "n5": "radio radiation's",
+    "n6": "radio radiations'",
+    "n7": "a radio radiation",
+    "n8": "many radio radiations"
+}

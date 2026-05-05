@@ -1,0 +1,18 @@
+{
+    "base": "rotc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rotc",
+    "n2": "rotcs",
+    "n3": "the rotc",
+    "n4": "the rotcs",
+    "n5": "rotc's",
+    "n6": "rotcs'",
+    "n7": "a rotc",
+    "n8": "many rotcs"
+}

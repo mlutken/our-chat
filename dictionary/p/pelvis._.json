@@ -1,0 +1,18 @@
+{
+    "base": "pelvis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pelvis",
+    "n2": "pelves",
+    "n3": "the pelvis",
+    "n4": "the pelves",
+    "n5": "pelvis'",
+    "n6": "pelves'",
+    "n7": "a pelvis",
+    "n8": "many pelves"
+}

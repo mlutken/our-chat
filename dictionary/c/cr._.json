@@ -1,0 +1,18 @@
+{
+    "base": "cr",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cr",
+    "n2": "crs",
+    "n3": "the cr",
+    "n4": "the crs",
+    "n5": "cr's",
+    "n6": "crs'",
+    "n7": "a cr",
+    "n8": "many crs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "puerto rican",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "puerto rican",
+    "n2": "puerto ricans",
+    "n3": "the puerto rican",
+    "n4": "the puerto ricans",
+    "n5": "puerto rican's",
+    "n6": "puerto ricans'",
+    "n7": "a puerto rican",
+    "n8": "many puerto ricans"
+}

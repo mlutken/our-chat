@@ -1,11 +1,24 @@
 {
     "base": "pop",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pop",
     "v2": "popped",
     "v3": "popped",
     "v4": "popping",
-    "v5": "pops"
+    "v5": "pops",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pop",
+    "n2": "pops",
+    "n3": "the pop",
+    "n4": "the pops",
+    "n5": "pop's",
+    "n6": "pops'",
+    "n7": "a pop",
+    "n8": "many pops"
 }

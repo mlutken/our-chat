@@ -1,0 +1,18 @@
+{
+    "base": "baroreceptor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "baroreceptor",
+    "n2": "baroreceptors",
+    "n3": "the baroreceptor",
+    "n4": "the baroreceptors",
+    "n5": "baroreceptor's",
+    "n6": "baroreceptors'",
+    "n7": "a baroreceptor",
+    "n8": "many baroreceptors"
+}

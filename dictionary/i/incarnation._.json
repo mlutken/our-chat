@@ -1,0 +1,18 @@
+{
+    "base": "incarnation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "incarnation",
+    "n2": "incarnations",
+    "n3": "the incarnation",
+    "n4": "the incarnations",
+    "n5": "incarnation's",
+    "n6": "incarnations'",
+    "n7": "an incarnation",
+    "n8": "many incarnations"
+}

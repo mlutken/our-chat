@@ -1,0 +1,18 @@
+{
+    "base": "container",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "container",
+    "n2": "containers",
+    "n3": "the container",
+    "n4": "the containers",
+    "n5": "container's",
+    "n6": "containers'",
+    "n7": "a container",
+    "n8": "many containers"
+}

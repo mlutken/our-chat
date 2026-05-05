@@ -1,0 +1,18 @@
+{
+    "base": "wickedness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wickedness",
+    "n2": "wickednesses",
+    "n3": "the wickedness",
+    "n4": "the wickednesses",
+    "n5": "wickedness'",
+    "n6": "wickednesses'",
+    "n7": "a wickedness",
+    "n8": "many wickednesses"
+}

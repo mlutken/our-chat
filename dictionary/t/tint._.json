@@ -1,0 +1,18 @@
+{
+    "base": "tint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tint",
+    "n2": "tints",
+    "n3": "the tint",
+    "n4": "the tints",
+    "n5": "tint's",
+    "n6": "tints'",
+    "n7": "a tint",
+    "n8": "many tints"
+}

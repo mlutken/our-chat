@@ -1,0 +1,18 @@
+{
+    "base": "television system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "television system",
+    "n2": "television systems",
+    "n3": "the television system",
+    "n4": "the television systems",
+    "n5": "television system's",
+    "n6": "television systems'",
+    "n7": "a television system",
+    "n8": "many television systems"
+}

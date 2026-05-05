@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "die",
-    "n2": "dice",
+    "n2": "dies",
     "n3": "the die",
-    "n4": "the dice",
-    "n5": "die's"
+    "n4": "the dies",
+    "n5": "die's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "dies'",
+    "n7": "a die",
+    "n8": "many dies"
 }

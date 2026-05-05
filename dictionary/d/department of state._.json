@@ -1,0 +1,18 @@
+{
+    "base": "department of state",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "department of state",
+    "n2": "department of states",
+    "n3": "the department of state",
+    "n4": "the department of states",
+    "n5": "department of state's",
+    "n6": "department of states'",
+    "n7": "a department of state",
+    "n8": "many department of states"
+}

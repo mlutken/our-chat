@@ -1,0 +1,18 @@
+{
+    "base": "evaporation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "evaporation",
+    "n2": "evaporations",
+    "n3": "the evaporation",
+    "n4": "the evaporations",
+    "n5": "evaporation's",
+    "n6": "evaporations'",
+    "n7": "an evaporation",
+    "n8": "many evaporations"
+}

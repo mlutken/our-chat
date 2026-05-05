@@ -1,0 +1,18 @@
+{
+    "base": "hound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hound",
+    "n2": "hounds",
+    "n3": "the hound",
+    "n4": "the hounds",
+    "n5": "hound's",
+    "n6": "hounds'",
+    "n7": "a hound",
+    "n8": "many hounds"
+}

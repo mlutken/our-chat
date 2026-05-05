@@ -1,0 +1,18 @@
+{
+    "base": "imprint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "imprint",
+    "n2": "imprints",
+    "n3": "the imprint",
+    "n4": "the imprints",
+    "n5": "imprint's",
+    "n6": "imprints'",
+    "n7": "an imprint",
+    "n8": "many imprints"
+}

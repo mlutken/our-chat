@@ -1,0 +1,18 @@
+{
+    "base": "dial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dial",
+    "n2": "dials",
+    "n3": "the dial",
+    "n4": "the dials",
+    "n5": "dial's",
+    "n6": "dials'",
+    "n7": "a dial",
+    "n8": "many dials"
+}

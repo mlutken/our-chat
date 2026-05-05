@@ -1,0 +1,18 @@
+{
+    "base": "side yard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "side yard",
+    "n2": "side yards",
+    "n3": "the side yard",
+    "n4": "the side yards",
+    "n5": "side yard's",
+    "n6": "side yards'",
+    "n7": "a side yard",
+    "n8": "many side yards"
+}

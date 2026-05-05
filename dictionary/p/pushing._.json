@@ -1,0 +1,18 @@
+{
+    "base": "pushing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pushing",
+    "n2": "pushings",
+    "n3": "the pushing",
+    "n4": "the pushings",
+    "n5": "pushing's",
+    "n6": "pushings'",
+    "n7": "a pushing",
+    "n8": "many pushings"
+}

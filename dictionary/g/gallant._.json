@@ -1,0 +1,18 @@
+{
+    "base": "gallant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gallant",
+    "n2": "gallants",
+    "n3": "the gallant",
+    "n4": "the gallants",
+    "n5": "gallant's",
+    "n6": "gallants'",
+    "n7": "a gallant",
+    "n8": "many gallants"
+}

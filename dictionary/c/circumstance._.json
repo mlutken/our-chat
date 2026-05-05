@@ -1,0 +1,18 @@
+{
+    "base": "circumstance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n1": "circumstance",
+    "n2": "circumstances",
+    "n3": "the circumstance",
+    "n4": "the circumstances",
+    "n5": "circumstance's",
+    "n6": "circumstances'",
+    "n7": "a circumstance",
+    "n8": "many circumstances"
+}

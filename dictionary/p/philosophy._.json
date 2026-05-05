@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "philosophy",
-    "n2": "philosophys",
+    "n2": "philosophies",
     "n3": "the philosophy",
-    "n4": "the philosophys",
-    "n5": "philosophy's"
+    "n4": "the philosophies",
+    "n5": "philosophy's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "philosophies'",
+    "n7": "a philosophy",
+    "n8": "many philosophies"
 }

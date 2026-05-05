@@ -1,0 +1,18 @@
+{
+    "base": "protege",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "protege",
+    "n2": "proteges",
+    "n3": "the protege",
+    "n4": "the proteges",
+    "n5": "protege's",
+    "n6": "proteges'",
+    "n7": "a protege",
+    "n8": "many proteges"
+}

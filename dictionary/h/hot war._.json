@@ -1,0 +1,18 @@
+{
+    "base": "hot war",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hot war",
+    "n2": "hot wars",
+    "n3": "the hot war",
+    "n4": "the hot wars",
+    "n5": "hot war's",
+    "n6": "hot wars'",
+    "n7": "a hot war",
+    "n8": "many hot wars"
+}

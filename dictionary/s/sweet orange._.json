@@ -1,0 +1,18 @@
+{
+    "base": "sweet orange",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweet orange",
+    "n2": "sweet oranges",
+    "n3": "the sweet orange",
+    "n4": "the sweet oranges",
+    "n5": "sweet orange's",
+    "n6": "sweet oranges'",
+    "n7": "a sweet orange",
+    "n8": "many sweet oranges"
+}

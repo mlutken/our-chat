@@ -1,0 +1,18 @@
+{
+    "base": "old man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n1": "old man",
+    "n2": "old mans",
+    "n3": "the old man",
+    "n4": "the old mans",
+    "n5": "old man's",
+    "n6": "old mans'",
+    "n7": "an old man",
+    "n8": "many old mans"
+}

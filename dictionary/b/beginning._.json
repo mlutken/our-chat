@@ -7,5 +7,12 @@
     "n2": "beginnings",
     "n3": "the beginning",
     "n4": "the beginnings",
-    "n5": "beginning's"
+    "n5": "beginning's",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n6": "beginnings'",
+    "n7": "a beginning",
+    "n8": "many beginnings"
 }

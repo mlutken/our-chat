@@ -1,0 +1,18 @@
+{
+    "base": "joint snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "joint snake",
+    "n2": "joint snakes",
+    "n3": "the joint snake",
+    "n4": "the joint snakes",
+    "n5": "joint snake's",
+    "n6": "joint snakes'",
+    "n7": "a joint snake",
+    "n8": "many joint snakes"
+}

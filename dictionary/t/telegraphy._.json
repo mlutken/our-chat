@@ -1,0 +1,18 @@
+{
+    "base": "telegraphy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telegraphy",
+    "n2": "telegraphies",
+    "n3": "the telegraphy",
+    "n4": "the telegraphies",
+    "n5": "telegraphy's",
+    "n6": "telegraphies'",
+    "n7": "a telegraphy",
+    "n8": "many telegraphies"
+}

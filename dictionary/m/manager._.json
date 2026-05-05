@@ -7,5 +7,12 @@
     "n2": "managers",
     "n3": "the manager",
     "n4": "the managers",
-    "n5": "manager's"
+    "n5": "manager's",
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n6": "managers'",
+    "n7": "a manager",
+    "n8": "many managers"
 }

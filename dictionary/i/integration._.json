@@ -7,5 +7,12 @@
     "n2": "integrations",
     "n3": "the integration",
     "n4": "the integrations",
-    "n5": "integration's"
+    "n5": "integration's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "integrations'",
+    "n7": "an integration",
+    "n8": "many integrations"
 }

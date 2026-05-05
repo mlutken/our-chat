@@ -1,11 +1,24 @@
 {
     "base": "transition",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "transition",
     "v2": "transitioned",
     "v3": "transitioned",
     "v4": "transitioning",
-    "v5": "transitions"
+    "v5": "transitions",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "transition",
+    "n2": "transitions",
+    "n3": "the transition",
+    "n4": "the transitions",
+    "n5": "transition's",
+    "n6": "transitions'",
+    "n7": "a transition",
+    "n8": "many transitions"
 }

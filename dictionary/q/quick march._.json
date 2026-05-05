@@ -1,0 +1,18 @@
+{
+    "base": "quick march",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quick march",
+    "n2": "quick marches",
+    "n3": "the quick march",
+    "n4": "the quick marches",
+    "n5": "quick march's",
+    "n6": "quick marches'",
+    "n7": "a quick march",
+    "n8": "many quick marches"
+}

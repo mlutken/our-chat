@@ -1,0 +1,18 @@
+{
+    "base": "tape",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "tape",
+    "n2": "tapes",
+    "n3": "the tape",
+    "n4": "the tapes",
+    "n5": "tape's",
+    "n6": "tapes'",
+    "n7": "a tape",
+    "n8": "many tapes"
+}

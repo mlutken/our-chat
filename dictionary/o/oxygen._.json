@@ -1,0 +1,18 @@
+{
+    "base": "oxygen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "oxygen",
+    "n2": "oxygens",
+    "n3": "the oxygen",
+    "n4": "the oxygens",
+    "n5": "oxygen's",
+    "n6": "oxygens'",
+    "n7": "an oxygen",
+    "n8": "many oxygens"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "stride",
+    "n2": "strides",
+    "n3": "the stride",
+    "n4": "the strides",
+    "n5": "stride's",
+    "n6": "strides'",
+    "n7": "a stride",
+    "n8": "many strides"
+}

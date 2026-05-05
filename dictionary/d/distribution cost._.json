@@ -1,0 +1,18 @@
+{
+    "base": "distribution cost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "distribution cost",
+    "n2": "distribution costs",
+    "n3": "the distribution cost",
+    "n4": "the distribution costs",
+    "n5": "distribution cost's",
+    "n6": "distribution costs'",
+    "n7": "a distribution cost",
+    "n8": "many distribution costs"
+}

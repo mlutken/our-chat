@@ -1,0 +1,18 @@
+{
+    "base": "capital gain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "capital gain",
+    "n2": "capital gains",
+    "n3": "the capital gain",
+    "n4": "the capital gains",
+    "n5": "capital gain's",
+    "n6": "capital gains'",
+    "n7": "a capital gain",
+    "n8": "many capital gains"
+}

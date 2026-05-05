@@ -1,0 +1,18 @@
+{
+    "base": "nashville",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nashville",
+    "n2": "nashvilles",
+    "n3": "the nashville",
+    "n4": "the nashvilles",
+    "n5": "nashville's",
+    "n6": "nashvilles'",
+    "n7": "a nashville",
+    "n8": "many nashvilles"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "tax",
-    "n2": "taxs",
+    "n2": "taxes",
     "n3": "the tax",
-    "n4": "the taxs",
-    "n5": "tax's"
+    "n4": "the taxes",
+    "n5": "tax's",
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n6": "taxes'",
+    "n7": "a tax",
+    "n8": "many taxes"
 }

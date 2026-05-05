@@ -1,0 +1,18 @@
+{
+    "base": "reading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "reading",
+    "n2": "readings",
+    "n3": "the reading",
+    "n4": "the readings",
+    "n5": "reading's",
+    "n6": "readings'",
+    "n7": "a reading",
+    "n8": "many readings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "manumission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manumission",
+    "n2": "manumissions",
+    "n3": "the manumission",
+    "n4": "the manumissions",
+    "n5": "manumission's",
+    "n6": "manumissions'",
+    "n7": "a manumission",
+    "n8": "many manumissions"
+}

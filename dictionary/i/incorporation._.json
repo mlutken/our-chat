@@ -1,0 +1,18 @@
+{
+    "base": "incorporation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incorporation",
+    "n2": "incorporations",
+    "n3": "the incorporation",
+    "n4": "the incorporations",
+    "n5": "incorporation's",
+    "n6": "incorporations'",
+    "n7": "an incorporation",
+    "n8": "many incorporations"
+}

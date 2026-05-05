@@ -1,0 +1,18 @@
+{
+    "base": "medical man",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medical man",
+    "n2": "medical mans",
+    "n3": "the medical man",
+    "n4": "the medical mans",
+    "n5": "medical man's",
+    "n6": "medical mans'",
+    "n7": "a medical man",
+    "n8": "many medical mans"
+}

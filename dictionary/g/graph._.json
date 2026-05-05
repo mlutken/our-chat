@@ -1,0 +1,18 @@
+{
+    "base": "graph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "graph",
+    "n2": "graphs",
+    "n3": "the graph",
+    "n4": "the graphs",
+    "n5": "graph's",
+    "n6": "graphs'",
+    "n7": "a graph",
+    "n8": "many graphs"
+}

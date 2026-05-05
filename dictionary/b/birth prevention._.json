@@ -1,0 +1,18 @@
+{
+    "base": "birth prevention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "birth prevention",
+    "n2": "birth preventions",
+    "n3": "the birth prevention",
+    "n4": "the birth preventions",
+    "n5": "birth prevention's",
+    "n6": "birth preventions'",
+    "n7": "a birth prevention",
+    "n8": "many birth preventions"
+}

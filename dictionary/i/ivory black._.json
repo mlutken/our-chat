@@ -1,0 +1,18 @@
+{
+    "base": "ivory black",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ivory black",
+    "n2": "ivory blacks",
+    "n3": "the ivory black",
+    "n4": "the ivory blacks",
+    "n5": "ivory black's",
+    "n6": "ivory blacks'",
+    "n7": "an ivory black",
+    "n8": "many ivory blacks"
+}

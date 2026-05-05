@@ -1,0 +1,18 @@
+{
+    "base": "query",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "query",
+    "n2": "queries",
+    "n3": "the query",
+    "n4": "the queries",
+    "n5": "query's",
+    "n6": "queries'",
+    "n7": "a query",
+    "n8": "many queries"
+}

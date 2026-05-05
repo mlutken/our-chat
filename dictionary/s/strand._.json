@@ -1,0 +1,18 @@
+{
+    "base": "strand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "strand",
+    "n2": "strands",
+    "n3": "the strand",
+    "n4": "the strands",
+    "n5": "strand's",
+    "n6": "strands'",
+    "n7": "a strand",
+    "n8": "many strands"
+}

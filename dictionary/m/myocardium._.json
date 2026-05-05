@@ -1,0 +1,18 @@
+{
+    "base": "myocardium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "myocardium",
+    "n2": "myocardia",
+    "n3": "the myocardium",
+    "n4": "the myocardia",
+    "n5": "myocardium's",
+    "n6": "myocardia's",
+    "n7": "a myocardium",
+    "n8": "many myocardia"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "adult",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "adult",
+    "n2": "adults",
+    "n3": "the adult",
+    "n4": "the adults",
+    "n5": "adult's",
+    "n6": "adults'",
+    "n7": "an adult",
+    "n8": "many adults"
+}

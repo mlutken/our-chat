@@ -7,5 +7,12 @@
     "n2": "analysts",
     "n3": "the analyst",
     "n4": "the analysts",
-    "n5": "analyst's"
+    "n5": "analyst's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "analysts'",
+    "n7": "an analyst",
+    "n8": "many analysts"
 }

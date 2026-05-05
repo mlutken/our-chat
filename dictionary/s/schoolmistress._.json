@@ -1,0 +1,18 @@
+{
+    "base": "schoolmistress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "schoolmistress",
+    "n2": "schoolmistresses",
+    "n3": "the schoolmistress",
+    "n4": "the schoolmistresses",
+    "n5": "schoolmistress'",
+    "n6": "schoolmistresses'",
+    "n7": "a schoolmistress",
+    "n8": "many schoolmistresses"
+}

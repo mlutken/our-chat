@@ -1,0 +1,18 @@
+{
+    "base": "revelation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "revelation",
+    "n2": "revelations",
+    "n3": "the revelation",
+    "n4": "the revelations",
+    "n5": "revelation's",
+    "n6": "revelations'",
+    "n7": "a revelation",
+    "n8": "many revelations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nursery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nursery",
+    "n2": "nurseries",
+    "n3": "the nursery",
+    "n4": "the nurseries",
+    "n5": "nursery's",
+    "n6": "nurseries'",
+    "n7": "a nursery",
+    "n8": "many nurseries"
+}

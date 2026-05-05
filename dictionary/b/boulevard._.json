@@ -1,0 +1,18 @@
+{
+    "base": "boulevard",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boulevard",
+    "n2": "boulevards",
+    "n3": "the boulevard",
+    "n4": "the boulevards",
+    "n5": "boulevard's",
+    "n6": "boulevards'",
+    "n7": "a boulevard",
+    "n8": "many boulevards"
+}

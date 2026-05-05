@@ -1,0 +1,18 @@
+{
+    "base": "manipulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manipulation",
+    "n2": "manipulations",
+    "n3": "the manipulation",
+    "n4": "the manipulations",
+    "n5": "manipulation's",
+    "n6": "manipulations'",
+    "n7": "a manipulation",
+    "n8": "many manipulations"
+}

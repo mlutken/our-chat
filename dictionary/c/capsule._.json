@@ -1,0 +1,18 @@
+{
+    "base": "capsule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "capsule",
+    "n2": "capsules",
+    "n3": "the capsule",
+    "n4": "the capsules",
+    "n5": "capsule's",
+    "n6": "capsules'",
+    "n7": "a capsule",
+    "n8": "many capsules"
+}

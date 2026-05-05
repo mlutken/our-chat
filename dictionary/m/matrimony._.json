@@ -1,0 +1,18 @@
+{
+    "base": "matrimony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "matrimony",
+    "n2": "matrimonies",
+    "n3": "the matrimony",
+    "n4": "the matrimonies",
+    "n5": "matrimony's",
+    "n6": "matrimonies'",
+    "n7": "a matrimony",
+    "n8": "many matrimonies"
+}

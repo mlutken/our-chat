@@ -7,5 +7,12 @@
     "n2": "contributions",
     "n3": "the contribution",
     "n4": "the contributions",
-    "n5": "contribution's"
+    "n5": "contribution's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "contributions'",
+    "n7": "a contribution",
+    "n8": "many contributions"
 }

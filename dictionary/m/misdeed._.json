@@ -1,0 +1,18 @@
+{
+    "base": "misdeed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "misdeed",
+    "n2": "misdeeds",
+    "n3": "the misdeed",
+    "n4": "the misdeeds",
+    "n5": "misdeed's",
+    "n6": "misdeeds'",
+    "n7": "a misdeed",
+    "n8": "many misdeeds"
+}

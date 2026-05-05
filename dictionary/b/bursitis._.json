@@ -1,0 +1,18 @@
+{
+    "base": "bursitis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bursitis",
+    "n2": "bursitises",
+    "n3": "the bursitis",
+    "n4": "the bursitises",
+    "n5": "bursitis'",
+    "n6": "bursitises'",
+    "n7": "a bursitis",
+    "n8": "many bursitises"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gamma globulin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gamma globulin",
+    "n2": "gamma globulins",
+    "n3": "the gamma globulin",
+    "n4": "the gamma globulins",
+    "n5": "gamma globulin's",
+    "n6": "gamma globulins'",
+    "n7": "a gamma globulin",
+    "n8": "many gamma globulins"
+}

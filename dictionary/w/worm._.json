@@ -1,0 +1,18 @@
+{
+    "base": "worm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "worm",
+    "n2": "worms",
+    "n3": "the worm",
+    "n4": "the worms",
+    "n5": "worm's",
+    "n6": "worms'",
+    "n7": "a worm",
+    "n8": "many worms"
+}

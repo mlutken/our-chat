@@ -1,0 +1,18 @@
+{
+    "base": "emotionalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "emotionalism",
+    "n2": "emotionalisms",
+    "n3": "the emotionalism",
+    "n4": "the emotionalisms",
+    "n5": "emotionalism's",
+    "n6": "emotionalisms'",
+    "n7": "an emotionalism",
+    "n8": "many emotionalisms"
+}

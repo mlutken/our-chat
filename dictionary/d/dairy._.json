@@ -1,0 +1,18 @@
+{
+    "base": "dairy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dairy",
+    "n2": "dairies",
+    "n3": "the dairy",
+    "n4": "the dairies",
+    "n5": "dairy's",
+    "n6": "dairies'",
+    "n7": "a dairy",
+    "n8": "many dairies"
+}

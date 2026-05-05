@@ -1,0 +1,18 @@
+{
+    "base": "apache",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "apache",
+    "n2": "apaches",
+    "n3": "the apache",
+    "n4": "the apaches",
+    "n5": "apache's",
+    "n6": "apaches'",
+    "n7": "an apache",
+    "n8": "many apaches"
+}

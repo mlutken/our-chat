@@ -1,0 +1,18 @@
+{
+    "base": "giver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "giver",
+    "n2": "givers",
+    "n3": "the giver",
+    "n4": "the givers",
+    "n5": "giver's",
+    "n6": "givers'",
+    "n7": "a giver",
+    "n8": "many givers"
+}

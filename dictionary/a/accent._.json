@@ -1,0 +1,18 @@
+{
+    "base": "accent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "accent",
+    "n2": "accents",
+    "n3": "the accent",
+    "n4": "the accents",
+    "n5": "accent's",
+    "n6": "accents'",
+    "n7": "an accent",
+    "n8": "many accents"
+}

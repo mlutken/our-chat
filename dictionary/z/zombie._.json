@@ -1,0 +1,18 @@
+{
+    "base": "zombie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zombie",
+    "n2": "zombies",
+    "n3": "the zombie",
+    "n4": "the zombies",
+    "n5": "zombie's",
+    "n6": "zombies'",
+    "n7": "a zombie",
+    "n8": "many zombies"
+}

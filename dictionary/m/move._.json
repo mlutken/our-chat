@@ -1,11 +1,24 @@
 {
     "base": "move",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "move",
     "v2": "moved",
     "v3": "moved",
     "v4": "moving",
-    "v5": "moves"
+    "v5": "moves",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "move",
+    "n2": "moves",
+    "n3": "the move",
+    "n4": "the moves",
+    "n5": "move's",
+    "n6": "moves'",
+    "n7": "a move",
+    "n8": "many moves"
 }

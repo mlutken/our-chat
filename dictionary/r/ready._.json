@@ -1,9 +1,22 @@
 {
     "base": "ready",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "ready",
     "adj2": "readier",
-    "adj3": "readiest"
+    "adj3": "readiest",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ready",
+    "n2": "readies",
+    "n3": "the ready",
+    "n4": "the readies",
+    "n5": "ready's",
+    "n6": "readies'",
+    "n7": "a ready",
+    "n8": "many readies"
 }

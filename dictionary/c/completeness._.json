@@ -1,0 +1,18 @@
+{
+    "base": "completeness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "completeness",
+    "n2": "completenesses",
+    "n3": "the completeness",
+    "n4": "the completenesses",
+    "n5": "completeness'",
+    "n6": "completenesses'",
+    "n7": "a completeness",
+    "n8": "many completenesses"
+}

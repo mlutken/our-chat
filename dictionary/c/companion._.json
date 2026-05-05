@@ -1,0 +1,18 @@
+{
+    "base": "companion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "companion",
+    "n2": "companions",
+    "n3": "the companion",
+    "n4": "the companions",
+    "n5": "companion's",
+    "n6": "companions'",
+    "n7": "a companion",
+    "n8": "many companions"
+}

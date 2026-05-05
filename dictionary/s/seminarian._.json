@@ -1,0 +1,18 @@
+{
+    "base": "seminarian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seminarian",
+    "n2": "seminarians",
+    "n3": "the seminarian",
+    "n4": "the seminarians",
+    "n5": "seminarian's",
+    "n6": "seminarians'",
+    "n7": "a seminarian",
+    "n8": "many seminarians"
+}

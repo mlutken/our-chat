@@ -1,0 +1,18 @@
+{
+    "base": "meter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "meter",
+    "n2": "meters",
+    "n3": "the meter",
+    "n4": "the meters",
+    "n5": "meter's",
+    "n6": "meters'",
+    "n7": "a meter",
+    "n8": "many meters"
+}

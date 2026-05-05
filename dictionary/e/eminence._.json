@@ -1,0 +1,18 @@
+{
+    "base": "eminence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eminence",
+    "n2": "eminences",
+    "n3": "the eminence",
+    "n4": "the eminences",
+    "n5": "eminence's",
+    "n6": "eminences'",
+    "n7": "an eminence",
+    "n8": "many eminences"
+}

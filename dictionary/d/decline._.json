@@ -1,0 +1,18 @@
+{
+    "base": "decline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "decline",
+    "n2": "declines",
+    "n3": "the decline",
+    "n4": "the declines",
+    "n5": "decline's",
+    "n6": "declines'",
+    "n7": "a decline",
+    "n8": "many declines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "transcription",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transcription",
+    "n2": "transcriptions",
+    "n3": "the transcription",
+    "n4": "the transcriptions",
+    "n5": "transcription's",
+    "n6": "transcriptions'",
+    "n7": "a transcription",
+    "n8": "many transcriptions"
+}

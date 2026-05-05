@@ -1,0 +1,18 @@
+{
+    "base": "holy spirit",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "holy spirit",
+    "n2": "holy spirits",
+    "n3": "the holy spirit",
+    "n4": "the holy spirits",
+    "n5": "holy spirit's",
+    "n6": "holy spirits'",
+    "n7": "a holy spirit",
+    "n8": "many holy spirits"
+}

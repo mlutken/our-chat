@@ -1,0 +1,18 @@
+{
+    "base": "theorist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "theorist",
+    "n2": "theorists",
+    "n3": "the theorist",
+    "n4": "the theorists",
+    "n5": "theorist's",
+    "n6": "theorists'",
+    "n7": "a theorist",
+    "n8": "many theorists"
+}

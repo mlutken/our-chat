@@ -1,0 +1,18 @@
+{
+    "base": "thyroid gland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "thyroid gland",
+    "n2": "thyroid glands",
+    "n3": "the thyroid gland",
+    "n4": "the thyroid glands",
+    "n5": "thyroid gland's",
+    "n6": "thyroid glands'",
+    "n7": "a thyroid gland",
+    "n8": "many thyroid glands"
+}

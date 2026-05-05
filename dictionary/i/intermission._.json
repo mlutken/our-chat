@@ -1,0 +1,18 @@
+{
+    "base": "intermission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intermission",
+    "n2": "intermissions",
+    "n3": "the intermission",
+    "n4": "the intermissions",
+    "n5": "intermission's",
+    "n6": "intermissions'",
+    "n7": "an intermission",
+    "n8": "many intermissions"
+}

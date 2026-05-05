@@ -1,0 +1,18 @@
+{
+    "base": "virtue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "virtue",
+    "n2": "virtues",
+    "n3": "the virtue",
+    "n4": "the virtues",
+    "n5": "virtue's",
+    "n6": "virtues'",
+    "n7": "a virtue",
+    "n8": "many virtues"
+}

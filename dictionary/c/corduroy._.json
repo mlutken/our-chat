@@ -1,0 +1,18 @@
+{
+    "base": "corduroy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corduroy",
+    "n2": "corduroys",
+    "n3": "the corduroy",
+    "n4": "the corduroys",
+    "n5": "corduroy's",
+    "n6": "corduroys'",
+    "n7": "a corduroy",
+    "n8": "many corduroys"
+}

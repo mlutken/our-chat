@@ -1,0 +1,18 @@
+{
+    "base": "curse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "curse",
+    "n2": "curses",
+    "n3": "the curse",
+    "n4": "the curses",
+    "n5": "curse's",
+    "n6": "curses'",
+    "n7": "a curse",
+    "n8": "many curses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "female",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "female",
+    "n2": "females",
+    "n3": "the female",
+    "n4": "the females",
+    "n5": "female's",
+    "n6": "females'",
+    "n7": "a female",
+    "n8": "many females"
+}

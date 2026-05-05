@@ -1,0 +1,18 @@
+{
+    "base": "fumed oak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fumed oak",
+    "n2": "fumed oaks",
+    "n3": "the fumed oak",
+    "n4": "the fumed oaks",
+    "n5": "fumed oak's",
+    "n6": "fumed oaks'",
+    "n7": "a fumed oak",
+    "n8": "many fumed oaks"
+}

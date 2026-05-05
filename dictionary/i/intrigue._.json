@@ -1,0 +1,18 @@
+{
+    "base": "intrigue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intrigue",
+    "n2": "intrigues",
+    "n3": "the intrigue",
+    "n4": "the intrigues",
+    "n5": "intrigue's",
+    "n6": "intrigues'",
+    "n7": "an intrigue",
+    "n8": "many intrigues"
+}

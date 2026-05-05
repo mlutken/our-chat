@@ -1,0 +1,18 @@
+{
+    "base": "feeding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "feeding",
+    "n2": "feedings",
+    "n3": "the feeding",
+    "n4": "the feedings",
+    "n5": "feeding's",
+    "n6": "feedings'",
+    "n7": "a feeding",
+    "n8": "many feedings"
+}

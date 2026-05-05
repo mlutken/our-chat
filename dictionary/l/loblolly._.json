@@ -1,0 +1,18 @@
+{
+    "base": "loblolly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loblolly",
+    "n2": "loblollies",
+    "n3": "the loblolly",
+    "n4": "the loblollies",
+    "n5": "loblolly's",
+    "n6": "loblollies'",
+    "n7": "a loblolly",
+    "n8": "many loblollies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "governess",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "governess",
+    "n2": "governesses",
+    "n3": "the governess",
+    "n4": "the governesses",
+    "n5": "governess'",
+    "n6": "governesses'",
+    "n7": "a governess",
+    "n8": "many governesses"
+}

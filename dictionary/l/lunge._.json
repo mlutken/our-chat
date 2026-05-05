@@ -1,0 +1,18 @@
+{
+    "base": "lunge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lunge",
+    "n2": "lunges",
+    "n3": "the lunge",
+    "n4": "the lunges",
+    "n5": "lunge's",
+    "n6": "lunges'",
+    "n7": "a lunge",
+    "n8": "many lunges"
+}

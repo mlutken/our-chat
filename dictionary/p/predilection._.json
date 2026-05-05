@@ -1,0 +1,18 @@
+{
+    "base": "predilection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "predilection",
+    "n2": "predilections",
+    "n3": "the predilection",
+    "n4": "the predilections",
+    "n5": "predilection's",
+    "n6": "predilections'",
+    "n7": "a predilection",
+    "n8": "many predilections"
+}

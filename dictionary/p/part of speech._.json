@@ -1,0 +1,18 @@
+{
+    "base": "part of speech",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "part of speech",
+    "n2": "part of speeches",
+    "n3": "the part of speech",
+    "n4": "the part of speeches",
+    "n5": "part of speech's",
+    "n6": "part of speeches'",
+    "n7": "a part of speech",
+    "n8": "many part of speeches"
+}

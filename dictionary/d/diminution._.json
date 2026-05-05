@@ -1,0 +1,18 @@
+{
+    "base": "diminution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diminution",
+    "n2": "diminutions",
+    "n3": "the diminution",
+    "n4": "the diminutions",
+    "n5": "diminution's",
+    "n6": "diminutions'",
+    "n7": "a diminution",
+    "n8": "many diminutions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "input",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "input",
+    "n2": "inputs",
+    "n3": "the input",
+    "n4": "the inputs",
+    "n5": "input's",
+    "n6": "inputs'",
+    "n7": "an input",
+    "n8": "many inputs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "obstacle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "obstacle",
+    "n2": "obstacles",
+    "n3": "the obstacle",
+    "n4": "the obstacles",
+    "n5": "obstacle's",
+    "n6": "obstacles'",
+    "n7": "an obstacle",
+    "n8": "many obstacles"
+}

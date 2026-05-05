@@ -1,0 +1,18 @@
+{
+    "base": "school year",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "school year",
+    "n2": "school years",
+    "n3": "the school year",
+    "n4": "the school years",
+    "n5": "school year's",
+    "n6": "school years'",
+    "n7": "a school year",
+    "n8": "many school years"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "marine corps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "marine corps",
+    "n2": "marine corpses",
+    "n3": "the marine corps",
+    "n4": "the marine corpses",
+    "n5": "marine corps'",
+    "n6": "marine corpses'",
+    "n7": "a marine corps",
+    "n8": "many marine corpses"
+}

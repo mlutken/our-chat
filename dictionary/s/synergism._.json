@@ -1,0 +1,18 @@
+{
+    "base": "synergism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "synergism",
+    "n2": "synergisms",
+    "n3": "the synergism",
+    "n4": "the synergisms",
+    "n5": "synergism's",
+    "n6": "synergisms'",
+    "n7": "a synergism",
+    "n8": "many synergisms"
+}

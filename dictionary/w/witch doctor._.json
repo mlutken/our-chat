@@ -1,0 +1,18 @@
+{
+    "base": "witch doctor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "witch doctor",
+    "n2": "witch doctors",
+    "n3": "the witch doctor",
+    "n4": "the witch doctors",
+    "n5": "witch doctor's",
+    "n6": "witch doctors'",
+    "n7": "a witch doctor",
+    "n8": "many witch doctors"
+}

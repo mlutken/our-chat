@@ -7,5 +7,12 @@
     "n2": "adventures",
     "n3": "the adventure",
     "n4": "the adventures",
-    "n5": "adventure's"
+    "n5": "adventure's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "adventures'",
+    "n7": "an adventure",
+    "n8": "many adventures"
 }

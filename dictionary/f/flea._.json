@@ -1,0 +1,18 @@
+{
+    "base": "flea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flea",
+    "n2": "fleas",
+    "n3": "the flea",
+    "n4": "the fleas",
+    "n5": "flea's",
+    "n6": "fleas'",
+    "n7": "a flea",
+    "n8": "many fleas"
+}

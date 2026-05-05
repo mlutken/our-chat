@@ -1,0 +1,18 @@
+{
+    "base": "direct sum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "direct sum",
+    "n2": "direct sums",
+    "n3": "the direct sum",
+    "n4": "the direct sums",
+    "n5": "direct sum's",
+    "n6": "direct sums'",
+    "n7": "a direct sum",
+    "n8": "many direct sums"
+}

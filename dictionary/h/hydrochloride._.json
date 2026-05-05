@@ -1,0 +1,18 @@
+{
+    "base": "hydrochloride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hydrochloride",
+    "n2": "hydrochlorides",
+    "n3": "the hydrochloride",
+    "n4": "the hydrochlorides",
+    "n5": "hydrochloride's",
+    "n6": "hydrochlorides'",
+    "n7": "a hydrochloride",
+    "n8": "many hydrochlorides"
+}

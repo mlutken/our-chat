@@ -1,0 +1,18 @@
+{
+    "base": "torso",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "torso",
+    "n2": "torsi",
+    "n3": "the torso",
+    "n4": "the torsi",
+    "n5": "torso's",
+    "n6": "torsi's",
+    "n7": "a torso",
+    "n8": "many torsi"
+}

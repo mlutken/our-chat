@@ -1,0 +1,18 @@
+{
+    "base": "morphophonemics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "morphophonemics",
+    "n2": "morphophonemicses",
+    "n3": "the morphophonemics",
+    "n4": "the morphophonemicses",
+    "n5": "morphophonemics'",
+    "n6": "morphophonemicses'",
+    "n7": "a morphophonemics",
+    "n8": "many morphophonemicses"
+}

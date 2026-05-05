@@ -1,0 +1,18 @@
+{
+    "base": "doggerel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "doggerel",
+    "n2": "doggerels",
+    "n3": "the doggerel",
+    "n4": "the doggerels",
+    "n5": "doggerel's",
+    "n6": "doggerels'",
+    "n7": "a doggerel",
+    "n8": "many doggerels"
+}

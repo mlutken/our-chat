@@ -1,0 +1,18 @@
+{
+    "base": "juncture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "juncture",
+    "n2": "junctures",
+    "n3": "the juncture",
+    "n4": "the junctures",
+    "n5": "juncture's",
+    "n6": "junctures'",
+    "n7": "a juncture",
+    "n8": "many junctures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "un",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "un",
+    "n2": "uns",
+    "n3": "the un",
+    "n4": "the uns",
+    "n5": "un's",
+    "n6": "uns'",
+    "n7": "an un",
+    "n8": "many uns"
+}

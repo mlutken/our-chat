@@ -1,0 +1,18 @@
+{
+    "base": "waterfront",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waterfront",
+    "n2": "waterfronts",
+    "n3": "the waterfront",
+    "n4": "the waterfronts",
+    "n5": "waterfront's",
+    "n6": "waterfronts'",
+    "n7": "a waterfront",
+    "n8": "many waterfronts"
+}

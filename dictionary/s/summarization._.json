@@ -1,0 +1,18 @@
+{
+    "base": "summarization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "summarization",
+    "n2": "summarizations",
+    "n3": "the summarization",
+    "n4": "the summarizations",
+    "n5": "summarization's",
+    "n6": "summarizations'",
+    "n7": "a summarization",
+    "n8": "many summarizations"
+}

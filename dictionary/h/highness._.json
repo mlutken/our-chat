@@ -1,0 +1,18 @@
+{
+    "base": "highness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "highness",
+    "n2": "highnesses",
+    "n3": "the highness",
+    "n4": "the highnesses",
+    "n5": "highness'",
+    "n6": "highnesses'",
+    "n7": "a highness",
+    "n8": "many highnesses"
+}

@@ -7,5 +7,12 @@
     "n2": "opinions",
     "n3": "the opinion",
     "n4": "the opinions",
-    "n5": "opinion's"
+    "n5": "opinion's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "opinions'",
+    "n7": "an opinion",
+    "n8": "many opinions"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "commercialism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commercialism",
+    "n2": "commercialisms",
+    "n3": "the commercialism",
+    "n4": "the commercialisms",
+    "n5": "commercialism's",
+    "n6": "commercialisms'",
+    "n7": "a commercialism",
+    "n8": "many commercialisms"
+}

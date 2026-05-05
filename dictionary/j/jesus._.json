@@ -1,0 +1,18 @@
+{
+    "base": "jesus",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "jesus",
+    "n2": "jesuses",
+    "n3": "the jesus",
+    "n4": "the jesuses",
+    "n5": "jesus'",
+    "n6": "jesuses'",
+    "n7": "a jesus",
+    "n8": "many jesuses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "punch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "punch",
+    "n2": "punches",
+    "n3": "the punch",
+    "n4": "the punches",
+    "n5": "punch's",
+    "n6": "punches'",
+    "n7": "a punch",
+    "n8": "many punches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "intensity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n1": "intensity",
+    "n2": "intensities",
+    "n3": "the intensity",
+    "n4": "the intensities",
+    "n5": "intensity's",
+    "n6": "intensities'",
+    "n7": "an intensity",
+    "n8": "many intensities"
+}

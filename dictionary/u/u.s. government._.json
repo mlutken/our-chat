@@ -1,0 +1,18 @@
+{
+    "base": "u.s. government",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "u.s. government",
+    "n2": "u.s. governments",
+    "n3": "the u.s. government",
+    "n4": "the u.s. governments",
+    "n5": "u.s. government's",
+    "n6": "u.s. governments'",
+    "n7": "an u.s. government",
+    "n8": "many u.s. governments"
+}

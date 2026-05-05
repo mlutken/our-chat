@@ -7,5 +7,12 @@
     "n2": "credits",
     "n3": "the credit",
     "n4": "the credits",
-    "n5": "credit's"
+    "n5": "credit's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "credits'",
+    "n7": "a credit",
+    "n8": "many credits"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "crescendo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crescendo",
+    "n2": "crescendi",
+    "n3": "the crescendo",
+    "n4": "the crescendi",
+    "n5": "crescendo's",
+    "n6": "crescendi's",
+    "n7": "a crescendo",
+    "n8": "many crescendi"
+}

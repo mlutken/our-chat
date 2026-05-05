@@ -1,11 +1,24 @@
 {
     "base": "train",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "train",
     "v2": "trained",
     "v3": "trained",
     "v4": "training",
-    "v5": "trains"
+    "v5": "trains",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "train",
+    "n2": "trains",
+    "n3": "the train",
+    "n4": "the trains",
+    "n5": "train's",
+    "n6": "trains'",
+    "n7": "a train",
+    "n8": "many trains"
 }

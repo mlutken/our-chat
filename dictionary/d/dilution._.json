@@ -1,0 +1,18 @@
+{
+    "base": "dilution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dilution",
+    "n2": "dilutions",
+    "n3": "the dilution",
+    "n4": "the dilutions",
+    "n5": "dilution's",
+    "n6": "dilutions'",
+    "n7": "a dilution",
+    "n8": "many dilutions"
+}

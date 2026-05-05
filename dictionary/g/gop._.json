@@ -1,0 +1,18 @@
+{
+    "base": "gop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gop",
+    "n2": "gops",
+    "n3": "the gop",
+    "n4": "the gops",
+    "n5": "gop's",
+    "n6": "gops'",
+    "n7": "a gop",
+    "n8": "many gops"
+}

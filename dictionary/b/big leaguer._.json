@@ -1,0 +1,18 @@
+{
+    "base": "big leaguer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "big leaguer",
+    "n2": "big leaguers",
+    "n3": "the big leaguer",
+    "n4": "the big leaguers",
+    "n5": "big leaguer's",
+    "n6": "big leaguers'",
+    "n7": "a big leaguer",
+    "n8": "many big leaguers"
+}

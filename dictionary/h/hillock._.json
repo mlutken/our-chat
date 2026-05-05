@@ -1,0 +1,18 @@
+{
+    "base": "hillock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hillock",
+    "n2": "hillocks",
+    "n3": "the hillock",
+    "n4": "the hillocks",
+    "n5": "hillock's",
+    "n6": "hillocks'",
+    "n7": "a hillock",
+    "n8": "many hillocks"
+}

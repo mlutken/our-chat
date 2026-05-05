@@ -1,0 +1,18 @@
+{
+    "base": "purchasing department",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "purchasing department",
+    "n2": "purchasing departments",
+    "n3": "the purchasing department",
+    "n4": "the purchasing departments",
+    "n5": "purchasing department's",
+    "n6": "purchasing departments'",
+    "n7": "a purchasing department",
+    "n8": "many purchasing departments"
+}

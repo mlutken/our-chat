@@ -1,0 +1,18 @@
+{
+    "base": "khmer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "khmer",
+    "n2": "khmers",
+    "n3": "the khmer",
+    "n4": "the khmers",
+    "n5": "khmer's",
+    "n6": "khmers'",
+    "n7": "a khmer",
+    "n8": "many khmers"
+}

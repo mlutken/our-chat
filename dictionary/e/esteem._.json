@@ -1,0 +1,18 @@
+{
+    "base": "esteem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "esteem",
+    "n2": "esteems",
+    "n3": "the esteem",
+    "n4": "the esteems",
+    "n5": "esteem's",
+    "n6": "esteems'",
+    "n7": "an esteem",
+    "n8": "many esteems"
+}

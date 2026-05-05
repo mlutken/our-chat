@@ -1,0 +1,18 @@
+{
+    "base": "aspirin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aspirin",
+    "n2": "aspirins",
+    "n3": "the aspirin",
+    "n4": "the aspirins",
+    "n5": "aspirin's",
+    "n6": "aspirins'",
+    "n7": "an aspirin",
+    "n8": "many aspirins"
+}

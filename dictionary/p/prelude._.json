@@ -1,0 +1,18 @@
+{
+    "base": "prelude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prelude",
+    "n2": "preludes",
+    "n3": "the prelude",
+    "n4": "the preludes",
+    "n5": "prelude's",
+    "n6": "preludes'",
+    "n7": "a prelude",
+    "n8": "many preludes"
+}

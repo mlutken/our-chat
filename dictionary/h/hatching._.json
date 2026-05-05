@@ -1,0 +1,18 @@
+{
+    "base": "hatching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hatching",
+    "n2": "hatchings",
+    "n3": "the hatching",
+    "n4": "the hatchings",
+    "n5": "hatching's",
+    "n6": "hatchings'",
+    "n7": "a hatching",
+    "n8": "many hatchings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rhetorician",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rhetorician",
+    "n2": "rhetoricians",
+    "n3": "the rhetorician",
+    "n4": "the rhetoricians",
+    "n5": "rhetorician's",
+    "n6": "rhetoricians'",
+    "n7": "a rhetorician",
+    "n8": "many rhetoricians"
+}

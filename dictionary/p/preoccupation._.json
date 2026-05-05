@@ -1,0 +1,18 @@
+{
+    "base": "preoccupation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "preoccupation",
+    "n2": "preoccupations",
+    "n3": "the preoccupation",
+    "n4": "the preoccupations",
+    "n5": "preoccupation's",
+    "n6": "preoccupations'",
+    "n7": "a preoccupation",
+    "n8": "many preoccupations"
+}

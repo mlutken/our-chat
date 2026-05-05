@@ -1,0 +1,18 @@
+{
+    "base": "test tube",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "test tube",
+    "n2": "test tubes",
+    "n3": "the test tube",
+    "n4": "the test tubes",
+    "n5": "test tube's",
+    "n6": "test tubes'",
+    "n7": "a test tube",
+    "n8": "many test tubes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "circuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "circuit",
+    "n2": "circuits",
+    "n3": "the circuit",
+    "n4": "the circuits",
+    "n5": "circuit's",
+    "n6": "circuits'",
+    "n7": "a circuit",
+    "n8": "many circuits"
+}

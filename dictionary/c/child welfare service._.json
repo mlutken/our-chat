@@ -1,0 +1,18 @@
+{
+    "base": "child welfare service",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "child welfare service",
+    "n2": "child welfare services",
+    "n3": "the child welfare service",
+    "n4": "the child welfare services",
+    "n5": "child welfare service's",
+    "n6": "child welfare services'",
+    "n7": "a child welfare service",
+    "n8": "many child welfare services"
+}

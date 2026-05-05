@@ -1,0 +1,18 @@
+{
+    "base": "eminent domain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eminent domain",
+    "n2": "eminent domains",
+    "n3": "the eminent domain",
+    "n4": "the eminent domains",
+    "n5": "eminent domain's",
+    "n6": "eminent domains'",
+    "n7": "an eminent domain",
+    "n8": "many eminent domains"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "connective tissue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "connective tissue",
+    "n2": "connective tissues",
+    "n3": "the connective tissue",
+    "n4": "the connective tissues",
+    "n5": "connective tissue's",
+    "n6": "connective tissues'",
+    "n7": "a connective tissue",
+    "n8": "many connective tissues"
+}

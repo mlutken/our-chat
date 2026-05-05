@@ -1,0 +1,18 @@
+{
+    "base": "dodge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dodge",
+    "n2": "dodges",
+    "n3": "the dodge",
+    "n4": "the dodges",
+    "n5": "dodge's",
+    "n6": "dodges'",
+    "n7": "a dodge",
+    "n8": "many dodges"
+}

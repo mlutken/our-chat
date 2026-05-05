@@ -1,0 +1,18 @@
+{
+    "base": "hemisphere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "hemisphere",
+    "n2": "hemispheres",
+    "n3": "the hemisphere",
+    "n4": "the hemispheres",
+    "n5": "hemisphere's",
+    "n6": "hemispheres'",
+    "n7": "a hemisphere",
+    "n8": "many hemispheres"
+}

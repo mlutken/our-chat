@@ -1,0 +1,18 @@
+{
+    "base": "amplifier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amplifier",
+    "n2": "amplifiers",
+    "n3": "the amplifier",
+    "n4": "the amplifiers",
+    "n5": "amplifier's",
+    "n6": "amplifiers'",
+    "n7": "an amplifier",
+    "n8": "many amplifiers"
+}

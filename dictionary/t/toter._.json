@@ -1,0 +1,18 @@
+{
+    "base": "toter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toter",
+    "n2": "toters",
+    "n3": "the toter",
+    "n4": "the toters",
+    "n5": "toter's",
+    "n6": "toters'",
+    "n7": "a toter",
+    "n8": "many toters"
+}

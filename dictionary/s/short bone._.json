@@ -1,0 +1,18 @@
+{
+    "base": "short bone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "short bone",
+    "n2": "short bones",
+    "n3": "the short bone",
+    "n4": "the short bones",
+    "n5": "short bone's",
+    "n6": "short bones'",
+    "n7": "a short bone",
+    "n8": "many short bones"
+}

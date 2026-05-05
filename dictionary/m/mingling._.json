@@ -1,0 +1,18 @@
+{
+    "base": "mingling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mingling",
+    "n2": "minglings",
+    "n3": "the mingling",
+    "n4": "the minglings",
+    "n5": "mingling's",
+    "n6": "minglings'",
+    "n7": "a mingling",
+    "n8": "many minglings"
+}

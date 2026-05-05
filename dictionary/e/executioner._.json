@@ -1,0 +1,18 @@
+{
+    "base": "executioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "executioner",
+    "n2": "executioners",
+    "n3": "the executioner",
+    "n4": "the executioners",
+    "n5": "executioner's",
+    "n6": "executioners'",
+    "n7": "an executioner",
+    "n8": "many executioners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "verb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "verb",
+    "n2": "verbs",
+    "n3": "the verb",
+    "n4": "the verbs",
+    "n5": "verb's",
+    "n6": "verbs'",
+    "n7": "a verb",
+    "n8": "many verbs"
+}

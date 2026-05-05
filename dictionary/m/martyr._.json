@@ -1,0 +1,18 @@
+{
+    "base": "martyr",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "martyr",
+    "n2": "martyrs",
+    "n3": "the martyr",
+    "n4": "the martyrs",
+    "n5": "martyr's",
+    "n6": "martyrs'",
+    "n7": "a martyr",
+    "n8": "many martyrs"
+}

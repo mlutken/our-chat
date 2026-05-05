@@ -1,0 +1,18 @@
+{
+    "base": "tapestry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tapestry",
+    "n2": "tapestries",
+    "n3": "the tapestry",
+    "n4": "the tapestries",
+    "n5": "tapestry's",
+    "n6": "tapestries'",
+    "n7": "a tapestry",
+    "n8": "many tapestries"
+}

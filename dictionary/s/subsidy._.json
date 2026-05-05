@@ -1,0 +1,18 @@
+{
+    "base": "subsidy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subsidy",
+    "n2": "subsidies",
+    "n3": "the subsidy",
+    "n4": "the subsidies",
+    "n5": "subsidy's",
+    "n6": "subsidies'",
+    "n7": "a subsidy",
+    "n8": "many subsidies"
+}

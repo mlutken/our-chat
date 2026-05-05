@@ -1,0 +1,18 @@
+{
+    "base": "pennsylvania",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "pennsylvania",
+    "n2": "pennsylvanias",
+    "n3": "the pennsylvania",
+    "n4": "the pennsylvanias",
+    "n5": "pennsylvania's",
+    "n6": "pennsylvanias'",
+    "n7": "a pennsylvania",
+    "n8": "many pennsylvanias"
+}

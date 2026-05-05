@@ -1,0 +1,18 @@
+{
+    "base": "hydroxymethyl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hydroxymethyl",
+    "n2": "hydroxymethyls",
+    "n3": "the hydroxymethyl",
+    "n4": "the hydroxymethyls",
+    "n5": "hydroxymethyl's",
+    "n6": "hydroxymethyls'",
+    "n7": "a hydroxymethyl",
+    "n8": "many hydroxymethyls"
+}

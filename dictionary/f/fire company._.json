@@ -1,0 +1,18 @@
+{
+    "base": "fire company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fire company",
+    "n2": "fire companies",
+    "n3": "the fire company",
+    "n4": "the fire companies",
+    "n5": "fire company's",
+    "n6": "fire companies'",
+    "n7": "a fire company",
+    "n8": "many fire companies"
+}

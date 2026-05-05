@@ -1,0 +1,18 @@
+{
+    "base": "snowball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "snowball",
+    "n2": "snowballs",
+    "n3": "the snowball",
+    "n4": "the snowballs",
+    "n5": "snowball's",
+    "n6": "snowballs'",
+    "n7": "a snowball",
+    "n8": "many snowballs"
+}

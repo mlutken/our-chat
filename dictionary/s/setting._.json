@@ -7,5 +7,12 @@
     "n2": "settings",
     "n3": "the setting",
     "n4": "the settings",
-    "n5": "setting's"
+    "n5": "setting's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "settings'",
+    "n7": "a setting",
+    "n8": "many settings"
 }

@@ -7,5 +7,12 @@
     "n2": "communities",
     "n3": "the community",
     "n4": "the communities",
-    "n5": "community's"
+    "n5": "community's",
+    "proper": false,
+    "commonness": 83,
+    "max_commonness": 6834,
+    "commonness_ge_count": 153,
+    "n6": "communities'",
+    "n7": "a community",
+    "n8": "many communities"
 }

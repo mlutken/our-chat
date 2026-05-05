@@ -1,0 +1,18 @@
+{
+    "base": "monsoon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "monsoon",
+    "n2": "monsoons",
+    "n3": "the monsoon",
+    "n4": "the monsoons",
+    "n5": "monsoon's",
+    "n6": "monsoons'",
+    "n7": "a monsoon",
+    "n8": "many monsoons"
+}

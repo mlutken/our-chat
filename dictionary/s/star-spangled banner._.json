@@ -1,0 +1,18 @@
+{
+    "base": "star-spangled banner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "star-spangled banner",
+    "n2": "star-spangled banners",
+    "n3": "the star-spangled banner",
+    "n4": "the star-spangled banners",
+    "n5": "star-spangled banner's",
+    "n6": "star-spangled banners'",
+    "n7": "a star-spangled banner",
+    "n8": "many star-spangled banners"
+}

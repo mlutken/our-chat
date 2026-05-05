@@ -1,0 +1,18 @@
+{
+    "base": "teakettle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "teakettle",
+    "n2": "teakettles",
+    "n3": "the teakettle",
+    "n4": "the teakettles",
+    "n5": "teakettle's",
+    "n6": "teakettles'",
+    "n7": "a teakettle",
+    "n8": "many teakettles"
+}

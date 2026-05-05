@@ -1,0 +1,18 @@
+{
+    "base": "yoke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yoke",
+    "n2": "yokes",
+    "n3": "the yoke",
+    "n4": "the yokes",
+    "n5": "yoke's",
+    "n6": "yokes'",
+    "n7": "a yoke",
+    "n8": "many yokes"
+}

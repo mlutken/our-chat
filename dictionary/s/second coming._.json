@@ -1,0 +1,18 @@
+{
+    "base": "second coming",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "second coming",
+    "n2": "second comings",
+    "n3": "the second coming",
+    "n4": "the second comings",
+    "n5": "second coming's",
+    "n6": "second comings'",
+    "n7": "a second coming",
+    "n8": "many second comings"
+}

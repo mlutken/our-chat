@@ -1,0 +1,18 @@
+{
+    "base": "macrophage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "macrophage",
+    "n2": "macrophages",
+    "n3": "the macrophage",
+    "n4": "the macrophages",
+    "n5": "macrophage's",
+    "n6": "macrophages'",
+    "n7": "a macrophage",
+    "n8": "many macrophages"
+}

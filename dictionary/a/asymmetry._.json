@@ -1,0 +1,18 @@
+{
+    "base": "asymmetry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "asymmetry",
+    "n2": "asymmetries",
+    "n3": "the asymmetry",
+    "n4": "the asymmetries",
+    "n5": "asymmetry's",
+    "n6": "asymmetries'",
+    "n7": "an asymmetry",
+    "n8": "many asymmetries"
+}

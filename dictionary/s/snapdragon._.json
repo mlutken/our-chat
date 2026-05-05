@@ -1,0 +1,18 @@
+{
+    "base": "snapdragon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snapdragon",
+    "n2": "snapdragons",
+    "n3": "the snapdragon",
+    "n4": "the snapdragons",
+    "n5": "snapdragon's",
+    "n6": "snapdragons'",
+    "n7": "a snapdragon",
+    "n8": "many snapdragons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "inference",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "inference",
+    "n2": "inferences",
+    "n3": "the inference",
+    "n4": "the inferences",
+    "n5": "inference's",
+    "n6": "inferences'",
+    "n7": "an inference",
+    "n8": "many inferences"
+}

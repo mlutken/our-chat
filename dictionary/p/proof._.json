@@ -1,0 +1,18 @@
+{
+    "base": "proof",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "proof",
+    "n2": "prooves",
+    "n3": "the proof",
+    "n4": "the prooves",
+    "n5": "proof's",
+    "n6": "prooves'",
+    "n7": "a proof",
+    "n8": "many prooves"
+}

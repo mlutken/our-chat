@@ -1,0 +1,18 @@
+{
+    "base": "wile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wile",
+    "n2": "wiles",
+    "n3": "the wile",
+    "n4": "the wiles",
+    "n5": "wile's",
+    "n6": "wiles'",
+    "n7": "a wile",
+    "n8": "many wiles"
+}

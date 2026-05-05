@@ -7,5 +7,12 @@
     "n2": "classrooms",
     "n3": "the classroom",
     "n4": "the classrooms",
-    "n5": "classroom's"
+    "n5": "classroom's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "classrooms'",
+    "n7": "a classroom",
+    "n8": "many classrooms"
 }

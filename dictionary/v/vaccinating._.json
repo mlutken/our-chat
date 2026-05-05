@@ -1,0 +1,18 @@
+{
+    "base": "vaccinating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vaccinating",
+    "n2": "vaccinatings",
+    "n3": "the vaccinating",
+    "n4": "the vaccinatings",
+    "n5": "vaccinating's",
+    "n6": "vaccinatings'",
+    "n7": "a vaccinating",
+    "n8": "many vaccinatings"
+}

@@ -7,5 +7,12 @@
     "n2": "buttons",
     "n3": "the button",
     "n4": "the buttons",
-    "n5": "button's"
+    "n5": "button's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "buttons'",
+    "n7": "a button",
+    "n8": "many buttons"
 }

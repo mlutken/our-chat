@@ -1,0 +1,18 @@
+{
+    "base": "acquaintance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "acquaintance",
+    "n2": "acquaintances",
+    "n3": "the acquaintance",
+    "n4": "the acquaintances",
+    "n5": "acquaintance's",
+    "n6": "acquaintances'",
+    "n7": "an acquaintance",
+    "n8": "many acquaintances"
+}

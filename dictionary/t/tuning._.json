@@ -1,0 +1,18 @@
+{
+    "base": "tuning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tuning",
+    "n2": "tunings",
+    "n3": "the tuning",
+    "n4": "the tunings",
+    "n5": "tuning's",
+    "n6": "tunings'",
+    "n7": "a tuning",
+    "n8": "many tunings"
+}

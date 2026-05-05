@@ -1,0 +1,18 @@
+{
+    "base": "shield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "shield",
+    "n2": "shields",
+    "n3": "the shield",
+    "n4": "the shields",
+    "n5": "shield's",
+    "n6": "shields'",
+    "n7": "a shield",
+    "n8": "many shields"
+}

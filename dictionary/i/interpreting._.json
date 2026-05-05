@@ -1,0 +1,18 @@
+{
+    "base": "interpreting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interpreting",
+    "n2": "interpretings",
+    "n3": "the interpreting",
+    "n4": "the interpretings",
+    "n5": "interpreting's",
+    "n6": "interpretings'",
+    "n7": "an interpreting",
+    "n8": "many interpretings"
+}

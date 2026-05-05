@@ -1,0 +1,18 @@
+{
+    "base": "coaching job",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coaching job",
+    "n2": "coaching jobs",
+    "n3": "the coaching job",
+    "n4": "the coaching jobs",
+    "n5": "coaching job's",
+    "n6": "coaching jobs'",
+    "n7": "a coaching job",
+    "n8": "many coaching jobs"
+}

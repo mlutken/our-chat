@@ -1,0 +1,18 @@
+{
+    "base": "family business",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "family business",
+    "n2": "family businesses",
+    "n3": "the family business",
+    "n4": "the family businesses",
+    "n5": "family business'",
+    "n6": "family businesses'",
+    "n7": "a family business",
+    "n8": "many family businesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ballast resistor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ballast resistor",
+    "n2": "ballast resistors",
+    "n3": "the ballast resistor",
+    "n4": "the ballast resistors",
+    "n5": "ballast resistor's",
+    "n6": "ballast resistors'",
+    "n7": "a ballast resistor",
+    "n8": "many ballast resistors"
+}

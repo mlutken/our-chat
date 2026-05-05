@@ -1,0 +1,18 @@
+{
+    "base": "onrush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "onrush",
+    "n2": "onrushes",
+    "n3": "the onrush",
+    "n4": "the onrushes",
+    "n5": "onrush's",
+    "n6": "onrushes'",
+    "n7": "an onrush",
+    "n8": "many onrushes"
+}

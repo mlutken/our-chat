@@ -1,0 +1,18 @@
+{
+    "base": "rookie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "rookie",
+    "n2": "rookies",
+    "n3": "the rookie",
+    "n4": "the rookies",
+    "n5": "rookie's",
+    "n6": "rookies'",
+    "n7": "a rookie",
+    "n8": "many rookies"
+}

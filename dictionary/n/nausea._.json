@@ -1,0 +1,18 @@
+{
+    "base": "nausea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nausea",
+    "n2": "nauseas",
+    "n3": "the nausea",
+    "n4": "the nauseas",
+    "n5": "nausea's",
+    "n6": "nauseas'",
+    "n7": "a nausea",
+    "n8": "many nauseas"
+}

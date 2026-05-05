@@ -1,0 +1,18 @@
+{
+    "base": "stepping stone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stepping stone",
+    "n2": "stepping stones",
+    "n3": "the stepping stone",
+    "n4": "the stepping stones",
+    "n5": "stepping stone's",
+    "n6": "stepping stones'",
+    "n7": "a stepping stone",
+    "n8": "many stepping stones"
+}

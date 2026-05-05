@@ -1,0 +1,18 @@
+{
+    "base": "enormity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enormity",
+    "n2": "enormities",
+    "n3": "the enormity",
+    "n4": "the enormities",
+    "n5": "enormity's",
+    "n6": "enormities'",
+    "n7": "an enormity",
+    "n8": "many enormities"
+}

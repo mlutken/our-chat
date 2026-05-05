@@ -1,0 +1,18 @@
+{
+    "base": "northeast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "northeast",
+    "n2": "northeasts",
+    "n3": "the northeast",
+    "n4": "the northeasts",
+    "n5": "northeast's",
+    "n6": "northeasts'",
+    "n7": "a northeast",
+    "n8": "many northeasts"
+}

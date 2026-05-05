@@ -1,0 +1,18 @@
+{
+    "base": "poland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "poland",
+    "n2": "polands",
+    "n3": "the poland",
+    "n4": "the polands",
+    "n5": "poland's",
+    "n6": "polands'",
+    "n7": "a poland",
+    "n8": "many polands"
+}

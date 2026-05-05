@@ -1,0 +1,18 @@
+{
+    "base": "sequestration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sequestration",
+    "n2": "sequestrations",
+    "n3": "the sequestration",
+    "n4": "the sequestrations",
+    "n5": "sequestration's",
+    "n6": "sequestrations'",
+    "n7": "a sequestration",
+    "n8": "many sequestrations"
+}

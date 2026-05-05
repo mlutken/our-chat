@@ -1,0 +1,18 @@
+{
+    "base": "ado",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ado",
+    "n2": "ados",
+    "n3": "the ado",
+    "n4": "the ados",
+    "n5": "ado's",
+    "n6": "ados'",
+    "n7": "an ado",
+    "n8": "many ados"
+}

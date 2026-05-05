@@ -1,0 +1,18 @@
+{
+    "base": "undoing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "undoing",
+    "n2": "undoings",
+    "n3": "the undoing",
+    "n4": "the undoings",
+    "n5": "undoing's",
+    "n6": "undoings'",
+    "n7": "an undoing",
+    "n8": "many undoings"
+}

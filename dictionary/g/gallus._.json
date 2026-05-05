@@ -1,0 +1,18 @@
+{
+    "base": "gallus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gallus",
+    "n2": "galluses",
+    "n3": "the gallus",
+    "n4": "the galluses",
+    "n5": "gallus'",
+    "n6": "galluses'",
+    "n7": "a gallus",
+    "n8": "many galluses"
+}

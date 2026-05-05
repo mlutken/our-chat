@@ -1,0 +1,18 @@
+{
+    "base": "plainclothesman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plainclothesman",
+    "n2": "plainclothesmen",
+    "n3": "the plainclothesman",
+    "n4": "the plainclothesmen",
+    "n5": "plainclothesman's",
+    "n6": "plainclothesmen's",
+    "n7": "a plainclothesman",
+    "n8": "many plainclothesmen"
+}

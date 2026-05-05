@@ -1,0 +1,18 @@
+{
+    "base": "urban center",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "urban center",
+    "n2": "urban centers",
+    "n3": "the urban center",
+    "n4": "the urban centers",
+    "n5": "urban center's",
+    "n6": "urban centers'",
+    "n7": "an urban center",
+    "n8": "many urban centers"
+}

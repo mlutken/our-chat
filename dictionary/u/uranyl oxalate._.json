@@ -1,0 +1,18 @@
+{
+    "base": "uranyl oxalate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "uranyl oxalate",
+    "n2": "uranyl oxalates",
+    "n3": "the uranyl oxalate",
+    "n4": "the uranyl oxalates",
+    "n5": "uranyl oxalate's",
+    "n6": "uranyl oxalates'",
+    "n7": "an uranyl oxalate",
+    "n8": "many uranyl oxalates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "negative charge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "negative charge",
+    "n2": "negative charges",
+    "n3": "the negative charge",
+    "n4": "the negative charges",
+    "n5": "negative charge's",
+    "n6": "negative charges'",
+    "n7": "a negative charge",
+    "n8": "many negative charges"
+}

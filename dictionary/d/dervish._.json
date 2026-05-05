@@ -1,0 +1,18 @@
+{
+    "base": "dervish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dervish",
+    "n2": "dervishes",
+    "n3": "the dervish",
+    "n4": "the dervishes",
+    "n5": "dervish's",
+    "n6": "dervishes'",
+    "n7": "a dervish",
+    "n8": "many dervishes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pinball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pinball",
+    "n2": "pinballs",
+    "n3": "the pinball",
+    "n4": "the pinballs",
+    "n5": "pinball's",
+    "n6": "pinballs'",
+    "n7": "a pinball",
+    "n8": "many pinballs"
+}

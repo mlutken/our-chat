@@ -1,0 +1,18 @@
+{
+    "base": "fledgling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fledgling",
+    "n2": "fledglings",
+    "n3": "the fledgling",
+    "n4": "the fledglings",
+    "n5": "fledgling's",
+    "n6": "fledglings'",
+    "n7": "a fledgling",
+    "n8": "many fledglings"
+}

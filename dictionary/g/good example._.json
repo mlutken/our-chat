@@ -1,0 +1,18 @@
+{
+    "base": "good example",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "good example",
+    "n2": "good examples",
+    "n3": "the good example",
+    "n4": "the good examples",
+    "n5": "good example's",
+    "n6": "good examples'",
+    "n7": "a good example",
+    "n8": "many good examples"
+}

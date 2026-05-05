@@ -1,0 +1,18 @@
+{
+    "base": "neurosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "neurosis",
+    "n2": "neuroses",
+    "n3": "the neurosis",
+    "n4": "the neuroses",
+    "n5": "neurosis'",
+    "n6": "neuroses'",
+    "n7": "a neurosis",
+    "n8": "many neuroses"
+}

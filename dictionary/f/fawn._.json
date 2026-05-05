@@ -1,0 +1,18 @@
+{
+    "base": "fawn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fawn",
+    "n2": "fawns",
+    "n3": "the fawn",
+    "n4": "the fawns",
+    "n5": "fawn's",
+    "n6": "fawns'",
+    "n7": "a fawn",
+    "n8": "many fawns"
+}

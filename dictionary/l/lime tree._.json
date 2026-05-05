@@ -1,0 +1,18 @@
+{
+    "base": "lime tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lime tree",
+    "n2": "lime trees",
+    "n3": "the lime tree",
+    "n4": "the lime trees",
+    "n5": "lime tree's",
+    "n6": "lime trees'",
+    "n7": "a lime tree",
+    "n8": "many lime trees"
+}

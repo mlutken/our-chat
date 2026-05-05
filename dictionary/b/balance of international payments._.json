@@ -1,0 +1,18 @@
+{
+    "base": "balance of international payments",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balance of international payments",
+    "n2": "balance of international paymentses",
+    "n3": "the balance of international payments",
+    "n4": "the balance of international paymentses",
+    "n5": "balance of international payments'",
+    "n6": "balance of international paymentses'",
+    "n7": "a balance of international payments",
+    "n8": "many balance of international paymentses"
+}

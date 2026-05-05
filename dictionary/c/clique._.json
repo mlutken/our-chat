@@ -1,0 +1,18 @@
+{
+    "base": "clique",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clique",
+    "n2": "cliques",
+    "n3": "the clique",
+    "n4": "the cliques",
+    "n5": "clique's",
+    "n6": "cliques'",
+    "n7": "a clique",
+    "n8": "many cliques"
+}

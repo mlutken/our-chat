@@ -1,0 +1,18 @@
+{
+    "base": "public transit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "public transit",
+    "n2": "public transits",
+    "n3": "the public transit",
+    "n4": "the public transits",
+    "n5": "public transit's",
+    "n6": "public transits'",
+    "n7": "a public transit",
+    "n8": "many public transits"
+}

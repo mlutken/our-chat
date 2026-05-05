@@ -1,0 +1,18 @@
+{
+    "base": "sex act",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sex act",
+    "n2": "sex acts",
+    "n3": "the sex act",
+    "n4": "the sex acts",
+    "n5": "sex act's",
+    "n6": "sex acts'",
+    "n7": "a sex act",
+    "n8": "many sex acts"
+}

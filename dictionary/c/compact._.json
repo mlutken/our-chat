@@ -1,0 +1,18 @@
+{
+    "base": "compact",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "compact",
+    "n2": "compacts",
+    "n3": "the compact",
+    "n4": "the compacts",
+    "n5": "compact's",
+    "n6": "compacts'",
+    "n7": "a compact",
+    "n8": "many compacts"
+}

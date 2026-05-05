@@ -1,0 +1,18 @@
+{
+    "base": "dancing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dancing",
+    "n2": "dancings",
+    "n3": "the dancing",
+    "n4": "the dancings",
+    "n5": "dancing's",
+    "n6": "dancings'",
+    "n7": "a dancing",
+    "n8": "many dancings"
+}

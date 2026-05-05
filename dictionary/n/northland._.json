@@ -1,0 +1,18 @@
+{
+    "base": "northland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "northland",
+    "n2": "northlands",
+    "n3": "the northland",
+    "n4": "the northlands",
+    "n5": "northland's",
+    "n6": "northlands'",
+    "n7": "a northland",
+    "n8": "many northlands"
+}

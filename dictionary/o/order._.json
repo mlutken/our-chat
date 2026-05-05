@@ -13,5 +13,12 @@
     "v2": "ordered",
     "v3": "ordered",
     "v4": "ordering",
-    "v5": "orders"
+    "v5": "orders",
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n6": "orders'",
+    "n7": "an order",
+    "n8": "many orders"
 }

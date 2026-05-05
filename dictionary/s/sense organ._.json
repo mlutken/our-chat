@@ -1,0 +1,18 @@
+{
+    "base": "sense organ",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sense organ",
+    "n2": "sense organs",
+    "n3": "the sense organ",
+    "n4": "the sense organs",
+    "n5": "sense organ's",
+    "n6": "sense organs'",
+    "n7": "a sense organ",
+    "n8": "many sense organs"
+}

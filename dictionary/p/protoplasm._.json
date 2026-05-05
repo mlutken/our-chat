@@ -1,0 +1,18 @@
+{
+    "base": "protoplasm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "protoplasm",
+    "n2": "protoplasms",
+    "n3": "the protoplasm",
+    "n4": "the protoplasms",
+    "n5": "protoplasm's",
+    "n6": "protoplasms'",
+    "n7": "a protoplasm",
+    "n8": "many protoplasms"
+}

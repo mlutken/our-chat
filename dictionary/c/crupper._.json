@@ -1,0 +1,18 @@
+{
+    "base": "crupper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crupper",
+    "n2": "cruppers",
+    "n3": "the crupper",
+    "n4": "the cruppers",
+    "n5": "crupper's",
+    "n6": "cruppers'",
+    "n7": "a crupper",
+    "n8": "many cruppers"
+}

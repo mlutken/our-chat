@@ -1,0 +1,18 @@
+{
+    "base": "annihilation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "annihilation",
+    "n2": "annihilations",
+    "n3": "the annihilation",
+    "n4": "the annihilations",
+    "n5": "annihilation's",
+    "n6": "annihilations'",
+    "n7": "an annihilation",
+    "n8": "many annihilations"
+}

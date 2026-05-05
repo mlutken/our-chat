@@ -1,0 +1,18 @@
+{
+    "base": "accentual system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "accentual system",
+    "n2": "accentual systems",
+    "n3": "the accentual system",
+    "n4": "the accentual systems",
+    "n5": "accentual system's",
+    "n6": "accentual systems'",
+    "n7": "an accentual system",
+    "n8": "many accentual systems"
+}

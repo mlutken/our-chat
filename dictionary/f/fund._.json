@@ -7,5 +7,12 @@
     "n2": "funds",
     "n3": "the fund",
     "n4": "the funds",
-    "n5": "fund's"
+    "n5": "fund's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "funds'",
+    "n7": "a fund",
+    "n8": "many funds"
 }

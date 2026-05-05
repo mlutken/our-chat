@@ -1,0 +1,18 @@
+{
+    "base": "work in progress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "work in progress",
+    "n2": "work in progresses",
+    "n3": "the work in progress",
+    "n4": "the work in progresses",
+    "n5": "work in progress'",
+    "n6": "work in progresses'",
+    "n7": "a work in progress",
+    "n8": "many work in progresses"
+}

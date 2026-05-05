@@ -1,0 +1,18 @@
+{
+    "base": "station house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "station house",
+    "n2": "station houses",
+    "n3": "the station house",
+    "n4": "the station houses",
+    "n5": "station house's",
+    "n6": "station houses'",
+    "n7": "a station house",
+    "n8": "many station houses"
+}

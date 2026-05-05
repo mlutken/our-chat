@@ -1,0 +1,18 @@
+{
+    "base": "loveliness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "loveliness",
+    "n2": "lovelinesses",
+    "n3": "the loveliness",
+    "n4": "the lovelinesses",
+    "n5": "loveliness'",
+    "n6": "lovelinesses'",
+    "n7": "a loveliness",
+    "n8": "many lovelinesses"
+}

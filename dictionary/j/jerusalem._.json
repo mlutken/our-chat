@@ -1,0 +1,18 @@
+{
+    "base": "jerusalem",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "jerusalem",
+    "n2": "jerusalems",
+    "n3": "the jerusalem",
+    "n4": "the jerusalems",
+    "n5": "jerusalem's",
+    "n6": "jerusalems'",
+    "n7": "a jerusalem",
+    "n8": "many jerusalems"
+}

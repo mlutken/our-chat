@@ -1,0 +1,18 @@
+{
+    "base": "positive feedback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "positive feedback",
+    "n2": "positive feedbacks",
+    "n3": "the positive feedback",
+    "n4": "the positive feedbacks",
+    "n5": "positive feedback's",
+    "n6": "positive feedbacks'",
+    "n7": "a positive feedback",
+    "n8": "many positive feedbacks"
+}

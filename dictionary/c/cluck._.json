@@ -1,0 +1,18 @@
+{
+    "base": "cluck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cluck",
+    "n2": "clucks",
+    "n3": "the cluck",
+    "n4": "the clucks",
+    "n5": "cluck's",
+    "n6": "clucks'",
+    "n7": "a cluck",
+    "n8": "many clucks"
+}

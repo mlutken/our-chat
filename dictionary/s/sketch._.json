@@ -1,11 +1,24 @@
 {
     "base": "sketch",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "sketch",
     "v2": "sketched",
     "v3": "sketched",
     "v4": "sketching",
-    "v5": "sketches"
+    "v5": "sketches",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "sketch",
+    "n2": "sketches",
+    "n3": "the sketch",
+    "n4": "the sketches",
+    "n5": "sketch's",
+    "n6": "sketches'",
+    "n7": "a sketch",
+    "n8": "many sketches"
 }

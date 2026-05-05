@@ -1,9 +1,22 @@
 {
     "base": "fancy",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "fancy",
     "adj2": "fancier",
-    "adj3": "fanciest"
+    "adj3": "fanciest",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fancy",
+    "n2": "fancies",
+    "n3": "the fancy",
+    "n4": "the fancies",
+    "n5": "fancy's",
+    "n6": "fancies'",
+    "n7": "a fancy",
+    "n8": "many fancies"
 }

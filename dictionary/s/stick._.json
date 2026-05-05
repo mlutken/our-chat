@@ -1,0 +1,18 @@
+{
+    "base": "stick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "stick",
+    "n2": "sticks",
+    "n3": "the stick",
+    "n4": "the sticks",
+    "n5": "stick's",
+    "n6": "sticks'",
+    "n7": "a stick",
+    "n8": "many sticks"
+}

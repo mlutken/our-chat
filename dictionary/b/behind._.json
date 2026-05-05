@@ -1,9 +1,22 @@
 {
     "base": "behind",
     "classes": [
+        "n",
         "adv",
         "pre"
     ],
     "f0": "behind",
-    "adv_subtype": "place"
+    "adv_subtype": "place",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "behind",
+    "n2": "behinds",
+    "n3": "the behind",
+    "n4": "the behinds",
+    "n5": "behind's",
+    "n6": "behinds'",
+    "n7": "a behind",
+    "n8": "many behinds"
 }

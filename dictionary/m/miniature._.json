@@ -1,0 +1,18 @@
+{
+    "base": "miniature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "miniature",
+    "n2": "miniatures",
+    "n3": "the miniature",
+    "n4": "the miniatures",
+    "n5": "miniature's",
+    "n6": "miniatures'",
+    "n7": "a miniature",
+    "n8": "many miniatures"
+}

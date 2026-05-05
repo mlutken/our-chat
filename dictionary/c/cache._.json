@@ -1,0 +1,18 @@
+{
+    "base": "cache",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cache",
+    "n2": "caches",
+    "n3": "the cache",
+    "n4": "the caches",
+    "n5": "cache's",
+    "n6": "caches'",
+    "n7": "a cache",
+    "n8": "many caches"
+}

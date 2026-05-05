@@ -1,0 +1,18 @@
+{
+    "base": "supernaturalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "supernaturalism",
+    "n2": "supernaturalisms",
+    "n3": "the supernaturalism",
+    "n4": "the supernaturalisms",
+    "n5": "supernaturalism's",
+    "n6": "supernaturalisms'",
+    "n7": "a supernaturalism",
+    "n8": "many supernaturalisms"
+}

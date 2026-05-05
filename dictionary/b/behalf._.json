@@ -1,0 +1,18 @@
+{
+    "base": "behalf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "behalf",
+    "n2": "behalves",
+    "n3": "the behalf",
+    "n4": "the behalves",
+    "n5": "behalf's",
+    "n6": "behalves'",
+    "n7": "a behalf",
+    "n8": "many behalves"
+}

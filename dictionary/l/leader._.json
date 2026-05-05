@@ -7,5 +7,12 @@
     "n2": "leaders",
     "n3": "the leader",
     "n4": "the leaders",
-    "n5": "leader's"
+    "n5": "leader's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "leaders'",
+    "n7": "a leader",
+    "n8": "many leaders"
 }

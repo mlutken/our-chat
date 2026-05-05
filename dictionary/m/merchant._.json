@@ -1,0 +1,18 @@
+{
+    "base": "merchant",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "merchant",
+    "n2": "merchants",
+    "n3": "the merchant",
+    "n4": "the merchants",
+    "n5": "merchant's",
+    "n6": "merchants'",
+    "n7": "a merchant",
+    "n8": "many merchants"
+}

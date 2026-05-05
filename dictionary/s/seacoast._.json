@@ -1,0 +1,18 @@
+{
+    "base": "seacoast",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seacoast",
+    "n2": "seacoasts",
+    "n3": "the seacoast",
+    "n4": "the seacoasts",
+    "n5": "seacoast's",
+    "n6": "seacoasts'",
+    "n7": "a seacoast",
+    "n8": "many seacoasts"
+}

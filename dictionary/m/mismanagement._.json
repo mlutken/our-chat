@@ -1,0 +1,18 @@
+{
+    "base": "mismanagement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mismanagement",
+    "n2": "mismanagements",
+    "n3": "the mismanagement",
+    "n4": "the mismanagements",
+    "n5": "mismanagement's",
+    "n6": "mismanagements'",
+    "n7": "a mismanagement",
+    "n8": "many mismanagements"
+}

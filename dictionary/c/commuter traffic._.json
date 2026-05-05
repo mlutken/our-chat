@@ -1,0 +1,18 @@
+{
+    "base": "commuter traffic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "commuter traffic",
+    "n2": "commuter traffics",
+    "n3": "the commuter traffic",
+    "n4": "the commuter traffics",
+    "n5": "commuter traffic's",
+    "n6": "commuter traffics'",
+    "n7": "a commuter traffic",
+    "n8": "many commuter traffics"
+}

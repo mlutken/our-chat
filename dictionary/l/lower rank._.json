@@ -1,0 +1,18 @@
+{
+    "base": "lower rank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lower rank",
+    "n2": "lower ranks",
+    "n3": "the lower rank",
+    "n4": "the lower ranks",
+    "n5": "lower rank's",
+    "n6": "lower ranks'",
+    "n7": "a lower rank",
+    "n8": "many lower ranks"
+}

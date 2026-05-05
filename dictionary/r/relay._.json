@@ -1,0 +1,18 @@
+{
+    "base": "relay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "relay",
+    "n2": "relays",
+    "n3": "the relay",
+    "n4": "the relays",
+    "n5": "relay's",
+    "n6": "relays'",
+    "n7": "a relay",
+    "n8": "many relays"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "law degree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "law degree",
+    "n2": "law degrees",
+    "n3": "the law degree",
+    "n4": "the law degrees",
+    "n5": "law degree's",
+    "n6": "law degrees'",
+    "n7": "a law degree",
+    "n8": "many law degrees"
+}

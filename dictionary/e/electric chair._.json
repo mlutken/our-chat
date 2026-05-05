@@ -1,0 +1,18 @@
+{
+    "base": "electric chair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electric chair",
+    "n2": "electric chairs",
+    "n3": "the electric chair",
+    "n4": "the electric chairs",
+    "n5": "electric chair's",
+    "n6": "electric chairs'",
+    "n7": "an electric chair",
+    "n8": "many electric chairs"
+}

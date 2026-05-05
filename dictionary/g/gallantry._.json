@@ -1,0 +1,18 @@
+{
+    "base": "gallantry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gallantry",
+    "n2": "gallantries",
+    "n3": "the gallantry",
+    "n4": "the gallantries",
+    "n5": "gallantry's",
+    "n6": "gallantries'",
+    "n7": "a gallantry",
+    "n8": "many gallantries"
+}

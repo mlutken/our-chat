@@ -1,0 +1,18 @@
+{
+    "base": "constituent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "constituent",
+    "n2": "constituents",
+    "n3": "the constituent",
+    "n4": "the constituents",
+    "n5": "constituent's",
+    "n6": "constituents'",
+    "n7": "a constituent",
+    "n8": "many constituents"
+}

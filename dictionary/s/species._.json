@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "species",
-    "n2": "species",
+    "n2": "specieses",
     "n3": "the species",
-    "n4": "the species",
-    "n5": "species's"
+    "n4": "the specieses",
+    "n5": "species'",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "specieses'",
+    "n7": "a species",
+    "n8": "many specieses"
 }

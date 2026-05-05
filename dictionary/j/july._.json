@@ -1,0 +1,18 @@
+{
+    "base": "july",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "july",
+    "n2": "julies",
+    "n3": "the july",
+    "n4": "the julies",
+    "n5": "july's",
+    "n6": "julies'",
+    "n7": "a july",
+    "n8": "many julies"
+}

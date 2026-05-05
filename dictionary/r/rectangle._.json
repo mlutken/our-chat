@@ -1,0 +1,18 @@
+{
+    "base": "rectangle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rectangle",
+    "n2": "rectangles",
+    "n3": "the rectangle",
+    "n4": "the rectangles",
+    "n5": "rectangle's",
+    "n6": "rectangles'",
+    "n7": "a rectangle",
+    "n8": "many rectangles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "operations",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "operations",
+    "n2": "operationses",
+    "n3": "the operations",
+    "n4": "the operationses",
+    "n5": "operations'",
+    "n6": "operationses'",
+    "n7": "an operations",
+    "n8": "many operationses"
+}

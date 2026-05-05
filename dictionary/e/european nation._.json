@@ -1,0 +1,18 @@
+{
+    "base": "european nation",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "european nation",
+    "n2": "european nations",
+    "n3": "the european nation",
+    "n4": "the european nations",
+    "n5": "european nation's",
+    "n6": "european nations'",
+    "n7": "a european nation",
+    "n8": "many european nations"
+}

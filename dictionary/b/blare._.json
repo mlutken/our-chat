@@ -1,0 +1,18 @@
+{
+    "base": "blare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blare",
+    "n2": "blares",
+    "n3": "the blare",
+    "n4": "the blares",
+    "n5": "blare's",
+    "n6": "blares'",
+    "n7": "a blare",
+    "n8": "many blares"
+}

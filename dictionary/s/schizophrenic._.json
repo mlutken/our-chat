@@ -1,0 +1,18 @@
+{
+    "base": "schizophrenic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "schizophrenic",
+    "n2": "schizophrenics",
+    "n3": "the schizophrenic",
+    "n4": "the schizophrenics",
+    "n5": "schizophrenic's",
+    "n6": "schizophrenics'",
+    "n7": "a schizophrenic",
+    "n8": "many schizophrenics"
+}

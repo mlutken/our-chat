@@ -1,0 +1,18 @@
+{
+    "base": "path",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "path",
+    "n2": "paths",
+    "n3": "the path",
+    "n4": "the paths",
+    "n5": "path's",
+    "n6": "paths'",
+    "n7": "a path",
+    "n8": "many paths"
+}

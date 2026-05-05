@@ -1,0 +1,18 @@
+{
+    "base": "perfectionism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perfectionism",
+    "n2": "perfectionisms",
+    "n3": "the perfectionism",
+    "n4": "the perfectionisms",
+    "n5": "perfectionism's",
+    "n6": "perfectionisms'",
+    "n7": "a perfectionism",
+    "n8": "many perfectionisms"
+}

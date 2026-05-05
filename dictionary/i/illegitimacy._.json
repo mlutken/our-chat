@@ -1,0 +1,18 @@
+{
+    "base": "illegitimacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "illegitimacy",
+    "n2": "illegitimacies",
+    "n3": "the illegitimacy",
+    "n4": "the illegitimacies",
+    "n5": "illegitimacy's",
+    "n6": "illegitimacies'",
+    "n7": "an illegitimacy",
+    "n8": "many illegitimacies"
+}

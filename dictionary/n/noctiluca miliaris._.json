@@ -1,0 +1,18 @@
+{
+    "base": "noctiluca miliaris",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "noctiluca miliaris",
+    "n2": "noctiluca miliarises",
+    "n3": "the noctiluca miliaris",
+    "n4": "the noctiluca miliarises",
+    "n5": "noctiluca miliaris'",
+    "n6": "noctiluca miliarises'",
+    "n7": "a noctiluca miliaris",
+    "n8": "many noctiluca miliarises"
+}

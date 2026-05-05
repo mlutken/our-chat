@@ -13,5 +13,12 @@
     "v2": "phoned",
     "v3": "phoned",
     "v4": "phoning",
-    "v5": "phones"
+    "v5": "phones",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "phones'",
+    "n7": "a phone",
+    "n8": "many phones"
 }

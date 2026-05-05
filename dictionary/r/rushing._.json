@@ -1,0 +1,18 @@
+{
+    "base": "rushing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rushing",
+    "n2": "rushings",
+    "n3": "the rushing",
+    "n4": "the rushings",
+    "n5": "rushing's",
+    "n6": "rushings'",
+    "n7": "a rushing",
+    "n8": "many rushings"
+}

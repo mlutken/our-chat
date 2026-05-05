@@ -1,0 +1,18 @@
+{
+    "base": "larkspur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "larkspur",
+    "n2": "larkspurs",
+    "n3": "the larkspur",
+    "n4": "the larkspurs",
+    "n5": "larkspur's",
+    "n6": "larkspurs'",
+    "n7": "a larkspur",
+    "n8": "many larkspurs"
+}

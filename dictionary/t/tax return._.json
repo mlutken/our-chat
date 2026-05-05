@@ -1,0 +1,18 @@
+{
+    "base": "tax return",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tax return",
+    "n2": "tax returns",
+    "n3": "the tax return",
+    "n4": "the tax returns",
+    "n5": "tax return's",
+    "n6": "tax returns'",
+    "n7": "a tax return",
+    "n8": "many tax returns"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "trapping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trapping",
+    "n2": "trappings",
+    "n3": "the trapping",
+    "n4": "the trappings",
+    "n5": "trapping's",
+    "n6": "trappings'",
+    "n7": "a trapping",
+    "n8": "many trappings"
+}

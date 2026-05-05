@@ -1,0 +1,18 @@
+{
+    "base": "inception",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inception",
+    "n2": "inceptions",
+    "n3": "the inception",
+    "n4": "the inceptions",
+    "n5": "inception's",
+    "n6": "inceptions'",
+    "n7": "an inception",
+    "n8": "many inceptions"
+}

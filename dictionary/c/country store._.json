@@ -1,0 +1,18 @@
+{
+    "base": "country store",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "country store",
+    "n2": "country stores",
+    "n3": "the country store",
+    "n4": "the country stores",
+    "n5": "country store's",
+    "n6": "country stores'",
+    "n7": "a country store",
+    "n8": "many country stores"
+}

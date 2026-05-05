@@ -1,0 +1,18 @@
+{
+    "base": "first aid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "first aid",
+    "n2": "first aids",
+    "n3": "the first aid",
+    "n4": "the first aids",
+    "n5": "first aid's",
+    "n6": "first aids'",
+    "n7": "a first aid",
+    "n8": "many first aids"
+}

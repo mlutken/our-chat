@@ -1,0 +1,18 @@
+{
+    "base": "poster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "poster",
+    "n2": "posters",
+    "n3": "the poster",
+    "n4": "the posters",
+    "n5": "poster's",
+    "n6": "posters'",
+    "n7": "a poster",
+    "n8": "many posters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "camper trailer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "camper trailer",
+    "n2": "camper trailers",
+    "n3": "the camper trailer",
+    "n4": "the camper trailers",
+    "n5": "camper trailer's",
+    "n6": "camper trailers'",
+    "n7": "a camper trailer",
+    "n8": "many camper trailers"
+}

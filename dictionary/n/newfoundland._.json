@@ -1,0 +1,18 @@
+{
+    "base": "newfoundland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "newfoundland",
+    "n2": "newfoundlands",
+    "n3": "the newfoundland",
+    "n4": "the newfoundlands",
+    "n5": "newfoundland's",
+    "n6": "newfoundlands'",
+    "n7": "a newfoundland",
+    "n8": "many newfoundlands"
+}

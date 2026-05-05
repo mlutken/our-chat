@@ -7,5 +7,12 @@
     "n2": "periods",
     "n3": "the period",
     "n4": "the periods",
-    "n5": "period's"
+    "n5": "period's",
+    "proper": false,
+    "commonness": 96,
+    "max_commonness": 6834,
+    "commonness_ge_count": 128,
+    "n6": "periods'",
+    "n7": "a period",
+    "n8": "many periods"
 }

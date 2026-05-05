@@ -1,0 +1,18 @@
+{
+    "base": "oxford",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oxford",
+    "n2": "oxfords",
+    "n3": "the oxford",
+    "n4": "the oxfords",
+    "n5": "oxford's",
+    "n6": "oxfords'",
+    "n7": "an oxford",
+    "n8": "many oxfords"
+}

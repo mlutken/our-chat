@@ -1,0 +1,18 @@
+{
+    "base": "abjection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abjection",
+    "n2": "abjections",
+    "n3": "the abjection",
+    "n4": "the abjections",
+    "n5": "abjection's",
+    "n6": "abjections'",
+    "n7": "an abjection",
+    "n8": "many abjections"
+}

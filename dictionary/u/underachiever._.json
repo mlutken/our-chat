@@ -1,0 +1,18 @@
+{
+    "base": "underachiever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "underachiever",
+    "n2": "underachievers",
+    "n3": "the underachiever",
+    "n4": "the underachievers",
+    "n5": "underachiever's",
+    "n6": "underachievers'",
+    "n7": "an underachiever",
+    "n8": "many underachievers"
+}

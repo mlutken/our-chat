@@ -1,0 +1,18 @@
+{
+    "base": "bunkmate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bunkmate",
+    "n2": "bunkmates",
+    "n3": "the bunkmate",
+    "n4": "the bunkmates",
+    "n5": "bunkmate's",
+    "n6": "bunkmates'",
+    "n7": "a bunkmate",
+    "n8": "many bunkmates"
+}

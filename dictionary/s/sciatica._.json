@@ -1,0 +1,18 @@
+{
+    "base": "sciatica",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sciatica",
+    "n2": "sciaticas",
+    "n3": "the sciatica",
+    "n4": "the sciaticas",
+    "n5": "sciatica's",
+    "n6": "sciaticas'",
+    "n7": "a sciatica",
+    "n8": "many sciaticas"
+}

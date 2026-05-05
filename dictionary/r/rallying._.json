@@ -1,0 +1,18 @@
+{
+    "base": "rallying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rallying",
+    "n2": "rallyings",
+    "n3": "the rallying",
+    "n4": "the rallyings",
+    "n5": "rallying's",
+    "n6": "rallyings'",
+    "n7": "a rallying",
+    "n8": "many rallyings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "foreboding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foreboding",
+    "n2": "forebodings",
+    "n3": "the foreboding",
+    "n4": "the forebodings",
+    "n5": "foreboding's",
+    "n6": "forebodings'",
+    "n7": "a foreboding",
+    "n8": "many forebodings"
+}

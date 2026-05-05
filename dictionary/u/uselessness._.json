@@ -1,0 +1,18 @@
+{
+    "base": "uselessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "uselessness",
+    "n2": "uselessnesses",
+    "n3": "the uselessness",
+    "n4": "the uselessnesses",
+    "n5": "uselessness'",
+    "n6": "uselessnesses'",
+    "n7": "a uselessness",
+    "n8": "many uselessnesses"
+}

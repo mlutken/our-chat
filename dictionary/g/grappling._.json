@@ -1,0 +1,18 @@
+{
+    "base": "grappling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grappling",
+    "n2": "grapplings",
+    "n3": "the grappling",
+    "n4": "the grapplings",
+    "n5": "grappling's",
+    "n6": "grapplings'",
+    "n7": "a grappling",
+    "n8": "many grapplings"
+}

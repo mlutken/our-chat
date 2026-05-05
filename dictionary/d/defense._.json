@@ -7,5 +7,12 @@
     "n2": "defenses",
     "n3": "the defense",
     "n4": "the defenses",
-    "n5": "defense's"
+    "n5": "defense's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "defenses'",
+    "n7": "a defense",
+    "n8": "many defenses"
 }

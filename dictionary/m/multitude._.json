@@ -1,0 +1,18 @@
+{
+    "base": "multitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "multitude",
+    "n2": "multitudes",
+    "n3": "the multitude",
+    "n4": "the multitudes",
+    "n5": "multitude's",
+    "n6": "multitudes'",
+    "n7": "a multitude",
+    "n8": "many multitudes"
+}

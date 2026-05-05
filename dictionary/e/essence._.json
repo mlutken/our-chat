@@ -1,0 +1,18 @@
+{
+    "base": "essence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "essence",
+    "n2": "essences",
+    "n3": "the essence",
+    "n4": "the essences",
+    "n5": "essence's",
+    "n6": "essences'",
+    "n7": "an essence",
+    "n8": "many essences"
+}

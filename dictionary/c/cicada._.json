@@ -1,0 +1,18 @@
+{
+    "base": "cicada",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cicada",
+    "n2": "cicadae",
+    "n3": "the cicada",
+    "n4": "the cicadae",
+    "n5": "cicada's",
+    "n6": "cicadae's",
+    "n7": "a cicada",
+    "n8": "many cicadae"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pluck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pluck",
+    "n2": "plucks",
+    "n3": "the pluck",
+    "n4": "the plucks",
+    "n5": "pluck's",
+    "n6": "plucks'",
+    "n7": "a pluck",
+    "n8": "many plucks"
+}

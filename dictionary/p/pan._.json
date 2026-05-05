@@ -1,0 +1,18 @@
+{
+    "base": "pan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "pan",
+    "n2": "pans",
+    "n3": "the pan",
+    "n4": "the pans",
+    "n5": "pan's",
+    "n6": "pans'",
+    "n7": "a pan",
+    "n8": "many pans"
+}

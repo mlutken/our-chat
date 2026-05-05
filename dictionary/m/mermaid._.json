@@ -1,0 +1,18 @@
+{
+    "base": "mermaid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mermaid",
+    "n2": "mermaids",
+    "n3": "the mermaid",
+    "n4": "the mermaids",
+    "n5": "mermaid's",
+    "n6": "mermaids'",
+    "n7": "a mermaid",
+    "n8": "many mermaids"
+}

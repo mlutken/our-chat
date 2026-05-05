@@ -1,0 +1,18 @@
+{
+    "base": "notification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "notification",
+    "n2": "notifications",
+    "n3": "the notification",
+    "n4": "the notifications",
+    "n5": "notification's",
+    "n6": "notifications'",
+    "n7": "a notification",
+    "n8": "many notifications"
+}

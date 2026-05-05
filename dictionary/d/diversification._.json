@@ -1,0 +1,18 @@
+{
+    "base": "diversification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diversification",
+    "n2": "diversifications",
+    "n3": "the diversification",
+    "n4": "the diversifications",
+    "n5": "diversification's",
+    "n6": "diversifications'",
+    "n7": "a diversification",
+    "n8": "many diversifications"
+}

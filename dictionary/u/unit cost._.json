@@ -1,0 +1,18 @@
+{
+    "base": "unit cost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "unit cost",
+    "n2": "unit costs",
+    "n3": "the unit cost",
+    "n4": "the unit costs",
+    "n5": "unit cost's",
+    "n6": "unit costs'",
+    "n7": "a unit cost",
+    "n8": "many unit costs"
+}

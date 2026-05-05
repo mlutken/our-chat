@@ -1,0 +1,18 @@
+{
+    "base": "cone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "cone",
+    "n2": "cones",
+    "n3": "the cone",
+    "n4": "the cones",
+    "n5": "cone's",
+    "n6": "cones'",
+    "n7": "a cone",
+    "n8": "many cones"
+}

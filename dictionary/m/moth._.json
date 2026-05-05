@@ -1,0 +1,18 @@
+{
+    "base": "moth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "moth",
+    "n2": "moths",
+    "n3": "the moth",
+    "n4": "the moths",
+    "n5": "moth's",
+    "n6": "moths'",
+    "n7": "a moth",
+    "n8": "many moths"
+}

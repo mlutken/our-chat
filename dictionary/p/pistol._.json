@@ -1,0 +1,18 @@
+{
+    "base": "pistol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "pistol",
+    "n2": "pistols",
+    "n3": "the pistol",
+    "n4": "the pistols",
+    "n5": "pistol's",
+    "n6": "pistols'",
+    "n7": "a pistol",
+    "n8": "many pistols"
+}

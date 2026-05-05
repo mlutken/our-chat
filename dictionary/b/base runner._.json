@@ -1,0 +1,18 @@
+{
+    "base": "base runner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "base runner",
+    "n2": "base runners",
+    "n3": "the base runner",
+    "n4": "the base runners",
+    "n5": "base runner's",
+    "n6": "base runners'",
+    "n7": "a base runner",
+    "n8": "many base runners"
+}

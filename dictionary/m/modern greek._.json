@@ -1,0 +1,18 @@
+{
+    "base": "modern greek",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "modern greek",
+    "n2": "modern greeks",
+    "n3": "the modern greek",
+    "n4": "the modern greeks",
+    "n5": "modern greek's",
+    "n6": "modern greeks'",
+    "n7": "a modern greek",
+    "n8": "many modern greeks"
+}

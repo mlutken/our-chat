@@ -1,0 +1,18 @@
+{
+    "base": "commuter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "commuter",
+    "n2": "commuters",
+    "n3": "the commuter",
+    "n4": "the commuters",
+    "n5": "commuter's",
+    "n6": "commuters'",
+    "n7": "a commuter",
+    "n8": "many commuters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dominican republic",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dominican republic",
+    "n2": "dominican republics",
+    "n3": "the dominican republic",
+    "n4": "the dominican republics",
+    "n5": "dominican republic's",
+    "n6": "dominican republics'",
+    "n7": "a dominican republic",
+    "n8": "many dominican republics"
+}

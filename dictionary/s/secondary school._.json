@@ -1,0 +1,18 @@
+{
+    "base": "secondary school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "secondary school",
+    "n2": "secondary schools",
+    "n3": "the secondary school",
+    "n4": "the secondary schools",
+    "n5": "secondary school's",
+    "n6": "secondary schools'",
+    "n7": "a secondary school",
+    "n8": "many secondary schools"
+}

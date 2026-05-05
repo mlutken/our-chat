@@ -1,0 +1,18 @@
+{
+    "base": "high quality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "high quality",
+    "n2": "high qualities",
+    "n3": "the high quality",
+    "n4": "the high qualities",
+    "n5": "high quality's",
+    "n6": "high qualities'",
+    "n7": "a high quality",
+    "n8": "many high qualities"
+}

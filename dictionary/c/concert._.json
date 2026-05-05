@@ -1,0 +1,18 @@
+{
+    "base": "concert",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "concert",
+    "n2": "concerts",
+    "n3": "the concert",
+    "n4": "the concerts",
+    "n5": "concert's",
+    "n6": "concerts'",
+    "n7": "a concert",
+    "n8": "many concerts"
+}

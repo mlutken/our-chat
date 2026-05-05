@@ -1,0 +1,18 @@
+{
+    "base": "windmill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "windmill",
+    "n2": "windmills",
+    "n3": "the windmill",
+    "n4": "the windmills",
+    "n5": "windmill's",
+    "n6": "windmills'",
+    "n7": "a windmill",
+    "n8": "many windmills"
+}

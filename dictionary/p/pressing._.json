@@ -1,0 +1,18 @@
+{
+    "base": "pressing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pressing",
+    "n2": "pressings",
+    "n3": "the pressing",
+    "n4": "the pressings",
+    "n5": "pressing's",
+    "n6": "pressings'",
+    "n7": "a pressing",
+    "n8": "many pressings"
+}

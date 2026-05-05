@@ -1,11 +1,24 @@
 {
     "base": "tumble",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tumble",
     "v2": "tumbled",
     "v3": "tumbled",
     "v4": "tumbling",
-    "v5": "tumbles"
+    "v5": "tumbles",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tumble",
+    "n2": "tumbles",
+    "n3": "the tumble",
+    "n4": "the tumbles",
+    "n5": "tumble's",
+    "n6": "tumbles'",
+    "n7": "a tumble",
+    "n8": "many tumbles"
 }

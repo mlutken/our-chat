@@ -1,0 +1,18 @@
+{
+    "base": "ohio",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "ohio",
+    "n2": "ohios",
+    "n3": "the ohio",
+    "n4": "the ohios",
+    "n5": "ohio's",
+    "n6": "ohios'",
+    "n7": "an ohio",
+    "n8": "many ohios"
+}

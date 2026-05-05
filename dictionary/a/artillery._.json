@@ -1,0 +1,18 @@
+{
+    "base": "artillery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "artillery",
+    "n2": "artilleries",
+    "n3": "the artillery",
+    "n4": "the artilleries",
+    "n5": "artillery's",
+    "n6": "artilleries'",
+    "n7": "an artillery",
+    "n8": "many artilleries"
+}

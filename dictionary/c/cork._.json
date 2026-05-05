@@ -1,0 +1,18 @@
+{
+    "base": "cork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cork",
+    "n2": "corks",
+    "n3": "the cork",
+    "n4": "the corks",
+    "n5": "cork's",
+    "n6": "corks'",
+    "n7": "a cork",
+    "n8": "many corks"
+}

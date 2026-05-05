@@ -1,0 +1,18 @@
+{
+    "base": "spending",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spending",
+    "n2": "spendings",
+    "n3": "the spending",
+    "n4": "the spendings",
+    "n5": "spending's",
+    "n6": "spendings'",
+    "n7": "a spending",
+    "n8": "many spendings"
+}

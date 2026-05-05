@@ -1,0 +1,18 @@
+{
+    "base": "anorexia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anorexia",
+    "n2": "anorexias",
+    "n3": "the anorexia",
+    "n4": "the anorexias",
+    "n5": "anorexia's",
+    "n6": "anorexias'",
+    "n7": "an anorexia",
+    "n8": "many anorexias"
+}

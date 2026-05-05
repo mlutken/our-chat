@@ -1,0 +1,18 @@
+{
+    "base": "shining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shining",
+    "n2": "shinings",
+    "n3": "the shining",
+    "n4": "the shinings",
+    "n5": "shining's",
+    "n6": "shinings'",
+    "n7": "a shining",
+    "n8": "many shinings"
+}

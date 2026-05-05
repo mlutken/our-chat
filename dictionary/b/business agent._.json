@@ -1,0 +1,18 @@
+{
+    "base": "business agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business agent",
+    "n2": "business agents",
+    "n3": "the business agent",
+    "n4": "the business agents",
+    "n5": "business agent's",
+    "n6": "business agents'",
+    "n7": "a business agent",
+    "n8": "many business agents"
+}

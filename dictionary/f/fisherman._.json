@@ -1,0 +1,18 @@
+{
+    "base": "fisherman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "fisherman",
+    "n2": "fishermen",
+    "n3": "the fisherman",
+    "n4": "the fishermen",
+    "n5": "fisherman's",
+    "n6": "fishermen's",
+    "n7": "a fisherman",
+    "n8": "many fishermen"
+}

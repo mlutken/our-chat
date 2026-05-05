@@ -1,11 +1,24 @@
 {
     "base": "rush",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "rush",
     "v2": "rushed",
     "v3": "rushed",
     "v4": "rushing",
-    "v5": "rushes"
+    "v5": "rushes",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "rush",
+    "n2": "rushes",
+    "n3": "the rush",
+    "n4": "the rushes",
+    "n5": "rush's",
+    "n6": "rushes'",
+    "n7": "a rush",
+    "n8": "many rushes"
 }

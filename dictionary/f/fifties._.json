@@ -1,0 +1,18 @@
+{
+    "base": "fifties",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fifties",
+    "n2": "fiftieses",
+    "n3": "the fifties",
+    "n4": "the fiftieses",
+    "n5": "fifties'",
+    "n6": "fiftieses'",
+    "n7": "a fifties",
+    "n8": "many fiftieses"
+}

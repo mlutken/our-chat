@@ -1,0 +1,18 @@
+{
+    "base": "east german",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "east german",
+    "n2": "east germen",
+    "n3": "the east german",
+    "n4": "the east germen",
+    "n5": "east german's",
+    "n6": "east germen's",
+    "n7": "an east german",
+    "n8": "many east germen"
+}

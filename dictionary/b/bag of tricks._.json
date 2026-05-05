@@ -1,0 +1,18 @@
+{
+    "base": "bag of tricks",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bag of tricks",
+    "n2": "bag of trickses",
+    "n3": "the bag of tricks",
+    "n4": "the bag of trickses",
+    "n5": "bag of tricks'",
+    "n6": "bag of trickses'",
+    "n7": "a bag of tricks",
+    "n8": "many bag of trickses"
+}

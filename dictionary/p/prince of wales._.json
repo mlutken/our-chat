@@ -1,0 +1,18 @@
+{
+    "base": "prince of wales",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prince of wales",
+    "n2": "prince of waleses",
+    "n3": "the prince of wales",
+    "n4": "the prince of waleses",
+    "n5": "prince of wales'",
+    "n6": "prince of waleses'",
+    "n7": "a prince of wales",
+    "n8": "many prince of waleses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sheet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "sheet",
+    "n2": "sheets",
+    "n3": "the sheet",
+    "n4": "the sheets",
+    "n5": "sheet's",
+    "n6": "sheets'",
+    "n7": "a sheet",
+    "n8": "many sheets"
+}

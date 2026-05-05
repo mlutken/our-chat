@@ -1,0 +1,18 @@
+{
+    "base": "horoscope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "horoscope",
+    "n2": "horoscopes",
+    "n3": "the horoscope",
+    "n4": "the horoscopes",
+    "n5": "horoscope's",
+    "n6": "horoscopes'",
+    "n7": "a horoscope",
+    "n8": "many horoscopes"
+}

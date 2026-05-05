@@ -1,11 +1,24 @@
 {
     "base": "snap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "snap",
     "v2": "snapped",
     "v3": "snapped",
     "v4": "snapping",
-    "v5": "snaps"
+    "v5": "snaps",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "snap",
+    "n2": "snaps",
+    "n3": "the snap",
+    "n4": "the snaps",
+    "n5": "snap's",
+    "n6": "snaps'",
+    "n7": "a snap",
+    "n8": "many snaps"
 }

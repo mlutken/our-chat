@@ -1,0 +1,18 @@
+{
+    "base": "hip pad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hip pad",
+    "n2": "hip pads",
+    "n3": "the hip pad",
+    "n4": "the hip pads",
+    "n5": "hip pad's",
+    "n6": "hip pads'",
+    "n7": "a hip pad",
+    "n8": "many hip pads"
+}

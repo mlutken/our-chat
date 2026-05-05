@@ -7,5 +7,12 @@
     "n2": "environments",
     "n3": "the environment",
     "n4": "the environments",
-    "n5": "environment's"
+    "n5": "environment's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "environments'",
+    "n7": "an environment",
+    "n8": "many environments"
 }

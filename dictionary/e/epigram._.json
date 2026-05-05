@@ -1,0 +1,18 @@
+{
+    "base": "epigram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epigram",
+    "n2": "epigrams",
+    "n3": "the epigram",
+    "n4": "the epigrams",
+    "n5": "epigram's",
+    "n6": "epigrams'",
+    "n7": "an epigram",
+    "n8": "many epigrams"
+}

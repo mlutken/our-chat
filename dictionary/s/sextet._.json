@@ -1,0 +1,18 @@
+{
+    "base": "sextet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sextet",
+    "n2": "sextets",
+    "n3": "the sextet",
+    "n4": "the sextets",
+    "n5": "sextet's",
+    "n6": "sextets'",
+    "n7": "a sextet",
+    "n8": "many sextets"
+}

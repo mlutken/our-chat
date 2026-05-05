@@ -1,0 +1,18 @@
+{
+    "base": "formation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "formation",
+    "n2": "formations",
+    "n3": "the formation",
+    "n4": "the formations",
+    "n5": "formation's",
+    "n6": "formations'",
+    "n7": "a formation",
+    "n8": "many formations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mantel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mantel",
+    "n2": "mantels",
+    "n3": "the mantel",
+    "n4": "the mantels",
+    "n5": "mantel's",
+    "n6": "mantels'",
+    "n7": "a mantel",
+    "n8": "many mantels"
+}

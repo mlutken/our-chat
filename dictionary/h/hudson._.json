@@ -1,0 +1,18 @@
+{
+    "base": "hudson",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "hudson",
+    "n2": "hudsons",
+    "n3": "the hudson",
+    "n4": "the hudsons",
+    "n5": "hudson's",
+    "n6": "hudsons'",
+    "n7": "a hudson",
+    "n8": "many hudsons"
+}

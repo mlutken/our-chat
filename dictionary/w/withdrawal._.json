@@ -1,0 +1,18 @@
+{
+    "base": "withdrawal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "withdrawal",
+    "n2": "withdrawals",
+    "n3": "the withdrawal",
+    "n4": "the withdrawals",
+    "n5": "withdrawal's",
+    "n6": "withdrawals'",
+    "n7": "a withdrawal",
+    "n8": "many withdrawals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bloc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bloc",
+    "n2": "blocs",
+    "n3": "the bloc",
+    "n4": "the blocs",
+    "n5": "bloc's",
+    "n6": "blocs'",
+    "n7": "a bloc",
+    "n8": "many blocs"
+}

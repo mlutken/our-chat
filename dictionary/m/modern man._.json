@@ -1,0 +1,18 @@
+{
+    "base": "modern man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "modern man",
+    "n2": "modern mans",
+    "n3": "the modern man",
+    "n4": "the modern mans",
+    "n5": "modern man's",
+    "n6": "modern mans'",
+    "n7": "a modern man",
+    "n8": "many modern mans"
+}

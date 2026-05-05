@@ -1,0 +1,18 @@
+{
+    "base": "arteriosclerosis obliterans",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arteriosclerosis obliterans",
+    "n2": "arteriosclerosis obliteranses",
+    "n3": "the arteriosclerosis obliterans",
+    "n4": "the arteriosclerosis obliteranses",
+    "n5": "arteriosclerosis obliterans'",
+    "n6": "arteriosclerosis obliteranses'",
+    "n7": "an arteriosclerosis obliterans",
+    "n8": "many arteriosclerosis obliteranses"
+}

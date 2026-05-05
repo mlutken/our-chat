@@ -1,0 +1,18 @@
+{
+    "base": "laundry truck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laundry truck",
+    "n2": "laundry trucks",
+    "n3": "the laundry truck",
+    "n4": "the laundry trucks",
+    "n5": "laundry truck's",
+    "n6": "laundry trucks'",
+    "n7": "a laundry truck",
+    "n8": "many laundry trucks"
+}

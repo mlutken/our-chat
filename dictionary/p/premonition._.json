@@ -1,0 +1,18 @@
+{
+    "base": "premonition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "premonition",
+    "n2": "premonitions",
+    "n3": "the premonition",
+    "n4": "the premonitions",
+    "n5": "premonition's",
+    "n6": "premonitions'",
+    "n7": "a premonition",
+    "n8": "many premonitions"
+}

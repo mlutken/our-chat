@@ -1,0 +1,18 @@
+{
+    "base": "mold",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mold",
+    "n2": "molds",
+    "n3": "the mold",
+    "n4": "the molds",
+    "n5": "mold's",
+    "n6": "molds'",
+    "n7": "a mold",
+    "n8": "many molds"
+}

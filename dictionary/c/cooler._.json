@@ -1,0 +1,18 @@
+{
+    "base": "cooler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cooler",
+    "n2": "coolers",
+    "n3": "the cooler",
+    "n4": "the coolers",
+    "n5": "cooler's",
+    "n6": "coolers'",
+    "n7": "a cooler",
+    "n8": "many coolers"
+}

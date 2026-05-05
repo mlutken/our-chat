@@ -1,0 +1,18 @@
+{
+    "base": "rabbit punch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rabbit punch",
+    "n2": "rabbit punches",
+    "n3": "the rabbit punch",
+    "n4": "the rabbit punches",
+    "n5": "rabbit punch's",
+    "n6": "rabbit punches'",
+    "n7": "a rabbit punch",
+    "n8": "many rabbit punches"
+}

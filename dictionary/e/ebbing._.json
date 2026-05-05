@@ -1,0 +1,18 @@
+{
+    "base": "ebbing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ebbing",
+    "n2": "ebbings",
+    "n3": "the ebbing",
+    "n4": "the ebbings",
+    "n5": "ebbing's",
+    "n6": "ebbings'",
+    "n7": "an ebbing",
+    "n8": "many ebbings"
+}

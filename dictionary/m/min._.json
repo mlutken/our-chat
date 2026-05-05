@@ -1,0 +1,18 @@
+{
+    "base": "min",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "min",
+    "n2": "mins",
+    "n3": "the min",
+    "n4": "the mins",
+    "n5": "min's",
+    "n6": "mins'",
+    "n7": "a min",
+    "n8": "many mins"
+}

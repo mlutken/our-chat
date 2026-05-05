@@ -1,0 +1,18 @@
+{
+    "base": "despondency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "despondency",
+    "n2": "despondencies",
+    "n3": "the despondency",
+    "n4": "the despondencies",
+    "n5": "despondency's",
+    "n6": "despondencies'",
+    "n7": "a despondency",
+    "n8": "many despondencies"
+}

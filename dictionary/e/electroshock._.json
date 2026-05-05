@@ -1,0 +1,18 @@
+{
+    "base": "electroshock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "electroshock",
+    "n2": "electroshocks",
+    "n3": "the electroshock",
+    "n4": "the electroshocks",
+    "n5": "electroshock's",
+    "n6": "electroshocks'",
+    "n7": "an electroshock",
+    "n8": "many electroshocks"
+}

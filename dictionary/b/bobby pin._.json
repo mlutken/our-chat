@@ -1,0 +1,18 @@
+{
+    "base": "bobby pin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bobby pin",
+    "n2": "bobby pins",
+    "n3": "the bobby pin",
+    "n4": "the bobby pins",
+    "n5": "bobby pin's",
+    "n6": "bobby pins'",
+    "n7": "a bobby pin",
+    "n8": "many bobby pins"
+}

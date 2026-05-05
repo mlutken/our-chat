@@ -1,0 +1,18 @@
+{
+    "base": "granite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "granite",
+    "n2": "granites",
+    "n3": "the granite",
+    "n4": "the granites",
+    "n5": "granite's",
+    "n6": "granites'",
+    "n7": "a granite",
+    "n8": "many granites"
+}

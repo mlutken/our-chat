@@ -7,5 +7,12 @@
     "n2": "stops",
     "n3": "the stop",
     "n4": "the stops",
-    "n5": "stop's"
+    "n5": "stop's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "stops'",
+    "n7": "a stop",
+    "n8": "many stops"
 }

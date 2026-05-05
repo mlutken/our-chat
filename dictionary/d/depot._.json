@@ -1,0 +1,18 @@
+{
+    "base": "depot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "depot",
+    "n2": "depots",
+    "n3": "the depot",
+    "n4": "the depots",
+    "n5": "depot's",
+    "n6": "depots'",
+    "n7": "a depot",
+    "n8": "many depots"
+}

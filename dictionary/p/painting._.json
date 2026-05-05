@@ -7,5 +7,12 @@
     "n2": "paintings",
     "n3": "the painting",
     "n4": "the paintings",
-    "n5": "painting's"
+    "n5": "painting's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "paintings'",
+    "n7": "a painting",
+    "n8": "many paintings"
 }

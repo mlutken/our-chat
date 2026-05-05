@@ -1,0 +1,18 @@
+{
+    "base": "proportionality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proportionality",
+    "n2": "proportionalities",
+    "n3": "the proportionality",
+    "n4": "the proportionalities",
+    "n5": "proportionality's",
+    "n6": "proportionalities'",
+    "n7": "a proportionality",
+    "n8": "many proportionalities"
+}

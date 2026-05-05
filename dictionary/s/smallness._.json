@@ -1,0 +1,18 @@
+{
+    "base": "smallness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "smallness",
+    "n2": "smallnesses",
+    "n3": "the smallness",
+    "n4": "the smallnesses",
+    "n5": "smallness'",
+    "n6": "smallnesses'",
+    "n7": "a smallness",
+    "n8": "many smallnesses"
+}

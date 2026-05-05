@@ -1,0 +1,18 @@
+{
+    "base": "counterpart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "counterpart",
+    "n2": "counterparts",
+    "n3": "the counterpart",
+    "n4": "the counterparts",
+    "n5": "counterpart's",
+    "n6": "counterparts'",
+    "n7": "a counterpart",
+    "n8": "many counterparts"
+}

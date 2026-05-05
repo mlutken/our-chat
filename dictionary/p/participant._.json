@@ -7,5 +7,12 @@
     "n2": "participants",
     "n3": "the participant",
     "n4": "the participants",
-    "n5": "participant's"
+    "n5": "participant's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "participants'",
+    "n7": "a participant",
+    "n8": "many participants"
 }

@@ -7,5 +7,12 @@
     "n2": "pianos",
     "n3": "the piano",
     "n4": "the pianos",
-    "n5": "piano's"
+    "n5": "piano's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "pianos'",
+    "n7": "a piano",
+    "n8": "many pianos"
 }

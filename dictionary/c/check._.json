@@ -1,11 +1,24 @@
 {
     "base": "check",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "check",
     "v2": "checked",
     "v3": "checked",
     "v4": "checking",
-    "v5": "checks"
+    "v5": "checks",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "check",
+    "n2": "checks",
+    "n3": "the check",
+    "n4": "the checks",
+    "n5": "check's",
+    "n6": "checks'",
+    "n7": "a check",
+    "n8": "many checks"
 }

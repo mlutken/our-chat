@@ -1,0 +1,18 @@
+{
+    "base": "sports arena",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sports arena",
+    "n2": "sports arenas",
+    "n3": "the sports arena",
+    "n4": "the sports arenas",
+    "n5": "sports arena's",
+    "n6": "sports arenas'",
+    "n7": "a sports arena",
+    "n8": "many sports arenas"
+}

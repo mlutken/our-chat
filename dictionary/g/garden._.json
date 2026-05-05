@@ -7,5 +7,12 @@
     "n2": "gardens",
     "n3": "the garden",
     "n4": "the gardens",
-    "n5": "garden's"
+    "n5": "garden's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "gardens'",
+    "n7": "a garden",
+    "n8": "many gardens"
 }

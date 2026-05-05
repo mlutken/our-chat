@@ -1,0 +1,18 @@
+{
+    "base": "detroit",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "detroit",
+    "n2": "detroits",
+    "n3": "the detroit",
+    "n4": "the detroits",
+    "n5": "detroit's",
+    "n6": "detroits'",
+    "n7": "a detroit",
+    "n8": "many detroits"
+}

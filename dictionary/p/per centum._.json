@@ -1,0 +1,18 @@
+{
+    "base": "per centum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "per centum",
+    "n2": "per centums",
+    "n3": "the per centum",
+    "n4": "the per centums",
+    "n5": "per centum's",
+    "n6": "per centums'",
+    "n7": "a per centum",
+    "n8": "many per centums"
+}

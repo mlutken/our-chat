@@ -1,11 +1,24 @@
 {
     "base": "visit",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "visit",
     "v2": "visited",
     "v3": "visited",
     "v4": "visiting",
-    "v5": "visits"
+    "v5": "visits",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "visit",
+    "n2": "visits",
+    "n3": "the visit",
+    "n4": "the visits",
+    "n5": "visit's",
+    "n6": "visits'",
+    "n7": "a visit",
+    "n8": "many visits"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "dime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dime",
+    "n2": "dimes",
+    "n3": "the dime",
+    "n4": "the dimes",
+    "n5": "dime's",
+    "n6": "dimes'",
+    "n7": "a dime",
+    "n8": "many dimes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reduction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "reduction",
+    "n2": "reductions",
+    "n3": "the reduction",
+    "n4": "the reductions",
+    "n5": "reduction's",
+    "n6": "reductions'",
+    "n7": "a reduction",
+    "n8": "many reductions"
+}

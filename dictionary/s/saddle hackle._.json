@@ -1,0 +1,18 @@
+{
+    "base": "saddle hackle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "saddle hackle",
+    "n2": "saddle hackles",
+    "n3": "the saddle hackle",
+    "n4": "the saddle hackles",
+    "n5": "saddle hackle's",
+    "n6": "saddle hackles'",
+    "n7": "a saddle hackle",
+    "n8": "many saddle hackles"
+}

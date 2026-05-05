@@ -1,0 +1,18 @@
+{
+    "base": "groundwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "groundwork",
+    "n2": "groundworks",
+    "n3": "the groundwork",
+    "n4": "the groundworks",
+    "n5": "groundwork's",
+    "n6": "groundworks'",
+    "n7": "a groundwork",
+    "n8": "many groundworks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ice cream",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ice cream",
+    "n2": "ice creams",
+    "n3": "the ice cream",
+    "n4": "the ice creams",
+    "n5": "ice cream's",
+    "n6": "ice creams'",
+    "n7": "an ice cream",
+    "n8": "many ice creams"
+}

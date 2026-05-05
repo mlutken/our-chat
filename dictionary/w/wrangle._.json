@@ -1,0 +1,18 @@
+{
+    "base": "wrangle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wrangle",
+    "n2": "wrangles",
+    "n3": "the wrangle",
+    "n4": "the wrangles",
+    "n5": "wrangle's",
+    "n6": "wrangles'",
+    "n7": "a wrangle",
+    "n8": "many wrangles"
+}

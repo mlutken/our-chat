@@ -7,5 +7,12 @@
     "n2": "missions",
     "n3": "the mission",
     "n4": "the missions",
-    "n5": "mission's"
+    "n5": "mission's",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "missions'",
+    "n7": "a mission",
+    "n8": "many missions"
 }

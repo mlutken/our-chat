@@ -1,0 +1,18 @@
+{
+    "base": "man and wife",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "man and wife",
+    "n2": "man and wives",
+    "n3": "the man and wife",
+    "n4": "the man and wives",
+    "n5": "man and wife's",
+    "n6": "man and wives'",
+    "n7": "a man and wife",
+    "n8": "many man and wives"
+}

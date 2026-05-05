@@ -1,0 +1,18 @@
+{
+    "base": "collaborator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "collaborator",
+    "n2": "collaborators",
+    "n3": "the collaborator",
+    "n4": "the collaborators",
+    "n5": "collaborator's",
+    "n6": "collaborators'",
+    "n7": "a collaborator",
+    "n8": "many collaborators"
+}

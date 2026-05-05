@@ -1,0 +1,18 @@
+{
+    "base": "outfield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "outfield",
+    "n2": "outfields",
+    "n3": "the outfield",
+    "n4": "the outfields",
+    "n5": "outfield's",
+    "n6": "outfields'",
+    "n7": "an outfield",
+    "n8": "many outfields"
+}

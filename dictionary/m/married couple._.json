@@ -1,0 +1,18 @@
+{
+    "base": "married couple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "married couple",
+    "n2": "married couples",
+    "n3": "the married couple",
+    "n4": "the married couples",
+    "n5": "married couple's",
+    "n6": "married couples'",
+    "n7": "a married couple",
+    "n8": "many married couples"
+}

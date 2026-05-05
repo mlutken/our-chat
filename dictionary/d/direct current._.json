@@ -1,0 +1,18 @@
+{
+    "base": "direct current",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "direct current",
+    "n2": "direct currents",
+    "n3": "the direct current",
+    "n4": "the direct currents",
+    "n5": "direct current's",
+    "n6": "direct currents'",
+    "n7": "a direct current",
+    "n8": "many direct currents"
+}

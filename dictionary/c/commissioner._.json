@@ -1,0 +1,18 @@
+{
+    "base": "commissioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "commissioner",
+    "n2": "commissioners",
+    "n3": "the commissioner",
+    "n4": "the commissioners",
+    "n5": "commissioner's",
+    "n6": "commissioners'",
+    "n7": "a commissioner",
+    "n8": "many commissioners"
+}

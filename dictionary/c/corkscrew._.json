@@ -1,0 +1,18 @@
+{
+    "base": "corkscrew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corkscrew",
+    "n2": "corkscrews",
+    "n3": "the corkscrew",
+    "n4": "the corkscrews",
+    "n5": "corkscrew's",
+    "n6": "corkscrews'",
+    "n7": "a corkscrew",
+    "n8": "many corkscrews"
+}

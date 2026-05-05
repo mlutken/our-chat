@@ -1,0 +1,18 @@
+{
+    "base": "assembly line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assembly line",
+    "n2": "assembly lines",
+    "n3": "the assembly line",
+    "n4": "the assembly lines",
+    "n5": "assembly line's",
+    "n6": "assembly lines'",
+    "n7": "an assembly line",
+    "n8": "many assembly lines"
+}

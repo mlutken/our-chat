@@ -1,0 +1,18 @@
+{
+    "base": "belt buckle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "belt buckle",
+    "n2": "belt buckles",
+    "n3": "the belt buckle",
+    "n4": "the belt buckles",
+    "n5": "belt buckle's",
+    "n6": "belt buckles'",
+    "n7": "a belt buckle",
+    "n8": "many belt buckles"
+}

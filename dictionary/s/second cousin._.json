@@ -1,0 +1,18 @@
+{
+    "base": "second cousin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "second cousin",
+    "n2": "second cousins",
+    "n3": "the second cousin",
+    "n4": "the second cousins",
+    "n5": "second cousin's",
+    "n6": "second cousins'",
+    "n7": "a second cousin",
+    "n8": "many second cousins"
+}

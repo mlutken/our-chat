@@ -1,0 +1,18 @@
+{
+    "base": "maneuver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "maneuver",
+    "n2": "maneuvers",
+    "n3": "the maneuver",
+    "n4": "the maneuvers",
+    "n5": "maneuver's",
+    "n6": "maneuvers'",
+    "n7": "a maneuver",
+    "n8": "many maneuvers"
+}

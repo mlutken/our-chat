@@ -1,0 +1,18 @@
+{
+    "base": "self-respect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "self-respect",
+    "n2": "self-respects",
+    "n3": "the self-respect",
+    "n4": "the self-respects",
+    "n5": "self-respect's",
+    "n6": "self-respects'",
+    "n7": "a self-respect",
+    "n8": "many self-respects"
+}

@@ -7,5 +7,12 @@
     "n2": "tests",
     "n3": "the test",
     "n4": "the tests",
-    "n5": "test's"
+    "n5": "test's",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n6": "tests'",
+    "n7": "a test",
+    "n8": "many tests"
 }

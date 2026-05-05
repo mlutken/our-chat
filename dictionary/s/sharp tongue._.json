@@ -1,0 +1,18 @@
+{
+    "base": "sharp tongue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sharp tongue",
+    "n2": "sharp tongues",
+    "n3": "the sharp tongue",
+    "n4": "the sharp tongues",
+    "n5": "sharp tongue's",
+    "n6": "sharp tongues'",
+    "n7": "a sharp tongue",
+    "n8": "many sharp tongues"
+}

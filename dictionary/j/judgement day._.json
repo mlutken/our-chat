@@ -1,0 +1,18 @@
+{
+    "base": "judgement day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "judgement day",
+    "n2": "judgement days",
+    "n3": "the judgement day",
+    "n4": "the judgement days",
+    "n5": "judgement day's",
+    "n6": "judgement days'",
+    "n7": "a judgement day",
+    "n8": "many judgement days"
+}

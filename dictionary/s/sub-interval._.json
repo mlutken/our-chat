@@ -1,0 +1,18 @@
+{
+    "base": "sub-interval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sub-interval",
+    "n2": "sub-intervals",
+    "n3": "the sub-interval",
+    "n4": "the sub-intervals",
+    "n5": "sub-interval's",
+    "n6": "sub-intervals'",
+    "n7": "a sub-interval",
+    "n8": "many sub-intervals"
+}

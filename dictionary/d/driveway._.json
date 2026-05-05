@@ -1,0 +1,18 @@
+{
+    "base": "driveway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "driveway",
+    "n2": "driveways",
+    "n3": "the driveway",
+    "n4": "the driveways",
+    "n5": "driveway's",
+    "n6": "driveways'",
+    "n7": "a driveway",
+    "n8": "many driveways"
+}

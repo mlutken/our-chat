@@ -1,0 +1,18 @@
+{
+    "base": "garage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "garage",
+    "n2": "garages",
+    "n3": "the garage",
+    "n4": "the garages",
+    "n5": "garage's",
+    "n6": "garages'",
+    "n7": "a garage",
+    "n8": "many garages"
+}

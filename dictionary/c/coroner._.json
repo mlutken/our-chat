@@ -1,0 +1,18 @@
+{
+    "base": "coroner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "coroner",
+    "n2": "coroners",
+    "n3": "the coroner",
+    "n4": "the coroners",
+    "n5": "coroner's",
+    "n6": "coroners'",
+    "n7": "a coroner",
+    "n8": "many coroners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "quota",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quota",
+    "n2": "quotas",
+    "n3": "the quota",
+    "n4": "the quotas",
+    "n5": "quota's",
+    "n6": "quotas'",
+    "n7": "a quota",
+    "n8": "many quotas"
+}

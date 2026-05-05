@@ -1,0 +1,18 @@
+{
+    "base": "coating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coating",
+    "n2": "coatings",
+    "n3": "the coating",
+    "n4": "the coatings",
+    "n5": "coating's",
+    "n6": "coatings'",
+    "n7": "a coating",
+    "n8": "many coatings"
+}

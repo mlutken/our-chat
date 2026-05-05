@@ -1,0 +1,18 @@
+{
+    "base": "panic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "panic",
+    "n2": "panics",
+    "n3": "the panic",
+    "n4": "the panics",
+    "n5": "panic's",
+    "n6": "panics'",
+    "n7": "a panic",
+    "n8": "many panics"
+}

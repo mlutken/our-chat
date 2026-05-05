@@ -1,0 +1,18 @@
+{
+    "base": "statesmanship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "statesmanship",
+    "n2": "statesmanships",
+    "n3": "the statesmanship",
+    "n4": "the statesmanships",
+    "n5": "statesmanship's",
+    "n6": "statesmanships'",
+    "n7": "a statesmanship",
+    "n8": "many statesmanships"
+}

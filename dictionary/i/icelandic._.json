@@ -1,0 +1,18 @@
+{
+    "base": "icelandic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "icelandic",
+    "n2": "icelandics",
+    "n3": "the icelandic",
+    "n4": "the icelandics",
+    "n5": "icelandic's",
+    "n6": "icelandics'",
+    "n7": "an icelandic",
+    "n8": "many icelandics"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wreath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wreath",
+    "n2": "wreaths",
+    "n3": "the wreath",
+    "n4": "the wreaths",
+    "n5": "wreath's",
+    "n6": "wreaths'",
+    "n7": "a wreath",
+    "n8": "many wreaths"
+}

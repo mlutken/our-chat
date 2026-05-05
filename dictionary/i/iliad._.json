@@ -1,0 +1,18 @@
+{
+    "base": "iliad",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "iliad",
+    "n2": "iliads",
+    "n3": "the iliad",
+    "n4": "the iliads",
+    "n5": "iliad's",
+    "n6": "iliads'",
+    "n7": "an iliad",
+    "n8": "many iliads"
+}

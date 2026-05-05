@@ -1,0 +1,18 @@
+{
+    "base": "clot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clot",
+    "n2": "clots",
+    "n3": "the clot",
+    "n4": "the clots",
+    "n5": "clot's",
+    "n6": "clots'",
+    "n7": "a clot",
+    "n8": "many clots"
+}

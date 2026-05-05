@@ -1,0 +1,18 @@
+{
+    "base": "scholastic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scholastic",
+    "n2": "scholastics",
+    "n3": "the scholastic",
+    "n4": "the scholastics",
+    "n5": "scholastic's",
+    "n6": "scholastics'",
+    "n7": "a scholastic",
+    "n8": "many scholastics"
+}

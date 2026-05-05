@@ -1,0 +1,18 @@
+{
+    "base": "orient",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orient",
+    "n2": "orients",
+    "n3": "the orient",
+    "n4": "the orients",
+    "n5": "orient's",
+    "n6": "orients'",
+    "n7": "an orient",
+    "n8": "many orients"
+}

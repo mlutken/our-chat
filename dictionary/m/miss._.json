@@ -1,11 +1,24 @@
 {
     "base": "miss",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "miss",
     "v2": "missed",
     "v3": "missed",
     "v4": "missing",
-    "v5": "misses"
+    "v5": "misses",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "miss",
+    "n2": "misses",
+    "n3": "the miss",
+    "n4": "the misses",
+    "n5": "miss'",
+    "n6": "misses'",
+    "n7": "a miss",
+    "n8": "many misses"
 }

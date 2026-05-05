@@ -7,5 +7,12 @@
     "n2": "supermarkets",
     "n3": "the supermarket",
     "n4": "the supermarkets",
-    "n5": "supermarket's"
+    "n5": "supermarket's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "supermarkets'",
+    "n7": "a supermarket",
+    "n8": "many supermarkets"
 }

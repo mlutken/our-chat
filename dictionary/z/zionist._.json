@@ -1,0 +1,18 @@
+{
+    "base": "zionist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zionist",
+    "n2": "zionists",
+    "n3": "the zionist",
+    "n4": "the zionists",
+    "n5": "zionist's",
+    "n6": "zionists'",
+    "n7": "a zionist",
+    "n8": "many zionists"
+}

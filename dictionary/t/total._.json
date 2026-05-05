@@ -1,0 +1,18 @@
+{
+    "base": "total",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "total",
+    "n2": "totals",
+    "n3": "the total",
+    "n4": "the totals",
+    "n5": "total's",
+    "n6": "totals'",
+    "n7": "a total",
+    "n8": "many totals"
+}

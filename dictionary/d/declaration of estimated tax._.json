@@ -1,0 +1,18 @@
+{
+    "base": "declaration of estimated tax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "declaration of estimated tax",
+    "n2": "declaration of estimated taxes",
+    "n3": "the declaration of estimated tax",
+    "n4": "the declaration of estimated taxes",
+    "n5": "declaration of estimated tax's",
+    "n6": "declaration of estimated taxes'",
+    "n7": "a declaration of estimated tax",
+    "n8": "many declaration of estimated taxes"
+}

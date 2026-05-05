@@ -1,0 +1,18 @@
+{
+    "base": "sadness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sadness",
+    "n2": "sadnesses",
+    "n3": "the sadness",
+    "n4": "the sadnesses",
+    "n5": "sadness'",
+    "n6": "sadnesses'",
+    "n7": "a sadness",
+    "n8": "many sadnesses"
+}

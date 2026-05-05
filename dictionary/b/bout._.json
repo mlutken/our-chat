@@ -1,0 +1,18 @@
+{
+    "base": "bout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bout",
+    "n2": "bouts",
+    "n3": "the bout",
+    "n4": "the bouts",
+    "n5": "bout's",
+    "n6": "bouts'",
+    "n7": "a bout",
+    "n8": "many bouts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "crag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crag",
+    "n2": "crags",
+    "n3": "the crag",
+    "n4": "the crags",
+    "n5": "crag's",
+    "n6": "crags'",
+    "n7": "a crag",
+    "n8": "many crags"
+}

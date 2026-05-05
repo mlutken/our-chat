@@ -1,0 +1,18 @@
+{
+    "base": "scoffing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scoffing",
+    "n2": "scoffings",
+    "n3": "the scoffing",
+    "n4": "the scoffings",
+    "n5": "scoffing's",
+    "n6": "scoffings'",
+    "n7": "a scoffing",
+    "n8": "many scoffings"
+}

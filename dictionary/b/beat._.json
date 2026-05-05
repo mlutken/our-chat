@@ -1,0 +1,18 @@
+{
+    "base": "beat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "beat",
+    "n2": "beats",
+    "n3": "the beat",
+    "n4": "the beats",
+    "n5": "beat's",
+    "n6": "beats'",
+    "n7": "a beat",
+    "n8": "many beats"
+}

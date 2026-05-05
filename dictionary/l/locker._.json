@@ -1,0 +1,18 @@
+{
+    "base": "locker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "locker",
+    "n2": "lockers",
+    "n3": "the locker",
+    "n4": "the lockers",
+    "n5": "locker's",
+    "n6": "lockers'",
+    "n7": "a locker",
+    "n8": "many lockers"
+}

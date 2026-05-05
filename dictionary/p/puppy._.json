@@ -1,0 +1,18 @@
+{
+    "base": "puppy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "puppy",
+    "n2": "puppies",
+    "n3": "the puppy",
+    "n4": "the puppies",
+    "n5": "puppy's",
+    "n6": "puppies'",
+    "n7": "a puppy",
+    "n8": "many puppies"
+}

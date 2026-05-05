@@ -1,0 +1,18 @@
+{
+    "base": "united nations",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "united nations",
+    "n2": "united nationses",
+    "n3": "the united nations",
+    "n4": "the united nationses",
+    "n5": "united nations'",
+    "n6": "united nationses'",
+    "n7": "a united nations",
+    "n8": "many united nationses"
+}

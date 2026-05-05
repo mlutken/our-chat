@@ -1,0 +1,18 @@
+{
+    "base": "luminosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "luminosity",
+    "n2": "luminosities",
+    "n3": "the luminosity",
+    "n4": "the luminosities",
+    "n5": "luminosity's",
+    "n6": "luminosities'",
+    "n7": "a luminosity",
+    "n8": "many luminosities"
+}

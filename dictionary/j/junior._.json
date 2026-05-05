@@ -1,0 +1,18 @@
+{
+    "base": "junior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "junior",
+    "n2": "juniors",
+    "n3": "the junior",
+    "n4": "the juniors",
+    "n5": "junior's",
+    "n6": "juniors'",
+    "n7": "a junior",
+    "n8": "many juniors"
+}

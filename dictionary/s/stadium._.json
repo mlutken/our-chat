@@ -1,0 +1,18 @@
+{
+    "base": "stadium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stadium",
+    "n2": "stadia",
+    "n3": "the stadium",
+    "n4": "the stadia",
+    "n5": "stadium's",
+    "n6": "stadia's",
+    "n7": "a stadium",
+    "n8": "many stadia"
+}

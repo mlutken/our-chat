@@ -1,0 +1,18 @@
+{
+    "base": "republican",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "republican",
+    "n2": "republicans",
+    "n3": "the republican",
+    "n4": "the republicans",
+    "n5": "republican's",
+    "n6": "republicans'",
+    "n7": "a republican",
+    "n8": "many republicans"
+}

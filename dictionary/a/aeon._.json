@@ -1,0 +1,18 @@
+{
+    "base": "aeon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aeon",
+    "n2": "aeons",
+    "n3": "the aeon",
+    "n4": "the aeons",
+    "n5": "aeon's",
+    "n6": "aeons'",
+    "n7": "an aeon",
+    "n8": "many aeons"
+}

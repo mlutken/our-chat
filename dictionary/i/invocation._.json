@@ -1,0 +1,18 @@
+{
+    "base": "invocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "invocation",
+    "n2": "invocations",
+    "n3": "the invocation",
+    "n4": "the invocations",
+    "n5": "invocation's",
+    "n6": "invocations'",
+    "n7": "an invocation",
+    "n8": "many invocations"
+}

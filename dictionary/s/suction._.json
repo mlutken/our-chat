@@ -1,0 +1,18 @@
+{
+    "base": "suction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suction",
+    "n2": "suctions",
+    "n3": "the suction",
+    "n4": "the suctions",
+    "n5": "suction's",
+    "n6": "suctions'",
+    "n7": "a suction",
+    "n8": "many suctions"
+}

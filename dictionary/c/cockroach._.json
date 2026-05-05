@@ -1,0 +1,18 @@
+{
+    "base": "cockroach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cockroach",
+    "n2": "cockroaches",
+    "n3": "the cockroach",
+    "n4": "the cockroaches",
+    "n5": "cockroach's",
+    "n6": "cockroaches'",
+    "n7": "a cockroach",
+    "n8": "many cockroaches"
+}

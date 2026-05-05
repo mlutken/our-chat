@@ -1,0 +1,18 @@
+{
+    "base": "europeanization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "europeanization",
+    "n2": "europeanizations",
+    "n3": "the europeanization",
+    "n4": "the europeanizations",
+    "n5": "europeanization's",
+    "n6": "europeanizations'",
+    "n7": "a europeanization",
+    "n8": "many europeanizations"
+}

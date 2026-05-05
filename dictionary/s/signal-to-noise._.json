@@ -1,0 +1,18 @@
+{
+    "base": "signal-to-noise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "signal-to-noise",
+    "n2": "signal-to-noises",
+    "n3": "the signal-to-noise",
+    "n4": "the signal-to-noises",
+    "n5": "signal-to-noise's",
+    "n6": "signal-to-noises'",
+    "n7": "a signal-to-noise",
+    "n8": "many signal-to-noises"
+}

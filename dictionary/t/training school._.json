@@ -1,0 +1,18 @@
+{
+    "base": "training school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "training school",
+    "n2": "training schools",
+    "n3": "the training school",
+    "n4": "the training schools",
+    "n5": "training school's",
+    "n6": "training schools'",
+    "n7": "a training school",
+    "n8": "many training schools"
+}

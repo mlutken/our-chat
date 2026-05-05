@@ -1,0 +1,18 @@
+{
+    "base": "quartz",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quartz",
+    "n2": "quartzes",
+    "n3": "the quartz",
+    "n4": "the quartzes",
+    "n5": "quartz's",
+    "n6": "quartzes'",
+    "n7": "a quartz",
+    "n8": "many quartzes"
+}

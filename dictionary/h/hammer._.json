@@ -1,11 +1,24 @@
 {
     "base": "hammer",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "hammer",
     "v2": "hammered",
     "v3": "hammered",
     "v4": "hammering",
-    "v5": "hammers"
+    "v5": "hammers",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "hammer",
+    "n2": "hammers",
+    "n3": "the hammer",
+    "n4": "the hammers",
+    "n5": "hammer's",
+    "n6": "hammers'",
+    "n7": "a hammer",
+    "n8": "many hammers"
 }

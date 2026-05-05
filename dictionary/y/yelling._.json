@@ -1,0 +1,18 @@
+{
+    "base": "yelling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yelling",
+    "n2": "yellings",
+    "n3": "the yelling",
+    "n4": "the yellings",
+    "n5": "yelling's",
+    "n6": "yellings'",
+    "n7": "a yelling",
+    "n8": "many yellings"
+}

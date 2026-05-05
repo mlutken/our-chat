@@ -7,5 +7,12 @@
     "n2": "mails",
     "n3": "the mail",
     "n4": "the mails",
-    "n5": "mail's"
+    "n5": "mail's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "mails'",
+    "n7": "a mail",
+    "n8": "many mails"
 }

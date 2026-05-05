@@ -1,0 +1,18 @@
+{
+    "base": "batter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "batter",
+    "n2": "batters",
+    "n3": "the batter",
+    "n4": "the batters",
+    "n5": "batter's",
+    "n6": "batters'",
+    "n7": "a batter",
+    "n8": "many batters"
+}

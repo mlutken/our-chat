@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "variety",
-    "n2": "varietys",
+    "n2": "varieties",
     "n3": "the variety",
-    "n4": "the varietys",
-    "n5": "variety's"
+    "n4": "the varieties",
+    "n5": "variety's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "varieties'",
+    "n7": "a variety",
+    "n8": "many varieties"
 }

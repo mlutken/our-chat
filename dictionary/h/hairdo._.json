@@ -1,0 +1,18 @@
+{
+    "base": "hairdo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hairdo",
+    "n2": "hairdos",
+    "n3": "the hairdo",
+    "n4": "the hairdos",
+    "n5": "hairdo's",
+    "n6": "hairdos'",
+    "n7": "a hairdo",
+    "n8": "many hairdos"
+}

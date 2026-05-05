@@ -1,0 +1,18 @@
+{
+    "base": "fuzz",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fuzz",
+    "n2": "fuzzes",
+    "n3": "the fuzz",
+    "n4": "the fuzzes",
+    "n5": "fuzz's",
+    "n6": "fuzzes'",
+    "n7": "a fuzz",
+    "n8": "many fuzzes"
+}

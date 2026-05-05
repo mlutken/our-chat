@@ -1,11 +1,24 @@
 {
     "base": "roar",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "roar",
     "v2": "roared",
     "v3": "roared",
     "v4": "roaring",
-    "v5": "roars"
+    "v5": "roars",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "roar",
+    "n2": "roars",
+    "n3": "the roar",
+    "n4": "the roars",
+    "n5": "roar's",
+    "n6": "roars'",
+    "n7": "a roar",
+    "n8": "many roars"
 }

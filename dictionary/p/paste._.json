@@ -1,11 +1,24 @@
 {
     "base": "paste",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "paste",
     "v2": "pasted",
     "v3": "pasted",
     "v4": "pasting",
-    "v5": "pastes"
+    "v5": "pastes",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "paste",
+    "n2": "pastes",
+    "n3": "the paste",
+    "n4": "the pastes",
+    "n5": "paste's",
+    "n6": "pastes'",
+    "n7": "a paste",
+    "n8": "many pastes"
 }

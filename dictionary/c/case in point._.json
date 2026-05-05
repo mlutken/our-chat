@@ -1,0 +1,18 @@
+{
+    "base": "case in point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "case in point",
+    "n2": "case in points",
+    "n3": "the case in point",
+    "n4": "the case in points",
+    "n5": "case in point's",
+    "n6": "case in points'",
+    "n7": "a case in point",
+    "n8": "many case in points"
+}

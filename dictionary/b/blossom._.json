@@ -1,0 +1,18 @@
+{
+    "base": "blossom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "blossom",
+    "n2": "blossoms",
+    "n3": "the blossom",
+    "n4": "the blossoms",
+    "n5": "blossom's",
+    "n6": "blossoms'",
+    "n7": "a blossom",
+    "n8": "many blossoms"
+}

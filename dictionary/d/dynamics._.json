@@ -1,0 +1,18 @@
+{
+    "base": "dynamics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dynamics",
+    "n2": "dynamicses",
+    "n3": "the dynamics",
+    "n4": "the dynamicses",
+    "n5": "dynamics'",
+    "n6": "dynamicses'",
+    "n7": "a dynamics",
+    "n8": "many dynamicses"
+}

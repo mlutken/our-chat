@@ -1,0 +1,18 @@
+{
+    "base": "creation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "creation",
+    "n2": "creations",
+    "n3": "the creation",
+    "n4": "the creations",
+    "n5": "creation's",
+    "n6": "creations'",
+    "n7": "a creation",
+    "n8": "many creations"
+}

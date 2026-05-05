@@ -1,0 +1,18 @@
+{
+    "base": "bouncing betty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bouncing betty",
+    "n2": "bouncing betties",
+    "n3": "the bouncing betty",
+    "n4": "the bouncing betties",
+    "n5": "bouncing betty's",
+    "n6": "bouncing betties'",
+    "n7": "a bouncing betty",
+    "n8": "many bouncing betties"
+}

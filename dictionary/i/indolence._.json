@@ -1,0 +1,18 @@
+{
+    "base": "indolence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indolence",
+    "n2": "indolences",
+    "n3": "the indolence",
+    "n4": "the indolences",
+    "n5": "indolence's",
+    "n6": "indolences'",
+    "n7": "an indolence",
+    "n8": "many indolences"
+}

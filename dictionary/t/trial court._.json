@@ -1,0 +1,18 @@
+{
+    "base": "trial court",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trial court",
+    "n2": "trial courts",
+    "n3": "the trial court",
+    "n4": "the trial courts",
+    "n5": "trial court's",
+    "n6": "trial courts'",
+    "n7": "a trial court",
+    "n8": "many trial courts"
+}

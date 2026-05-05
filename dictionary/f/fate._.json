@@ -1,0 +1,18 @@
+{
+    "base": "fate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "fate",
+    "n2": "fates",
+    "n3": "the fate",
+    "n4": "the fates",
+    "n5": "fate's",
+    "n6": "fates'",
+    "n7": "a fate",
+    "n8": "many fates"
+}

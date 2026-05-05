@@ -1,0 +1,18 @@
+{
+    "base": "anti-semite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "anti-semite",
+    "n2": "anti-semites",
+    "n3": "the anti-semite",
+    "n4": "the anti-semites",
+    "n5": "anti-semite's",
+    "n6": "anti-semites'",
+    "n7": "an anti-semite",
+    "n8": "many anti-semites"
+}

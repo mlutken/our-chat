@@ -1,0 +1,18 @@
+{
+    "base": "breakable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breakable",
+    "n2": "breakables",
+    "n3": "the breakable",
+    "n4": "the breakables",
+    "n5": "breakable's",
+    "n6": "breakables'",
+    "n7": "a breakable",
+    "n8": "many breakables"
+}

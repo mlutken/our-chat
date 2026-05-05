@@ -1,0 +1,18 @@
+{
+    "base": "rhinotracheitis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rhinotracheitis",
+    "n2": "rhinotracheitises",
+    "n3": "the rhinotracheitis",
+    "n4": "the rhinotracheitises",
+    "n5": "rhinotracheitis'",
+    "n6": "rhinotracheitises'",
+    "n7": "a rhinotracheitis",
+    "n8": "many rhinotracheitises"
+}

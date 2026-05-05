@@ -1,0 +1,18 @@
+{
+    "base": "primacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "primacy",
+    "n2": "primacies",
+    "n3": "the primacy",
+    "n4": "the primacies",
+    "n5": "primacy's",
+    "n6": "primacies'",
+    "n7": "a primacy",
+    "n8": "many primacies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "jet plane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jet plane",
+    "n2": "jet planes",
+    "n3": "the jet plane",
+    "n4": "the jet planes",
+    "n5": "jet plane's",
+    "n6": "jet planes'",
+    "n7": "a jet plane",
+    "n8": "many jet planes"
+}

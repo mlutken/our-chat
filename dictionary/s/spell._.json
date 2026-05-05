@@ -1,11 +1,24 @@
 {
     "base": "spell",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "spell",
     "v2": "spelled/spelt",
     "v3": "spelled/spelt",
     "v4": "spelling",
-    "v5": "spells"
+    "v5": "spells",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "spell",
+    "n2": "spells",
+    "n3": "the spell",
+    "n4": "the spells",
+    "n5": "spell's",
+    "n6": "spells'",
+    "n7": "a spell",
+    "n8": "many spells"
 }

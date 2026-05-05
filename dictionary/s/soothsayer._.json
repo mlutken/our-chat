@@ -1,0 +1,18 @@
+{
+    "base": "soothsayer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soothsayer",
+    "n2": "soothsayers",
+    "n3": "the soothsayer",
+    "n4": "the soothsayers",
+    "n5": "soothsayer's",
+    "n6": "soothsayers'",
+    "n7": "a soothsayer",
+    "n8": "many soothsayers"
+}

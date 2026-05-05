@@ -1,0 +1,18 @@
+{
+    "base": "right ventricle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "right ventricle",
+    "n2": "right ventricles",
+    "n3": "the right ventricle",
+    "n4": "the right ventricles",
+    "n5": "right ventricle's",
+    "n6": "right ventricles'",
+    "n7": "a right ventricle",
+    "n8": "many right ventricles"
+}

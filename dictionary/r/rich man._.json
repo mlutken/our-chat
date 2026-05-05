@@ -1,0 +1,18 @@
+{
+    "base": "rich man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rich man",
+    "n2": "rich mans",
+    "n3": "the rich man",
+    "n4": "the rich mans",
+    "n5": "rich man's",
+    "n6": "rich mans'",
+    "n7": "a rich man",
+    "n8": "many rich mans"
+}

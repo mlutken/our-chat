@@ -1,0 +1,18 @@
+{
+    "base": "cove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cove",
+    "n2": "coves",
+    "n3": "the cove",
+    "n4": "the coves",
+    "n5": "cove's",
+    "n6": "coves'",
+    "n7": "a cove",
+    "n8": "many coves"
+}

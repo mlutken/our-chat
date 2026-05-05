@@ -1,0 +1,18 @@
+{
+    "base": "touchstone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "touchstone",
+    "n2": "touchstones",
+    "n3": "the touchstone",
+    "n4": "the touchstones",
+    "n5": "touchstone's",
+    "n6": "touchstones'",
+    "n7": "a touchstone",
+    "n8": "many touchstones"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "glare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "glare",
+    "n2": "glares",
+    "n3": "the glare",
+    "n4": "the glares",
+    "n5": "glare's",
+    "n6": "glares'",
+    "n7": "a glare",
+    "n8": "many glares"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "absenteeism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "absenteeism",
+    "n2": "absenteeisms",
+    "n3": "the absenteeism",
+    "n4": "the absenteeisms",
+    "n5": "absenteeism's",
+    "n6": "absenteeisms'",
+    "n7": "an absenteeism",
+    "n8": "many absenteeisms"
+}

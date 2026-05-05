@@ -1,0 +1,18 @@
+{
+    "base": "typhus fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "typhus fever",
+    "n2": "typhus fevers",
+    "n3": "the typhus fever",
+    "n4": "the typhus fevers",
+    "n5": "typhus fever's",
+    "n6": "typhus fevers'",
+    "n7": "a typhus fever",
+    "n8": "many typhus fevers"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "weakness",
-    "n2": "weakness",
+    "n2": "weaknesses",
     "n3": "the weakness",
-    "n4": "the weakness",
-    "n5": "weakness's"
+    "n4": "the weaknesses",
+    "n5": "weakness'",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n6": "weaknesses'",
+    "n7": "a weakness",
+    "n8": "many weaknesses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "niece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "niece",
+    "n2": "nieces",
+    "n3": "the niece",
+    "n4": "the nieces",
+    "n5": "niece's",
+    "n6": "nieces'",
+    "n7": "a niece",
+    "n8": "many nieces"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "westerner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "westerner",
+    "n2": "westerners",
+    "n3": "the westerner",
+    "n4": "the westerners",
+    "n5": "westerner's",
+    "n6": "westerners'",
+    "n7": "a westerner",
+    "n8": "many westerners"
+}

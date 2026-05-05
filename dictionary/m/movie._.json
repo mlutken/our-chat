@@ -7,5 +7,12 @@
     "n2": "movies",
     "n3": "the movie",
     "n4": "the movies",
-    "n5": "movie's"
+    "n5": "movie's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "movies'",
+    "n7": "a movie",
+    "n8": "many movies"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "confrontation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confrontation",
+    "n2": "confrontations",
+    "n3": "the confrontation",
+    "n4": "the confrontations",
+    "n5": "confrontation's",
+    "n6": "confrontations'",
+    "n7": "a confrontation",
+    "n8": "many confrontations"
+}

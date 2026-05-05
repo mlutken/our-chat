@@ -1,11 +1,24 @@
 {
     "base": "cook",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cook",
     "v2": "cooked",
     "v3": "cooked",
     "v4": "cooking",
-    "v5": "cooks"
+    "v5": "cooks",
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "cook",
+    "n2": "cooks",
+    "n3": "the cook",
+    "n4": "the cooks",
+    "n5": "cook's",
+    "n6": "cooks'",
+    "n7": "a cook",
+    "n8": "many cooks"
 }

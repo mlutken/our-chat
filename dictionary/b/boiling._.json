@@ -1,0 +1,18 @@
+{
+    "base": "boiling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boiling",
+    "n2": "boilings",
+    "n3": "the boiling",
+    "n4": "the boilings",
+    "n5": "boiling's",
+    "n6": "boilings'",
+    "n7": "a boiling",
+    "n8": "many boilings"
+}

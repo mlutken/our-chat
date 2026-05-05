@@ -13,5 +13,12 @@
     "v2": "traded",
     "v3": "traded",
     "v4": "trading",
-    "v5": "trades"
+    "v5": "trades",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n6": "trades'",
+    "n7": "a trade",
+    "n8": "many trades"
 }

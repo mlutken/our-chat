@@ -1,0 +1,18 @@
+{
+    "base": "father-god",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "father-god",
+    "n2": "father-gods",
+    "n3": "the father-god",
+    "n4": "the father-gods",
+    "n5": "father-god's",
+    "n6": "father-gods'",
+    "n7": "a father-god",
+    "n8": "many father-gods"
+}

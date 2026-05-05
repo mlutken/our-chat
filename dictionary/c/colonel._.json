@@ -1,0 +1,18 @@
+{
+    "base": "colonel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n1": "colonel",
+    "n2": "colonels",
+    "n3": "the colonel",
+    "n4": "the colonels",
+    "n5": "colonel's",
+    "n6": "colonels'",
+    "n7": "a colonel",
+    "n8": "many colonels"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "water vapor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water vapor",
+    "n2": "water vapors",
+    "n3": "the water vapor",
+    "n4": "the water vapors",
+    "n5": "water vapor's",
+    "n6": "water vapors'",
+    "n7": "a water vapor",
+    "n8": "many water vapors"
+}

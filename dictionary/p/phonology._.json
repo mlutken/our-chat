@@ -1,0 +1,18 @@
+{
+    "base": "phonology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "phonology",
+    "n2": "phonologies",
+    "n3": "the phonology",
+    "n4": "the phonologies",
+    "n5": "phonology's",
+    "n6": "phonologies'",
+    "n7": "a phonology",
+    "n8": "many phonologies"
+}

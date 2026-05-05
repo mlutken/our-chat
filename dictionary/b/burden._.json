@@ -1,0 +1,18 @@
+{
+    "base": "burden",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "burden",
+    "n2": "burdens",
+    "n3": "the burden",
+    "n4": "the burdens",
+    "n5": "burden's",
+    "n6": "burdens'",
+    "n7": "a burden",
+    "n8": "many burdens"
+}

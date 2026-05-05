@@ -1,0 +1,18 @@
+{
+    "base": "legibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legibility",
+    "n2": "legibilities",
+    "n3": "the legibility",
+    "n4": "the legibilities",
+    "n5": "legibility's",
+    "n6": "legibilities'",
+    "n7": "a legibility",
+    "n8": "many legibilities"
+}

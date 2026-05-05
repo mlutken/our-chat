@@ -1,0 +1,18 @@
+{
+    "base": "lemon tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lemon tree",
+    "n2": "lemon trees",
+    "n3": "the lemon tree",
+    "n4": "the lemon trees",
+    "n5": "lemon tree's",
+    "n6": "lemon trees'",
+    "n7": "a lemon tree",
+    "n8": "many lemon trees"
+}

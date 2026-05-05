@@ -7,5 +7,12 @@
     "n2": "inspirations",
     "n3": "the inspiration",
     "n4": "the inspirations",
-    "n5": "inspiration's"
+    "n5": "inspiration's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "inspirations'",
+    "n7": "an inspiration",
+    "n8": "many inspirations"
 }

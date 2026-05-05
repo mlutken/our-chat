@@ -1,0 +1,18 @@
+{
+    "base": "altercation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "altercation",
+    "n2": "altercations",
+    "n3": "the altercation",
+    "n4": "the altercations",
+    "n5": "altercation's",
+    "n6": "altercations'",
+    "n7": "an altercation",
+    "n8": "many altercations"
+}

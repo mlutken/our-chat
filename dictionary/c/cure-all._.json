@@ -1,0 +1,18 @@
+{
+    "base": "cure-all",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cure-all",
+    "n2": "cure-alls",
+    "n3": "the cure-all",
+    "n4": "the cure-alls",
+    "n5": "cure-all's",
+    "n6": "cure-alls'",
+    "n7": "a cure-all",
+    "n8": "many cure-alls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "letters",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "letters",
+    "n2": "letterses",
+    "n3": "the letters",
+    "n4": "the letterses",
+    "n5": "letters'",
+    "n6": "letterses'",
+    "n7": "a letters",
+    "n8": "many letterses"
+}

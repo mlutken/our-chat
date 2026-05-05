@@ -1,0 +1,18 @@
+{
+    "base": "sweeping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweeping",
+    "n2": "sweepings",
+    "n3": "the sweeping",
+    "n4": "the sweepings",
+    "n5": "sweeping's",
+    "n6": "sweepings'",
+    "n7": "a sweeping",
+    "n8": "many sweepings"
+}

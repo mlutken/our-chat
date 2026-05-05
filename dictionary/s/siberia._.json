@@ -1,0 +1,18 @@
+{
+    "base": "siberia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "siberia",
+    "n2": "siberias",
+    "n3": "the siberia",
+    "n4": "the siberias",
+    "n5": "siberia's",
+    "n6": "siberias'",
+    "n7": "a siberia",
+    "n8": "many siberias"
+}

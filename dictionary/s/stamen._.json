@@ -1,0 +1,18 @@
+{
+    "base": "stamen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stamen",
+    "n2": "stamina",
+    "n3": "the stamen",
+    "n4": "the stamina",
+    "n5": "stamen's",
+    "n6": "stamina's",
+    "n7": "a stamen",
+    "n8": "many stamina"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "redefinition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "redefinition",
+    "n2": "redefinitions",
+    "n3": "the redefinition",
+    "n4": "the redefinitions",
+    "n5": "redefinition's",
+    "n6": "redefinitions'",
+    "n7": "a redefinition",
+    "n8": "many redefinitions"
+}

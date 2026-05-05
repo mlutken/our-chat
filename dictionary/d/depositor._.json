@@ -1,0 +1,18 @@
+{
+    "base": "depositor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "depositor",
+    "n2": "depositors",
+    "n3": "the depositor",
+    "n4": "the depositors",
+    "n5": "depositor's",
+    "n6": "depositors'",
+    "n7": "a depositor",
+    "n8": "many depositors"
+}

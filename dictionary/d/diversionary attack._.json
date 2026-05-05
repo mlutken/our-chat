@@ -1,0 +1,18 @@
+{
+    "base": "diversionary attack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diversionary attack",
+    "n2": "diversionary attacks",
+    "n3": "the diversionary attack",
+    "n4": "the diversionary attacks",
+    "n5": "diversionary attack's",
+    "n6": "diversionary attacks'",
+    "n7": "a diversionary attack",
+    "n8": "many diversionary attacks"
+}

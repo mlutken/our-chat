@@ -7,5 +7,12 @@
     "n2": "contacts",
     "n3": "the contact",
     "n4": "the contacts",
-    "n5": "contact's"
+    "n5": "contact's",
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n6": "contacts'",
+    "n7": "a contact",
+    "n8": "many contacts"
 }

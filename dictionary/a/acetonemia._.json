@@ -1,0 +1,18 @@
+{
+    "base": "acetonemia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "acetonemia",
+    "n2": "acetonemias",
+    "n3": "the acetonemia",
+    "n4": "the acetonemias",
+    "n5": "acetonemia's",
+    "n6": "acetonemias'",
+    "n7": "an acetonemia",
+    "n8": "many acetonemias"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "delivery",
-    "n2": "deliverys",
+    "n2": "deliveries",
     "n3": "the delivery",
-    "n4": "the deliverys",
-    "n5": "delivery's"
+    "n4": "the deliveries",
+    "n5": "delivery's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "deliveries'",
+    "n7": "a delivery",
+    "n8": "many deliveries"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "vitals",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vitals",
+    "n2": "vitalses",
+    "n3": "the vitals",
+    "n4": "the vitalses",
+    "n5": "vitals'",
+    "n6": "vitalses'",
+    "n7": "a vitals",
+    "n8": "many vitalses"
+}

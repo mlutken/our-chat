@@ -1,0 +1,18 @@
+{
+    "base": "astonishment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "astonishment",
+    "n2": "astonishments",
+    "n3": "the astonishment",
+    "n4": "the astonishments",
+    "n5": "astonishment's",
+    "n6": "astonishments'",
+    "n7": "an astonishment",
+    "n8": "many astonishments"
+}

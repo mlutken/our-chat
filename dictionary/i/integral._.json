@@ -1,0 +1,18 @@
+{
+    "base": "integral",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "integral",
+    "n2": "integrals",
+    "n3": "the integral",
+    "n4": "the integrals",
+    "n5": "integral's",
+    "n6": "integrals'",
+    "n7": "an integral",
+    "n8": "many integrals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "negligence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "negligence",
+    "n2": "negligences",
+    "n3": "the negligence",
+    "n4": "the negligences",
+    "n5": "negligence's",
+    "n6": "negligences'",
+    "n7": "a negligence",
+    "n8": "many negligences"
+}

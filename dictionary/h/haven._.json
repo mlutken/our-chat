@@ -1,0 +1,18 @@
+{
+    "base": "haven",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "haven",
+    "n2": "havens",
+    "n3": "the haven",
+    "n4": "the havens",
+    "n5": "haven's",
+    "n6": "havens'",
+    "n7": "a haven",
+    "n8": "many havens"
+}

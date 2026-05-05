@@ -1,0 +1,18 @@
+{
+    "base": "midshipman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "midshipman",
+    "n2": "midshipmen",
+    "n3": "the midshipman",
+    "n4": "the midshipmen",
+    "n5": "midshipman's",
+    "n6": "midshipmen's",
+    "n7": "a midshipman",
+    "n8": "many midshipmen"
+}

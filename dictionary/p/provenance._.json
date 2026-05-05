@@ -1,0 +1,18 @@
+{
+    "base": "provenance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "provenance",
+    "n2": "provenances",
+    "n3": "the provenance",
+    "n4": "the provenances",
+    "n5": "provenance's",
+    "n6": "provenances'",
+    "n7": "a provenance",
+    "n8": "many provenances"
+}

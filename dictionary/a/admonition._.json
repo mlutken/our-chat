@@ -1,0 +1,18 @@
+{
+    "base": "admonition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "admonition",
+    "n2": "admonitions",
+    "n3": "the admonition",
+    "n4": "the admonitions",
+    "n5": "admonition's",
+    "n6": "admonitions'",
+    "n7": "an admonition",
+    "n8": "many admonitions"
+}

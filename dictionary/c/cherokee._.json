@@ -1,0 +1,18 @@
+{
+    "base": "cherokee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cherokee",
+    "n2": "cherokees",
+    "n3": "the cherokee",
+    "n4": "the cherokees",
+    "n5": "cherokee's",
+    "n6": "cherokees'",
+    "n7": "a cherokee",
+    "n8": "many cherokees"
+}

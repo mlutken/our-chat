@@ -1,0 +1,18 @@
+{
+    "base": "halogen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "halogen",
+    "n2": "halogens",
+    "n3": "the halogen",
+    "n4": "the halogens",
+    "n5": "halogen's",
+    "n6": "halogens'",
+    "n7": "a halogen",
+    "n8": "many halogens"
+}

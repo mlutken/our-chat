@@ -1,0 +1,18 @@
+{
+    "base": "stone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n1": "stone",
+    "n2": "stones",
+    "n3": "the stone",
+    "n4": "the stones",
+    "n5": "stone's",
+    "n6": "stones'",
+    "n7": "a stone",
+    "n8": "many stones"
+}

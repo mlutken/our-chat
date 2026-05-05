@@ -1,0 +1,18 @@
+{
+    "base": "outboard motor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outboard motor",
+    "n2": "outboard motors",
+    "n3": "the outboard motor",
+    "n4": "the outboard motors",
+    "n5": "outboard motor's",
+    "n6": "outboard motors'",
+    "n7": "an outboard motor",
+    "n8": "many outboard motors"
+}

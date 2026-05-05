@@ -1,0 +1,18 @@
+{
+    "base": "good guy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "good guy",
+    "n2": "good guys",
+    "n3": "the good guy",
+    "n4": "the good guys",
+    "n5": "good guy's",
+    "n6": "good guys'",
+    "n7": "a good guy",
+    "n8": "many good guys"
+}

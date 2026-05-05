@@ -1,0 +1,18 @@
+{
+    "base": "rehearsal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rehearsal",
+    "n2": "rehearsals",
+    "n3": "the rehearsal",
+    "n4": "the rehearsals",
+    "n5": "rehearsal's",
+    "n6": "rehearsals'",
+    "n7": "a rehearsal",
+    "n8": "many rehearsals"
+}

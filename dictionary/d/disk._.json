@@ -7,5 +7,12 @@
     "n2": "disks",
     "n3": "the disk",
     "n4": "the disks",
-    "n5": "disk's"
+    "n5": "disk's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "disks'",
+    "n7": "a disk",
+    "n8": "many disks"
 }

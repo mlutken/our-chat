@@ -1,0 +1,18 @@
+{
+    "base": "azimuth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "azimuth",
+    "n2": "azimuths",
+    "n3": "the azimuth",
+    "n4": "the azimuths",
+    "n5": "azimuth's",
+    "n6": "azimuths'",
+    "n7": "an azimuth",
+    "n8": "many azimuths"
+}

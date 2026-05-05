@@ -1,0 +1,18 @@
+{
+    "base": "ultraviolet spectrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ultraviolet spectrum",
+    "n2": "ultraviolet spectrums",
+    "n3": "the ultraviolet spectrum",
+    "n4": "the ultraviolet spectrums",
+    "n5": "ultraviolet spectrum's",
+    "n6": "ultraviolet spectrums'",
+    "n7": "an ultraviolet spectrum",
+    "n8": "many ultraviolet spectrums"
+}

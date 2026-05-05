@@ -1,0 +1,18 @@
+{
+    "base": "years",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "years",
+    "n2": "yearses",
+    "n3": "the years",
+    "n4": "the yearses",
+    "n5": "years'",
+    "n6": "yearses'",
+    "n7": "a years",
+    "n8": "many yearses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "groom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "groom",
+    "n2": "grooms",
+    "n3": "the groom",
+    "n4": "the grooms",
+    "n5": "groom's",
+    "n6": "grooms'",
+    "n7": "a groom",
+    "n8": "many grooms"
+}

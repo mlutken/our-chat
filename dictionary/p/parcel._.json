@@ -1,0 +1,18 @@
+{
+    "base": "parcel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parcel",
+    "n2": "parcels",
+    "n3": "the parcel",
+    "n4": "the parcels",
+    "n5": "parcel's",
+    "n6": "parcels'",
+    "n7": "a parcel",
+    "n8": "many parcels"
+}

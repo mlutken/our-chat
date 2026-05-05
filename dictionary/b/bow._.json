@@ -1,11 +1,24 @@
 {
     "base": "bow",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "bow",
     "v2": "bowed",
     "v3": "bowed",
     "v4": "bowing",
-    "v5": "bows"
+    "v5": "bows",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bow",
+    "n2": "bows",
+    "n3": "the bow",
+    "n4": "the bows",
+    "n5": "bow's",
+    "n6": "bows'",
+    "n7": "a bow",
+    "n8": "many bows"
 }

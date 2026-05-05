@@ -1,0 +1,18 @@
+{
+    "base": "preacher",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "preacher",
+    "n2": "preachers",
+    "n3": "the preacher",
+    "n4": "the preachers",
+    "n5": "preacher's",
+    "n6": "preachers'",
+    "n7": "a preacher",
+    "n8": "many preachers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "eggs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "eggs",
+    "n2": "eggses",
+    "n3": "the eggs",
+    "n4": "the eggses",
+    "n5": "eggs'",
+    "n6": "eggses'",
+    "n7": "an eggs",
+    "n8": "many eggses"
+}

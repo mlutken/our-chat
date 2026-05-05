@@ -1,0 +1,18 @@
+{
+    "base": "elector",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "elector",
+    "n2": "electors",
+    "n3": "the elector",
+    "n4": "the electors",
+    "n5": "elector's",
+    "n6": "electors'",
+    "n7": "an elector",
+    "n8": "many electors"
+}

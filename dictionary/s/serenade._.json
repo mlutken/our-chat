@@ -1,0 +1,18 @@
+{
+    "base": "serenade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "serenade",
+    "n2": "serenades",
+    "n3": "the serenade",
+    "n4": "the serenades",
+    "n5": "serenade's",
+    "n6": "serenades'",
+    "n7": "a serenade",
+    "n8": "many serenades"
+}

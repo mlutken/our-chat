@@ -1,0 +1,18 @@
+{
+    "base": "boston",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "boston",
+    "n2": "bostons",
+    "n3": "the boston",
+    "n4": "the bostons",
+    "n5": "boston's",
+    "n6": "bostons'",
+    "n7": "a boston",
+    "n8": "many bostons"
+}

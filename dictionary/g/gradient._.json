@@ -1,0 +1,18 @@
+{
+    "base": "gradient",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "gradient",
+    "n2": "gradients",
+    "n3": "the gradient",
+    "n4": "the gradients",
+    "n5": "gradient's",
+    "n6": "gradients'",
+    "n7": "a gradient",
+    "n8": "many gradients"
+}

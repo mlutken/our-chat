@@ -1,11 +1,24 @@
 {
     "base": "show",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "show",
     "v2": "showed",
     "v3": "shown",
     "v4": "showing",
-    "v5": "shows"
+    "v5": "shows",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "show",
+    "n2": "shows",
+    "n3": "the show",
+    "n4": "the shows",
+    "n5": "show's",
+    "n6": "shows'",
+    "n7": "a show",
+    "n8": "many shows"
 }

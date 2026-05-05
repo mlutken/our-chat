@@ -1,0 +1,18 @@
+{
+    "base": "beef",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "beef",
+    "n2": "beeves",
+    "n3": "the beef",
+    "n4": "the beeves",
+    "n5": "beef's",
+    "n6": "beeves'",
+    "n7": "a beef",
+    "n8": "many beeves"
+}

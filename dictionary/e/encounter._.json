@@ -1,0 +1,18 @@
+{
+    "base": "encounter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "encounter",
+    "n2": "encounters",
+    "n3": "the encounter",
+    "n4": "the encounters",
+    "n5": "encounter's",
+    "n6": "encounters'",
+    "n7": "an encounter",
+    "n8": "many encounters"
+}

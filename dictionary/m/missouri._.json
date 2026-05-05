@@ -1,0 +1,18 @@
+{
+    "base": "missouri",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "missouri",
+    "n2": "missouris",
+    "n3": "the missouri",
+    "n4": "the missouris",
+    "n5": "missouri's",
+    "n6": "missouris'",
+    "n7": "a missouri",
+    "n8": "many missouris"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "deceased",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deceased",
+    "n2": "deceaseds",
+    "n3": "the deceased",
+    "n4": "the deceaseds",
+    "n5": "deceased's",
+    "n6": "deceaseds'",
+    "n7": "a deceased",
+    "n8": "many deceaseds"
+}

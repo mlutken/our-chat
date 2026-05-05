@@ -7,5 +7,12 @@
     "n2": "recordings",
     "n3": "the recording",
     "n4": "the recordings",
-    "n5": "recording's"
+    "n5": "recording's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "recordings'",
+    "n7": "a recording",
+    "n8": "many recordings"
 }

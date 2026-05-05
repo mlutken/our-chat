@@ -1,0 +1,18 @@
+{
+    "base": "detonating fuse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "detonating fuse",
+    "n2": "detonating fuses",
+    "n3": "the detonating fuse",
+    "n4": "the detonating fuses",
+    "n5": "detonating fuse's",
+    "n6": "detonating fuses'",
+    "n7": "a detonating fuse",
+    "n8": "many detonating fuses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "squirrel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "squirrel",
+    "n2": "squirrels",
+    "n3": "the squirrel",
+    "n4": "the squirrels",
+    "n5": "squirrel's",
+    "n6": "squirrels'",
+    "n7": "a squirrel",
+    "n8": "many squirrels"
+}

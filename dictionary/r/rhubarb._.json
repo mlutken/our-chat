@@ -1,0 +1,18 @@
+{
+    "base": "rhubarb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rhubarb",
+    "n2": "rhubarbs",
+    "n3": "the rhubarb",
+    "n4": "the rhubarbs",
+    "n5": "rhubarb's",
+    "n6": "rhubarbs'",
+    "n7": "a rhubarb",
+    "n8": "many rhubarbs"
+}

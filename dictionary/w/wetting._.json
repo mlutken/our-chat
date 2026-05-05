@@ -1,0 +1,18 @@
+{
+    "base": "wetting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wetting",
+    "n2": "wettings",
+    "n3": "the wetting",
+    "n4": "the wettings",
+    "n5": "wetting's",
+    "n6": "wettings'",
+    "n7": "a wetting",
+    "n8": "many wettings"
+}

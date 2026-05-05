@@ -1,0 +1,18 @@
+{
+    "base": "steamboat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steamboat",
+    "n2": "steamboats",
+    "n3": "the steamboat",
+    "n4": "the steamboats",
+    "n5": "steamboat's",
+    "n6": "steamboats'",
+    "n7": "a steamboat",
+    "n8": "many steamboats"
+}

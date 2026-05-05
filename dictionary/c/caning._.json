@@ -1,0 +1,18 @@
+{
+    "base": "caning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caning",
+    "n2": "canings",
+    "n3": "the caning",
+    "n4": "the canings",
+    "n5": "caning's",
+    "n6": "canings'",
+    "n7": "a caning",
+    "n8": "many canings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "naturopath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "naturopath",
+    "n2": "naturopaths",
+    "n3": "the naturopath",
+    "n4": "the naturopaths",
+    "n5": "naturopath's",
+    "n6": "naturopaths'",
+    "n7": "a naturopath",
+    "n8": "many naturopaths"
+}

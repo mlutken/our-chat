@@ -1,0 +1,18 @@
+{
+    "base": "cantle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cantle",
+    "n2": "cantles",
+    "n3": "the cantle",
+    "n4": "the cantles",
+    "n5": "cantle's",
+    "n6": "cantles'",
+    "n7": "a cantle",
+    "n8": "many cantles"
+}

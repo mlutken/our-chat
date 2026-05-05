@@ -1,0 +1,18 @@
+{
+    "base": "reviewer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reviewer",
+    "n2": "reviewers",
+    "n3": "the reviewer",
+    "n4": "the reviewers",
+    "n5": "reviewer's",
+    "n6": "reviewers'",
+    "n7": "a reviewer",
+    "n8": "many reviewers"
+}

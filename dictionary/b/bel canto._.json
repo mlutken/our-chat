@@ -1,0 +1,18 @@
+{
+    "base": "bel canto",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bel canto",
+    "n2": "bel cantos",
+    "n3": "the bel canto",
+    "n4": "the bel cantos",
+    "n5": "bel canto's",
+    "n6": "bel cantos'",
+    "n7": "a bel canto",
+    "n8": "many bel cantos"
+}

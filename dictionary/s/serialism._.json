@@ -1,0 +1,18 @@
+{
+    "base": "serialism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "serialism",
+    "n2": "serialisms",
+    "n3": "the serialism",
+    "n4": "the serialisms",
+    "n5": "serialism's",
+    "n6": "serialisms'",
+    "n7": "a serialism",
+    "n8": "many serialisms"
+}

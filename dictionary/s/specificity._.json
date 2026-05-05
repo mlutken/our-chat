@@ -1,0 +1,18 @@
+{
+    "base": "specificity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "specificity",
+    "n2": "specificities",
+    "n3": "the specificity",
+    "n4": "the specificities",
+    "n5": "specificity's",
+    "n6": "specificities'",
+    "n7": "a specificity",
+    "n8": "many specificities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "work-study program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "work-study program",
+    "n2": "work-study programs",
+    "n3": "the work-study program",
+    "n4": "the work-study programs",
+    "n5": "work-study program's",
+    "n6": "work-study programs'",
+    "n7": "a work-study program",
+    "n8": "many work-study programs"
+}

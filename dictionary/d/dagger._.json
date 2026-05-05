@@ -1,0 +1,18 @@
+{
+    "base": "dagger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dagger",
+    "n2": "daggers",
+    "n3": "the dagger",
+    "n4": "the daggers",
+    "n5": "dagger's",
+    "n6": "daggers'",
+    "n7": "a dagger",
+    "n8": "many daggers"
+}

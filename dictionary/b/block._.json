@@ -7,5 +7,12 @@
     "n2": "blocks",
     "n3": "the block",
     "n4": "the blocks",
-    "n5": "block's"
+    "n5": "block's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "blocks'",
+    "n7": "a block",
+    "n8": "many blocks"
 }

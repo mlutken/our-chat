@@ -7,5 +7,12 @@
     "n2": "promotions",
     "n3": "the promotion",
     "n4": "the promotions",
-    "n5": "promotion's"
+    "n5": "promotion's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "promotions'",
+    "n7": "a promotion",
+    "n8": "many promotions"
 }

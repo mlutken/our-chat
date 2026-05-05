@@ -1,0 +1,18 @@
+{
+    "base": "turf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "turf",
+    "n2": "turves",
+    "n3": "the turf",
+    "n4": "the turves",
+    "n5": "turf's",
+    "n6": "turves'",
+    "n7": "a turf",
+    "n8": "many turves"
+}

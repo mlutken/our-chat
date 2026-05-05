@@ -1,0 +1,18 @@
+{
+    "base": "inaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inaction",
+    "n2": "inactions",
+    "n3": "the inaction",
+    "n4": "the inactions",
+    "n5": "inaction's",
+    "n6": "inactions'",
+    "n7": "an inaction",
+    "n8": "many inactions"
+}

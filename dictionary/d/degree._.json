@@ -7,5 +7,12 @@
     "n2": "degrees",
     "n3": "the degree",
     "n4": "the degrees",
-    "n5": "degree's"
+    "n5": "degree's",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "degrees'",
+    "n7": "a degree",
+    "n8": "many degrees"
 }

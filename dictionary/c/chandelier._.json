@@ -1,0 +1,18 @@
+{
+    "base": "chandelier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "chandelier",
+    "n2": "chandeliers",
+    "n3": "the chandelier",
+    "n4": "the chandeliers",
+    "n5": "chandelier's",
+    "n6": "chandeliers'",
+    "n7": "a chandelier",
+    "n8": "many chandeliers"
+}

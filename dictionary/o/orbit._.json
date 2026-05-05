@@ -1,0 +1,18 @@
+{
+    "base": "orbit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "orbit",
+    "n2": "orbits",
+    "n3": "the orbit",
+    "n4": "the orbits",
+    "n5": "orbit's",
+    "n6": "orbits'",
+    "n7": "an orbit",
+    "n8": "many orbits"
+}

@@ -7,5 +7,12 @@
     "n2": "directors",
     "n3": "the director",
     "n4": "the directors",
-    "n5": "director's"
+    "n5": "director's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "directors'",
+    "n7": "a director",
+    "n8": "many directors"
 }

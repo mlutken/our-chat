@@ -7,5 +7,12 @@
     "n2": "skins",
     "n3": "the skin",
     "n4": "the skins",
-    "n5": "skin's"
+    "n5": "skin's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "skins'",
+    "n7": "a skin",
+    "n8": "many skins"
 }

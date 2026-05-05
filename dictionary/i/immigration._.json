@@ -1,0 +1,18 @@
+{
+    "base": "immigration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "immigration",
+    "n2": "immigrations",
+    "n3": "the immigration",
+    "n4": "the immigrations",
+    "n5": "immigration's",
+    "n6": "immigrations'",
+    "n7": "an immigration",
+    "n8": "many immigrations"
+}

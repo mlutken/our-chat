@@ -1,0 +1,18 @@
+{
+    "base": "industrialism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "industrialism",
+    "n2": "industrialisms",
+    "n3": "the industrialism",
+    "n4": "the industrialisms",
+    "n5": "industrialism's",
+    "n6": "industrialisms'",
+    "n7": "an industrialism",
+    "n8": "many industrialisms"
+}

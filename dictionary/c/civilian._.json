@@ -1,0 +1,18 @@
+{
+    "base": "civilian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "civilian",
+    "n2": "civilians",
+    "n3": "the civilian",
+    "n4": "the civilians",
+    "n5": "civilian's",
+    "n6": "civilians'",
+    "n7": "a civilian",
+    "n8": "many civilians"
+}

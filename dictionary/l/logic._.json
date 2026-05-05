@@ -1,0 +1,18 @@
+{
+    "base": "logic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "logic",
+    "n2": "logics",
+    "n3": "the logic",
+    "n4": "the logics",
+    "n5": "logic's",
+    "n6": "logics'",
+    "n7": "a logic",
+    "n8": "many logics"
+}

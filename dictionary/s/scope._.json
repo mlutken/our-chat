@@ -1,0 +1,18 @@
+{
+    "base": "scope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "scope",
+    "n2": "scopes",
+    "n3": "the scope",
+    "n4": "the scopes",
+    "n5": "scope's",
+    "n6": "scopes'",
+    "n7": "a scope",
+    "n8": "many scopes"
+}

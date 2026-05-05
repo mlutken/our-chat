@@ -1,0 +1,18 @@
+{
+    "base": "horror",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "horror",
+    "n2": "horrors",
+    "n3": "the horror",
+    "n4": "the horrors",
+    "n5": "horror's",
+    "n6": "horrors'",
+    "n7": "a horror",
+    "n8": "many horrors"
+}

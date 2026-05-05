@@ -1,0 +1,18 @@
+{
+    "base": "dipper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "dipper",
+    "n2": "dippers",
+    "n3": "the dipper",
+    "n4": "the dippers",
+    "n5": "dipper's",
+    "n6": "dippers'",
+    "n7": "a dipper",
+    "n8": "many dippers"
+}

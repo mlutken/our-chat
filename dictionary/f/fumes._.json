@@ -1,0 +1,18 @@
+{
+    "base": "fumes",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fumes",
+    "n2": "fumeses",
+    "n3": "the fumes",
+    "n4": "the fumeses",
+    "n5": "fumes'",
+    "n6": "fumeses'",
+    "n7": "a fumes",
+    "n8": "many fumeses"
+}

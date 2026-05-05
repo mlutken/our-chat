@@ -87,6 +87,13 @@ def print_usage_examples(exe_name):
 
     print(f"--- Example Chat simple: ---\npython {exe_name}  --mode chat-simple\n" )
 
+    print("**********************")
+    print("****Info debugging ***")
+    print("**********************")
+    print(" 1) Run with strace to log downloaded data")
+    print("   Add strace: strace -e trace=read,write,connect -f -o strace.log python our-chat.py YOUR-ARGUMENTS")
+    print("   Analyze log after: grep -oP 'read\([0-9]+,.*\) = \K[0-9]+' strace.log | awk '{sum+=$1} END {print \"Total bytes read:\", sum, \"(\" sum/1024/1024 \" MB)\"}' ")
+
     print("")
     print_tested_hugging_face_foundation_training_sets(exe_name)
 
@@ -169,7 +176,7 @@ print("records_to_process       : ", args.records_to_process)
 print("records_start_index      : ", args.records_start_index)
 print("save_model               : ", args.save_model)
 print("load_model               : ", args.load_model)
-print("default_start_context    : ", default_start_context)
+print("start_context            : ", args.start_context)
 print("train_uri                : ", args.train_uri)
 print("validation_uri           : ", args.validation_uri)
 print("dataset_name             : ", args.dataset_name)

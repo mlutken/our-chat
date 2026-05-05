@@ -1,0 +1,18 @@
+{
+    "base": "tenant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "tenant",
+    "n2": "tenants",
+    "n3": "the tenant",
+    "n4": "the tenants",
+    "n5": "tenant's",
+    "n6": "tenants'",
+    "n7": "a tenant",
+    "n8": "many tenants"
+}

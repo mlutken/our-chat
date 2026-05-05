@@ -1,0 +1,18 @@
+{
+    "base": "dissenter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dissenter",
+    "n2": "dissenters",
+    "n3": "the dissenter",
+    "n4": "the dissenters",
+    "n5": "dissenter's",
+    "n6": "dissenters'",
+    "n7": "a dissenter",
+    "n8": "many dissenters"
+}

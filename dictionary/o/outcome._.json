@@ -7,5 +7,12 @@
     "n2": "outcomes",
     "n3": "the outcome",
     "n4": "the outcomes",
-    "n5": "outcome's"
+    "n5": "outcome's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "outcomes'",
+    "n7": "an outcome",
+    "n8": "many outcomes"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "wrongdoing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wrongdoing",
+    "n2": "wrongdoings",
+    "n3": "the wrongdoing",
+    "n4": "the wrongdoings",
+    "n5": "wrongdoing's",
+    "n6": "wrongdoings'",
+    "n7": "a wrongdoing",
+    "n8": "many wrongdoings"
+}

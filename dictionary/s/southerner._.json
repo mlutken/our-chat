@@ -1,0 +1,18 @@
+{
+    "base": "southerner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "southerner",
+    "n2": "southerners",
+    "n3": "the southerner",
+    "n4": "the southerners",
+    "n5": "southerner's",
+    "n6": "southerners'",
+    "n7": "a southerner",
+    "n8": "many southerners"
+}

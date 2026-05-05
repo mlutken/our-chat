@@ -1,0 +1,18 @@
+{
+    "base": "imperialism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "imperialism",
+    "n2": "imperialisms",
+    "n3": "the imperialism",
+    "n4": "the imperialisms",
+    "n5": "imperialism's",
+    "n6": "imperialisms'",
+    "n7": "an imperialism",
+    "n8": "many imperialisms"
+}

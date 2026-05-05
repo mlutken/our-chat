@@ -1,0 +1,18 @@
+{
+    "base": "retort",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retort",
+    "n2": "retorts",
+    "n3": "the retort",
+    "n4": "the retorts",
+    "n5": "retort's",
+    "n6": "retorts'",
+    "n7": "a retort",
+    "n8": "many retorts"
+}

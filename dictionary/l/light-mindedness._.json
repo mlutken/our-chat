@@ -1,0 +1,18 @@
+{
+    "base": "light-mindedness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "light-mindedness",
+    "n2": "light-mindednesses",
+    "n3": "the light-mindedness",
+    "n4": "the light-mindednesses",
+    "n5": "light-mindedness'",
+    "n6": "light-mindednesses'",
+    "n7": "a light-mindedness",
+    "n8": "many light-mindednesses"
+}

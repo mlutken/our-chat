@@ -1,11 +1,24 @@
 {
     "base": "judge",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "judge",
     "v2": "judged",
     "v3": "judged",
     "v4": "judging",
-    "v5": "judges"
+    "v5": "judges",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "judge",
+    "n2": "judges",
+    "n3": "the judge",
+    "n4": "the judges",
+    "n5": "judge's",
+    "n6": "judges'",
+    "n7": "a judge",
+    "n8": "many judges"
 }

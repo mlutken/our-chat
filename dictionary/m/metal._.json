@@ -7,5 +7,12 @@
     "n2": "metals",
     "n3": "the metal",
     "n4": "the metals",
-    "n5": "metal's"
+    "n5": "metal's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "metals'",
+    "n7": "a metal",
+    "n8": "many metals"
 }

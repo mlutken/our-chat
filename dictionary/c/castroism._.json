@@ -1,0 +1,18 @@
+{
+    "base": "castroism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "castroism",
+    "n2": "castroisms",
+    "n3": "the castroism",
+    "n4": "the castroisms",
+    "n5": "castroism's",
+    "n6": "castroisms'",
+    "n7": "a castroism",
+    "n8": "many castroisms"
+}

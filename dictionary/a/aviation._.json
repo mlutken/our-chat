@@ -1,0 +1,18 @@
+{
+    "base": "aviation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aviation",
+    "n2": "aviations",
+    "n3": "the aviation",
+    "n4": "the aviations",
+    "n5": "aviation's",
+    "n6": "aviations'",
+    "n7": "an aviation",
+    "n8": "many aviations"
+}

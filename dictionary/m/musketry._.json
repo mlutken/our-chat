@@ -1,0 +1,18 @@
+{
+    "base": "musketry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "musketry",
+    "n2": "musketries",
+    "n3": "the musketry",
+    "n4": "the musketries",
+    "n5": "musketry's",
+    "n6": "musketries'",
+    "n7": "a musketry",
+    "n8": "many musketries"
+}

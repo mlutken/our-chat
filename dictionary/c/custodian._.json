@@ -1,0 +1,18 @@
+{
+    "base": "custodian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "custodian",
+    "n2": "custodians",
+    "n3": "the custodian",
+    "n4": "the custodians",
+    "n5": "custodian's",
+    "n6": "custodians'",
+    "n7": "a custodian",
+    "n8": "many custodians"
+}

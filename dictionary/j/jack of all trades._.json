@@ -1,0 +1,18 @@
+{
+    "base": "jack of all trades",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jack of all trades",
+    "n2": "jack of all tradeses",
+    "n3": "the jack of all trades",
+    "n4": "the jack of all tradeses",
+    "n5": "jack of all trades'",
+    "n6": "jack of all tradeses'",
+    "n7": "a jack of all trades",
+    "n8": "many jack of all tradeses"
+}

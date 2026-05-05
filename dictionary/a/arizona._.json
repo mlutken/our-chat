@@ -1,0 +1,18 @@
+{
+    "base": "arizona",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "arizona",
+    "n2": "arizonas",
+    "n3": "the arizona",
+    "n4": "the arizonas",
+    "n5": "arizona's",
+    "n6": "arizonas'",
+    "n7": "an arizona",
+    "n8": "many arizonas"
+}

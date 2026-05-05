@@ -1,0 +1,18 @@
+{
+    "base": "ebony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ebony",
+    "n2": "ebonies",
+    "n3": "the ebony",
+    "n4": "the ebonies",
+    "n5": "ebony's",
+    "n6": "ebonies'",
+    "n7": "an ebony",
+    "n8": "many ebonies"
+}

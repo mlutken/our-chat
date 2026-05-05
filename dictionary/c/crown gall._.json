@@ -1,0 +1,18 @@
+{
+    "base": "crown gall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "crown gall",
+    "n2": "crown galls",
+    "n3": "the crown gall",
+    "n4": "the crown galls",
+    "n5": "crown gall's",
+    "n6": "crown galls'",
+    "n7": "a crown gall",
+    "n8": "many crown galls"
+}

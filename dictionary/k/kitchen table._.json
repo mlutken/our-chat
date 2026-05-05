@@ -1,0 +1,18 @@
+{
+    "base": "kitchen table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kitchen table",
+    "n2": "kitchen tables",
+    "n3": "the kitchen table",
+    "n4": "the kitchen tables",
+    "n5": "kitchen table's",
+    "n6": "kitchen tables'",
+    "n7": "a kitchen table",
+    "n8": "many kitchen tables"
+}

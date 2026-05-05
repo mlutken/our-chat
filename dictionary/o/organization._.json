@@ -7,5 +7,12 @@
     "n2": "organizations",
     "n3": "the organization",
     "n4": "the organizations",
-    "n5": "organization's"
+    "n5": "organization's",
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n6": "organizations'",
+    "n7": "an organization",
+    "n8": "many organizations"
 }

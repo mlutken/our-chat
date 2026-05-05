@@ -1,0 +1,18 @@
+{
+    "base": "showing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "showing",
+    "n2": "showings",
+    "n3": "the showing",
+    "n4": "the showings",
+    "n5": "showing's",
+    "n6": "showings'",
+    "n7": "a showing",
+    "n8": "many showings"
+}

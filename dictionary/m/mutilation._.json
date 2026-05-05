@@ -1,0 +1,18 @@
+{
+    "base": "mutilation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mutilation",
+    "n2": "mutilations",
+    "n3": "the mutilation",
+    "n4": "the mutilations",
+    "n5": "mutilation's",
+    "n6": "mutilations'",
+    "n7": "a mutilation",
+    "n8": "many mutilations"
+}

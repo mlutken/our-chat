@@ -1,0 +1,18 @@
+{
+    "base": "wager",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wager",
+    "n2": "wagers",
+    "n3": "the wager",
+    "n4": "the wagers",
+    "n5": "wager's",
+    "n6": "wagers'",
+    "n7": "a wager",
+    "n8": "many wagers"
+}

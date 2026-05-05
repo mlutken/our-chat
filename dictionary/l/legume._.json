@@ -1,0 +1,18 @@
+{
+    "base": "legume",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legume",
+    "n2": "legumes",
+    "n3": "the legume",
+    "n4": "the legumes",
+    "n5": "legume's",
+    "n6": "legumes'",
+    "n7": "a legume",
+    "n8": "many legumes"
+}

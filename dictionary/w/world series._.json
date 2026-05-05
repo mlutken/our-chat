@@ -1,0 +1,18 @@
+{
+    "base": "world series",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "world series",
+    "n2": "world serieses",
+    "n3": "the world series",
+    "n4": "the world serieses",
+    "n5": "world series'",
+    "n6": "world serieses'",
+    "n7": "a world series",
+    "n8": "many world serieses"
+}

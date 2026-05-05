@@ -1,0 +1,18 @@
+{
+    "base": "defendant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "defendant",
+    "n2": "defendants",
+    "n3": "the defendant",
+    "n4": "the defendants",
+    "n5": "defendant's",
+    "n6": "defendants'",
+    "n7": "a defendant",
+    "n8": "many defendants"
+}

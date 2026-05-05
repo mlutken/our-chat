@@ -1,0 +1,18 @@
+{
+    "base": "coyote",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coyote",
+    "n2": "coyotes",
+    "n3": "the coyote",
+    "n4": "the coyotes",
+    "n5": "coyote's",
+    "n6": "coyotes'",
+    "n7": "a coyote",
+    "n8": "many coyotes"
+}

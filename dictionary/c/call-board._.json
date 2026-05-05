@@ -1,0 +1,18 @@
+{
+    "base": "call-board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "call-board",
+    "n2": "call-boards",
+    "n3": "the call-board",
+    "n4": "the call-boards",
+    "n5": "call-board's",
+    "n6": "call-boards'",
+    "n7": "a call-board",
+    "n8": "many call-boards"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "airspeed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "airspeed",
+    "n2": "airspeeds",
+    "n3": "the airspeed",
+    "n4": "the airspeeds",
+    "n5": "airspeed's",
+    "n6": "airspeeds'",
+    "n7": "an airspeed",
+    "n8": "many airspeeds"
+}

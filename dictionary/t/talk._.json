@@ -1,11 +1,24 @@
 {
     "base": "talk",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "talk",
     "v2": "talked",
     "v3": "talked",
     "v4": "talking",
-    "v5": "talks"
+    "v5": "talks",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "talk",
+    "n2": "talks",
+    "n3": "the talk",
+    "n4": "the talks",
+    "n5": "talk's",
+    "n6": "talks'",
+    "n7": "a talk",
+    "n8": "many talks"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "digitalization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "digitalization",
+    "n2": "digitalizations",
+    "n3": "the digitalization",
+    "n4": "the digitalizations",
+    "n5": "digitalization's",
+    "n6": "digitalizations'",
+    "n7": "a digitalization",
+    "n8": "many digitalizations"
+}

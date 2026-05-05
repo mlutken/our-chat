@@ -1,0 +1,18 @@
+{
+    "base": "verve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "verve",
+    "n2": "verves",
+    "n3": "the verve",
+    "n4": "the verves",
+    "n5": "verve's",
+    "n6": "verves'",
+    "n7": "a verve",
+    "n8": "many verves"
+}

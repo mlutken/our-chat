@@ -1,0 +1,18 @@
+{
+    "base": "escheat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "escheat",
+    "n2": "escheats",
+    "n3": "the escheat",
+    "n4": "the escheats",
+    "n5": "escheat's",
+    "n6": "escheats'",
+    "n7": "an escheat",
+    "n8": "many escheats"
+}

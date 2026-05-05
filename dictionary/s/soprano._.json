@@ -1,0 +1,18 @@
+{
+    "base": "soprano",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "soprano",
+    "n2": "soprani",
+    "n3": "the soprano",
+    "n4": "the soprani",
+    "n5": "soprano's",
+    "n6": "soprani's",
+    "n7": "a soprano",
+    "n8": "many soprani"
+}

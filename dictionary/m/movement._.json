@@ -7,5 +7,12 @@
     "n2": "movements",
     "n3": "the movement",
     "n4": "the movements",
-    "n5": "movement's"
+    "n5": "movement's",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "movements'",
+    "n7": "a movement",
+    "n8": "many movements"
 }

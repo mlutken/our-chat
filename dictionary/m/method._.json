@@ -7,5 +7,12 @@
     "n2": "methods",
     "n3": "the method",
     "n4": "the methods",
-    "n5": "method's"
+    "n5": "method's",
+    "proper": false,
+    "commonness": 99,
+    "max_commonness": 6834,
+    "commonness_ge_count": 120,
+    "n6": "methods'",
+    "n7": "a method",
+    "n8": "many methods"
 }

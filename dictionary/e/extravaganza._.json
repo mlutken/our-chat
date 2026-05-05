@@ -1,0 +1,18 @@
+{
+    "base": "extravaganza",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "extravaganza",
+    "n2": "extravaganzas",
+    "n3": "the extravaganza",
+    "n4": "the extravaganzas",
+    "n5": "extravaganza's",
+    "n6": "extravaganzas'",
+    "n7": "an extravaganza",
+    "n8": "many extravaganzas"
+}

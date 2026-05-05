@@ -1,0 +1,18 @@
+{
+    "base": "fadeout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fadeout",
+    "n2": "fadeouts",
+    "n3": "the fadeout",
+    "n4": "the fadeouts",
+    "n5": "fadeout's",
+    "n6": "fadeouts'",
+    "n7": "a fadeout",
+    "n8": "many fadeouts"
+}

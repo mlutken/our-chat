@@ -7,5 +7,12 @@
     "n2": "formulae",
     "n3": "the formula",
     "n4": "the formulae",
-    "n5": "formula's"
+    "n5": "formula's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "formulae's",
+    "n7": "a formula",
+    "n8": "many formulae"
 }

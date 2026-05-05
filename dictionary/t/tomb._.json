@@ -1,0 +1,18 @@
+{
+    "base": "tomb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "tomb",
+    "n2": "tombs",
+    "n3": "the tomb",
+    "n4": "the tombs",
+    "n5": "tomb's",
+    "n6": "tombs'",
+    "n7": "a tomb",
+    "n8": "many tombs"
+}

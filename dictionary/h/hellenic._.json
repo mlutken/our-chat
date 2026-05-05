@@ -1,0 +1,18 @@
+{
+    "base": "hellenic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hellenic",
+    "n2": "hellenics",
+    "n3": "the hellenic",
+    "n4": "the hellenics",
+    "n5": "hellenic's",
+    "n6": "hellenics'",
+    "n7": "a hellenic",
+    "n8": "many hellenics"
+}

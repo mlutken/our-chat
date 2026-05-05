@@ -1,0 +1,18 @@
+{
+    "base": "tense system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tense system",
+    "n2": "tense systems",
+    "n3": "the tense system",
+    "n4": "the tense systems",
+    "n5": "tense system's",
+    "n6": "tense systems'",
+    "n7": "a tense system",
+    "n8": "many tense systems"
+}

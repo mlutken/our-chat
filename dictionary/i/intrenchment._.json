@@ -1,0 +1,18 @@
+{
+    "base": "intrenchment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "intrenchment",
+    "n2": "intrenchments",
+    "n3": "the intrenchment",
+    "n4": "the intrenchments",
+    "n5": "intrenchment's",
+    "n6": "intrenchments'",
+    "n7": "an intrenchment",
+    "n8": "many intrenchments"
+}

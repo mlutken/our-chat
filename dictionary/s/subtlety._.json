@@ -1,0 +1,18 @@
+{
+    "base": "subtlety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "subtlety",
+    "n2": "subtleties",
+    "n3": "the subtlety",
+    "n4": "the subtleties",
+    "n5": "subtlety's",
+    "n6": "subtleties'",
+    "n7": "a subtlety",
+    "n8": "many subtleties"
+}

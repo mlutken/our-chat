@@ -1,0 +1,18 @@
+{
+    "base": "complication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "complication",
+    "n2": "complications",
+    "n3": "the complication",
+    "n4": "the complications",
+    "n5": "complication's",
+    "n6": "complications'",
+    "n7": "a complication",
+    "n8": "many complications"
+}

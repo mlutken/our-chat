@@ -1,0 +1,18 @@
+{
+    "base": "public lecture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "public lecture",
+    "n2": "public lectures",
+    "n3": "the public lecture",
+    "n4": "the public lectures",
+    "n5": "public lecture's",
+    "n6": "public lectures'",
+    "n7": "a public lecture",
+    "n8": "many public lectures"
+}

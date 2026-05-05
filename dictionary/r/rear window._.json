@@ -1,0 +1,18 @@
+{
+    "base": "rear window",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "rear window",
+    "n2": "rear windows",
+    "n3": "the rear window",
+    "n4": "the rear windows",
+    "n5": "rear window's",
+    "n6": "rear windows'",
+    "n7": "a rear window",
+    "n8": "many rear windows"
+}

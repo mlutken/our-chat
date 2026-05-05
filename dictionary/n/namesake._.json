@@ -1,0 +1,18 @@
+{
+    "base": "namesake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "namesake",
+    "n2": "namesakes",
+    "n3": "the namesake",
+    "n4": "the namesakes",
+    "n5": "namesake's",
+    "n6": "namesakes'",
+    "n7": "a namesake",
+    "n8": "many namesakes"
+}

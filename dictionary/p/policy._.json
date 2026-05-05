@@ -7,5 +7,12 @@
     "n2": "policies",
     "n3": "the policy",
     "n4": "the policies",
-    "n5": "policy's"
+    "n5": "policy's",
+    "proper": false,
+    "commonness": 60,
+    "max_commonness": 6834,
+    "commonness_ge_count": 257,
+    "n6": "policies'",
+    "n7": "a policy",
+    "n8": "many policies"
 }

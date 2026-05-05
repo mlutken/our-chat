@@ -1,0 +1,18 @@
+{
+    "base": "synagogue",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "synagogue",
+    "n2": "synagogues",
+    "n3": "the synagogue",
+    "n4": "the synagogues",
+    "n5": "synagogue's",
+    "n6": "synagogues'",
+    "n7": "a synagogue",
+    "n8": "many synagogues"
+}

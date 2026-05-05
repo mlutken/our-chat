@@ -1,0 +1,18 @@
+{
+    "base": "disenfranchisement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disenfranchisement",
+    "n2": "disenfranchisements",
+    "n3": "the disenfranchisement",
+    "n4": "the disenfranchisements",
+    "n5": "disenfranchisement's",
+    "n6": "disenfranchisements'",
+    "n7": "a disenfranchisement",
+    "n8": "many disenfranchisements"
+}

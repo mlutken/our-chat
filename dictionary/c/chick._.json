@@ -1,0 +1,18 @@
+{
+    "base": "chick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chick",
+    "n2": "chicks",
+    "n3": "the chick",
+    "n4": "the chicks",
+    "n5": "chick's",
+    "n6": "chicks'",
+    "n7": "a chick",
+    "n8": "many chicks"
+}

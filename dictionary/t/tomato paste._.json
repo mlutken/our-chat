@@ -1,0 +1,18 @@
+{
+    "base": "tomato paste",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tomato paste",
+    "n2": "tomato pastes",
+    "n3": "the tomato paste",
+    "n4": "the tomato pastes",
+    "n5": "tomato paste's",
+    "n6": "tomato pastes'",
+    "n7": "a tomato paste",
+    "n8": "many tomato pastes"
+}

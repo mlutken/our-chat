@@ -1,0 +1,18 @@
+{
+    "base": "detecting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "detecting",
+    "n2": "detectings",
+    "n3": "the detecting",
+    "n4": "the detectings",
+    "n5": "detecting's",
+    "n6": "detectings'",
+    "n7": "a detecting",
+    "n8": "many detectings"
+}

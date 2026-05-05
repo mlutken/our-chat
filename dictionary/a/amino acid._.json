@@ -1,0 +1,18 @@
+{
+    "base": "amino acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amino acid",
+    "n2": "amino acids",
+    "n3": "the amino acid",
+    "n4": "the amino acids",
+    "n5": "amino acid's",
+    "n6": "amino acids'",
+    "n7": "an amino acid",
+    "n8": "many amino acids"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reprisal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "reprisal",
+    "n2": "reprisals",
+    "n3": "the reprisal",
+    "n4": "the reprisals",
+    "n5": "reprisal's",
+    "n6": "reprisals'",
+    "n7": "a reprisal",
+    "n8": "many reprisals"
+}

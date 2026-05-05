@@ -1,0 +1,18 @@
+{
+    "base": "fake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fake",
+    "n2": "fakes",
+    "n3": "the fake",
+    "n4": "the fakes",
+    "n5": "fake's",
+    "n6": "fakes'",
+    "n7": "a fake",
+    "n8": "many fakes"
+}

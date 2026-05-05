@@ -1,0 +1,18 @@
+{
+    "base": "fibrin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fibrin",
+    "n2": "fibrins",
+    "n3": "the fibrin",
+    "n4": "the fibrins",
+    "n5": "fibrin's",
+    "n6": "fibrins'",
+    "n7": "a fibrin",
+    "n8": "many fibrins"
+}

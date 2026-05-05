@@ -1,11 +1,24 @@
 {
     "base": "look",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "look",
     "v2": "looked",
     "v3": "looked",
     "v4": "looking",
-    "v5": "looks"
+    "v5": "looks",
+    "proper": false,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n1": "look",
+    "n2": "looks",
+    "n3": "the look",
+    "n4": "the looks",
+    "n5": "look's",
+    "n6": "looks'",
+    "n7": "a look",
+    "n8": "many looks"
 }

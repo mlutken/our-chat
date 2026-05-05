@@ -1,0 +1,18 @@
+{
+    "base": "headmaster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "headmaster",
+    "n2": "headmasters",
+    "n3": "the headmaster",
+    "n4": "the headmasters",
+    "n5": "headmaster's",
+    "n6": "headmasters'",
+    "n7": "a headmaster",
+    "n8": "many headmasters"
+}

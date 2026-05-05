@@ -1,0 +1,18 @@
+{
+    "base": "bodybuilding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bodybuilding",
+    "n2": "bodybuildings",
+    "n3": "the bodybuilding",
+    "n4": "the bodybuildings",
+    "n5": "bodybuilding's",
+    "n6": "bodybuildings'",
+    "n7": "a bodybuilding",
+    "n8": "many bodybuildings"
+}

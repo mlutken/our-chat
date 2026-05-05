@@ -1,0 +1,18 @@
+{
+    "base": "retardation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retardation",
+    "n2": "retardations",
+    "n3": "the retardation",
+    "n4": "the retardations",
+    "n5": "retardation's",
+    "n6": "retardations'",
+    "n7": "a retardation",
+    "n8": "many retardations"
+}

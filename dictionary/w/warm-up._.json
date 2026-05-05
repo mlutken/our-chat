@@ -1,0 +1,18 @@
+{
+    "base": "warm-up",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "warm-up",
+    "n2": "warm-ups",
+    "n3": "the warm-up",
+    "n4": "the warm-ups",
+    "n5": "warm-up's",
+    "n6": "warm-ups'",
+    "n7": "a warm-up",
+    "n8": "many warm-ups"
+}

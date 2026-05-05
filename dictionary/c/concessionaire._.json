@@ -1,0 +1,18 @@
+{
+    "base": "concessionaire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "concessionaire",
+    "n2": "concessionaires",
+    "n3": "the concessionaire",
+    "n4": "the concessionaires",
+    "n5": "concessionaire's",
+    "n6": "concessionaires'",
+    "n7": "a concessionaire",
+    "n8": "many concessionaires"
+}

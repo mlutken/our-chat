@@ -1,0 +1,18 @@
+{
+    "base": "applicant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "applicant",
+    "n2": "applicants",
+    "n3": "the applicant",
+    "n4": "the applicants",
+    "n5": "applicant's",
+    "n6": "applicants'",
+    "n7": "an applicant",
+    "n8": "many applicants"
+}

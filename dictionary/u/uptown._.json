@@ -1,0 +1,18 @@
+{
+    "base": "uptown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "uptown",
+    "n2": "uptowns",
+    "n3": "the uptown",
+    "n4": "the uptowns",
+    "n5": "uptown's",
+    "n6": "uptowns'",
+    "n7": "an uptown",
+    "n8": "many uptowns"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "seer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seer",
+    "n2": "seers",
+    "n3": "the seer",
+    "n4": "the seers",
+    "n5": "seer's",
+    "n6": "seers'",
+    "n7": "a seer",
+    "n8": "many seers"
+}

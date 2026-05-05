@@ -1,0 +1,18 @@
+{
+    "base": "vagueness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vagueness",
+    "n2": "vaguenesses",
+    "n3": "the vagueness",
+    "n4": "the vaguenesses",
+    "n5": "vagueness'",
+    "n6": "vaguenesses'",
+    "n7": "a vagueness",
+    "n8": "many vaguenesses"
+}

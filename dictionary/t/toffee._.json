@@ -1,0 +1,18 @@
+{
+    "base": "toffee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toffee",
+    "n2": "toffees",
+    "n3": "the toffee",
+    "n4": "the toffees",
+    "n5": "toffee's",
+    "n6": "toffees'",
+    "n7": "a toffee",
+    "n8": "many toffees"
+}

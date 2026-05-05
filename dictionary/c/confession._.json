@@ -1,0 +1,18 @@
+{
+    "base": "confession",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "confession",
+    "n2": "confessions",
+    "n3": "the confession",
+    "n4": "the confessions",
+    "n5": "confession's",
+    "n6": "confessions'",
+    "n7": "a confession",
+    "n8": "many confessions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "primary election",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "primary election",
+    "n2": "primary elections",
+    "n3": "the primary election",
+    "n4": "the primary elections",
+    "n5": "primary election's",
+    "n6": "primary elections'",
+    "n7": "a primary election",
+    "n8": "many primary elections"
+}

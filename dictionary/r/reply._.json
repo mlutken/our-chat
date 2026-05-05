@@ -1,11 +1,24 @@
 {
     "base": "reply",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "reply",
     "v2": "replied",
     "v3": "replied",
     "v4": "replying",
-    "v5": "replies"
+    "v5": "replies",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "reply",
+    "n2": "replies",
+    "n3": "the reply",
+    "n4": "the replies",
+    "n5": "reply's",
+    "n6": "replies'",
+    "n7": "a reply",
+    "n8": "many replies"
 }

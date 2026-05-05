@@ -1,0 +1,18 @@
+{
+    "base": "transmission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "transmission",
+    "n2": "transmissions",
+    "n3": "the transmission",
+    "n4": "the transmissions",
+    "n5": "transmission's",
+    "n6": "transmissions'",
+    "n7": "a transmission",
+    "n8": "many transmissions"
+}

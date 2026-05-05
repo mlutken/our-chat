@@ -1,0 +1,18 @@
+{
+    "base": "terrycloth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "terrycloth",
+    "n2": "terrycloths",
+    "n3": "the terrycloth",
+    "n4": "the terrycloths",
+    "n5": "terrycloth's",
+    "n6": "terrycloths'",
+    "n7": "a terrycloth",
+    "n8": "many terrycloths"
+}

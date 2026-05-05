@@ -1,0 +1,18 @@
+{
+    "base": "bunter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bunter",
+    "n2": "bunters",
+    "n3": "the bunter",
+    "n4": "the bunters",
+    "n5": "bunter's",
+    "n6": "bunters'",
+    "n7": "a bunter",
+    "n8": "many bunters"
+}

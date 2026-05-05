@@ -1,0 +1,18 @@
+{
+    "base": "magnetic force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "magnetic force",
+    "n2": "magnetic forces",
+    "n3": "the magnetic force",
+    "n4": "the magnetic forces",
+    "n5": "magnetic force's",
+    "n6": "magnetic forces'",
+    "n7": "a magnetic force",
+    "n8": "many magnetic forces"
+}

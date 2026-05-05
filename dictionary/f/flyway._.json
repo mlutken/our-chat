@@ -1,0 +1,18 @@
+{
+    "base": "flyway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flyway",
+    "n2": "flyways",
+    "n3": "the flyway",
+    "n4": "the flyways",
+    "n5": "flyway's",
+    "n6": "flyways'",
+    "n7": "a flyway",
+    "n8": "many flyways"
+}

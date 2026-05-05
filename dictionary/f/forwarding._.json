@@ -1,0 +1,18 @@
+{
+    "base": "forwarding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forwarding",
+    "n2": "forwardings",
+    "n3": "the forwarding",
+    "n4": "the forwardings",
+    "n5": "forwarding's",
+    "n6": "forwardings'",
+    "n7": "a forwarding",
+    "n8": "many forwardings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bloodstream",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bloodstream",
+    "n2": "bloodstreams",
+    "n3": "the bloodstream",
+    "n4": "the bloodstreams",
+    "n5": "bloodstream's",
+    "n6": "bloodstreams'",
+    "n7": "a bloodstream",
+    "n8": "many bloodstreams"
+}

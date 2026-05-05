@@ -1,0 +1,18 @@
+{
+    "base": "modesty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "modesty",
+    "n2": "modesties",
+    "n3": "the modesty",
+    "n4": "the modesties",
+    "n5": "modesty's",
+    "n6": "modesties'",
+    "n7": "a modesty",
+    "n8": "many modesties"
+}

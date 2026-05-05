@@ -1,0 +1,18 @@
+{
+    "base": "melting pot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "melting pot",
+    "n2": "melting pots",
+    "n3": "the melting pot",
+    "n4": "the melting pots",
+    "n5": "melting pot's",
+    "n6": "melting pots'",
+    "n7": "a melting pot",
+    "n8": "many melting pots"
+}

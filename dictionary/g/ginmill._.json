@@ -1,0 +1,18 @@
+{
+    "base": "ginmill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ginmill",
+    "n2": "ginmills",
+    "n3": "the ginmill",
+    "n4": "the ginmills",
+    "n5": "ginmill's",
+    "n6": "ginmills'",
+    "n7": "a ginmill",
+    "n8": "many ginmills"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "potpourri",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "potpourri",
+    "n2": "potpourris",
+    "n3": "the potpourri",
+    "n4": "the potpourris",
+    "n5": "potpourri's",
+    "n6": "potpourris'",
+    "n7": "a potpourri",
+    "n8": "many potpourris"
+}

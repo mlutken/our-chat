@@ -1,0 +1,18 @@
+{
+    "base": "insignificance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insignificance",
+    "n2": "insignificances",
+    "n3": "the insignificance",
+    "n4": "the insignificances",
+    "n5": "insignificance's",
+    "n6": "insignificances'",
+    "n7": "an insignificance",
+    "n8": "many insignificances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "vanguard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vanguard",
+    "n2": "vanguards",
+    "n3": "the vanguard",
+    "n4": "the vanguards",
+    "n5": "vanguard's",
+    "n6": "vanguards'",
+    "n7": "a vanguard",
+    "n8": "many vanguards"
+}

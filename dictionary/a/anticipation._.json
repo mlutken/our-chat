@@ -1,0 +1,18 @@
+{
+    "base": "anticipation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "anticipation",
+    "n2": "anticipations",
+    "n3": "the anticipation",
+    "n4": "the anticipations",
+    "n5": "anticipation's",
+    "n6": "anticipations'",
+    "n7": "an anticipation",
+    "n8": "many anticipations"
+}

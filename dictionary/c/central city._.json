@@ -1,0 +1,18 @@
+{
+    "base": "central city",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "central city",
+    "n2": "central cities",
+    "n3": "the central city",
+    "n4": "the central cities",
+    "n5": "central city's",
+    "n6": "central cities'",
+    "n7": "a central city",
+    "n8": "many central cities"
+}

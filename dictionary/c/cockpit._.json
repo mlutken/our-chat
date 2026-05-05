@@ -1,0 +1,18 @@
+{
+    "base": "cockpit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cockpit",
+    "n2": "cockpits",
+    "n3": "the cockpit",
+    "n4": "the cockpits",
+    "n5": "cockpit's",
+    "n6": "cockpits'",
+    "n7": "a cockpit",
+    "n8": "many cockpits"
+}

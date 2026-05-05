@@ -1,0 +1,18 @@
+{
+    "base": "discharge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "discharge",
+    "n2": "discharges",
+    "n3": "the discharge",
+    "n4": "the discharges",
+    "n5": "discharge's",
+    "n6": "discharges'",
+    "n7": "a discharge",
+    "n8": "many discharges"
+}

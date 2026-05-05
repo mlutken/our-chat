@@ -1,0 +1,18 @@
+{
+    "base": "stake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "stake",
+    "n2": "stakes",
+    "n3": "the stake",
+    "n4": "the stakes",
+    "n5": "stake's",
+    "n6": "stakes'",
+    "n7": "a stake",
+    "n8": "many stakes"
+}

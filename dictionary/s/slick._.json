@@ -1,0 +1,18 @@
+{
+    "base": "slick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slick",
+    "n2": "slicks",
+    "n3": "the slick",
+    "n4": "the slicks",
+    "n5": "slick's",
+    "n6": "slicks'",
+    "n7": "a slick",
+    "n8": "many slicks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "abo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abo",
+    "n2": "abos",
+    "n3": "the abo",
+    "n4": "the abos",
+    "n5": "abo's",
+    "n6": "abos'",
+    "n7": "an abo",
+    "n8": "many abos"
+}

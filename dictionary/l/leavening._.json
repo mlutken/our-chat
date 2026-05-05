@@ -1,0 +1,18 @@
+{
+    "base": "leavening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leavening",
+    "n2": "leavenings",
+    "n3": "the leavening",
+    "n4": "the leavenings",
+    "n5": "leavening's",
+    "n6": "leavenings'",
+    "n7": "a leavening",
+    "n8": "many leavenings"
+}

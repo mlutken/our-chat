@@ -1,0 +1,18 @@
+{
+    "base": "tie-in",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tie-in",
+    "n2": "tie-ins",
+    "n3": "the tie-in",
+    "n4": "the tie-ins",
+    "n5": "tie-in's",
+    "n6": "tie-ins'",
+    "n7": "a tie-in",
+    "n8": "many tie-ins"
+}

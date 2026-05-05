@@ -1,11 +1,24 @@
 {
     "base": "charge",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "charge",
     "v2": "charged",
     "v3": "charged",
     "v4": "charging",
-    "v5": "charges"
+    "v5": "charges",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n1": "charge",
+    "n2": "charges",
+    "n3": "the charge",
+    "n4": "the charges",
+    "n5": "charge's",
+    "n6": "charges'",
+    "n7": "a charge",
+    "n8": "many charges"
 }

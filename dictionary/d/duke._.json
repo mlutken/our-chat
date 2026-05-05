@@ -1,0 +1,18 @@
+{
+    "base": "duke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "duke",
+    "n2": "dukes",
+    "n3": "the duke",
+    "n4": "the dukes",
+    "n5": "duke's",
+    "n6": "dukes'",
+    "n7": "a duke",
+    "n8": "many dukes"
+}

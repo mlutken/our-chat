@@ -1,0 +1,18 @@
+{
+    "base": "coloratura",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coloratura",
+    "n2": "coloraturas",
+    "n3": "the coloratura",
+    "n4": "the coloraturas",
+    "n5": "coloratura's",
+    "n6": "coloraturas'",
+    "n7": "a coloratura",
+    "n8": "many coloraturas"
+}

@@ -1,11 +1,24 @@
 {
     "base": "ruin",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "ruin",
     "v2": "ruined",
     "v3": "ruined",
     "v4": "ruining",
-    "v5": "ruins"
+    "v5": "ruins",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ruin",
+    "n2": "ruins",
+    "n3": "the ruin",
+    "n4": "the ruins",
+    "n5": "ruin's",
+    "n6": "ruins'",
+    "n7": "a ruin",
+    "n8": "many ruins"
 }

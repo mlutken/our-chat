@@ -1,0 +1,18 @@
+{
+    "base": "direct contrast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "direct contrast",
+    "n2": "direct contrasts",
+    "n3": "the direct contrast",
+    "n4": "the direct contrasts",
+    "n5": "direct contrast's",
+    "n6": "direct contrasts'",
+    "n7": "a direct contrast",
+    "n8": "many direct contrasts"
+}

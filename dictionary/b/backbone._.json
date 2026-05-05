@@ -1,0 +1,18 @@
+{
+    "base": "backbone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "backbone",
+    "n2": "backbones",
+    "n3": "the backbone",
+    "n4": "the backbones",
+    "n5": "backbone's",
+    "n6": "backbones'",
+    "n7": "a backbone",
+    "n8": "many backbones"
+}

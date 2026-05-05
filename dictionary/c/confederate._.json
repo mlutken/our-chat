@@ -1,0 +1,18 @@
+{
+    "base": "confederate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "confederate",
+    "n2": "confederates",
+    "n3": "the confederate",
+    "n4": "the confederates",
+    "n5": "confederate's",
+    "n6": "confederates'",
+    "n7": "a confederate",
+    "n8": "many confederates"
+}

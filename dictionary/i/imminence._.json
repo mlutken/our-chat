@@ -1,0 +1,18 @@
+{
+    "base": "imminence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "imminence",
+    "n2": "imminences",
+    "n3": "the imminence",
+    "n4": "the imminences",
+    "n5": "imminence's",
+    "n6": "imminences'",
+    "n7": "an imminence",
+    "n8": "many imminences"
+}

@@ -1,9 +1,22 @@
 {
     "base": "wise",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "wise",
     "adj2": "wiser",
-    "adj3": "wisest"
+    "adj3": "wisest",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wise",
+    "n2": "wises",
+    "n3": "the wise",
+    "n4": "the wises",
+    "n5": "wise's",
+    "n6": "wises'",
+    "n7": "a wise",
+    "n8": "many wises"
 }

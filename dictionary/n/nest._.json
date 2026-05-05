@@ -1,11 +1,24 @@
 {
     "base": "nest",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "nest",
     "v2": "nested",
     "v3": "nested",
     "v4": "nesting",
-    "v5": "nests"
+    "v5": "nests",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "nest",
+    "n2": "nests",
+    "n3": "the nest",
+    "n4": "the nests",
+    "n5": "nest's",
+    "n6": "nests'",
+    "n7": "a nest",
+    "n8": "many nests"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "colonial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "colonial",
+    "n2": "colonials",
+    "n3": "the colonial",
+    "n4": "the colonials",
+    "n5": "colonial's",
+    "n6": "colonials'",
+    "n7": "a colonial",
+    "n8": "many colonials"
+}

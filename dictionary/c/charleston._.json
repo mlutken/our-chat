@@ -1,0 +1,18 @@
+{
+    "base": "charleston",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "charleston",
+    "n2": "charlestons",
+    "n3": "the charleston",
+    "n4": "the charlestons",
+    "n5": "charleston's",
+    "n6": "charlestons'",
+    "n7": "a charleston",
+    "n8": "many charlestons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "landlord",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "landlord",
+    "n2": "landlords",
+    "n3": "the landlord",
+    "n4": "the landlords",
+    "n5": "landlord's",
+    "n6": "landlords'",
+    "n7": "a landlord",
+    "n8": "many landlords"
+}

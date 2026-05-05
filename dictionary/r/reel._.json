@@ -7,5 +7,12 @@
     "n2": "reels",
     "n3": "the reel",
     "n4": "the reels",
-    "n5": "reel's"
+    "n5": "reel's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "reels'",
+    "n7": "a reel",
+    "n8": "many reels"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "mandate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mandate",
+    "n2": "mandates",
+    "n3": "the mandate",
+    "n4": "the mandates",
+    "n5": "mandate's",
+    "n6": "mandates'",
+    "n7": "a mandate",
+    "n8": "many mandates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "brook",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "brook",
+    "n2": "brooks",
+    "n3": "the brook",
+    "n4": "the brooks",
+    "n5": "brook's",
+    "n6": "brooks'",
+    "n7": "a brook",
+    "n8": "many brooks"
+}

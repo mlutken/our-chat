@@ -1,0 +1,18 @@
+{
+    "base": "toothpaste",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toothpaste",
+    "n2": "toothpastes",
+    "n3": "the toothpaste",
+    "n4": "the toothpastes",
+    "n5": "toothpaste's",
+    "n6": "toothpastes'",
+    "n7": "a toothpaste",
+    "n8": "many toothpastes"
+}

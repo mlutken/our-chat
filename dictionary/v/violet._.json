@@ -1,0 +1,18 @@
+{
+    "base": "violet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "violet",
+    "n2": "violets",
+    "n3": "the violet",
+    "n4": "the violets",
+    "n5": "violet's",
+    "n6": "violets'",
+    "n7": "a violet",
+    "n8": "many violets"
+}

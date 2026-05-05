@@ -1,0 +1,18 @@
+{
+    "base": "degeneration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "degeneration",
+    "n2": "degenerations",
+    "n3": "the degeneration",
+    "n4": "the degenerations",
+    "n5": "degeneration's",
+    "n6": "degenerations'",
+    "n7": "a degeneration",
+    "n8": "many degenerations"
+}

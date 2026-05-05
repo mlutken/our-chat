@@ -1,0 +1,18 @@
+{
+    "base": "water level",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water level",
+    "n2": "water levels",
+    "n3": "the water level",
+    "n4": "the water levels",
+    "n5": "water level's",
+    "n6": "water levels'",
+    "n7": "a water level",
+    "n8": "many water levels"
+}

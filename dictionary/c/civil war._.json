@@ -1,0 +1,18 @@
+{
+    "base": "civil war",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "civil war",
+    "n2": "civil wars",
+    "n3": "the civil war",
+    "n4": "the civil wars",
+    "n5": "civil war's",
+    "n6": "civil wars'",
+    "n7": "a civil war",
+    "n8": "many civil wars"
+}

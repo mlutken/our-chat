@@ -1,0 +1,18 @@
+{
+    "base": "odds and ends",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "odds and ends",
+    "n2": "odds and endses",
+    "n3": "the odds and ends",
+    "n4": "the odds and endses",
+    "n5": "odds and ends'",
+    "n6": "odds and endses'",
+    "n7": "an odds and ends",
+    "n8": "many odds and endses"
+}

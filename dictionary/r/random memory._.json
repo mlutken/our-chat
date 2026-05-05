@@ -1,0 +1,18 @@
+{
+    "base": "random memory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "random memory",
+    "n2": "random memories",
+    "n3": "the random memory",
+    "n4": "the random memories",
+    "n5": "random memory's",
+    "n6": "random memories'",
+    "n7": "a random memory",
+    "n8": "many random memories"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ocean floor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ocean floor",
+    "n2": "ocean floors",
+    "n3": "the ocean floor",
+    "n4": "the ocean floors",
+    "n5": "ocean floor's",
+    "n6": "ocean floors'",
+    "n7": "an ocean floor",
+    "n8": "many ocean floors"
+}

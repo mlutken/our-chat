@@ -1,0 +1,18 @@
+{
+    "base": "observance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "observance",
+    "n2": "observances",
+    "n3": "the observance",
+    "n4": "the observances",
+    "n5": "observance's",
+    "n6": "observances'",
+    "n7": "an observance",
+    "n8": "many observances"
+}

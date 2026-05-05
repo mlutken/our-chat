@@ -1,0 +1,18 @@
+{
+    "base": "crop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "crop",
+    "n2": "crops",
+    "n3": "the crop",
+    "n4": "the crops",
+    "n5": "crop's",
+    "n6": "crops'",
+    "n7": "a crop",
+    "n8": "many crops"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "jazz musician",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jazz musician",
+    "n2": "jazz musicians",
+    "n3": "the jazz musician",
+    "n4": "the jazz musicians",
+    "n5": "jazz musician's",
+    "n6": "jazz musicians'",
+    "n7": "a jazz musician",
+    "n8": "many jazz musicians"
+}

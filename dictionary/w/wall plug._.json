@@ -1,0 +1,18 @@
+{
+    "base": "wall plug",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wall plug",
+    "n2": "wall plugs",
+    "n3": "the wall plug",
+    "n4": "the wall plugs",
+    "n5": "wall plug's",
+    "n6": "wall plugs'",
+    "n7": "a wall plug",
+    "n8": "many wall plugs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "keyhole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "keyhole",
+    "n2": "keyholes",
+    "n3": "the keyhole",
+    "n4": "the keyholes",
+    "n5": "keyhole's",
+    "n6": "keyholes'",
+    "n7": "a keyhole",
+    "n8": "many keyholes"
+}

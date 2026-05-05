@@ -1,0 +1,18 @@
+{
+    "base": "black hole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "black hole",
+    "n2": "black holes",
+    "n3": "the black hole",
+    "n4": "the black holes",
+    "n5": "black hole's",
+    "n6": "black holes'",
+    "n7": "a black hole",
+    "n8": "many black holes"
+}

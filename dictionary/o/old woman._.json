@@ -1,0 +1,18 @@
+{
+    "base": "old woman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "old woman",
+    "n2": "old women",
+    "n3": "the old woman",
+    "n4": "the old women",
+    "n5": "old woman's",
+    "n6": "old women's",
+    "n7": "an old woman",
+    "n8": "many old women"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "viet nam",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "viet nam",
+    "n2": "viet nams",
+    "n3": "the viet nam",
+    "n4": "the viet nams",
+    "n5": "viet nam's",
+    "n6": "viet nams'",
+    "n7": "a viet nam",
+    "n8": "many viet nams"
+}

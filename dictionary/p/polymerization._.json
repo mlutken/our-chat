@@ -1,0 +1,18 @@
+{
+    "base": "polymerization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "polymerization",
+    "n2": "polymerizations",
+    "n3": "the polymerization",
+    "n4": "the polymerizations",
+    "n5": "polymerization's",
+    "n6": "polymerizations'",
+    "n7": "a polymerization",
+    "n8": "many polymerizations"
+}

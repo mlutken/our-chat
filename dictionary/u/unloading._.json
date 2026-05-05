@@ -1,0 +1,18 @@
+{
+    "base": "unloading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "unloading",
+    "n2": "unloadings",
+    "n3": "the unloading",
+    "n4": "the unloadings",
+    "n5": "unloading's",
+    "n6": "unloadings'",
+    "n7": "an unloading",
+    "n8": "many unloadings"
+}

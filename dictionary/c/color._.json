@@ -1,11 +1,24 @@
 {
     "base": "color",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "color",
     "v2": "colored",
     "v3": "colored",
     "v4": "coloring",
-    "v5": "colors"
+    "v5": "colors",
+    "proper": false,
+    "commonness": 58,
+    "max_commonness": 6834,
+    "commonness_ge_count": 266,
+    "n1": "color",
+    "n2": "colors",
+    "n3": "the color",
+    "n4": "the colors",
+    "n5": "color's",
+    "n6": "colors'",
+    "n7": "a color",
+    "n8": "many colors"
 }

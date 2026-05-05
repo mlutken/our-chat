@@ -1,0 +1,18 @@
+{
+    "base": "grandma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grandma",
+    "n2": "grandmas",
+    "n3": "the grandma",
+    "n4": "the grandmas",
+    "n5": "grandma's",
+    "n6": "grandmas'",
+    "n7": "a grandma",
+    "n8": "many grandmas"
+}

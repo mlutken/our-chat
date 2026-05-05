@@ -1,0 +1,18 @@
+{
+    "base": "discount",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "discount",
+    "n2": "discounts",
+    "n3": "the discount",
+    "n4": "the discounts",
+    "n5": "discount's",
+    "n6": "discounts'",
+    "n7": "a discount",
+    "n8": "many discounts"
+}

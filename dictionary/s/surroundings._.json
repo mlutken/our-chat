@@ -1,0 +1,18 @@
+{
+    "base": "surroundings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "surroundings",
+    "n2": "surroundingses",
+    "n3": "the surroundings",
+    "n4": "the surroundingses",
+    "n5": "surroundings'",
+    "n6": "surroundingses'",
+    "n7": "a surroundings",
+    "n8": "many surroundingses"
+}

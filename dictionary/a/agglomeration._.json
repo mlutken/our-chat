@@ -1,0 +1,18 @@
+{
+    "base": "agglomeration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "agglomeration",
+    "n2": "agglomerations",
+    "n3": "the agglomeration",
+    "n4": "the agglomerations",
+    "n5": "agglomeration's",
+    "n6": "agglomerations'",
+    "n7": "an agglomeration",
+    "n8": "many agglomerations"
+}

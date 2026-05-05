@@ -1,0 +1,18 @@
+{
+    "base": "mesh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mesh",
+    "n2": "meshes",
+    "n3": "the mesh",
+    "n4": "the meshes",
+    "n5": "mesh's",
+    "n6": "meshes'",
+    "n7": "a mesh",
+    "n8": "many meshes"
+}

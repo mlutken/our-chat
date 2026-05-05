@@ -1,0 +1,18 @@
+{
+    "base": "sofa",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sofa",
+    "n2": "sofas",
+    "n3": "the sofa",
+    "n4": "the sofas",
+    "n5": "sofa's",
+    "n6": "sofas'",
+    "n7": "a sofa",
+    "n8": "many sofas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "phone call",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phone call",
+    "n2": "phone calls",
+    "n3": "the phone call",
+    "n4": "the phone calls",
+    "n5": "phone call's",
+    "n6": "phone calls'",
+    "n7": "a phone call",
+    "n8": "many phone calls"
+}

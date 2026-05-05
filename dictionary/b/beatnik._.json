@@ -1,0 +1,18 @@
+{
+    "base": "beatnik",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beatnik",
+    "n2": "beatniks",
+    "n3": "the beatnik",
+    "n4": "the beatniks",
+    "n5": "beatnik's",
+    "n6": "beatniks'",
+    "n7": "a beatnik",
+    "n8": "many beatniks"
+}

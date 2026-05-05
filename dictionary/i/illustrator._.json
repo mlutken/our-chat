@@ -1,0 +1,18 @@
+{
+    "base": "illustrator",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "illustrator",
+    "n2": "illustrators",
+    "n3": "the illustrator",
+    "n4": "the illustrators",
+    "n5": "illustrator's",
+    "n6": "illustrators'",
+    "n7": "an illustrator",
+    "n8": "many illustrators"
+}

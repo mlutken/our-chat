@@ -1,0 +1,18 @@
+{
+    "base": "swahili",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swahili",
+    "n2": "swahilis",
+    "n3": "the swahili",
+    "n4": "the swahilis",
+    "n5": "swahili's",
+    "n6": "swahilis'",
+    "n7": "a swahili",
+    "n8": "many swahilis"
+}

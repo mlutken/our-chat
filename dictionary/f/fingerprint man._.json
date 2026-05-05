@@ -1,0 +1,18 @@
+{
+    "base": "fingerprint man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fingerprint man",
+    "n2": "fingerprint mans",
+    "n3": "the fingerprint man",
+    "n4": "the fingerprint mans",
+    "n5": "fingerprint man's",
+    "n6": "fingerprint mans'",
+    "n7": "a fingerprint man",
+    "n8": "many fingerprint mans"
+}

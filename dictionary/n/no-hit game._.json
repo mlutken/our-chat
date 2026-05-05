@@ -1,0 +1,18 @@
+{
+    "base": "no-hit game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "no-hit game",
+    "n2": "no-hit games",
+    "n3": "the no-hit game",
+    "n4": "the no-hit games",
+    "n5": "no-hit game's",
+    "n6": "no-hit games'",
+    "n7": "a no-hit game",
+    "n8": "many no-hit games"
+}

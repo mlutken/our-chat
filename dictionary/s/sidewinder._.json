@@ -1,0 +1,18 @@
+{
+    "base": "sidewinder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sidewinder",
+    "n2": "sidewinders",
+    "n3": "the sidewinder",
+    "n4": "the sidewinders",
+    "n5": "sidewinder's",
+    "n6": "sidewinders'",
+    "n7": "a sidewinder",
+    "n8": "many sidewinders"
+}

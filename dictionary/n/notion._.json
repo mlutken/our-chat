@@ -1,0 +1,18 @@
+{
+    "base": "notion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "notion",
+    "n2": "notions",
+    "n3": "the notion",
+    "n4": "the notions",
+    "n5": "notion's",
+    "n6": "notions'",
+    "n7": "a notion",
+    "n8": "many notions"
+}

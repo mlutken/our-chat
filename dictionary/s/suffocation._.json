@@ -1,0 +1,18 @@
+{
+    "base": "suffocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suffocation",
+    "n2": "suffocations",
+    "n3": "the suffocation",
+    "n4": "the suffocations",
+    "n5": "suffocation's",
+    "n6": "suffocations'",
+    "n7": "a suffocation",
+    "n8": "many suffocations"
+}

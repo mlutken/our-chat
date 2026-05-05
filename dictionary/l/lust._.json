@@ -1,0 +1,18 @@
+{
+    "base": "lust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lust",
+    "n2": "lusts",
+    "n3": "the lust",
+    "n4": "the lusts",
+    "n5": "lust's",
+    "n6": "lusts'",
+    "n7": "a lust",
+    "n8": "many lusts"
+}

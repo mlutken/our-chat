@@ -1,0 +1,18 @@
+{
+    "base": "walkover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "walkover",
+    "n2": "walkovers",
+    "n3": "the walkover",
+    "n4": "the walkovers",
+    "n5": "walkover's",
+    "n6": "walkovers'",
+    "n7": "a walkover",
+    "n8": "many walkovers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bassinet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bassinet",
+    "n2": "bassinets",
+    "n3": "the bassinet",
+    "n4": "the bassinets",
+    "n5": "bassinet's",
+    "n6": "bassinets'",
+    "n7": "a bassinet",
+    "n8": "many bassinets"
+}

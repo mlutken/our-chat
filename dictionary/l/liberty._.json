@@ -1,0 +1,18 @@
+{
+    "base": "liberty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "liberty",
+    "n2": "liberties",
+    "n3": "the liberty",
+    "n4": "the liberties",
+    "n5": "liberty's",
+    "n6": "liberties'",
+    "n7": "a liberty",
+    "n8": "many liberties"
+}

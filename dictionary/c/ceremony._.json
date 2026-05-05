@@ -1,0 +1,18 @@
+{
+    "base": "ceremony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "ceremony",
+    "n2": "ceremonies",
+    "n3": "the ceremony",
+    "n4": "the ceremonies",
+    "n5": "ceremony's",
+    "n6": "ceremonies'",
+    "n7": "a ceremony",
+    "n8": "many ceremonies"
+}

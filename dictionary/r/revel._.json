@@ -1,0 +1,18 @@
+{
+    "base": "revel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "revel",
+    "n2": "revels",
+    "n3": "the revel",
+    "n4": "the revels",
+    "n5": "revel's",
+    "n6": "revels'",
+    "n7": "a revel",
+    "n8": "many revels"
+}

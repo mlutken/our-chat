@@ -1,0 +1,18 @@
+{
+    "base": "reminder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "reminder",
+    "n2": "reminders",
+    "n3": "the reminder",
+    "n4": "the reminders",
+    "n5": "reminder's",
+    "n6": "reminders'",
+    "n7": "a reminder",
+    "n8": "many reminders"
+}

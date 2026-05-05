@@ -7,5 +7,12 @@
     "n2": "nations",
     "n3": "the nation",
     "n4": "the nations",
-    "n5": "nation's"
+    "n5": "nation's",
+    "proper": false,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n6": "nations'",
+    "n7": "a nation",
+    "n8": "many nations"
 }

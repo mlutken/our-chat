@@ -1,0 +1,18 @@
+{
+    "base": "dead person",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dead person",
+    "n2": "dead persons",
+    "n3": "the dead person",
+    "n4": "the dead persons",
+    "n5": "dead person's",
+    "n6": "dead persons'",
+    "n7": "a dead person",
+    "n8": "many dead persons"
+}

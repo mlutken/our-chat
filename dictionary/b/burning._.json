@@ -1,0 +1,18 @@
+{
+    "base": "burning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "burning",
+    "n2": "burnings",
+    "n3": "the burning",
+    "n4": "the burnings",
+    "n5": "burning's",
+    "n6": "burnings'",
+    "n7": "a burning",
+    "n8": "many burnings"
+}

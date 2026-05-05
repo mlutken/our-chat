@@ -1,0 +1,18 @@
+{
+    "base": "accounting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "accounting",
+    "n2": "accountings",
+    "n3": "the accounting",
+    "n4": "the accountings",
+    "n5": "accounting's",
+    "n6": "accountings'",
+    "n7": "an accounting",
+    "n8": "many accountings"
+}

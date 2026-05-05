@@ -1,0 +1,18 @@
+{
+    "base": "storm cloud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "storm cloud",
+    "n2": "storm clouds",
+    "n3": "the storm cloud",
+    "n4": "the storm clouds",
+    "n5": "storm cloud's",
+    "n6": "storm clouds'",
+    "n7": "a storm cloud",
+    "n8": "many storm clouds"
+}

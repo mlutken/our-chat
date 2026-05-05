@@ -7,5 +7,12 @@
     "n2": "vehicles",
     "n3": "the vehicle",
     "n4": "the vehicles",
-    "n5": "vehicle's"
+    "n5": "vehicle's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "vehicles'",
+    "n7": "a vehicle",
+    "n8": "many vehicles"
 }

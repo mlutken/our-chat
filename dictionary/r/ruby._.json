@@ -1,0 +1,18 @@
+{
+    "base": "ruby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ruby",
+    "n2": "rubies",
+    "n3": "the ruby",
+    "n4": "the rubies",
+    "n5": "ruby's",
+    "n6": "rubies'",
+    "n7": "a ruby",
+    "n8": "many rubies"
+}

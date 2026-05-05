@@ -1,0 +1,18 @@
+{
+    "base": "plunker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plunker",
+    "n2": "plunkers",
+    "n3": "the plunker",
+    "n4": "the plunkers",
+    "n5": "plunker's",
+    "n6": "plunkers'",
+    "n7": "a plunker",
+    "n8": "many plunkers"
+}

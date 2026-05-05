@@ -1,0 +1,18 @@
+{
+    "base": "anaconda",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "anaconda",
+    "n2": "anacondas",
+    "n3": "the anaconda",
+    "n4": "the anacondas",
+    "n5": "anaconda's",
+    "n6": "anacondas'",
+    "n7": "an anaconda",
+    "n8": "many anacondas"
+}

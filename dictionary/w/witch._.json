@@ -1,0 +1,18 @@
+{
+    "base": "witch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "witch",
+    "n2": "witches",
+    "n3": "the witch",
+    "n4": "the witches",
+    "n5": "witch's",
+    "n6": "witches'",
+    "n7": "a witch",
+    "n8": "many witches"
+}

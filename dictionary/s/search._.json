@@ -1,11 +1,24 @@
 {
     "base": "search",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "search",
     "v2": "searched",
     "v3": "searched",
     "v4": "searching",
-    "v5": "searches"
+    "v5": "searches",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "search",
+    "n2": "searches",
+    "n3": "the search",
+    "n4": "the searches",
+    "n5": "search's",
+    "n6": "searches'",
+    "n7": "a search",
+    "n8": "many searches"
 }

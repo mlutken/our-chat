@@ -1,0 +1,18 @@
+{
+    "base": "ten thousand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "ten thousand",
+    "n2": "ten thousands",
+    "n3": "the ten thousand",
+    "n4": "the ten thousands",
+    "n5": "ten thousand's",
+    "n6": "ten thousands'",
+    "n7": "a ten thousand",
+    "n8": "many ten thousands"
+}

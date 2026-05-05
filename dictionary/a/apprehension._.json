@@ -1,0 +1,18 @@
+{
+    "base": "apprehension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "apprehension",
+    "n2": "apprehensions",
+    "n3": "the apprehension",
+    "n4": "the apprehensions",
+    "n5": "apprehension's",
+    "n6": "apprehensions'",
+    "n7": "an apprehension",
+    "n8": "many apprehensions"
+}

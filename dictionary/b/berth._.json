@@ -1,0 +1,18 @@
+{
+    "base": "berth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "berth",
+    "n2": "berths",
+    "n3": "the berth",
+    "n4": "the berths",
+    "n5": "berth's",
+    "n6": "berths'",
+    "n7": "a berth",
+    "n8": "many berths"
+}

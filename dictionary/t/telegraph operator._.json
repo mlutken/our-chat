@@ -1,0 +1,18 @@
+{
+    "base": "telegraph operator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telegraph operator",
+    "n2": "telegraph operators",
+    "n3": "the telegraph operator",
+    "n4": "the telegraph operators",
+    "n5": "telegraph operator's",
+    "n6": "telegraph operators'",
+    "n7": "a telegraph operator",
+    "n8": "many telegraph operators"
+}

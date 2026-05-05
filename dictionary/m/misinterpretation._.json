@@ -1,0 +1,18 @@
+{
+    "base": "misinterpretation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misinterpretation",
+    "n2": "misinterpretations",
+    "n3": "the misinterpretation",
+    "n4": "the misinterpretations",
+    "n5": "misinterpretation's",
+    "n6": "misinterpretations'",
+    "n7": "a misinterpretation",
+    "n8": "many misinterpretations"
+}

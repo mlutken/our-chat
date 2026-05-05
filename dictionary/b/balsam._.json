@@ -1,0 +1,18 @@
+{
+    "base": "balsam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balsam",
+    "n2": "balsams",
+    "n3": "the balsam",
+    "n4": "the balsams",
+    "n5": "balsam's",
+    "n6": "balsams'",
+    "n7": "a balsam",
+    "n8": "many balsams"
+}

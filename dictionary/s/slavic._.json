@@ -1,0 +1,18 @@
+{
+    "base": "slavic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slavic",
+    "n2": "slavics",
+    "n3": "the slavic",
+    "n4": "the slavics",
+    "n5": "slavic's",
+    "n6": "slavics'",
+    "n7": "a slavic",
+    "n8": "many slavics"
+}

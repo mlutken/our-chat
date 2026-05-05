@@ -1,0 +1,18 @@
+{
+    "base": "sioux",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sioux",
+    "n2": "siouxes",
+    "n3": "the sioux",
+    "n4": "the siouxes",
+    "n5": "sioux's",
+    "n6": "siouxes'",
+    "n7": "a sioux",
+    "n8": "many siouxes"
+}

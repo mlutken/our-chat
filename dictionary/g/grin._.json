@@ -1,11 +1,24 @@
 {
     "base": "grin",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "grin",
     "v2": "grinned",
     "v3": "grinned",
     "v4": "grinning",
-    "v5": "grins"
+    "v5": "grins",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "grin",
+    "n2": "grins",
+    "n3": "the grin",
+    "n4": "the grins",
+    "n5": "grin's",
+    "n6": "grins'",
+    "n7": "a grin",
+    "n8": "many grins"
 }

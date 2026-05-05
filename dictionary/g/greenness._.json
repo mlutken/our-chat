@@ -1,0 +1,18 @@
+{
+    "base": "greenness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "greenness",
+    "n2": "greennesses",
+    "n3": "the greenness",
+    "n4": "the greennesses",
+    "n5": "greenness'",
+    "n6": "greennesses'",
+    "n7": "a greenness",
+    "n8": "many greennesses"
+}

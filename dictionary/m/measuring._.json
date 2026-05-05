@@ -1,0 +1,18 @@
+{
+    "base": "measuring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "measuring",
+    "n2": "measurings",
+    "n3": "the measuring",
+    "n4": "the measurings",
+    "n5": "measuring's",
+    "n6": "measurings'",
+    "n7": "a measuring",
+    "n8": "many measurings"
+}

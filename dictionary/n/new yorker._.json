@@ -1,0 +1,18 @@
+{
+    "base": "new yorker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new yorker",
+    "n2": "new yorkers",
+    "n3": "the new yorker",
+    "n4": "the new yorkers",
+    "n5": "new yorker's",
+    "n6": "new yorkers'",
+    "n7": "a new yorker",
+    "n8": "many new yorkers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "red china",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red china",
+    "n2": "red chinas",
+    "n3": "the red china",
+    "n4": "the red chinas",
+    "n5": "red china's",
+    "n6": "red chinas'",
+    "n7": "a red china",
+    "n8": "many red chinas"
+}

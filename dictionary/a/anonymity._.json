@@ -1,0 +1,18 @@
+{
+    "base": "anonymity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anonymity",
+    "n2": "anonymities",
+    "n3": "the anonymity",
+    "n4": "the anonymities",
+    "n5": "anonymity's",
+    "n6": "anonymities'",
+    "n7": "an anonymity",
+    "n8": "many anonymities"
+}

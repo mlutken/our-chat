@@ -1,0 +1,18 @@
+{
+    "base": "psyche",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "psyche",
+    "n2": "psyches",
+    "n3": "the psyche",
+    "n4": "the psyches",
+    "n5": "psyche's",
+    "n6": "psyches'",
+    "n7": "a psyche",
+    "n8": "many psyches"
+}

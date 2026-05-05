@@ -1,0 +1,18 @@
+{
+    "base": "tape recorder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tape recorder",
+    "n2": "tape recorders",
+    "n3": "the tape recorder",
+    "n4": "the tape recorders",
+    "n5": "tape recorder's",
+    "n6": "tape recorders'",
+    "n7": "a tape recorder",
+    "n8": "many tape recorders"
+}

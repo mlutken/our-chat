@@ -7,5 +7,12 @@
     "n2": "speeds",
     "n3": "the speed",
     "n4": "the speeds",
-    "n5": "speed's"
+    "n5": "speed's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "speeds'",
+    "n7": "a speed",
+    "n8": "many speeds"
 }

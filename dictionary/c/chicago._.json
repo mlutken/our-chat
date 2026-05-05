@@ -1,0 +1,18 @@
+{
+    "base": "chicago",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "chicago",
+    "n2": "chicagos",
+    "n3": "the chicago",
+    "n4": "the chicagos",
+    "n5": "chicago's",
+    "n6": "chicagos'",
+    "n7": "a chicago",
+    "n8": "many chicagos"
+}

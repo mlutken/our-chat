@@ -1,0 +1,18 @@
+{
+    "base": "huckster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "huckster",
+    "n2": "hucksters",
+    "n3": "the huckster",
+    "n4": "the hucksters",
+    "n5": "huckster's",
+    "n6": "hucksters'",
+    "n7": "a huckster",
+    "n8": "many hucksters"
+}

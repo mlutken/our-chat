@@ -1,0 +1,18 @@
+{
+    "base": "aluminum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "aluminum",
+    "n2": "aluminums",
+    "n3": "the aluminum",
+    "n4": "the aluminums",
+    "n5": "aluminum's",
+    "n6": "aluminums'",
+    "n7": "an aluminum",
+    "n8": "many aluminums"
+}

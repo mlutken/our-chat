@@ -1,0 +1,18 @@
+{
+    "base": "sect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sect",
+    "n2": "sects",
+    "n3": "the sect",
+    "n4": "the sects",
+    "n5": "sect's",
+    "n6": "sects'",
+    "n7": "a sect",
+    "n8": "many sects"
+}

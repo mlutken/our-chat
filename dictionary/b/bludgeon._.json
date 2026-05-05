@@ -1,0 +1,18 @@
+{
+    "base": "bludgeon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bludgeon",
+    "n2": "bludgeons",
+    "n3": "the bludgeon",
+    "n4": "the bludgeons",
+    "n5": "bludgeon's",
+    "n6": "bludgeons'",
+    "n7": "a bludgeon",
+    "n8": "many bludgeons"
+}

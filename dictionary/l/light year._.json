@@ -1,0 +1,18 @@
+{
+    "base": "light year",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "light year",
+    "n2": "light years",
+    "n3": "the light year",
+    "n4": "the light years",
+    "n5": "light year's",
+    "n6": "light years'",
+    "n7": "a light year",
+    "n8": "many light years"
+}

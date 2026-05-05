@@ -1,0 +1,18 @@
+{
+    "base": "sourdough",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sourdough",
+    "n2": "sourdoughs",
+    "n3": "the sourdough",
+    "n4": "the sourdoughs",
+    "n5": "sourdough's",
+    "n6": "sourdoughs'",
+    "n7": "a sourdough",
+    "n8": "many sourdoughs"
+}

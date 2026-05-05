@@ -1,0 +1,18 @@
+{
+    "base": "amber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amber",
+    "n2": "ambers",
+    "n3": "the amber",
+    "n4": "the ambers",
+    "n5": "amber's",
+    "n6": "ambers'",
+    "n7": "an amber",
+    "n8": "many ambers"
+}

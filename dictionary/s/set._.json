@@ -1,11 +1,24 @@
 {
     "base": "set",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "set",
     "v2": "set",
     "v3": "set",
     "v4": "setting",
-    "v5": "sets"
+    "v5": "sets",
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n1": "set",
+    "n2": "sets",
+    "n3": "the set",
+    "n4": "the sets",
+    "n5": "set's",
+    "n6": "sets'",
+    "n7": "a set",
+    "n8": "many sets"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "northerner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "northerner",
+    "n2": "northerners",
+    "n3": "the northerner",
+    "n4": "the northerners",
+    "n5": "northerner's",
+    "n6": "northerners'",
+    "n7": "a northerner",
+    "n8": "many northerners"
+}

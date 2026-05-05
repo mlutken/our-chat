@@ -1,0 +1,18 @@
+{
+    "base": "storekeeper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "storekeeper",
+    "n2": "storekeepers",
+    "n3": "the storekeeper",
+    "n4": "the storekeepers",
+    "n5": "storekeeper's",
+    "n6": "storekeepers'",
+    "n7": "a storekeeper",
+    "n8": "many storekeepers"
+}

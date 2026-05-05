@@ -1,0 +1,18 @@
+{
+    "base": "embassy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "embassy",
+    "n2": "embassies",
+    "n3": "the embassy",
+    "n4": "the embassies",
+    "n5": "embassy's",
+    "n6": "embassies'",
+    "n7": "an embassy",
+    "n8": "many embassies"
+}

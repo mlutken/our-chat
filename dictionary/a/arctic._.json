@@ -1,0 +1,18 @@
+{
+    "base": "arctic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "arctic",
+    "n2": "arctics",
+    "n3": "the arctic",
+    "n4": "the arctics",
+    "n5": "arctic's",
+    "n6": "arctics'",
+    "n7": "an arctic",
+    "n8": "many arctics"
+}

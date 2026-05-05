@@ -1,0 +1,18 @@
+{
+    "base": "paperback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paperback",
+    "n2": "paperbacks",
+    "n3": "the paperback",
+    "n4": "the paperbacks",
+    "n5": "paperback's",
+    "n6": "paperbacks'",
+    "n7": "a paperback",
+    "n8": "many paperbacks"
+}

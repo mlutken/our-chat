@@ -1,8 +1,21 @@
 {
     "base": "still",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "still",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "still",
+    "n2": "stills",
+    "n3": "the still",
+    "n4": "the stills",
+    "n5": "still's",
+    "n6": "stills'",
+    "n7": "a still",
+    "n8": "many stills"
 }

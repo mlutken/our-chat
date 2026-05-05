@@ -1,0 +1,18 @@
+{
+    "base": "inverse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inverse",
+    "n2": "inverses",
+    "n3": "the inverse",
+    "n4": "the inverses",
+    "n5": "inverse's",
+    "n6": "inverses'",
+    "n7": "an inverse",
+    "n8": "many inverses"
+}

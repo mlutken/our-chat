@@ -1,0 +1,18 @@
+{
+    "base": "umbrella tent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "umbrella tent",
+    "n2": "umbrella tents",
+    "n3": "the umbrella tent",
+    "n4": "the umbrella tents",
+    "n5": "umbrella tent's",
+    "n6": "umbrella tents'",
+    "n7": "an umbrella tent",
+    "n8": "many umbrella tents"
+}

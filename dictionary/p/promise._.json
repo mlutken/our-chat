@@ -1,11 +1,24 @@
 {
     "base": "promise",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "promise",
     "v2": "promised",
     "v3": "promised",
     "v4": "promising",
-    "v5": "promises"
+    "v5": "promises",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "promise",
+    "n2": "promises",
+    "n3": "the promise",
+    "n4": "the promises",
+    "n5": "promise's",
+    "n6": "promises'",
+    "n7": "a promise",
+    "n8": "many promises"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "nicety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nicety",
+    "n2": "niceties",
+    "n3": "the nicety",
+    "n4": "the niceties",
+    "n5": "nicety's",
+    "n6": "niceties'",
+    "n7": "a nicety",
+    "n8": "many niceties"
+}

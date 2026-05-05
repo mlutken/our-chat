@@ -1,0 +1,18 @@
+{
+    "base": "segregationist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "segregationist",
+    "n2": "segregationists",
+    "n3": "the segregationist",
+    "n4": "the segregationists",
+    "n5": "segregationist's",
+    "n6": "segregationists'",
+    "n7": "a segregationist",
+    "n8": "many segregationists"
+}

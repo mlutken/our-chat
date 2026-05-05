@@ -1,0 +1,18 @@
+{
+    "base": "reproach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "reproach",
+    "n2": "reproaches",
+    "n3": "the reproach",
+    "n4": "the reproaches",
+    "n5": "reproach's",
+    "n6": "reproaches'",
+    "n7": "a reproach",
+    "n8": "many reproaches"
+}

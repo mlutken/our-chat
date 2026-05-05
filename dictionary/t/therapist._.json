@@ -1,0 +1,18 @@
+{
+    "base": "therapist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "therapist",
+    "n2": "therapists",
+    "n3": "the therapist",
+    "n4": "the therapists",
+    "n5": "therapist's",
+    "n6": "therapists'",
+    "n7": "a therapist",
+    "n8": "many therapists"
+}

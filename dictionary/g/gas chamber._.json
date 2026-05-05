@@ -1,0 +1,18 @@
+{
+    "base": "gas chamber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gas chamber",
+    "n2": "gas chambers",
+    "n3": "the gas chamber",
+    "n4": "the gas chambers",
+    "n5": "gas chamber's",
+    "n6": "gas chambers'",
+    "n7": "a gas chamber",
+    "n8": "many gas chambers"
+}

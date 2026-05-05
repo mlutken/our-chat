@@ -1,0 +1,18 @@
+{
+    "base": "manhood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "manhood",
+    "n2": "manhoods",
+    "n3": "the manhood",
+    "n4": "the manhoods",
+    "n5": "manhood's",
+    "n6": "manhoods'",
+    "n7": "a manhood",
+    "n8": "many manhoods"
+}

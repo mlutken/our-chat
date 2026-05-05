@@ -1,0 +1,18 @@
+{
+    "base": "wyoming",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "wyoming",
+    "n2": "wyomings",
+    "n3": "the wyoming",
+    "n4": "the wyomings",
+    "n5": "wyoming's",
+    "n6": "wyomings'",
+    "n7": "a wyoming",
+    "n8": "many wyomings"
+}

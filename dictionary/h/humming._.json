@@ -1,0 +1,18 @@
+{
+    "base": "humming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "humming",
+    "n2": "hummings",
+    "n3": "the humming",
+    "n4": "the hummings",
+    "n5": "humming's",
+    "n6": "hummings'",
+    "n7": "a humming",
+    "n8": "many hummings"
+}

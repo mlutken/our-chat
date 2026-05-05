@@ -1,0 +1,18 @@
+{
+    "base": "fundamental law",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fundamental law",
+    "n2": "fundamental laws",
+    "n3": "the fundamental law",
+    "n4": "the fundamental laws",
+    "n5": "fundamental law's",
+    "n6": "fundamental laws'",
+    "n7": "a fundamental law",
+    "n8": "many fundamental laws"
+}

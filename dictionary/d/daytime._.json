@@ -1,0 +1,18 @@
+{
+    "base": "daytime",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "daytime",
+    "n2": "daytimes",
+    "n3": "the daytime",
+    "n4": "the daytimes",
+    "n5": "daytime's",
+    "n6": "daytimes'",
+    "n7": "a daytime",
+    "n8": "many daytimes"
+}

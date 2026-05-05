@@ -1,0 +1,18 @@
+{
+    "base": "husband",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 68,
+    "max_commonness": 6834,
+    "commonness_ge_count": 222,
+    "n1": "husband",
+    "n2": "husbands",
+    "n3": "the husband",
+    "n4": "the husbands",
+    "n5": "husband's",
+    "n6": "husbands'",
+    "n7": "a husband",
+    "n8": "many husbands"
+}

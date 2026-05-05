@@ -1,0 +1,18 @@
+{
+    "base": "suffrage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suffrage",
+    "n2": "suffrages",
+    "n3": "the suffrage",
+    "n4": "the suffrages",
+    "n5": "suffrage's",
+    "n6": "suffrages'",
+    "n7": "a suffrage",
+    "n8": "many suffrages"
+}

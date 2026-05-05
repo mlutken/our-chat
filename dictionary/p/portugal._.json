@@ -1,0 +1,18 @@
+{
+    "base": "portugal",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "portugal",
+    "n2": "portugals",
+    "n3": "the portugal",
+    "n4": "the portugals",
+    "n5": "portugal's",
+    "n6": "portugals'",
+    "n7": "a portugal",
+    "n8": "many portugals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gadgetry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gadgetry",
+    "n2": "gadgetries",
+    "n3": "the gadgetry",
+    "n4": "the gadgetries",
+    "n5": "gadgetry's",
+    "n6": "gadgetries'",
+    "n7": "a gadgetry",
+    "n8": "many gadgetries"
+}

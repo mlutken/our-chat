@@ -1,0 +1,18 @@
+{
+    "base": "ball field",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ball field",
+    "n2": "ball fields",
+    "n3": "the ball field",
+    "n4": "the ball fields",
+    "n5": "ball field's",
+    "n6": "ball fields'",
+    "n7": "a ball field",
+    "n8": "many ball fields"
+}

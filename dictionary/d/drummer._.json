@@ -1,0 +1,18 @@
+{
+    "base": "drummer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drummer",
+    "n2": "drummers",
+    "n3": "the drummer",
+    "n4": "the drummers",
+    "n5": "drummer's",
+    "n6": "drummers'",
+    "n7": "a drummer",
+    "n8": "many drummers"
+}

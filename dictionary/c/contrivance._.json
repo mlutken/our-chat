@@ -1,0 +1,18 @@
+{
+    "base": "contrivance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "contrivance",
+    "n2": "contrivances",
+    "n3": "the contrivance",
+    "n4": "the contrivances",
+    "n5": "contrivance's",
+    "n6": "contrivances'",
+    "n7": "a contrivance",
+    "n8": "many contrivances"
+}

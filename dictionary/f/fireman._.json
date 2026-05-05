@@ -1,0 +1,18 @@
+{
+    "base": "fireman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fireman",
+    "n2": "firemen",
+    "n3": "the fireman",
+    "n4": "the firemen",
+    "n5": "fireman's",
+    "n6": "firemen's",
+    "n7": "a fireman",
+    "n8": "many firemen"
+}

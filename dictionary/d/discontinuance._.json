@@ -1,0 +1,18 @@
+{
+    "base": "discontinuance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "discontinuance",
+    "n2": "discontinuances",
+    "n3": "the discontinuance",
+    "n4": "the discontinuances",
+    "n5": "discontinuance's",
+    "n6": "discontinuances'",
+    "n7": "a discontinuance",
+    "n8": "many discontinuances"
+}

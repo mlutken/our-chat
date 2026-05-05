@@ -1,0 +1,18 @@
+{
+    "base": "smallpox",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "smallpox",
+    "n2": "smallpoxes",
+    "n3": "the smallpox",
+    "n4": "the smallpoxes",
+    "n5": "smallpox's",
+    "n6": "smallpoxes'",
+    "n7": "a smallpox",
+    "n8": "many smallpoxes"
+}

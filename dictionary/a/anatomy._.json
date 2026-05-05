@@ -1,0 +1,18 @@
+{
+    "base": "anatomy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "anatomy",
+    "n2": "anatomies",
+    "n3": "the anatomy",
+    "n4": "the anatomies",
+    "n5": "anatomy's",
+    "n6": "anatomies'",
+    "n7": "an anatomy",
+    "n8": "many anatomies"
+}

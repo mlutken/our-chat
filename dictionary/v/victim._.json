@@ -1,0 +1,18 @@
+{
+    "base": "victim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "victim",
+    "n2": "victims",
+    "n3": "the victim",
+    "n4": "the victims",
+    "n5": "victim's",
+    "n6": "victims'",
+    "n7": "a victim",
+    "n8": "many victims"
+}

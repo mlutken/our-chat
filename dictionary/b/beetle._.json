@@ -1,0 +1,18 @@
+{
+    "base": "beetle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beetle",
+    "n2": "beetles",
+    "n3": "the beetle",
+    "n4": "the beetles",
+    "n5": "beetle's",
+    "n6": "beetles'",
+    "n7": "a beetle",
+    "n8": "many beetles"
+}

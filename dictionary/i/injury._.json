@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "injury",
-    "n2": "injurys",
+    "n2": "injuries",
     "n3": "the injury",
-    "n4": "the injurys",
-    "n5": "injury's"
+    "n4": "the injuries",
+    "n5": "injury's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "injuries'",
+    "n7": "an injury",
+    "n8": "many injuries"
 }

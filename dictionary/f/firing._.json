@@ -1,0 +1,18 @@
+{
+    "base": "firing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "firing",
+    "n2": "firings",
+    "n3": "the firing",
+    "n4": "the firings",
+    "n5": "firing's",
+    "n6": "firings'",
+    "n7": "a firing",
+    "n8": "many firings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "drawing room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "drawing room",
+    "n2": "drawing rooms",
+    "n3": "the drawing room",
+    "n4": "the drawing rooms",
+    "n5": "drawing room's",
+    "n6": "drawing rooms'",
+    "n7": "a drawing room",
+    "n8": "many drawing rooms"
+}

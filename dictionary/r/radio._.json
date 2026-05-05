@@ -7,5 +7,12 @@
     "n2": "radios",
     "n3": "the radio",
     "n4": "the radios",
-    "n5": "radio's"
+    "n5": "radio's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "radios'",
+    "n7": "a radio",
+    "n8": "many radios"
 }

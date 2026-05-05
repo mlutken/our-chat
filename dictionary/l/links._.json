@@ -1,0 +1,18 @@
+{
+    "base": "links",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "links",
+    "n2": "linkses",
+    "n3": "the links",
+    "n4": "the linkses",
+    "n5": "links'",
+    "n6": "linkses'",
+    "n7": "a links",
+    "n8": "many linkses"
+}

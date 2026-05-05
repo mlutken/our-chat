@@ -1,0 +1,18 @@
+{
+    "base": "shipwreck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shipwreck",
+    "n2": "shipwrecks",
+    "n3": "the shipwreck",
+    "n4": "the shipwrecks",
+    "n5": "shipwreck's",
+    "n6": "shipwrecks'",
+    "n7": "a shipwreck",
+    "n8": "many shipwrecks"
+}

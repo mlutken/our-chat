@@ -1,0 +1,18 @@
+{
+    "base": "submarine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "submarine",
+    "n2": "submarines",
+    "n3": "the submarine",
+    "n4": "the submarines",
+    "n5": "submarine's",
+    "n6": "submarines'",
+    "n7": "a submarine",
+    "n8": "many submarines"
+}

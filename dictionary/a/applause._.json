@@ -1,0 +1,18 @@
+{
+    "base": "applause",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "applause",
+    "n2": "applauses",
+    "n3": "the applause",
+    "n4": "the applauses",
+    "n5": "applause's",
+    "n6": "applauses'",
+    "n7": "an applause",
+    "n8": "many applauses"
+}

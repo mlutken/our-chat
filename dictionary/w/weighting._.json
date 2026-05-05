@@ -1,0 +1,18 @@
+{
+    "base": "weighting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weighting",
+    "n2": "weightings",
+    "n3": "the weighting",
+    "n4": "the weightings",
+    "n5": "weighting's",
+    "n6": "weightings'",
+    "n7": "a weighting",
+    "n8": "many weightings"
+}

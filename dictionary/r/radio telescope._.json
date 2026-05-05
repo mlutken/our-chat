@@ -1,0 +1,18 @@
+{
+    "base": "radio telescope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "radio telescope",
+    "n2": "radio telescopes",
+    "n3": "the radio telescope",
+    "n4": "the radio telescopes",
+    "n5": "radio telescope's",
+    "n6": "radio telescopes'",
+    "n7": "a radio telescope",
+    "n8": "many radio telescopes"
+}

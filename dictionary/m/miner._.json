@@ -1,0 +1,18 @@
+{
+    "base": "miner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "miner",
+    "n2": "miners",
+    "n3": "the miner",
+    "n4": "the miners",
+    "n5": "miner's",
+    "n6": "miners'",
+    "n7": "a miner",
+    "n8": "many miners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "highroad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "highroad",
+    "n2": "highroads",
+    "n3": "the highroad",
+    "n4": "the highroads",
+    "n5": "highroad's",
+    "n6": "highroads'",
+    "n7": "a highroad",
+    "n8": "many highroads"
+}

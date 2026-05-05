@@ -1,0 +1,18 @@
+{
+    "base": "tunisia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tunisia",
+    "n2": "tunisias",
+    "n3": "the tunisia",
+    "n4": "the tunisias",
+    "n5": "tunisia's",
+    "n6": "tunisias'",
+    "n7": "a tunisia",
+    "n8": "many tunisias"
+}

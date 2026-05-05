@@ -1,0 +1,18 @@
+{
+    "base": "upset",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "upset",
+    "n2": "upsets",
+    "n3": "the upset",
+    "n4": "the upsets",
+    "n5": "upset's",
+    "n6": "upsets'",
+    "n7": "an upset",
+    "n8": "many upsets"
+}

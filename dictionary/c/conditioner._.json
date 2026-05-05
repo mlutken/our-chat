@@ -1,0 +1,18 @@
+{
+    "base": "conditioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "conditioner",
+    "n2": "conditioners",
+    "n3": "the conditioner",
+    "n4": "the conditioners",
+    "n5": "conditioner's",
+    "n6": "conditioners'",
+    "n7": "a conditioner",
+    "n8": "many conditioners"
+}

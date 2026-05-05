@@ -1,0 +1,18 @@
+{
+    "base": "captive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "captive",
+    "n2": "captives",
+    "n3": "the captive",
+    "n4": "the captives",
+    "n5": "captive's",
+    "n6": "captives'",
+    "n7": "a captive",
+    "n8": "many captives"
+}

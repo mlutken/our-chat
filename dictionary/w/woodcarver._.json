@@ -1,0 +1,18 @@
+{
+    "base": "woodcarver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "woodcarver",
+    "n2": "woodcarvers",
+    "n3": "the woodcarver",
+    "n4": "the woodcarvers",
+    "n5": "woodcarver's",
+    "n6": "woodcarvers'",
+    "n7": "a woodcarver",
+    "n8": "many woodcarvers"
+}

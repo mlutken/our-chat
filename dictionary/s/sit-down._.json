@@ -1,0 +1,18 @@
+{
+    "base": "sit-down",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sit-down",
+    "n2": "sit-downs",
+    "n3": "the sit-down",
+    "n4": "the sit-downs",
+    "n5": "sit-down's",
+    "n6": "sit-downs'",
+    "n7": "a sit-down",
+    "n8": "many sit-downs"
+}

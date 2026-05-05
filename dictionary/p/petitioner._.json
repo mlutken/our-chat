@@ -1,0 +1,18 @@
+{
+    "base": "petitioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "petitioner",
+    "n2": "petitioners",
+    "n3": "the petitioner",
+    "n4": "the petitioners",
+    "n5": "petitioner's",
+    "n6": "petitioners'",
+    "n7": "a petitioner",
+    "n8": "many petitioners"
+}

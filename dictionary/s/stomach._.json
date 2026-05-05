@@ -1,0 +1,18 @@
+{
+    "base": "stomach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "stomach",
+    "n2": "stomaches",
+    "n3": "the stomach",
+    "n4": "the stomaches",
+    "n5": "stomach's",
+    "n6": "stomaches'",
+    "n7": "a stomach",
+    "n8": "many stomaches"
+}

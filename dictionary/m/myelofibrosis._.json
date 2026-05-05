@@ -1,0 +1,18 @@
+{
+    "base": "myelofibrosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "myelofibrosis",
+    "n2": "myelofibrosises",
+    "n3": "the myelofibrosis",
+    "n4": "the myelofibrosises",
+    "n5": "myelofibrosis'",
+    "n6": "myelofibrosises'",
+    "n7": "a myelofibrosis",
+    "n8": "many myelofibrosises"
+}

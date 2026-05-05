@@ -1,0 +1,18 @@
+{
+    "base": "gas thermometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gas thermometer",
+    "n2": "gas thermometers",
+    "n3": "the gas thermometer",
+    "n4": "the gas thermometers",
+    "n5": "gas thermometer's",
+    "n6": "gas thermometers'",
+    "n7": "a gas thermometer",
+    "n8": "many gas thermometers"
+}

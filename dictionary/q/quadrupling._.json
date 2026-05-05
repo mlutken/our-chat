@@ -1,0 +1,18 @@
+{
+    "base": "quadrupling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quadrupling",
+    "n2": "quadruplings",
+    "n3": "the quadrupling",
+    "n4": "the quadruplings",
+    "n5": "quadrupling's",
+    "n6": "quadruplings'",
+    "n7": "a quadrupling",
+    "n8": "many quadruplings"
+}

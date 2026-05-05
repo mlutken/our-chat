@@ -1,0 +1,18 @@
+{
+    "base": "focusing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "focusing",
+    "n2": "focusings",
+    "n3": "the focusing",
+    "n4": "the focusings",
+    "n5": "focusing's",
+    "n6": "focusings'",
+    "n7": "a focusing",
+    "n8": "many focusings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ribbon snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ribbon snake",
+    "n2": "ribbon snakes",
+    "n3": "the ribbon snake",
+    "n4": "the ribbon snakes",
+    "n5": "ribbon snake's",
+    "n6": "ribbon snakes'",
+    "n7": "a ribbon snake",
+    "n8": "many ribbon snakes"
+}

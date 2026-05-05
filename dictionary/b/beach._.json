@@ -7,5 +7,12 @@
     "n2": "beaches",
     "n3": "the beach",
     "n4": "the beaches",
-    "n5": "beach's"
+    "n5": "beach's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "beaches'",
+    "n7": "a beach",
+    "n8": "many beaches"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "memory picture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "memory picture",
+    "n2": "memory pictures",
+    "n3": "the memory picture",
+    "n4": "the memory pictures",
+    "n5": "memory picture's",
+    "n6": "memory pictures'",
+    "n7": "a memory picture",
+    "n8": "many memory pictures"
+}

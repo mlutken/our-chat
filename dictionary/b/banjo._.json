@@ -1,0 +1,18 @@
+{
+    "base": "banjo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "banjo",
+    "n2": "banjoes",
+    "n3": "the banjo",
+    "n4": "the banjoes",
+    "n5": "banjo's",
+    "n6": "banjoes'",
+    "n7": "a banjo",
+    "n8": "many banjoes"
+}

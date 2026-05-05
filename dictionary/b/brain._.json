@@ -7,5 +7,12 @@
     "n2": "brains",
     "n3": "the brain",
     "n4": "the brains",
-    "n5": "brain's"
+    "n5": "brain's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "brains'",
+    "n7": "a brain",
+    "n8": "many brains"
 }

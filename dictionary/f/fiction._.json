@@ -1,0 +1,18 @@
+{
+    "base": "fiction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "fiction",
+    "n2": "fictions",
+    "n3": "the fiction",
+    "n4": "the fictions",
+    "n5": "fiction's",
+    "n6": "fictions'",
+    "n7": "a fiction",
+    "n8": "many fictions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tantrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tantrum",
+    "n2": "tantrums",
+    "n3": "the tantrum",
+    "n4": "the tantrums",
+    "n5": "tantrum's",
+    "n6": "tantrums'",
+    "n7": "a tantrum",
+    "n8": "many tantrums"
+}

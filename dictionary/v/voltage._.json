@@ -1,0 +1,18 @@
+{
+    "base": "voltage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "voltage",
+    "n2": "voltages",
+    "n3": "the voltage",
+    "n4": "the voltages",
+    "n5": "voltage's",
+    "n6": "voltages'",
+    "n7": "a voltage",
+    "n8": "many voltages"
+}

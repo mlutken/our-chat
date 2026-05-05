@@ -1,0 +1,18 @@
+{
+    "base": "reporter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "reporter",
+    "n2": "reporters",
+    "n3": "the reporter",
+    "n4": "the reporters",
+    "n5": "reporter's",
+    "n6": "reporters'",
+    "n7": "a reporter",
+    "n8": "many reporters"
+}

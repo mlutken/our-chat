@@ -1,0 +1,18 @@
+{
+    "base": "mortal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mortal",
+    "n2": "mortals",
+    "n3": "the mortal",
+    "n4": "the mortals",
+    "n5": "mortal's",
+    "n6": "mortals'",
+    "n7": "a mortal",
+    "n8": "many mortals"
+}

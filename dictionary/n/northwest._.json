@@ -1,0 +1,18 @@
+{
+    "base": "northwest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "northwest",
+    "n2": "northwests",
+    "n3": "the northwest",
+    "n4": "the northwests",
+    "n5": "northwest's",
+    "n6": "northwests'",
+    "n7": "a northwest",
+    "n8": "many northwests"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "khartoum",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "khartoum",
+    "n2": "khartoums",
+    "n3": "the khartoum",
+    "n4": "the khartoums",
+    "n5": "khartoum's",
+    "n6": "khartoums'",
+    "n7": "a khartoum",
+    "n8": "many khartoums"
+}

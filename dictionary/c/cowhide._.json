@@ -1,0 +1,18 @@
+{
+    "base": "cowhide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cowhide",
+    "n2": "cowhides",
+    "n3": "the cowhide",
+    "n4": "the cowhides",
+    "n5": "cowhide's",
+    "n6": "cowhides'",
+    "n7": "a cowhide",
+    "n8": "many cowhides"
+}

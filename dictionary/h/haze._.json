@@ -1,0 +1,18 @@
+{
+    "base": "haze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "haze",
+    "n2": "hazes",
+    "n3": "the haze",
+    "n4": "the hazes",
+    "n5": "haze's",
+    "n6": "hazes'",
+    "n7": "a haze",
+    "n8": "many hazes"
+}

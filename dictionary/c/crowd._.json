@@ -1,0 +1,18 @@
+{
+    "base": "crowd",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n1": "crowd",
+    "n2": "crowds",
+    "n3": "the crowd",
+    "n4": "the crowds",
+    "n5": "crowd's",
+    "n6": "crowds'",
+    "n7": "a crowd",
+    "n8": "many crowds"
+}

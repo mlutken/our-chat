@@ -1,0 +1,18 @@
+{
+    "base": "bennington",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bennington",
+    "n2": "benningtons",
+    "n3": "the bennington",
+    "n4": "the benningtons",
+    "n5": "bennington's",
+    "n6": "benningtons'",
+    "n7": "a bennington",
+    "n8": "many benningtons"
+}

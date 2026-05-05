@@ -1,0 +1,18 @@
+{
+    "base": "marquee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marquee",
+    "n2": "marquees",
+    "n3": "the marquee",
+    "n4": "the marquees",
+    "n5": "marquee's",
+    "n6": "marquees'",
+    "n7": "a marquee",
+    "n8": "many marquees"
+}

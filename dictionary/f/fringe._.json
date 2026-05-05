@@ -1,0 +1,18 @@
+{
+    "base": "fringe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "fringe",
+    "n2": "fringes",
+    "n3": "the fringe",
+    "n4": "the fringes",
+    "n5": "fringe's",
+    "n6": "fringes'",
+    "n7": "a fringe",
+    "n8": "many fringes"
+}

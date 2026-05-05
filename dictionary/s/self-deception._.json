@@ -1,0 +1,18 @@
+{
+    "base": "self-deception",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "self-deception",
+    "n2": "self-deceptions",
+    "n3": "the self-deception",
+    "n4": "the self-deceptions",
+    "n5": "self-deception's",
+    "n6": "self-deceptions'",
+    "n7": "a self-deception",
+    "n8": "many self-deceptions"
+}

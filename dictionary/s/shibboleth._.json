@@ -1,0 +1,18 @@
+{
+    "base": "shibboleth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shibboleth",
+    "n2": "shibboleths",
+    "n3": "the shibboleth",
+    "n4": "the shibboleths",
+    "n5": "shibboleth's",
+    "n6": "shibboleths'",
+    "n7": "a shibboleth",
+    "n8": "many shibboleths"
+}

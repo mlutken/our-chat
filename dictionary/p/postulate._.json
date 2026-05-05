@@ -1,0 +1,18 @@
+{
+    "base": "postulate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "postulate",
+    "n2": "postulates",
+    "n3": "the postulate",
+    "n4": "the postulates",
+    "n5": "postulate's",
+    "n6": "postulates'",
+    "n7": "a postulate",
+    "n8": "many postulates"
+}

@@ -7,5 +7,12 @@
     "n2": "variations",
     "n3": "the variation",
     "n4": "the variations",
-    "n5": "variation's"
+    "n5": "variation's",
+    "proper": false,
+    "commonness": 37,
+    "max_commonness": 6834,
+    "commonness_ge_count": 486,
+    "n6": "variations'",
+    "n7": "a variation",
+    "n8": "many variations"
 }

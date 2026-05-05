@@ -1,11 +1,24 @@
 {
     "base": "cry",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cry",
     "v2": "cried",
     "v3": "cried",
     "v4": "crying",
-    "v5": "cries"
+    "v5": "cries",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "cry",
+    "n2": "crying",
+    "n3": "the cry",
+    "n4": "the crying",
+    "n5": "cry's",
+    "n6": "crying's",
+    "n7": "a cry",
+    "n8": "many crying"
 }

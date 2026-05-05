@@ -1,0 +1,18 @@
+{
+    "base": "fasciculation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fasciculation",
+    "n2": "fasciculations",
+    "n3": "the fasciculation",
+    "n4": "the fasciculations",
+    "n5": "fasciculation's",
+    "n6": "fasciculations'",
+    "n7": "a fasciculation",
+    "n8": "many fasciculations"
+}

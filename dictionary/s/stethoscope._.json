@@ -1,0 +1,18 @@
+{
+    "base": "stethoscope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stethoscope",
+    "n2": "stethoscopes",
+    "n3": "the stethoscope",
+    "n4": "the stethoscopes",
+    "n5": "stethoscope's",
+    "n6": "stethoscopes'",
+    "n7": "a stethoscope",
+    "n8": "many stethoscopes"
+}

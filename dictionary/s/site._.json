@@ -7,5 +7,12 @@
     "n2": "sites",
     "n3": "the site",
     "n4": "the sites",
-    "n5": "site's"
+    "n5": "site's",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "sites'",
+    "n7": "a site",
+    "n8": "many sites"
 }

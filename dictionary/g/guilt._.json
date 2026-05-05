@@ -1,0 +1,18 @@
+{
+    "base": "guilt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "guilt",
+    "n2": "guilts",
+    "n3": "the guilt",
+    "n4": "the guilts",
+    "n5": "guilt's",
+    "n6": "guilts'",
+    "n7": "a guilt",
+    "n8": "many guilts"
+}

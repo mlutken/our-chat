@@ -1,0 +1,18 @@
+{
+    "base": "rome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rome",
+    "n2": "romes",
+    "n3": "the rome",
+    "n4": "the romes",
+    "n5": "rome's",
+    "n6": "romes'",
+    "n7": "a rome",
+    "n8": "many romes"
+}

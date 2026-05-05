@@ -1,0 +1,18 @@
+{
+    "base": "announcement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "announcement",
+    "n2": "announcements",
+    "n3": "the announcement",
+    "n4": "the announcements",
+    "n5": "announcement's",
+    "n6": "announcements'",
+    "n7": "an announcement",
+    "n8": "many announcements"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dollar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "dollar",
+    "n2": "dollars",
+    "n3": "the dollar",
+    "n4": "the dollars",
+    "n5": "dollar's",
+    "n6": "dollars'",
+    "n7": "a dollar",
+    "n8": "many dollars"
+}

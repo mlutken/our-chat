@@ -1,0 +1,18 @@
+{
+    "base": "quality of life",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quality of life",
+    "n2": "quality of lives",
+    "n3": "the quality of life",
+    "n4": "the quality of lives",
+    "n5": "quality of life's",
+    "n6": "quality of lives'",
+    "n7": "a quality of life",
+    "n8": "many quality of lives"
+}

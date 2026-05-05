@@ -1,0 +1,18 @@
+{
+    "base": "way of life",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "way of life",
+    "n2": "way of lives",
+    "n3": "the way of life",
+    "n4": "the way of lives",
+    "n5": "way of life's",
+    "n6": "way of lives'",
+    "n7": "a way of life",
+    "n8": "many way of lives"
+}

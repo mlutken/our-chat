@@ -1,0 +1,18 @@
+{
+    "base": "resistor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "resistor",
+    "n2": "resistors",
+    "n3": "the resistor",
+    "n4": "the resistors",
+    "n5": "resistor's",
+    "n6": "resistors'",
+    "n7": "a resistor",
+    "n8": "many resistors"
+}

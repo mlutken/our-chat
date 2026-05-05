@@ -1,0 +1,18 @@
+{
+    "base": "notable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "notable",
+    "n2": "notables",
+    "n3": "the notable",
+    "n4": "the notables",
+    "n5": "notable's",
+    "n6": "notables'",
+    "n7": "a notable",
+    "n8": "many notables"
+}

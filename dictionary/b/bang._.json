@@ -1,11 +1,24 @@
 {
     "base": "bang",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "bang",
     "v2": "banged",
     "v3": "banged",
     "v4": "banging",
-    "v5": "bangs"
+    "v5": "bangs",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "bang",
+    "n2": "bangs",
+    "n3": "the bang",
+    "n4": "the bangs",
+    "n5": "bang's",
+    "n6": "bangs'",
+    "n7": "a bang",
+    "n8": "many bangs"
 }

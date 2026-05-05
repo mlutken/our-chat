@@ -1,0 +1,18 @@
+{
+    "base": "artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "artery",
+    "n2": "arteries",
+    "n3": "the artery",
+    "n4": "the arteries",
+    "n5": "artery's",
+    "n6": "arteries'",
+    "n7": "an artery",
+    "n8": "many arteries"
+}

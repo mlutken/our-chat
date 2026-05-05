@@ -1,0 +1,18 @@
+{
+    "base": "eye-beaming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "eye-beaming",
+    "n2": "eye-beamings",
+    "n3": "the eye-beaming",
+    "n4": "the eye-beamings",
+    "n5": "eye-beaming's",
+    "n6": "eye-beamings'",
+    "n7": "an eye-beaming",
+    "n8": "many eye-beamings"
+}

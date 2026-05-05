@@ -1,0 +1,18 @@
+{
+    "base": "stubbornness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stubbornness",
+    "n2": "stubbornnesses",
+    "n3": "the stubbornness",
+    "n4": "the stubbornnesses",
+    "n5": "stubbornness'",
+    "n6": "stubbornnesses'",
+    "n7": "a stubbornness",
+    "n8": "many stubbornnesses"
+}

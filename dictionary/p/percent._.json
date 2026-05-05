@@ -1,0 +1,18 @@
+{
+    "base": "percent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 64,
+    "max_commonness": 6834,
+    "commonness_ge_count": 239,
+    "n1": "percent",
+    "n2": "percents",
+    "n3": "the percent",
+    "n4": "the percents",
+    "n5": "percent's",
+    "n6": "percents'",
+    "n7": "a percent",
+    "n8": "many percents"
+}

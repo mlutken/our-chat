@@ -1,0 +1,18 @@
+{
+    "base": "shear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "shear",
+    "n2": "shears",
+    "n3": "the shear",
+    "n4": "the shears",
+    "n5": "shear's",
+    "n6": "shears'",
+    "n7": "a shear",
+    "n8": "many shears"
+}

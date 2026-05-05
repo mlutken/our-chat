@@ -1,0 +1,18 @@
+{
+    "base": "printed symbol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "printed symbol",
+    "n2": "printed symbols",
+    "n3": "the printed symbol",
+    "n4": "the printed symbols",
+    "n5": "printed symbol's",
+    "n6": "printed symbols'",
+    "n7": "a printed symbol",
+    "n8": "many printed symbols"
+}

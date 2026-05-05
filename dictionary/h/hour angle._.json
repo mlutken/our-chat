@@ -1,0 +1,18 @@
+{
+    "base": "hour angle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hour angle",
+    "n2": "hour angles",
+    "n3": "the hour angle",
+    "n4": "the hour angles",
+    "n5": "hour angle's",
+    "n6": "hour angles'",
+    "n7": "an hour angle",
+    "n8": "many hour angles"
+}

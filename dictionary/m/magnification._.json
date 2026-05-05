@@ -1,0 +1,18 @@
+{
+    "base": "magnification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magnification",
+    "n2": "magnifications",
+    "n3": "the magnification",
+    "n4": "the magnifications",
+    "n5": "magnification's",
+    "n6": "magnifications'",
+    "n7": "a magnification",
+    "n8": "many magnifications"
+}

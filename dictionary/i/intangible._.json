@@ -1,0 +1,18 @@
+{
+    "base": "intangible",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intangible",
+    "n2": "intangibles",
+    "n3": "the intangible",
+    "n4": "the intangibles",
+    "n5": "intangible's",
+    "n6": "intangibles'",
+    "n7": "an intangible",
+    "n8": "many intangibles"
+}

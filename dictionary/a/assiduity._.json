@@ -1,0 +1,18 @@
+{
+    "base": "assiduity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assiduity",
+    "n2": "assiduities",
+    "n3": "the assiduity",
+    "n4": "the assiduities",
+    "n5": "assiduity's",
+    "n6": "assiduities'",
+    "n7": "an assiduity",
+    "n8": "many assiduities"
+}

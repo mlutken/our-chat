@@ -1,0 +1,18 @@
+{
+    "base": "strip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "strip",
+    "n2": "strips",
+    "n3": "the strip",
+    "n4": "the strips",
+    "n5": "strip's",
+    "n6": "strips'",
+    "n7": "a strip",
+    "n8": "many strips"
+}

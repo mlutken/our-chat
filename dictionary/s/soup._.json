@@ -7,5 +7,12 @@
     "n2": "soups",
     "n3": "the soup",
     "n4": "the soups",
-    "n5": "soup's"
+    "n5": "soup's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "soups'",
+    "n7": "a soup",
+    "n8": "many soups"
 }

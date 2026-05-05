@@ -1,0 +1,18 @@
+{
+    "base": "porch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "porch",
+    "n2": "porches",
+    "n3": "the porch",
+    "n4": "the porches",
+    "n5": "porch's",
+    "n6": "porches'",
+    "n7": "a porch",
+    "n8": "many porches"
+}

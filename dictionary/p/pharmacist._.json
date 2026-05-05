@@ -1,0 +1,18 @@
+{
+    "base": "pharmacist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pharmacist",
+    "n2": "pharmacists",
+    "n3": "the pharmacist",
+    "n4": "the pharmacists",
+    "n5": "pharmacist's",
+    "n6": "pharmacists'",
+    "n7": "a pharmacist",
+    "n8": "many pharmacists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "recklessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "recklessness",
+    "n2": "recklessnesses",
+    "n3": "the recklessness",
+    "n4": "the recklessnesses",
+    "n5": "recklessness'",
+    "n6": "recklessnesses'",
+    "n7": "a recklessness",
+    "n8": "many recklessnesses"
+}

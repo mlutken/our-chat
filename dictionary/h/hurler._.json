@@ -1,0 +1,18 @@
+{
+    "base": "hurler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hurler",
+    "n2": "hurlers",
+    "n3": "the hurler",
+    "n4": "the hurlers",
+    "n5": "hurler's",
+    "n6": "hurlers'",
+    "n7": "a hurler",
+    "n8": "many hurlers"
+}

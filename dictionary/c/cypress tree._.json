@@ -1,0 +1,18 @@
+{
+    "base": "cypress tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cypress tree",
+    "n2": "cypress trees",
+    "n3": "the cypress tree",
+    "n4": "the cypress trees",
+    "n5": "cypress tree's",
+    "n6": "cypress trees'",
+    "n7": "a cypress tree",
+    "n8": "many cypress trees"
+}

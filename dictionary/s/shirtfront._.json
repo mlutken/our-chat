@@ -1,0 +1,18 @@
+{
+    "base": "shirtfront",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shirtfront",
+    "n2": "shirtfronts",
+    "n3": "the shirtfront",
+    "n4": "the shirtfronts",
+    "n5": "shirtfront's",
+    "n6": "shirtfronts'",
+    "n7": "a shirtfront",
+    "n8": "many shirtfronts"
+}

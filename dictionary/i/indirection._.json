@@ -1,0 +1,18 @@
+{
+    "base": "indirection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "indirection",
+    "n2": "indirections",
+    "n3": "the indirection",
+    "n4": "the indirections",
+    "n5": "indirection's",
+    "n6": "indirections'",
+    "n7": "an indirection",
+    "n8": "many indirections"
+}

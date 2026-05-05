@@ -1,0 +1,18 @@
+{
+    "base": "prosecuting attorney",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prosecuting attorney",
+    "n2": "prosecuting attorneys",
+    "n3": "the prosecuting attorney",
+    "n4": "the prosecuting attorneys",
+    "n5": "prosecuting attorney's",
+    "n6": "prosecuting attorneys'",
+    "n7": "a prosecuting attorney",
+    "n8": "many prosecuting attorneys"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "brazenness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brazenness",
+    "n2": "brazennesses",
+    "n3": "the brazenness",
+    "n4": "the brazennesses",
+    "n5": "brazenness'",
+    "n6": "brazennesses'",
+    "n7": "a brazenness",
+    "n8": "many brazennesses"
+}

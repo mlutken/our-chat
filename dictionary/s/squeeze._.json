@@ -1,0 +1,18 @@
+{
+    "base": "squeeze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "squeeze",
+    "n2": "squeezes",
+    "n3": "the squeeze",
+    "n4": "the squeezes",
+    "n5": "squeeze's",
+    "n6": "squeezes'",
+    "n7": "a squeeze",
+    "n8": "many squeezes"
+}

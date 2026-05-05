@@ -1,0 +1,18 @@
+{
+    "base": "adaptation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adaptation",
+    "n2": "adaptations",
+    "n3": "the adaptation",
+    "n4": "the adaptations",
+    "n5": "adaptation's",
+    "n6": "adaptations'",
+    "n7": "an adaptation",
+    "n8": "many adaptations"
+}

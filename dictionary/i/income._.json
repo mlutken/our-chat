@@ -7,5 +7,12 @@
     "n2": "incomes",
     "n3": "the income",
     "n4": "the incomes",
-    "n5": "income's"
+    "n5": "income's",
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n6": "incomes'",
+    "n7": "an income",
+    "n8": "many incomes"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "pond",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "pond",
+    "n2": "ponds",
+    "n3": "the pond",
+    "n4": "the ponds",
+    "n5": "pond's",
+    "n6": "ponds'",
+    "n7": "a pond",
+    "n8": "many ponds"
+}

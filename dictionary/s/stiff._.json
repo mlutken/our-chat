@@ -1,0 +1,18 @@
+{
+    "base": "stiff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stiff",
+    "n2": "stifves",
+    "n3": "the stiff",
+    "n4": "the stifves",
+    "n5": "stiff's",
+    "n6": "stifves'",
+    "n7": "a stiff",
+    "n8": "many stifves"
+}

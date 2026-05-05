@@ -1,0 +1,18 @@
+{
+    "base": "respite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "respite",
+    "n2": "respites",
+    "n3": "the respite",
+    "n4": "the respites",
+    "n5": "respite's",
+    "n6": "respites'",
+    "n7": "a respite",
+    "n8": "many respites"
+}

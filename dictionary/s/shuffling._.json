@@ -1,0 +1,18 @@
+{
+    "base": "shuffling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shuffling",
+    "n2": "shufflings",
+    "n3": "the shuffling",
+    "n4": "the shufflings",
+    "n5": "shuffling's",
+    "n6": "shufflings'",
+    "n7": "a shuffling",
+    "n8": "many shufflings"
+}

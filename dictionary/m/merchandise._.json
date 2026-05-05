@@ -1,0 +1,18 @@
+{
+    "base": "merchandise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "merchandise",
+    "n2": "merchandises",
+    "n3": "the merchandise",
+    "n4": "the merchandises",
+    "n5": "merchandise's",
+    "n6": "merchandises'",
+    "n7": "a merchandise",
+    "n8": "many merchandises"
+}

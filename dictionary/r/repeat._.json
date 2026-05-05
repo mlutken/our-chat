@@ -1,11 +1,24 @@
 {
     "base": "repeat",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "repeat",
     "v2": "repeated",
     "v3": "repeated",
     "v4": "repeating",
-    "v5": "repeats"
+    "v5": "repeats",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "repeat",
+    "n2": "repeats",
+    "n3": "the repeat",
+    "n4": "the repeats",
+    "n5": "repeat's",
+    "n6": "repeats'",
+    "n7": "a repeat",
+    "n8": "many repeats"
 }

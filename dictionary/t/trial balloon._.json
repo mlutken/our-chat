@@ -1,0 +1,18 @@
+{
+    "base": "trial balloon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trial balloon",
+    "n2": "trial balloons",
+    "n3": "the trial balloon",
+    "n4": "the trial balloons",
+    "n5": "trial balloon's",
+    "n6": "trial balloons'",
+    "n7": "a trial balloon",
+    "n8": "many trial balloons"
+}

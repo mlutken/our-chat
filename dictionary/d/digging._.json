@@ -1,0 +1,18 @@
+{
+    "base": "digging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "digging",
+    "n2": "diggings",
+    "n3": "the digging",
+    "n4": "the diggings",
+    "n5": "digging's",
+    "n6": "diggings'",
+    "n7": "a digging",
+    "n8": "many diggings"
+}

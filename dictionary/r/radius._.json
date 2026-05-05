@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "radius",
-    "n2": "radiuses",
+    "n2": "radii",
     "n3": "the radius",
-    "n4": "the radiuses",
-    "n5": "radius's"
+    "n4": "the radii",
+    "n5": "radius'",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "radii's",
+    "n7": "a radius",
+    "n8": "many radii"
 }

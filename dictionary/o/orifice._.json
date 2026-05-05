@@ -1,0 +1,18 @@
+{
+    "base": "orifice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "orifice",
+    "n2": "orifices",
+    "n3": "the orifice",
+    "n4": "the orifices",
+    "n5": "orifice's",
+    "n6": "orifices'",
+    "n7": "an orifice",
+    "n8": "many orifices"
+}

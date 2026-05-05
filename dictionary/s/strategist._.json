@@ -1,0 +1,18 @@
+{
+    "base": "strategist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "strategist",
+    "n2": "strategists",
+    "n3": "the strategist",
+    "n4": "the strategists",
+    "n5": "strategist's",
+    "n6": "strategists'",
+    "n7": "a strategist",
+    "n8": "many strategists"
+}

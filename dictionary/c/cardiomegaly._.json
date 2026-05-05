@@ -1,0 +1,18 @@
+{
+    "base": "cardiomegaly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cardiomegaly",
+    "n2": "cardiomegalies",
+    "n3": "the cardiomegaly",
+    "n4": "the cardiomegalies",
+    "n5": "cardiomegaly's",
+    "n6": "cardiomegalies'",
+    "n7": "a cardiomegaly",
+    "n8": "many cardiomegalies"
+}

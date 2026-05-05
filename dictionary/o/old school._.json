@@ -1,0 +1,18 @@
+{
+    "base": "old school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "old school",
+    "n2": "old schools",
+    "n3": "the old school",
+    "n4": "the old schools",
+    "n5": "old school's",
+    "n6": "old schools'",
+    "n7": "an old school",
+    "n8": "many old schools"
+}

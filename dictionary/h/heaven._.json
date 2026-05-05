@@ -1,0 +1,18 @@
+{
+    "base": "heaven",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "heaven",
+    "n2": "heavens",
+    "n3": "the heaven",
+    "n4": "the heavens",
+    "n5": "heaven's",
+    "n6": "heavens'",
+    "n7": "a heaven",
+    "n8": "many heavens"
+}

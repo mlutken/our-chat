@@ -1,0 +1,18 @@
+{
+    "base": "amsterdam",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "amsterdam",
+    "n2": "amsterdams",
+    "n3": "the amsterdam",
+    "n4": "the amsterdams",
+    "n5": "amsterdam's",
+    "n6": "amsterdams'",
+    "n7": "an amsterdam",
+    "n8": "many amsterdams"
+}

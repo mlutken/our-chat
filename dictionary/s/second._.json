@@ -1,0 +1,18 @@
+{
+    "base": "second",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "second",
+    "n2": "seconds",
+    "n3": "the second",
+    "n4": "the seconds",
+    "n5": "second's",
+    "n6": "seconds'",
+    "n7": "a second",
+    "n8": "many seconds"
+}

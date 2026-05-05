@@ -1,0 +1,18 @@
+{
+    "base": "realist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "realist",
+    "n2": "realists",
+    "n3": "the realist",
+    "n4": "the realists",
+    "n5": "realist's",
+    "n6": "realists'",
+    "n7": "a realist",
+    "n8": "many realists"
+}

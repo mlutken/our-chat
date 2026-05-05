@@ -1,0 +1,18 @@
+{
+    "base": "ballistic missile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "ballistic missile",
+    "n2": "ballistic missiles",
+    "n3": "the ballistic missile",
+    "n4": "the ballistic missiles",
+    "n5": "ballistic missile's",
+    "n6": "ballistic missiles'",
+    "n7": "a ballistic missile",
+    "n8": "many ballistic missiles"
+}

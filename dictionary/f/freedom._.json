@@ -7,5 +7,12 @@
     "n2": "freedoms",
     "n3": "the freedom",
     "n4": "the freedoms",
-    "n5": "freedom's"
+    "n5": "freedom's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "freedoms'",
+    "n7": "a freedom",
+    "n8": "many freedoms"
 }

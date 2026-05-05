@@ -1,0 +1,18 @@
+{
+    "base": "sprawling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sprawling",
+    "n2": "sprawlings",
+    "n3": "the sprawling",
+    "n4": "the sprawlings",
+    "n5": "sprawling's",
+    "n6": "sprawlings'",
+    "n7": "a sprawling",
+    "n8": "many sprawlings"
+}

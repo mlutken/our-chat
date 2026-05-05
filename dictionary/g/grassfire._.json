@@ -1,0 +1,18 @@
+{
+    "base": "grassfire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grassfire",
+    "n2": "grassfires",
+    "n3": "the grassfire",
+    "n4": "the grassfires",
+    "n5": "grassfire's",
+    "n6": "grassfires'",
+    "n7": "a grassfire",
+    "n8": "many grassfires"
+}

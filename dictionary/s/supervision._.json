@@ -1,0 +1,18 @@
+{
+    "base": "supervision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "supervision",
+    "n2": "supervisions",
+    "n3": "the supervision",
+    "n4": "the supervisions",
+    "n5": "supervision's",
+    "n6": "supervisions'",
+    "n7": "a supervision",
+    "n8": "many supervisions"
+}

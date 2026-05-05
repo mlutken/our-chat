@@ -7,5 +7,12 @@
     "n2": "establishments",
     "n3": "the establishment",
     "n4": "the establishments",
-    "n5": "establishment's"
+    "n5": "establishment's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "establishments'",
+    "n7": "an establishment",
+    "n8": "many establishments"
 }

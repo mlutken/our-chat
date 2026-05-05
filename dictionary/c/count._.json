@@ -1,11 +1,24 @@
 {
     "base": "count",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "count",
     "v2": "counted",
     "v3": "counted",
     "v4": "counting",
-    "v5": "counts"
+    "v5": "counts",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "count",
+    "n2": "counts",
+    "n3": "the count",
+    "n4": "the counts",
+    "n5": "count's",
+    "n6": "counts'",
+    "n7": "a count",
+    "n8": "many counts"
 }

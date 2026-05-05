@@ -1,0 +1,18 @@
+{
+    "base": "tv",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "tv",
+    "n2": "tvs",
+    "n3": "the tv",
+    "n4": "the tvs",
+    "n5": "tv's",
+    "n6": "tvs'",
+    "n7": "a tv",
+    "n8": "many tvs"
+}

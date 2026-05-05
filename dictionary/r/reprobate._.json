@@ -1,0 +1,18 @@
+{
+    "base": "reprobate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reprobate",
+    "n2": "reprobates",
+    "n3": "the reprobate",
+    "n4": "the reprobates",
+    "n5": "reprobate's",
+    "n6": "reprobates'",
+    "n7": "a reprobate",
+    "n8": "many reprobates"
+}

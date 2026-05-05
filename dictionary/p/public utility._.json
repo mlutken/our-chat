@@ -1,0 +1,18 @@
+{
+    "base": "public utility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "public utility",
+    "n2": "public utilities",
+    "n3": "the public utility",
+    "n4": "the public utilities",
+    "n5": "public utility's",
+    "n6": "public utilities'",
+    "n7": "a public utility",
+    "n8": "many public utilities"
+}

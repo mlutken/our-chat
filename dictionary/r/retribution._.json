@@ -1,0 +1,18 @@
+{
+    "base": "retribution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "retribution",
+    "n2": "retributions",
+    "n3": "the retribution",
+    "n4": "the retributions",
+    "n5": "retribution's",
+    "n6": "retributions'",
+    "n7": "a retribution",
+    "n8": "many retributions"
+}

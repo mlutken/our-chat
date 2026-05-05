@@ -1,0 +1,18 @@
+{
+    "base": "musician",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "musician",
+    "n2": "musicians",
+    "n3": "the musician",
+    "n4": "the musicians",
+    "n5": "musician's",
+    "n6": "musicians'",
+    "n7": "a musician",
+    "n8": "many musicians"
+}

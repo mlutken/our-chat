@@ -1,0 +1,18 @@
+{
+    "base": "coyness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coyness",
+    "n2": "coynesses",
+    "n3": "the coyness",
+    "n4": "the coynesses",
+    "n5": "coyness'",
+    "n6": "coynesses'",
+    "n7": "a coyness",
+    "n8": "many coynesses"
+}

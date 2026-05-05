@@ -1,0 +1,18 @@
+{
+    "base": "obtrusiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "obtrusiveness",
+    "n2": "obtrusivenesses",
+    "n3": "the obtrusiveness",
+    "n4": "the obtrusivenesses",
+    "n5": "obtrusiveness'",
+    "n6": "obtrusivenesses'",
+    "n7": "an obtrusiveness",
+    "n8": "many obtrusivenesses"
+}

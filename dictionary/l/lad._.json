@@ -1,0 +1,18 @@
+{
+    "base": "lad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "lad",
+    "n2": "lads",
+    "n3": "the lad",
+    "n4": "the lads",
+    "n5": "lad's",
+    "n6": "lads'",
+    "n7": "a lad",
+    "n8": "many lads"
+}

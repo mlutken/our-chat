@@ -1,0 +1,18 @@
+{
+    "base": "cheekbone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cheekbone",
+    "n2": "cheekbones",
+    "n3": "the cheekbone",
+    "n4": "the cheekbones",
+    "n5": "cheekbone's",
+    "n6": "cheekbones'",
+    "n7": "a cheekbone",
+    "n8": "many cheekbones"
+}

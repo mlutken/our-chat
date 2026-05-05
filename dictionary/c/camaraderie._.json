@@ -1,0 +1,18 @@
+{
+    "base": "camaraderie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "camaraderie",
+    "n2": "camaraderies",
+    "n3": "the camaraderie",
+    "n4": "the camaraderies",
+    "n5": "camaraderie's",
+    "n6": "camaraderies'",
+    "n7": "a camaraderie",
+    "n8": "many camaraderies"
+}

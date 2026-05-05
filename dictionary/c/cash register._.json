@@ -1,0 +1,18 @@
+{
+    "base": "cash register",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cash register",
+    "n2": "cash registers",
+    "n3": "the cash register",
+    "n4": "the cash registers",
+    "n5": "cash register's",
+    "n6": "cash registers'",
+    "n7": "a cash register",
+    "n8": "many cash registers"
+}

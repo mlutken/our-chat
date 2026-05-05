@@ -1,0 +1,18 @@
+{
+    "base": "ex-gambler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ex-gambler",
+    "n2": "ex-gamblers",
+    "n3": "the ex-gambler",
+    "n4": "the ex-gamblers",
+    "n5": "ex-gambler's",
+    "n6": "ex-gamblers'",
+    "n7": "an ex-gambler",
+    "n8": "many ex-gamblers"
+}

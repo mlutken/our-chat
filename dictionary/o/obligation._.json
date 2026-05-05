@@ -7,5 +7,12 @@
     "n2": "obligations",
     "n3": "the obligation",
     "n4": "the obligations",
-    "n5": "obligation's"
+    "n5": "obligation's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "obligations'",
+    "n7": "an obligation",
+    "n8": "many obligations"
 }

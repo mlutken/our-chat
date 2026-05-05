@@ -1,0 +1,18 @@
+{
+    "base": "acceleration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "acceleration",
+    "n2": "accelerations",
+    "n3": "the acceleration",
+    "n4": "the accelerations",
+    "n5": "acceleration's",
+    "n6": "accelerations'",
+    "n7": "an acceleration",
+    "n8": "many accelerations"
+}

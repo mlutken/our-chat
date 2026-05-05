@@ -1,0 +1,18 @@
+{
+    "base": "sorority",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sorority",
+    "n2": "sororities",
+    "n3": "the sorority",
+    "n4": "the sororities",
+    "n5": "sorority's",
+    "n6": "sororities'",
+    "n7": "a sorority",
+    "n8": "many sororities"
+}

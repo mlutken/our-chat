@@ -1,0 +1,18 @@
+{
+    "base": "clause",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "clause",
+    "n2": "clauses",
+    "n3": "the clause",
+    "n4": "the clauses",
+    "n5": "clause's",
+    "n6": "clauses'",
+    "n7": "a clause",
+    "n8": "many clauses"
+}

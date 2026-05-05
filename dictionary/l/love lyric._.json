@@ -1,0 +1,18 @@
+{
+    "base": "love lyric",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "love lyric",
+    "n2": "love lyrics",
+    "n3": "the love lyric",
+    "n4": "the love lyrics",
+    "n5": "love lyric's",
+    "n6": "love lyrics'",
+    "n7": "a love lyric",
+    "n8": "many love lyrics"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fixture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fixture",
+    "n2": "fixtures",
+    "n3": "the fixture",
+    "n4": "the fixtures",
+    "n5": "fixture's",
+    "n6": "fixtures'",
+    "n7": "a fixture",
+    "n8": "many fixtures"
+}

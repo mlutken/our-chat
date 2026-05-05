@@ -1,0 +1,18 @@
+{
+    "base": "pleura",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pleura",
+    "n2": "pleurae",
+    "n3": "the pleura",
+    "n4": "the pleurae",
+    "n5": "pleura's",
+    "n6": "pleurae's",
+    "n7": "a pleura",
+    "n8": "many pleurae"
+}

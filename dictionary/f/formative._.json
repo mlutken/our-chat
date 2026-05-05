@@ -1,0 +1,18 @@
+{
+    "base": "formative",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "formative",
+    "n2": "formatives",
+    "n3": "the formative",
+    "n4": "the formatives",
+    "n5": "formative's",
+    "n6": "formatives'",
+    "n7": "a formative",
+    "n8": "many formatives"
+}

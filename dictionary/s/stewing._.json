@@ -1,0 +1,18 @@
+{
+    "base": "stewing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stewing",
+    "n2": "stewings",
+    "n3": "the stewing",
+    "n4": "the stewings",
+    "n5": "stewing's",
+    "n6": "stewings'",
+    "n7": "a stewing",
+    "n8": "many stewings"
+}

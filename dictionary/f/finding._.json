@@ -7,5 +7,12 @@
     "n2": "findings",
     "n3": "the finding",
     "n4": "the findings",
-    "n5": "finding's"
+    "n5": "finding's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "findings'",
+    "n7": "a finding",
+    "n8": "many findings"
 }

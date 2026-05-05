@@ -1,0 +1,18 @@
+{
+    "base": "vintage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vintage",
+    "n2": "vintages",
+    "n3": "the vintage",
+    "n4": "the vintages",
+    "n5": "vintage's",
+    "n6": "vintages'",
+    "n7": "a vintage",
+    "n8": "many vintages"
+}

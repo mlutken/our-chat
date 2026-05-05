@@ -1,0 +1,18 @@
+{
+    "base": "cross-examination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cross-examination",
+    "n2": "cross-examinations",
+    "n3": "the cross-examination",
+    "n4": "the cross-examinations",
+    "n5": "cross-examination's",
+    "n6": "cross-examinations'",
+    "n7": "a cross-examination",
+    "n8": "many cross-examinations"
+}

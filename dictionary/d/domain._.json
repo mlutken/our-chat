@@ -7,5 +7,12 @@
     "n2": "domains",
     "n3": "the domain",
     "n4": "the domains",
-    "n5": "domain's"
+    "n5": "domain's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "domains'",
+    "n7": "a domain",
+    "n8": "many domains"
 }

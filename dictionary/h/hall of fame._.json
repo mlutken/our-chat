@@ -1,0 +1,18 @@
+{
+    "base": "hall of fame",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hall of fame",
+    "n2": "hall of fames",
+    "n3": "the hall of fame",
+    "n4": "the hall of fames",
+    "n5": "hall of fame's",
+    "n6": "hall of fames'",
+    "n7": "a hall of fame",
+    "n8": "many hall of fames"
+}

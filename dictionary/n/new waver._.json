@@ -1,0 +1,18 @@
+{
+    "base": "new waver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new waver",
+    "n2": "new wavers",
+    "n3": "the new waver",
+    "n4": "the new wavers",
+    "n5": "new waver's",
+    "n6": "new wavers'",
+    "n7": "a new waver",
+    "n8": "many new wavers"
+}

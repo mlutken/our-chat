@@ -1,0 +1,18 @@
+{
+    "base": "apparition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "apparition",
+    "n2": "apparitions",
+    "n3": "the apparition",
+    "n4": "the apparitions",
+    "n5": "apparition's",
+    "n6": "apparitions'",
+    "n7": "an apparition",
+    "n8": "many apparitions"
+}

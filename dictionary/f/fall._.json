@@ -1,11 +1,24 @@
 {
     "base": "fall",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fall",
     "v2": "fell",
     "v3": "fallen",
     "v4": "falling",
-    "v5": "falls"
+    "v5": "falls",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "fall",
+    "n2": "falls",
+    "n3": "the fall",
+    "n4": "the falls",
+    "n5": "fall's",
+    "n6": "falls'",
+    "n7": "a fall",
+    "n8": "many falls"
 }

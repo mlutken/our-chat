@@ -1,0 +1,18 @@
+{
+    "base": "titration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "titration",
+    "n2": "titrations",
+    "n3": "the titration",
+    "n4": "the titrations",
+    "n5": "titration's",
+    "n6": "titrations'",
+    "n7": "a titration",
+    "n8": "many titrations"
+}

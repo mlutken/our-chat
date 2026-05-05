@@ -1,0 +1,18 @@
+{
+    "base": "archives",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "archives",
+    "n2": "archiveses",
+    "n3": "the archives",
+    "n4": "the archiveses",
+    "n5": "archives'",
+    "n6": "archiveses'",
+    "n7": "an archives",
+    "n8": "many archiveses"
+}

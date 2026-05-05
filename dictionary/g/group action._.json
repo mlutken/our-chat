@@ -1,0 +1,18 @@
+{
+    "base": "group action",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "group action",
+    "n2": "group actions",
+    "n3": "the group action",
+    "n4": "the group actions",
+    "n5": "group action's",
+    "n6": "group actions'",
+    "n7": "a group action",
+    "n8": "many group actions"
+}

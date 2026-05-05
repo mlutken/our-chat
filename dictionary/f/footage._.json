@@ -1,0 +1,18 @@
+{
+    "base": "footage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "footage",
+    "n2": "footages",
+    "n3": "the footage",
+    "n4": "the footages",
+    "n5": "footage's",
+    "n6": "footages'",
+    "n7": "a footage",
+    "n8": "many footages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "underling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "underling",
+    "n2": "underlings",
+    "n3": "the underling",
+    "n4": "the underlings",
+    "n5": "underling's",
+    "n6": "underlings'",
+    "n7": "an underling",
+    "n8": "many underlings"
+}

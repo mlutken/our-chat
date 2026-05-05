@@ -1,0 +1,18 @@
+{
+    "base": "vigor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vigor",
+    "n2": "vigors",
+    "n3": "the vigor",
+    "n4": "the vigors",
+    "n5": "vigor's",
+    "n6": "vigors'",
+    "n7": "a vigor",
+    "n8": "many vigors"
+}

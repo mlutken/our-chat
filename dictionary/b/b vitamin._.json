@@ -1,0 +1,18 @@
+{
+    "base": "b vitamin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "b vitamin",
+    "n2": "b vitamins",
+    "n3": "the b vitamin",
+    "n4": "the b vitamins",
+    "n5": "b vitamin's",
+    "n6": "b vitamins'",
+    "n7": "a b vitamin",
+    "n8": "many b vitamins"
+}

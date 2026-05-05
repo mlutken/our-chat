@@ -1,0 +1,18 @@
+{
+    "base": "zoning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zoning",
+    "n2": "zonings",
+    "n3": "the zoning",
+    "n4": "the zonings",
+    "n5": "zoning's",
+    "n6": "zonings'",
+    "n7": "a zoning",
+    "n8": "many zonings"
+}

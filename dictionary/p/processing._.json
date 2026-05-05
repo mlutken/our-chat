@@ -1,0 +1,18 @@
+{
+    "base": "processing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "processing",
+    "n2": "processings",
+    "n3": "the processing",
+    "n4": "the processings",
+    "n5": "processing's",
+    "n6": "processings'",
+    "n7": "a processing",
+    "n8": "many processings"
+}

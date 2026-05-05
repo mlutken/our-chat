@@ -7,5 +7,12 @@
     "n2": "comparisons",
     "n3": "the comparison",
     "n4": "the comparisons",
-    "n5": "comparison's"
+    "n5": "comparison's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "comparisons'",
+    "n7": "a comparison",
+    "n8": "many comparisons"
 }

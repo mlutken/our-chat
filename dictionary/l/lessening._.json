@@ -1,0 +1,18 @@
+{
+    "base": "lessening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "lessening",
+    "n2": "lessenings",
+    "n3": "the lessening",
+    "n4": "the lessenings",
+    "n5": "lessening's",
+    "n6": "lessenings'",
+    "n7": "a lessening",
+    "n8": "many lessenings"
+}

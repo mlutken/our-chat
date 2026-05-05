@@ -1,0 +1,18 @@
+{
+    "base": "inducement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inducement",
+    "n2": "inducements",
+    "n3": "the inducement",
+    "n4": "the inducements",
+    "n5": "inducement's",
+    "n6": "inducements'",
+    "n7": "an inducement",
+    "n8": "many inducements"
+}

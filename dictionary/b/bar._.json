@@ -1,7 +1,20 @@
 {
     "base": "bar",
     "classes": [
+        "n",
         "pre"
     ],
-    "f0": "bar"
+    "f0": "bar",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "bar",
+    "n2": "bars",
+    "n3": "the bar",
+    "n4": "the bars",
+    "n5": "bar's",
+    "n6": "bars'",
+    "n7": "a bar",
+    "n8": "many bars"
 }

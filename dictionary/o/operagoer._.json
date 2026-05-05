@@ -1,0 +1,18 @@
+{
+    "base": "operagoer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "operagoer",
+    "n2": "operagoers",
+    "n3": "the operagoer",
+    "n4": "the operagoers",
+    "n5": "operagoer's",
+    "n6": "operagoers'",
+    "n7": "an operagoer",
+    "n8": "many operagoers"
+}

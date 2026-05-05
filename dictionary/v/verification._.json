@@ -1,0 +1,18 @@
+{
+    "base": "verification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "verification",
+    "n2": "verifications",
+    "n3": "the verification",
+    "n4": "the verifications",
+    "n5": "verification's",
+    "n6": "verifications'",
+    "n7": "a verification",
+    "n8": "many verifications"
+}

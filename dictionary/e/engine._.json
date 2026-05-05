@@ -7,5 +7,12 @@
     "n2": "engines",
     "n3": "the engine",
     "n4": "the engines",
-    "n5": "engine's"
+    "n5": "engine's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "engines'",
+    "n7": "an engine",
+    "n8": "many engines"
 }

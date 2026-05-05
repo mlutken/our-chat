@@ -1,11 +1,24 @@
 {
     "base": "cheer",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cheer",
     "v2": "cheered",
     "v3": "cheered",
     "v4": "cheering",
-    "v5": "cheers"
+    "v5": "cheers",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "cheer",
+    "n2": "cheers",
+    "n3": "the cheer",
+    "n4": "the cheers",
+    "n5": "cheer's",
+    "n6": "cheers'",
+    "n7": "a cheer",
+    "n8": "many cheers"
 }

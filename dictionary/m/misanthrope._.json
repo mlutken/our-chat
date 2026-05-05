@@ -1,0 +1,18 @@
+{
+    "base": "misanthrope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misanthrope",
+    "n2": "misanthropes",
+    "n3": "the misanthrope",
+    "n4": "the misanthropes",
+    "n5": "misanthrope's",
+    "n6": "misanthropes'",
+    "n7": "a misanthrope",
+    "n8": "many misanthropes"
+}

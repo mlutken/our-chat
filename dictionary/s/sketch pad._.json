@@ -1,0 +1,18 @@
+{
+    "base": "sketch pad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sketch pad",
+    "n2": "sketch pads",
+    "n3": "the sketch pad",
+    "n4": "the sketch pads",
+    "n5": "sketch pad's",
+    "n6": "sketch pads'",
+    "n7": "a sketch pad",
+    "n8": "many sketch pads"
+}

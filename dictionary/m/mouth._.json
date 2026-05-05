@@ -1,0 +1,18 @@
+{
+    "base": "mouth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n1": "mouth",
+    "n2": "mouths",
+    "n3": "the mouth",
+    "n4": "the mouths",
+    "n5": "mouth's",
+    "n6": "mouths'",
+    "n7": "a mouth",
+    "n8": "many mouths"
+}

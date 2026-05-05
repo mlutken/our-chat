@@ -1,0 +1,18 @@
+{
+    "base": "rightness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rightness",
+    "n2": "rightnesses",
+    "n3": "the rightness",
+    "n4": "the rightnesses",
+    "n5": "rightness'",
+    "n6": "rightnesses'",
+    "n7": "a rightness",
+    "n8": "many rightnesses"
+}

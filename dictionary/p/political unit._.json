@@ -1,0 +1,18 @@
+{
+    "base": "political unit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "political unit",
+    "n2": "political units",
+    "n3": "the political unit",
+    "n4": "the political units",
+    "n5": "political unit's",
+    "n6": "political units'",
+    "n7": "a political unit",
+    "n8": "many political units"
+}

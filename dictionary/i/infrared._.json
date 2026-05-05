@@ -1,0 +1,18 @@
+{
+    "base": "infrared",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infrared",
+    "n2": "infrareds",
+    "n3": "the infrared",
+    "n4": "the infrareds",
+    "n5": "infrared's",
+    "n6": "infrareds'",
+    "n7": "an infrared",
+    "n8": "many infrareds"
+}

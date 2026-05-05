@@ -1,0 +1,18 @@
+{
+    "base": "flail",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flail",
+    "n2": "flails",
+    "n3": "the flail",
+    "n4": "the flails",
+    "n5": "flail's",
+    "n6": "flails'",
+    "n7": "a flail",
+    "n8": "many flails"
+}

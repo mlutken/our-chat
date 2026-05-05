@@ -1,0 +1,18 @@
+{
+    "base": "attraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "attraction",
+    "n2": "attractions",
+    "n3": "the attraction",
+    "n4": "the attractions",
+    "n5": "attraction's",
+    "n6": "attractions'",
+    "n7": "an attraction",
+    "n8": "many attractions"
+}

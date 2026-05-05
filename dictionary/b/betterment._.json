@@ -1,0 +1,18 @@
+{
+    "base": "betterment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "betterment",
+    "n2": "betterments",
+    "n3": "the betterment",
+    "n4": "the betterments",
+    "n5": "betterment's",
+    "n6": "betterments'",
+    "n7": "a betterment",
+    "n8": "many betterments"
+}

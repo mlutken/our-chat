@@ -1,0 +1,18 @@
+{
+    "base": "composition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "composition",
+    "n2": "compositions",
+    "n3": "the composition",
+    "n4": "the compositions",
+    "n5": "composition's",
+    "n6": "compositions'",
+    "n7": "a composition",
+    "n8": "many compositions"
+}

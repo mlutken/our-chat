@@ -1,0 +1,18 @@
+{
+    "base": "sediment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sediment",
+    "n2": "sediments",
+    "n3": "the sediment",
+    "n4": "the sediments",
+    "n5": "sediment's",
+    "n6": "sediments'",
+    "n7": "a sediment",
+    "n8": "many sediments"
+}

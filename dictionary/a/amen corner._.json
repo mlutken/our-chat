@@ -1,0 +1,18 @@
+{
+    "base": "amen corner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "amen corner",
+    "n2": "amen corners",
+    "n3": "the amen corner",
+    "n4": "the amen corners",
+    "n5": "amen corner's",
+    "n6": "amen corners'",
+    "n7": "an amen corner",
+    "n8": "many amen corners"
+}

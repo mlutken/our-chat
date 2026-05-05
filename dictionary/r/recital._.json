@@ -1,0 +1,18 @@
+{
+    "base": "recital",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "recital",
+    "n2": "recitals",
+    "n3": "the recital",
+    "n4": "the recitals",
+    "n5": "recital's",
+    "n6": "recitals'",
+    "n7": "a recital",
+    "n8": "many recitals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "goat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "goat",
+    "n2": "goats",
+    "n3": "the goat",
+    "n4": "the goats",
+    "n5": "goat's",
+    "n6": "goats'",
+    "n7": "a goat",
+    "n8": "many goats"
+}

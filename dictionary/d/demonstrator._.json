@@ -1,0 +1,18 @@
+{
+    "base": "demonstrator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "demonstrator",
+    "n2": "demonstrators",
+    "n3": "the demonstrator",
+    "n4": "the demonstrators",
+    "n5": "demonstrator's",
+    "n6": "demonstrators'",
+    "n7": "a demonstrator",
+    "n8": "many demonstrators"
+}

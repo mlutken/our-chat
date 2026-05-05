@@ -1,0 +1,18 @@
+{
+    "base": "malaise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "malaise",
+    "n2": "malaises",
+    "n3": "the malaise",
+    "n4": "the malaises",
+    "n5": "malaise's",
+    "n6": "malaises'",
+    "n7": "a malaise",
+    "n8": "many malaises"
+}

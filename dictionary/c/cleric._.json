@@ -1,0 +1,18 @@
+{
+    "base": "cleric",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cleric",
+    "n2": "clerics",
+    "n3": "the cleric",
+    "n4": "the clerics",
+    "n5": "cleric's",
+    "n6": "clerics'",
+    "n7": "a cleric",
+    "n8": "many clerics"
+}

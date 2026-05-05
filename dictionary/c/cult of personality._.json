@@ -1,0 +1,18 @@
+{
+    "base": "cult of personality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cult of personality",
+    "n2": "cult of personalities",
+    "n3": "the cult of personality",
+    "n4": "the cult of personalities",
+    "n5": "cult of personality's",
+    "n6": "cult of personalities'",
+    "n7": "a cult of personality",
+    "n8": "many cult of personalities"
+}

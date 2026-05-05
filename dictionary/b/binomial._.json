@@ -1,0 +1,18 @@
+{
+    "base": "binomial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "binomial",
+    "n2": "binomials",
+    "n3": "the binomial",
+    "n4": "the binomials",
+    "n5": "binomial's",
+    "n6": "binomials'",
+    "n7": "a binomial",
+    "n8": "many binomials"
+}

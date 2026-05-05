@@ -1,0 +1,18 @@
+{
+    "base": "tone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 66,
+    "max_commonness": 6834,
+    "commonness_ge_count": 228,
+    "n1": "tone",
+    "n2": "tones",
+    "n3": "the tone",
+    "n4": "the tones",
+    "n5": "tone's",
+    "n6": "tones'",
+    "n7": "a tone",
+    "n8": "many tones"
+}

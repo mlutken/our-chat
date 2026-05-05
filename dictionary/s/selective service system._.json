@@ -1,0 +1,18 @@
+{
+    "base": "selective service system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "selective service system",
+    "n2": "selective service systems",
+    "n3": "the selective service system",
+    "n4": "the selective service systems",
+    "n5": "selective service system's",
+    "n6": "selective service systems'",
+    "n7": "a selective service system",
+    "n8": "many selective service systems"
+}

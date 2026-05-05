@@ -1,0 +1,18 @@
+{
+    "base": "cold weather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cold weather",
+    "n2": "cold weathers",
+    "n3": "the cold weather",
+    "n4": "the cold weathers",
+    "n5": "cold weather's",
+    "n6": "cold weathers'",
+    "n7": "a cold weather",
+    "n8": "many cold weathers"
+}

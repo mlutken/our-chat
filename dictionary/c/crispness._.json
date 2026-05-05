@@ -1,0 +1,18 @@
+{
+    "base": "crispness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "crispness",
+    "n2": "crispnesses",
+    "n3": "the crispness",
+    "n4": "the crispnesses",
+    "n5": "crispness'",
+    "n6": "crispnesses'",
+    "n7": "a crispness",
+    "n8": "many crispnesses"
+}

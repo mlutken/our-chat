@@ -1,0 +1,18 @@
+{
+    "base": "meadow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "meadow",
+    "n2": "meadows",
+    "n3": "the meadow",
+    "n4": "the meadows",
+    "n5": "meadow's",
+    "n6": "meadows'",
+    "n7": "a meadow",
+    "n8": "many meadows"
+}

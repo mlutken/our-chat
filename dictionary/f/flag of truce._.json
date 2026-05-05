@@ -1,0 +1,18 @@
+{
+    "base": "flag of truce",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flag of truce",
+    "n2": "flag of truces",
+    "n3": "the flag of truce",
+    "n4": "the flag of truces",
+    "n5": "flag of truce's",
+    "n6": "flag of truces'",
+    "n7": "a flag of truce",
+    "n8": "many flag of truces"
+}

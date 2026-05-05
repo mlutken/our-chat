@@ -7,5 +7,12 @@
     "n2": "islands",
     "n3": "the island",
     "n4": "the islands",
-    "n5": "island's"
+    "n5": "island's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "islands'",
+    "n7": "an island",
+    "n8": "many islands"
 }

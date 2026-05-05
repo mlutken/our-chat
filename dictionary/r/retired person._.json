@@ -1,0 +1,18 @@
+{
+    "base": "retired person",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retired person",
+    "n2": "retired persons",
+    "n3": "the retired person",
+    "n4": "the retired persons",
+    "n5": "retired person's",
+    "n6": "retired persons'",
+    "n7": "a retired person",
+    "n8": "many retired persons"
+}

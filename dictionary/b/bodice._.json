@@ -1,0 +1,18 @@
+{
+    "base": "bodice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bodice",
+    "n2": "bodices",
+    "n3": "the bodice",
+    "n4": "the bodices",
+    "n5": "bodice's",
+    "n6": "bodices'",
+    "n7": "a bodice",
+    "n8": "many bodices"
+}

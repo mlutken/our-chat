@@ -1,0 +1,18 @@
+{
+    "base": "testing room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "testing room",
+    "n2": "testing rooms",
+    "n3": "the testing room",
+    "n4": "the testing rooms",
+    "n5": "testing room's",
+    "n6": "testing rooms'",
+    "n7": "a testing room",
+    "n8": "many testing rooms"
+}

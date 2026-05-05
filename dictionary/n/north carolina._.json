@@ -1,0 +1,18 @@
+{
+    "base": "north carolina",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "north carolina",
+    "n2": "north carolinas",
+    "n3": "the north carolina",
+    "n4": "the north carolinas",
+    "n5": "north carolina's",
+    "n6": "north carolinas'",
+    "n7": "a north carolina",
+    "n8": "many north carolinas"
+}

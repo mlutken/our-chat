@@ -1,0 +1,18 @@
+{
+    "base": "repository",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "repository",
+    "n2": "repositories",
+    "n3": "the repository",
+    "n4": "the repositories",
+    "n5": "repository's",
+    "n6": "repositories'",
+    "n7": "a repository",
+    "n8": "many repositories"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tungsten",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tungsten",
+    "n2": "tungstens",
+    "n3": "the tungsten",
+    "n4": "the tungstens",
+    "n5": "tungsten's",
+    "n6": "tungstens'",
+    "n7": "a tungsten",
+    "n8": "many tungstens"
+}

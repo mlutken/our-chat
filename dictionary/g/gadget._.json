@@ -1,0 +1,18 @@
+{
+    "base": "gadget",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "gadget",
+    "n2": "gadgets",
+    "n3": "the gadget",
+    "n4": "the gadgets",
+    "n5": "gadget's",
+    "n6": "gadgets'",
+    "n7": "a gadget",
+    "n8": "many gadgets"
+}

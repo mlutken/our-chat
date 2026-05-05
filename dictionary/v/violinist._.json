@@ -1,0 +1,18 @@
+{
+    "base": "violinist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "violinist",
+    "n2": "violinists",
+    "n3": "the violinist",
+    "n4": "the violinists",
+    "n5": "violinist's",
+    "n6": "violinists'",
+    "n7": "a violinist",
+    "n8": "many violinists"
+}

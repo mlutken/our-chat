@@ -1,0 +1,18 @@
+{
+    "base": "physical chemistry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "physical chemistry",
+    "n2": "physical chemistries",
+    "n3": "the physical chemistry",
+    "n4": "the physical chemistries",
+    "n5": "physical chemistry's",
+    "n6": "physical chemistries'",
+    "n7": "a physical chemistry",
+    "n8": "many physical chemistries"
+}

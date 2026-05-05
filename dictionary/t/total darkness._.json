@@ -1,0 +1,18 @@
+{
+    "base": "total darkness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "total darkness",
+    "n2": "total darknesses",
+    "n3": "the total darkness",
+    "n4": "the total darknesses",
+    "n5": "total darkness'",
+    "n6": "total darknesses'",
+    "n7": "a total darkness",
+    "n8": "many total darknesses"
+}

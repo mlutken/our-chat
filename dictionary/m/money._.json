@@ -7,5 +7,12 @@
     "n2": "moneys",
     "n3": "the money",
     "n4": "the moneys",
-    "n5": "money's"
+    "n5": "money's",
+    "proper": false,
+    "commonness": 92,
+    "max_commonness": 6834,
+    "commonness_ge_count": 137,
+    "n6": "moneys'",
+    "n7": "a money",
+    "n8": "many moneys"
 }

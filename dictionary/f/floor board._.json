@@ -1,0 +1,18 @@
+{
+    "base": "floor board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "floor board",
+    "n2": "floor boards",
+    "n3": "the floor board",
+    "n4": "the floor boards",
+    "n5": "floor board's",
+    "n6": "floor boards'",
+    "n7": "a floor board",
+    "n8": "many floor boards"
+}

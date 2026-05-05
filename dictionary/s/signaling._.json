@@ -1,0 +1,18 @@
+{
+    "base": "signaling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "signaling",
+    "n2": "signalings",
+    "n3": "the signaling",
+    "n4": "the signalings",
+    "n5": "signaling's",
+    "n6": "signalings'",
+    "n7": "a signaling",
+    "n8": "many signalings"
+}

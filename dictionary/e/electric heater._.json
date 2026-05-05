@@ -1,0 +1,18 @@
+{
+    "base": "electric heater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electric heater",
+    "n2": "electric heaters",
+    "n3": "the electric heater",
+    "n4": "the electric heaters",
+    "n5": "electric heater's",
+    "n6": "electric heaters'",
+    "n7": "an electric heater",
+    "n8": "many electric heaters"
+}

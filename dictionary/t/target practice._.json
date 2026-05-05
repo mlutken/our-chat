@@ -1,0 +1,18 @@
+{
+    "base": "target practice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "target practice",
+    "n2": "target practices",
+    "n3": "the target practice",
+    "n4": "the target practices",
+    "n5": "target practice's",
+    "n6": "target practices'",
+    "n7": "a target practice",
+    "n8": "many target practices"
+}

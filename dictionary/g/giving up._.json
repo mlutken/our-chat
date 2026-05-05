@@ -1,0 +1,18 @@
+{
+    "base": "giving up",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "giving up",
+    "n2": "giving ups",
+    "n3": "the giving up",
+    "n4": "the giving ups",
+    "n5": "giving up's",
+    "n6": "giving ups'",
+    "n7": "a giving up",
+    "n8": "many giving ups"
+}

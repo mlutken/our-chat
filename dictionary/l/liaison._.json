@@ -1,0 +1,18 @@
+{
+    "base": "liaison",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "liaison",
+    "n2": "liaisons",
+    "n3": "the liaison",
+    "n4": "the liaisons",
+    "n5": "liaison's",
+    "n6": "liaisons'",
+    "n7": "a liaison",
+    "n8": "many liaisons"
+}

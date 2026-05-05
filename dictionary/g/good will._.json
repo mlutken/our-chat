@@ -1,0 +1,18 @@
+{
+    "base": "good will",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "good will",
+    "n2": "good wills",
+    "n3": "the good will",
+    "n4": "the good wills",
+    "n5": "good will's",
+    "n6": "good wills'",
+    "n7": "a good will",
+    "n8": "many good wills"
+}

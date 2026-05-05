@@ -1,0 +1,18 @@
+{
+    "base": "junk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "junk",
+    "n2": "junks",
+    "n3": "the junk",
+    "n4": "the junks",
+    "n5": "junk's",
+    "n6": "junks'",
+    "n7": "a junk",
+    "n8": "many junks"
+}

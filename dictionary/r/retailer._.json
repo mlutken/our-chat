@@ -1,0 +1,18 @@
+{
+    "base": "retailer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "retailer",
+    "n2": "retailers",
+    "n3": "the retailer",
+    "n4": "the retailers",
+    "n5": "retailer's",
+    "n6": "retailers'",
+    "n7": "a retailer",
+    "n8": "many retailers"
+}

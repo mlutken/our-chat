@@ -1,11 +1,24 @@
 {
     "base": "tow",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tow",
     "v2": "towed",
     "v3": "towed",
     "v4": "towing",
-    "v5": "tows"
+    "v5": "tows",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tow",
+    "n2": "tows",
+    "n3": "the tow",
+    "n4": "the tows",
+    "n5": "tow's",
+    "n6": "tows'",
+    "n7": "a tow",
+    "n8": "many tows"
 }

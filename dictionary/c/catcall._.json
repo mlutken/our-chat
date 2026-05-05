@@ -1,0 +1,18 @@
+{
+    "base": "catcall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "catcall",
+    "n2": "catcalls",
+    "n3": "the catcall",
+    "n4": "the catcalls",
+    "n5": "catcall's",
+    "n6": "catcalls'",
+    "n7": "a catcall",
+    "n8": "many catcalls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wide screen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wide screen",
+    "n2": "wide screens",
+    "n3": "the wide screen",
+    "n4": "the wide screens",
+    "n5": "wide screen's",
+    "n6": "wide screens'",
+    "n7": "a wide screen",
+    "n8": "many wide screens"
+}

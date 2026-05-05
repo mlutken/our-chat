@@ -1,0 +1,18 @@
+{
+    "base": "investigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "investigation",
+    "n2": "investigations",
+    "n3": "the investigation",
+    "n4": "the investigations",
+    "n5": "investigation's",
+    "n6": "investigations'",
+    "n7": "an investigation",
+    "n8": "many investigations"
+}

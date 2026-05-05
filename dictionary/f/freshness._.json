@@ -1,0 +1,18 @@
+{
+    "base": "freshness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "freshness",
+    "n2": "freshnesses",
+    "n3": "the freshness",
+    "n4": "the freshnesses",
+    "n5": "freshness'",
+    "n6": "freshnesses'",
+    "n7": "a freshness",
+    "n8": "many freshnesses"
+}

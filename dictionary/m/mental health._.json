@@ -1,0 +1,18 @@
+{
+    "base": "mental health",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mental health",
+    "n2": "mental healths",
+    "n3": "the mental health",
+    "n4": "the mental healths",
+    "n5": "mental health's",
+    "n6": "mental healths'",
+    "n7": "a mental health",
+    "n8": "many mental healths"
+}

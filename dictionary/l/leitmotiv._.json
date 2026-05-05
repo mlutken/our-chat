@@ -1,0 +1,18 @@
+{
+    "base": "leitmotiv",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leitmotiv",
+    "n2": "leitmotivs",
+    "n3": "the leitmotiv",
+    "n4": "the leitmotivs",
+    "n5": "leitmotiv's",
+    "n6": "leitmotivs'",
+    "n7": "a leitmotiv",
+    "n8": "many leitmotivs"
+}

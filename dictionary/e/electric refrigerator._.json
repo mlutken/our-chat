@@ -1,0 +1,18 @@
+{
+    "base": "electric refrigerator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electric refrigerator",
+    "n2": "electric refrigerators",
+    "n3": "the electric refrigerator",
+    "n4": "the electric refrigerators",
+    "n5": "electric refrigerator's",
+    "n6": "electric refrigerators'",
+    "n7": "an electric refrigerator",
+    "n8": "many electric refrigerators"
+}

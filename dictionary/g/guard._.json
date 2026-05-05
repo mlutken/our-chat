@@ -1,11 +1,24 @@
 {
     "base": "guard",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "guard",
     "v2": "guarded",
     "v3": "guarded",
     "v4": "guarding",
-    "v5": "guards"
+    "v5": "guards",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "guard",
+    "n2": "guards",
+    "n3": "the guard",
+    "n4": "the guards",
+    "n5": "guard's",
+    "n6": "guards'",
+    "n7": "a guard",
+    "n8": "many guards"
 }

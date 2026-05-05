@@ -1,0 +1,18 @@
+{
+    "base": "disassembly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disassembly",
+    "n2": "disassemblies",
+    "n3": "the disassembly",
+    "n4": "the disassemblies",
+    "n5": "disassembly's",
+    "n6": "disassemblies'",
+    "n7": "a disassembly",
+    "n8": "many disassemblies"
+}

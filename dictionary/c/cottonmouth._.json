@@ -1,0 +1,18 @@
+{
+    "base": "cottonmouth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cottonmouth",
+    "n2": "cottonmouths",
+    "n3": "the cottonmouth",
+    "n4": "the cottonmouths",
+    "n5": "cottonmouth's",
+    "n6": "cottonmouths'",
+    "n7": "a cottonmouth",
+    "n8": "many cottonmouths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "awarding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "awarding",
+    "n2": "awardings",
+    "n3": "the awarding",
+    "n4": "the awardings",
+    "n5": "awarding's",
+    "n6": "awardings'",
+    "n7": "an awarding",
+    "n8": "many awardings"
+}

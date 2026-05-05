@@ -1,0 +1,18 @@
+{
+    "base": "apprenticeship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "apprenticeship",
+    "n2": "apprenticeships",
+    "n3": "the apprenticeship",
+    "n4": "the apprenticeships",
+    "n5": "apprenticeship's",
+    "n6": "apprenticeships'",
+    "n7": "an apprenticeship",
+    "n8": "many apprenticeships"
+}

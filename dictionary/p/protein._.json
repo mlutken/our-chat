@@ -1,0 +1,18 @@
+{
+    "base": "protein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "protein",
+    "n2": "proteins",
+    "n3": "the protein",
+    "n4": "the proteins",
+    "n5": "protein's",
+    "n6": "proteins'",
+    "n7": "a protein",
+    "n8": "many proteins"
+}

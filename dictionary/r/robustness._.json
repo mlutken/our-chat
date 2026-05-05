@@ -1,0 +1,18 @@
+{
+    "base": "robustness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "robustness",
+    "n2": "robustnesses",
+    "n3": "the robustness",
+    "n4": "the robustnesses",
+    "n5": "robustness'",
+    "n6": "robustnesses'",
+    "n7": "a robustness",
+    "n8": "many robustnesses"
+}

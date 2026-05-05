@@ -1,0 +1,18 @@
+{
+    "base": "gothic romancer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gothic romancer",
+    "n2": "gothic romancers",
+    "n3": "the gothic romancer",
+    "n4": "the gothic romancers",
+    "n5": "gothic romancer's",
+    "n6": "gothic romancers'",
+    "n7": "a gothic romancer",
+    "n8": "many gothic romancers"
+}

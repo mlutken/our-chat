@@ -1,0 +1,18 @@
+{
+    "base": "dairyman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dairyman",
+    "n2": "dairymen",
+    "n3": "the dairyman",
+    "n4": "the dairymen",
+    "n5": "dairyman's",
+    "n6": "dairymen's",
+    "n7": "a dairyman",
+    "n8": "many dairymen"
+}

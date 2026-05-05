@@ -1,0 +1,18 @@
+{
+    "base": "litigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "litigation",
+    "n2": "litigations",
+    "n3": "the litigation",
+    "n4": "the litigations",
+    "n5": "litigation's",
+    "n6": "litigations'",
+    "n7": "a litigation",
+    "n8": "many litigations"
+}

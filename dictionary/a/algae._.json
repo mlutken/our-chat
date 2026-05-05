@@ -1,0 +1,18 @@
+{
+    "base": "algae",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "algae",
+    "n2": "algaes",
+    "n3": "the algae",
+    "n4": "the algaes",
+    "n5": "algae's",
+    "n6": "algaes'",
+    "n7": "an algae",
+    "n8": "many algaes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dramatics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dramatics",
+    "n2": "dramaticses",
+    "n3": "the dramatics",
+    "n4": "the dramaticses",
+    "n5": "dramatics'",
+    "n6": "dramaticses'",
+    "n7": "a dramatics",
+    "n8": "many dramaticses"
+}

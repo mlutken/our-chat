@@ -1,0 +1,18 @@
+{
+    "base": "supporter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "supporter",
+    "n2": "supporters",
+    "n3": "the supporter",
+    "n4": "the supporters",
+    "n5": "supporter's",
+    "n6": "supporters'",
+    "n7": "a supporter",
+    "n8": "many supporters"
+}

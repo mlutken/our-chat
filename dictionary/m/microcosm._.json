@@ -1,0 +1,18 @@
+{
+    "base": "microcosm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "microcosm",
+    "n2": "microcosms",
+    "n3": "the microcosm",
+    "n4": "the microcosms",
+    "n5": "microcosm's",
+    "n6": "microcosms'",
+    "n7": "a microcosm",
+    "n8": "many microcosms"
+}

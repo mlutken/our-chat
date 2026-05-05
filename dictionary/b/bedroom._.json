@@ -7,5 +7,12 @@
     "n2": "bedrooms",
     "n3": "the bedroom",
     "n4": "the bedrooms",
-    "n5": "bedroom's"
+    "n5": "bedroom's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "bedrooms'",
+    "n7": "a bedroom",
+    "n8": "many bedrooms"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "cold war",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "cold war",
+    "n2": "cold wars",
+    "n3": "the cold war",
+    "n4": "the cold wars",
+    "n5": "cold war's",
+    "n6": "cold wars'",
+    "n7": "a cold war",
+    "n8": "many cold wars"
+}

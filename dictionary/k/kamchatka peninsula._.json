@@ -1,0 +1,18 @@
+{
+    "base": "kamchatka peninsula",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kamchatka peninsula",
+    "n2": "kamchatka peninsulas",
+    "n3": "the kamchatka peninsula",
+    "n4": "the kamchatka peninsulas",
+    "n5": "kamchatka peninsula's",
+    "n6": "kamchatka peninsulas'",
+    "n7": "a kamchatka peninsula",
+    "n8": "many kamchatka peninsulas"
+}

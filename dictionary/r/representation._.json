@@ -1,0 +1,18 @@
+{
+    "base": "representation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "representation",
+    "n2": "representations",
+    "n3": "the representation",
+    "n4": "the representations",
+    "n5": "representation's",
+    "n6": "representations'",
+    "n7": "a representation",
+    "n8": "many representations"
+}

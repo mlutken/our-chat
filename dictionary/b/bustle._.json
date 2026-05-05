@@ -1,0 +1,18 @@
+{
+    "base": "bustle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bustle",
+    "n2": "bustles",
+    "n3": "the bustle",
+    "n4": "the bustles",
+    "n5": "bustle's",
+    "n6": "bustles'",
+    "n7": "a bustle",
+    "n8": "many bustles"
+}

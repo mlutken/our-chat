@@ -1,0 +1,18 @@
+{
+    "base": "bundle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bundle",
+    "n2": "bundles",
+    "n3": "the bundle",
+    "n4": "the bundles",
+    "n5": "bundle's",
+    "n6": "bundles'",
+    "n7": "a bundle",
+    "n8": "many bundles"
+}

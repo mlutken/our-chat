@@ -1,0 +1,18 @@
+{
+    "base": "water program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water program",
+    "n2": "water programs",
+    "n3": "the water program",
+    "n4": "the water programs",
+    "n5": "water program's",
+    "n6": "water programs'",
+    "n7": "a water program",
+    "n8": "many water programs"
+}

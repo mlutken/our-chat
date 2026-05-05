@@ -1,0 +1,18 @@
+{
+    "base": "dispensary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dispensary",
+    "n2": "dispensaries",
+    "n3": "the dispensary",
+    "n4": "the dispensaries",
+    "n5": "dispensary's",
+    "n6": "dispensaries'",
+    "n7": "a dispensary",
+    "n8": "many dispensaries"
+}

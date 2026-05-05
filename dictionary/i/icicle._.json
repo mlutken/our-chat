@@ -1,0 +1,18 @@
+{
+    "base": "icicle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "icicle",
+    "n2": "icicles",
+    "n3": "the icicle",
+    "n4": "the icicles",
+    "n5": "icicle's",
+    "n6": "icicles'",
+    "n7": "an icicle",
+    "n8": "many icicles"
+}

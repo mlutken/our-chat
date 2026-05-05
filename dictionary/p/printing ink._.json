@@ -1,0 +1,18 @@
+{
+    "base": "printing ink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "printing ink",
+    "n2": "printing inks",
+    "n3": "the printing ink",
+    "n4": "the printing inks",
+    "n5": "printing ink's",
+    "n6": "printing inks'",
+    "n7": "a printing ink",
+    "n8": "many printing inks"
+}

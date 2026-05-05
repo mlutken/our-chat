@@ -7,5 +7,12 @@
     "n2": "winners",
     "n3": "the winner",
     "n4": "the winners",
-    "n5": "winner's"
+    "n5": "winner's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "winners'",
+    "n7": "a winner",
+    "n8": "many winners"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "right-hander",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "right-hander",
+    "n2": "right-handers",
+    "n3": "the right-hander",
+    "n4": "the right-handers",
+    "n5": "right-hander's",
+    "n6": "right-handers'",
+    "n7": "a right-hander",
+    "n8": "many right-handers"
+}

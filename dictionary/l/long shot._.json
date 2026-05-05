@@ -1,0 +1,18 @@
+{
+    "base": "long shot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "long shot",
+    "n2": "long shots",
+    "n3": "the long shot",
+    "n4": "the long shots",
+    "n5": "long shot's",
+    "n6": "long shots'",
+    "n7": "a long shot",
+    "n8": "many long shots"
+}

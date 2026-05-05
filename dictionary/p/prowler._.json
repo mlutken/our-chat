@@ -1,0 +1,18 @@
+{
+    "base": "prowler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prowler",
+    "n2": "prowlers",
+    "n3": "the prowler",
+    "n4": "the prowlers",
+    "n5": "prowler's",
+    "n6": "prowlers'",
+    "n7": "a prowler",
+    "n8": "many prowlers"
+}

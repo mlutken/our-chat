@@ -1,0 +1,18 @@
+{
+    "base": "yale",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "yale",
+    "n2": "yales",
+    "n3": "the yale",
+    "n4": "the yales",
+    "n5": "yale's",
+    "n6": "yales'",
+    "n7": "a yale",
+    "n8": "many yales"
+}

@@ -7,5 +7,12 @@
     "n2": "stars",
     "n3": "the star",
     "n4": "the stars",
-    "n5": "star's"
+    "n5": "star's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "stars'",
+    "n7": "a star",
+    "n8": "many stars"
 }

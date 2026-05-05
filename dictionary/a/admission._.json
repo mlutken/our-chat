@@ -1,0 +1,18 @@
+{
+    "base": "admission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "admission",
+    "n2": "admissions",
+    "n3": "the admission",
+    "n4": "the admissions",
+    "n5": "admission's",
+    "n6": "admissions'",
+    "n7": "an admission",
+    "n8": "many admissions"
+}

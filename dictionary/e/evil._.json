@@ -1,0 +1,18 @@
+{
+    "base": "evil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "evil",
+    "n2": "evils",
+    "n3": "the evil",
+    "n4": "the evils",
+    "n5": "evil's",
+    "n6": "evils'",
+    "n7": "an evil",
+    "n8": "many evils"
+}

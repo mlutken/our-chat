@@ -1,0 +1,18 @@
+{
+    "base": "sponsorship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sponsorship",
+    "n2": "sponsorships",
+    "n3": "the sponsorship",
+    "n4": "the sponsorships",
+    "n5": "sponsorship's",
+    "n6": "sponsorships'",
+    "n7": "a sponsorship",
+    "n8": "many sponsorships"
+}

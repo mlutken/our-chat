@@ -1,0 +1,18 @@
+{
+    "base": "analogy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "analogy",
+    "n2": "analogies",
+    "n3": "the analogy",
+    "n4": "the analogies",
+    "n5": "analogy's",
+    "n6": "analogies'",
+    "n7": "an analogy",
+    "n8": "many analogies"
+}

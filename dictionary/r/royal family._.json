@@ -1,0 +1,18 @@
+{
+    "base": "royal family",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "royal family",
+    "n2": "royal families",
+    "n3": "the royal family",
+    "n4": "the royal families",
+    "n5": "royal family's",
+    "n6": "royal families'",
+    "n7": "a royal family",
+    "n8": "many royal families"
+}

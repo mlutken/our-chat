@@ -1,0 +1,18 @@
+{
+    "base": "clannishness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clannishness",
+    "n2": "clannishnesses",
+    "n3": "the clannishness",
+    "n4": "the clannishnesses",
+    "n5": "clannishness'",
+    "n6": "clannishnesses'",
+    "n7": "a clannishness",
+    "n8": "many clannishnesses"
+}

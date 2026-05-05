@@ -1,0 +1,18 @@
+{
+    "base": "ivory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "ivory",
+    "n2": "ivories",
+    "n3": "the ivory",
+    "n4": "the ivories",
+    "n5": "ivory's",
+    "n6": "ivories'",
+    "n7": "an ivory",
+    "n8": "many ivories"
+}

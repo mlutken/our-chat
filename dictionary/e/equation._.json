@@ -1,0 +1,18 @@
+{
+    "base": "equation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "equation",
+    "n2": "equations",
+    "n3": "the equation",
+    "n4": "the equations",
+    "n5": "equation's",
+    "n6": "equations'",
+    "n7": "an equation",
+    "n8": "many equations"
+}

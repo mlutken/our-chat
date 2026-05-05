@@ -1,0 +1,18 @@
+{
+    "base": "large order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "large order",
+    "n2": "large orders",
+    "n3": "the large order",
+    "n4": "the large orders",
+    "n5": "large order's",
+    "n6": "large orders'",
+    "n7": "a large order",
+    "n8": "many large orders"
+}

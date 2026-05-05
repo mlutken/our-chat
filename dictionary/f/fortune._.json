@@ -7,5 +7,12 @@
     "n2": "fortunes",
     "n3": "the fortune",
     "n4": "the fortunes",
-    "n5": "fortune's"
+    "n5": "fortune's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "fortunes'",
+    "n7": "a fortune",
+    "n8": "many fortunes"
 }

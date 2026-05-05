@@ -1,0 +1,18 @@
+{
+    "base": "embarrassment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "embarrassment",
+    "n2": "embarrassments",
+    "n3": "the embarrassment",
+    "n4": "the embarrassments",
+    "n5": "embarrassment's",
+    "n6": "embarrassments'",
+    "n7": "an embarrassment",
+    "n8": "many embarrassments"
+}

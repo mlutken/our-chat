@@ -1,0 +1,18 @@
+{
+    "base": "exit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exit",
+    "n2": "exits",
+    "n3": "the exit",
+    "n4": "the exits",
+    "n5": "exit's",
+    "n6": "exits'",
+    "n7": "an exit",
+    "n8": "many exits"
+}

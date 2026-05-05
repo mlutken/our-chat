@@ -1,0 +1,18 @@
+{
+    "base": "dozen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "dozen",
+    "n2": "dozens",
+    "n3": "the dozen",
+    "n4": "the dozens",
+    "n5": "dozen's",
+    "n6": "dozens'",
+    "n7": "a dozen",
+    "n8": "many dozens"
+}

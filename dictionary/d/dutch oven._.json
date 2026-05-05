@@ -1,0 +1,18 @@
+{
+    "base": "dutch oven",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dutch oven",
+    "n2": "dutch ovens",
+    "n3": "the dutch oven",
+    "n4": "the dutch ovens",
+    "n5": "dutch oven's",
+    "n6": "dutch ovens'",
+    "n7": "a dutch oven",
+    "n8": "many dutch ovens"
+}

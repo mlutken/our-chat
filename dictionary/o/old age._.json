@@ -1,0 +1,18 @@
+{
+    "base": "old age",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "old age",
+    "n2": "old ages",
+    "n3": "the old age",
+    "n4": "the old ages",
+    "n5": "old age's",
+    "n6": "old ages'",
+    "n7": "an old age",
+    "n8": "many old ages"
+}

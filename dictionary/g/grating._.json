@@ -1,0 +1,18 @@
+{
+    "base": "grating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grating",
+    "n2": "gratings",
+    "n3": "the grating",
+    "n4": "the gratings",
+    "n5": "grating's",
+    "n6": "gratings'",
+    "n7": "a grating",
+    "n8": "many gratings"
+}

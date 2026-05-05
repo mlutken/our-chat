@@ -7,5 +7,12 @@
     "n2": "selves",
     "n3": "the self",
     "n4": "the selves",
-    "n5": "self's"
+    "n5": "self's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "selves'",
+    "n7": "a self",
+    "n8": "many selves"
 }

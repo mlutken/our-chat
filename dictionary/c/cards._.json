@@ -1,0 +1,18 @@
+{
+    "base": "cards",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cards",
+    "n2": "cardses",
+    "n3": "the cards",
+    "n4": "the cardses",
+    "n5": "cards'",
+    "n6": "cardses'",
+    "n7": "a cards",
+    "n8": "many cardses"
+}

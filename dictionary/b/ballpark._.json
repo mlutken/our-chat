@@ -1,0 +1,18 @@
+{
+    "base": "ballpark",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ballpark",
+    "n2": "ballparks",
+    "n3": "the ballpark",
+    "n4": "the ballparks",
+    "n5": "ballpark's",
+    "n6": "ballparks'",
+    "n7": "a ballpark",
+    "n8": "many ballparks"
+}

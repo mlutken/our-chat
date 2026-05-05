@@ -1,0 +1,18 @@
+{
+    "base": "detection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "detection",
+    "n2": "detections",
+    "n3": "the detection",
+    "n4": "the detections",
+    "n5": "detection's",
+    "n6": "detections'",
+    "n7": "a detection",
+    "n8": "many detections"
+}

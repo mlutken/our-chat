@@ -7,5 +7,12 @@
     "n2": "buildings",
     "n3": "the building",
     "n4": "the buildings",
-    "n5": "building's"
+    "n5": "building's",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "buildings'",
+    "n7": "a building",
+    "n8": "many buildings"
 }

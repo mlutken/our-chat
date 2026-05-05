@@ -1,0 +1,18 @@
+{
+    "base": "soviet union",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "soviet union",
+    "n2": "soviet unions",
+    "n3": "the soviet union",
+    "n4": "the soviet unions",
+    "n5": "soviet union's",
+    "n6": "soviet unions'",
+    "n7": "a soviet union",
+    "n8": "many soviet unions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "literary work",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "literary work",
+    "n2": "literary works",
+    "n3": "the literary work",
+    "n4": "the literary works",
+    "n5": "literary work's",
+    "n6": "literary works'",
+    "n7": "a literary work",
+    "n8": "many literary works"
+}

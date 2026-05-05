@@ -1,0 +1,18 @@
+{
+    "base": "perspiration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "perspiration",
+    "n2": "perspirations",
+    "n3": "the perspiration",
+    "n4": "the perspirations",
+    "n5": "perspiration's",
+    "n6": "perspirations'",
+    "n7": "a perspiration",
+    "n8": "many perspirations"
+}

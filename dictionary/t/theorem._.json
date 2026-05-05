@@ -1,0 +1,18 @@
+{
+    "base": "theorem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "theorem",
+    "n2": "theorems",
+    "n3": "the theorem",
+    "n4": "the theorems",
+    "n5": "theorem's",
+    "n6": "theorems'",
+    "n7": "a theorem",
+    "n8": "many theorems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reckoning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reckoning",
+    "n2": "reckonings",
+    "n3": "the reckoning",
+    "n4": "the reckonings",
+    "n5": "reckoning's",
+    "n6": "reckonings'",
+    "n7": "a reckoning",
+    "n8": "many reckonings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "candlewick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "candlewick",
+    "n2": "candlewicks",
+    "n3": "the candlewick",
+    "n4": "the candlewicks",
+    "n5": "candlewick's",
+    "n6": "candlewicks'",
+    "n7": "a candlewick",
+    "n8": "many candlewicks"
+}

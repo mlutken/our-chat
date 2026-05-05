@@ -1,0 +1,18 @@
+{
+    "base": "anger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "anger",
+    "n2": "angers",
+    "n3": "the anger",
+    "n4": "the angers",
+    "n5": "anger's",
+    "n6": "angers'",
+    "n7": "an anger",
+    "n8": "many angers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "junction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "junction",
+    "n2": "junctions",
+    "n3": "the junction",
+    "n4": "the junctions",
+    "n5": "junction's",
+    "n6": "junctions'",
+    "n7": "a junction",
+    "n8": "many junctions"
+}

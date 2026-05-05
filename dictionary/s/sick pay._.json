@@ -1,0 +1,18 @@
+{
+    "base": "sick pay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sick pay",
+    "n2": "sick pays",
+    "n3": "the sick pay",
+    "n4": "the sick pays",
+    "n5": "sick pay's",
+    "n6": "sick pays'",
+    "n7": "a sick pay",
+    "n8": "many sick pays"
+}

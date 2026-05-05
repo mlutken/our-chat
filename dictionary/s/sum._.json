@@ -1,0 +1,18 @@
+{
+    "base": "sum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "sum",
+    "n2": "sums",
+    "n3": "the sum",
+    "n4": "the sums",
+    "n5": "sum's",
+    "n6": "sums'",
+    "n7": "a sum",
+    "n8": "many sums"
+}

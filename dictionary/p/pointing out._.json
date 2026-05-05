@@ -1,0 +1,18 @@
+{
+    "base": "pointing out",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pointing out",
+    "n2": "pointing outs",
+    "n3": "the pointing out",
+    "n4": "the pointing outs",
+    "n5": "pointing out's",
+    "n6": "pointing outs'",
+    "n7": "a pointing out",
+    "n8": "many pointing outs"
+}

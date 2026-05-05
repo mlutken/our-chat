@@ -1,0 +1,18 @@
+{
+    "base": "city university",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "city university",
+    "n2": "city universities",
+    "n3": "the city university",
+    "n4": "the city universities",
+    "n5": "city university's",
+    "n6": "city universities'",
+    "n7": "a city university",
+    "n8": "many city universities"
+}

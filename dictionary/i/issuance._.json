@@ -1,0 +1,18 @@
+{
+    "base": "issuance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "issuance",
+    "n2": "issuances",
+    "n3": "the issuance",
+    "n4": "the issuances",
+    "n5": "issuance's",
+    "n6": "issuances'",
+    "n7": "an issuance",
+    "n8": "many issuances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dark ages",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "dark ages",
+    "n2": "dark ageses",
+    "n3": "the dark ages",
+    "n4": "the dark ageses",
+    "n5": "dark ages'",
+    "n6": "dark ageses'",
+    "n7": "a dark ages",
+    "n8": "many dark ageses"
+}

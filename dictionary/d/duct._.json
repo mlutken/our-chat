@@ -1,0 +1,18 @@
+{
+    "base": "duct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "duct",
+    "n2": "ducts",
+    "n3": "the duct",
+    "n4": "the ducts",
+    "n5": "duct's",
+    "n6": "ducts'",
+    "n7": "a duct",
+    "n8": "many ducts"
+}

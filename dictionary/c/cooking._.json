@@ -1,0 +1,18 @@
+{
+    "base": "cooking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "cooking",
+    "n2": "cookings",
+    "n3": "the cooking",
+    "n4": "the cookings",
+    "n5": "cooking's",
+    "n6": "cookings'",
+    "n7": "a cooking",
+    "n8": "many cookings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "spite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spite",
+    "n2": "spites",
+    "n3": "the spite",
+    "n4": "the spites",
+    "n5": "spite's",
+    "n6": "spites'",
+    "n7": "a spite",
+    "n8": "many spites"
+}

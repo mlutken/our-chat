@@ -1,0 +1,18 @@
+{
+    "base": "choir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "choir",
+    "n2": "choirs",
+    "n3": "the choir",
+    "n4": "the choirs",
+    "n5": "choir's",
+    "n6": "choirs'",
+    "n7": "a choir",
+    "n8": "many choirs"
+}

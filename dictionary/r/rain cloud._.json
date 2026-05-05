@@ -1,0 +1,18 @@
+{
+    "base": "rain cloud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rain cloud",
+    "n2": "rain clouds",
+    "n3": "the rain cloud",
+    "n4": "the rain clouds",
+    "n5": "rain cloud's",
+    "n6": "rain clouds'",
+    "n7": "a rain cloud",
+    "n8": "many rain clouds"
+}

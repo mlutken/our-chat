@@ -7,5 +7,12 @@
     "n2": "professors",
     "n3": "the professor",
     "n4": "the professors",
-    "n5": "professor's"
+    "n5": "professor's",
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n6": "professors'",
+    "n7": "a professor",
+    "n8": "many professors"
 }

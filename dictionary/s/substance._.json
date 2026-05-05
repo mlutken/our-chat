@@ -1,0 +1,18 @@
+{
+    "base": "substance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "substance",
+    "n2": "substances",
+    "n3": "the substance",
+    "n4": "the substances",
+    "n5": "substance's",
+    "n6": "substances'",
+    "n7": "a substance",
+    "n8": "many substances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "uprising",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "uprising",
+    "n2": "uprisings",
+    "n3": "the uprising",
+    "n4": "the uprisings",
+    "n5": "uprising's",
+    "n6": "uprisings'",
+    "n7": "an uprising",
+    "n8": "many uprisings"
+}

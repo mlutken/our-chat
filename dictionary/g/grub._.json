@@ -1,0 +1,18 @@
+{
+    "base": "grub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grub",
+    "n2": "grubs",
+    "n3": "the grub",
+    "n4": "the grubs",
+    "n5": "grub's",
+    "n6": "grubs'",
+    "n7": "a grub",
+    "n8": "many grubs"
+}

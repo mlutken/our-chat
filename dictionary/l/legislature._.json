@@ -1,0 +1,18 @@
+{
+    "base": "legislature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "legislature",
+    "n2": "legislatures",
+    "n3": "the legislature",
+    "n4": "the legislatures",
+    "n5": "legislature's",
+    "n6": "legislatures'",
+    "n7": "a legislature",
+    "n8": "many legislatures"
+}

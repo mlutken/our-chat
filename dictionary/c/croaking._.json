@@ -1,0 +1,18 @@
+{
+    "base": "croaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "croaking",
+    "n2": "croakings",
+    "n3": "the croaking",
+    "n4": "the croakings",
+    "n5": "croaking's",
+    "n6": "croakings'",
+    "n7": "a croaking",
+    "n8": "many croakings"
+}

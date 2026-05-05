@@ -1,0 +1,18 @@
+{
+    "base": "field trial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "field trial",
+    "n2": "field trials",
+    "n3": "the field trial",
+    "n4": "the field trials",
+    "n5": "field trial's",
+    "n6": "field trials'",
+    "n7": "a field trial",
+    "n8": "many field trials"
+}

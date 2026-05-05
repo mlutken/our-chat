@@ -7,5 +7,12 @@
     "n2": "daughters",
     "n3": "the daughter",
     "n4": "the daughters",
-    "n5": "daughter's"
+    "n5": "daughter's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "daughters'",
+    "n7": "a daughter",
+    "n8": "many daughters"
 }

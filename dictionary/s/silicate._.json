@@ -1,0 +1,18 @@
+{
+    "base": "silicate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "silicate",
+    "n2": "silicates",
+    "n3": "the silicate",
+    "n4": "the silicates",
+    "n5": "silicate's",
+    "n6": "silicates'",
+    "n7": "a silicate",
+    "n8": "many silicates"
+}

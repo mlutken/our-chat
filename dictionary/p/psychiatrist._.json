@@ -1,0 +1,18 @@
+{
+    "base": "psychiatrist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "psychiatrist",
+    "n2": "psychiatrists",
+    "n3": "the psychiatrist",
+    "n4": "the psychiatrists",
+    "n5": "psychiatrist's",
+    "n6": "psychiatrists'",
+    "n7": "a psychiatrist",
+    "n8": "many psychiatrists"
+}

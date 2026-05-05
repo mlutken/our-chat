@@ -1,0 +1,18 @@
+{
+    "base": "bolster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bolster",
+    "n2": "bolsters",
+    "n3": "the bolster",
+    "n4": "the bolsters",
+    "n5": "bolster's",
+    "n6": "bolsters'",
+    "n7": "a bolster",
+    "n8": "many bolsters"
+}

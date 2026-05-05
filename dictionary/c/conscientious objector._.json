@@ -1,0 +1,18 @@
+{
+    "base": "conscientious objector",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "conscientious objector",
+    "n2": "conscientious objectors",
+    "n3": "the conscientious objector",
+    "n4": "the conscientious objectors",
+    "n5": "conscientious objector's",
+    "n6": "conscientious objectors'",
+    "n7": "a conscientious objector",
+    "n8": "many conscientious objectors"
+}

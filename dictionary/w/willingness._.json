@@ -1,0 +1,18 @@
+{
+    "base": "willingness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "willingness",
+    "n2": "willingnesses",
+    "n3": "the willingness",
+    "n4": "the willingnesses",
+    "n5": "willingness'",
+    "n6": "willingnesses'",
+    "n7": "a willingness",
+    "n8": "many willingnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "devotion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "devotion",
+    "n2": "devotions",
+    "n3": "the devotion",
+    "n4": "the devotions",
+    "n5": "devotion's",
+    "n6": "devotions'",
+    "n7": "a devotion",
+    "n8": "many devotions"
+}

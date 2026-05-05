@@ -1,0 +1,18 @@
+{
+    "base": "heaver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "heaver",
+    "n2": "heavers",
+    "n3": "the heaver",
+    "n4": "the heavers",
+    "n5": "heaver's",
+    "n6": "heavers'",
+    "n7": "a heaver",
+    "n8": "many heavers"
+}

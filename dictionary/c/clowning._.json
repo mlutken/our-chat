@@ -1,0 +1,18 @@
+{
+    "base": "clowning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clowning",
+    "n2": "clownings",
+    "n3": "the clowning",
+    "n4": "the clownings",
+    "n5": "clowning's",
+    "n6": "clownings'",
+    "n7": "a clowning",
+    "n8": "many clownings"
+}

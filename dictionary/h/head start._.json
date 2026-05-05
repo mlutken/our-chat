@@ -1,0 +1,18 @@
+{
+    "base": "head start",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "head start",
+    "n2": "head starts",
+    "n3": "the head start",
+    "n4": "the head starts",
+    "n5": "head start's",
+    "n6": "head starts'",
+    "n7": "a head start",
+    "n8": "many head starts"
+}

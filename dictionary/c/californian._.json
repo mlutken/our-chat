@@ -1,0 +1,18 @@
+{
+    "base": "californian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "californian",
+    "n2": "californians",
+    "n3": "the californian",
+    "n4": "the californians",
+    "n5": "californian's",
+    "n6": "californians'",
+    "n7": "a californian",
+    "n8": "many californians"
+}

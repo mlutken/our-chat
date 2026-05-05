@@ -1,0 +1,18 @@
+{
+    "base": "gravel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "gravel",
+    "n2": "gravels",
+    "n3": "the gravel",
+    "n4": "the gravels",
+    "n5": "gravel's",
+    "n6": "gravels'",
+    "n7": "a gravel",
+    "n8": "many gravels"
+}

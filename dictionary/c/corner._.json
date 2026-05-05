@@ -1,0 +1,18 @@
+{
+    "base": "corner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 66,
+    "max_commonness": 6834,
+    "commonness_ge_count": 228,
+    "n1": "corner",
+    "n2": "corners",
+    "n3": "the corner",
+    "n4": "the corners",
+    "n5": "corner's",
+    "n6": "corners'",
+    "n7": "a corner",
+    "n8": "many corners"
+}

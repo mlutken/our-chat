@@ -1,0 +1,18 @@
+{
+    "base": "boater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boater",
+    "n2": "boaters",
+    "n3": "the boater",
+    "n4": "the boaters",
+    "n5": "boater's",
+    "n6": "boaters'",
+    "n7": "a boater",
+    "n8": "many boaters"
+}

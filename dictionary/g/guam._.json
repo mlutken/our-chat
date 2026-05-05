@@ -1,0 +1,18 @@
+{
+    "base": "guam",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "guam",
+    "n2": "guams",
+    "n3": "the guam",
+    "n4": "the guams",
+    "n5": "guam's",
+    "n6": "guams'",
+    "n7": "a guam",
+    "n8": "many guams"
+}

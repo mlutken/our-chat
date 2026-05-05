@@ -1,0 +1,18 @@
+{
+    "base": "brightness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "brightness",
+    "n2": "brightnesses",
+    "n3": "the brightness",
+    "n4": "the brightnesses",
+    "n5": "brightness'",
+    "n6": "brightnesses'",
+    "n7": "a brightness",
+    "n8": "many brightnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "physiology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "physiology",
+    "n2": "physiologies",
+    "n3": "the physiology",
+    "n4": "the physiologies",
+    "n5": "physiology's",
+    "n6": "physiologies'",
+    "n7": "a physiology",
+    "n8": "many physiologies"
+}

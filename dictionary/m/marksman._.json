@@ -1,0 +1,18 @@
+{
+    "base": "marksman",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "marksman",
+    "n2": "marksmen",
+    "n3": "the marksman",
+    "n4": "the marksmen",
+    "n5": "marksman's",
+    "n6": "marksmen's",
+    "n7": "a marksman",
+    "n8": "many marksmen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "awe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "awe",
+    "n2": "awes",
+    "n3": "the awe",
+    "n4": "the awes",
+    "n5": "awe's",
+    "n6": "awes'",
+    "n7": "an awe",
+    "n8": "many awes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "year-end",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "year-end",
+    "n2": "year-ends",
+    "n3": "the year-end",
+    "n4": "the year-ends",
+    "n5": "year-end's",
+    "n6": "year-ends'",
+    "n7": "a year-end",
+    "n8": "many year-ends"
+}

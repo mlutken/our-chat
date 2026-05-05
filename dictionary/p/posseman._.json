@@ -1,0 +1,18 @@
+{
+    "base": "posseman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "posseman",
+    "n2": "possemen",
+    "n3": "the posseman",
+    "n4": "the possemen",
+    "n5": "posseman's",
+    "n6": "possemen's",
+    "n7": "a posseman",
+    "n8": "many possemen"
+}

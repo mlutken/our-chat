@@ -1,0 +1,18 @@
+{
+    "base": "orgy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "orgy",
+    "n2": "orgies",
+    "n3": "the orgy",
+    "n4": "the orgies",
+    "n5": "orgy's",
+    "n6": "orgies'",
+    "n7": "an orgy",
+    "n8": "many orgies"
+}

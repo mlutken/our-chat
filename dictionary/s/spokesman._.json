@@ -1,0 +1,18 @@
+{
+    "base": "spokesman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spokesman",
+    "n2": "spokesmen",
+    "n3": "the spokesman",
+    "n4": "the spokesmen",
+    "n5": "spokesman's",
+    "n6": "spokesmen's",
+    "n7": "a spokesman",
+    "n8": "many spokesmen"
+}

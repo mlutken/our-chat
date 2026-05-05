@@ -7,5 +7,12 @@
     "n2": "courages",
     "n3": "the courage",
     "n4": "the courages",
-    "n5": "courage's"
+    "n5": "courage's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "courages'",
+    "n7": "a courage",
+    "n8": "many courages"
 }

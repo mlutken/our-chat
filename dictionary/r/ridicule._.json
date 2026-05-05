@@ -1,0 +1,18 @@
+{
+    "base": "ridicule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ridicule",
+    "n2": "ridicules",
+    "n3": "the ridicule",
+    "n4": "the ridicules",
+    "n5": "ridicule's",
+    "n6": "ridicules'",
+    "n7": "a ridicule",
+    "n8": "many ridicules"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "adam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "adam",
+    "n2": "adams",
+    "n3": "the adam",
+    "n4": "the adams",
+    "n5": "adam's",
+    "n6": "adams'",
+    "n7": "an adam",
+    "n8": "many adams"
+}

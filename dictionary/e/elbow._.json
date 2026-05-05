@@ -1,0 +1,18 @@
+{
+    "base": "elbow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "elbow",
+    "n2": "elbows",
+    "n3": "the elbow",
+    "n4": "the elbows",
+    "n5": "elbow's",
+    "n6": "elbows'",
+    "n7": "an elbow",
+    "n8": "many elbows"
+}

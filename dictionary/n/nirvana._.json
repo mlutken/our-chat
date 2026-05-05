@@ -1,0 +1,18 @@
+{
+    "base": "nirvana",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nirvana",
+    "n2": "nirvanas",
+    "n3": "the nirvana",
+    "n4": "the nirvanas",
+    "n5": "nirvana's",
+    "n6": "nirvanas'",
+    "n7": "a nirvana",
+    "n8": "many nirvanas"
+}

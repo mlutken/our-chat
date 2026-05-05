@@ -1,0 +1,18 @@
+{
+    "base": "marrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "marrow",
+    "n2": "marrows",
+    "n3": "the marrow",
+    "n4": "the marrows",
+    "n5": "marrow's",
+    "n6": "marrows'",
+    "n7": "a marrow",
+    "n8": "many marrows"
+}

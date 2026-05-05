@@ -7,5 +7,12 @@
     "n2": "matrices",
     "n3": "the matrix",
     "n4": "the matrices",
-    "n5": "matrix's"
+    "n5": "matrix's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "matrices'",
+    "n7": "a matrix",
+    "n8": "many matrices"
 }

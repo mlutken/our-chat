@@ -7,5 +7,12 @@
     "n2": "emotions",
     "n3": "the emotion",
     "n4": "the emotions",
-    "n5": "emotion's"
+    "n5": "emotion's",
+    "proper": false,
+    "commonness": 50,
+    "max_commonness": 6834,
+    "commonness_ge_count": 330,
+    "n6": "emotions'",
+    "n7": "an emotion",
+    "n8": "many emotions"
 }

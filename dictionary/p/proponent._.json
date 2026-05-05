@@ -1,0 +1,18 @@
+{
+    "base": "proponent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proponent",
+    "n2": "proponents",
+    "n3": "the proponent",
+    "n4": "the proponents",
+    "n5": "proponent's",
+    "n6": "proponents'",
+    "n7": "a proponent",
+    "n8": "many proponents"
+}

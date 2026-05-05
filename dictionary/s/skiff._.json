@@ -1,0 +1,18 @@
+{
+    "base": "skiff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "skiff",
+    "n2": "skifves",
+    "n3": "the skiff",
+    "n4": "the skifves",
+    "n5": "skiff's",
+    "n6": "skifves'",
+    "n7": "a skiff",
+    "n8": "many skifves"
+}

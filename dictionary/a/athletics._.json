@@ -1,0 +1,18 @@
+{
+    "base": "athletics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "athletics",
+    "n2": "athleticses",
+    "n3": "the athletics",
+    "n4": "the athleticses",
+    "n5": "athletics'",
+    "n6": "athleticses'",
+    "n7": "an athletics",
+    "n8": "many athleticses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fielder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fielder",
+    "n2": "fielders",
+    "n3": "the fielder",
+    "n4": "the fielders",
+    "n5": "fielder's",
+    "n6": "fielders'",
+    "n7": "a fielder",
+    "n8": "many fielders"
+}

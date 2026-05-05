@@ -1,0 +1,18 @@
+{
+    "base": "alveolus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "alveolus",
+    "n2": "alveoli",
+    "n3": "the alveolus",
+    "n4": "the alveoli",
+    "n5": "alveolus'",
+    "n6": "alveoli's",
+    "n7": "an alveolus",
+    "n8": "many alveoli"
+}

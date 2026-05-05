@@ -1,0 +1,18 @@
+{
+    "base": "boarding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "boarding",
+    "n2": "boardings",
+    "n3": "the boarding",
+    "n4": "the boardings",
+    "n5": "boarding's",
+    "n6": "boardings'",
+    "n7": "a boarding",
+    "n8": "many boardings"
+}

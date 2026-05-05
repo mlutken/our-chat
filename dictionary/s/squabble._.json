@@ -1,0 +1,18 @@
+{
+    "base": "squabble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "squabble",
+    "n2": "squabbles",
+    "n3": "the squabble",
+    "n4": "the squabbles",
+    "n5": "squabble's",
+    "n6": "squabbles'",
+    "n7": "a squabble",
+    "n8": "many squabbles"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bowstring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bowstring",
+    "n2": "bowstrings",
+    "n3": "the bowstring",
+    "n4": "the bowstrings",
+    "n5": "bowstring's",
+    "n6": "bowstrings'",
+    "n7": "a bowstring",
+    "n8": "many bowstrings"
+}

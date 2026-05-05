@@ -1,0 +1,18 @@
+{
+    "base": "barbital",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barbital",
+    "n2": "barbitals",
+    "n3": "the barbital",
+    "n4": "the barbitals",
+    "n5": "barbital's",
+    "n6": "barbitals'",
+    "n7": "a barbital",
+    "n8": "many barbitals"
+}

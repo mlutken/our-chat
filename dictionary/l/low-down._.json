@@ -1,0 +1,18 @@
+{
+    "base": "low-down",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "low-down",
+    "n2": "low-downs",
+    "n3": "the low-down",
+    "n4": "the low-downs",
+    "n5": "low-down's",
+    "n6": "low-downs'",
+    "n7": "a low-down",
+    "n8": "many low-downs"
+}

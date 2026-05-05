@@ -1,0 +1,18 @@
+{
+    "base": "norway",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "norway",
+    "n2": "norways",
+    "n3": "the norway",
+    "n4": "the norways",
+    "n5": "norway's",
+    "n6": "norways'",
+    "n7": "a norway",
+    "n8": "many norways"
+}

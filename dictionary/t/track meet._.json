@@ -1,0 +1,18 @@
+{
+    "base": "track meet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "track meet",
+    "n2": "track meets",
+    "n3": "the track meet",
+    "n4": "the track meets",
+    "n5": "track meet's",
+    "n6": "track meets'",
+    "n7": "a track meet",
+    "n8": "many track meets"
+}

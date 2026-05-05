@@ -1,0 +1,18 @@
+{
+    "base": "handicap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "handicap",
+    "n2": "handicaps",
+    "n3": "the handicap",
+    "n4": "the handicaps",
+    "n5": "handicap's",
+    "n6": "handicaps'",
+    "n7": "a handicap",
+    "n8": "many handicaps"
+}

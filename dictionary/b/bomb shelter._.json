@@ -1,0 +1,18 @@
+{
+    "base": "bomb shelter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bomb shelter",
+    "n2": "bomb shelters",
+    "n3": "the bomb shelter",
+    "n4": "the bomb shelters",
+    "n5": "bomb shelter's",
+    "n6": "bomb shelters'",
+    "n7": "a bomb shelter",
+    "n8": "many bomb shelters"
+}

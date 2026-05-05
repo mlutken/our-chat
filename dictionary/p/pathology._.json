@@ -1,0 +1,18 @@
+{
+    "base": "pathology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pathology",
+    "n2": "pathologies",
+    "n3": "the pathology",
+    "n4": "the pathologies",
+    "n5": "pathology's",
+    "n6": "pathologies'",
+    "n7": "a pathology",
+    "n8": "many pathologies"
+}

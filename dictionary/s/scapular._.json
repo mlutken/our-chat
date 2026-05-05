@@ -1,0 +1,18 @@
+{
+    "base": "scapular",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scapular",
+    "n2": "scapulars",
+    "n3": "the scapular",
+    "n4": "the scapulars",
+    "n5": "scapular's",
+    "n6": "scapulars'",
+    "n7": "a scapular",
+    "n8": "many scapulars"
+}

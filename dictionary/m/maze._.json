@@ -1,0 +1,18 @@
+{
+    "base": "maze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "maze",
+    "n2": "mazes",
+    "n3": "the maze",
+    "n4": "the mazes",
+    "n5": "maze's",
+    "n6": "mazes'",
+    "n7": "a maze",
+    "n8": "many mazes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "community college",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "community college",
+    "n2": "community colleges",
+    "n3": "the community college",
+    "n4": "the community colleges",
+    "n5": "community college's",
+    "n6": "community colleges'",
+    "n7": "a community college",
+    "n8": "many community colleges"
+}

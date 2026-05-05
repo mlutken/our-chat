@@ -1,0 +1,18 @@
+{
+    "base": "x-ray diffraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "x-ray diffraction",
+    "n2": "x-ray diffractions",
+    "n3": "the x-ray diffraction",
+    "n4": "the x-ray diffractions",
+    "n5": "x-ray diffraction's",
+    "n6": "x-ray diffractions'",
+    "n7": "a x-ray diffraction",
+    "n8": "many x-ray diffractions"
+}

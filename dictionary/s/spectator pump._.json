@@ -1,0 +1,18 @@
+{
+    "base": "spectator pump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spectator pump",
+    "n2": "spectator pumps",
+    "n3": "the spectator pump",
+    "n4": "the spectator pumps",
+    "n5": "spectator pump's",
+    "n6": "spectator pumps'",
+    "n7": "a spectator pump",
+    "n8": "many spectator pumps"
+}

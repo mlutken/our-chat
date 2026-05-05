@@ -1,0 +1,18 @@
+{
+    "base": "eternity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "eternity",
+    "n2": "eternities",
+    "n3": "the eternity",
+    "n4": "the eternities",
+    "n5": "eternity's",
+    "n6": "eternities'",
+    "n7": "an eternity",
+    "n8": "many eternities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lower class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lower class",
+    "n2": "lower classes",
+    "n3": "the lower class",
+    "n4": "the lower classes",
+    "n5": "lower class'",
+    "n6": "lower classes'",
+    "n7": "a lower class",
+    "n8": "many lower classes"
+}

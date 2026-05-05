@@ -1,0 +1,18 @@
+{
+    "base": "rattling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rattling",
+    "n2": "rattlings",
+    "n3": "the rattling",
+    "n4": "the rattlings",
+    "n5": "rattling's",
+    "n6": "rattlings'",
+    "n7": "a rattling",
+    "n8": "many rattlings"
+}

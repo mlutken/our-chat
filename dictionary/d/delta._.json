@@ -1,0 +1,18 @@
+{
+    "base": "delta",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delta",
+    "n2": "deltas",
+    "n3": "the delta",
+    "n4": "the deltas",
+    "n5": "delta's",
+    "n6": "deltas'",
+    "n7": "a delta",
+    "n8": "many deltas"
+}

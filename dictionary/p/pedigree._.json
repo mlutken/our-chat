@@ -1,0 +1,18 @@
+{
+    "base": "pedigree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pedigree",
+    "n2": "pedigrees",
+    "n3": "the pedigree",
+    "n4": "the pedigrees",
+    "n5": "pedigree's",
+    "n6": "pedigrees'",
+    "n7": "a pedigree",
+    "n8": "many pedigrees"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fresh fish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fresh fish",
+    "n2": "fresh fishes",
+    "n3": "the fresh fish",
+    "n4": "the fresh fishes",
+    "n5": "fresh fish's",
+    "n6": "fresh fishes'",
+    "n7": "a fresh fish",
+    "n8": "many fresh fishes"
+}

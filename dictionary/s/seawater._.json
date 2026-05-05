@@ -1,0 +1,18 @@
+{
+    "base": "seawater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seawater",
+    "n2": "seawaters",
+    "n3": "the seawater",
+    "n4": "the seawaters",
+    "n5": "seawater's",
+    "n6": "seawaters'",
+    "n7": "a seawater",
+    "n8": "many seawaters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "instancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "instancy",
+    "n2": "instancies",
+    "n3": "the instancy",
+    "n4": "the instancies",
+    "n5": "instancy's",
+    "n6": "instancies'",
+    "n7": "an instancy",
+    "n8": "many instancies"
+}

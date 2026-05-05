@@ -1,0 +1,18 @@
+{
+    "base": "front yard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "front yard",
+    "n2": "front yards",
+    "n3": "the front yard",
+    "n4": "the front yards",
+    "n5": "front yard's",
+    "n6": "front yards'",
+    "n7": "a front yard",
+    "n8": "many front yards"
+}

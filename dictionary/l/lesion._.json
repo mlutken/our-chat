@@ -1,0 +1,18 @@
+{
+    "base": "lesion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lesion",
+    "n2": "lesions",
+    "n3": "the lesion",
+    "n4": "the lesions",
+    "n5": "lesion's",
+    "n6": "lesions'",
+    "n7": "a lesion",
+    "n8": "many lesions"
+}

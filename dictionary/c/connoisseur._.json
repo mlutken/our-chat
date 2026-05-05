@@ -1,0 +1,18 @@
+{
+    "base": "connoisseur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "connoisseur",
+    "n2": "connoisseurs",
+    "n3": "the connoisseur",
+    "n4": "the connoisseurs",
+    "n5": "connoisseur's",
+    "n6": "connoisseurs'",
+    "n7": "a connoisseur",
+    "n8": "many connoisseurs"
+}

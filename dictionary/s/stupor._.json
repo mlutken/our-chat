@@ -1,0 +1,18 @@
+{
+    "base": "stupor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stupor",
+    "n2": "stupors",
+    "n3": "the stupor",
+    "n4": "the stupors",
+    "n5": "stupor's",
+    "n6": "stupors'",
+    "n7": "a stupor",
+    "n8": "many stupors"
+}

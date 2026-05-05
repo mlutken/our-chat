@@ -1,0 +1,18 @@
+{
+    "base": "one-fifth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "one-fifth",
+    "n2": "one-fifths",
+    "n3": "the one-fifth",
+    "n4": "the one-fifths",
+    "n5": "one-fifth's",
+    "n6": "one-fifths'",
+    "n7": "a one-fifth",
+    "n8": "many one-fifths"
+}

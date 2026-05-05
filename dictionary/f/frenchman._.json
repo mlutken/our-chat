@@ -1,0 +1,18 @@
+{
+    "base": "frenchman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "frenchman",
+    "n2": "frenchmen",
+    "n3": "the frenchman",
+    "n4": "the frenchmen",
+    "n5": "frenchman's",
+    "n6": "frenchmen's",
+    "n7": "a frenchman",
+    "n8": "many frenchmen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "excursus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "excursus",
+    "n2": "excursuses",
+    "n3": "the excursus",
+    "n4": "the excursuses",
+    "n5": "excursus'",
+    "n6": "excursuses'",
+    "n7": "an excursus",
+    "n8": "many excursuses"
+}

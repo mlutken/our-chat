@@ -13,5 +13,12 @@
     "v2": "shaped",
     "v3": "shaped",
     "v4": "shaping",
-    "v5": "shapes"
+    "v5": "shapes",
+    "proper": false,
+    "commonness": 51,
+    "max_commonness": 6834,
+    "commonness_ge_count": 322,
+    "n6": "shapes'",
+    "n7": "a shape",
+    "n8": "many shapes"
 }

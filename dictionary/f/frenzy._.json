@@ -1,0 +1,18 @@
+{
+    "base": "frenzy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "frenzy",
+    "n2": "frenzies",
+    "n3": "the frenzy",
+    "n4": "the frenzies",
+    "n5": "frenzy's",
+    "n6": "frenzies'",
+    "n7": "a frenzy",
+    "n8": "many frenzies"
+}

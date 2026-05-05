@@ -1,0 +1,18 @@
+{
+    "base": "quarterback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "quarterback",
+    "n2": "quarterbacks",
+    "n3": "the quarterback",
+    "n4": "the quarterbacks",
+    "n5": "quarterback's",
+    "n6": "quarterbacks'",
+    "n7": "a quarterback",
+    "n8": "many quarterbacks"
+}

@@ -1,11 +1,24 @@
 {
     "base": "clap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "clap",
     "v2": "clapped",
     "v3": "clapped",
     "v4": "clapping",
-    "v5": "claps"
+    "v5": "claps",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clap",
+    "n2": "claps",
+    "n3": "the clap",
+    "n4": "the claps",
+    "n5": "clap's",
+    "n6": "claps'",
+    "n7": "a clap",
+    "n8": "many claps"
 }

@@ -7,5 +7,12 @@
     "n2": "employees",
     "n3": "the employee",
     "n4": "the employees",
-    "n5": "employee's"
+    "n5": "employee's",
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n6": "employees'",
+    "n7": "an employee",
+    "n8": "many employees"
 }

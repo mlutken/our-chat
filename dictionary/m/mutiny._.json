@@ -1,0 +1,18 @@
+{
+    "base": "mutiny",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mutiny",
+    "n2": "mutinies",
+    "n3": "the mutiny",
+    "n4": "the mutinies",
+    "n5": "mutiny's",
+    "n6": "mutinies'",
+    "n7": "a mutiny",
+    "n8": "many mutinies"
+}

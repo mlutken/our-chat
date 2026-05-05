@@ -1,0 +1,18 @@
+{
+    "base": "fascism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fascism",
+    "n2": "fascisms",
+    "n3": "the fascism",
+    "n4": "the fascisms",
+    "n5": "fascism's",
+    "n6": "fascisms'",
+    "n7": "a fascism",
+    "n8": "many fascisms"
+}

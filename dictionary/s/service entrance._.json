@@ -1,0 +1,18 @@
+{
+    "base": "service entrance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "service entrance",
+    "n2": "service entrances",
+    "n3": "the service entrance",
+    "n4": "the service entrances",
+    "n5": "service entrance's",
+    "n6": "service entrances'",
+    "n7": "a service entrance",
+    "n8": "many service entrances"
+}

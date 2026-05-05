@@ -1,0 +1,18 @@
+{
+    "base": "pagan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pagan",
+    "n2": "pagans",
+    "n3": "the pagan",
+    "n4": "the pagans",
+    "n5": "pagan's",
+    "n6": "pagans'",
+    "n7": "a pagan",
+    "n8": "many pagans"
+}

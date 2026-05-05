@@ -1,0 +1,18 @@
+{
+    "base": "viewpoint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "viewpoint",
+    "n2": "viewpoints",
+    "n3": "the viewpoint",
+    "n4": "the viewpoints",
+    "n5": "viewpoint's",
+    "n6": "viewpoints'",
+    "n7": "a viewpoint",
+    "n8": "many viewpoints"
+}

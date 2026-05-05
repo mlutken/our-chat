@@ -1,0 +1,18 @@
+{
+    "base": "pleat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pleat",
+    "n2": "pleats",
+    "n3": "the pleat",
+    "n4": "the pleats",
+    "n5": "pleat's",
+    "n6": "pleats'",
+    "n7": "a pleat",
+    "n8": "many pleats"
+}

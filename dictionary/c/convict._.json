@@ -1,0 +1,18 @@
+{
+    "base": "convict",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "convict",
+    "n2": "convicts",
+    "n3": "the convict",
+    "n4": "the convicts",
+    "n5": "convict's",
+    "n6": "convicts'",
+    "n7": "a convict",
+    "n8": "many convicts"
+}

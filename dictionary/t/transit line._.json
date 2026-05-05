@@ -1,0 +1,18 @@
+{
+    "base": "transit line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transit line",
+    "n2": "transit lines",
+    "n3": "the transit line",
+    "n4": "the transit lines",
+    "n5": "transit line's",
+    "n6": "transit lines'",
+    "n7": "a transit line",
+    "n8": "many transit lines"
+}

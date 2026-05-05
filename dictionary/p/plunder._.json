@@ -1,0 +1,18 @@
+{
+    "base": "plunder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plunder",
+    "n2": "plunders",
+    "n3": "the plunder",
+    "n4": "the plunders",
+    "n5": "plunder's",
+    "n6": "plunders'",
+    "n7": "a plunder",
+    "n8": "many plunders"
+}

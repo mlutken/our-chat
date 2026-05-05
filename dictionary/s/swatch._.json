@@ -1,0 +1,18 @@
+{
+    "base": "swatch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "swatch",
+    "n2": "swatches",
+    "n3": "the swatch",
+    "n4": "the swatches",
+    "n5": "swatch's",
+    "n6": "swatches'",
+    "n7": "a swatch",
+    "n8": "many swatches"
+}

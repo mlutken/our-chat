@@ -1,0 +1,18 @@
+{
+    "base": "outreach",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "outreach",
+    "n2": "outreaches",
+    "n3": "the outreach",
+    "n4": "the outreaches",
+    "n5": "outreach's",
+    "n6": "outreaches'",
+    "n7": "an outreach",
+    "n8": "many outreaches"
+}

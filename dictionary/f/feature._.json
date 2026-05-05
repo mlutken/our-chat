@@ -13,5 +13,12 @@
     "v2": "featured",
     "v3": "featured",
     "v4": "featuring",
-    "v5": "features"
+    "v5": "features",
+    "proper": false,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n6": "features'",
+    "n7": "a feature",
+    "n8": "many features"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "panama",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "panama",
+    "n2": "panamas",
+    "n3": "the panama",
+    "n4": "the panamas",
+    "n5": "panama's",
+    "n6": "panamas'",
+    "n7": "a panama",
+    "n8": "many panamas"
+}

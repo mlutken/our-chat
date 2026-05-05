@@ -1,0 +1,18 @@
+{
+    "base": "provost guard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "provost guard",
+    "n2": "provost guards",
+    "n3": "the provost guard",
+    "n4": "the provost guards",
+    "n5": "provost guard's",
+    "n6": "provost guards'",
+    "n7": "a provost guard",
+    "n8": "many provost guards"
+}

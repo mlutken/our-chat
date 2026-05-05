@@ -1,0 +1,18 @@
+{
+    "base": "occupancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "occupancy",
+    "n2": "occupancies",
+    "n3": "the occupancy",
+    "n4": "the occupancies",
+    "n5": "occupancy's",
+    "n6": "occupancies'",
+    "n7": "an occupancy",
+    "n8": "many occupancies"
+}

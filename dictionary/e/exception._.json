@@ -1,0 +1,18 @@
+{
+    "base": "exception",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "exception",
+    "n2": "exceptions",
+    "n3": "the exception",
+    "n4": "the exceptions",
+    "n5": "exception's",
+    "n6": "exceptions'",
+    "n7": "an exception",
+    "n8": "many exceptions"
+}

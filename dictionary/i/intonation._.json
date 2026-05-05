@@ -1,0 +1,18 @@
+{
+    "base": "intonation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "intonation",
+    "n2": "intonations",
+    "n3": "the intonation",
+    "n4": "the intonations",
+    "n5": "intonation's",
+    "n6": "intonations'",
+    "n7": "an intonation",
+    "n8": "many intonations"
+}

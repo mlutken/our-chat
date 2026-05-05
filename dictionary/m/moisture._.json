@@ -1,0 +1,18 @@
+{
+    "base": "moisture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "moisture",
+    "n2": "moistures",
+    "n3": "the moisture",
+    "n4": "the moistures",
+    "n5": "moisture's",
+    "n6": "moistures'",
+    "n7": "a moisture",
+    "n8": "many moistures"
+}

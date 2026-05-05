@@ -1,0 +1,18 @@
+{
+    "base": "psychologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "psychologist",
+    "n2": "psychologists",
+    "n3": "the psychologist",
+    "n4": "the psychologists",
+    "n5": "psychologist's",
+    "n6": "psychologists'",
+    "n7": "a psychologist",
+    "n8": "many psychologists"
+}

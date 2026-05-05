@@ -1,0 +1,18 @@
+{
+    "base": "euphoria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "euphoria",
+    "n2": "euphorias",
+    "n3": "the euphoria",
+    "n4": "the euphorias",
+    "n5": "euphoria's",
+    "n6": "euphorias'",
+    "n7": "an euphoria",
+    "n8": "many euphorias"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mortality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "mortality",
+    "n2": "mortalities",
+    "n3": "the mortality",
+    "n4": "the mortalities",
+    "n5": "mortality's",
+    "n6": "mortalities'",
+    "n7": "a mortality",
+    "n8": "many mortalities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "scrub oak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scrub oak",
+    "n2": "scrub oaks",
+    "n3": "the scrub oak",
+    "n4": "the scrub oaks",
+    "n5": "scrub oak's",
+    "n6": "scrub oaks'",
+    "n7": "a scrub oak",
+    "n8": "many scrub oaks"
+}

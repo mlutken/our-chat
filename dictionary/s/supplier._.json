@@ -1,0 +1,18 @@
+{
+    "base": "supplier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "supplier",
+    "n2": "suppliers",
+    "n3": "the supplier",
+    "n4": "the suppliers",
+    "n5": "supplier's",
+    "n6": "suppliers'",
+    "n7": "a supplier",
+    "n8": "many suppliers"
+}

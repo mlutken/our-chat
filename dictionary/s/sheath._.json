@@ -1,0 +1,18 @@
+{
+    "base": "sheath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "sheath",
+    "n2": "sheaths",
+    "n3": "the sheath",
+    "n4": "the sheaths",
+    "n5": "sheath's",
+    "n6": "sheaths'",
+    "n7": "a sheath",
+    "n8": "many sheaths"
+}

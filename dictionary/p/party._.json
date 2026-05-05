@@ -7,5 +7,12 @@
     "n2": "parties",
     "n3": "the party",
     "n4": "the parties",
-    "n5": "party's"
+    "n5": "party's",
+    "proper": false,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n6": "parties'",
+    "n7": "a party",
+    "n8": "many parties"
 }

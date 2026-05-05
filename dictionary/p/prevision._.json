@@ -1,0 +1,18 @@
+{
+    "base": "prevision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "prevision",
+    "n2": "previsions",
+    "n3": "the prevision",
+    "n4": "the previsions",
+    "n5": "prevision's",
+    "n6": "previsions'",
+    "n7": "a prevision",
+    "n8": "many previsions"
+}

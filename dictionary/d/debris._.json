@@ -1,0 +1,18 @@
+{
+    "base": "debris",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "debris",
+    "n2": "debrises",
+    "n3": "the debris",
+    "n4": "the debrises",
+    "n5": "debris'",
+    "n6": "debrises'",
+    "n7": "a debris",
+    "n8": "many debrises"
+}

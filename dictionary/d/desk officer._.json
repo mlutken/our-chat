@@ -1,0 +1,18 @@
+{
+    "base": "desk officer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "desk officer",
+    "n2": "desk officers",
+    "n3": "the desk officer",
+    "n4": "the desk officers",
+    "n5": "desk officer's",
+    "n6": "desk officers'",
+    "n7": "a desk officer",
+    "n8": "many desk officers"
+}

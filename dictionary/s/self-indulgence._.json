@@ -1,0 +1,18 @@
+{
+    "base": "self-indulgence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "self-indulgence",
+    "n2": "self-indulgences",
+    "n3": "the self-indulgence",
+    "n4": "the self-indulgences",
+    "n5": "self-indulgence's",
+    "n6": "self-indulgences'",
+    "n7": "a self-indulgence",
+    "n8": "many self-indulgences"
+}

@@ -7,5 +7,12 @@
     "n2": "journeys",
     "n3": "the journey",
     "n4": "the journeys",
-    "n5": "journey's"
+    "n5": "journey's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "journeys'",
+    "n7": "a journey",
+    "n8": "many journeys"
 }

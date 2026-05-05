@@ -1,0 +1,18 @@
+{
+    "base": "retrovision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retrovision",
+    "n2": "retrovisions",
+    "n3": "the retrovision",
+    "n4": "the retrovisions",
+    "n5": "retrovision's",
+    "n6": "retrovisions'",
+    "n7": "a retrovision",
+    "n8": "many retrovisions"
+}

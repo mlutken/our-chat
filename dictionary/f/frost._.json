@@ -1,0 +1,18 @@
+{
+    "base": "frost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "frost",
+    "n2": "frosts",
+    "n3": "the frost",
+    "n4": "the frosts",
+    "n5": "frost's",
+    "n6": "frosts'",
+    "n7": "a frost",
+    "n8": "many frosts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "suddenness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "suddenness",
+    "n2": "suddennesses",
+    "n3": "the suddenness",
+    "n4": "the suddennesses",
+    "n5": "suddenness'",
+    "n6": "suddennesses'",
+    "n7": "a suddenness",
+    "n8": "many suddennesses"
+}

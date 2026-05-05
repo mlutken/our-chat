@@ -1,0 +1,18 @@
+{
+    "base": "left hand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "left hand",
+    "n2": "left hands",
+    "n3": "the left hand",
+    "n4": "the left hands",
+    "n5": "left hand's",
+    "n6": "left hands'",
+    "n7": "a left hand",
+    "n8": "many left hands"
+}

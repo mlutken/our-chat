@@ -1,0 +1,18 @@
+{
+    "base": "oil geologist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oil geologist",
+    "n2": "oil geologists",
+    "n3": "the oil geologist",
+    "n4": "the oil geologists",
+    "n5": "oil geologist's",
+    "n6": "oil geologists'",
+    "n7": "an oil geologist",
+    "n8": "many oil geologists"
+}

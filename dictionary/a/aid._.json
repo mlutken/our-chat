@@ -7,5 +7,12 @@
     "n2": "aids",
     "n3": "the aid",
     "n4": "the aids",
-    "n5": "aid's"
+    "n5": "aid's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "aids'",
+    "n7": "an aid",
+    "n8": "many aids"
 }

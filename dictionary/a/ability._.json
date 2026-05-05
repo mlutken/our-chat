@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "ability",
-    "n2": "abilitys",
+    "n2": "abilities",
     "n3": "the ability",
-    "n4": "the abilitys",
-    "n5": "ability's"
+    "n4": "the abilities",
+    "n5": "ability's",
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n6": "abilities'",
+    "n7": "an ability",
+    "n8": "many abilities"
 }

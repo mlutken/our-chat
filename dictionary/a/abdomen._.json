@@ -1,0 +1,18 @@
+{
+    "base": "abdomen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abdomen",
+    "n2": "abdomens",
+    "n3": "the abdomen",
+    "n4": "the abdomens",
+    "n5": "abdomen's",
+    "n6": "abdomens'",
+    "n7": "an abdomen",
+    "n8": "many abdomens"
+}

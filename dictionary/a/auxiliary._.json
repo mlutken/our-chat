@@ -1,0 +1,18 @@
+{
+    "base": "auxiliary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "auxiliary",
+    "n2": "auxiliaries",
+    "n3": "the auxiliary",
+    "n4": "the auxiliaries",
+    "n5": "auxiliary's",
+    "n6": "auxiliaries'",
+    "n7": "an auxiliary",
+    "n8": "many auxiliaries"
+}

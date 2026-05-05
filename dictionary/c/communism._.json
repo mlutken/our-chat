@@ -1,0 +1,18 @@
+{
+    "base": "communism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "communism",
+    "n2": "communisms",
+    "n3": "the communism",
+    "n4": "the communisms",
+    "n5": "communism's",
+    "n6": "communisms'",
+    "n7": "a communism",
+    "n8": "many communisms"
+}

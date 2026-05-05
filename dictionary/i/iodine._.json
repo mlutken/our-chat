@@ -1,0 +1,18 @@
+{
+    "base": "iodine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "iodine",
+    "n2": "iodines",
+    "n3": "the iodine",
+    "n4": "the iodines",
+    "n5": "iodine's",
+    "n6": "iodines'",
+    "n7": "an iodine",
+    "n8": "many iodines"
+}

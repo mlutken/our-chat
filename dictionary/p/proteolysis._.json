@@ -1,0 +1,18 @@
+{
+    "base": "proteolysis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "proteolysis",
+    "n2": "proteolysises",
+    "n3": "the proteolysis",
+    "n4": "the proteolysises",
+    "n5": "proteolysis'",
+    "n6": "proteolysises'",
+    "n7": "a proteolysis",
+    "n8": "many proteolysises"
+}

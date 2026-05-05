@@ -1,0 +1,18 @@
+{
+    "base": "lightweight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lightweight",
+    "n2": "lightweights",
+    "n3": "the lightweight",
+    "n4": "the lightweights",
+    "n5": "lightweight's",
+    "n6": "lightweights'",
+    "n7": "a lightweight",
+    "n8": "many lightweights"
+}

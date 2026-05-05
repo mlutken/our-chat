@@ -1,0 +1,18 @@
+{
+    "base": "labrador",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "labrador",
+    "n2": "labradors",
+    "n3": "the labrador",
+    "n4": "the labradors",
+    "n5": "labrador's",
+    "n6": "labradors'",
+    "n7": "a labrador",
+    "n8": "many labradors"
+}

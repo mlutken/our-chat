@@ -1,0 +1,18 @@
+{
+    "base": "refectory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "refectory",
+    "n2": "refectories",
+    "n3": "the refectory",
+    "n4": "the refectories",
+    "n5": "refectory's",
+    "n6": "refectories'",
+    "n7": "a refectory",
+    "n8": "many refectories"
+}

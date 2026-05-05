@@ -7,5 +7,12 @@
     "n2": "baths",
     "n3": "the bath",
     "n4": "the baths",
-    "n5": "bath's"
+    "n5": "bath's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "baths'",
+    "n7": "a bath",
+    "n8": "many baths"
 }

@@ -7,5 +7,12 @@
     "n2": "classes",
     "n3": "the class",
     "n4": "the classes",
-    "n5": "class's"
+    "n5": "class'",
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n6": "classes'",
+    "n7": "a class",
+    "n8": "many classes"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "vandalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vandalism",
+    "n2": "vandalisms",
+    "n3": "the vandalism",
+    "n4": "the vandalisms",
+    "n5": "vandalism's",
+    "n6": "vandalisms'",
+    "n7": "a vandalism",
+    "n8": "many vandalisms"
+}

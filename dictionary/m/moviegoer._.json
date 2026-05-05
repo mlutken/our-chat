@@ -1,0 +1,18 @@
+{
+    "base": "moviegoer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moviegoer",
+    "n2": "moviegoers",
+    "n3": "the moviegoer",
+    "n4": "the moviegoers",
+    "n5": "moviegoer's",
+    "n6": "moviegoers'",
+    "n7": "a moviegoer",
+    "n8": "many moviegoers"
+}

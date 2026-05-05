@@ -1,0 +1,18 @@
+{
+    "base": "qualm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "qualm",
+    "n2": "qualms",
+    "n3": "the qualm",
+    "n4": "the qualms",
+    "n5": "qualm's",
+    "n6": "qualms'",
+    "n7": "a qualm",
+    "n8": "many qualms"
+}

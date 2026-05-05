@@ -1,0 +1,18 @@
+{
+    "base": "oppression",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oppression",
+    "n2": "oppressions",
+    "n3": "the oppression",
+    "n4": "the oppressions",
+    "n5": "oppression's",
+    "n6": "oppressions'",
+    "n7": "an oppression",
+    "n8": "many oppressions"
+}

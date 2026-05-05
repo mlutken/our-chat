@@ -1,0 +1,18 @@
+{
+    "base": "toxin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "toxin",
+    "n2": "toxins",
+    "n3": "the toxin",
+    "n4": "the toxins",
+    "n5": "toxin's",
+    "n6": "toxins'",
+    "n7": "a toxin",
+    "n8": "many toxins"
+}

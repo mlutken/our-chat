@@ -7,5 +7,12 @@
     "n2": "opportunities",
     "n3": "the opportunity",
     "n4": "the opportunities",
-    "n5": "opportunity's"
+    "n5": "opportunity's",
+    "proper": false,
+    "commonness": 67,
+    "max_commonness": 6834,
+    "commonness_ge_count": 224,
+    "n6": "opportunities'",
+    "n7": "an opportunity",
+    "n8": "many opportunities"
 }

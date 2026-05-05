@@ -1,0 +1,18 @@
+{
+    "base": "accessory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "accessory",
+    "n2": "accessories",
+    "n3": "the accessory",
+    "n4": "the accessories",
+    "n5": "accessory's",
+    "n6": "accessories'",
+    "n7": "an accessory",
+    "n8": "many accessories"
+}

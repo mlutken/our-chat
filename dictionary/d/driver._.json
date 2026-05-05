@@ -7,5 +7,12 @@
     "n2": "drivers",
     "n3": "the driver",
     "n4": "the drivers",
-    "n5": "driver's"
+    "n5": "driver's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "drivers'",
+    "n7": "a driver",
+    "n8": "many drivers"
 }

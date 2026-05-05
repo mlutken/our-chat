@@ -1,0 +1,18 @@
+{
+    "base": "vault",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vault",
+    "n2": "vaults",
+    "n3": "the vault",
+    "n4": "the vaults",
+    "n5": "vault's",
+    "n6": "vaults'",
+    "n7": "a vault",
+    "n8": "many vaults"
+}

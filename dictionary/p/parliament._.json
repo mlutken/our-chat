@@ -1,0 +1,18 @@
+{
+    "base": "parliament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parliament",
+    "n2": "parliaments",
+    "n3": "the parliament",
+    "n4": "the parliaments",
+    "n5": "parliament's",
+    "n6": "parliaments'",
+    "n7": "a parliament",
+    "n8": "many parliaments"
+}

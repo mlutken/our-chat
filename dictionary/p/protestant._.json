@@ -1,0 +1,18 @@
+{
+    "base": "protestant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "protestant",
+    "n2": "protestants",
+    "n3": "the protestant",
+    "n4": "the protestants",
+    "n5": "protestant's",
+    "n6": "protestants'",
+    "n7": "a protestant",
+    "n8": "many protestants"
+}

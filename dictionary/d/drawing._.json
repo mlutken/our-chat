@@ -7,5 +7,12 @@
     "n2": "drawings",
     "n3": "the drawing",
     "n4": "the drawings",
-    "n5": "drawing's"
+    "n5": "drawing's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "drawings'",
+    "n7": "a drawing",
+    "n8": "many drawings"
 }

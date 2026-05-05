@@ -1,0 +1,18 @@
+{
+    "base": "rival",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rival",
+    "n2": "rivals",
+    "n3": "the rival",
+    "n4": "the rivals",
+    "n5": "rival's",
+    "n6": "rivals'",
+    "n7": "a rival",
+    "n8": "many rivals"
+}

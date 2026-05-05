@@ -1,0 +1,18 @@
+{
+    "base": "ribes sanguineum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ribes sanguineum",
+    "n2": "ribes sanguineums",
+    "n3": "the ribes sanguineum",
+    "n4": "the ribes sanguineums",
+    "n5": "ribes sanguineum's",
+    "n6": "ribes sanguineums'",
+    "n7": "a ribes sanguineum",
+    "n8": "many ribes sanguineums"
+}

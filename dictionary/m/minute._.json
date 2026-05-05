@@ -7,5 +7,12 @@
     "n2": "minutes",
     "n3": "the minute",
     "n4": "the minutes",
-    "n5": "minute's"
+    "n5": "minute's",
+    "proper": false,
+    "commonness": 92,
+    "max_commonness": 6834,
+    "commonness_ge_count": 137,
+    "n6": "minutes'",
+    "n7": "a minute",
+    "n8": "many minutes"
 }

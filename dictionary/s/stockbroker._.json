@@ -1,0 +1,18 @@
+{
+    "base": "stockbroker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stockbroker",
+    "n2": "stockbrokers",
+    "n3": "the stockbroker",
+    "n4": "the stockbrokers",
+    "n5": "stockbroker's",
+    "n6": "stockbrokers'",
+    "n7": "a stockbroker",
+    "n8": "many stockbrokers"
+}

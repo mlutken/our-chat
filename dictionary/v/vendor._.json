@@ -1,0 +1,18 @@
+{
+    "base": "vendor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vendor",
+    "n2": "vendors",
+    "n3": "the vendor",
+    "n4": "the vendors",
+    "n5": "vendor's",
+    "n6": "vendors'",
+    "n7": "a vendor",
+    "n8": "many vendors"
+}

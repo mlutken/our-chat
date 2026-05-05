@@ -1,0 +1,18 @@
+{
+    "base": "lemon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "lemon",
+    "n2": "lemons",
+    "n3": "the lemon",
+    "n4": "the lemons",
+    "n5": "lemon's",
+    "n6": "lemons'",
+    "n7": "a lemon",
+    "n8": "many lemons"
+}

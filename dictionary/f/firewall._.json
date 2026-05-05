@@ -1,0 +1,18 @@
+{
+    "base": "firewall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "firewall",
+    "n2": "firewalls",
+    "n3": "the firewall",
+    "n4": "the firewalls",
+    "n5": "firewall's",
+    "n6": "firewalls'",
+    "n7": "a firewall",
+    "n8": "many firewalls"
+}

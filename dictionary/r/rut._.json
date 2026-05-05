@@ -1,0 +1,18 @@
+{
+    "base": "rut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rut",
+    "n2": "ruts",
+    "n3": "the rut",
+    "n4": "the ruts",
+    "n5": "rut's",
+    "n6": "ruts'",
+    "n7": "a rut",
+    "n8": "many ruts"
+}

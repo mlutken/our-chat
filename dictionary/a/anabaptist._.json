@@ -1,0 +1,18 @@
+{
+    "base": "anabaptist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "anabaptist",
+    "n2": "anabaptists",
+    "n3": "the anabaptist",
+    "n4": "the anabaptists",
+    "n5": "anabaptist's",
+    "n6": "anabaptists'",
+    "n7": "an anabaptist",
+    "n8": "many anabaptists"
+}

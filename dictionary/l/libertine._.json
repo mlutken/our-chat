@@ -1,0 +1,18 @@
+{
+    "base": "libertine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "libertine",
+    "n2": "libertines",
+    "n3": "the libertine",
+    "n4": "the libertines",
+    "n5": "libertine's",
+    "n6": "libertines'",
+    "n7": "a libertine",
+    "n8": "many libertines"
+}

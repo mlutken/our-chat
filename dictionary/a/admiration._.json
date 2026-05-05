@@ -1,0 +1,18 @@
+{
+    "base": "admiration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "admiration",
+    "n2": "admirations",
+    "n3": "the admiration",
+    "n4": "the admirations",
+    "n5": "admiration's",
+    "n6": "admirations'",
+    "n7": "an admiration",
+    "n8": "many admirations"
+}

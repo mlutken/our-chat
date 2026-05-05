@@ -1,0 +1,18 @@
+{
+    "base": "normal distribution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "normal distribution",
+    "n2": "normal distributions",
+    "n3": "the normal distribution",
+    "n4": "the normal distributions",
+    "n5": "normal distribution's",
+    "n6": "normal distributions'",
+    "n7": "a normal distribution",
+    "n8": "many normal distributions"
+}

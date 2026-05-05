@@ -1,0 +1,18 @@
+{
+    "base": "alizarin crimson",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alizarin crimson",
+    "n2": "alizarin crimsons",
+    "n3": "the alizarin crimson",
+    "n4": "the alizarin crimsons",
+    "n5": "alizarin crimson's",
+    "n6": "alizarin crimsons'",
+    "n7": "an alizarin crimson",
+    "n8": "many alizarin crimsons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "phantom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "phantom",
+    "n2": "phantoms",
+    "n3": "the phantom",
+    "n4": "the phantoms",
+    "n5": "phantom's",
+    "n6": "phantoms'",
+    "n7": "a phantom",
+    "n8": "many phantoms"
+}

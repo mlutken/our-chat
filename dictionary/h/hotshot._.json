@@ -1,0 +1,18 @@
+{
+    "base": "hotshot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hotshot",
+    "n2": "hotshots",
+    "n3": "the hotshot",
+    "n4": "the hotshots",
+    "n5": "hotshot's",
+    "n6": "hotshots'",
+    "n7": "a hotshot",
+    "n8": "many hotshots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "deadline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deadline",
+    "n2": "deadlines",
+    "n3": "the deadline",
+    "n4": "the deadlines",
+    "n5": "deadline's",
+    "n6": "deadlines'",
+    "n7": "a deadline",
+    "n8": "many deadlines"
+}

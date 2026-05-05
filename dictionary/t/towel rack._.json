@@ -1,0 +1,18 @@
+{
+    "base": "towel rack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "towel rack",
+    "n2": "towel racks",
+    "n3": "the towel rack",
+    "n4": "the towel racks",
+    "n5": "towel rack's",
+    "n6": "towel racks'",
+    "n7": "a towel rack",
+    "n8": "many towel racks"
+}

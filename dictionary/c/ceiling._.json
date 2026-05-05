@@ -1,0 +1,18 @@
+{
+    "base": "ceiling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "ceiling",
+    "n2": "ceilings",
+    "n3": "the ceiling",
+    "n4": "the ceilings",
+    "n5": "ceiling's",
+    "n6": "ceilings'",
+    "n7": "a ceiling",
+    "n8": "many ceilings"
+}

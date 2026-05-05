@@ -1,0 +1,18 @@
+{
+    "base": "heir",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "heir",
+    "n2": "heirs",
+    "n3": "the heir",
+    "n4": "the heirs",
+    "n5": "heir's",
+    "n6": "heirs'",
+    "n7": "an heir",
+    "n8": "many heirs"
+}

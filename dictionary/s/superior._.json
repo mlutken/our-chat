@@ -1,0 +1,18 @@
+{
+    "base": "superior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "superior",
+    "n2": "superiors",
+    "n3": "the superior",
+    "n4": "the superiors",
+    "n5": "superior's",
+    "n6": "superiors'",
+    "n7": "a superior",
+    "n8": "many superiors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tranquilizer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tranquilizer",
+    "n2": "tranquilizers",
+    "n3": "the tranquilizer",
+    "n4": "the tranquilizers",
+    "n5": "tranquilizer's",
+    "n6": "tranquilizers'",
+    "n7": "a tranquilizer",
+    "n8": "many tranquilizers"
+}

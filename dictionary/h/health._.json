@@ -7,5 +7,12 @@
     "n2": "healths",
     "n3": "the health",
     "n4": "the healths",
-    "n5": "health's"
+    "n5": "health's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "healths'",
+    "n7": "a health",
+    "n8": "many healths"
 }

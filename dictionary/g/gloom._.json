@@ -1,0 +1,18 @@
+{
+    "base": "gloom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "gloom",
+    "n2": "glooms",
+    "n3": "the gloom",
+    "n4": "the glooms",
+    "n5": "gloom's",
+    "n6": "glooms'",
+    "n7": "a gloom",
+    "n8": "many glooms"
+}

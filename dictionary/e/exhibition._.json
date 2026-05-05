@@ -1,0 +1,18 @@
+{
+    "base": "exhibition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "exhibition",
+    "n2": "exhibitions",
+    "n3": "the exhibition",
+    "n4": "the exhibitions",
+    "n5": "exhibition's",
+    "n6": "exhibitions'",
+    "n7": "an exhibition",
+    "n8": "many exhibitions"
+}

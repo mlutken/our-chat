@@ -1,0 +1,18 @@
+{
+    "base": "submachine gun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "submachine gun",
+    "n2": "submachine guns",
+    "n3": "the submachine gun",
+    "n4": "the submachine guns",
+    "n5": "submachine gun's",
+    "n6": "submachine guns'",
+    "n7": "a submachine gun",
+    "n8": "many submachine guns"
+}

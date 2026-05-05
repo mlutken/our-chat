@@ -1,0 +1,18 @@
+{
+    "base": "national park service",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "national park service",
+    "n2": "national park services",
+    "n3": "the national park service",
+    "n4": "the national park services",
+    "n5": "national park service's",
+    "n6": "national park services'",
+    "n7": "a national park service",
+    "n8": "many national park services"
+}

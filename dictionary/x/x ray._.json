@@ -1,0 +1,18 @@
+{
+    "base": "x ray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "x ray",
+    "n2": "x rays",
+    "n3": "the x ray",
+    "n4": "the x rays",
+    "n5": "x ray's",
+    "n6": "x rays'",
+    "n7": "a x ray",
+    "n8": "many x rays"
+}

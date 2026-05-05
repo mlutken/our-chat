@@ -1,0 +1,18 @@
+{
+    "base": "stickpin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stickpin",
+    "n2": "stickpins",
+    "n3": "the stickpin",
+    "n4": "the stickpins",
+    "n5": "stickpin's",
+    "n6": "stickpins'",
+    "n7": "a stickpin",
+    "n8": "many stickpins"
+}

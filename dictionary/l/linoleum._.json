@@ -1,0 +1,18 @@
+{
+    "base": "linoleum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "linoleum",
+    "n2": "linoleums",
+    "n3": "the linoleum",
+    "n4": "the linoleums",
+    "n5": "linoleum's",
+    "n6": "linoleums'",
+    "n7": "a linoleum",
+    "n8": "many linoleums"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lineman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lineman",
+    "n2": "linemen",
+    "n3": "the lineman",
+    "n4": "the linemen",
+    "n5": "lineman's",
+    "n6": "linemen's",
+    "n7": "a lineman",
+    "n8": "many linemen"
+}

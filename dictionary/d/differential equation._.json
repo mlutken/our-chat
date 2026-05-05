@@ -1,0 +1,18 @@
+{
+    "base": "differential equation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "differential equation",
+    "n2": "differential equations",
+    "n3": "the differential equation",
+    "n4": "the differential equations",
+    "n5": "differential equation's",
+    "n6": "differential equations'",
+    "n7": "a differential equation",
+    "n8": "many differential equations"
+}

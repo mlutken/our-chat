@@ -1,0 +1,18 @@
+{
+    "base": "acolyte",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "acolyte",
+    "n2": "acolytes",
+    "n3": "the acolyte",
+    "n4": "the acolytes",
+    "n5": "acolyte's",
+    "n6": "acolytes'",
+    "n7": "an acolyte",
+    "n8": "many acolytes"
+}

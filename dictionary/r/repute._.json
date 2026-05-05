@@ -1,0 +1,18 @@
+{
+    "base": "repute",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repute",
+    "n2": "reputes",
+    "n3": "the repute",
+    "n4": "the reputes",
+    "n5": "repute's",
+    "n6": "reputes'",
+    "n7": "a repute",
+    "n8": "many reputes"
+}

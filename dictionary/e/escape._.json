@@ -1,11 +1,24 @@
 {
     "base": "escape",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "escape",
     "v2": "escaped",
     "v3": "escaped",
     "v4": "escaping",
-    "v5": "escapes"
+    "v5": "escapes",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "escape",
+    "n2": "escapes",
+    "n3": "the escape",
+    "n4": "the escapes",
+    "n5": "escape's",
+    "n6": "escapes'",
+    "n7": "an escape",
+    "n8": "many escapes"
 }

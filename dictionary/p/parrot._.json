@@ -1,0 +1,18 @@
+{
+    "base": "parrot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parrot",
+    "n2": "parrots",
+    "n3": "the parrot",
+    "n4": "the parrots",
+    "n5": "parrot's",
+    "n6": "parrots'",
+    "n7": "a parrot",
+    "n8": "many parrots"
+}

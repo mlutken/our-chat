@@ -1,0 +1,18 @@
+{
+    "base": "succor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "succor",
+    "n2": "succors",
+    "n3": "the succor",
+    "n4": "the succors",
+    "n5": "succor's",
+    "n6": "succors'",
+    "n7": "a succor",
+    "n8": "many succors"
+}

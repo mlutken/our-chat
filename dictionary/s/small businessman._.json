@@ -1,0 +1,18 @@
+{
+    "base": "small businessman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "small businessman",
+    "n2": "small businessmen",
+    "n3": "the small businessman",
+    "n4": "the small businessmen",
+    "n5": "small businessman's",
+    "n6": "small businessmen's",
+    "n7": "a small businessman",
+    "n8": "many small businessmen"
+}

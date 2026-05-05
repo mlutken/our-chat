@@ -7,5 +7,12 @@
     "n2": "talents",
     "n3": "the talent",
     "n4": "the talents",
-    "n5": "talent's"
+    "n5": "talent's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "talents'",
+    "n7": "a talent",
+    "n8": "many talents"
 }

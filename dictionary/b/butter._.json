@@ -1,0 +1,18 @@
+{
+    "base": "butter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "butter",
+    "n2": "butters",
+    "n3": "the butter",
+    "n4": "the butters",
+    "n5": "butter's",
+    "n6": "butters'",
+    "n7": "a butter",
+    "n8": "many butters"
+}

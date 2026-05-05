@@ -1,0 +1,18 @@
+{
+    "base": "imaging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "imaging",
+    "n2": "imagings",
+    "n3": "the imaging",
+    "n4": "the imagings",
+    "n5": "imaging's",
+    "n6": "imagings'",
+    "n7": "an imaging",
+    "n8": "many imagings"
+}

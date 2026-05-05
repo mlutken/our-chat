@@ -1,0 +1,18 @@
+{
+    "base": "figure of speech",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "figure of speech",
+    "n2": "figure of speeches",
+    "n3": "the figure of speech",
+    "n4": "the figure of speeches",
+    "n5": "figure of speech's",
+    "n6": "figure of speeches'",
+    "n7": "a figure of speech",
+    "n8": "many figure of speeches"
+}

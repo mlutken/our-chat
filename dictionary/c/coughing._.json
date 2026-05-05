@@ -1,0 +1,18 @@
+{
+    "base": "coughing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coughing",
+    "n2": "coughings",
+    "n3": "the coughing",
+    "n4": "the coughings",
+    "n5": "coughing's",
+    "n6": "coughings'",
+    "n7": "a coughing",
+    "n8": "many coughings"
+}

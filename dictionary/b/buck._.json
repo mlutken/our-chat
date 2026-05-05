@@ -1,0 +1,18 @@
+{
+    "base": "buck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "buck",
+    "n2": "bucks",
+    "n3": "the buck",
+    "n4": "the bucks",
+    "n5": "buck's",
+    "n6": "bucks'",
+    "n7": "a buck",
+    "n8": "many bucks"
+}

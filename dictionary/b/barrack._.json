@@ -1,0 +1,18 @@
+{
+    "base": "barrack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barrack",
+    "n2": "barracks",
+    "n3": "the barrack",
+    "n4": "the barracks",
+    "n5": "barrack's",
+    "n6": "barracks'",
+    "n7": "a barrack",
+    "n8": "many barracks"
+}

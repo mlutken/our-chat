@@ -1,11 +1,24 @@
 {
     "base": "switch",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "switch",
     "v2": "switched",
     "v3": "switched",
     "v4": "switching",
-    "v5": "switches"
+    "v5": "switches",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "switch",
+    "n2": "switches",
+    "n3": "the switch",
+    "n4": "the switches",
+    "n5": "switch's",
+    "n6": "switches'",
+    "n7": "a switch",
+    "n8": "many switches"
 }

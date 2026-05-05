@@ -1,0 +1,18 @@
+{
+    "base": "anteater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anteater",
+    "n2": "anteaters",
+    "n3": "the anteater",
+    "n4": "the anteaters",
+    "n5": "anteater's",
+    "n6": "anteaters'",
+    "n7": "an anteater",
+    "n8": "many anteaters"
+}

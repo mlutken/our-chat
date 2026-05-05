@@ -1,0 +1,18 @@
+{
+    "base": "bubble gum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bubble gum",
+    "n2": "bubble gums",
+    "n3": "the bubble gum",
+    "n4": "the bubble gums",
+    "n5": "bubble gum's",
+    "n6": "bubble gums'",
+    "n7": "a bubble gum",
+    "n8": "many bubble gums"
+}

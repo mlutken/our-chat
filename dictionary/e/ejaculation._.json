@@ -1,0 +1,18 @@
+{
+    "base": "ejaculation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ejaculation",
+    "n2": "ejaculations",
+    "n3": "the ejaculation",
+    "n4": "the ejaculations",
+    "n5": "ejaculation's",
+    "n6": "ejaculations'",
+    "n7": "an ejaculation",
+    "n8": "many ejaculations"
+}

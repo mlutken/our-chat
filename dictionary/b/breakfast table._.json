@@ -1,0 +1,18 @@
+{
+    "base": "breakfast table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "breakfast table",
+    "n2": "breakfast tables",
+    "n3": "the breakfast table",
+    "n4": "the breakfast tables",
+    "n5": "breakfast table's",
+    "n6": "breakfast tables'",
+    "n7": "a breakfast table",
+    "n8": "many breakfast tables"
+}

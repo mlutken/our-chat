@@ -1,0 +1,18 @@
+{
+    "base": "child care",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "child care",
+    "n2": "child cares",
+    "n3": "the child care",
+    "n4": "the child cares",
+    "n5": "child care's",
+    "n6": "child cares'",
+    "n7": "a child care",
+    "n8": "many child cares"
+}

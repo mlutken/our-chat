@@ -1,0 +1,18 @@
+{
+    "base": "hurricane deck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hurricane deck",
+    "n2": "hurricane decks",
+    "n3": "the hurricane deck",
+    "n4": "the hurricane decks",
+    "n5": "hurricane deck's",
+    "n6": "hurricane decks'",
+    "n7": "a hurricane deck",
+    "n8": "many hurricane decks"
+}

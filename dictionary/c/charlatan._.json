@@ -1,0 +1,18 @@
+{
+    "base": "charlatan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "charlatan",
+    "n2": "charlatans",
+    "n3": "the charlatan",
+    "n4": "the charlatans",
+    "n5": "charlatan's",
+    "n6": "charlatans'",
+    "n7": "a charlatan",
+    "n8": "many charlatans"
+}

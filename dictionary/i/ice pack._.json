@@ -1,0 +1,18 @@
+{
+    "base": "ice pack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ice pack",
+    "n2": "ice packs",
+    "n3": "the ice pack",
+    "n4": "the ice packs",
+    "n5": "ice pack's",
+    "n6": "ice packs'",
+    "n7": "an ice pack",
+    "n8": "many ice packs"
+}

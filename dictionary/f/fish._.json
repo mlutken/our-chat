@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "fish",
-    "n2": "fishs",
+    "n2": "fishes",
     "n3": "the fish",
-    "n4": "the fishs",
-    "n5": "fish's"
+    "n4": "the fishes",
+    "n5": "fish's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "fishes'",
+    "n7": "a fish",
+    "n8": "many fishes"
 }

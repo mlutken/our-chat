@@ -1,0 +1,18 @@
+{
+    "base": "pounder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pounder",
+    "n2": "pounders",
+    "n3": "the pounder",
+    "n4": "the pounders",
+    "n5": "pounder's",
+    "n6": "pounders'",
+    "n7": "a pounder",
+    "n8": "many pounders"
+}

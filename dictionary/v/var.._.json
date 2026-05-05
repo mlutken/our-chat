@@ -1,0 +1,18 @@
+{
+    "base": "var.",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "var.",
+    "n2": "var.s",
+    "n3": "the var.",
+    "n4": "the var.s",
+    "n5": "var.'s",
+    "n6": "var.s'",
+    "n7": "a var.",
+    "n8": "many var.s"
+}

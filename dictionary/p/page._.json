@@ -7,5 +7,12 @@
     "n2": "pages",
     "n3": "the page",
     "n4": "the pages",
-    "n5": "page's"
+    "n5": "page's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "pages'",
+    "n7": "a page",
+    "n8": "many pages"
 }

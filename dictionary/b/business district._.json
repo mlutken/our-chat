@@ -1,0 +1,18 @@
+{
+    "base": "business district",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "business district",
+    "n2": "business districts",
+    "n3": "the business district",
+    "n4": "the business districts",
+    "n5": "business district's",
+    "n6": "business districts'",
+    "n7": "a business district",
+    "n8": "many business districts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "confederacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "confederacy",
+    "n2": "confederacies",
+    "n3": "the confederacy",
+    "n4": "the confederacies",
+    "n5": "confederacy's",
+    "n6": "confederacies'",
+    "n7": "a confederacy",
+    "n8": "many confederacies"
+}

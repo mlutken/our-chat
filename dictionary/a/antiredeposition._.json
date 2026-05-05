@@ -1,0 +1,18 @@
+{
+    "base": "antiredeposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "antiredeposition",
+    "n2": "antiredepositions",
+    "n3": "the antiredeposition",
+    "n4": "the antiredepositions",
+    "n5": "antiredeposition's",
+    "n6": "antiredepositions'",
+    "n7": "an antiredeposition",
+    "n8": "many antiredepositions"
+}

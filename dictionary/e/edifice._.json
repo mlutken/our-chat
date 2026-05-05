@@ -1,0 +1,18 @@
+{
+    "base": "edifice",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "edifice",
+    "n2": "edifices",
+    "n3": "the edifice",
+    "n4": "the edifices",
+    "n5": "edifice's",
+    "n6": "edifices'",
+    "n7": "an edifice",
+    "n8": "many edifices"
+}

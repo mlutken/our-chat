@@ -1,0 +1,18 @@
+{
+    "base": "motto",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "motto",
+    "n2": "mottoes",
+    "n3": "the motto",
+    "n4": "the mottoes",
+    "n5": "motto's",
+    "n6": "mottoes'",
+    "n7": "a motto",
+    "n8": "many mottoes"
+}

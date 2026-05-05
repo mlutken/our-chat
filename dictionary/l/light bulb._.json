@@ -1,0 +1,18 @@
+{
+    "base": "light bulb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "light bulb",
+    "n2": "light bulbs",
+    "n3": "the light bulb",
+    "n4": "the light bulbs",
+    "n5": "light bulb's",
+    "n6": "light bulbs'",
+    "n7": "a light bulb",
+    "n8": "many light bulbs"
+}

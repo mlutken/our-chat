@@ -1,0 +1,18 @@
+{
+    "base": "megaton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "megaton",
+    "n2": "megatons",
+    "n3": "the megaton",
+    "n4": "the megatons",
+    "n5": "megaton's",
+    "n6": "megatons'",
+    "n7": "a megaton",
+    "n8": "many megatons"
+}

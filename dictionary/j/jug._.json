@@ -1,0 +1,18 @@
+{
+    "base": "jug",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jug",
+    "n2": "jugs",
+    "n3": "the jug",
+    "n4": "the jugs",
+    "n5": "jug's",
+    "n6": "jugs'",
+    "n7": "a jug",
+    "n8": "many jugs"
+}

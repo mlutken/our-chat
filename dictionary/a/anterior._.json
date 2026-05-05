@@ -1,0 +1,18 @@
+{
+    "base": "anterior",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anterior",
+    "n2": "anteriors",
+    "n3": "the anterior",
+    "n4": "the anteriors",
+    "n5": "anterior's",
+    "n6": "anteriors'",
+    "n7": "an anterior",
+    "n8": "many anteriors"
+}

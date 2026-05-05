@@ -1,0 +1,18 @@
+{
+    "base": "turmoil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "turmoil",
+    "n2": "turmoils",
+    "n3": "the turmoil",
+    "n4": "the turmoils",
+    "n5": "turmoil's",
+    "n6": "turmoils'",
+    "n7": "a turmoil",
+    "n8": "many turmoils"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "classicist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "classicist",
+    "n2": "classicists",
+    "n3": "the classicist",
+    "n4": "the classicists",
+    "n5": "classicist's",
+    "n6": "classicists'",
+    "n7": "a classicist",
+    "n8": "many classicists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "conflict",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "conflict",
+    "n2": "conflicts",
+    "n3": "the conflict",
+    "n4": "the conflicts",
+    "n5": "conflict's",
+    "n6": "conflicts'",
+    "n7": "a conflict",
+    "n8": "many conflicts"
+}

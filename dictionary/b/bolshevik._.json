@@ -1,0 +1,18 @@
+{
+    "base": "bolshevik",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bolshevik",
+    "n2": "bolsheviki",
+    "n3": "the bolshevik",
+    "n4": "the bolsheviki",
+    "n5": "bolshevik's",
+    "n6": "bolsheviki's",
+    "n7": "a bolshevik",
+    "n8": "many bolsheviki"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "disillusionment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disillusionment",
+    "n2": "disillusionments",
+    "n3": "the disillusionment",
+    "n4": "the disillusionments",
+    "n5": "disillusionment's",
+    "n6": "disillusionments'",
+    "n7": "a disillusionment",
+    "n8": "many disillusionments"
+}

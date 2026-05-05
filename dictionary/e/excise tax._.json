@@ -1,0 +1,18 @@
+{
+    "base": "excise tax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "excise tax",
+    "n2": "excise taxes",
+    "n3": "the excise tax",
+    "n4": "the excise taxes",
+    "n5": "excise tax's",
+    "n6": "excise taxes'",
+    "n7": "an excise tax",
+    "n8": "many excise taxes"
+}

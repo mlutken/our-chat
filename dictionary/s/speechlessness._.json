@@ -1,0 +1,18 @@
+{
+    "base": "speechlessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "speechlessness",
+    "n2": "speechlessnesses",
+    "n3": "the speechlessness",
+    "n4": "the speechlessnesses",
+    "n5": "speechlessness'",
+    "n6": "speechlessnesses'",
+    "n7": "a speechlessness",
+    "n8": "many speechlessnesses"
+}

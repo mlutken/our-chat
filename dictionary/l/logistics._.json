@@ -1,0 +1,18 @@
+{
+    "base": "logistics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "logistics",
+    "n2": "logisticses",
+    "n3": "the logistics",
+    "n4": "the logisticses",
+    "n5": "logistics'",
+    "n6": "logisticses'",
+    "n7": "a logistics",
+    "n8": "many logisticses"
+}

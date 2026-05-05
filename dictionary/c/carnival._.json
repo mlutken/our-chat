@@ -1,0 +1,18 @@
+{
+    "base": "carnival",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carnival",
+    "n2": "carnivals",
+    "n3": "the carnival",
+    "n4": "the carnivals",
+    "n5": "carnival's",
+    "n6": "carnivals'",
+    "n7": "a carnival",
+    "n8": "many carnivals"
+}

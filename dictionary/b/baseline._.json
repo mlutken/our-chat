@@ -1,0 +1,18 @@
+{
+    "base": "baseline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "baseline",
+    "n2": "baselines",
+    "n3": "the baseline",
+    "n4": "the baselines",
+    "n5": "baseline's",
+    "n6": "baselines'",
+    "n7": "a baseline",
+    "n8": "many baselines"
+}

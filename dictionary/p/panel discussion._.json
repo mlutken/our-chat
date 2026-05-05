@@ -1,0 +1,18 @@
+{
+    "base": "panel discussion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "panel discussion",
+    "n2": "panel discussions",
+    "n3": "the panel discussion",
+    "n4": "the panel discussions",
+    "n5": "panel discussion's",
+    "n6": "panel discussions'",
+    "n7": "a panel discussion",
+    "n8": "many panel discussions"
+}

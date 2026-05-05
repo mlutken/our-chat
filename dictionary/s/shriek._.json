@@ -1,0 +1,18 @@
+{
+    "base": "shriek",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "shriek",
+    "n2": "shrieks",
+    "n3": "the shriek",
+    "n4": "the shrieks",
+    "n5": "shriek's",
+    "n6": "shrieks'",
+    "n7": "a shriek",
+    "n8": "many shrieks"
+}

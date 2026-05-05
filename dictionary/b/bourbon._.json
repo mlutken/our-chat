@@ -1,0 +1,18 @@
+{
+    "base": "bourbon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bourbon",
+    "n2": "bourbons",
+    "n3": "the bourbon",
+    "n4": "the bourbons",
+    "n5": "bourbon's",
+    "n6": "bourbons'",
+    "n7": "a bourbon",
+    "n8": "many bourbons"
+}

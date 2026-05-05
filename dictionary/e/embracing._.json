@@ -1,0 +1,18 @@
+{
+    "base": "embracing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "embracing",
+    "n2": "embracings",
+    "n3": "the embracing",
+    "n4": "the embracings",
+    "n5": "embracing's",
+    "n6": "embracings'",
+    "n7": "an embracing",
+    "n8": "many embracings"
+}

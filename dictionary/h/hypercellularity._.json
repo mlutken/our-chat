@@ -1,0 +1,18 @@
+{
+    "base": "hypercellularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hypercellularity",
+    "n2": "hypercellularities",
+    "n3": "the hypercellularity",
+    "n4": "the hypercellularities",
+    "n5": "hypercellularity's",
+    "n6": "hypercellularities'",
+    "n7": "a hypercellularity",
+    "n8": "many hypercellularities"
+}

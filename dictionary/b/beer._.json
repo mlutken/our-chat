@@ -7,5 +7,12 @@
     "n2": "beers",
     "n3": "the beer",
     "n4": "the beers",
-    "n5": "beer's"
+    "n5": "beer's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "beers'",
+    "n7": "a beer",
+    "n8": "many beers"
 }

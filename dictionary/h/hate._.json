@@ -1,11 +1,24 @@
 {
     "base": "hate",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "hate",
     "v2": "hated",
     "v3": "hated",
     "v4": "hating",
-    "v5": "hates"
+    "v5": "hates",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "hate",
+    "n2": "hates",
+    "n3": "the hate",
+    "n4": "the hates",
+    "n5": "hate's",
+    "n6": "hates'",
+    "n7": "a hate",
+    "n8": "many hates"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "juxtaposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "juxtaposition",
+    "n2": "juxtapositions",
+    "n3": "the juxtaposition",
+    "n4": "the juxtapositions",
+    "n5": "juxtaposition's",
+    "n6": "juxtapositions'",
+    "n7": "a juxtaposition",
+    "n8": "many juxtapositions"
+}

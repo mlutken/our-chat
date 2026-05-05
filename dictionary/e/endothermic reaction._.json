@@ -1,0 +1,18 @@
+{
+    "base": "endothermic reaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "endothermic reaction",
+    "n2": "endothermic reactions",
+    "n3": "the endothermic reaction",
+    "n4": "the endothermic reactions",
+    "n5": "endothermic reaction's",
+    "n6": "endothermic reactions'",
+    "n7": "an endothermic reaction",
+    "n8": "many endothermic reactions"
+}

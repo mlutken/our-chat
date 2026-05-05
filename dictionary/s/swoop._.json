@@ -1,0 +1,18 @@
+{
+    "base": "swoop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swoop",
+    "n2": "swoops",
+    "n3": "the swoop",
+    "n4": "the swoops",
+    "n5": "swoop's",
+    "n6": "swoops'",
+    "n7": "a swoop",
+    "n8": "many swoops"
+}

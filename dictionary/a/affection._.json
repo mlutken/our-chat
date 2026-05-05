@@ -1,0 +1,18 @@
+{
+    "base": "affection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "affection",
+    "n2": "affections",
+    "n3": "the affection",
+    "n4": "the affections",
+    "n5": "affection's",
+    "n6": "affections'",
+    "n7": "an affection",
+    "n8": "many affections"
+}

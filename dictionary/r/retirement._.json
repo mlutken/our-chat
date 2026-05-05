@@ -1,0 +1,18 @@
+{
+    "base": "retirement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "retirement",
+    "n2": "retirements",
+    "n3": "the retirement",
+    "n4": "the retirements",
+    "n5": "retirement's",
+    "n6": "retirements'",
+    "n7": "a retirement",
+    "n8": "many retirements"
+}

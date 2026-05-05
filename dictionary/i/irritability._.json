@@ -1,0 +1,18 @@
+{
+    "base": "irritability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "irritability",
+    "n2": "irritabilities",
+    "n3": "the irritability",
+    "n4": "the irritabilities",
+    "n5": "irritability's",
+    "n6": "irritabilities'",
+    "n7": "an irritability",
+    "n8": "many irritabilities"
+}

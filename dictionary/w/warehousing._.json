@@ -1,0 +1,18 @@
+{
+    "base": "warehousing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "warehousing",
+    "n2": "warehousings",
+    "n3": "the warehousing",
+    "n4": "the warehousings",
+    "n5": "warehousing's",
+    "n6": "warehousings'",
+    "n7": "a warehousing",
+    "n8": "many warehousings"
+}

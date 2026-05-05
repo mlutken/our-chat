@@ -1,11 +1,24 @@
 {
     "base": "bubble",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "bubble",
     "v2": "bubbled",
     "v3": "bubbled",
     "v4": "bubbling",
-    "v5": "bubbles"
+    "v5": "bubbles",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bubble",
+    "n2": "bubbles",
+    "n3": "the bubble",
+    "n4": "the bubbles",
+    "n5": "bubble's",
+    "n6": "bubbles'",
+    "n7": "a bubble",
+    "n8": "many bubbles"
 }

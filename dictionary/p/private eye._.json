@@ -1,0 +1,18 @@
+{
+    "base": "private eye",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "private eye",
+    "n2": "private eyes",
+    "n3": "the private eye",
+    "n4": "the private eyes",
+    "n5": "private eye's",
+    "n6": "private eyes'",
+    "n7": "a private eye",
+    "n8": "many private eyes"
+}

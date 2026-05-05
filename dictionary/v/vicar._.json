@@ -1,0 +1,18 @@
+{
+    "base": "vicar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vicar",
+    "n2": "vicars",
+    "n3": "the vicar",
+    "n4": "the vicars",
+    "n5": "vicar's",
+    "n6": "vicars'",
+    "n7": "a vicar",
+    "n8": "many vicars"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "roleplaying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "roleplaying",
+    "n2": "roleplayings",
+    "n3": "the roleplaying",
+    "n4": "the roleplayings",
+    "n5": "roleplaying's",
+    "n6": "roleplayings'",
+    "n7": "a roleplaying",
+    "n8": "many roleplayings"
+}

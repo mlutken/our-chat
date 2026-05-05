@@ -1,0 +1,18 @@
+{
+    "base": "relief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n1": "relief",
+    "n2": "relieves",
+    "n3": "the relief",
+    "n4": "the relieves",
+    "n5": "relief's",
+    "n6": "relieves'",
+    "n7": "a relief",
+    "n8": "many relieves"
+}

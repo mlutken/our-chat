@@ -1,0 +1,18 @@
+{
+    "base": "sensor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "sensor",
+    "n2": "sensors",
+    "n3": "the sensor",
+    "n4": "the sensors",
+    "n5": "sensor's",
+    "n6": "sensors'",
+    "n7": "a sensor",
+    "n8": "many sensors"
+}

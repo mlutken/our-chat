@@ -1,0 +1,18 @@
+{
+    "base": "academic program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "academic program",
+    "n2": "academic programs",
+    "n3": "the academic program",
+    "n4": "the academic programs",
+    "n5": "academic program's",
+    "n6": "academic programs'",
+    "n7": "an academic program",
+    "n8": "many academic programs"
+}

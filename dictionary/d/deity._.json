@@ -1,0 +1,18 @@
+{
+    "base": "deity",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deity",
+    "n2": "deities",
+    "n3": "the deity",
+    "n4": "the deities",
+    "n5": "deity's",
+    "n6": "deities'",
+    "n7": "a deity",
+    "n8": "many deities"
+}

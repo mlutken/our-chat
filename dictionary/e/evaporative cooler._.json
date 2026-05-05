@@ -1,0 +1,18 @@
+{
+    "base": "evaporative cooler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "evaporative cooler",
+    "n2": "evaporative coolers",
+    "n3": "the evaporative cooler",
+    "n4": "the evaporative coolers",
+    "n5": "evaporative cooler's",
+    "n6": "evaporative coolers'",
+    "n7": "an evaporative cooler",
+    "n8": "many evaporative coolers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "inversion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inversion",
+    "n2": "inversions",
+    "n3": "the inversion",
+    "n4": "the inversions",
+    "n5": "inversion's",
+    "n6": "inversions'",
+    "n7": "an inversion",
+    "n8": "many inversions"
+}

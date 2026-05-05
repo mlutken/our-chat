@@ -7,5 +7,12 @@
     "n2": "quizzes",
     "n3": "the quiz",
     "n4": "the quizzes",
-    "n5": "quiz's"
+    "n5": "quiz's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "quizzes'",
+    "n7": "a quiz",
+    "n8": "many quizzes"
 }

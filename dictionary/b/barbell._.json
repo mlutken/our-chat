@@ -1,0 +1,18 @@
+{
+    "base": "barbell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "barbell",
+    "n2": "barbells",
+    "n3": "the barbell",
+    "n4": "the barbells",
+    "n5": "barbell's",
+    "n6": "barbells'",
+    "n7": "a barbell",
+    "n8": "many barbells"
+}

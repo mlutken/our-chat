@@ -1,0 +1,18 @@
+{
+    "base": "green bean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "green bean",
+    "n2": "green beans",
+    "n3": "the green bean",
+    "n4": "the green beans",
+    "n5": "green bean's",
+    "n6": "green beans'",
+    "n7": "a green bean",
+    "n8": "many green beans"
+}

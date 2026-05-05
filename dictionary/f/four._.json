@@ -1,0 +1,18 @@
+{
+    "base": "four",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "four",
+    "n2": "fours",
+    "n3": "the four",
+    "n4": "the fours",
+    "n5": "four's",
+    "n6": "fours'",
+    "n7": "a four",
+    "n8": "many fours"
+}

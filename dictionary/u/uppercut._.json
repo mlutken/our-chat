@@ -1,0 +1,18 @@
+{
+    "base": "uppercut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "uppercut",
+    "n2": "uppercuts",
+    "n3": "the uppercut",
+    "n4": "the uppercuts",
+    "n5": "uppercut's",
+    "n6": "uppercuts'",
+    "n7": "an uppercut",
+    "n8": "many uppercuts"
+}

@@ -7,5 +7,12 @@
     "n2": "writers",
     "n3": "the writer",
     "n4": "the writers",
-    "n5": "writer's"
+    "n5": "writer's",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "writers'",
+    "n7": "a writer",
+    "n8": "many writers"
 }

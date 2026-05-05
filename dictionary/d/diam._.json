@@ -1,0 +1,18 @@
+{
+    "base": "diam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "diam",
+    "n2": "diams",
+    "n3": "the diam",
+    "n4": "the diams",
+    "n5": "diam's",
+    "n6": "diams'",
+    "n7": "a diam",
+    "n8": "many diams"
+}

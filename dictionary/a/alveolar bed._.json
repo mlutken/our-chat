@@ -1,0 +1,18 @@
+{
+    "base": "alveolar bed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alveolar bed",
+    "n2": "alveolar beds",
+    "n3": "the alveolar bed",
+    "n4": "the alveolar beds",
+    "n5": "alveolar bed's",
+    "n6": "alveolar beds'",
+    "n7": "an alveolar bed",
+    "n8": "many alveolar beds"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "patriotism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "patriotism",
+    "n2": "patriotisms",
+    "n3": "the patriotism",
+    "n4": "the patriotisms",
+    "n5": "patriotism's",
+    "n6": "patriotisms'",
+    "n7": "a patriotism",
+    "n8": "many patriotisms"
+}

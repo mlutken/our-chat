@@ -1,0 +1,18 @@
+{
+    "base": "poison",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "poison",
+    "n2": "poisons",
+    "n3": "the poison",
+    "n4": "the poisons",
+    "n5": "poison's",
+    "n6": "poisons'",
+    "n7": "a poison",
+    "n8": "many poisons"
+}

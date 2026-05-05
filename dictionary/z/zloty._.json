@@ -1,0 +1,18 @@
+{
+    "base": "zloty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zloty",
+    "n2": "zloties",
+    "n3": "the zloty",
+    "n4": "the zloties",
+    "n5": "zloty's",
+    "n6": "zloties'",
+    "n7": "a zloty",
+    "n8": "many zloties"
+}

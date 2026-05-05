@@ -1,0 +1,18 @@
+{
+    "base": "grenade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "grenade",
+    "n2": "grenades",
+    "n3": "the grenade",
+    "n4": "the grenades",
+    "n5": "grenade's",
+    "n6": "grenades'",
+    "n7": "a grenade",
+    "n8": "many grenades"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "capital stock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "capital stock",
+    "n2": "capital stocks",
+    "n3": "the capital stock",
+    "n4": "the capital stocks",
+    "n5": "capital stock's",
+    "n6": "capital stocks'",
+    "n7": "a capital stock",
+    "n8": "many capital stocks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "prince",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prince",
+    "n2": "princes",
+    "n3": "the prince",
+    "n4": "the princes",
+    "n5": "prince's",
+    "n6": "princes'",
+    "n7": "a prince",
+    "n8": "many princes"
+}

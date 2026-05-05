@@ -1,0 +1,18 @@
+{
+    "base": "bribe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bribe",
+    "n2": "bribes",
+    "n3": "the bribe",
+    "n4": "the bribes",
+    "n5": "bribe's",
+    "n6": "bribes'",
+    "n7": "a bribe",
+    "n8": "many bribes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shortage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "shortage",
+    "n2": "shortages",
+    "n3": "the shortage",
+    "n4": "the shortages",
+    "n5": "shortage's",
+    "n6": "shortages'",
+    "n7": "a shortage",
+    "n8": "many shortages"
+}

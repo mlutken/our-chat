@@ -1,0 +1,18 @@
+{
+    "base": "foam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "foam",
+    "n2": "foams",
+    "n3": "the foam",
+    "n4": "the foams",
+    "n5": "foam's",
+    "n6": "foams'",
+    "n7": "a foam",
+    "n8": "many foams"
+}

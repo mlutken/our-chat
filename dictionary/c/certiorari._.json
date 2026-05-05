@@ -1,0 +1,18 @@
+{
+    "base": "certiorari",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "certiorari",
+    "n2": "certioraris",
+    "n3": "the certiorari",
+    "n4": "the certioraris",
+    "n5": "certiorari's",
+    "n6": "certioraris'",
+    "n7": "a certiorari",
+    "n8": "many certioraris"
+}

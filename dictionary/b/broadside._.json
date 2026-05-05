@@ -1,0 +1,18 @@
+{
+    "base": "broadside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "broadside",
+    "n2": "broadsides",
+    "n3": "the broadside",
+    "n4": "the broadsides",
+    "n5": "broadside's",
+    "n6": "broadsides'",
+    "n7": "a broadside",
+    "n8": "many broadsides"
+}

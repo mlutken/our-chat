@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "clothes",
-    "n2": "clothes",
+    "n2": "clotheses",
     "n3": "the clothes",
-    "n4": "the clothes",
-    "n5": "clothes's"
+    "n4": "the clotheses",
+    "n5": "clothes'",
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n6": "clotheses'",
+    "n7": "a clothes",
+    "n8": "many clotheses"
 }

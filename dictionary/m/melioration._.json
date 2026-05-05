@@ -1,0 +1,18 @@
+{
+    "base": "melioration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "melioration",
+    "n2": "meliorations",
+    "n3": "the melioration",
+    "n4": "the meliorations",
+    "n5": "melioration's",
+    "n6": "meliorations'",
+    "n7": "a melioration",
+    "n8": "many meliorations"
+}

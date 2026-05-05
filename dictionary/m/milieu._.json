@@ -1,0 +1,18 @@
+{
+    "base": "milieu",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "milieu",
+    "n2": "milieux",
+    "n3": "the milieu",
+    "n4": "the milieux",
+    "n5": "milieu's",
+    "n6": "milieux's",
+    "n7": "a milieu",
+    "n8": "many milieux"
+}

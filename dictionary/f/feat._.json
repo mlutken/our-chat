@@ -1,0 +1,18 @@
+{
+    "base": "feat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "feat",
+    "n2": "feats",
+    "n3": "the feat",
+    "n4": "the feats",
+    "n5": "feat's",
+    "n6": "feats'",
+    "n7": "a feat",
+    "n8": "many feats"
+}

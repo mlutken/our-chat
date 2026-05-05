@@ -1,0 +1,18 @@
+{
+    "base": "champ",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "champ",
+    "n2": "champs",
+    "n3": "the champ",
+    "n4": "the champs",
+    "n5": "champ's",
+    "n6": "champs'",
+    "n7": "a champ",
+    "n8": "many champs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "biophysicist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "biophysicist",
+    "n2": "biophysicists",
+    "n3": "the biophysicist",
+    "n4": "the biophysicists",
+    "n5": "biophysicist's",
+    "n6": "biophysicists'",
+    "n7": "a biophysicist",
+    "n8": "many biophysicists"
+}

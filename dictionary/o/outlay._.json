@@ -1,0 +1,18 @@
+{
+    "base": "outlay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outlay",
+    "n2": "outlays",
+    "n3": "the outlay",
+    "n4": "the outlays",
+    "n5": "outlay's",
+    "n6": "outlays'",
+    "n7": "an outlay",
+    "n8": "many outlays"
+}

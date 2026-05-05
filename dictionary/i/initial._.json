@@ -1,0 +1,18 @@
+{
+    "base": "initial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "initial",
+    "n2": "initials",
+    "n3": "the initial",
+    "n4": "the initials",
+    "n5": "initial's",
+    "n6": "initials'",
+    "n7": "an initial",
+    "n8": "many initials"
+}

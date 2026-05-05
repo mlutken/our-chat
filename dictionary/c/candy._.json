@@ -1,0 +1,18 @@
+{
+    "base": "candy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "candy",
+    "n2": "candies",
+    "n3": "the candy",
+    "n4": "the candies",
+    "n5": "candy's",
+    "n6": "candies'",
+    "n7": "a candy",
+    "n8": "many candies"
+}

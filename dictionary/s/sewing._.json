@@ -1,0 +1,18 @@
+{
+    "base": "sewing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sewing",
+    "n2": "sewings",
+    "n3": "the sewing",
+    "n4": "the sewings",
+    "n5": "sewing's",
+    "n6": "sewings'",
+    "n7": "a sewing",
+    "n8": "many sewings"
+}

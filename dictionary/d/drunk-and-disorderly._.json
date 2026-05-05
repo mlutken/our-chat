@@ -1,0 +1,18 @@
+{
+    "base": "drunk-and-disorderly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drunk-and-disorderly",
+    "n2": "drunk-and-disorderlies",
+    "n3": "the drunk-and-disorderly",
+    "n4": "the drunk-and-disorderlies",
+    "n5": "drunk-and-disorderly's",
+    "n6": "drunk-and-disorderlies'",
+    "n7": "a drunk-and-disorderly",
+    "n8": "many drunk-and-disorderlies"
+}

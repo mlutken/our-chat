@@ -1,0 +1,18 @@
+{
+    "base": "lefty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lefty",
+    "n2": "lefties",
+    "n3": "the lefty",
+    "n4": "the lefties",
+    "n5": "lefty's",
+    "n6": "lefties'",
+    "n7": "a lefty",
+    "n8": "many lefties"
+}

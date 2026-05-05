@@ -1,0 +1,18 @@
+{
+    "base": "platonism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "platonism",
+    "n2": "platonisms",
+    "n3": "the platonism",
+    "n4": "the platonisms",
+    "n5": "platonism's",
+    "n6": "platonisms'",
+    "n7": "a platonism",
+    "n8": "many platonisms"
+}

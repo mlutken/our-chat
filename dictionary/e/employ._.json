@@ -1,11 +1,24 @@
 {
     "base": "employ",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "employ",
     "v2": "employed",
     "v3": "employed",
     "v4": "employing",
-    "v5": "employs"
+    "v5": "employs",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "employ",
+    "n2": "employs",
+    "n3": "the employ",
+    "n4": "the employs",
+    "n5": "employ's",
+    "n6": "employs'",
+    "n7": "an employ",
+    "n8": "many employs"
 }

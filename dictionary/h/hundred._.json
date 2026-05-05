@@ -1,0 +1,18 @@
+{
+    "base": "hundred",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "hundred",
+    "n2": "hundreds",
+    "n3": "the hundred",
+    "n4": "the hundreds",
+    "n5": "hundred's",
+    "n6": "hundreds'",
+    "n7": "a hundred",
+    "n8": "many hundreds"
+}

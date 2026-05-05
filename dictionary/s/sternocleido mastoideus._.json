@@ -1,0 +1,18 @@
+{
+    "base": "sternocleido mastoideus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sternocleido mastoideus",
+    "n2": "sternocleido mastoideuses",
+    "n3": "the sternocleido mastoideus",
+    "n4": "the sternocleido mastoideuses",
+    "n5": "sternocleido mastoideus'",
+    "n6": "sternocleido mastoideuses'",
+    "n7": "a sternocleido mastoideus",
+    "n8": "many sternocleido mastoideuses"
+}

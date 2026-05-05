@@ -1,0 +1,18 @@
+{
+    "base": "gas stove",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gas stove",
+    "n2": "gas stoves",
+    "n3": "the gas stove",
+    "n4": "the gas stoves",
+    "n5": "gas stove's",
+    "n6": "gas stoves'",
+    "n7": "a gas stove",
+    "n8": "many gas stoves"
+}

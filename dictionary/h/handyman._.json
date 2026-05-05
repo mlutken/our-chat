@@ -1,0 +1,18 @@
+{
+    "base": "handyman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "handyman",
+    "n2": "handymen",
+    "n3": "the handyman",
+    "n4": "the handymen",
+    "n5": "handyman's",
+    "n6": "handymen's",
+    "n7": "a handyman",
+    "n8": "many handymen"
+}

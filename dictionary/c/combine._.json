@@ -1,0 +1,18 @@
+{
+    "base": "combine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "combine",
+    "n2": "combines",
+    "n3": "the combine",
+    "n4": "the combines",
+    "n5": "combine's",
+    "n6": "combines'",
+    "n7": "a combine",
+    "n8": "many combines"
+}

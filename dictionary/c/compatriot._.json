@@ -1,0 +1,18 @@
+{
+    "base": "compatriot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "compatriot",
+    "n2": "compatriots",
+    "n3": "the compatriot",
+    "n4": "the compatriots",
+    "n5": "compatriot's",
+    "n6": "compatriots'",
+    "n7": "a compatriot",
+    "n8": "many compatriots"
+}

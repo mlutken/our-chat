@@ -1,0 +1,18 @@
+{
+    "base": "complexity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "complexity",
+    "n2": "complexities",
+    "n3": "the complexity",
+    "n4": "the complexities",
+    "n5": "complexity's",
+    "n6": "complexities'",
+    "n7": "a complexity",
+    "n8": "many complexities"
+}

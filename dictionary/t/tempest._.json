@@ -1,0 +1,18 @@
+{
+    "base": "tempest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tempest",
+    "n2": "tempests",
+    "n3": "the tempest",
+    "n4": "the tempests",
+    "n5": "tempest's",
+    "n6": "tempests'",
+    "n7": "a tempest",
+    "n8": "many tempests"
+}

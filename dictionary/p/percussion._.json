@@ -1,0 +1,18 @@
+{
+    "base": "percussion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "percussion",
+    "n2": "percussions",
+    "n3": "the percussion",
+    "n4": "the percussions",
+    "n5": "percussion's",
+    "n6": "percussions'",
+    "n7": "a percussion",
+    "n8": "many percussions"
+}

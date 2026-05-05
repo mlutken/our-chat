@@ -1,0 +1,18 @@
+{
+    "base": "chess set",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chess set",
+    "n2": "chess sets",
+    "n3": "the chess set",
+    "n4": "the chess sets",
+    "n5": "chess set's",
+    "n6": "chess sets'",
+    "n7": "a chess set",
+    "n8": "many chess sets"
+}

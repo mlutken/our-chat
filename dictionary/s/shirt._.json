@@ -7,5 +7,12 @@
     "n2": "shirts",
     "n3": "the shirt",
     "n4": "the shirts",
-    "n5": "shirt's"
+    "n5": "shirt's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "shirts'",
+    "n7": "a shirt",
+    "n8": "many shirts"
 }

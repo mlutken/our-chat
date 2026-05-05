@@ -1,0 +1,18 @@
+{
+    "base": "footpath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "footpath",
+    "n2": "footpaths",
+    "n3": "the footpath",
+    "n4": "the footpaths",
+    "n5": "footpath's",
+    "n6": "footpaths'",
+    "n7": "a footpath",
+    "n8": "many footpaths"
+}

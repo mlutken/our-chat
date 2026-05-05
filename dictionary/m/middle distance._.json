@@ -1,0 +1,18 @@
+{
+    "base": "middle distance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "middle distance",
+    "n2": "middle distances",
+    "n3": "the middle distance",
+    "n4": "the middle distances",
+    "n5": "middle distance's",
+    "n6": "middle distances'",
+    "n7": "a middle distance",
+    "n8": "many middle distances"
+}

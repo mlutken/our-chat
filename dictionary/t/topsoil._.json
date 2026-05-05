@@ -1,0 +1,18 @@
+{
+    "base": "topsoil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "topsoil",
+    "n2": "topsoils",
+    "n3": "the topsoil",
+    "n4": "the topsoils",
+    "n5": "topsoil's",
+    "n6": "topsoils'",
+    "n7": "a topsoil",
+    "n8": "many topsoils"
+}

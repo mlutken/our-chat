@@ -1,0 +1,18 @@
+{
+    "base": "new york",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n1": "new york",
+    "n2": "new yorks",
+    "n3": "the new york",
+    "n4": "the new yorks",
+    "n5": "new york's",
+    "n6": "new yorks'",
+    "n7": "a new york",
+    "n8": "many new yorks"
+}

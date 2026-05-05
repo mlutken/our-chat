@@ -1,0 +1,18 @@
+{
+    "base": "cooking utensil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cooking utensil",
+    "n2": "cooking utensils",
+    "n3": "the cooking utensil",
+    "n4": "the cooking utensils",
+    "n5": "cooking utensil's",
+    "n6": "cooking utensils'",
+    "n7": "a cooking utensil",
+    "n8": "many cooking utensils"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "crutch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "crutch",
+    "n2": "crutches",
+    "n3": "the crutch",
+    "n4": "the crutches",
+    "n5": "crutch's",
+    "n6": "crutches'",
+    "n7": "a crutch",
+    "n8": "many crutches"
+}

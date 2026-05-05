@@ -1,0 +1,18 @@
+{
+    "base": "gentry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gentry",
+    "n2": "gentries",
+    "n3": "the gentry",
+    "n4": "the gentries",
+    "n5": "gentry's",
+    "n6": "gentries'",
+    "n7": "a gentry",
+    "n8": "many gentries"
+}

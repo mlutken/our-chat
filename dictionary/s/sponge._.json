@@ -1,0 +1,18 @@
+{
+    "base": "sponge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sponge",
+    "n2": "sponges",
+    "n3": "the sponge",
+    "n4": "the sponges",
+    "n5": "sponge's",
+    "n6": "sponges'",
+    "n7": "a sponge",
+    "n8": "many sponges"
+}

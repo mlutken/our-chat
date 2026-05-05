@@ -1,0 +1,18 @@
+{
+    "base": "rabbit warren",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rabbit warren",
+    "n2": "rabbit warrens",
+    "n3": "the rabbit warren",
+    "n4": "the rabbit warrens",
+    "n5": "rabbit warren's",
+    "n6": "rabbit warrens'",
+    "n7": "a rabbit warren",
+    "n8": "many rabbit warrens"
+}

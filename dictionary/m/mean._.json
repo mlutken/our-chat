@@ -1,0 +1,18 @@
+{
+    "base": "mean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "mean",
+    "n2": "means",
+    "n3": "the mean",
+    "n4": "the means",
+    "n5": "mean's",
+    "n6": "means'",
+    "n7": "a mean",
+    "n8": "many means"
+}

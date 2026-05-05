@@ -7,5 +7,12 @@
     "n2": "impacts",
     "n3": "the impact",
     "n4": "the impacts",
-    "n5": "impact's"
+    "n5": "impact's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "impacts'",
+    "n7": "an impact",
+    "n8": "many impacts"
 }

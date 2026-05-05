@@ -1,0 +1,18 @@
+{
+    "base": "attainment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "attainment",
+    "n2": "attainments",
+    "n3": "the attainment",
+    "n4": "the attainments",
+    "n5": "attainment's",
+    "n6": "attainments'",
+    "n7": "an attainment",
+    "n8": "many attainments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "inundation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inundation",
+    "n2": "inundations",
+    "n3": "the inundation",
+    "n4": "the inundations",
+    "n5": "inundation's",
+    "n6": "inundations'",
+    "n7": "an inundation",
+    "n8": "many inundations"
+}

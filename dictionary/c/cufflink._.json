@@ -1,0 +1,18 @@
+{
+    "base": "cufflink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cufflink",
+    "n2": "cufflinks",
+    "n3": "the cufflink",
+    "n4": "the cufflinks",
+    "n5": "cufflink's",
+    "n6": "cufflinks'",
+    "n7": "a cufflink",
+    "n8": "many cufflinks"
+}

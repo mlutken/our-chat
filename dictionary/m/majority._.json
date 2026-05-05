@@ -7,5 +7,12 @@
     "n2": "majorities",
     "n3": "the majority",
     "n4": "the majorities",
-    "n5": "majority's"
+    "n5": "majority's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "majorities'",
+    "n7": "a majority",
+    "n8": "many majorities"
 }

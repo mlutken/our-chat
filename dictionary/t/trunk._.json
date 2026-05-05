@@ -1,0 +1,18 @@
+{
+    "base": "trunk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "trunk",
+    "n2": "trunks",
+    "n3": "the trunk",
+    "n4": "the trunks",
+    "n5": "trunk's",
+    "n6": "trunks'",
+    "n7": "a trunk",
+    "n8": "many trunks"
+}

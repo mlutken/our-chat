@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "sympathy",
-    "n2": "sympathys",
+    "n2": "sympathies",
     "n3": "the sympathy",
-    "n4": "the sympathys",
-    "n5": "sympathy's"
+    "n4": "the sympathies",
+    "n5": "sympathy's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "sympathies'",
+    "n7": "a sympathy",
+    "n8": "many sympathies"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "symphony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "symphony",
+    "n2": "symphonies",
+    "n3": "the symphony",
+    "n4": "the symphonies",
+    "n5": "symphony's",
+    "n6": "symphonies'",
+    "n7": "a symphony",
+    "n8": "many symphonies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "decor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "decor",
+    "n2": "decors",
+    "n3": "the decor",
+    "n4": "the decors",
+    "n5": "decor's",
+    "n6": "decors'",
+    "n7": "a decor",
+    "n8": "many decors"
+}

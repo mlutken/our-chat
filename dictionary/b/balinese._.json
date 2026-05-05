@@ -1,0 +1,18 @@
+{
+    "base": "balinese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balinese",
+    "n2": "balineses",
+    "n3": "the balinese",
+    "n4": "the balineses",
+    "n5": "balinese's",
+    "n6": "balineses'",
+    "n7": "a balinese",
+    "n8": "many balineses"
+}

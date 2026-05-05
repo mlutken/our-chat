@@ -1,0 +1,18 @@
+{
+    "base": "mental case",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mental case",
+    "n2": "mental cases",
+    "n3": "the mental case",
+    "n4": "the mental cases",
+    "n5": "mental case's",
+    "n6": "mental cases'",
+    "n7": "a mental case",
+    "n8": "many mental cases"
+}

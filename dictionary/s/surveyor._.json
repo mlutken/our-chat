@@ -1,0 +1,18 @@
+{
+    "base": "surveyor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "surveyor",
+    "n2": "surveyors",
+    "n3": "the surveyor",
+    "n4": "the surveyors",
+    "n5": "surveyor's",
+    "n6": "surveyors'",
+    "n7": "a surveyor",
+    "n8": "many surveyors"
+}

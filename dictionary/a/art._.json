@@ -7,5 +7,12 @@
     "n2": "arts",
     "n3": "the art",
     "n4": "the arts",
-    "n5": "art's"
+    "n5": "art's",
+    "proper": false,
+    "commonness": 74,
+    "max_commonness": 6834,
+    "commonness_ge_count": 185,
+    "n6": "arts'",
+    "n7": "an art",
+    "n8": "many arts"
 }

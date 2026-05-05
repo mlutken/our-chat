@@ -1,0 +1,18 @@
+{
+    "base": "devotee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "devotee",
+    "n2": "devotees",
+    "n3": "the devotee",
+    "n4": "the devotees",
+    "n5": "devotee's",
+    "n6": "devotees'",
+    "n7": "a devotee",
+    "n8": "many devotees"
+}

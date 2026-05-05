@@ -1,0 +1,18 @@
+{
+    "base": "totality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "totality",
+    "n2": "totalities",
+    "n3": "the totality",
+    "n4": "the totalities",
+    "n5": "totality's",
+    "n6": "totalities'",
+    "n7": "a totality",
+    "n8": "many totalities"
+}

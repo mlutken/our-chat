@@ -1,0 +1,18 @@
+{
+    "base": "growing season",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "growing season",
+    "n2": "growing seasons",
+    "n3": "the growing season",
+    "n4": "the growing seasons",
+    "n5": "growing season's",
+    "n6": "growing seasons'",
+    "n7": "a growing season",
+    "n8": "many growing seasons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "froth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "froth",
+    "n2": "froths",
+    "n3": "the froth",
+    "n4": "the froths",
+    "n5": "froth's",
+    "n6": "froths'",
+    "n7": "a froth",
+    "n8": "many froths"
+}

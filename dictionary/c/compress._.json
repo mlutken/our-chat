@@ -1,0 +1,18 @@
+{
+    "base": "compress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "compress",
+    "n2": "compresses",
+    "n3": "the compress",
+    "n4": "the compresses",
+    "n5": "compress'",
+    "n6": "compresses'",
+    "n7": "a compress",
+    "n8": "many compresses"
+}

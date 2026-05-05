@@ -1,0 +1,18 @@
+{
+    "base": "ballroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ballroom",
+    "n2": "ballrooms",
+    "n3": "the ballroom",
+    "n4": "the ballrooms",
+    "n5": "ballroom's",
+    "n6": "ballrooms'",
+    "n7": "a ballroom",
+    "n8": "many ballrooms"
+}

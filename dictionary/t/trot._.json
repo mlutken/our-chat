@@ -1,11 +1,24 @@
 {
     "base": "trot",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trot",
     "v2": "trotted",
     "v3": "trotted",
     "v4": "trotting",
-    "v5": "trots"
+    "v5": "trots",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trot",
+    "n2": "trots",
+    "n3": "the trot",
+    "n4": "the trots",
+    "n5": "trot's",
+    "n6": "trots'",
+    "n7": "a trot",
+    "n8": "many trots"
 }

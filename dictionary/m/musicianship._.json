@@ -1,0 +1,18 @@
+{
+    "base": "musicianship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "musicianship",
+    "n2": "musicianships",
+    "n3": "the musicianship",
+    "n4": "the musicianships",
+    "n5": "musicianship's",
+    "n6": "musicianships'",
+    "n7": "a musicianship",
+    "n8": "many musicianships"
+}

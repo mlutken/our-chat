@@ -1,7 +1,20 @@
 {
     "base": "in",
     "classes": [
+        "n",
         "pre"
     ],
-    "f0": "in"
+    "f0": "in",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "in",
+    "n2": "ins",
+    "n3": "the in",
+    "n4": "the ins",
+    "n5": "in's",
+    "n6": "ins'",
+    "n7": "an in",
+    "n8": "many ins"
 }

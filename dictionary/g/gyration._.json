@@ -1,0 +1,18 @@
+{
+    "base": "gyration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gyration",
+    "n2": "gyrations",
+    "n3": "the gyration",
+    "n4": "the gyrations",
+    "n5": "gyration's",
+    "n6": "gyrations'",
+    "n7": "a gyration",
+    "n8": "many gyrations"
+}

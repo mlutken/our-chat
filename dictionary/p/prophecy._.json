@@ -1,0 +1,18 @@
+{
+    "base": "prophecy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "prophecy",
+    "n2": "prophecies",
+    "n3": "the prophecy",
+    "n4": "the prophecies",
+    "n5": "prophecy's",
+    "n6": "prophecies'",
+    "n7": "a prophecy",
+    "n8": "many prophecies"
+}

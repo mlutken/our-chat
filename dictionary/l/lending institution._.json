@@ -1,0 +1,18 @@
+{
+    "base": "lending institution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lending institution",
+    "n2": "lending institutions",
+    "n3": "the lending institution",
+    "n4": "the lending institutions",
+    "n5": "lending institution's",
+    "n6": "lending institutions'",
+    "n7": "a lending institution",
+    "n8": "many lending institutions"
+}

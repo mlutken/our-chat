@@ -1,0 +1,18 @@
+{
+    "base": "hipline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hipline",
+    "n2": "hiplines",
+    "n3": "the hipline",
+    "n4": "the hiplines",
+    "n5": "hipline's",
+    "n6": "hiplines'",
+    "n7": "a hipline",
+    "n8": "many hiplines"
+}

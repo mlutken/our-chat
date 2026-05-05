@@ -1,0 +1,18 @@
+{
+    "base": "hitter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hitter",
+    "n2": "hitters",
+    "n3": "the hitter",
+    "n4": "the hitters",
+    "n5": "hitter's",
+    "n6": "hitters'",
+    "n7": "a hitter",
+    "n8": "many hitters"
+}

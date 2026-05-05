@@ -1,11 +1,24 @@
 {
     "base": "knit",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "knit",
     "v2": "knitted",
     "v3": "knitted",
     "v4": "knitting",
-    "v5": "knits"
+    "v5": "knits",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "knit",
+    "n2": "knits",
+    "n3": "the knit",
+    "n4": "the knits",
+    "n5": "knit's",
+    "n6": "knits'",
+    "n7": "a knit",
+    "n8": "many knits"
 }

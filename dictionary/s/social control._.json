@@ -1,0 +1,18 @@
+{
+    "base": "social control",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "social control",
+    "n2": "social controls",
+    "n3": "the social control",
+    "n4": "the social controls",
+    "n5": "social control's",
+    "n6": "social controls'",
+    "n7": "a social control",
+    "n8": "many social controls"
+}

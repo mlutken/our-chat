@@ -1,0 +1,18 @@
+{
+    "base": "servant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "servant",
+    "n2": "servants",
+    "n3": "the servant",
+    "n4": "the servants",
+    "n5": "servant's",
+    "n6": "servants'",
+    "n7": "a servant",
+    "n8": "many servants"
+}

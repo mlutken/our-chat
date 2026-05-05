@@ -11,5 +11,12 @@
     "n5": "bad's",
     "adj1": "bad",
     "adj2": "worse",
-    "adj3": "worst"
+    "adj3": "worst",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "bads'",
+    "n7": "a bad",
+    "n8": "many bads"
 }

@@ -7,5 +7,12 @@
     "n2": "sessions",
     "n3": "the session",
     "n4": "the sessions",
-    "n5": "session's"
+    "n5": "session's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "sessions'",
+    "n7": "a session",
+    "n8": "many sessions"
 }

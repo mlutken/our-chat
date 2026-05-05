@@ -1,0 +1,18 @@
+{
+    "base": "sundial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sundial",
+    "n2": "sundials",
+    "n3": "the sundial",
+    "n4": "the sundials",
+    "n5": "sundial's",
+    "n6": "sundials'",
+    "n7": "a sundial",
+    "n8": "many sundials"
+}

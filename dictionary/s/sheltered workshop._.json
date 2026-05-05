@@ -1,0 +1,18 @@
+{
+    "base": "sheltered workshop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sheltered workshop",
+    "n2": "sheltered workshops",
+    "n3": "the sheltered workshop",
+    "n4": "the sheltered workshops",
+    "n5": "sheltered workshop's",
+    "n6": "sheltered workshops'",
+    "n7": "a sheltered workshop",
+    "n8": "many sheltered workshops"
+}

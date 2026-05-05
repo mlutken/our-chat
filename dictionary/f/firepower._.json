@@ -1,0 +1,18 @@
+{
+    "base": "firepower",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "firepower",
+    "n2": "firepowers",
+    "n3": "the firepower",
+    "n4": "the firepowers",
+    "n5": "firepower's",
+    "n6": "firepowers'",
+    "n7": "a firepower",
+    "n8": "many firepowers"
+}

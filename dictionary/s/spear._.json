@@ -1,0 +1,18 @@
+{
+    "base": "spear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spear",
+    "n2": "spears",
+    "n3": "the spear",
+    "n4": "the spears",
+    "n5": "spear's",
+    "n6": "spears'",
+    "n7": "a spear",
+    "n8": "many spears"
+}

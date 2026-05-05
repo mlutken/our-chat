@@ -13,5 +13,12 @@
     "v2": "sounded",
     "v3": "sounded",
     "v4": "sounding",
-    "v5": "sounds"
+    "v5": "sounds",
+    "proper": false,
+    "commonness": 81,
+    "max_commonness": 6834,
+    "commonness_ge_count": 162,
+    "n6": "sounds'",
+    "n7": "a sound",
+    "n8": "many sounds"
 }

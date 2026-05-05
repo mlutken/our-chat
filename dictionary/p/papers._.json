@@ -1,0 +1,18 @@
+{
+    "base": "papers",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "papers",
+    "n2": "paperses",
+    "n3": "the papers",
+    "n4": "the paperses",
+    "n5": "papers'",
+    "n6": "paperses'",
+    "n7": "a papers",
+    "n8": "many paperses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "house of prostitution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "house of prostitution",
+    "n2": "house of prostitutions",
+    "n3": "the house of prostitution",
+    "n4": "the house of prostitutions",
+    "n5": "house of prostitution's",
+    "n6": "house of prostitutions'",
+    "n7": "a house of prostitution",
+    "n8": "many house of prostitutions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wedding ceremony",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wedding ceremony",
+    "n2": "wedding ceremonies",
+    "n3": "the wedding ceremony",
+    "n4": "the wedding ceremonies",
+    "n5": "wedding ceremony's",
+    "n6": "wedding ceremonies'",
+    "n7": "a wedding ceremony",
+    "n8": "many wedding ceremonies"
+}

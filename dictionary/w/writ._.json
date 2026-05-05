@@ -1,0 +1,18 @@
+{
+    "base": "writ",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "writ",
+    "n2": "writs",
+    "n3": "the writ",
+    "n4": "the writs",
+    "n5": "writ's",
+    "n6": "writs'",
+    "n7": "a writ",
+    "n8": "many writs"
+}

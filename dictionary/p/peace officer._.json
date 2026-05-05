@@ -1,0 +1,18 @@
+{
+    "base": "peace officer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peace officer",
+    "n2": "peace officers",
+    "n3": "the peace officer",
+    "n4": "the peace officers",
+    "n5": "peace officer's",
+    "n6": "peace officers'",
+    "n7": "a peace officer",
+    "n8": "many peace officers"
+}

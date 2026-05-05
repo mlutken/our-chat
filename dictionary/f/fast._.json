@@ -1,6 +1,7 @@
 {
     "base": "fast",
     "classes": [
+        "n",
         "adv",
         "adj"
     ],
@@ -8,5 +9,17 @@
     "adv_subtype": "manner",
     "adj1": "fast",
     "adj2": "faster",
-    "adj3": "fastest"
+    "adj3": "fastest",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fast",
+    "n2": "fasts",
+    "n3": "the fast",
+    "n4": "the fasts",
+    "n5": "fast's",
+    "n6": "fasts'",
+    "n7": "a fast",
+    "n8": "many fasts"
 }

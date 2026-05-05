@@ -1,0 +1,18 @@
+{
+    "base": "rationalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rationalism",
+    "n2": "rationalisms",
+    "n3": "the rationalism",
+    "n4": "the rationalisms",
+    "n5": "rationalism's",
+    "n6": "rationalisms'",
+    "n7": "a rationalism",
+    "n8": "many rationalisms"
+}

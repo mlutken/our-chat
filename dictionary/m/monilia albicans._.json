@@ -1,0 +1,18 @@
+{
+    "base": "monilia albicans",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monilia albicans",
+    "n2": "monilia albicanses",
+    "n3": "the monilia albicans",
+    "n4": "the monilia albicanses",
+    "n5": "monilia albicans'",
+    "n6": "monilia albicanses'",
+    "n7": "a monilia albicans",
+    "n8": "many monilia albicanses"
+}

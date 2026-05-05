@@ -1,0 +1,18 @@
+{
+    "base": "orderly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "orderly",
+    "n2": "orderlies",
+    "n3": "the orderly",
+    "n4": "the orderlies",
+    "n5": "orderly's",
+    "n6": "orderlies'",
+    "n7": "an orderly",
+    "n8": "many orderlies"
+}

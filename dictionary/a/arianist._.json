@@ -1,0 +1,18 @@
+{
+    "base": "arianist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "arianist",
+    "n2": "arianists",
+    "n3": "the arianist",
+    "n4": "the arianists",
+    "n5": "arianist's",
+    "n6": "arianists'",
+    "n7": "an arianist",
+    "n8": "many arianists"
+}

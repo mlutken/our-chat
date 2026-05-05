@@ -1,0 +1,18 @@
+{
+    "base": "downpour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "downpour",
+    "n2": "downpours",
+    "n3": "the downpour",
+    "n4": "the downpours",
+    "n5": "downpour's",
+    "n6": "downpours'",
+    "n7": "a downpour",
+    "n8": "many downpours"
+}

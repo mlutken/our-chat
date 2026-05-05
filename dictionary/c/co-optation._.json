@@ -1,0 +1,18 @@
+{
+    "base": "co-optation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "co-optation",
+    "n2": "co-optations",
+    "n3": "the co-optation",
+    "n4": "the co-optations",
+    "n5": "co-optation's",
+    "n6": "co-optations'",
+    "n7": "a co-optation",
+    "n8": "many co-optations"
+}

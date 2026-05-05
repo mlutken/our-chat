@@ -1,0 +1,18 @@
+{
+    "base": "fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "fever",
+    "n2": "fevers",
+    "n3": "the fever",
+    "n4": "the fevers",
+    "n5": "fever's",
+    "n6": "fevers'",
+    "n7": "a fever",
+    "n8": "many fevers"
+}

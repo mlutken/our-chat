@@ -1,0 +1,18 @@
+{
+    "base": "underbrush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "underbrush",
+    "n2": "underbrushes",
+    "n3": "the underbrush",
+    "n4": "the underbrushes",
+    "n5": "underbrush's",
+    "n6": "underbrushes'",
+    "n7": "an underbrush",
+    "n8": "many underbrushes"
+}

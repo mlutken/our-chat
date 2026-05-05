@@ -1,0 +1,18 @@
+{
+    "base": "dispossession",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dispossession",
+    "n2": "dispossessions",
+    "n3": "the dispossession",
+    "n4": "the dispossessions",
+    "n5": "dispossession's",
+    "n6": "dispossessions'",
+    "n7": "a dispossession",
+    "n8": "many dispossessions"
+}

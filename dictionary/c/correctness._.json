@@ -1,0 +1,18 @@
+{
+    "base": "correctness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "correctness",
+    "n2": "correctnesses",
+    "n3": "the correctness",
+    "n4": "the correctnesses",
+    "n5": "correctness'",
+    "n6": "correctnesses'",
+    "n7": "a correctness",
+    "n8": "many correctnesses"
+}

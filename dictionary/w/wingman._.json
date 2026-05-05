@@ -1,0 +1,18 @@
+{
+    "base": "wingman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wingman",
+    "n2": "wingmen",
+    "n3": "the wingman",
+    "n4": "the wingmen",
+    "n5": "wingman's",
+    "n6": "wingmen's",
+    "n7": "a wingman",
+    "n8": "many wingmen"
+}

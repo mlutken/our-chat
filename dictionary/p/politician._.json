@@ -1,0 +1,18 @@
+{
+    "base": "politician",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "politician",
+    "n2": "politicians",
+    "n3": "the politician",
+    "n4": "the politicians",
+    "n5": "politician's",
+    "n6": "politicians'",
+    "n7": "a politician",
+    "n8": "many politicians"
+}

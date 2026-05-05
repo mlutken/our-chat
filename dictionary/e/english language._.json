@@ -1,0 +1,18 @@
+{
+    "base": "english language",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "english language",
+    "n2": "english languages",
+    "n3": "the english language",
+    "n4": "the english languages",
+    "n5": "english language's",
+    "n6": "english languages'",
+    "n7": "an english language",
+    "n8": "many english languages"
+}

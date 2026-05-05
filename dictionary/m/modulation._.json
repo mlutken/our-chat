@@ -1,0 +1,18 @@
+{
+    "base": "modulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "modulation",
+    "n2": "modulations",
+    "n3": "the modulation",
+    "n4": "the modulations",
+    "n5": "modulation's",
+    "n6": "modulations'",
+    "n7": "a modulation",
+    "n8": "many modulations"
+}

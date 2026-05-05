@@ -1,0 +1,18 @@
+{
+    "base": "merging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "merging",
+    "n2": "mergings",
+    "n3": "the merging",
+    "n4": "the mergings",
+    "n5": "merging's",
+    "n6": "mergings'",
+    "n7": "a merging",
+    "n8": "many mergings"
+}

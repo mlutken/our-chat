@@ -1,0 +1,18 @@
+{
+    "base": "interfacial tension",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "interfacial tension",
+    "n2": "interfacial tensions",
+    "n3": "the interfacial tension",
+    "n4": "the interfacial tensions",
+    "n5": "interfacial tension's",
+    "n6": "interfacial tensions'",
+    "n7": "an interfacial tension",
+    "n8": "many interfacial tensions"
+}

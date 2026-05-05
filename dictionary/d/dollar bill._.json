@@ -1,0 +1,18 @@
+{
+    "base": "dollar bill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dollar bill",
+    "n2": "dollar bills",
+    "n3": "the dollar bill",
+    "n4": "the dollar bills",
+    "n5": "dollar bill's",
+    "n6": "dollar bills'",
+    "n7": "a dollar bill",
+    "n8": "many dollar bills"
+}

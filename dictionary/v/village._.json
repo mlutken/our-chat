@@ -7,5 +7,12 @@
     "n2": "villages",
     "n3": "the village",
     "n4": "the villages",
-    "n5": "village's"
+    "n5": "village's",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n6": "villages'",
+    "n7": "a village",
+    "n8": "many villages"
 }

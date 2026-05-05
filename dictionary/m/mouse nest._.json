@@ -1,0 +1,18 @@
+{
+    "base": "mouse nest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mouse nest",
+    "n2": "mouse nests",
+    "n3": "the mouse nest",
+    "n4": "the mouse nests",
+    "n5": "mouse nest's",
+    "n6": "mouse nests'",
+    "n7": "a mouse nest",
+    "n8": "many mouse nests"
+}

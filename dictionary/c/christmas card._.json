@@ -1,0 +1,18 @@
+{
+    "base": "christmas card",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "christmas card",
+    "n2": "christmas cards",
+    "n3": "the christmas card",
+    "n4": "the christmas cards",
+    "n5": "christmas card's",
+    "n6": "christmas cards'",
+    "n7": "a christmas card",
+    "n8": "many christmas cards"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "entrance hall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "entrance hall",
+    "n2": "entrance halls",
+    "n3": "the entrance hall",
+    "n4": "the entrance halls",
+    "n5": "entrance hall's",
+    "n6": "entrance halls'",
+    "n7": "an entrance hall",
+    "n8": "many entrance halls"
+}

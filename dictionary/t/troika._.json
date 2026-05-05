@@ -1,0 +1,18 @@
+{
+    "base": "troika",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "troika",
+    "n2": "troikas",
+    "n3": "the troika",
+    "n4": "the troikas",
+    "n5": "troika's",
+    "n6": "troikas'",
+    "n7": "a troika",
+    "n8": "many troikas"
+}

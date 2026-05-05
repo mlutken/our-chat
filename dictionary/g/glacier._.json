@@ -1,0 +1,18 @@
+{
+    "base": "glacier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glacier",
+    "n2": "glaciers",
+    "n3": "the glacier",
+    "n4": "the glaciers",
+    "n5": "glacier's",
+    "n6": "glaciers'",
+    "n7": "a glacier",
+    "n8": "many glaciers"
+}

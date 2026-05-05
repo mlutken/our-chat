@@ -1,0 +1,18 @@
+{
+    "base": "stain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "stain",
+    "n2": "stains",
+    "n3": "the stain",
+    "n4": "the stains",
+    "n5": "stain's",
+    "n6": "stains'",
+    "n7": "a stain",
+    "n8": "many stains"
+}

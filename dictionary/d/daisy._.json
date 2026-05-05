@@ -1,0 +1,18 @@
+{
+    "base": "daisy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "daisy",
+    "n2": "daisies",
+    "n3": "the daisy",
+    "n4": "the daisies",
+    "n5": "daisy's",
+    "n6": "daisies'",
+    "n7": "a daisy",
+    "n8": "many daisies"
+}

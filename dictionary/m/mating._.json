@@ -1,0 +1,18 @@
+{
+    "base": "mating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mating",
+    "n2": "matings",
+    "n3": "the mating",
+    "n4": "the matings",
+    "n5": "mating's",
+    "n6": "matings'",
+    "n7": "a mating",
+    "n8": "many matings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "irrigation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "irrigation",
+    "n2": "irrigations",
+    "n3": "the irrigation",
+    "n4": "the irrigations",
+    "n5": "irrigation's",
+    "n6": "irrigations'",
+    "n7": "an irrigation",
+    "n8": "many irrigations"
+}

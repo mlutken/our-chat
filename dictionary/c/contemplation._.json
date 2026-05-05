@@ -1,0 +1,18 @@
+{
+    "base": "contemplation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "contemplation",
+    "n2": "contemplations",
+    "n3": "the contemplation",
+    "n4": "the contemplations",
+    "n5": "contemplation's",
+    "n6": "contemplations'",
+    "n7": "a contemplation",
+    "n8": "many contemplations"
+}

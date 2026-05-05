@@ -1,0 +1,18 @@
+{
+    "base": "yelping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yelping",
+    "n2": "yelpings",
+    "n3": "the yelping",
+    "n4": "the yelpings",
+    "n5": "yelping's",
+    "n6": "yelpings'",
+    "n7": "a yelping",
+    "n8": "many yelpings"
+}

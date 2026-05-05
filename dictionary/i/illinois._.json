@@ -1,0 +1,18 @@
+{
+    "base": "illinois",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "illinois",
+    "n2": "illinoises",
+    "n3": "the illinois",
+    "n4": "the illinoises",
+    "n5": "illinois'",
+    "n6": "illinoises'",
+    "n7": "an illinois",
+    "n8": "many illinoises"
+}

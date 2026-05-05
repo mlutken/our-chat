@@ -1,0 +1,18 @@
+{
+    "base": "dissolution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dissolution",
+    "n2": "dissolutions",
+    "n3": "the dissolution",
+    "n4": "the dissolutions",
+    "n5": "dissolution's",
+    "n6": "dissolutions'",
+    "n7": "a dissolution",
+    "n8": "many dissolutions"
+}

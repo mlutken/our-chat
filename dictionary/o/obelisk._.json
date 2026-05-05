@@ -1,0 +1,18 @@
+{
+    "base": "obelisk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "obelisk",
+    "n2": "obelisks",
+    "n3": "the obelisk",
+    "n4": "the obelisks",
+    "n5": "obelisk's",
+    "n6": "obelisks'",
+    "n7": "an obelisk",
+    "n8": "many obelisks"
+}

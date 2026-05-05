@@ -1,0 +1,18 @@
+{
+    "base": "commutation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commutation",
+    "n2": "commutations",
+    "n3": "the commutation",
+    "n4": "the commutations",
+    "n5": "commutation's",
+    "n6": "commutations'",
+    "n7": "a commutation",
+    "n8": "many commutations"
+}

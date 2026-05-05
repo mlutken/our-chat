@@ -1,0 +1,18 @@
+{
+    "base": "plasma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "plasma",
+    "n2": "plasmas",
+    "n3": "the plasma",
+    "n4": "the plasmas",
+    "n5": "plasma's",
+    "n6": "plasmas'",
+    "n7": "a plasma",
+    "n8": "many plasmas"
+}

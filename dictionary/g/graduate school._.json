@@ -1,0 +1,18 @@
+{
+    "base": "graduate school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "graduate school",
+    "n2": "graduate schools",
+    "n3": "the graduate school",
+    "n4": "the graduate schools",
+    "n5": "graduate school's",
+    "n6": "graduate schools'",
+    "n7": "a graduate school",
+    "n8": "many graduate schools"
+}

@@ -1,9 +1,22 @@
 {
     "base": "calm",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "calm",
     "adj2": "calmer",
-    "adj3": "calmest"
+    "adj3": "calmest",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "calm",
+    "n2": "calms",
+    "n3": "the calm",
+    "n4": "the calms",
+    "n5": "calm's",
+    "n6": "calms'",
+    "n7": "a calm",
+    "n8": "many calms"
 }

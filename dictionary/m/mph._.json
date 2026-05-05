@@ -1,0 +1,18 @@
+{
+    "base": "mph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "mph",
+    "n2": "mphs",
+    "n3": "the mph",
+    "n4": "the mphs",
+    "n5": "mph's",
+    "n6": "mphs'",
+    "n7": "a mph",
+    "n8": "many mphs"
+}

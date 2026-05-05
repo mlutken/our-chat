@@ -1,0 +1,18 @@
+{
+    "base": "attendance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "attendance",
+    "n2": "attendances",
+    "n3": "the attendance",
+    "n4": "the attendances",
+    "n5": "attendance's",
+    "n6": "attendances'",
+    "n7": "an attendance",
+    "n8": "many attendances"
+}

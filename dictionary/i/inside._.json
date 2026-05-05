@@ -11,5 +11,12 @@
     "n4": "the insides",
     "n5": "inside's",
     "f0": "inside",
-    "adv_subtype": "place"
+    "adv_subtype": "place",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "insides'",
+    "n7": "an inside",
+    "n8": "many insides"
 }

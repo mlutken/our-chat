@@ -1,0 +1,18 @@
+{
+    "base": "nazism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nazism",
+    "n2": "nazisms",
+    "n3": "the nazism",
+    "n4": "the nazisms",
+    "n5": "nazism's",
+    "n6": "nazisms'",
+    "n7": "a nazism",
+    "n8": "many nazisms"
+}

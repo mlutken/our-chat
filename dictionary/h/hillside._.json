@@ -1,0 +1,18 @@
+{
+    "base": "hillside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hillside",
+    "n2": "hillsides",
+    "n3": "the hillside",
+    "n4": "the hillsides",
+    "n5": "hillside's",
+    "n6": "hillsides'",
+    "n7": "a hillside",
+    "n8": "many hillsides"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bounds",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bounds",
+    "n2": "boundses",
+    "n3": "the bounds",
+    "n4": "the boundses",
+    "n5": "bounds'",
+    "n6": "boundses'",
+    "n7": "a bounds",
+    "n8": "many boundses"
+}

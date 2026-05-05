@@ -1,0 +1,18 @@
+{
+    "base": "homicide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "homicide",
+    "n2": "homicides",
+    "n3": "the homicide",
+    "n4": "the homicides",
+    "n5": "homicide's",
+    "n6": "homicides'",
+    "n7": "a homicide",
+    "n8": "many homicides"
+}

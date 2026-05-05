@@ -7,5 +7,12 @@
     "n2": "apartments",
     "n3": "the apartment",
     "n4": "the apartments",
-    "n5": "apartment's"
+    "n5": "apartment's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "apartments'",
+    "n7": "an apartment",
+    "n8": "many apartments"
 }

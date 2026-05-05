@@ -1,0 +1,18 @@
+{
+    "base": "beachhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "beachhead",
+    "n2": "beachheads",
+    "n3": "the beachhead",
+    "n4": "the beachheads",
+    "n5": "beachhead's",
+    "n6": "beachheads'",
+    "n7": "a beachhead",
+    "n8": "many beachheads"
+}

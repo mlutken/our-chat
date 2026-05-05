@@ -1,0 +1,18 @@
+{
+    "base": "cadaver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cadaver",
+    "n2": "cadavers",
+    "n3": "the cadaver",
+    "n4": "the cadavers",
+    "n5": "cadaver's",
+    "n6": "cadavers'",
+    "n7": "a cadaver",
+    "n8": "many cadavers"
+}

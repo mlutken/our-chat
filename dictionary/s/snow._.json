@@ -1,11 +1,24 @@
 {
     "base": "snow",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "snow",
     "v2": "snowed",
     "v3": "snowed",
     "v4": "snowing",
-    "v5": "snows"
+    "v5": "snows",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "snow",
+    "n2": "snows",
+    "n3": "the snow",
+    "n4": "the snows",
+    "n5": "snow's",
+    "n6": "snows'",
+    "n7": "a snow",
+    "n8": "many snows"
 }

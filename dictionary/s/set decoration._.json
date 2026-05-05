@@ -1,0 +1,18 @@
+{
+    "base": "set decoration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "set decoration",
+    "n2": "set decorations",
+    "n3": "the set decoration",
+    "n4": "the set decorations",
+    "n5": "set decoration's",
+    "n6": "set decorations'",
+    "n7": "a set decoration",
+    "n8": "many set decorations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rampart",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rampart",
+    "n2": "ramparts",
+    "n3": "the rampart",
+    "n4": "the ramparts",
+    "n5": "rampart's",
+    "n6": "ramparts'",
+    "n7": "a rampart",
+    "n8": "many ramparts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "literary study",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "literary study",
+    "n2": "literary studies",
+    "n3": "the literary study",
+    "n4": "the literary studies",
+    "n5": "literary study's",
+    "n6": "literary studies'",
+    "n7": "a literary study",
+    "n8": "many literary studies"
+}

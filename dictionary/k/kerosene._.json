@@ -1,0 +1,18 @@
+{
+    "base": "kerosene",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kerosene",
+    "n2": "kerosenes",
+    "n3": "the kerosene",
+    "n4": "the kerosenes",
+    "n5": "kerosene's",
+    "n6": "kerosenes'",
+    "n7": "a kerosene",
+    "n8": "many kerosenes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "poseur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "poseur",
+    "n2": "poseurs",
+    "n3": "the poseur",
+    "n4": "the poseurs",
+    "n5": "poseur's",
+    "n6": "poseurs'",
+    "n7": "a poseur",
+    "n8": "many poseurs"
+}

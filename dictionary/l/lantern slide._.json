@@ -1,0 +1,18 @@
+{
+    "base": "lantern slide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lantern slide",
+    "n2": "lantern slides",
+    "n3": "the lantern slide",
+    "n4": "the lantern slides",
+    "n5": "lantern slide's",
+    "n6": "lantern slides'",
+    "n7": "a lantern slide",
+    "n8": "many lantern slides"
+}

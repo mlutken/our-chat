@@ -1,0 +1,18 @@
+{
+    "base": "cyclohexanol phthalate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cyclohexanol phthalate",
+    "n2": "cyclohexanol phthalates",
+    "n3": "the cyclohexanol phthalate",
+    "n4": "the cyclohexanol phthalates",
+    "n5": "cyclohexanol phthalate's",
+    "n6": "cyclohexanol phthalates'",
+    "n7": "a cyclohexanol phthalate",
+    "n8": "many cyclohexanol phthalates"
+}

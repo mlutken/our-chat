@@ -1,0 +1,18 @@
+{
+    "base": "cow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "cow",
+    "n2": "cows",
+    "n3": "the cow",
+    "n4": "the cows",
+    "n5": "cow's",
+    "n6": "cows'",
+    "n7": "a cow",
+    "n8": "many cows"
+}

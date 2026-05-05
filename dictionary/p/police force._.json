@@ -1,0 +1,18 @@
+{
+    "base": "police force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "police force",
+    "n2": "police forces",
+    "n3": "the police force",
+    "n4": "the police forces",
+    "n5": "police force's",
+    "n6": "police forces'",
+    "n7": "a police force",
+    "n8": "many police forces"
+}

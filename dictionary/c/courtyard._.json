@@ -1,0 +1,18 @@
+{
+    "base": "courtyard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "courtyard",
+    "n2": "courtyards",
+    "n3": "the courtyard",
+    "n4": "the courtyards",
+    "n5": "courtyard's",
+    "n6": "courtyards'",
+    "n7": "a courtyard",
+    "n8": "many courtyards"
+}

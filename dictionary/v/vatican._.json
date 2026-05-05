@@ -1,0 +1,18 @@
+{
+    "base": "vatican",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vatican",
+    "n2": "vaticans",
+    "n3": "the vatican",
+    "n4": "the vaticans",
+    "n5": "vatican's",
+    "n6": "vaticans'",
+    "n7": "a vatican",
+    "n8": "many vaticans"
+}

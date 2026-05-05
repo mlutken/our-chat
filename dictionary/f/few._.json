@@ -1,0 +1,18 @@
+{
+    "base": "few",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "few",
+    "n2": "fews",
+    "n3": "the few",
+    "n4": "the fews",
+    "n5": "few's",
+    "n6": "fews'",
+    "n7": "a few",
+    "n8": "many fews"
+}

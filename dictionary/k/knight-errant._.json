@@ -1,0 +1,18 @@
+{
+    "base": "knight-errant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "knight-errant",
+    "n2": "knight-errants",
+    "n3": "the knight-errant",
+    "n4": "the knight-errants",
+    "n5": "knight-errant's",
+    "n6": "knight-errants'",
+    "n7": "a knight-errant",
+    "n8": "many knight-errants"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "marsh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marsh",
+    "n2": "marshes",
+    "n3": "the marsh",
+    "n4": "the marshes",
+    "n5": "marsh's",
+    "n6": "marshes'",
+    "n7": "a marsh",
+    "n8": "many marshes"
+}

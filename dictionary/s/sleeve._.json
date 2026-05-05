@@ -1,0 +1,18 @@
+{
+    "base": "sleeve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sleeve",
+    "n2": "sleeves",
+    "n3": "the sleeve",
+    "n4": "the sleeves",
+    "n5": "sleeve's",
+    "n6": "sleeves'",
+    "n7": "a sleeve",
+    "n8": "many sleeves"
+}

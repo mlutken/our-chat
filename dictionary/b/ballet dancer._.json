@@ -1,0 +1,18 @@
+{
+    "base": "ballet dancer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ballet dancer",
+    "n2": "ballet dancers",
+    "n3": "the ballet dancer",
+    "n4": "the ballet dancers",
+    "n5": "ballet dancer's",
+    "n6": "ballet dancers'",
+    "n7": "a ballet dancer",
+    "n8": "many ballet dancers"
+}

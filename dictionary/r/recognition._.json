@@ -7,5 +7,12 @@
     "n2": "recognitions",
     "n3": "the recognition",
     "n4": "the recognitions",
-    "n5": "recognition's"
+    "n5": "recognition's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "recognitions'",
+    "n7": "a recognition",
+    "n8": "many recognitions"
 }

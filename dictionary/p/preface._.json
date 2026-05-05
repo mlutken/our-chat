@@ -1,0 +1,18 @@
+{
+    "base": "preface",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preface",
+    "n2": "prefaces",
+    "n3": "the preface",
+    "n4": "the prefaces",
+    "n5": "preface's",
+    "n6": "prefaces'",
+    "n7": "a preface",
+    "n8": "many prefaces"
+}

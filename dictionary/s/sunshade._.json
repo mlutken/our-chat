@@ -1,0 +1,18 @@
+{
+    "base": "sunshade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sunshade",
+    "n2": "sunshades",
+    "n3": "the sunshade",
+    "n4": "the sunshades",
+    "n5": "sunshade's",
+    "n6": "sunshades'",
+    "n7": "a sunshade",
+    "n8": "many sunshades"
+}

@@ -677,10 +677,3 @@
 {"base":"writing","classes":["n"],"n1":"writing","n2":"writings","n3":"the writing","n4":"the writings","n5":"writing's"}
 {"base":"year","classes":["n"],"n1":"year","n2":"years","n3":"the year","n4":"the years","n5":"year's"}
 {"base":"youth","classes":["n"],"n1":"youth","n2":"youths","n3":"the youth","n4":"the youths","n5":"youth's"}
-
-
-{"base": "boucle", "classes": ["n"], "proper": false, "commonness": 1, "max_commonness": 6834, "commonness_ge_count": 11908, "n1": "boucle", "n2": "boucles", "n3": "the boucle", "n4": "the boucles", "n5": "boucle's", "n6": "boucles'", "n7": "a boucle", "n8": "many boucles"}
-{"base": "1980s", "classes": ["n"], "proper": false, "commonness": 0, "max_commonness": 6834, "commonness_ge_count": 117798, "n1": "1980s", "n2": "1980ses", "n3": "the 1980s", "n4": "the 1980ses", "n5": "1980s'", "n6": "1980ses'", "n7": "a 1980s", "n8": "many 1980ses"}
-{"base": "17", "classes": ["n"], "proper": false, "commonness": 1, "max_commonness": 6834, "commonness_ge_count": 11908, "n1": "17", "n2": "17s", "n3": "the 17", "n4": "the 17s", "n5": "17's", "n6": "17s'", "n7": "a 17", "n8": "many 17s"}
-
-

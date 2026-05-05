@@ -1,0 +1,18 @@
+{
+    "base": "good friday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "good friday",
+    "n2": "good fridays",
+    "n3": "the good friday",
+    "n4": "the good fridays",
+    "n5": "good friday's",
+    "n6": "good fridays'",
+    "n7": "a good friday",
+    "n8": "many good fridays"
+}

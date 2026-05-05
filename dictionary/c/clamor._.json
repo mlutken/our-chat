@@ -1,0 +1,18 @@
+{
+    "base": "clamor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "clamor",
+    "n2": "clamors",
+    "n3": "the clamor",
+    "n4": "the clamors",
+    "n5": "clamor's",
+    "n6": "clamors'",
+    "n7": "a clamor",
+    "n8": "many clamors"
+}

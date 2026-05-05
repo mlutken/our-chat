@@ -1,0 +1,18 @@
+{
+    "base": "drying agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drying agent",
+    "n2": "drying agents",
+    "n3": "the drying agent",
+    "n4": "the drying agents",
+    "n5": "drying agent's",
+    "n6": "drying agents'",
+    "n7": "a drying agent",
+    "n8": "many drying agents"
+}

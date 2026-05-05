@@ -1,0 +1,18 @@
+{
+    "base": "maturity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "maturity",
+    "n2": "maturities",
+    "n3": "the maturity",
+    "n4": "the maturities",
+    "n5": "maturity's",
+    "n6": "maturities'",
+    "n7": "a maturity",
+    "n8": "many maturities"
+}

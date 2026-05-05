@@ -1,0 +1,18 @@
+{
+    "base": "power plant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "power plant",
+    "n2": "power plants",
+    "n3": "the power plant",
+    "n4": "the power plants",
+    "n5": "power plant's",
+    "n6": "power plants'",
+    "n7": "a power plant",
+    "n8": "many power plants"
+}

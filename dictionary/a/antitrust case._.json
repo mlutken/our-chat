@@ -1,0 +1,18 @@
+{
+    "base": "antitrust case",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "antitrust case",
+    "n2": "antitrust cases",
+    "n3": "the antitrust case",
+    "n4": "the antitrust cases",
+    "n5": "antitrust case's",
+    "n6": "antitrust cases'",
+    "n7": "an antitrust case",
+    "n8": "many antitrust cases"
+}

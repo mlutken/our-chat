@@ -7,5 +7,12 @@
     "n2": "recommendations",
     "n3": "the recommendation",
     "n4": "the recommendations",
-    "n5": "recommendation's"
+    "n5": "recommendation's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "recommendations'",
+    "n7": "a recommendation",
+    "n8": "many recommendations"
 }

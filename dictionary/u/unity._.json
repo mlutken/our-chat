@@ -1,0 +1,18 @@
+{
+    "base": "unity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "unity",
+    "n2": "unities",
+    "n3": "the unity",
+    "n4": "the unities",
+    "n5": "unity's",
+    "n6": "unities'",
+    "n7": "a unity",
+    "n8": "many unities"
+}

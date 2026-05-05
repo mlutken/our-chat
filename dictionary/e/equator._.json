@@ -1,0 +1,18 @@
+{
+    "base": "equator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "equator",
+    "n2": "equators",
+    "n3": "the equator",
+    "n4": "the equators",
+    "n5": "equator's",
+    "n6": "equators'",
+    "n7": "an equator",
+    "n8": "many equators"
+}

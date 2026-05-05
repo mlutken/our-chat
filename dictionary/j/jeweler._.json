@@ -1,0 +1,18 @@
+{
+    "base": "jeweler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jeweler",
+    "n2": "jewelers",
+    "n3": "the jeweler",
+    "n4": "the jewelers",
+    "n5": "jeweler's",
+    "n6": "jewelers'",
+    "n7": "a jeweler",
+    "n8": "many jewelers"
+}

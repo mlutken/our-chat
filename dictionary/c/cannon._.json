@@ -1,0 +1,18 @@
+{
+    "base": "cannon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "cannon",
+    "n2": "cannons",
+    "n3": "the cannon",
+    "n4": "the cannons",
+    "n5": "cannon's",
+    "n6": "cannons'",
+    "n7": "a cannon",
+    "n8": "many cannons"
+}

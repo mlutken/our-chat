@@ -1,0 +1,18 @@
+{
+    "base": "solvating agent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solvating agent",
+    "n2": "solvating agents",
+    "n3": "the solvating agent",
+    "n4": "the solvating agents",
+    "n5": "solvating agent's",
+    "n6": "solvating agents'",
+    "n7": "a solvating agent",
+    "n8": "many solvating agents"
+}

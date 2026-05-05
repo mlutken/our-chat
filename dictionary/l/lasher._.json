@@ -1,0 +1,18 @@
+{
+    "base": "lasher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lasher",
+    "n2": "lashers",
+    "n3": "the lasher",
+    "n4": "the lashers",
+    "n5": "lasher's",
+    "n6": "lashers'",
+    "n7": "a lasher",
+    "n8": "many lashers"
+}

@@ -7,5 +7,12 @@
     "n2": "users",
     "n3": "the user",
     "n4": "the users",
-    "n5": "user's"
+    "n5": "user's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "users'",
+    "n7": "a user",
+    "n8": "many users"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "persona",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "persona",
+    "n2": "personae",
+    "n3": "the persona",
+    "n4": "the personae",
+    "n5": "persona's",
+    "n6": "personae's",
+    "n7": "a persona",
+    "n8": "many personae"
+}

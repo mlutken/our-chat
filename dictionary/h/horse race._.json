@@ -1,0 +1,18 @@
+{
+    "base": "horse race",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "horse race",
+    "n2": "horse races",
+    "n3": "the horse race",
+    "n4": "the horse races",
+    "n5": "horse race's",
+    "n6": "horse races'",
+    "n7": "a horse race",
+    "n8": "many horse races"
+}

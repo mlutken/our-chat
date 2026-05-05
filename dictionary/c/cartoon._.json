@@ -1,0 +1,18 @@
+{
+    "base": "cartoon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cartoon",
+    "n2": "cartoons",
+    "n3": "the cartoon",
+    "n4": "the cartoons",
+    "n5": "cartoon's",
+    "n6": "cartoons'",
+    "n7": "a cartoon",
+    "n8": "many cartoons"
+}

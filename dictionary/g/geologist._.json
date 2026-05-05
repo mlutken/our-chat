@@ -1,0 +1,18 @@
+{
+    "base": "geologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "geologist",
+    "n2": "geologists",
+    "n3": "the geologist",
+    "n4": "the geologists",
+    "n5": "geologist's",
+    "n6": "geologists'",
+    "n7": "a geologist",
+    "n8": "many geologists"
+}

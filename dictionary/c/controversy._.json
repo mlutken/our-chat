@@ -1,0 +1,18 @@
+{
+    "base": "controversy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "controversy",
+    "n2": "controversies",
+    "n3": "the controversy",
+    "n4": "the controversies",
+    "n5": "controversy's",
+    "n6": "controversies'",
+    "n7": "a controversy",
+    "n8": "many controversies"
+}

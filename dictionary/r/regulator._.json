@@ -1,0 +1,18 @@
+{
+    "base": "regulator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "regulator",
+    "n2": "regulators",
+    "n3": "the regulator",
+    "n4": "the regulators",
+    "n5": "regulator's",
+    "n6": "regulators'",
+    "n7": "a regulator",
+    "n8": "many regulators"
+}

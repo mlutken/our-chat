@@ -1,0 +1,18 @@
+{
+    "base": "reharmonization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reharmonization",
+    "n2": "reharmonizations",
+    "n3": "the reharmonization",
+    "n4": "the reharmonizations",
+    "n5": "reharmonization's",
+    "n6": "reharmonizations'",
+    "n7": "a reharmonization",
+    "n8": "many reharmonizations"
+}

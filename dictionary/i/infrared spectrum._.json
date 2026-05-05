@@ -1,0 +1,18 @@
+{
+    "base": "infrared spectrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "infrared spectrum",
+    "n2": "infrared spectrums",
+    "n3": "the infrared spectrum",
+    "n4": "the infrared spectrums",
+    "n5": "infrared spectrum's",
+    "n6": "infrared spectrums'",
+    "n7": "an infrared spectrum",
+    "n8": "many infrared spectrums"
+}

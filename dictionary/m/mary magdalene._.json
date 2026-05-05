@@ -1,0 +1,18 @@
+{
+    "base": "mary magdalene",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mary magdalene",
+    "n2": "mary magdalenes",
+    "n3": "the mary magdalene",
+    "n4": "the mary magdalenes",
+    "n5": "mary magdalene's",
+    "n6": "mary magdalenes'",
+    "n7": "a mary magdalene",
+    "n8": "many mary magdalenes"
+}

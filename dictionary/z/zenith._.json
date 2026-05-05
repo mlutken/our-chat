@@ -1,0 +1,18 @@
+{
+    "base": "zenith",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zenith",
+    "n2": "zeniths",
+    "n3": "the zenith",
+    "n4": "the zeniths",
+    "n5": "zenith's",
+    "n6": "zeniths'",
+    "n7": "a zenith",
+    "n8": "many zeniths"
+}

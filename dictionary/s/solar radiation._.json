@@ -1,0 +1,18 @@
+{
+    "base": "solar radiation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "solar radiation",
+    "n2": "solar radiations",
+    "n3": "the solar radiation",
+    "n4": "the solar radiations",
+    "n5": "solar radiation's",
+    "n6": "solar radiations'",
+    "n7": "a solar radiation",
+    "n8": "many solar radiations"
+}

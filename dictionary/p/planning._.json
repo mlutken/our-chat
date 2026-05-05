@@ -1,0 +1,18 @@
+{
+    "base": "planning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "planning",
+    "n2": "plannings",
+    "n3": "the planning",
+    "n4": "the plannings",
+    "n5": "planning's",
+    "n6": "plannings'",
+    "n7": "a planning",
+    "n8": "many plannings"
+}

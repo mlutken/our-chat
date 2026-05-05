@@ -1,0 +1,18 @@
+{
+    "base": "decimeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "decimeter",
+    "n2": "decimeters",
+    "n3": "the decimeter",
+    "n4": "the decimeters",
+    "n5": "decimeter's",
+    "n6": "decimeters'",
+    "n7": "a decimeter",
+    "n8": "many decimeters"
+}

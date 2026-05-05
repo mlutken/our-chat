@@ -1,0 +1,18 @@
+{
+    "base": "fowl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fowl",
+    "n2": "fowls",
+    "n3": "the fowl",
+    "n4": "the fowls",
+    "n5": "fowl's",
+    "n6": "fowls'",
+    "n7": "a fowl",
+    "n8": "many fowls"
+}

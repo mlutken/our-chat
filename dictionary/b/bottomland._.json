@@ -1,0 +1,18 @@
+{
+    "base": "bottomland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bottomland",
+    "n2": "bottomlands",
+    "n3": "the bottomland",
+    "n4": "the bottomlands",
+    "n5": "bottomland's",
+    "n6": "bottomlands'",
+    "n7": "a bottomland",
+    "n8": "many bottomlands"
+}

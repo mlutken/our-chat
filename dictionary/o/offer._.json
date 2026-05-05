@@ -1,11 +1,24 @@
 {
     "base": "offer",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "offer",
     "v2": "offered",
     "v3": "offered",
     "v4": "offering",
-    "v5": "offers"
+    "v5": "offers",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "offer",
+    "n2": "offers",
+    "n3": "the offer",
+    "n4": "the offers",
+    "n5": "offer's",
+    "n6": "offers'",
+    "n7": "an offer",
+    "n8": "many offers"
 }

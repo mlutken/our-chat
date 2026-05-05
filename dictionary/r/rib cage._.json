@@ -1,0 +1,18 @@
+{
+    "base": "rib cage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rib cage",
+    "n2": "rib cages",
+    "n3": "the rib cage",
+    "n4": "the rib cages",
+    "n5": "rib cage's",
+    "n6": "rib cages'",
+    "n7": "a rib cage",
+    "n8": "many rib cages"
+}

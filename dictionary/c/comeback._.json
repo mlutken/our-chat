@@ -1,0 +1,18 @@
+{
+    "base": "comeback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "comeback",
+    "n2": "comebacks",
+    "n3": "the comeback",
+    "n4": "the comebacks",
+    "n5": "comeback's",
+    "n6": "comebacks'",
+    "n7": "a comeback",
+    "n8": "many comebacks"
+}

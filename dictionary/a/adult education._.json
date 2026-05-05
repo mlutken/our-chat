@@ -1,0 +1,18 @@
+{
+    "base": "adult education",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adult education",
+    "n2": "adult educations",
+    "n3": "the adult education",
+    "n4": "the adult educations",
+    "n5": "adult education's",
+    "n6": "adult educations'",
+    "n7": "an adult education",
+    "n8": "many adult educations"
+}

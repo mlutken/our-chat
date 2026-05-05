@@ -1,6 +1,7 @@
 {
     "base": "last",
     "classes": [
+        "n",
         "adv",
         "v"
     ],
@@ -10,5 +11,17 @@
     "v2": "lasted",
     "v3": "lasted",
     "v4": "lasting",
-    "v5": "lasts"
+    "v5": "lasts",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "last",
+    "n2": "lasts",
+    "n3": "the last",
+    "n4": "the lasts",
+    "n5": "last's",
+    "n6": "lasts'",
+    "n7": "a last",
+    "n8": "many lasts"
 }

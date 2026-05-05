@@ -1,0 +1,18 @@
+{
+    "base": "occupation license",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "occupation license",
+    "n2": "occupation licenses",
+    "n3": "the occupation license",
+    "n4": "the occupation licenses",
+    "n5": "occupation license's",
+    "n6": "occupation licenses'",
+    "n7": "an occupation license",
+    "n8": "many occupation licenses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sip",
+    "n2": "sips",
+    "n3": "the sip",
+    "n4": "the sips",
+    "n5": "sip's",
+    "n6": "sips'",
+    "n7": "a sip",
+    "n8": "many sips"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "subgroup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subgroup",
+    "n2": "subgroups",
+    "n3": "the subgroup",
+    "n4": "the subgroups",
+    "n5": "subgroup's",
+    "n6": "subgroups'",
+    "n7": "a subgroup",
+    "n8": "many subgroups"
+}

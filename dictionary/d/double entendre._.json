@@ -1,0 +1,18 @@
+{
+    "base": "double entendre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "double entendre",
+    "n2": "double entendres",
+    "n3": "the double entendre",
+    "n4": "the double entendres",
+    "n5": "double entendre's",
+    "n6": "double entendres'",
+    "n7": "a double entendre",
+    "n8": "many double entendres"
+}

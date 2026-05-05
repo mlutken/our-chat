@@ -1,0 +1,18 @@
+{
+    "base": "philippine islands",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "philippine islands",
+    "n2": "philippine islandses",
+    "n3": "the philippine islands",
+    "n4": "the philippine islandses",
+    "n5": "philippine islands'",
+    "n6": "philippine islandses'",
+    "n7": "a philippine islands",
+    "n8": "many philippine islandses"
+}

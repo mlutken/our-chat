@@ -1,0 +1,18 @@
+{
+    "base": "spaniel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spaniel",
+    "n2": "spaniels",
+    "n3": "the spaniel",
+    "n4": "the spaniels",
+    "n5": "spaniel's",
+    "n6": "spaniels'",
+    "n7": "a spaniel",
+    "n8": "many spaniels"
+}

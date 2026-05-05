@@ -1,0 +1,18 @@
+{
+    "base": "potency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "potency",
+    "n2": "potencies",
+    "n3": "the potency",
+    "n4": "the potencies",
+    "n5": "potency's",
+    "n6": "potencies'",
+    "n7": "a potency",
+    "n8": "many potencies"
+}

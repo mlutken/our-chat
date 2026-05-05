@@ -1,0 +1,18 @@
+{
+    "base": "paroxysm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paroxysm",
+    "n2": "paroxysms",
+    "n3": "the paroxysm",
+    "n4": "the paroxysms",
+    "n5": "paroxysm's",
+    "n6": "paroxysms'",
+    "n7": "a paroxysm",
+    "n8": "many paroxysms"
+}

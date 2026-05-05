@@ -1,0 +1,18 @@
+{
+    "base": "steprelationship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steprelationship",
+    "n2": "steprelationships",
+    "n3": "the steprelationship",
+    "n4": "the steprelationships",
+    "n5": "steprelationship's",
+    "n6": "steprelationships'",
+    "n7": "a steprelationship",
+    "n8": "many steprelationships"
+}

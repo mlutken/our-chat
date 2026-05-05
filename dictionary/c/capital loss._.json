@@ -1,0 +1,18 @@
+{
+    "base": "capital loss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capital loss",
+    "n2": "capital losses",
+    "n3": "the capital loss",
+    "n4": "the capital losses",
+    "n5": "capital loss'",
+    "n6": "capital losses'",
+    "n7": "a capital loss",
+    "n8": "many capital losses"
+}

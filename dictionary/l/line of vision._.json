@@ -1,0 +1,18 @@
+{
+    "base": "line of vision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "line of vision",
+    "n2": "line of visions",
+    "n3": "the line of vision",
+    "n4": "the line of visions",
+    "n5": "line of vision's",
+    "n6": "line of visions'",
+    "n7": "a line of vision",
+    "n8": "many line of visions"
+}

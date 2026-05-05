@@ -1,0 +1,18 @@
+{
+    "base": "museum",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "museum",
+    "n2": "museums",
+    "n3": "the museum",
+    "n4": "the museums",
+    "n5": "museum's",
+    "n6": "museums'",
+    "n7": "a museum",
+    "n8": "many museums"
+}

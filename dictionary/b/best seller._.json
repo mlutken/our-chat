@@ -1,0 +1,18 @@
+{
+    "base": "best seller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "best seller",
+    "n2": "best sellers",
+    "n3": "the best seller",
+    "n4": "the best sellers",
+    "n5": "best seller's",
+    "n6": "best sellers'",
+    "n7": "a best seller",
+    "n8": "many best sellers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "caliph",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caliph",
+    "n2": "caliphs",
+    "n3": "the caliph",
+    "n4": "the caliphs",
+    "n5": "caliph's",
+    "n6": "caliphs'",
+    "n7": "a caliph",
+    "n8": "many caliphs"
+}

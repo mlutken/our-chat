@@ -1,0 +1,18 @@
+{
+    "base": "furor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "furor",
+    "n2": "furors",
+    "n3": "the furor",
+    "n4": "the furors",
+    "n5": "furor's",
+    "n6": "furors'",
+    "n7": "a furor",
+    "n8": "many furors"
+}

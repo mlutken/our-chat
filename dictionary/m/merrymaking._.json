@@ -1,0 +1,18 @@
+{
+    "base": "merrymaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "merrymaking",
+    "n2": "merrymakings",
+    "n3": "the merrymaking",
+    "n4": "the merrymakings",
+    "n5": "merrymaking's",
+    "n6": "merrymakings'",
+    "n7": "a merrymaking",
+    "n8": "many merrymakings"
+}

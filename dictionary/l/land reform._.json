@@ -1,0 +1,18 @@
+{
+    "base": "land reform",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "land reform",
+    "n2": "land reforms",
+    "n3": "the land reform",
+    "n4": "the land reforms",
+    "n5": "land reform's",
+    "n6": "land reforms'",
+    "n7": "a land reform",
+    "n8": "many land reforms"
+}

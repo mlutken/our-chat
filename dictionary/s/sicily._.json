@@ -1,0 +1,18 @@
+{
+    "base": "sicily",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sicily",
+    "n2": "sicilies",
+    "n3": "the sicily",
+    "n4": "the sicilies",
+    "n5": "sicily's",
+    "n6": "sicilies'",
+    "n7": "a sicily",
+    "n8": "many sicilies"
+}

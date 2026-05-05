@@ -1,0 +1,18 @@
+{
+    "base": "duelist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "duelist",
+    "n2": "duelists",
+    "n3": "the duelist",
+    "n4": "the duelists",
+    "n5": "duelist's",
+    "n6": "duelists'",
+    "n7": "a duelist",
+    "n8": "many duelists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bronchiolitis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bronchiolitis",
+    "n2": "bronchiolitises",
+    "n3": "the bronchiolitis",
+    "n4": "the bronchiolitises",
+    "n5": "bronchiolitis'",
+    "n6": "bronchiolitises'",
+    "n7": "a bronchiolitis",
+    "n8": "many bronchiolitises"
+}

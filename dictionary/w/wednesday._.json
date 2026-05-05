@@ -1,0 +1,18 @@
+{
+    "base": "wednesday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "wednesday",
+    "n2": "wednesdays",
+    "n3": "the wednesday",
+    "n4": "the wednesdays",
+    "n5": "wednesday's",
+    "n6": "wednesdays'",
+    "n7": "a wednesday",
+    "n8": "many wednesdays"
+}

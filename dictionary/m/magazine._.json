@@ -7,5 +7,12 @@
     "n2": "magazines",
     "n3": "the magazine",
     "n4": "the magazines",
-    "n5": "magazine's"
+    "n5": "magazine's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "magazines'",
+    "n7": "a magazine",
+    "n8": "many magazines"
 }

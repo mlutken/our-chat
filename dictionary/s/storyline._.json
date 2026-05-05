@@ -1,0 +1,18 @@
+{
+    "base": "storyline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "storyline",
+    "n2": "storylines",
+    "n3": "the storyline",
+    "n4": "the storylines",
+    "n5": "storyline's",
+    "n6": "storylines'",
+    "n7": "a storyline",
+    "n8": "many storylines"
+}

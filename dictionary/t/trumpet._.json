@@ -1,0 +1,18 @@
+{
+    "base": "trumpet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trumpet",
+    "n2": "trumpets",
+    "n3": "the trumpet",
+    "n4": "the trumpets",
+    "n5": "trumpet's",
+    "n6": "trumpets'",
+    "n7": "a trumpet",
+    "n8": "many trumpets"
+}

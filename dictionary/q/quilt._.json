@@ -1,0 +1,18 @@
+{
+    "base": "quilt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quilt",
+    "n2": "quilts",
+    "n3": "the quilt",
+    "n4": "the quilts",
+    "n5": "quilt's",
+    "n6": "quilts'",
+    "n7": "a quilt",
+    "n8": "many quilts"
+}

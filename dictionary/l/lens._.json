@@ -1,0 +1,18 @@
+{
+    "base": "lens",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "lens",
+    "n2": "lenses",
+    "n3": "the lens",
+    "n4": "the lenses",
+    "n5": "lens'",
+    "n6": "lenses'",
+    "n7": "a lens",
+    "n8": "many lenses"
+}

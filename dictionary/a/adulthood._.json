@@ -1,0 +1,18 @@
+{
+    "base": "adulthood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adulthood",
+    "n2": "adulthoods",
+    "n3": "the adulthood",
+    "n4": "the adulthoods",
+    "n5": "adulthood's",
+    "n6": "adulthoods'",
+    "n7": "an adulthood",
+    "n8": "many adulthoods"
+}

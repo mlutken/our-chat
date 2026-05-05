@@ -1,0 +1,18 @@
+{
+    "base": "liberalism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "liberalism",
+    "n2": "liberalisms",
+    "n3": "the liberalism",
+    "n4": "the liberalisms",
+    "n5": "liberalism's",
+    "n6": "liberalisms'",
+    "n7": "a liberalism",
+    "n8": "many liberalisms"
+}

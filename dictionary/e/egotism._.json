@@ -1,0 +1,18 @@
+{
+    "base": "egotism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "egotism",
+    "n2": "egotisms",
+    "n3": "the egotism",
+    "n4": "the egotisms",
+    "n5": "egotism's",
+    "n6": "egotisms'",
+    "n7": "an egotism",
+    "n8": "many egotisms"
+}

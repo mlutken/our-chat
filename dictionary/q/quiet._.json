@@ -1,9 +1,22 @@
 {
     "base": "quiet",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "quiet",
     "adj2": "more quiet",
-    "adj3": "most quiet"
+    "adj3": "most quiet",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "quiet",
+    "n2": "quiets",
+    "n3": "the quiet",
+    "n4": "the quiets",
+    "n5": "quiet's",
+    "n6": "quiets'",
+    "n7": "a quiet",
+    "n8": "many quiets"
 }

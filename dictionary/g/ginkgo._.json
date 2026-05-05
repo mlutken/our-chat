@@ -1,0 +1,18 @@
+{
+    "base": "ginkgo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ginkgo",
+    "n2": "ginkgoes",
+    "n3": "the ginkgo",
+    "n4": "the ginkgoes",
+    "n5": "ginkgo's",
+    "n6": "ginkgoes'",
+    "n7": "a ginkgo",
+    "n8": "many ginkgoes"
+}

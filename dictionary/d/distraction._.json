@@ -1,0 +1,18 @@
+{
+    "base": "distraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "distraction",
+    "n2": "distractions",
+    "n3": "the distraction",
+    "n4": "the distractions",
+    "n5": "distraction's",
+    "n6": "distractions'",
+    "n7": "a distraction",
+    "n8": "many distractions"
+}

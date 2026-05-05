@@ -1,0 +1,18 @@
+{
+    "base": "practice session",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "practice session",
+    "n2": "practice sessions",
+    "n3": "the practice session",
+    "n4": "the practice sessions",
+    "n5": "practice session's",
+    "n6": "practice sessions'",
+    "n7": "a practice session",
+    "n8": "many practice sessions"
+}

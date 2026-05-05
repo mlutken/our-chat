@@ -1,0 +1,18 @@
+{
+    "base": "vaquero",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vaquero",
+    "n2": "vaqueros",
+    "n3": "the vaquero",
+    "n4": "the vaqueros",
+    "n5": "vaquero's",
+    "n6": "vaqueros'",
+    "n7": "a vaquero",
+    "n8": "many vaqueros"
+}

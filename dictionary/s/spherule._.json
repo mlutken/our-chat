@@ -1,0 +1,18 @@
+{
+    "base": "spherule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spherule",
+    "n2": "spherules",
+    "n3": "the spherule",
+    "n4": "the spherules",
+    "n5": "spherule's",
+    "n6": "spherules'",
+    "n7": "a spherule",
+    "n8": "many spherules"
+}

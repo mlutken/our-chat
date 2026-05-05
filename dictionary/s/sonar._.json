@@ -1,0 +1,18 @@
+{
+    "base": "sonar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "sonar",
+    "n2": "sonars",
+    "n3": "the sonar",
+    "n4": "the sonars",
+    "n5": "sonar's",
+    "n6": "sonars'",
+    "n7": "a sonar",
+    "n8": "many sonars"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "forties",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forties",
+    "n2": "fortieses",
+    "n3": "the forties",
+    "n4": "the fortieses",
+    "n5": "forties'",
+    "n6": "fortieses'",
+    "n7": "a forties",
+    "n8": "many fortieses"
+}

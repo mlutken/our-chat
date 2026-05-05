@@ -1,0 +1,18 @@
+{
+    "base": "nephew",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "nephew",
+    "n2": "nephews",
+    "n3": "the nephew",
+    "n4": "the nephews",
+    "n5": "nephew's",
+    "n6": "nephews'",
+    "n7": "a nephew",
+    "n8": "many nephews"
+}

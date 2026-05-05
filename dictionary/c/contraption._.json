@@ -1,0 +1,18 @@
+{
+    "base": "contraption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contraption",
+    "n2": "contraptions",
+    "n3": "the contraption",
+    "n4": "the contraptions",
+    "n5": "contraption's",
+    "n6": "contraptions'",
+    "n7": "a contraption",
+    "n8": "many contraptions"
+}

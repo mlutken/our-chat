@@ -1,0 +1,18 @@
+{
+    "base": "analyticity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "analyticity",
+    "n2": "analyticities",
+    "n3": "the analyticity",
+    "n4": "the analyticities",
+    "n5": "analyticity's",
+    "n6": "analyticities'",
+    "n7": "an analyticity",
+    "n8": "many analyticities"
+}

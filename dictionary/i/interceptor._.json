@@ -1,0 +1,18 @@
+{
+    "base": "interceptor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interceptor",
+    "n2": "interceptors",
+    "n3": "the interceptor",
+    "n4": "the interceptors",
+    "n5": "interceptor's",
+    "n6": "interceptors'",
+    "n7": "an interceptor",
+    "n8": "many interceptors"
+}

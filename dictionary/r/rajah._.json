@@ -1,0 +1,18 @@
+{
+    "base": "rajah",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rajah",
+    "n2": "rajahs",
+    "n3": "the rajah",
+    "n4": "the rajahs",
+    "n5": "rajah's",
+    "n6": "rajahs'",
+    "n7": "a rajah",
+    "n8": "many rajahs"
+}

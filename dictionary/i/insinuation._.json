@@ -1,0 +1,18 @@
+{
+    "base": "insinuation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "insinuation",
+    "n2": "insinuations",
+    "n3": "the insinuation",
+    "n4": "the insinuations",
+    "n5": "insinuation's",
+    "n6": "insinuations'",
+    "n7": "an insinuation",
+    "n8": "many insinuations"
+}

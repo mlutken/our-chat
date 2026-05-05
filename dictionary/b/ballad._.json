@@ -1,0 +1,18 @@
+{
+    "base": "ballad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ballad",
+    "n2": "ballads",
+    "n3": "the ballad",
+    "n4": "the ballads",
+    "n5": "ballad's",
+    "n6": "ballads'",
+    "n7": "a ballad",
+    "n8": "many ballads"
+}

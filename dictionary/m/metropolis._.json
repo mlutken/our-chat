@@ -1,0 +1,18 @@
+{
+    "base": "metropolis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "metropolis",
+    "n2": "metropolises",
+    "n3": "the metropolis",
+    "n4": "the metropolises",
+    "n5": "metropolis'",
+    "n6": "metropolises'",
+    "n7": "a metropolis",
+    "n8": "many metropolises"
+}

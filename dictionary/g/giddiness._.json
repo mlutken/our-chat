@@ -1,0 +1,18 @@
+{
+    "base": "giddiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "giddiness",
+    "n2": "giddinesses",
+    "n3": "the giddiness",
+    "n4": "the giddinesses",
+    "n5": "giddiness'",
+    "n6": "giddinesses'",
+    "n7": "a giddiness",
+    "n8": "many giddinesses"
+}

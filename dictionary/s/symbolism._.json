@@ -1,0 +1,18 @@
+{
+    "base": "symbolism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "symbolism",
+    "n2": "symbolisms",
+    "n3": "the symbolism",
+    "n4": "the symbolisms",
+    "n5": "symbolism's",
+    "n6": "symbolisms'",
+    "n7": "a symbolism",
+    "n8": "many symbolisms"
+}

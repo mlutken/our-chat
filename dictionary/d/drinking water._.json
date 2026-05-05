@@ -1,0 +1,18 @@
+{
+    "base": "drinking water",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drinking water",
+    "n2": "drinking waters",
+    "n3": "the drinking water",
+    "n4": "the drinking waters",
+    "n5": "drinking water's",
+    "n6": "drinking waters'",
+    "n7": "a drinking water",
+    "n8": "many drinking waters"
+}

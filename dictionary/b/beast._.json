@@ -1,0 +1,18 @@
+{
+    "base": "beast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "beast",
+    "n2": "beasts",
+    "n3": "the beast",
+    "n4": "the beasts",
+    "n5": "beast's",
+    "n6": "beasts'",
+    "n7": "a beast",
+    "n8": "many beasts"
+}

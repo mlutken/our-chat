@@ -1,0 +1,18 @@
+{
+    "base": "commander",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "commander",
+    "n2": "commanders",
+    "n3": "the commander",
+    "n4": "the commanders",
+    "n5": "commander's",
+    "n6": "commanders'",
+    "n7": "a commander",
+    "n8": "many commanders"
+}

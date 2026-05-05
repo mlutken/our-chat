@@ -1,0 +1,18 @@
+{
+    "base": "skullcap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skullcap",
+    "n2": "skullcaps",
+    "n3": "the skullcap",
+    "n4": "the skullcaps",
+    "n5": "skullcap's",
+    "n6": "skullcaps'",
+    "n7": "a skullcap",
+    "n8": "many skullcaps"
+}

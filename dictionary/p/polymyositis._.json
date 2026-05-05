@@ -1,0 +1,18 @@
+{
+    "base": "polymyositis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "polymyositis",
+    "n2": "polymyositises",
+    "n3": "the polymyositis",
+    "n4": "the polymyositises",
+    "n5": "polymyositis'",
+    "n6": "polymyositises'",
+    "n7": "a polymyositis",
+    "n8": "many polymyositises"
+}

@@ -7,5 +7,12 @@
     "n2": "concerti",
     "n3": "the concerto",
     "n4": "the concerti",
-    "n5": "concerto's"
+    "n5": "concerto's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "concerti's",
+    "n7": "a concerto",
+    "n8": "many concerti"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "transistor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transistor",
+    "n2": "transistors",
+    "n3": "the transistor",
+    "n4": "the transistors",
+    "n5": "transistor's",
+    "n6": "transistors'",
+    "n7": "a transistor",
+    "n8": "many transistors"
+}

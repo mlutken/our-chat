@@ -1,0 +1,18 @@
+{
+    "base": "louisiana",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "louisiana",
+    "n2": "louisianas",
+    "n3": "the louisiana",
+    "n4": "the louisianas",
+    "n5": "louisiana's",
+    "n6": "louisianas'",
+    "n7": "a louisiana",
+    "n8": "many louisianas"
+}

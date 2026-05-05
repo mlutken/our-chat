@@ -1,0 +1,18 @@
+{
+    "base": "peru",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peru",
+    "n2": "perus",
+    "n3": "the peru",
+    "n4": "the perus",
+    "n5": "peru's",
+    "n6": "perus'",
+    "n7": "a peru",
+    "n8": "many perus"
+}

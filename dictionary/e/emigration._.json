@@ -1,0 +1,18 @@
+{
+    "base": "emigration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "emigration",
+    "n2": "emigrations",
+    "n3": "the emigration",
+    "n4": "the emigrations",
+    "n5": "emigration's",
+    "n6": "emigrations'",
+    "n7": "an emigration",
+    "n8": "many emigrations"
+}

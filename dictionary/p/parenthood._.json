@@ -1,0 +1,18 @@
+{
+    "base": "parenthood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parenthood",
+    "n2": "parenthoods",
+    "n3": "the parenthood",
+    "n4": "the parenthoods",
+    "n5": "parenthood's",
+    "n6": "parenthoods'",
+    "n7": "a parenthood",
+    "n8": "many parenthoods"
+}

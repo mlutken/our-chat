@@ -7,5 +7,12 @@
     "n2": "shifts",
     "n3": "the shift",
     "n4": "the shifts",
-    "n5": "shift's"
+    "n5": "shift's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "shifts'",
+    "n7": "a shift",
+    "n8": "many shifts"
 }

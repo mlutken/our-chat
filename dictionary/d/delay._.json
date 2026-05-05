@@ -1,11 +1,24 @@
 {
     "base": "delay",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "delay",
     "v2": "delayed",
     "v3": "delayed",
     "v4": "delaying",
-    "v5": "delays"
+    "v5": "delays",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "delay",
+    "n2": "delays",
+    "n3": "the delay",
+    "n4": "the delays",
+    "n5": "delay's",
+    "n6": "delays'",
+    "n7": "a delay",
+    "n8": "many delays"
 }

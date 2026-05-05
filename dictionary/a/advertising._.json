@@ -7,5 +7,12 @@
     "n2": "advertisings",
     "n3": "the advertising",
     "n4": "the advertisings",
-    "n5": "advertising's"
+    "n5": "advertising's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "advertisings'",
+    "n7": "an advertising",
+    "n8": "many advertisings"
 }

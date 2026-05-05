@@ -7,5 +7,12 @@
     "n2": "councils",
     "n3": "the council",
     "n4": "the councils",
-    "n5": "council's"
+    "n5": "council's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "councils'",
+    "n7": "a council",
+    "n8": "many councils"
 }

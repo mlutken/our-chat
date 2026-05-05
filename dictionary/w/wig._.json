@@ -1,0 +1,18 @@
+{
+    "base": "wig",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wig",
+    "n2": "wigs",
+    "n3": "the wig",
+    "n4": "the wigs",
+    "n5": "wig's",
+    "n6": "wigs'",
+    "n7": "a wig",
+    "n8": "many wigs"
+}

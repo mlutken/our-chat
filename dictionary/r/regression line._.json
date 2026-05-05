@@ -1,0 +1,18 @@
+{
+    "base": "regression line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "regression line",
+    "n2": "regression lines",
+    "n3": "the regression line",
+    "n4": "the regression lines",
+    "n5": "regression line's",
+    "n6": "regression lines'",
+    "n7": "a regression line",
+    "n8": "many regression lines"
+}

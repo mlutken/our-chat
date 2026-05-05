@@ -1,0 +1,18 @@
+{
+    "base": "leprosy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leprosy",
+    "n2": "leprosies",
+    "n3": "the leprosy",
+    "n4": "the leprosies",
+    "n5": "leprosy's",
+    "n6": "leprosies'",
+    "n7": "a leprosy",
+    "n8": "many leprosies"
+}

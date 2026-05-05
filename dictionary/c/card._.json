@@ -7,5 +7,12 @@
     "n2": "cards",
     "n3": "the card",
     "n4": "the cards",
-    "n5": "card's"
+    "n5": "card's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "cards'",
+    "n7": "a card",
+    "n8": "many cards"
 }

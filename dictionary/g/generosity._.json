@@ -1,0 +1,18 @@
+{
+    "base": "generosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "generosity",
+    "n2": "generosities",
+    "n3": "the generosity",
+    "n4": "the generosities",
+    "n5": "generosity's",
+    "n6": "generosities'",
+    "n7": "a generosity",
+    "n8": "many generosities"
+}

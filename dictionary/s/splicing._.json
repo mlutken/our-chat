@@ -1,0 +1,18 @@
+{
+    "base": "splicing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "splicing",
+    "n2": "splicings",
+    "n3": "the splicing",
+    "n4": "the splicings",
+    "n5": "splicing's",
+    "n6": "splicings'",
+    "n7": "a splicing",
+    "n8": "many splicings"
+}

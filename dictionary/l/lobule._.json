@@ -1,0 +1,18 @@
+{
+    "base": "lobule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "lobule",
+    "n2": "lobules",
+    "n3": "the lobule",
+    "n4": "the lobules",
+    "n5": "lobule's",
+    "n6": "lobules'",
+    "n7": "a lobule",
+    "n8": "many lobules"
+}

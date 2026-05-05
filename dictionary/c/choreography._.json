@@ -1,0 +1,18 @@
+{
+    "base": "choreography",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "choreography",
+    "n2": "choreographies",
+    "n3": "the choreography",
+    "n4": "the choreographies",
+    "n5": "choreography's",
+    "n6": "choreographies'",
+    "n7": "a choreography",
+    "n8": "many choreographies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "psychosomatic disorder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "psychosomatic disorder",
+    "n2": "psychosomatic disorders",
+    "n3": "the psychosomatic disorder",
+    "n4": "the psychosomatic disorders",
+    "n5": "psychosomatic disorder's",
+    "n6": "psychosomatic disorders'",
+    "n7": "a psychosomatic disorder",
+    "n8": "many psychosomatic disorders"
+}

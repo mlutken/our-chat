@@ -1,0 +1,18 @@
+{
+    "base": "sham",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sham",
+    "n2": "shams",
+    "n3": "the sham",
+    "n4": "the shams",
+    "n5": "sham's",
+    "n6": "shams'",
+    "n7": "a sham",
+    "n8": "many shams"
+}

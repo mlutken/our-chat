@@ -1,0 +1,18 @@
+{
+    "base": "crucifix",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crucifix",
+    "n2": "crucifixes",
+    "n3": "the crucifix",
+    "n4": "the crucifixes",
+    "n5": "crucifix's",
+    "n6": "crucifixes'",
+    "n7": "a crucifix",
+    "n8": "many crucifixes"
+}

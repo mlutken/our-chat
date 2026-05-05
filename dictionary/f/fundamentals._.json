@@ -1,0 +1,18 @@
+{
+    "base": "fundamentals",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fundamentals",
+    "n2": "fundamentalses",
+    "n3": "the fundamentals",
+    "n4": "the fundamentalses",
+    "n5": "fundamentals'",
+    "n6": "fundamentalses'",
+    "n7": "a fundamentals",
+    "n8": "many fundamentalses"
+}

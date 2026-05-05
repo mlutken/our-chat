@@ -1,0 +1,18 @@
+{
+    "base": "asterisk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "asterisk",
+    "n2": "asterisks",
+    "n3": "the asterisk",
+    "n4": "the asterisks",
+    "n5": "asterisk's",
+    "n6": "asterisks'",
+    "n7": "an asterisk",
+    "n8": "many asterisks"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sobriety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sobriety",
+    "n2": "sobrieties",
+    "n3": "the sobriety",
+    "n4": "the sobrieties",
+    "n5": "sobriety's",
+    "n6": "sobrieties'",
+    "n7": "a sobriety",
+    "n8": "many sobrieties"
+}

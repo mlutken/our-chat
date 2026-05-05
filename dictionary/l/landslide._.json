@@ -1,0 +1,18 @@
+{
+    "base": "landslide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "landslide",
+    "n2": "landslides",
+    "n3": "the landslide",
+    "n4": "the landslides",
+    "n5": "landslide's",
+    "n6": "landslides'",
+    "n7": "a landslide",
+    "n8": "many landslides"
+}

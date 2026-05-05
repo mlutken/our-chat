@@ -1,0 +1,18 @@
+{
+    "base": "dismay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dismay",
+    "n2": "dismays",
+    "n3": "the dismay",
+    "n4": "the dismays",
+    "n5": "dismay's",
+    "n6": "dismays'",
+    "n7": "a dismay",
+    "n8": "many dismays"
+}

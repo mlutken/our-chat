@@ -1,0 +1,18 @@
+{
+    "base": "bridegroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bridegroom",
+    "n2": "bridegrooms",
+    "n3": "the bridegroom",
+    "n4": "the bridegrooms",
+    "n5": "bridegroom's",
+    "n6": "bridegrooms'",
+    "n7": "a bridegroom",
+    "n8": "many bridegrooms"
+}

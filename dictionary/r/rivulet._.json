@@ -1,0 +1,18 @@
+{
+    "base": "rivulet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rivulet",
+    "n2": "rivulets",
+    "n3": "the rivulet",
+    "n4": "the rivulets",
+    "n5": "rivulet's",
+    "n6": "rivulets'",
+    "n7": "a rivulet",
+    "n8": "many rivulets"
+}

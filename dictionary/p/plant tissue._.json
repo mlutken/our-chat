@@ -1,0 +1,18 @@
+{
+    "base": "plant tissue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plant tissue",
+    "n2": "plant tissues",
+    "n3": "the plant tissue",
+    "n4": "the plant tissues",
+    "n5": "plant tissue's",
+    "n6": "plant tissues'",
+    "n7": "a plant tissue",
+    "n8": "many plant tissues"
+}

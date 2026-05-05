@@ -1,0 +1,18 @@
+{
+    "base": "time clock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "time clock",
+    "n2": "time clocks",
+    "n3": "the time clock",
+    "n4": "the time clocks",
+    "n5": "time clock's",
+    "n6": "time clocks'",
+    "n7": "a time clock",
+    "n8": "many time clocks"
+}

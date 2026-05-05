@@ -7,5 +7,12 @@
     "n2": "themes",
     "n3": "the theme",
     "n4": "the themes",
-    "n5": "theme's"
+    "n5": "theme's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "themes'",
+    "n7": "a theme",
+    "n8": "many themes"
 }

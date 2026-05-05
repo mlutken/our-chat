@@ -1,0 +1,18 @@
+{
+    "base": "disposal plant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disposal plant",
+    "n2": "disposal plants",
+    "n3": "the disposal plant",
+    "n4": "the disposal plants",
+    "n5": "disposal plant's",
+    "n6": "disposal plants'",
+    "n7": "a disposal plant",
+    "n8": "many disposal plants"
+}

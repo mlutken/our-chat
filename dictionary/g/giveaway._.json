@@ -1,0 +1,18 @@
+{
+    "base": "giveaway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "giveaway",
+    "n2": "giveaways",
+    "n3": "the giveaway",
+    "n4": "the giveaways",
+    "n5": "giveaway's",
+    "n6": "giveaways'",
+    "n7": "a giveaway",
+    "n8": "many giveaways"
+}

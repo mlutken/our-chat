@@ -1,0 +1,18 @@
+{
+    "base": "portion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n1": "portion",
+    "n2": "portions",
+    "n3": "the portion",
+    "n4": "the portions",
+    "n5": "portion's",
+    "n6": "portions'",
+    "n7": "a portion",
+    "n8": "many portions"
+}

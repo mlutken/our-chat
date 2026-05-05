@@ -7,5 +7,12 @@
     "n2": "permissions",
     "n3": "the permission",
     "n4": "the permissions",
-    "n5": "permission's"
+    "n5": "permission's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "permissions'",
+    "n7": "a permission",
+    "n8": "many permissions"
 }

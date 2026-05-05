@@ -1,0 +1,18 @@
+{
+    "base": "viscometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "viscometer",
+    "n2": "viscometers",
+    "n3": "the viscometer",
+    "n4": "the viscometers",
+    "n5": "viscometer's",
+    "n6": "viscometers'",
+    "n7": "a viscometer",
+    "n8": "many viscometers"
+}

@@ -13,5 +13,12 @@
     "v2": "balanced",
     "v3": "balanced",
     "v4": "balancing",
-    "v5": "balances"
+    "v5": "balances",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "balances'",
+    "n7": "a balance",
+    "n8": "many balances"
 }

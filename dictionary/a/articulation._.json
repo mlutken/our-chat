@@ -1,0 +1,18 @@
+{
+    "base": "articulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "articulation",
+    "n2": "articulations",
+    "n3": "the articulation",
+    "n4": "the articulations",
+    "n5": "articulation's",
+    "n6": "articulations'",
+    "n7": "an articulation",
+    "n8": "many articulations"
+}

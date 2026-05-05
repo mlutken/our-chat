@@ -1,0 +1,18 @@
+{
+    "base": "foreigner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "foreigner",
+    "n2": "foreigners",
+    "n3": "the foreigner",
+    "n4": "the foreigners",
+    "n5": "foreigner's",
+    "n6": "foreigners'",
+    "n7": "a foreigner",
+    "n8": "many foreigners"
+}

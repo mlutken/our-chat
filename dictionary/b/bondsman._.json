@@ -1,0 +1,18 @@
+{
+    "base": "bondsman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bondsman",
+    "n2": "bondsmen",
+    "n3": "the bondsman",
+    "n4": "the bondsmen",
+    "n5": "bondsman's",
+    "n6": "bondsmen's",
+    "n7": "a bondsman",
+    "n8": "many bondsmen"
+}

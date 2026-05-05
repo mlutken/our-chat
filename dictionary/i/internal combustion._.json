@@ -1,0 +1,18 @@
+{
+    "base": "internal combustion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "internal combustion",
+    "n2": "internal combustions",
+    "n3": "the internal combustion",
+    "n4": "the internal combustions",
+    "n5": "internal combustion's",
+    "n6": "internal combustions'",
+    "n7": "an internal combustion",
+    "n8": "many internal combustions"
+}

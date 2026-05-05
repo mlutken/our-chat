@@ -1,0 +1,18 @@
+{
+    "base": "atomic energy commission",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "atomic energy commission",
+    "n2": "atomic energy commissions",
+    "n3": "the atomic energy commission",
+    "n4": "the atomic energy commissions",
+    "n5": "atomic energy commission's",
+    "n6": "atomic energy commissions'",
+    "n7": "an atomic energy commission",
+    "n8": "many atomic energy commissions"
+}

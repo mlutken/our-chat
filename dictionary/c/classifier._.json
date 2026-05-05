@@ -1,0 +1,18 @@
+{
+    "base": "classifier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "classifier",
+    "n2": "classifiers",
+    "n3": "the classifier",
+    "n4": "the classifiers",
+    "n5": "classifier's",
+    "n6": "classifiers'",
+    "n7": "a classifier",
+    "n8": "many classifiers"
+}

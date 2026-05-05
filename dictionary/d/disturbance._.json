@@ -1,0 +1,18 @@
+{
+    "base": "disturbance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "disturbance",
+    "n2": "disturbances",
+    "n3": "the disturbance",
+    "n4": "the disturbances",
+    "n5": "disturbance's",
+    "n6": "disturbances'",
+    "n7": "a disturbance",
+    "n8": "many disturbances"
+}

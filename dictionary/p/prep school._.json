@@ -1,0 +1,18 @@
+{
+    "base": "prep school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "prep school",
+    "n2": "prep schools",
+    "n3": "the prep school",
+    "n4": "the prep schools",
+    "n5": "prep school's",
+    "n6": "prep schools'",
+    "n7": "a prep school",
+    "n8": "many prep schools"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "slicker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slicker",
+    "n2": "slickers",
+    "n3": "the slicker",
+    "n4": "the slickers",
+    "n5": "slicker's",
+    "n6": "slickers'",
+    "n7": "a slicker",
+    "n8": "many slickers"
+}

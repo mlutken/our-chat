@@ -1,0 +1,18 @@
+{
+    "base": "caution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "caution",
+    "n2": "cautions",
+    "n3": "the caution",
+    "n4": "the cautions",
+    "n5": "caution's",
+    "n6": "cautions'",
+    "n7": "a caution",
+    "n8": "many cautions"
+}

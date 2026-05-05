@@ -1,0 +1,18 @@
+{
+    "base": "balletomane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balletomane",
+    "n2": "balletomanes",
+    "n3": "the balletomane",
+    "n4": "the balletomanes",
+    "n5": "balletomane's",
+    "n6": "balletomanes'",
+    "n7": "a balletomane",
+    "n8": "many balletomanes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ravage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ravage",
+    "n2": "ravages",
+    "n3": "the ravage",
+    "n4": "the ravages",
+    "n5": "ravage's",
+    "n6": "ravages'",
+    "n7": "a ravage",
+    "n8": "many ravages"
+}

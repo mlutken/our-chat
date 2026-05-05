@@ -1,0 +1,18 @@
+{
+    "base": "bathtub gin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bathtub gin",
+    "n2": "bathtub gins",
+    "n3": "the bathtub gin",
+    "n4": "the bathtub gins",
+    "n5": "bathtub gin's",
+    "n6": "bathtub gins'",
+    "n7": "a bathtub gin",
+    "n8": "many bathtub gins"
+}

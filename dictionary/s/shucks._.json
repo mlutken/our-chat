@@ -1,0 +1,18 @@
+{
+    "base": "shucks",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shucks",
+    "n2": "shuckses",
+    "n3": "the shucks",
+    "n4": "the shuckses",
+    "n5": "shucks'",
+    "n6": "shuckses'",
+    "n7": "a shucks",
+    "n8": "many shuckses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nemesis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nemesis",
+    "n2": "nemeses",
+    "n3": "the nemesis",
+    "n4": "the nemeses",
+    "n5": "nemesis'",
+    "n6": "nemeses'",
+    "n7": "a nemesis",
+    "n8": "many nemeses"
+}

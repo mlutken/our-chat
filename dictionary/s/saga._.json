@@ -1,0 +1,18 @@
+{
+    "base": "saga",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "saga",
+    "n2": "sagas",
+    "n3": "the saga",
+    "n4": "the sagas",
+    "n5": "saga's",
+    "n6": "sagas'",
+    "n7": "a saga",
+    "n8": "many sagas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sentence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "sentence",
+    "n2": "sentences",
+    "n3": "the sentence",
+    "n4": "the sentences",
+    "n5": "sentence's",
+    "n6": "sentences'",
+    "n7": "a sentence",
+    "n8": "many sentences"
+}

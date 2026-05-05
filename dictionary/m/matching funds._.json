@@ -1,0 +1,18 @@
+{
+    "base": "matching funds",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "matching funds",
+    "n2": "matching fundses",
+    "n3": "the matching funds",
+    "n4": "the matching fundses",
+    "n5": "matching funds'",
+    "n6": "matching fundses'",
+    "n7": "a matching funds",
+    "n8": "many matching fundses"
+}

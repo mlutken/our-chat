@@ -1,0 +1,18 @@
+{
+    "base": "compromise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "compromise",
+    "n2": "compromises",
+    "n3": "the compromise",
+    "n4": "the compromises",
+    "n5": "compromise's",
+    "n6": "compromises'",
+    "n7": "a compromise",
+    "n8": "many compromises"
+}

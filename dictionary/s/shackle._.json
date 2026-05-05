@@ -1,0 +1,18 @@
+{
+    "base": "shackle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shackle",
+    "n2": "shackles",
+    "n3": "the shackle",
+    "n4": "the shackles",
+    "n5": "shackle's",
+    "n6": "shackles'",
+    "n7": "a shackle",
+    "n8": "many shackles"
+}

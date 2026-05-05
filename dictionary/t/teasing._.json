@@ -1,0 +1,18 @@
+{
+    "base": "teasing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "teasing",
+    "n2": "teasings",
+    "n3": "the teasing",
+    "n4": "the teasings",
+    "n5": "teasing's",
+    "n6": "teasings'",
+    "n7": "a teasing",
+    "n8": "many teasings"
+}

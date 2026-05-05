@@ -1,0 +1,18 @@
+{
+    "base": "man-of-war",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "man-of-war",
+    "n2": "men-o'-war",
+    "n3": "the man-of-war",
+    "n4": "the men-o'-war",
+    "n5": "man-of-war's",
+    "n6": "men-o'-war's",
+    "n7": "a man-of-war",
+    "n8": "many men-o'-war"
+}

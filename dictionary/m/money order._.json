@@ -1,0 +1,18 @@
+{
+    "base": "money order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "money order",
+    "n2": "money orders",
+    "n3": "the money order",
+    "n4": "the money orders",
+    "n5": "money order's",
+    "n6": "money orders'",
+    "n7": "a money order",
+    "n8": "many money orders"
+}

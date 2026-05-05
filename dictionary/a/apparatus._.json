@@ -1,0 +1,18 @@
+{
+    "base": "apparatus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "apparatus",
+    "n2": "apparatus",
+    "n3": "the apparatus",
+    "n4": "the apparatus",
+    "n5": "apparatus'",
+    "n6": "apparatus'",
+    "n7": "an apparatus",
+    "n8": "many apparatus"
+}

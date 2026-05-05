@@ -1,0 +1,18 @@
+{
+    "base": "body weight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "body weight",
+    "n2": "body weights",
+    "n3": "the body weight",
+    "n4": "the body weights",
+    "n5": "body weight's",
+    "n6": "body weights'",
+    "n7": "a body weight",
+    "n8": "many body weights"
+}

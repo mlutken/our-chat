@@ -1,0 +1,18 @@
+{
+    "base": "third-dimensionality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "third-dimensionality",
+    "n2": "third-dimensionalities",
+    "n3": "the third-dimensionality",
+    "n4": "the third-dimensionalities",
+    "n5": "third-dimensionality's",
+    "n6": "third-dimensionalities'",
+    "n7": "a third-dimensionality",
+    "n8": "many third-dimensionalities"
+}

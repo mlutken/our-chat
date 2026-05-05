@@ -1,0 +1,18 @@
+{
+    "base": "comrade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n1": "comrade",
+    "n2": "comrades",
+    "n3": "the comrade",
+    "n4": "the comrades",
+    "n5": "comrade's",
+    "n6": "comrades'",
+    "n7": "a comrade",
+    "n8": "many comrades"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gun smoke",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gun smoke",
+    "n2": "gun smokes",
+    "n3": "the gun smoke",
+    "n4": "the gun smokes",
+    "n5": "gun smoke's",
+    "n6": "gun smokes'",
+    "n7": "a gun smoke",
+    "n8": "many gun smokes"
+}

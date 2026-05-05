@@ -1,0 +1,18 @@
+{
+    "base": "plenty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "plenty",
+    "n2": "plenties",
+    "n3": "the plenty",
+    "n4": "the plenties",
+    "n5": "plenty's",
+    "n6": "plenties'",
+    "n7": "a plenty",
+    "n8": "many plenties"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "glint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glint",
+    "n2": "glints",
+    "n3": "the glint",
+    "n4": "the glints",
+    "n5": "glint's",
+    "n6": "glints'",
+    "n7": "a glint",
+    "n8": "many glints"
+}

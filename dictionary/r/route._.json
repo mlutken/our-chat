@@ -7,5 +7,12 @@
     "n2": "routes",
     "n3": "the route",
     "n4": "the routes",
-    "n5": "route's"
+    "n5": "route's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "routes'",
+    "n7": "a route",
+    "n8": "many routes"
 }

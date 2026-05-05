@@ -13,5 +13,12 @@
     "v2": "mattered",
     "v3": "mattered",
     "v4": "mattering",
-    "v5": "matters"
+    "v5": "matters",
+    "proper": false,
+    "commonness": 76,
+    "max_commonness": 6834,
+    "commonness_ge_count": 180,
+    "n6": "matters'",
+    "n7": "a matter",
+    "n8": "many matters"
 }

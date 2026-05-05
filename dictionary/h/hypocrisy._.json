@@ -1,0 +1,18 @@
+{
+    "base": "hypocrisy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hypocrisy",
+    "n2": "hypocrisies",
+    "n3": "the hypocrisy",
+    "n4": "the hypocrisies",
+    "n5": "hypocrisy's",
+    "n6": "hypocrisies'",
+    "n7": "a hypocrisy",
+    "n8": "many hypocrisies"
+}

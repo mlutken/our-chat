@@ -1,0 +1,18 @@
+{
+    "base": "irish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "irish",
+    "n2": "irishes",
+    "n3": "the irish",
+    "n4": "the irishes",
+    "n5": "irish's",
+    "n6": "irishes'",
+    "n7": "an irish",
+    "n8": "many irishes"
+}

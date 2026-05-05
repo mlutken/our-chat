@@ -1,0 +1,18 @@
+{
+    "base": "seed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "seed",
+    "n2": "seeds",
+    "n3": "the seed",
+    "n4": "the seeds",
+    "n5": "seed's",
+    "n6": "seeds'",
+    "n7": "a seed",
+    "n8": "many seeds"
+}

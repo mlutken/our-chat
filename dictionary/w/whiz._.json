@@ -1,0 +1,18 @@
+{
+    "base": "whiz",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whiz",
+    "n2": "whizes",
+    "n3": "the whiz",
+    "n4": "the whizes",
+    "n5": "whiz's",
+    "n6": "whizes'",
+    "n7": "a whiz",
+    "n8": "many whizes"
+}

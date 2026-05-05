@@ -1,0 +1,18 @@
+{
+    "base": "collector",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "collector",
+    "n2": "collectors",
+    "n3": "the collector",
+    "n4": "the collectors",
+    "n5": "collector's",
+    "n6": "collectors'",
+    "n7": "a collector",
+    "n8": "many collectors"
+}

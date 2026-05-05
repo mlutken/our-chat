@@ -1,0 +1,18 @@
+{
+    "base": "high spirits",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "high spirits",
+    "n2": "high spiritses",
+    "n3": "the high spirits",
+    "n4": "the high spiritses",
+    "n5": "high spirits'",
+    "n6": "high spiritses'",
+    "n7": "a high spirits",
+    "n8": "many high spiritses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "flip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flip",
+    "n2": "flips",
+    "n3": "the flip",
+    "n4": "the flips",
+    "n5": "flip's",
+    "n6": "flips'",
+    "n7": "a flip",
+    "n8": "many flips"
+}

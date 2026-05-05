@@ -1,0 +1,18 @@
+{
+    "base": "freckle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "freckle",
+    "n2": "freckles",
+    "n3": "the freckle",
+    "n4": "the freckles",
+    "n5": "freckle's",
+    "n6": "freckles'",
+    "n7": "a freckle",
+    "n8": "many freckles"
+}

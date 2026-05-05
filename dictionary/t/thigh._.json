@@ -1,0 +1,18 @@
+{
+    "base": "thigh",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "thigh",
+    "n2": "thighs",
+    "n3": "the thigh",
+    "n4": "the thighs",
+    "n5": "thigh's",
+    "n6": "thighs'",
+    "n7": "a thigh",
+    "n8": "many thighs"
+}

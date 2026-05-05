@@ -1,0 +1,18 @@
+{
+    "base": "horseman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "horseman",
+    "n2": "horsemen",
+    "n3": "the horseman",
+    "n4": "the horsemen",
+    "n5": "horseman's",
+    "n6": "horsemen's",
+    "n7": "a horseman",
+    "n8": "many horsemen"
+}

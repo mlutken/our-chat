@@ -1,0 +1,18 @@
+{
+    "base": "correspondence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "correspondence",
+    "n2": "correspondences",
+    "n3": "the correspondence",
+    "n4": "the correspondences",
+    "n5": "correspondence's",
+    "n6": "correspondences'",
+    "n7": "a correspondence",
+    "n8": "many correspondences"
+}

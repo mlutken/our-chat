@@ -1,0 +1,18 @@
+{
+    "base": "universe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "universe",
+    "n2": "universes",
+    "n3": "the universe",
+    "n4": "the universes",
+    "n5": "universe's",
+    "n6": "universes'",
+    "n7": "a universe",
+    "n8": "many universes"
+}

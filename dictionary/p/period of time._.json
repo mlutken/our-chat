@@ -1,0 +1,18 @@
+{
+    "base": "period of time",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "period of time",
+    "n2": "period of times",
+    "n3": "the period of time",
+    "n4": "the period of times",
+    "n5": "period of time's",
+    "n6": "period of times'",
+    "n7": "a period of time",
+    "n8": "many period of times"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "testament",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "testament",
+    "n2": "testaments",
+    "n3": "the testament",
+    "n4": "the testaments",
+    "n5": "testament's",
+    "n6": "testaments'",
+    "n7": "a testament",
+    "n8": "many testaments"
+}

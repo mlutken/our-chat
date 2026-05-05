@@ -1,11 +1,24 @@
 {
     "base": "press",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "press",
     "v2": "pressed",
     "v3": "pressed",
     "v4": "pressing",
-    "v5": "presses"
+    "v5": "presses",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "press",
+    "n2": "presses",
+    "n3": "the press",
+    "n4": "the presses",
+    "n5": "press'",
+    "n6": "presses'",
+    "n7": "a press",
+    "n8": "many presses"
 }

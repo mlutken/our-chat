@@ -1,0 +1,18 @@
+{
+    "base": "thud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thud",
+    "n2": "thuds",
+    "n3": "the thud",
+    "n4": "the thuds",
+    "n5": "thud's",
+    "n6": "thuds'",
+    "n7": "a thud",
+    "n8": "many thuds"
+}

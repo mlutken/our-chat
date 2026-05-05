@@ -1,0 +1,18 @@
+{
+    "base": "vienna",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vienna",
+    "n2": "viennas",
+    "n3": "the vienna",
+    "n4": "the viennas",
+    "n5": "vienna's",
+    "n6": "viennas'",
+    "n7": "a vienna",
+    "n8": "many viennas"
+}

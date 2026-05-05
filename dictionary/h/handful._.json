@@ -1,0 +1,18 @@
+{
+    "base": "handful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "handful",
+    "n2": "handfuls",
+    "n3": "the handful",
+    "n4": "the handfuls",
+    "n5": "handful's",
+    "n6": "handfuls'",
+    "n7": "a handful",
+    "n8": "many handfuls"
+}

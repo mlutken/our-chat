@@ -1,0 +1,18 @@
+{
+    "base": "breakup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "breakup",
+    "n2": "breakups",
+    "n3": "the breakup",
+    "n4": "the breakups",
+    "n5": "breakup's",
+    "n6": "breakups'",
+    "n7": "a breakup",
+    "n8": "many breakups"
+}

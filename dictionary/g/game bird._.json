@@ -1,0 +1,18 @@
+{
+    "base": "game bird",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "game bird",
+    "n2": "game birds",
+    "n3": "the game bird",
+    "n4": "the game birds",
+    "n5": "game bird's",
+    "n6": "game birds'",
+    "n7": "a game bird",
+    "n8": "many game birds"
+}

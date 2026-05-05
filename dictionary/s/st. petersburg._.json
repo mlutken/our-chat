@@ -1,0 +1,18 @@
+{
+    "base": "st. petersburg",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "st. petersburg",
+    "n2": "st. petersburgs",
+    "n3": "the st. petersburg",
+    "n4": "the st. petersburgs",
+    "n5": "st. petersburg's",
+    "n6": "st. petersburgs'",
+    "n7": "a st. petersburg",
+    "n8": "many st. petersburgs"
+}

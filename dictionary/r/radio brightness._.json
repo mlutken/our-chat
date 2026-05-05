@@ -1,0 +1,18 @@
+{
+    "base": "radio brightness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "radio brightness",
+    "n2": "radio brightnesses",
+    "n3": "the radio brightness",
+    "n4": "the radio brightnesses",
+    "n5": "radio brightness'",
+    "n6": "radio brightnesses'",
+    "n7": "a radio brightness",
+    "n8": "many radio brightnesses"
+}

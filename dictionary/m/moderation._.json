@@ -1,0 +1,18 @@
+{
+    "base": "moderation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moderation",
+    "n2": "moderations",
+    "n3": "the moderation",
+    "n4": "the moderations",
+    "n5": "moderation's",
+    "n6": "moderations'",
+    "n7": "a moderation",
+    "n8": "many moderations"
+}

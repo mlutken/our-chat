@@ -1,11 +1,24 @@
 {
     "base": "brush",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "brush",
     "v2": "brushed",
     "v3": "brushed",
     "v4": "brushing",
-    "v5": "brushes"
+    "v5": "brushes",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "brush",
+    "n2": "brushes",
+    "n3": "the brush",
+    "n4": "the brushes",
+    "n5": "brush's",
+    "n6": "brushes'",
+    "n7": "a brush",
+    "n8": "many brushes"
 }

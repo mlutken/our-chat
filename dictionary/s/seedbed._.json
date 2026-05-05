@@ -1,0 +1,18 @@
+{
+    "base": "seedbed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seedbed",
+    "n2": "seedbeds",
+    "n3": "the seedbed",
+    "n4": "the seedbeds",
+    "n5": "seedbed's",
+    "n6": "seedbeds'",
+    "n7": "a seedbed",
+    "n8": "many seedbeds"
+}

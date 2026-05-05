@@ -1,0 +1,18 @@
+{
+    "base": "watercolor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "watercolor",
+    "n2": "watercolors",
+    "n3": "the watercolor",
+    "n4": "the watercolors",
+    "n5": "watercolor's",
+    "n6": "watercolors'",
+    "n7": "a watercolor",
+    "n8": "many watercolors"
+}

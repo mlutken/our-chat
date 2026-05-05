@@ -1,0 +1,18 @@
+{
+    "base": "craftsman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "craftsman",
+    "n2": "craftsmen",
+    "n3": "the craftsman",
+    "n4": "the craftsmen",
+    "n5": "craftsman's",
+    "n6": "craftsmen's",
+    "n7": "a craftsman",
+    "n8": "many craftsmen"
+}

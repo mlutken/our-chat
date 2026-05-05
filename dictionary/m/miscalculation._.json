@@ -1,0 +1,18 @@
+{
+    "base": "miscalculation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "miscalculation",
+    "n2": "miscalculations",
+    "n3": "the miscalculation",
+    "n4": "the miscalculations",
+    "n5": "miscalculation's",
+    "n6": "miscalculations'",
+    "n7": "a miscalculation",
+    "n8": "many miscalculations"
+}

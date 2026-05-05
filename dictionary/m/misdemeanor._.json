@@ -1,0 +1,18 @@
+{
+    "base": "misdemeanor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "misdemeanor",
+    "n2": "misdemeanors",
+    "n3": "the misdemeanor",
+    "n4": "the misdemeanors",
+    "n5": "misdemeanor's",
+    "n6": "misdemeanors'",
+    "n7": "a misdemeanor",
+    "n8": "many misdemeanors"
+}

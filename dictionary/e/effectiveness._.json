@@ -1,0 +1,18 @@
+{
+    "base": "effectiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "effectiveness",
+    "n2": "effectivenesses",
+    "n3": "the effectiveness",
+    "n4": "the effectivenesses",
+    "n5": "effectiveness'",
+    "n6": "effectivenesses'",
+    "n7": "an effectiveness",
+    "n8": "many effectivenesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "physicalness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "physicalness",
+    "n2": "physicalnesses",
+    "n3": "the physicalness",
+    "n4": "the physicalnesses",
+    "n5": "physicalness'",
+    "n6": "physicalnesses'",
+    "n7": "a physicalness",
+    "n8": "many physicalnesses"
+}

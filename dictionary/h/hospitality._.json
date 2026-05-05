@@ -1,0 +1,18 @@
+{
+    "base": "hospitality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hospitality",
+    "n2": "hospitalities",
+    "n3": "the hospitality",
+    "n4": "the hospitalities",
+    "n5": "hospitality's",
+    "n6": "hospitalities'",
+    "n7": "a hospitality",
+    "n8": "many hospitalities"
+}

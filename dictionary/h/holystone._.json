@@ -1,0 +1,18 @@
+{
+    "base": "holystone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holystone",
+    "n2": "holystones",
+    "n3": "the holystone",
+    "n4": "the holystones",
+    "n5": "holystone's",
+    "n6": "holystones'",
+    "n7": "a holystone",
+    "n8": "many holystones"
+}

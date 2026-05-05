@@ -1,0 +1,18 @@
+{
+    "base": "commercial enterprise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commercial enterprise",
+    "n2": "commercial enterprises",
+    "n3": "the commercial enterprise",
+    "n4": "the commercial enterprises",
+    "n5": "commercial enterprise's",
+    "n6": "commercial enterprises'",
+    "n7": "a commercial enterprise",
+    "n8": "many commercial enterprises"
+}

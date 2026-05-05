@@ -1,0 +1,18 @@
+{
+    "base": "mint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mint",
+    "n2": "mints",
+    "n3": "the mint",
+    "n4": "the mints",
+    "n5": "mint's",
+    "n6": "mints'",
+    "n7": "a mint",
+    "n8": "many mints"
+}

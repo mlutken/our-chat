@@ -1,0 +1,18 @@
+{
+    "base": "rare earth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rare earth",
+    "n2": "rare earths",
+    "n3": "the rare earth",
+    "n4": "the rare earths",
+    "n5": "rare earth's",
+    "n6": "rare earths'",
+    "n7": "a rare earth",
+    "n8": "many rare earths"
+}

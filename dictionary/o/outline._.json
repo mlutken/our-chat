@@ -1,0 +1,18 @@
+{
+    "base": "outline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "outline",
+    "n2": "outlines",
+    "n3": "the outline",
+    "n4": "the outlines",
+    "n5": "outline's",
+    "n6": "outlines'",
+    "n7": "an outline",
+    "n8": "many outlines"
+}

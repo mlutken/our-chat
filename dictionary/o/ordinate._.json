@@ -1,0 +1,18 @@
+{
+    "base": "ordinate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ordinate",
+    "n2": "ordinates",
+    "n3": "the ordinate",
+    "n4": "the ordinates",
+    "n5": "ordinate's",
+    "n6": "ordinates'",
+    "n7": "an ordinate",
+    "n8": "many ordinates"
+}

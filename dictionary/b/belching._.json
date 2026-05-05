@@ -1,0 +1,18 @@
+{
+    "base": "belching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "belching",
+    "n2": "belchings",
+    "n3": "the belching",
+    "n4": "the belchings",
+    "n5": "belching's",
+    "n6": "belchings'",
+    "n7": "a belching",
+    "n8": "many belchings"
+}

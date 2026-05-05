@@ -13,5 +13,12 @@
     "v2": "guided",
     "v3": "guided",
     "v4": "guiding",
-    "v5": "guides"
+    "v5": "guides",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "guides'",
+    "n7": "a guide",
+    "n8": "many guides"
 }

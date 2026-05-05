@@ -1,0 +1,18 @@
+{
+    "base": "shepherd",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shepherd",
+    "n2": "shepherds",
+    "n3": "the shepherd",
+    "n4": "the shepherds",
+    "n5": "shepherd's",
+    "n6": "shepherds'",
+    "n7": "a shepherd",
+    "n8": "many shepherds"
+}

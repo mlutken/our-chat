@@ -1,0 +1,18 @@
+{
+    "base": "naught",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "naught",
+    "n2": "naughts",
+    "n3": "the naught",
+    "n4": "the naughts",
+    "n5": "naught's",
+    "n6": "naughts'",
+    "n7": "a naught",
+    "n8": "many naughts"
+}

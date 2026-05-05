@@ -1,0 +1,18 @@
+{
+    "base": "absorption spectrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "absorption spectrum",
+    "n2": "absorption spectrums",
+    "n3": "the absorption spectrum",
+    "n4": "the absorption spectrums",
+    "n5": "absorption spectrum's",
+    "n6": "absorption spectrums'",
+    "n7": "an absorption spectrum",
+    "n8": "many absorption spectrums"
+}

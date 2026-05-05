@@ -1,11 +1,24 @@
 {
     "base": "trust",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trust",
     "v2": "trusted",
     "v3": "trusted",
     "v4": "trusting",
-    "v5": "trusts"
+    "v5": "trusts",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "trust",
+    "n2": "trusts",
+    "n3": "the trust",
+    "n4": "the trusts",
+    "n5": "trust's",
+    "n6": "trusts'",
+    "n7": "a trust",
+    "n8": "many trusts"
 }

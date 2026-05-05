@@ -1,0 +1,18 @@
+{
+    "base": "gauge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gauge",
+    "n2": "gauges",
+    "n3": "the gauge",
+    "n4": "the gauges",
+    "n5": "gauge's",
+    "n6": "gauges'",
+    "n7": "a gauge",
+    "n8": "many gauges"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "freeway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "freeway",
+    "n2": "freeways",
+    "n3": "the freeway",
+    "n4": "the freeways",
+    "n5": "freeway's",
+    "n6": "freeways'",
+    "n7": "a freeway",
+    "n8": "many freeways"
+}

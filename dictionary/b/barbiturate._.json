@@ -1,0 +1,18 @@
+{
+    "base": "barbiturate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barbiturate",
+    "n2": "barbiturates",
+    "n3": "the barbiturate",
+    "n4": "the barbiturates",
+    "n5": "barbiturate's",
+    "n6": "barbiturates'",
+    "n7": "a barbiturate",
+    "n8": "many barbiturates"
+}

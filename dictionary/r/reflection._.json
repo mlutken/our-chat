@@ -7,5 +7,12 @@
     "n2": "reflections",
     "n3": "the reflection",
     "n4": "the reflections",
-    "n5": "reflection's"
+    "n5": "reflection's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "reflections'",
+    "n7": "a reflection",
+    "n8": "many reflections"
 }

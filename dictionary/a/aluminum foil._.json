@@ -1,0 +1,18 @@
+{
+    "base": "aluminum foil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "aluminum foil",
+    "n2": "aluminum foils",
+    "n3": "the aluminum foil",
+    "n4": "the aluminum foils",
+    "n5": "aluminum foil's",
+    "n6": "aluminum foils'",
+    "n7": "an aluminum foil",
+    "n8": "many aluminum foils"
+}

@@ -1,11 +1,24 @@
 {
     "base": "trap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trap",
     "v2": "trapped",
     "v3": "trapped",
     "v4": "trapping",
-    "v5": "traps"
+    "v5": "traps",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "trap",
+    "n2": "traps",
+    "n3": "the trap",
+    "n4": "the traps",
+    "n5": "trap's",
+    "n6": "traps'",
+    "n7": "a trap",
+    "n8": "many traps"
 }

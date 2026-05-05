@@ -1,0 +1,18 @@
+{
+    "base": "days",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "days",
+    "n2": "dayses",
+    "n3": "the days",
+    "n4": "the dayses",
+    "n5": "days'",
+    "n6": "dayses'",
+    "n7": "a days",
+    "n8": "many dayses"
+}

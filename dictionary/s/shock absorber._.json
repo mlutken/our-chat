@@ -1,0 +1,18 @@
+{
+    "base": "shock absorber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shock absorber",
+    "n2": "shock absorbers",
+    "n3": "the shock absorber",
+    "n4": "the shock absorbers",
+    "n5": "shock absorber's",
+    "n6": "shock absorbers'",
+    "n7": "a shock absorber",
+    "n8": "many shock absorbers"
+}

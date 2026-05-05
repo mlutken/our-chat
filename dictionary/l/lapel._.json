@@ -1,0 +1,18 @@
+{
+    "base": "lapel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lapel",
+    "n2": "lapels",
+    "n3": "the lapel",
+    "n4": "the lapels",
+    "n5": "lapel's",
+    "n6": "lapels'",
+    "n7": "a lapel",
+    "n8": "many lapels"
+}

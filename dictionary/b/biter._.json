@@ -1,0 +1,18 @@
+{
+    "base": "biter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "biter",
+    "n2": "biters",
+    "n3": "the biter",
+    "n4": "the biters",
+    "n5": "biter's",
+    "n6": "biters'",
+    "n7": "a biter",
+    "n8": "many biters"
+}

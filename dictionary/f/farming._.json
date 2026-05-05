@@ -1,0 +1,18 @@
+{
+    "base": "farming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "farming",
+    "n2": "farmings",
+    "n3": "the farming",
+    "n4": "the farmings",
+    "n5": "farming's",
+    "n6": "farmings'",
+    "n7": "a farming",
+    "n8": "many farmings"
+}

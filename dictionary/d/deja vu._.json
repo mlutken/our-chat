@@ -1,0 +1,18 @@
+{
+    "base": "deja vu",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "deja vu",
+    "n2": "deja vus",
+    "n3": "the deja vu",
+    "n4": "the deja vus",
+    "n5": "deja vu's",
+    "n6": "deja vus'",
+    "n7": "a deja vu",
+    "n8": "many deja vus"
+}

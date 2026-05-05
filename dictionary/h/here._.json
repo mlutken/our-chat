@@ -1,8 +1,21 @@
 {
     "base": "here",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "here",
-    "adv_subtype": "place"
+    "adv_subtype": "place",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "here",
+    "n2": "heres",
+    "n3": "the here",
+    "n4": "the heres",
+    "n5": "here's",
+    "n6": "heres'",
+    "n7": "a here",
+    "n8": "many heres"
 }

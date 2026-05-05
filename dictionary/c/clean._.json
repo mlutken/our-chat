@@ -1,6 +1,7 @@
 {
     "base": "clean",
     "classes": [
+        "n",
         "adj",
         "v"
     ],
@@ -11,5 +12,17 @@
     "v2": "cleaned",
     "v3": "cleaned",
     "v4": "cleaning",
-    "v5": "cleans"
+    "v5": "cleans",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clean",
+    "n2": "cleans",
+    "n3": "the clean",
+    "n4": "the cleans",
+    "n5": "clean's",
+    "n6": "cleans'",
+    "n7": "a clean",
+    "n8": "many cleans"
 }

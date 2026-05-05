@@ -1,0 +1,18 @@
+{
+    "base": "weakening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "weakening",
+    "n2": "weakenings",
+    "n3": "the weakening",
+    "n4": "the weakenings",
+    "n5": "weakening's",
+    "n6": "weakenings'",
+    "n7": "a weakening",
+    "n8": "many weakenings"
+}

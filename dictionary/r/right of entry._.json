@@ -1,0 +1,18 @@
+{
+    "base": "right of entry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "right of entry",
+    "n2": "right of entries",
+    "n3": "the right of entry",
+    "n4": "the right of entries",
+    "n5": "right of entry's",
+    "n6": "right of entries'",
+    "n7": "a right of entry",
+    "n8": "many right of entries"
+}

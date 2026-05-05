@@ -1,0 +1,18 @@
+{
+    "base": "corporeality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corporeality",
+    "n2": "corporealities",
+    "n3": "the corporeality",
+    "n4": "the corporealities",
+    "n5": "corporeality's",
+    "n6": "corporealities'",
+    "n7": "a corporeality",
+    "n8": "many corporealities"
+}

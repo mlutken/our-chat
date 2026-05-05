@@ -1,11 +1,24 @@
 {
     "base": "flow",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "flow",
     "v2": "flowed",
     "v3": "flowed",
     "v4": "flowing",
-    "v5": "flows"
+    "v5": "flows",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "flow",
+    "n2": "flows",
+    "n3": "the flow",
+    "n4": "the flows",
+    "n5": "flow's",
+    "n6": "flows'",
+    "n7": "a flow",
+    "n8": "many flows"
 }

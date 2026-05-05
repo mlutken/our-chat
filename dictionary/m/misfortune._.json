@@ -1,0 +1,18 @@
+{
+    "base": "misfortune",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "misfortune",
+    "n2": "misfortunes",
+    "n3": "the misfortune",
+    "n4": "the misfortunes",
+    "n5": "misfortune's",
+    "n6": "misfortunes'",
+    "n7": "a misfortune",
+    "n8": "many misfortunes"
+}

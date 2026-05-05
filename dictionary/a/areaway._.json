@@ -1,0 +1,18 @@
+{
+    "base": "areaway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "areaway",
+    "n2": "areaways",
+    "n3": "the areaway",
+    "n4": "the areaways",
+    "n5": "areaway's",
+    "n6": "areaways'",
+    "n7": "an areaway",
+    "n8": "many areaways"
+}

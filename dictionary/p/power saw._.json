@@ -1,0 +1,18 @@
+{
+    "base": "power saw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "power saw",
+    "n2": "power saws",
+    "n3": "the power saw",
+    "n4": "the power saws",
+    "n5": "power saw's",
+    "n6": "power saws'",
+    "n7": "a power saw",
+    "n8": "many power saws"
+}

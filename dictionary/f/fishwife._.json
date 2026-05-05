@@ -1,0 +1,18 @@
+{
+    "base": "fishwife",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fishwife",
+    "n2": "fishwives",
+    "n3": "the fishwife",
+    "n4": "the fishwives",
+    "n5": "fishwife's",
+    "n6": "fishwives'",
+    "n7": "a fishwife",
+    "n8": "many fishwives"
+}

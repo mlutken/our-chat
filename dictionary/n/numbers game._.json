@@ -1,0 +1,18 @@
+{
+    "base": "numbers game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "numbers game",
+    "n2": "numbers games",
+    "n3": "the numbers game",
+    "n4": "the numbers games",
+    "n5": "numbers game's",
+    "n6": "numbers games'",
+    "n7": "a numbers game",
+    "n8": "many numbers games"
+}

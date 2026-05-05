@@ -1,0 +1,18 @@
+{
+    "base": "clock",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "clock",
+    "n2": "clocks",
+    "n3": "the clock",
+    "n4": "the clocks",
+    "n5": "clock's",
+    "n6": "clocks'",
+    "n7": "a clock",
+    "n8": "many clocks"
+}

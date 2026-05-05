@@ -1,0 +1,18 @@
+{
+    "base": "steps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "steps",
+    "n2": "stepses",
+    "n3": "the steps",
+    "n4": "the stepses",
+    "n5": "steps'",
+    "n6": "stepses'",
+    "n7": "a steps",
+    "n8": "many stepses"
+}

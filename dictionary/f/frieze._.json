@@ -1,0 +1,18 @@
+{
+    "base": "frieze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "frieze",
+    "n2": "friezes",
+    "n3": "the frieze",
+    "n4": "the friezes",
+    "n5": "frieze's",
+    "n6": "friezes'",
+    "n7": "a frieze",
+    "n8": "many friezes"
+}

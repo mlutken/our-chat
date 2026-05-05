@@ -1,0 +1,18 @@
+{
+    "base": "ultraviolet radiation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ultraviolet radiation",
+    "n2": "ultraviolet radiations",
+    "n3": "the ultraviolet radiation",
+    "n4": "the ultraviolet radiations",
+    "n5": "ultraviolet radiation's",
+    "n6": "ultraviolet radiations'",
+    "n7": "an ultraviolet radiation",
+    "n8": "many ultraviolet radiations"
+}

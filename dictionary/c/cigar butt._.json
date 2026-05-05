@@ -1,0 +1,18 @@
+{
+    "base": "cigar butt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cigar butt",
+    "n2": "cigar butts",
+    "n3": "the cigar butt",
+    "n4": "the cigar butts",
+    "n5": "cigar butt's",
+    "n6": "cigar butts'",
+    "n7": "a cigar butt",
+    "n8": "many cigar butts"
+}

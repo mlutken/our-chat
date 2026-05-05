@@ -1,0 +1,18 @@
+{
+    "base": "pursuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pursuit",
+    "n2": "pursuits",
+    "n3": "the pursuit",
+    "n4": "the pursuits",
+    "n5": "pursuit's",
+    "n6": "pursuits'",
+    "n7": "a pursuit",
+    "n8": "many pursuits"
+}

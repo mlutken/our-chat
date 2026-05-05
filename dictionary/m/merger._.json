@@ -1,0 +1,18 @@
+{
+    "base": "merger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "merger",
+    "n2": "mergers",
+    "n3": "the merger",
+    "n4": "the mergers",
+    "n5": "merger's",
+    "n6": "mergers'",
+    "n7": "a merger",
+    "n8": "many mergers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "front door",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "front door",
+    "n2": "front doors",
+    "n3": "the front door",
+    "n4": "the front doors",
+    "n5": "front door's",
+    "n6": "front doors'",
+    "n7": "a front door",
+    "n8": "many front doors"
+}

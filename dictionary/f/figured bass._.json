@@ -1,0 +1,18 @@
+{
+    "base": "figured bass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "figured bass",
+    "n2": "figured basses",
+    "n3": "the figured bass",
+    "n4": "the figured basses",
+    "n5": "figured bass'",
+    "n6": "figured basses'",
+    "n7": "a figured bass",
+    "n8": "many figured basses"
+}

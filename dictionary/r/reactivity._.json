@@ -1,0 +1,18 @@
+{
+    "base": "reactivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "reactivity",
+    "n2": "reactivities",
+    "n3": "the reactivity",
+    "n4": "the reactivities",
+    "n5": "reactivity's",
+    "n6": "reactivities'",
+    "n7": "a reactivity",
+    "n8": "many reactivities"
+}

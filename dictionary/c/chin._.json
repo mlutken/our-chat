@@ -1,0 +1,18 @@
+{
+    "base": "chin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "chin",
+    "n2": "chins",
+    "n3": "the chin",
+    "n4": "the chins",
+    "n5": "chin's",
+    "n6": "chins'",
+    "n7": "a chin",
+    "n8": "many chins"
+}

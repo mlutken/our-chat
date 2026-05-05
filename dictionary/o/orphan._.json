@@ -1,0 +1,18 @@
+{
+    "base": "orphan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orphan",
+    "n2": "orphans",
+    "n3": "the orphan",
+    "n4": "the orphans",
+    "n5": "orphan's",
+    "n6": "orphans'",
+    "n7": "an orphan",
+    "n8": "many orphans"
+}

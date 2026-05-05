@@ -1,0 +1,18 @@
+{
+    "base": "wrapper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wrapper",
+    "n2": "wrappers",
+    "n3": "the wrapper",
+    "n4": "the wrappers",
+    "n5": "wrapper's",
+    "n6": "wrappers'",
+    "n7": "a wrapper",
+    "n8": "many wrappers"
+}

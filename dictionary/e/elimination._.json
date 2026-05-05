@@ -1,0 +1,18 @@
+{
+    "base": "elimination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "elimination",
+    "n2": "eliminations",
+    "n3": "the elimination",
+    "n4": "the eliminations",
+    "n5": "elimination's",
+    "n6": "eliminations'",
+    "n7": "an elimination",
+    "n8": "many eliminations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "folks",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "folks",
+    "n2": "folkses",
+    "n3": "the folks",
+    "n4": "the folkses",
+    "n5": "folks'",
+    "n6": "folkses'",
+    "n7": "a folks",
+    "n8": "many folkses"
+}

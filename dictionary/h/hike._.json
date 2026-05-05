@@ -1,0 +1,18 @@
+{
+    "base": "hike",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hike",
+    "n2": "hikes",
+    "n3": "the hike",
+    "n4": "the hikes",
+    "n5": "hike's",
+    "n6": "hikes'",
+    "n7": "a hike",
+    "n8": "many hikes"
+}

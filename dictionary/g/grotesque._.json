@@ -1,0 +1,18 @@
+{
+    "base": "grotesque",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grotesque",
+    "n2": "grotesques",
+    "n3": "the grotesque",
+    "n4": "the grotesques",
+    "n5": "grotesque's",
+    "n6": "grotesques'",
+    "n7": "a grotesque",
+    "n8": "many grotesques"
+}

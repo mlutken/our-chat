@@ -1,0 +1,18 @@
+{
+    "base": "gross national product",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gross national product",
+    "n2": "gross national products",
+    "n3": "the gross national product",
+    "n4": "the gross national products",
+    "n5": "gross national product's",
+    "n6": "gross national products'",
+    "n7": "a gross national product",
+    "n8": "many gross national products"
+}

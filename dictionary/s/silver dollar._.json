@@ -1,0 +1,18 @@
+{
+    "base": "silver dollar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "silver dollar",
+    "n2": "silver dollars",
+    "n3": "the silver dollar",
+    "n4": "the silver dollars",
+    "n5": "silver dollar's",
+    "n6": "silver dollars'",
+    "n7": "a silver dollar",
+    "n8": "many silver dollars"
+}

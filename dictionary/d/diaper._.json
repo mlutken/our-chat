@@ -1,0 +1,18 @@
+{
+    "base": "diaper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diaper",
+    "n2": "diapers",
+    "n3": "the diaper",
+    "n4": "the diapers",
+    "n5": "diaper's",
+    "n6": "diapers'",
+    "n7": "a diaper",
+    "n8": "many diapers"
+}

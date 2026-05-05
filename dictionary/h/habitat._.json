@@ -1,0 +1,18 @@
+{
+    "base": "habitat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "habitat",
+    "n2": "habitats",
+    "n3": "the habitat",
+    "n4": "the habitats",
+    "n5": "habitat's",
+    "n6": "habitats'",
+    "n7": "a habitat",
+    "n8": "many habitats"
+}

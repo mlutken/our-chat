@@ -1,0 +1,18 @@
+{
+    "base": "hobby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hobby",
+    "n2": "hobbies",
+    "n3": "the hobby",
+    "n4": "the hobbies",
+    "n5": "hobby's",
+    "n6": "hobbies'",
+    "n7": "a hobby",
+    "n8": "many hobbies"
+}

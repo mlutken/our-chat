@@ -1,0 +1,18 @@
+{
+    "base": "main drag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "main drag",
+    "n2": "main drags",
+    "n3": "the main drag",
+    "n4": "the main drags",
+    "n5": "main drag's",
+    "n6": "main drags'",
+    "n7": "a main drag",
+    "n8": "many main drags"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "telephone pole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "telephone pole",
+    "n2": "telephone poles",
+    "n3": "the telephone pole",
+    "n4": "the telephone poles",
+    "n5": "telephone pole's",
+    "n6": "telephone poles'",
+    "n7": "a telephone pole",
+    "n8": "many telephone poles"
+}

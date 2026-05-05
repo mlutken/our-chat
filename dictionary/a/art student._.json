@@ -1,0 +1,18 @@
+{
+    "base": "art student",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "art student",
+    "n2": "art students",
+    "n3": "the art student",
+    "n4": "the art students",
+    "n5": "art student's",
+    "n6": "art students'",
+    "n7": "an art student",
+    "n8": "many art students"
+}

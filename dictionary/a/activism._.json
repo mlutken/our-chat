@@ -1,0 +1,18 @@
+{
+    "base": "activism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "activism",
+    "n2": "activisms",
+    "n3": "the activism",
+    "n4": "the activisms",
+    "n5": "activism's",
+    "n6": "activisms'",
+    "n7": "an activism",
+    "n8": "many activisms"
+}

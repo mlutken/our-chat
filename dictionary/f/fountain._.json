@@ -1,0 +1,18 @@
+{
+    "base": "fountain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fountain",
+    "n2": "fountains",
+    "n3": "the fountain",
+    "n4": "the fountains",
+    "n5": "fountain's",
+    "n6": "fountains'",
+    "n7": "a fountain",
+    "n8": "many fountains"
+}

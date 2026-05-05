@@ -7,5 +7,12 @@
     "n2": "keys",
     "n3": "the key",
     "n4": "the keys",
-    "n5": "key's"
+    "n5": "key's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "keys'",
+    "n7": "a key",
+    "n8": "many keys"
 }

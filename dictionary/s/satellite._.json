@@ -1,0 +1,18 @@
+{
+    "base": "satellite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "satellite",
+    "n2": "satellites",
+    "n3": "the satellite",
+    "n4": "the satellites",
+    "n5": "satellite's",
+    "n6": "satellites'",
+    "n7": "a satellite",
+    "n8": "many satellites"
+}

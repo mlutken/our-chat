@@ -1,0 +1,18 @@
+{
+    "base": "paw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "paw",
+    "n2": "paws",
+    "n3": "the paw",
+    "n4": "the paws",
+    "n5": "paw's",
+    "n6": "paws'",
+    "n7": "a paw",
+    "n8": "many paws"
+}

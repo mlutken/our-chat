@@ -1,0 +1,18 @@
+{
+    "base": "enabling legislation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enabling legislation",
+    "n2": "enabling legislations",
+    "n3": "the enabling legislation",
+    "n4": "the enabling legislations",
+    "n5": "enabling legislation's",
+    "n6": "enabling legislations'",
+    "n7": "an enabling legislation",
+    "n8": "many enabling legislations"
+}

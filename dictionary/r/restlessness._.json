@@ -1,0 +1,18 @@
+{
+    "base": "restlessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "restlessness",
+    "n2": "restlessnesses",
+    "n3": "the restlessness",
+    "n4": "the restlessnesses",
+    "n5": "restlessness'",
+    "n6": "restlessnesses'",
+    "n7": "a restlessness",
+    "n8": "many restlessnesses"
+}

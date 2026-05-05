@@ -1,0 +1,18 @@
+{
+    "base": "slit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "slit",
+    "n2": "slits",
+    "n3": "the slit",
+    "n4": "the slits",
+    "n5": "slit's",
+    "n6": "slits'",
+    "n7": "a slit",
+    "n8": "many slits"
+}

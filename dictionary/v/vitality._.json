@@ -1,0 +1,18 @@
+{
+    "base": "vitality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "vitality",
+    "n2": "vitalities",
+    "n3": "the vitality",
+    "n4": "the vitalities",
+    "n5": "vitality's",
+    "n6": "vitalities'",
+    "n7": "a vitality",
+    "n8": "many vitalities"
+}

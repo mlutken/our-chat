@@ -1,0 +1,18 @@
+{
+    "base": "siege",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "siege",
+    "n2": "sieges",
+    "n3": "the siege",
+    "n4": "the sieges",
+    "n5": "siege's",
+    "n6": "sieges'",
+    "n7": "a siege",
+    "n8": "many sieges"
+}

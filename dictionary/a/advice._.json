@@ -7,5 +7,12 @@
     "n2": "advices",
     "n3": "the advice",
     "n4": "the advices",
-    "n5": "advice's"
+    "n5": "advice's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "advices'",
+    "n7": "an advice",
+    "n8": "many advices"
 }

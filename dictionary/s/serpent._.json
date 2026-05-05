@@ -1,0 +1,18 @@
+{
+    "base": "serpent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "serpent",
+    "n2": "serpents",
+    "n3": "the serpent",
+    "n4": "the serpents",
+    "n5": "serpent's",
+    "n6": "serpents'",
+    "n7": "a serpent",
+    "n8": "many serpents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "grinning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "grinning",
+    "n2": "grinnings",
+    "n3": "the grinning",
+    "n4": "the grinnings",
+    "n5": "grinning's",
+    "n6": "grinnings'",
+    "n7": "a grinning",
+    "n8": "many grinnings"
+}

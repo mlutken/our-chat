@@ -1,0 +1,18 @@
+{
+    "base": "common sense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "common sense",
+    "n2": "common senses",
+    "n3": "the common sense",
+    "n4": "the common senses",
+    "n5": "common sense's",
+    "n6": "common senses'",
+    "n7": "a common sense",
+    "n8": "many common senses"
+}

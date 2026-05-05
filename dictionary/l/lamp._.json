@@ -1,0 +1,18 @@
+{
+    "base": "lamp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "lamp",
+    "n2": "lamps",
+    "n3": "the lamp",
+    "n4": "the lamps",
+    "n5": "lamp's",
+    "n6": "lamps'",
+    "n7": "a lamp",
+    "n8": "many lamps"
+}

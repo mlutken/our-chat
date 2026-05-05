@@ -1,0 +1,18 @@
+{
+    "base": "new moon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new moon",
+    "n2": "new moons",
+    "n3": "the new moon",
+    "n4": "the new moons",
+    "n5": "new moon's",
+    "n6": "new moons'",
+    "n7": "a new moon",
+    "n8": "many new moons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "west",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n1": "west",
+    "n2": "wests",
+    "n3": "the west",
+    "n4": "the wests",
+    "n5": "west's",
+    "n6": "wests'",
+    "n7": "a west",
+    "n8": "many wests"
+}

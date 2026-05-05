@@ -7,5 +7,12 @@
     "n2": "bits",
     "n3": "the bit",
     "n4": "the bits",
-    "n5": "bit's"
+    "n5": "bit's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "bits'",
+    "n7": "a bit",
+    "n8": "many bits"
 }

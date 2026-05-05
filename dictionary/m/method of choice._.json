@@ -1,0 +1,18 @@
+{
+    "base": "method of choice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "method of choice",
+    "n2": "method of choices",
+    "n3": "the method of choice",
+    "n4": "the method of choices",
+    "n5": "method of choice's",
+    "n6": "method of choices'",
+    "n7": "a method of choice",
+    "n8": "many method of choices"
+}

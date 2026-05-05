@@ -1,0 +1,18 @@
+{
+    "base": "christian church",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "christian church",
+    "n2": "christian churches",
+    "n3": "the christian church",
+    "n4": "the christian churches",
+    "n5": "christian church's",
+    "n6": "christian churches'",
+    "n7": "a christian church",
+    "n8": "many christian churches"
+}

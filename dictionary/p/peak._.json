@@ -1,0 +1,18 @@
+{
+    "base": "peak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "peak",
+    "n2": "peaks",
+    "n3": "the peak",
+    "n4": "the peaks",
+    "n5": "peak's",
+    "n6": "peaks'",
+    "n7": "a peak",
+    "n8": "many peaks"
+}

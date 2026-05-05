@@ -1,0 +1,18 @@
+{
+    "base": "productivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "productivity",
+    "n2": "productivities",
+    "n3": "the productivity",
+    "n4": "the productivities",
+    "n5": "productivity's",
+    "n6": "productivities'",
+    "n7": "a productivity",
+    "n8": "many productivities"
+}

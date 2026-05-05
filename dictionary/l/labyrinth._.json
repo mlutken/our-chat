@@ -1,0 +1,18 @@
+{
+    "base": "labyrinth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "labyrinth",
+    "n2": "labyrinths",
+    "n3": "the labyrinth",
+    "n4": "the labyrinths",
+    "n5": "labyrinth's",
+    "n6": "labyrinths'",
+    "n7": "a labyrinth",
+    "n8": "many labyrinths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "senior class",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "senior class",
+    "n2": "senior classes",
+    "n3": "the senior class",
+    "n4": "the senior classes",
+    "n5": "senior class'",
+    "n6": "senior classes'",
+    "n7": "a senior class",
+    "n8": "many senior classes"
+}

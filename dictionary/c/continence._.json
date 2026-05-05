@@ -1,0 +1,18 @@
+{
+    "base": "continence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "continence",
+    "n2": "continences",
+    "n3": "the continence",
+    "n4": "the continences",
+    "n5": "continence's",
+    "n6": "continences'",
+    "n7": "a continence",
+    "n8": "many continences"
+}

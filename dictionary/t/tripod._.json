@@ -1,0 +1,18 @@
+{
+    "base": "tripod",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tripod",
+    "n2": "tripods",
+    "n3": "the tripod",
+    "n4": "the tripods",
+    "n5": "tripod's",
+    "n6": "tripods'",
+    "n7": "a tripod",
+    "n8": "many tripods"
+}

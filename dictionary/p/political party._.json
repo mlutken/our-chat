@@ -1,0 +1,18 @@
+{
+    "base": "political party",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "political party",
+    "n2": "political parties",
+    "n3": "the political party",
+    "n4": "the political parties",
+    "n5": "political party's",
+    "n6": "political parties'",
+    "n7": "a political party",
+    "n8": "many political parties"
+}

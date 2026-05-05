@@ -1,0 +1,18 @@
+{
+    "base": "applejack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "applejack",
+    "n2": "applejacks",
+    "n3": "the applejack",
+    "n4": "the applejacks",
+    "n5": "applejack's",
+    "n6": "applejacks'",
+    "n7": "an applejack",
+    "n8": "many applejacks"
+}

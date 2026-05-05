@@ -1,0 +1,18 @@
+{
+    "base": "bobbysoxer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bobbysoxer",
+    "n2": "bobbysoxers",
+    "n3": "the bobbysoxer",
+    "n4": "the bobbysoxers",
+    "n5": "bobbysoxer's",
+    "n6": "bobbysoxers'",
+    "n7": "a bobbysoxer",
+    "n8": "many bobbysoxers"
+}

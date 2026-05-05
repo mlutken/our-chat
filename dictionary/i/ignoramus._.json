@@ -1,0 +1,18 @@
+{
+    "base": "ignoramus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ignoramus",
+    "n2": "ignoramuses",
+    "n3": "the ignoramus",
+    "n4": "the ignoramuses",
+    "n5": "ignoramus'",
+    "n6": "ignoramuses'",
+    "n7": "an ignoramus",
+    "n8": "many ignoramuses"
+}

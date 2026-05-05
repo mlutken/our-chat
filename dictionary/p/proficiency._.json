@@ -1,0 +1,18 @@
+{
+    "base": "proficiency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proficiency",
+    "n2": "proficiencies",
+    "n3": "the proficiency",
+    "n4": "the proficiencies",
+    "n5": "proficiency's",
+    "n6": "proficiencies'",
+    "n7": "a proficiency",
+    "n8": "many proficiencies"
+}

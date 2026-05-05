@@ -1,0 +1,18 @@
+{
+    "base": "swell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "swell",
+    "n2": "swells",
+    "n3": "the swell",
+    "n4": "the swells",
+    "n5": "swell's",
+    "n6": "swells'",
+    "n7": "a swell",
+    "n8": "many swells"
+}

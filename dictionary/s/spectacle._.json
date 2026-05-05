@@ -1,0 +1,18 @@
+{
+    "base": "spectacle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "spectacle",
+    "n2": "spectacles",
+    "n3": "the spectacle",
+    "n4": "the spectacles",
+    "n5": "spectacle's",
+    "n6": "spectacles'",
+    "n7": "a spectacle",
+    "n8": "many spectacles"
+}

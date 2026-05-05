@@ -1,0 +1,18 @@
+{
+    "base": "blotch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blotch",
+    "n2": "blotches",
+    "n3": "the blotch",
+    "n4": "the blotches",
+    "n5": "blotch's",
+    "n6": "blotches'",
+    "n7": "a blotch",
+    "n8": "many blotches"
+}

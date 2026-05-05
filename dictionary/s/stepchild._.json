@@ -1,0 +1,18 @@
+{
+    "base": "stepchild",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stepchild",
+    "n2": "stepchildren",
+    "n3": "the stepchild",
+    "n4": "the stepchildren",
+    "n5": "stepchild's",
+    "n6": "stepchildren's",
+    "n7": "a stepchild",
+    "n8": "many stepchildren"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "quarter-century",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "quarter-century",
+    "n2": "quarter-centuries",
+    "n3": "the quarter-century",
+    "n4": "the quarter-centuries",
+    "n5": "quarter-century's",
+    "n6": "quarter-centuries'",
+    "n7": "a quarter-century",
+    "n8": "many quarter-centuries"
+}

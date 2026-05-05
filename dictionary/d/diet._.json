@@ -7,5 +7,12 @@
     "n2": "diets",
     "n3": "the diet",
     "n4": "the diets",
-    "n5": "diet's"
+    "n5": "diet's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "diets'",
+    "n7": "a diet",
+    "n8": "many diets"
 }

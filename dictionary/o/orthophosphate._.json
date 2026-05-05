@@ -1,0 +1,18 @@
+{
+    "base": "orthophosphate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "orthophosphate",
+    "n2": "orthophosphates",
+    "n3": "the orthophosphate",
+    "n4": "the orthophosphates",
+    "n5": "orthophosphate's",
+    "n6": "orthophosphates'",
+    "n7": "an orthophosphate",
+    "n8": "many orthophosphates"
+}

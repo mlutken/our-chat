@@ -1,0 +1,18 @@
+{
+    "base": "enterotoxemia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enterotoxemia",
+    "n2": "enterotoxemias",
+    "n3": "the enterotoxemia",
+    "n4": "the enterotoxemias",
+    "n5": "enterotoxemia's",
+    "n6": "enterotoxemias'",
+    "n7": "an enterotoxemia",
+    "n8": "many enterotoxemias"
+}

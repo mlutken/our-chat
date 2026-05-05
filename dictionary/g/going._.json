@@ -1,0 +1,18 @@
+{
+    "base": "going",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "going",
+    "n2": "goings",
+    "n3": "the going",
+    "n4": "the goings",
+    "n5": "going's",
+    "n6": "goings'",
+    "n7": "a going",
+    "n8": "many goings"
+}

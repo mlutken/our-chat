@@ -1,0 +1,18 @@
+{
+    "base": "morale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "morale",
+    "n2": "morales",
+    "n3": "the morale",
+    "n4": "the morales",
+    "n5": "morale's",
+    "n6": "morales'",
+    "n7": "a morale",
+    "n8": "many morales"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "quack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "quack",
+    "n2": "quacks",
+    "n3": "the quack",
+    "n4": "the quacks",
+    "n5": "quack's",
+    "n6": "quacks'",
+    "n7": "a quack",
+    "n8": "many quacks"
+}

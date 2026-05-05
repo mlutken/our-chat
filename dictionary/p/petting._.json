@@ -1,0 +1,18 @@
+{
+    "base": "petting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "petting",
+    "n2": "pettings",
+    "n3": "the petting",
+    "n4": "the pettings",
+    "n5": "petting's",
+    "n6": "pettings'",
+    "n7": "a petting",
+    "n8": "many pettings"
+}

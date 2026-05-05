@@ -1,0 +1,18 @@
+{
+    "base": "autumn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "autumn",
+    "n2": "autumns",
+    "n3": "the autumn",
+    "n4": "the autumns",
+    "n5": "autumn's",
+    "n6": "autumns'",
+    "n7": "an autumn",
+    "n8": "many autumns"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "morality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "morality",
+    "n2": "moralities",
+    "n3": "the morality",
+    "n4": "the moralities",
+    "n5": "morality's",
+    "n6": "moralities'",
+    "n7": "a morality",
+    "n8": "many moralities"
+}

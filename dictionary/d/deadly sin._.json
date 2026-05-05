@@ -1,0 +1,18 @@
+{
+    "base": "deadly sin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deadly sin",
+    "n2": "deadly sins",
+    "n3": "the deadly sin",
+    "n4": "the deadly sins",
+    "n5": "deadly sin's",
+    "n6": "deadly sins'",
+    "n7": "a deadly sin",
+    "n8": "many deadly sins"
+}

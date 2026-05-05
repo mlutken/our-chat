@@ -1,0 +1,18 @@
+{
+    "base": "contact sport",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contact sport",
+    "n2": "contact sports",
+    "n3": "the contact sport",
+    "n4": "the contact sports",
+    "n5": "contact sport's",
+    "n6": "contact sports'",
+    "n7": "a contact sport",
+    "n8": "many contact sports"
+}

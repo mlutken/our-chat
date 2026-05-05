@@ -1,0 +1,18 @@
+{
+    "base": "blockade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "blockade",
+    "n2": "blockades",
+    "n3": "the blockade",
+    "n4": "the blockades",
+    "n5": "blockade's",
+    "n6": "blockades'",
+    "n7": "a blockade",
+    "n8": "many blockades"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tinkle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tinkle",
+    "n2": "tinkles",
+    "n3": "the tinkle",
+    "n4": "the tinkles",
+    "n5": "tinkle's",
+    "n6": "tinkles'",
+    "n7": "a tinkle",
+    "n8": "many tinkles"
+}

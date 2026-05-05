@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "personality",
-    "n2": "personalitys",
+    "n2": "personalities",
     "n3": "the personality",
-    "n4": "the personalitys",
-    "n5": "personality's"
+    "n4": "the personalities",
+    "n5": "personality's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "personalities'",
+    "n7": "a personality",
+    "n8": "many personalities"
 }

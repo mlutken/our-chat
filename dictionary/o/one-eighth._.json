@@ -1,0 +1,18 @@
+{
+    "base": "one-eighth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "one-eighth",
+    "n2": "one-eighths",
+    "n3": "the one-eighth",
+    "n4": "the one-eighths",
+    "n5": "one-eighth's",
+    "n6": "one-eighths'",
+    "n7": "a one-eighth",
+    "n8": "many one-eighths"
+}

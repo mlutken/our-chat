@@ -7,5 +7,12 @@
     "n2": "grandmothers",
     "n3": "the grandmother",
     "n4": "the grandmothers",
-    "n5": "grandmother's"
+    "n5": "grandmother's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "grandmothers'",
+    "n7": "a grandmother",
+    "n8": "many grandmothers"
 }

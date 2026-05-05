@@ -1,0 +1,18 @@
+{
+    "base": "stardom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stardom",
+    "n2": "stardoms",
+    "n3": "the stardom",
+    "n4": "the stardoms",
+    "n5": "stardom's",
+    "n6": "stardoms'",
+    "n7": "a stardom",
+    "n8": "many stardoms"
+}

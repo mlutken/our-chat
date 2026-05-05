@@ -1,0 +1,18 @@
+{
+    "base": "tenet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tenet",
+    "n2": "tenets",
+    "n3": "the tenet",
+    "n4": "the tenets",
+    "n5": "tenet's",
+    "n6": "tenets'",
+    "n7": "a tenet",
+    "n8": "many tenets"
+}

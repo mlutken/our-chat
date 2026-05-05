@@ -1,0 +1,18 @@
+{
+    "base": "bestowal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bestowal",
+    "n2": "bestowals",
+    "n3": "the bestowal",
+    "n4": "the bestowals",
+    "n5": "bestowal's",
+    "n6": "bestowals'",
+    "n7": "a bestowal",
+    "n8": "many bestowals"
+}

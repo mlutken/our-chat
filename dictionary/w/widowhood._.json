@@ -1,0 +1,18 @@
+{
+    "base": "widowhood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "widowhood",
+    "n2": "widowhoods",
+    "n3": "the widowhood",
+    "n4": "the widowhoods",
+    "n5": "widowhood's",
+    "n6": "widowhoods'",
+    "n7": "a widowhood",
+    "n8": "many widowhoods"
+}

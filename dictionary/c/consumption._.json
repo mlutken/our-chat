@@ -1,0 +1,18 @@
+{
+    "base": "consumption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "consumption",
+    "n2": "consumptions",
+    "n3": "the consumption",
+    "n4": "the consumptions",
+    "n5": "consumption's",
+    "n6": "consumptions'",
+    "n7": "a consumption",
+    "n8": "many consumptions"
+}

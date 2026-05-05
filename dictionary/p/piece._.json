@@ -7,5 +7,12 @@
     "n2": "pieces",
     "n3": "the piece",
     "n4": "the pieces",
-    "n5": "piece's"
+    "n5": "piece's",
+    "proper": false,
+    "commonness": 62,
+    "max_commonness": 6834,
+    "commonness_ge_count": 249,
+    "n6": "pieces'",
+    "n7": "a piece",
+    "n8": "many pieces"
 }

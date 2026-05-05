@@ -1,0 +1,18 @@
+{
+    "base": "master's degree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "master's degree",
+    "n2": "master's degrees",
+    "n3": "the master's degree",
+    "n4": "the master's degrees",
+    "n5": "master's degree's",
+    "n6": "master's degrees'",
+    "n7": "a master's degree",
+    "n8": "many master's degrees"
+}

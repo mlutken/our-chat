@@ -1,0 +1,18 @@
+{
+    "base": "pelting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pelting",
+    "n2": "peltings",
+    "n3": "the pelting",
+    "n4": "the peltings",
+    "n5": "pelting's",
+    "n6": "peltings'",
+    "n7": "a pelting",
+    "n8": "many peltings"
+}

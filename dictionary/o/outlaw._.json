@@ -1,0 +1,18 @@
+{
+    "base": "outlaw",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outlaw",
+    "n2": "outlaws",
+    "n3": "the outlaw",
+    "n4": "the outlaws",
+    "n5": "outlaw's",
+    "n6": "outlaws'",
+    "n7": "an outlaw",
+    "n8": "many outlaws"
+}

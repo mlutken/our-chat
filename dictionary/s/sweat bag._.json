@@ -1,0 +1,18 @@
+{
+    "base": "sweat bag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweat bag",
+    "n2": "sweat bags",
+    "n3": "the sweat bag",
+    "n4": "the sweat bags",
+    "n5": "sweat bag's",
+    "n6": "sweat bags'",
+    "n7": "a sweat bag",
+    "n8": "many sweat bags"
+}

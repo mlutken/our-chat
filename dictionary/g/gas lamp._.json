@@ -1,0 +1,18 @@
+{
+    "base": "gas lamp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gas lamp",
+    "n2": "gas lamps",
+    "n3": "the gas lamp",
+    "n4": "the gas lamps",
+    "n5": "gas lamp's",
+    "n6": "gas lamps'",
+    "n7": "a gas lamp",
+    "n8": "many gas lamps"
+}

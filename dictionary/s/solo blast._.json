@@ -1,0 +1,18 @@
+{
+    "base": "solo blast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "solo blast",
+    "n2": "solo blasts",
+    "n3": "the solo blast",
+    "n4": "the solo blasts",
+    "n5": "solo blast's",
+    "n6": "solo blasts'",
+    "n7": "a solo blast",
+    "n8": "many solo blasts"
+}

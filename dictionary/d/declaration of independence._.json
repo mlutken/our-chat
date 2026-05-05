@@ -1,0 +1,18 @@
+{
+    "base": "declaration of independence",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "declaration of independence",
+    "n2": "declaration of independences",
+    "n3": "the declaration of independence",
+    "n4": "the declaration of independences",
+    "n5": "declaration of independence's",
+    "n6": "declaration of independences'",
+    "n7": "a declaration of independence",
+    "n8": "many declaration of independences"
+}

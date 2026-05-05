@@ -1,9 +1,22 @@
 {
     "base": "essential",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "essential",
     "adj2": "more essential",
-    "adj3": "most essential"
+    "adj3": "most essential",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "essential",
+    "n2": "essentials",
+    "n3": "the essential",
+    "n4": "the essentials",
+    "n5": "essential's",
+    "n6": "essentials'",
+    "n7": "an essential",
+    "n8": "many essentials"
 }

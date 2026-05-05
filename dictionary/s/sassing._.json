@@ -1,0 +1,18 @@
+{
+    "base": "sassing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sassing",
+    "n2": "sassings",
+    "n3": "the sassing",
+    "n4": "the sassings",
+    "n5": "sassing's",
+    "n6": "sassings'",
+    "n7": "a sassing",
+    "n8": "many sassings"
+}

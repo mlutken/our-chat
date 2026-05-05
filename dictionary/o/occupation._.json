@@ -1,0 +1,18 @@
+{
+    "base": "occupation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "occupation",
+    "n2": "occupations",
+    "n3": "the occupation",
+    "n4": "the occupations",
+    "n5": "occupation's",
+    "n6": "occupations'",
+    "n7": "an occupation",
+    "n8": "many occupations"
+}

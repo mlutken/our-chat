@@ -1,0 +1,18 @@
+{
+    "base": "licensing fee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "licensing fee",
+    "n2": "licensing fees",
+    "n3": "the licensing fee",
+    "n4": "the licensing fees",
+    "n5": "licensing fee's",
+    "n6": "licensing fees'",
+    "n7": "a licensing fee",
+    "n8": "many licensing fees"
+}

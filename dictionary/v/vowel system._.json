@@ -1,0 +1,18 @@
+{
+    "base": "vowel system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "vowel system",
+    "n2": "vowel systems",
+    "n3": "the vowel system",
+    "n4": "the vowel systems",
+    "n5": "vowel system's",
+    "n6": "vowel systems'",
+    "n7": "a vowel system",
+    "n8": "many vowel systems"
+}

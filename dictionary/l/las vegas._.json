@@ -1,0 +1,18 @@
+{
+    "base": "las vegas",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "las vegas",
+    "n2": "las vegases",
+    "n3": "the las vegas",
+    "n4": "the las vegases",
+    "n5": "las vegas'",
+    "n6": "las vegases'",
+    "n7": "a las vegas",
+    "n8": "many las vegases"
+}

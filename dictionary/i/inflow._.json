@@ -1,0 +1,18 @@
+{
+    "base": "inflow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inflow",
+    "n2": "inflows",
+    "n3": "the inflow",
+    "n4": "the inflows",
+    "n5": "inflow's",
+    "n6": "inflows'",
+    "n7": "an inflow",
+    "n8": "many inflows"
+}

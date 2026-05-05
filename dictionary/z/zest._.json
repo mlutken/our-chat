@@ -1,0 +1,18 @@
+{
+    "base": "zest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zest",
+    "n2": "zests",
+    "n3": "the zest",
+    "n4": "the zests",
+    "n5": "zest's",
+    "n6": "zests'",
+    "n7": "a zest",
+    "n8": "many zests"
+}

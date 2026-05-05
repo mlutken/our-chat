@@ -1,0 +1,18 @@
+{
+    "base": "general election",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "general election",
+    "n2": "general elections",
+    "n3": "the general election",
+    "n4": "the general elections",
+    "n5": "general election's",
+    "n6": "general elections'",
+    "n7": "a general election",
+    "n8": "many general elections"
+}

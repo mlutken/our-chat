@@ -1,0 +1,18 @@
+{
+    "base": "delegation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delegation",
+    "n2": "delegations",
+    "n3": "the delegation",
+    "n4": "the delegations",
+    "n5": "delegation's",
+    "n6": "delegations'",
+    "n7": "a delegation",
+    "n8": "many delegations"
+}

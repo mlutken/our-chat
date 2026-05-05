@@ -1,0 +1,18 @@
+{
+    "base": "athleticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "athleticism",
+    "n2": "athleticisms",
+    "n3": "the athleticism",
+    "n4": "the athleticisms",
+    "n5": "athleticism's",
+    "n6": "athleticisms'",
+    "n7": "an athleticism",
+    "n8": "many athleticisms"
+}

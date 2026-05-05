@@ -1,0 +1,18 @@
+{
+    "base": "profit sharing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "profit sharing",
+    "n2": "profit sharings",
+    "n3": "the profit sharing",
+    "n4": "the profit sharings",
+    "n5": "profit sharing's",
+    "n6": "profit sharings'",
+    "n7": "a profit sharing",
+    "n8": "many profit sharings"
+}

@@ -13,5 +13,12 @@
     "v2": "caused",
     "v3": "caused",
     "v4": "causing",
-    "v5": "causes"
+    "v5": "causes",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "causes'",
+    "n7": "a cause",
+    "n8": "many causes"
 }

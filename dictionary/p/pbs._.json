@@ -1,0 +1,18 @@
+{
+    "base": "pbs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "pbs",
+    "n2": "pbses",
+    "n3": "the pbs",
+    "n4": "the pbses",
+    "n5": "pbs'",
+    "n6": "pbses'",
+    "n7": "a pbs",
+    "n8": "many pbses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "college level",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "college level",
+    "n2": "college levels",
+    "n3": "the college level",
+    "n4": "the college levels",
+    "n5": "college level's",
+    "n6": "college levels'",
+    "n7": "a college level",
+    "n8": "many college levels"
+}

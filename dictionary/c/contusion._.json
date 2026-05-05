@@ -1,0 +1,18 @@
+{
+    "base": "contusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contusion",
+    "n2": "contusions",
+    "n3": "the contusion",
+    "n4": "the contusions",
+    "n5": "contusion's",
+    "n6": "contusions'",
+    "n7": "a contusion",
+    "n8": "many contusions"
+}

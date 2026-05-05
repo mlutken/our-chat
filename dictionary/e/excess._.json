@@ -1,0 +1,18 @@
+{
+    "base": "excess",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "excess",
+    "n2": "excesses",
+    "n3": "the excess",
+    "n4": "the excesses",
+    "n5": "excess'",
+    "n6": "excesses'",
+    "n7": "an excess",
+    "n8": "many excesses"
+}

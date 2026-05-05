@@ -1,0 +1,18 @@
+{
+    "base": "junior high school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "junior high school",
+    "n2": "junior high schools",
+    "n3": "the junior high school",
+    "n4": "the junior high schools",
+    "n5": "junior high school's",
+    "n6": "junior high schools'",
+    "n7": "a junior high school",
+    "n8": "many junior high schools"
+}

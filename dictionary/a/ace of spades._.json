@@ -1,0 +1,18 @@
+{
+    "base": "ace of spades",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ace of spades",
+    "n2": "ace of spadeses",
+    "n3": "the ace of spades",
+    "n4": "the ace of spadeses",
+    "n5": "ace of spades'",
+    "n6": "ace of spadeses'",
+    "n7": "an ace of spades",
+    "n8": "many ace of spadeses"
+}

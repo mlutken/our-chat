@@ -1,0 +1,18 @@
+{
+    "base": "press clipping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "press clipping",
+    "n2": "press clippings",
+    "n3": "the press clipping",
+    "n4": "the press clippings",
+    "n5": "press clipping's",
+    "n6": "press clippings'",
+    "n7": "a press clipping",
+    "n8": "many press clippings"
+}

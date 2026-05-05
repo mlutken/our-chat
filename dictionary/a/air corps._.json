@@ -1,0 +1,18 @@
+{
+    "base": "air corps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "air corps",
+    "n2": "air corpses",
+    "n3": "the air corps",
+    "n4": "the air corpses",
+    "n5": "air corps'",
+    "n6": "air corpses'",
+    "n7": "an air corps",
+    "n8": "many air corpses"
+}

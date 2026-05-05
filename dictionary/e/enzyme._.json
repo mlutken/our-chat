@@ -1,0 +1,18 @@
+{
+    "base": "enzyme",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "enzyme",
+    "n2": "enzymes",
+    "n3": "the enzyme",
+    "n4": "the enzymes",
+    "n5": "enzyme's",
+    "n6": "enzymes'",
+    "n7": "an enzyme",
+    "n8": "many enzymes"
+}

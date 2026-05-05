@@ -1,0 +1,18 @@
+{
+    "base": "pa system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pa system",
+    "n2": "pa systems",
+    "n3": "the pa system",
+    "n4": "the pa systems",
+    "n5": "pa system's",
+    "n6": "pa systems'",
+    "n7": "a pa system",
+    "n8": "many pa systems"
+}

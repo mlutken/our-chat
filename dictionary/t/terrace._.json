@@ -1,0 +1,18 @@
+{
+    "base": "terrace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "terrace",
+    "n2": "terraces",
+    "n3": "the terrace",
+    "n4": "the terraces",
+    "n5": "terrace's",
+    "n6": "terraces'",
+    "n7": "a terrace",
+    "n8": "many terraces"
+}

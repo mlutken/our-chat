@@ -1,0 +1,18 @@
+{
+    "base": "krauthead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "krauthead",
+    "n2": "krautheads",
+    "n3": "the krauthead",
+    "n4": "the krautheads",
+    "n5": "krauthead's",
+    "n6": "krautheads'",
+    "n7": "a krauthead",
+    "n8": "many krautheads"
+}

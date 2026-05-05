@@ -1,0 +1,18 @@
+{
+    "base": "mental disturbance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mental disturbance",
+    "n2": "mental disturbances",
+    "n3": "the mental disturbance",
+    "n4": "the mental disturbances",
+    "n5": "mental disturbance's",
+    "n6": "mental disturbances'",
+    "n7": "a mental disturbance",
+    "n8": "many mental disturbances"
+}

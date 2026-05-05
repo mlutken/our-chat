@@ -1,0 +1,18 @@
+{
+    "base": "tea service",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tea service",
+    "n2": "tea services",
+    "n3": "the tea service",
+    "n4": "the tea services",
+    "n5": "tea service's",
+    "n6": "tea services'",
+    "n7": "a tea service",
+    "n8": "many tea services"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "chiropractor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chiropractor",
+    "n2": "chiropractors",
+    "n3": "the chiropractor",
+    "n4": "the chiropractors",
+    "n5": "chiropractor's",
+    "n6": "chiropractors'",
+    "n7": "a chiropractor",
+    "n8": "many chiropractors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "thieving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thieving",
+    "n2": "thievings",
+    "n3": "the thieving",
+    "n4": "the thievings",
+    "n5": "thieving's",
+    "n6": "thievings'",
+    "n7": "a thieving",
+    "n8": "many thievings"
+}

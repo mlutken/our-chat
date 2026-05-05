@@ -1,0 +1,18 @@
+{
+    "base": "distillation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "distillation",
+    "n2": "distillations",
+    "n3": "the distillation",
+    "n4": "the distillations",
+    "n5": "distillation's",
+    "n6": "distillations'",
+    "n7": "a distillation",
+    "n8": "many distillations"
+}

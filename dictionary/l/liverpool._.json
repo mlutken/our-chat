@@ -1,0 +1,18 @@
+{
+    "base": "liverpool",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liverpool",
+    "n2": "liverpools",
+    "n3": "the liverpool",
+    "n4": "the liverpools",
+    "n5": "liverpool's",
+    "n6": "liverpools'",
+    "n7": "a liverpool",
+    "n8": "many liverpools"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "freewheeler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "freewheeler",
+    "n2": "freewheelers",
+    "n3": "the freewheeler",
+    "n4": "the freewheelers",
+    "n5": "freewheeler's",
+    "n6": "freewheelers'",
+    "n7": "a freewheeler",
+    "n8": "many freewheelers"
+}

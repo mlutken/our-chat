@@ -1,0 +1,18 @@
+{
+    "base": "handiwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "handiwork",
+    "n2": "handiworks",
+    "n3": "the handiwork",
+    "n4": "the handiworks",
+    "n5": "handiwork's",
+    "n6": "handiworks'",
+    "n7": "a handiwork",
+    "n8": "many handiworks"
+}

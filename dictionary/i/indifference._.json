@@ -1,0 +1,18 @@
+{
+    "base": "indifference",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "indifference",
+    "n2": "indifferences",
+    "n3": "the indifference",
+    "n4": "the indifferences",
+    "n5": "indifference's",
+    "n6": "indifferences'",
+    "n7": "an indifference",
+    "n8": "many indifferences"
+}

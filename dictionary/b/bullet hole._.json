@@ -1,0 +1,18 @@
+{
+    "base": "bullet hole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bullet hole",
+    "n2": "bullet holes",
+    "n3": "the bullet hole",
+    "n4": "the bullet holes",
+    "n5": "bullet hole's",
+    "n6": "bullet holes'",
+    "n7": "a bullet hole",
+    "n8": "many bullet holes"
+}

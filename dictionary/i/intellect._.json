@@ -1,0 +1,18 @@
+{
+    "base": "intellect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "intellect",
+    "n2": "intellects",
+    "n3": "the intellect",
+    "n4": "the intellects",
+    "n5": "intellect's",
+    "n6": "intellects'",
+    "n7": "an intellect",
+    "n8": "many intellects"
+}

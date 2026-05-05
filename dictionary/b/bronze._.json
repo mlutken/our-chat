@@ -1,0 +1,18 @@
+{
+    "base": "bronze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bronze",
+    "n2": "bronzes",
+    "n3": "the bronze",
+    "n4": "the bronzes",
+    "n5": "bronze's",
+    "n6": "bronzes'",
+    "n7": "a bronze",
+    "n8": "many bronzes"
+}

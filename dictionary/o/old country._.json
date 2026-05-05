@@ -1,0 +1,18 @@
+{
+    "base": "old country",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "old country",
+    "n2": "old countries",
+    "n3": "the old country",
+    "n4": "the old countries",
+    "n5": "old country's",
+    "n6": "old countries'",
+    "n7": "an old country",
+    "n8": "many old countries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "perch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perch",
+    "n2": "perches",
+    "n3": "the perch",
+    "n4": "the perches",
+    "n5": "perch's",
+    "n6": "perches'",
+    "n7": "a perch",
+    "n8": "many perches"
+}

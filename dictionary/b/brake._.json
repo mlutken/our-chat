@@ -1,11 +1,24 @@
 {
     "base": "brake",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "brake",
     "v2": "braked",
     "v3": "braked",
     "v4": "braking",
-    "v5": "brakes"
+    "v5": "brakes",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brake",
+    "n2": "brakes",
+    "n3": "the brake",
+    "n4": "the brakes",
+    "n5": "brake's",
+    "n6": "brakes'",
+    "n7": "a brake",
+    "n8": "many brakes"
 }

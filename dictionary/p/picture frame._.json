@@ -1,0 +1,18 @@
+{
+    "base": "picture frame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picture frame",
+    "n2": "picture frames",
+    "n3": "the picture frame",
+    "n4": "the picture frames",
+    "n5": "picture frame's",
+    "n6": "picture frames'",
+    "n7": "a picture frame",
+    "n8": "many picture frames"
+}

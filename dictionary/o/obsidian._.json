@@ -1,0 +1,18 @@
+{
+    "base": "obsidian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "obsidian",
+    "n2": "obsidians",
+    "n3": "the obsidian",
+    "n4": "the obsidians",
+    "n5": "obsidian's",
+    "n6": "obsidians'",
+    "n7": "an obsidian",
+    "n8": "many obsidians"
+}

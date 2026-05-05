@@ -1,0 +1,18 @@
+{
+    "base": "business concern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "business concern",
+    "n2": "business concerns",
+    "n3": "the business concern",
+    "n4": "the business concerns",
+    "n5": "business concern's",
+    "n6": "business concerns'",
+    "n7": "a business concern",
+    "n8": "many business concerns"
+}

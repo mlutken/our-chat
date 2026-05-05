@@ -1,0 +1,18 @@
+{
+    "base": "police chief",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "police chief",
+    "n2": "police chieves",
+    "n3": "the police chief",
+    "n4": "the police chieves",
+    "n5": "police chief's",
+    "n6": "police chieves'",
+    "n7": "a police chief",
+    "n8": "many police chieves"
+}

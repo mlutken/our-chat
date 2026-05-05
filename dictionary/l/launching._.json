@@ -1,0 +1,18 @@
+{
+    "base": "launching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "launching",
+    "n2": "launchings",
+    "n3": "the launching",
+    "n4": "the launchings",
+    "n5": "launching's",
+    "n6": "launchings'",
+    "n7": "a launching",
+    "n8": "many launchings"
+}

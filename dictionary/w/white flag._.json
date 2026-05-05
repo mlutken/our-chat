@@ -1,0 +1,18 @@
+{
+    "base": "white flag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "white flag",
+    "n2": "white flags",
+    "n3": "the white flag",
+    "n4": "the white flags",
+    "n5": "white flag's",
+    "n6": "white flags'",
+    "n7": "a white flag",
+    "n8": "many white flags"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "print shop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "print shop",
+    "n2": "print shops",
+    "n3": "the print shop",
+    "n4": "the print shops",
+    "n5": "print shop's",
+    "n6": "print shops'",
+    "n7": "a print shop",
+    "n8": "many print shops"
+}

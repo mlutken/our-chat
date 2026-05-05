@@ -1,0 +1,18 @@
+{
+    "base": "hawaiian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hawaiian",
+    "n2": "hawaiians",
+    "n3": "the hawaiian",
+    "n4": "the hawaiians",
+    "n5": "hawaiian's",
+    "n6": "hawaiians'",
+    "n7": "a hawaiian",
+    "n8": "many hawaiians"
+}

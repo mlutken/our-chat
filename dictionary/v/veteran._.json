@@ -1,0 +1,18 @@
+{
+    "base": "veteran",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "veteran",
+    "n2": "veterans",
+    "n3": "the veteran",
+    "n4": "the veterans",
+    "n5": "veteran's",
+    "n6": "veterans'",
+    "n7": "a veteran",
+    "n8": "many veterans"
+}

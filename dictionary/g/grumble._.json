@@ -1,0 +1,18 @@
+{
+    "base": "grumble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grumble",
+    "n2": "grumbles",
+    "n3": "the grumble",
+    "n4": "the grumbles",
+    "n5": "grumble's",
+    "n6": "grumbles'",
+    "n7": "a grumble",
+    "n8": "many grumbles"
+}

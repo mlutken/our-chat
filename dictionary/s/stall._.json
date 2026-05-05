@@ -1,0 +1,18 @@
+{
+    "base": "stall",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "stall",
+    "n2": "stalls",
+    "n3": "the stall",
+    "n4": "the stalls",
+    "n5": "stall's",
+    "n6": "stalls'",
+    "n7": "a stall",
+    "n8": "many stalls"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tradesman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tradesman",
+    "n2": "tradesmen",
+    "n3": "the tradesman",
+    "n4": "the tradesmen",
+    "n5": "tradesman's",
+    "n6": "tradesmen's",
+    "n7": "a tradesman",
+    "n8": "many tradesmen"
+}

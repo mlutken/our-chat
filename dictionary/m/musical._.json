@@ -1,0 +1,18 @@
+{
+    "base": "musical",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "musical",
+    "n2": "musicals",
+    "n3": "the musical",
+    "n4": "the musicals",
+    "n5": "musical's",
+    "n6": "musicals'",
+    "n7": "a musical",
+    "n8": "many musicals"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "homosexual",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "homosexual",
+    "n2": "homosexuals",
+    "n3": "the homosexual",
+    "n4": "the homosexuals",
+    "n5": "homosexual's",
+    "n6": "homosexuals'",
+    "n7": "a homosexual",
+    "n8": "many homosexuals"
+}

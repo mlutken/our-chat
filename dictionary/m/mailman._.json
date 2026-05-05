@@ -1,0 +1,18 @@
+{
+    "base": "mailman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mailman",
+    "n2": "mailmen",
+    "n3": "the mailman",
+    "n4": "the mailmen",
+    "n5": "mailman's",
+    "n6": "mailmen's",
+    "n7": "a mailman",
+    "n8": "many mailmen"
+}

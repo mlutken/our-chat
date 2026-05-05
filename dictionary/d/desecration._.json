@@ -1,0 +1,18 @@
+{
+    "base": "desecration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "desecration",
+    "n2": "desecrations",
+    "n3": "the desecration",
+    "n4": "the desecrations",
+    "n5": "desecration's",
+    "n6": "desecrations'",
+    "n7": "a desecration",
+    "n8": "many desecrations"
+}

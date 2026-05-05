@@ -1,0 +1,18 @@
+{
+    "base": "consternation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "consternation",
+    "n2": "consternations",
+    "n3": "the consternation",
+    "n4": "the consternations",
+    "n5": "consternation's",
+    "n6": "consternations'",
+    "n7": "a consternation",
+    "n8": "many consternations"
+}

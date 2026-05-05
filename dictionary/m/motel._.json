@@ -1,0 +1,18 @@
+{
+    "base": "motel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "motel",
+    "n2": "motels",
+    "n3": "the motel",
+    "n4": "the motels",
+    "n5": "motel's",
+    "n6": "motels'",
+    "n7": "a motel",
+    "n8": "many motels"
+}

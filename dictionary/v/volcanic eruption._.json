@@ -1,0 +1,18 @@
+{
+    "base": "volcanic eruption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "volcanic eruption",
+    "n2": "volcanic eruptions",
+    "n3": "the volcanic eruption",
+    "n4": "the volcanic eruptions",
+    "n5": "volcanic eruption's",
+    "n6": "volcanic eruptions'",
+    "n7": "a volcanic eruption",
+    "n8": "many volcanic eruptions"
+}

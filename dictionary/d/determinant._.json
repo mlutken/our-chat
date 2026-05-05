@@ -1,0 +1,18 @@
+{
+    "base": "determinant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "determinant",
+    "n2": "determinants",
+    "n3": "the determinant",
+    "n4": "the determinants",
+    "n5": "determinant's",
+    "n6": "determinants'",
+    "n7": "a determinant",
+    "n8": "many determinants"
+}

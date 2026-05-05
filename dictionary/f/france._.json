@@ -1,0 +1,18 @@
+{
+    "base": "france",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "france",
+    "n2": "frances",
+    "n3": "the france",
+    "n4": "the frances",
+    "n5": "france's",
+    "n6": "frances'",
+    "n7": "a france",
+    "n8": "many frances"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "relative",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "relative",
+    "n2": "relatives",
+    "n3": "the relative",
+    "n4": "the relatives",
+    "n5": "relative's",
+    "n6": "relatives'",
+    "n7": "a relative",
+    "n8": "many relatives"
+}

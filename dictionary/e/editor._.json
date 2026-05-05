@@ -7,5 +7,12 @@
     "n2": "editors",
     "n3": "the editor",
     "n4": "the editors",
-    "n5": "editor's"
+    "n5": "editor's",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "editors'",
+    "n7": "an editor",
+    "n8": "many editors"
 }

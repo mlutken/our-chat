@@ -7,5 +7,12 @@
     "n2": "singers",
     "n3": "the singer",
     "n4": "the singers",
-    "n5": "singer's"
+    "n5": "singer's",
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "singers'",
+    "n7": "a singer",
+    "n8": "many singers"
 }

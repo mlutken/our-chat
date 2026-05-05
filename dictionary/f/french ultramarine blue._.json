@@ -1,0 +1,18 @@
+{
+    "base": "french ultramarine blue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "french ultramarine blue",
+    "n2": "french ultramarine blues",
+    "n3": "the french ultramarine blue",
+    "n4": "the french ultramarine blues",
+    "n5": "french ultramarine blue's",
+    "n6": "french ultramarine blues'",
+    "n7": "a french ultramarine blue",
+    "n8": "many french ultramarine blues"
+}

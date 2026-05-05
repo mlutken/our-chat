@@ -1,0 +1,18 @@
+{
+    "base": "indiana",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "indiana",
+    "n2": "indianas",
+    "n3": "the indiana",
+    "n4": "the indianas",
+    "n5": "indiana's",
+    "n6": "indianas'",
+    "n7": "an indiana",
+    "n8": "many indianas"
+}

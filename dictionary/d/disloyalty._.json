@@ -1,0 +1,18 @@
+{
+    "base": "disloyalty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disloyalty",
+    "n2": "disloyalties",
+    "n3": "the disloyalty",
+    "n4": "the disloyalties",
+    "n5": "disloyalty's",
+    "n6": "disloyalties'",
+    "n7": "a disloyalty",
+    "n8": "many disloyalties"
+}

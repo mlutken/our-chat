@@ -1,0 +1,18 @@
+{
+    "base": "maneuverability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "maneuverability",
+    "n2": "maneuverabilities",
+    "n3": "the maneuverability",
+    "n4": "the maneuverabilities",
+    "n5": "maneuverability's",
+    "n6": "maneuverabilities'",
+    "n7": "a maneuverability",
+    "n8": "many maneuverabilities"
+}

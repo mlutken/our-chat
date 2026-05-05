@@ -1,0 +1,18 @@
+{
+    "base": "telephone wire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telephone wire",
+    "n2": "telephone wires",
+    "n3": "the telephone wire",
+    "n4": "the telephone wires",
+    "n5": "telephone wire's",
+    "n6": "telephone wires'",
+    "n7": "a telephone wire",
+    "n8": "many telephone wires"
+}

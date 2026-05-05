@@ -1,0 +1,18 @@
+{
+    "base": "fellow feeling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fellow feeling",
+    "n2": "fellow feelings",
+    "n3": "the fellow feeling",
+    "n4": "the fellow feelings",
+    "n5": "fellow feeling's",
+    "n6": "fellow feelings'",
+    "n7": "a fellow feeling",
+    "n8": "many fellow feelings"
+}

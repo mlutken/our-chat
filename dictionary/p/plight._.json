@@ -1,0 +1,18 @@
+{
+    "base": "plight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "plight",
+    "n2": "plights",
+    "n3": "the plight",
+    "n4": "the plights",
+    "n5": "plight's",
+    "n6": "plights'",
+    "n7": "a plight",
+    "n8": "many plights"
+}

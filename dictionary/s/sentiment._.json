@@ -1,0 +1,18 @@
+{
+    "base": "sentiment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "sentiment",
+    "n2": "sentiments",
+    "n3": "the sentiment",
+    "n4": "the sentiments",
+    "n5": "sentiment's",
+    "n6": "sentiments'",
+    "n7": "a sentiment",
+    "n8": "many sentiments"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "electrical shock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrical shock",
+    "n2": "electrical shocks",
+    "n3": "the electrical shock",
+    "n4": "the electrical shocks",
+    "n5": "electrical shock's",
+    "n6": "electrical shocks'",
+    "n7": "an electrical shock",
+    "n8": "many electrical shocks"
+}

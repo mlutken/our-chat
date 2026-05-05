@@ -1,0 +1,18 @@
+{
+    "base": "shortcut",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shortcut",
+    "n2": "shortcuts",
+    "n3": "the shortcut",
+    "n4": "the shortcuts",
+    "n5": "shortcut's",
+    "n6": "shortcuts'",
+    "n7": "a shortcut",
+    "n8": "many shortcuts"
+}

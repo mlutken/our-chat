@@ -7,5 +7,12 @@
     "n2": "negotiations",
     "n3": "the negotiation",
     "n4": "the negotiations",
-    "n5": "negotiation's"
+    "n5": "negotiation's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "negotiations'",
+    "n7": "a negotiation",
+    "n8": "many negotiations"
 }

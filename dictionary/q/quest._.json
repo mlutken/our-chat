@@ -1,0 +1,18 @@
+{
+    "base": "quest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quest",
+    "n2": "quests",
+    "n3": "the quest",
+    "n4": "the quests",
+    "n5": "quest's",
+    "n6": "quests'",
+    "n7": "a quest",
+    "n8": "many quests"
+}

@@ -7,5 +7,12 @@
     "n2": "fashions",
     "n3": "the fashion",
     "n4": "the fashions",
-    "n5": "fashion's"
+    "n5": "fashion's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "fashions'",
+    "n7": "a fashion",
+    "n8": "many fashions"
 }

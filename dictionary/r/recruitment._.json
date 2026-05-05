@@ -1,0 +1,18 @@
+{
+    "base": "recruitment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "recruitment",
+    "n2": "recruitments",
+    "n3": "the recruitment",
+    "n4": "the recruitments",
+    "n5": "recruitment's",
+    "n6": "recruitments'",
+    "n7": "a recruitment",
+    "n8": "many recruitments"
+}

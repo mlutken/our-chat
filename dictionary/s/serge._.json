@@ -1,0 +1,18 @@
+{
+    "base": "serge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "serge",
+    "n2": "serges",
+    "n3": "the serge",
+    "n4": "the serges",
+    "n5": "serge's",
+    "n6": "serges'",
+    "n7": "a serge",
+    "n8": "many serges"
+}

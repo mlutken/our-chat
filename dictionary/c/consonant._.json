@@ -1,0 +1,18 @@
+{
+    "base": "consonant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "consonant",
+    "n2": "consonants",
+    "n3": "the consonant",
+    "n4": "the consonants",
+    "n5": "consonant's",
+    "n6": "consonants'",
+    "n7": "a consonant",
+    "n8": "many consonants"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "boss",
-    "n2": "boss",
+    "n2": "bosses",
     "n3": "the boss",
-    "n4": "the boss",
-    "n5": "boss's"
+    "n4": "the bosses",
+    "n5": "boss'",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "bosses'",
+    "n7": "a boss",
+    "n8": "many bosses"
 }

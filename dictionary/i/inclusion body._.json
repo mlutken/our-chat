@@ -1,0 +1,18 @@
+{
+    "base": "inclusion body",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inclusion body",
+    "n2": "inclusion bodies",
+    "n3": "the inclusion body",
+    "n4": "the inclusion bodies",
+    "n5": "inclusion body's",
+    "n6": "inclusion bodies'",
+    "n7": "an inclusion body",
+    "n8": "many inclusion bodies"
+}

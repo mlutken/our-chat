@@ -1,0 +1,18 @@
+{
+    "base": "cocaine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cocaine",
+    "n2": "cocaines",
+    "n3": "the cocaine",
+    "n4": "the cocaines",
+    "n5": "cocaine's",
+    "n6": "cocaines'",
+    "n7": "a cocaine",
+    "n8": "many cocaines"
+}

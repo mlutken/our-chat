@@ -1,0 +1,18 @@
+{
+    "base": "trained worker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trained worker",
+    "n2": "trained workers",
+    "n3": "the trained worker",
+    "n4": "the trained workers",
+    "n5": "trained worker's",
+    "n6": "trained workers'",
+    "n7": "a trained worker",
+    "n8": "many trained workers"
+}

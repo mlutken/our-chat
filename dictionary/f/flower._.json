@@ -1,11 +1,24 @@
 {
     "base": "flower",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "flower",
     "v2": "flowered",
     "v3": "flowered",
     "v4": "flowering",
-    "v5": "flowers"
+    "v5": "flowers",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "flower",
+    "n2": "flowers",
+    "n3": "the flower",
+    "n4": "the flowers",
+    "n5": "flower's",
+    "n6": "flowers'",
+    "n7": "a flower",
+    "n8": "many flowers"
 }

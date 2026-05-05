@@ -1,9 +1,22 @@
 {
     "base": "common",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "common",
     "adj2": "more common",
-    "adj3": "most common"
+    "adj3": "most common",
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "common",
+    "n2": "commons",
+    "n3": "the common",
+    "n4": "the commons",
+    "n5": "common's",
+    "n6": "commons'",
+    "n7": "a common",
+    "n8": "many commons"
 }

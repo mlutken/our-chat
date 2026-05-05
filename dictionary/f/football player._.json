@@ -1,0 +1,18 @@
+{
+    "base": "football player",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "football player",
+    "n2": "football players",
+    "n3": "the football player",
+    "n4": "the football players",
+    "n5": "football player's",
+    "n6": "football players'",
+    "n7": "a football player",
+    "n8": "many football players"
+}

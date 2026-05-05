@@ -1,0 +1,18 @@
+{
+    "base": "cushion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cushion",
+    "n2": "cushions",
+    "n3": "the cushion",
+    "n4": "the cushions",
+    "n5": "cushion's",
+    "n6": "cushions'",
+    "n7": "a cushion",
+    "n8": "many cushions"
+}

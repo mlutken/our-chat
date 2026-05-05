@@ -1,0 +1,18 @@
+{
+    "base": "renewal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "renewal",
+    "n2": "renewals",
+    "n3": "the renewal",
+    "n4": "the renewals",
+    "n5": "renewal's",
+    "n6": "renewals'",
+    "n7": "a renewal",
+    "n8": "many renewals"
+}

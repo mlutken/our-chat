@@ -1,0 +1,18 @@
+{
+    "base": "sea power",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sea power",
+    "n2": "sea powers",
+    "n3": "the sea power",
+    "n4": "the sea powers",
+    "n5": "sea power's",
+    "n6": "sea powers'",
+    "n7": "a sea power",
+    "n8": "many sea powers"
+}

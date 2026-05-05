@@ -1,0 +1,18 @@
+{
+    "base": "lengthening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lengthening",
+    "n2": "lengthenings",
+    "n3": "the lengthening",
+    "n4": "the lengthenings",
+    "n5": "lengthening's",
+    "n6": "lengthenings'",
+    "n7": "a lengthening",
+    "n8": "many lengthenings"
+}

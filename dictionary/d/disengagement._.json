@@ -1,0 +1,18 @@
+{
+    "base": "disengagement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disengagement",
+    "n2": "disengagements",
+    "n3": "the disengagement",
+    "n4": "the disengagements",
+    "n5": "disengagement's",
+    "n6": "disengagements'",
+    "n7": "a disengagement",
+    "n8": "many disengagements"
+}

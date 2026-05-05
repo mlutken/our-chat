@@ -1,0 +1,18 @@
+{
+    "base": "brassica",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brassica",
+    "n2": "brassicas",
+    "n3": "the brassica",
+    "n4": "the brassicas",
+    "n5": "brassica's",
+    "n6": "brassicas'",
+    "n7": "a brassica",
+    "n8": "many brassicas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "moire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moire",
+    "n2": "moires",
+    "n3": "the moire",
+    "n4": "the moires",
+    "n5": "moire's",
+    "n6": "moires'",
+    "n7": "a moire",
+    "n8": "many moires"
+}

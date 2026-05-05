@@ -1,0 +1,18 @@
+{
+    "base": "scavenger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scavenger",
+    "n2": "scavengers",
+    "n3": "the scavenger",
+    "n4": "the scavengers",
+    "n5": "scavenger's",
+    "n6": "scavengers'",
+    "n7": "a scavenger",
+    "n8": "many scavengers"
+}

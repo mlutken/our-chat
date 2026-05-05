@@ -1,0 +1,18 @@
+{
+    "base": "hideout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "hideout",
+    "n2": "hideouts",
+    "n3": "the hideout",
+    "n4": "the hideouts",
+    "n5": "hideout's",
+    "n6": "hideouts'",
+    "n7": "a hideout",
+    "n8": "many hideouts"
+}

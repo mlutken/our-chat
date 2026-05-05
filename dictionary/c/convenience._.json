@@ -7,5 +7,12 @@
     "n2": "conveniences",
     "n3": "the convenience",
     "n4": "the conveniences",
-    "n5": "convenience's"
+    "n5": "convenience's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "conveniences'",
+    "n7": "a convenience",
+    "n8": "many conveniences"
 }

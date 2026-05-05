@@ -1,0 +1,18 @@
+{
+    "base": "coverage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coverage",
+    "n2": "coverages",
+    "n3": "the coverage",
+    "n4": "the coverages",
+    "n5": "coverage's",
+    "n6": "coverages'",
+    "n7": "a coverage",
+    "n8": "many coverages"
+}

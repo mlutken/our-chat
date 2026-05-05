@@ -1,0 +1,18 @@
+{
+    "base": "drunk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "drunk",
+    "n2": "drunks",
+    "n3": "the drunk",
+    "n4": "the drunks",
+    "n5": "drunk's",
+    "n6": "drunks'",
+    "n7": "a drunk",
+    "n8": "many drunks"
+}

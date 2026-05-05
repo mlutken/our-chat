@@ -1,0 +1,18 @@
+{
+    "base": "provocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "provocation",
+    "n2": "provocations",
+    "n3": "the provocation",
+    "n4": "the provocations",
+    "n5": "provocation's",
+    "n6": "provocations'",
+    "n7": "a provocation",
+    "n8": "many provocations"
+}

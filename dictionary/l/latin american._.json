@@ -1,0 +1,18 @@
+{
+    "base": "latin american",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "latin american",
+    "n2": "latin americans",
+    "n3": "the latin american",
+    "n4": "the latin americans",
+    "n5": "latin american's",
+    "n6": "latin americans'",
+    "n7": "a latin american",
+    "n8": "many latin americans"
+}

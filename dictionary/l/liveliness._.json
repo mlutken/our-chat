@@ -1,0 +1,18 @@
+{
+    "base": "liveliness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liveliness",
+    "n2": "livelinesses",
+    "n3": "the liveliness",
+    "n4": "the livelinesses",
+    "n5": "liveliness'",
+    "n6": "livelinesses'",
+    "n7": "a liveliness",
+    "n8": "many livelinesses"
+}

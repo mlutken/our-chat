@@ -1,0 +1,18 @@
+{
+    "base": "good night",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "good night",
+    "n2": "good nights",
+    "n3": "the good night",
+    "n4": "the good nights",
+    "n5": "good night's",
+    "n6": "good nights'",
+    "n7": "a good night",
+    "n8": "many good nights"
+}

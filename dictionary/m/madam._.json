@@ -1,0 +1,18 @@
+{
+    "base": "madam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "madam",
+    "n2": "madams",
+    "n3": "the madam",
+    "n4": "the madams",
+    "n5": "madam's",
+    "n6": "madams'",
+    "n7": "a madam",
+    "n8": "many madams"
+}

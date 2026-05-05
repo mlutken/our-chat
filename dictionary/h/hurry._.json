@@ -1,11 +1,24 @@
 {
     "base": "hurry",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "hurry",
     "v2": "hurried",
     "v3": "hurried",
     "v4": "hurrying",
-    "v5": "hurries"
+    "v5": "hurries",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "hurry",
+    "n2": "hurries",
+    "n3": "the hurry",
+    "n4": "the hurries",
+    "n5": "hurry's",
+    "n6": "hurries'",
+    "n7": "a hurry",
+    "n8": "many hurries"
 }

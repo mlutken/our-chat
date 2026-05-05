@@ -1,0 +1,18 @@
+{
+    "base": "straight face",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "straight face",
+    "n2": "straight faces",
+    "n3": "the straight face",
+    "n4": "the straight faces",
+    "n5": "straight face's",
+    "n6": "straight faces'",
+    "n7": "a straight face",
+    "n8": "many straight faces"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "silver gray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "silver gray",
+    "n2": "silver grays",
+    "n3": "the silver gray",
+    "n4": "the silver grays",
+    "n5": "silver gray's",
+    "n6": "silver grays'",
+    "n7": "a silver gray",
+    "n8": "many silver grays"
+}

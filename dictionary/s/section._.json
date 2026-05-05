@@ -7,5 +7,12 @@
     "n2": "sections",
     "n3": "the section",
     "n4": "the sections",
-    "n5": "section's"
+    "n5": "section's",
+    "proper": false,
+    "commonness": 97,
+    "max_commonness": 6834,
+    "commonness_ge_count": 125,
+    "n6": "sections'",
+    "n7": "a section",
+    "n8": "many sections"
 }

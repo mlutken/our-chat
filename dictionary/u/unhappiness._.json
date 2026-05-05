@@ -1,0 +1,18 @@
+{
+    "base": "unhappiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unhappiness",
+    "n2": "unhappinesses",
+    "n3": "the unhappiness",
+    "n4": "the unhappinesses",
+    "n5": "unhappiness'",
+    "n6": "unhappinesses'",
+    "n7": "an unhappiness",
+    "n8": "many unhappinesses"
+}

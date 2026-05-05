@@ -1,0 +1,18 @@
+{
+    "base": "vaccine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vaccine",
+    "n2": "vaccines",
+    "n3": "the vaccine",
+    "n4": "the vaccines",
+    "n5": "vaccine's",
+    "n6": "vaccines'",
+    "n7": "a vaccine",
+    "n8": "many vaccines"
+}

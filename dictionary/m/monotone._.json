@@ -1,0 +1,18 @@
+{
+    "base": "monotone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monotone",
+    "n2": "monotones",
+    "n3": "the monotone",
+    "n4": "the monotones",
+    "n5": "monotone's",
+    "n6": "monotones'",
+    "n7": "a monotone",
+    "n8": "many monotones"
+}

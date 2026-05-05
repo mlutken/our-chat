@@ -1,0 +1,18 @@
+{
+    "base": "nineties",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nineties",
+    "n2": "ninetieses",
+    "n3": "the nineties",
+    "n4": "the ninetieses",
+    "n5": "nineties'",
+    "n6": "ninetieses'",
+    "n7": "a nineties",
+    "n8": "many ninetieses"
+}

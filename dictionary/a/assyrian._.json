@@ -1,0 +1,18 @@
+{
+    "base": "assyrian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "assyrian",
+    "n2": "assyrians",
+    "n3": "the assyrian",
+    "n4": "the assyrians",
+    "n5": "assyrian's",
+    "n6": "assyrians'",
+    "n7": "an assyrian",
+    "n8": "many assyrians"
+}

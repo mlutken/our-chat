@@ -1,0 +1,18 @@
+{
+    "base": "vocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vocation",
+    "n2": "vocations",
+    "n3": "the vocation",
+    "n4": "the vocations",
+    "n5": "vocation's",
+    "n6": "vocations'",
+    "n7": "a vocation",
+    "n8": "many vocations"
+}

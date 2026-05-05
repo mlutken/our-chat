@@ -1,0 +1,18 @@
+{
+    "base": "chill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "chill",
+    "n2": "chills",
+    "n3": "the chill",
+    "n4": "the chills",
+    "n5": "chill's",
+    "n6": "chills'",
+    "n7": "a chill",
+    "n8": "many chills"
+}

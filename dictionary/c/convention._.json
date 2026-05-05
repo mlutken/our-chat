@@ -1,0 +1,18 @@
+{
+    "base": "convention",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "convention",
+    "n2": "conventions",
+    "n3": "the convention",
+    "n4": "the conventions",
+    "n5": "convention's",
+    "n6": "conventions'",
+    "n7": "a convention",
+    "n8": "many conventions"
+}

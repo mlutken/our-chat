@@ -1,0 +1,18 @@
+{
+    "base": "communication system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "communication system",
+    "n2": "communication systems",
+    "n3": "the communication system",
+    "n4": "the communication systems",
+    "n5": "communication system's",
+    "n6": "communication systems'",
+    "n7": "a communication system",
+    "n8": "many communication systems"
+}

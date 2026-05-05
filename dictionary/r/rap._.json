@@ -1,0 +1,18 @@
+{
+    "base": "rap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rap",
+    "n2": "raps",
+    "n3": "the rap",
+    "n4": "the raps",
+    "n5": "rap's",
+    "n6": "raps'",
+    "n7": "a rap",
+    "n8": "many raps"
+}

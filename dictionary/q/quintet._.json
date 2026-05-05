@@ -1,0 +1,18 @@
+{
+    "base": "quintet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quintet",
+    "n2": "quintets",
+    "n3": "the quintet",
+    "n4": "the quintets",
+    "n5": "quintet's",
+    "n6": "quintets'",
+    "n7": "a quintet",
+    "n8": "many quintets"
+}

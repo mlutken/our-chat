@@ -7,5 +7,12 @@
     "n2": "therapies",
     "n3": "the therapy",
     "n4": "the therapies",
-    "n5": "therapy's"
+    "n5": "therapy's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "therapies'",
+    "n7": "a therapy",
+    "n8": "many therapies"
 }

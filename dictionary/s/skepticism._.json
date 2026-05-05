@@ -1,0 +1,18 @@
+{
+    "base": "skepticism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skepticism",
+    "n2": "skepticisms",
+    "n3": "the skepticism",
+    "n4": "the skepticisms",
+    "n5": "skepticism's",
+    "n6": "skepticisms'",
+    "n7": "a skepticism",
+    "n8": "many skepticisms"
+}

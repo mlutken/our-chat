@@ -1,0 +1,18 @@
+{
+    "base": "carton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carton",
+    "n2": "cartons",
+    "n3": "the carton",
+    "n4": "the cartons",
+    "n5": "carton's",
+    "n6": "cartons'",
+    "n7": "a carton",
+    "n8": "many cartons"
+}

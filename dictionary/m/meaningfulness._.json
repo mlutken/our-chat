@@ -1,0 +1,18 @@
+{
+    "base": "meaningfulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "meaningfulness",
+    "n2": "meaningfulnesses",
+    "n3": "the meaningfulness",
+    "n4": "the meaningfulnesses",
+    "n5": "meaningfulness'",
+    "n6": "meaningfulnesses'",
+    "n7": "a meaningfulness",
+    "n8": "many meaningfulnesses"
+}

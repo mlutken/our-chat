@@ -1,0 +1,18 @@
+{
+    "base": "novel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "novel",
+    "n2": "novels",
+    "n3": "the novel",
+    "n4": "the novels",
+    "n5": "novel's",
+    "n6": "novels'",
+    "n7": "a novel",
+    "n8": "many novels"
+}

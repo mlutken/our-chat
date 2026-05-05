@@ -1,0 +1,18 @@
+{
+    "base": "veil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "veil",
+    "n2": "veils",
+    "n3": "the veil",
+    "n4": "the veils",
+    "n5": "veil's",
+    "n6": "veils'",
+    "n7": "a veil",
+    "n8": "many veils"
+}

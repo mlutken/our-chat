@@ -1,0 +1,18 @@
+{
+    "base": "cardroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cardroom",
+    "n2": "cardrooms",
+    "n3": "the cardroom",
+    "n4": "the cardrooms",
+    "n5": "cardroom's",
+    "n6": "cardrooms'",
+    "n7": "a cardroom",
+    "n8": "many cardrooms"
+}

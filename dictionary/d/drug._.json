@@ -7,5 +7,12 @@
     "n2": "drugs",
     "n3": "the drug",
     "n4": "the drugs",
-    "n5": "drug's"
+    "n5": "drug's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "drugs'",
+    "n7": "a drug",
+    "n8": "many drugs"
 }

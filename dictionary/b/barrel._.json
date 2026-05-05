@@ -1,0 +1,18 @@
+{
+    "base": "barrel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "barrel",
+    "n2": "barrels",
+    "n3": "the barrel",
+    "n4": "the barrels",
+    "n5": "barrel's",
+    "n6": "barrels'",
+    "n7": "a barrel",
+    "n8": "many barrels"
+}

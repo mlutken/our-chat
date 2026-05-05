@@ -1,0 +1,18 @@
+{
+    "base": "white heat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "white heat",
+    "n2": "white heats",
+    "n3": "the white heat",
+    "n4": "the white heats",
+    "n5": "white heat's",
+    "n6": "white heats'",
+    "n7": "a white heat",
+    "n8": "many white heats"
+}

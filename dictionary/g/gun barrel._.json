@@ -1,0 +1,18 @@
+{
+    "base": "gun barrel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gun barrel",
+    "n2": "gun barrels",
+    "n3": "the gun barrel",
+    "n4": "the gun barrels",
+    "n5": "gun barrel's",
+    "n6": "gun barrels'",
+    "n7": "a gun barrel",
+    "n8": "many gun barrels"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "virgin mary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "virgin mary",
+    "n2": "virgin maries",
+    "n3": "the virgin mary",
+    "n4": "the virgin maries",
+    "n5": "virgin mary's",
+    "n6": "virgin maries'",
+    "n7": "a virgin mary",
+    "n8": "many virgin maries"
+}

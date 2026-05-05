@@ -1,0 +1,18 @@
+{
+    "base": "baltimore",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "baltimore",
+    "n2": "baltimores",
+    "n3": "the baltimore",
+    "n4": "the baltimores",
+    "n5": "baltimore's",
+    "n6": "baltimores'",
+    "n7": "a baltimore",
+    "n8": "many baltimores"
+}

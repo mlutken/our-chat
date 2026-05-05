@@ -1,0 +1,18 @@
+{
+    "base": "delirium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "delirium",
+    "n2": "deliriums",
+    "n3": "the delirium",
+    "n4": "the deliriums",
+    "n5": "delirium's",
+    "n6": "deliriums'",
+    "n7": "a delirium",
+    "n8": "many deliriums"
+}

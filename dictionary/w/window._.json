@@ -7,5 +7,12 @@
     "n2": "windows",
     "n3": "the window",
     "n4": "the windows",
-    "n5": "window's"
+    "n5": "window's",
+    "proper": false,
+    "commonness": 82,
+    "max_commonness": 6834,
+    "commonness_ge_count": 158,
+    "n6": "windows'",
+    "n7": "a window",
+    "n8": "many windows"
 }

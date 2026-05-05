@@ -1,0 +1,18 @@
+{
+    "base": "surplus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "surplus",
+    "n2": "surpluses",
+    "n3": "the surplus",
+    "n4": "the surpluses",
+    "n5": "surplus'",
+    "n6": "surpluses'",
+    "n7": "a surplus",
+    "n8": "many surpluses"
+}

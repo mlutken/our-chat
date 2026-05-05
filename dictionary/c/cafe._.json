@@ -1,0 +1,18 @@
+{
+    "base": "cafe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "cafe",
+    "n2": "caves",
+    "n3": "the cafe",
+    "n4": "the caves",
+    "n5": "cafe's",
+    "n6": "caves'",
+    "n7": "a cafe",
+    "n8": "many caves"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mileage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mileage",
+    "n2": "mileages",
+    "n3": "the mileage",
+    "n4": "the mileages",
+    "n5": "mileage's",
+    "n6": "mileages'",
+    "n7": "a mileage",
+    "n8": "many mileages"
+}

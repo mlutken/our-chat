@@ -13,5 +13,12 @@
     "v2": "framed",
     "v3": "framed",
     "v4": "framing",
-    "v5": "frames"
+    "v5": "frames",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "frames'",
+    "n7": "a frame",
+    "n8": "many frames"
 }

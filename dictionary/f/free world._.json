@@ -1,0 +1,18 @@
+{
+    "base": "free world",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "free world",
+    "n2": "free worlds",
+    "n3": "the free world",
+    "n4": "the free worlds",
+    "n5": "free world's",
+    "n6": "free worlds'",
+    "n7": "a free world",
+    "n8": "many free worlds"
+}

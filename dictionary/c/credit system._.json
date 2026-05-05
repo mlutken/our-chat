@@ -1,0 +1,18 @@
+{
+    "base": "credit system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "credit system",
+    "n2": "credit systems",
+    "n3": "the credit system",
+    "n4": "the credit systems",
+    "n5": "credit system's",
+    "n6": "credit systems'",
+    "n7": "a credit system",
+    "n8": "many credit systems"
+}

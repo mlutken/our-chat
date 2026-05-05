@@ -1,0 +1,18 @@
+{
+    "base": "rumor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "rumor",
+    "n2": "rumors",
+    "n3": "the rumor",
+    "n4": "the rumors",
+    "n5": "rumor's",
+    "n6": "rumors'",
+    "n7": "a rumor",
+    "n8": "many rumors"
+}

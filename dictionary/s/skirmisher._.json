@@ -1,0 +1,18 @@
+{
+    "base": "skirmisher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "skirmisher",
+    "n2": "skirmishers",
+    "n3": "the skirmisher",
+    "n4": "the skirmishers",
+    "n5": "skirmisher's",
+    "n6": "skirmishers'",
+    "n7": "a skirmisher",
+    "n8": "many skirmishers"
+}

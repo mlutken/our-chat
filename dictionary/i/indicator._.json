@@ -1,0 +1,18 @@
+{
+    "base": "indicator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "indicator",
+    "n2": "indicators",
+    "n3": "the indicator",
+    "n4": "the indicators",
+    "n5": "indicator's",
+    "n6": "indicators'",
+    "n7": "an indicator",
+    "n8": "many indicators"
+}

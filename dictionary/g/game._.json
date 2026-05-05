@@ -7,5 +7,12 @@
     "n2": "games",
     "n3": "the game",
     "n4": "the games",
-    "n5": "game's"
+    "n5": "game's",
+    "proper": false,
+    "commonness": 85,
+    "max_commonness": 6834,
+    "commonness_ge_count": 146,
+    "n6": "games'",
+    "n7": "a game",
+    "n8": "many games"
 }

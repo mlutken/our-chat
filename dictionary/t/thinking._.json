@@ -1,0 +1,18 @@
+{
+    "base": "thinking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "thinking",
+    "n2": "thinkings",
+    "n3": "the thinking",
+    "n4": "the thinkings",
+    "n5": "thinking's",
+    "n6": "thinkings'",
+    "n7": "a thinking",
+    "n8": "many thinkings"
+}

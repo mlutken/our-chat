@@ -1,0 +1,18 @@
+{
+    "base": "scientist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "scientist",
+    "n2": "scientists",
+    "n3": "the scientist",
+    "n4": "the scientists",
+    "n5": "scientist's",
+    "n6": "scientists'",
+    "n7": "a scientist",
+    "n8": "many scientists"
+}

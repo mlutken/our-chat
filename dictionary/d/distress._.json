@@ -1,0 +1,18 @@
+{
+    "base": "distress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "distress",
+    "n2": "distresses",
+    "n3": "the distress",
+    "n4": "the distresses",
+    "n5": "distress'",
+    "n6": "distresses'",
+    "n7": "a distress",
+    "n8": "many distresses"
+}

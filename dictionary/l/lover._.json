@@ -1,0 +1,18 @@
+{
+    "base": "lover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "lover",
+    "n2": "lovers",
+    "n3": "the lover",
+    "n4": "the lovers",
+    "n5": "lover's",
+    "n6": "lovers'",
+    "n7": "a lover",
+    "n8": "many lovers"
+}

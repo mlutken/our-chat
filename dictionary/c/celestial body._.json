@@ -1,0 +1,18 @@
+{
+    "base": "celestial body",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "celestial body",
+    "n2": "celestial bodies",
+    "n3": "the celestial body",
+    "n4": "the celestial bodies",
+    "n5": "celestial body's",
+    "n6": "celestial bodies'",
+    "n7": "a celestial body",
+    "n8": "many celestial bodies"
+}

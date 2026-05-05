@@ -1,11 +1,24 @@
 {
     "base": "rescue",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "rescue",
     "v2": "rescued",
     "v3": "rescued",
     "v4": "rescuing",
-    "v5": "rescues"
+    "v5": "rescues",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "rescue",
+    "n2": "rescues",
+    "n3": "the rescue",
+    "n4": "the rescues",
+    "n5": "rescue's",
+    "n6": "rescues'",
+    "n7": "a rescue",
+    "n8": "many rescues"
 }

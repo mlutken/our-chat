@@ -1,0 +1,18 @@
+{
+    "base": "subfigure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subfigure",
+    "n2": "subfigures",
+    "n3": "the subfigure",
+    "n4": "the subfigures",
+    "n5": "subfigure's",
+    "n6": "subfigures'",
+    "n7": "a subfigure",
+    "n8": "many subfigures"
+}

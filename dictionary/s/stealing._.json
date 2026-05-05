@@ -1,0 +1,18 @@
+{
+    "base": "stealing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stealing",
+    "n2": "stealings",
+    "n3": "the stealing",
+    "n4": "the stealings",
+    "n5": "stealing's",
+    "n6": "stealings'",
+    "n7": "a stealing",
+    "n8": "many stealings"
+}

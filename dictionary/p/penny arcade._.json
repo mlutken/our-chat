@@ -1,0 +1,18 @@
+{
+    "base": "penny arcade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "penny arcade",
+    "n2": "penny arcades",
+    "n3": "the penny arcade",
+    "n4": "the penny arcades",
+    "n5": "penny arcade's",
+    "n6": "penny arcades'",
+    "n7": "a penny arcade",
+    "n8": "many penny arcades"
+}

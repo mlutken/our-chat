@@ -1,0 +1,18 @@
+{
+    "base": "whole-word method",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whole-word method",
+    "n2": "whole-word methods",
+    "n3": "the whole-word method",
+    "n4": "the whole-word methods",
+    "n5": "whole-word method's",
+    "n6": "whole-word methods'",
+    "n7": "a whole-word method",
+    "n8": "many whole-word methods"
+}

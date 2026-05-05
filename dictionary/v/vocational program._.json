@@ -1,0 +1,18 @@
+{
+    "base": "vocational program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "vocational program",
+    "n2": "vocational programs",
+    "n3": "the vocational program",
+    "n4": "the vocational programs",
+    "n5": "vocational program's",
+    "n6": "vocational programs'",
+    "n7": "a vocational program",
+    "n8": "many vocational programs"
+}

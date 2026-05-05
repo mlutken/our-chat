@@ -1,0 +1,18 @@
+{
+    "base": "rabble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rabble",
+    "n2": "rabbles",
+    "n3": "the rabble",
+    "n4": "the rabbles",
+    "n5": "rabble's",
+    "n6": "rabbles'",
+    "n7": "a rabble",
+    "n8": "many rabbles"
+}

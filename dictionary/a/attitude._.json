@@ -7,5 +7,12 @@
     "n2": "attitudes",
     "n3": "the attitude",
     "n4": "the attitudes",
-    "n5": "attitude's"
+    "n5": "attitude's",
+    "proper": false,
+    "commonness": 78,
+    "max_commonness": 6834,
+    "commonness_ge_count": 174,
+    "n6": "attitudes'",
+    "n7": "an attitude",
+    "n8": "many attitudes"
 }

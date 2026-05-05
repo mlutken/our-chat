@@ -1,0 +1,18 @@
+{
+    "base": "exasperation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "exasperation",
+    "n2": "exasperations",
+    "n3": "the exasperation",
+    "n4": "the exasperations",
+    "n5": "exasperation's",
+    "n6": "exasperations'",
+    "n7": "an exasperation",
+    "n8": "many exasperations"
+}

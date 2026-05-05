@@ -1,0 +1,18 @@
+{
+    "base": "polka",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "polka",
+    "n2": "polkas",
+    "n3": "the polka",
+    "n4": "the polkas",
+    "n5": "polka's",
+    "n6": "polkas'",
+    "n7": "a polka",
+    "n8": "many polkas"
+}

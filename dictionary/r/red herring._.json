@@ -1,0 +1,18 @@
+{
+    "base": "red herring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red herring",
+    "n2": "red herrings",
+    "n3": "the red herring",
+    "n4": "the red herrings",
+    "n5": "red herring's",
+    "n6": "red herrings'",
+    "n7": "a red herring",
+    "n8": "many red herrings"
+}

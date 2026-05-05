@@ -1,0 +1,18 @@
+{
+    "base": "hare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hare",
+    "n2": "hares",
+    "n3": "the hare",
+    "n4": "the hares",
+    "n5": "hare's",
+    "n6": "hares'",
+    "n7": "a hare",
+    "n8": "many hares"
+}

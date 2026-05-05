@@ -1,0 +1,18 @@
+{
+    "base": "rehabilitation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "rehabilitation",
+    "n2": "rehabilitations",
+    "n3": "the rehabilitation",
+    "n4": "the rehabilitations",
+    "n5": "rehabilitation's",
+    "n6": "rehabilitations'",
+    "n7": "a rehabilitation",
+    "n8": "many rehabilitations"
+}

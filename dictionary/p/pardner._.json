@@ -1,0 +1,18 @@
+{
+    "base": "pardner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pardner",
+    "n2": "pardners",
+    "n3": "the pardner",
+    "n4": "the pardners",
+    "n5": "pardner's",
+    "n6": "pardners'",
+    "n7": "a pardner",
+    "n8": "many pardners"
+}

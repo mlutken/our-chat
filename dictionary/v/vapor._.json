@@ -1,0 +1,18 @@
+{
+    "base": "vapor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "vapor",
+    "n2": "vapors",
+    "n3": "the vapor",
+    "n4": "the vapors",
+    "n5": "vapor's",
+    "n6": "vapors'",
+    "n7": "a vapor",
+    "n8": "many vapors"
+}

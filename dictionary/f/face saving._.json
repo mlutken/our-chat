@@ -1,0 +1,18 @@
+{
+    "base": "face saving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "face saving",
+    "n2": "face savings",
+    "n3": "the face saving",
+    "n4": "the face savings",
+    "n5": "face saving's",
+    "n6": "face savings'",
+    "n7": "a face saving",
+    "n8": "many face savings"
+}

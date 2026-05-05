@@ -1,0 +1,18 @@
+{
+    "base": "cortical potential",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cortical potential",
+    "n2": "cortical potentials",
+    "n3": "the cortical potential",
+    "n4": "the cortical potentials",
+    "n5": "cortical potential's",
+    "n6": "cortical potentials'",
+    "n7": "a cortical potential",
+    "n8": "many cortical potentials"
+}

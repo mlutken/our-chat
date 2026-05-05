@@ -1,0 +1,18 @@
+{
+    "base": "spiral",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "spiral",
+    "n2": "spirals",
+    "n3": "the spiral",
+    "n4": "the spirals",
+    "n5": "spiral's",
+    "n6": "spirals'",
+    "n7": "a spiral",
+    "n8": "many spirals"
+}

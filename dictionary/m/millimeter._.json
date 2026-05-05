@@ -1,0 +1,18 @@
+{
+    "base": "millimeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "millimeter",
+    "n2": "millimeters",
+    "n3": "the millimeter",
+    "n4": "the millimeters",
+    "n5": "millimeter's",
+    "n6": "millimeters'",
+    "n7": "a millimeter",
+    "n8": "many millimeters"
+}

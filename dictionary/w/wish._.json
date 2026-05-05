@@ -1,11 +1,24 @@
 {
     "base": "wish",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wish",
     "v2": "wished",
     "v3": "wished",
     "v4": "wishing",
-    "v5": "wishes"
+    "v5": "wishes",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "wish",
+    "n2": "wishes",
+    "n3": "the wish",
+    "n4": "the wishes",
+    "n5": "wish's",
+    "n6": "wishes'",
+    "n7": "a wish",
+    "n8": "many wishes"
 }

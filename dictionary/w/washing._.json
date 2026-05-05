@@ -1,0 +1,18 @@
+{
+    "base": "washing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "washing",
+    "n2": "washings",
+    "n3": "the washing",
+    "n4": "the washings",
+    "n5": "washing's",
+    "n6": "washings'",
+    "n7": "a washing",
+    "n8": "many washings"
+}

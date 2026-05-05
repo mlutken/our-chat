@@ -1,0 +1,18 @@
+{
+    "base": "draw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "draw",
+    "n2": "draws",
+    "n3": "the draw",
+    "n4": "the draws",
+    "n5": "draw's",
+    "n6": "draws'",
+    "n7": "a draw",
+    "n8": "many draws"
+}

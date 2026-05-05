@@ -1,0 +1,18 @@
+{
+    "base": "contrabass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contrabass",
+    "n2": "contrabasses",
+    "n3": "the contrabass",
+    "n4": "the contrabasses",
+    "n5": "contrabass'",
+    "n6": "contrabasses'",
+    "n7": "a contrabass",
+    "n8": "many contrabasses"
+}

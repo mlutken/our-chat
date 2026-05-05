@@ -1,0 +1,18 @@
+{
+    "base": "coalition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coalition",
+    "n2": "coalitions",
+    "n3": "the coalition",
+    "n4": "the coalitions",
+    "n5": "coalition's",
+    "n6": "coalitions'",
+    "n7": "a coalition",
+    "n8": "many coalitions"
+}

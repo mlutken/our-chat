@@ -1,0 +1,18 @@
+{
+    "base": "fairytale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fairytale",
+    "n2": "fairytales",
+    "n3": "the fairytale",
+    "n4": "the fairytales",
+    "n5": "fairytale's",
+    "n6": "fairytales'",
+    "n7": "a fairytale",
+    "n8": "many fairytales"
+}

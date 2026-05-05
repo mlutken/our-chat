@@ -1,0 +1,18 @@
+{
+    "base": "christian",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "christian",
+    "n2": "christians",
+    "n3": "the christian",
+    "n4": "the christians",
+    "n5": "christian's",
+    "n6": "christians'",
+    "n7": "a christian",
+    "n8": "many christians"
+}

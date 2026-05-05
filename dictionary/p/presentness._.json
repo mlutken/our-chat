@@ -1,0 +1,18 @@
+{
+    "base": "presentness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "presentness",
+    "n2": "presentnesses",
+    "n3": "the presentness",
+    "n4": "the presentnesses",
+    "n5": "presentness'",
+    "n6": "presentnesses'",
+    "n7": "a presentness",
+    "n8": "many presentnesses"
+}

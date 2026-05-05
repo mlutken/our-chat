@@ -1,0 +1,18 @@
+{
+    "base": "linguist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "linguist",
+    "n2": "linguists",
+    "n3": "the linguist",
+    "n4": "the linguists",
+    "n5": "linguist's",
+    "n6": "linguists'",
+    "n7": "a linguist",
+    "n8": "many linguists"
+}

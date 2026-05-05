@@ -1,0 +1,18 @@
+{
+    "base": "scuffle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "scuffle",
+    "n2": "scuffles",
+    "n3": "the scuffle",
+    "n4": "the scuffles",
+    "n5": "scuffle's",
+    "n6": "scuffles'",
+    "n7": "a scuffle",
+    "n8": "many scuffles"
+}

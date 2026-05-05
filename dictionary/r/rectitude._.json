@@ -1,0 +1,18 @@
+{
+    "base": "rectitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rectitude",
+    "n2": "rectitudes",
+    "n3": "the rectitude",
+    "n4": "the rectitudes",
+    "n5": "rectitude's",
+    "n6": "rectitudes'",
+    "n7": "a rectitude",
+    "n8": "many rectitudes"
+}

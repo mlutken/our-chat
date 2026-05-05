@@ -1,0 +1,18 @@
+{
+    "base": "amateurishness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amateurishness",
+    "n2": "amateurishnesses",
+    "n3": "the amateurishness",
+    "n4": "the amateurishnesses",
+    "n5": "amateurishness'",
+    "n6": "amateurishnesses'",
+    "n7": "an amateurishness",
+    "n8": "many amateurishnesses"
+}

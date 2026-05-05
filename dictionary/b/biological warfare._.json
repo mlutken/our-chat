@@ -1,0 +1,18 @@
+{
+    "base": "biological warfare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "biological warfare",
+    "n2": "biological warfares",
+    "n3": "the biological warfare",
+    "n4": "the biological warfares",
+    "n5": "biological warfare's",
+    "n6": "biological warfares'",
+    "n7": "a biological warfare",
+    "n8": "many biological warfares"
+}

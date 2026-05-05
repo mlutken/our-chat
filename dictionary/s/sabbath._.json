@@ -1,0 +1,18 @@
+{
+    "base": "sabbath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sabbath",
+    "n2": "sabbaths",
+    "n3": "the sabbath",
+    "n4": "the sabbaths",
+    "n5": "sabbath's",
+    "n6": "sabbaths'",
+    "n7": "a sabbath",
+    "n8": "many sabbaths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "transversus abdominis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "transversus abdominis",
+    "n2": "transversus abdominises",
+    "n3": "the transversus abdominis",
+    "n4": "the transversus abdominises",
+    "n5": "transversus abdominis'",
+    "n6": "transversus abdominises'",
+    "n7": "a transversus abdominis",
+    "n8": "many transversus abdominises"
+}

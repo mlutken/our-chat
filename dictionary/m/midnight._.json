@@ -7,5 +7,12 @@
     "n2": "midnights",
     "n3": "the midnight",
     "n4": "the midnights",
-    "n5": "midnight's"
+    "n5": "midnight's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "midnights'",
+    "n7": "a midnight",
+    "n8": "many midnights"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sensuality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sensuality",
+    "n2": "sensualities",
+    "n3": "the sensuality",
+    "n4": "the sensualities",
+    "n5": "sensuality's",
+    "n6": "sensualities'",
+    "n7": "a sensuality",
+    "n8": "many sensualities"
+}

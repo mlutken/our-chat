@@ -1,0 +1,18 @@
+{
+    "base": "repentance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repentance",
+    "n2": "repentances",
+    "n3": "the repentance",
+    "n4": "the repentances",
+    "n5": "repentance's",
+    "n6": "repentances'",
+    "n7": "a repentance",
+    "n8": "many repentances"
+}

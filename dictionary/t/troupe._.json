@@ -1,0 +1,18 @@
+{
+    "base": "troupe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "troupe",
+    "n2": "troupes",
+    "n3": "the troupe",
+    "n4": "the troupes",
+    "n5": "troupe's",
+    "n6": "troupes'",
+    "n7": "a troupe",
+    "n8": "many troupes"
+}

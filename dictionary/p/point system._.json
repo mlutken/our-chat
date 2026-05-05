@@ -1,0 +1,18 @@
+{
+    "base": "point system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "point system",
+    "n2": "point systems",
+    "n3": "the point system",
+    "n4": "the point systems",
+    "n5": "point system's",
+    "n6": "point systems'",
+    "n7": "a point system",
+    "n8": "many point systems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "remuda",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "remuda",
+    "n2": "remudas",
+    "n3": "the remuda",
+    "n4": "the remudas",
+    "n5": "remuda's",
+    "n6": "remudas'",
+    "n7": "a remuda",
+    "n8": "many remudas"
+}

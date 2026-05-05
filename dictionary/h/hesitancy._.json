@@ -1,0 +1,18 @@
+{
+    "base": "hesitancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hesitancy",
+    "n2": "hesitancies",
+    "n3": "the hesitancy",
+    "n4": "the hesitancies",
+    "n5": "hesitancy's",
+    "n6": "hesitancies'",
+    "n7": "a hesitancy",
+    "n8": "many hesitancies"
+}

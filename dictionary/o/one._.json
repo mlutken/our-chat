@@ -1,7 +1,20 @@
 {
     "base": "one",
     "classes": [
+        "n",
         "pro"
     ],
-    "f0": "one"
+    "f0": "one",
+    "proper": false,
+    "commonness": 70,
+    "max_commonness": 6834,
+    "commonness_ge_count": 209,
+    "n1": "one",
+    "n2": "ones",
+    "n3": "the one",
+    "n4": "the ones",
+    "n5": "one's",
+    "n6": "ones'",
+    "n7": "a one",
+    "n8": "many ones"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "cage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "cage",
+    "n2": "cages",
+    "n3": "the cage",
+    "n4": "the cages",
+    "n5": "cage's",
+    "n6": "cages'",
+    "n7": "a cage",
+    "n8": "many cages"
+}

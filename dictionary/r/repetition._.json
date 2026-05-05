@@ -1,0 +1,18 @@
+{
+    "base": "repetition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "repetition",
+    "n2": "repetitions",
+    "n3": "the repetition",
+    "n4": "the repetitions",
+    "n5": "repetition's",
+    "n6": "repetitions'",
+    "n7": "a repetition",
+    "n8": "many repetitions"
+}

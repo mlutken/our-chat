@@ -1,0 +1,18 @@
+{
+    "base": "rooting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rooting",
+    "n2": "rootings",
+    "n3": "the rooting",
+    "n4": "the rootings",
+    "n5": "rooting's",
+    "n6": "rootings'",
+    "n7": "a rooting",
+    "n8": "many rootings"
+}

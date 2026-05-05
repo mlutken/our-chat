@@ -1,0 +1,18 @@
+{
+    "base": "depletion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "depletion",
+    "n2": "depletions",
+    "n3": "the depletion",
+    "n4": "the depletions",
+    "n5": "depletion's",
+    "n6": "depletions'",
+    "n7": "a depletion",
+    "n8": "many depletions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "feed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "feed",
+    "n2": "feeds",
+    "n3": "the feed",
+    "n4": "the feeds",
+    "n5": "feed's",
+    "n6": "feeds'",
+    "n7": "a feed",
+    "n8": "many feeds"
+}

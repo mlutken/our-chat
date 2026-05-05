@@ -1,0 +1,18 @@
+{
+    "base": "sportsman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "sportsman",
+    "n2": "sportsmen",
+    "n3": "the sportsman",
+    "n4": "the sportsmen",
+    "n5": "sportsman's",
+    "n6": "sportsmen's",
+    "n7": "a sportsman",
+    "n8": "many sportsmen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "denture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "denture",
+    "n2": "dentures",
+    "n3": "the denture",
+    "n4": "the dentures",
+    "n5": "denture's",
+    "n6": "dentures'",
+    "n7": "a denture",
+    "n8": "many dentures"
+}

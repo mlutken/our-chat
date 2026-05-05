@@ -1,0 +1,18 @@
+{
+    "base": "voltmeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voltmeter",
+    "n2": "voltmeters",
+    "n3": "the voltmeter",
+    "n4": "the voltmeters",
+    "n5": "voltmeter's",
+    "n6": "voltmeters'",
+    "n7": "a voltmeter",
+    "n8": "many voltmeters"
+}

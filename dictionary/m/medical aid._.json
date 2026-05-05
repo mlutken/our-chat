@@ -1,0 +1,18 @@
+{
+    "base": "medical aid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medical aid",
+    "n2": "medical aids",
+    "n3": "the medical aid",
+    "n4": "the medical aids",
+    "n5": "medical aid's",
+    "n6": "medical aids'",
+    "n7": "a medical aid",
+    "n8": "many medical aids"
+}

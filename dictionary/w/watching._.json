@@ -1,0 +1,18 @@
+{
+    "base": "watching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "watching",
+    "n2": "watchings",
+    "n3": "the watching",
+    "n4": "the watchings",
+    "n5": "watching's",
+    "n6": "watchings'",
+    "n7": "a watching",
+    "n8": "many watchings"
+}

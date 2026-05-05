@@ -1,0 +1,18 @@
+{
+    "base": "garter snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "garter snake",
+    "n2": "garter snakes",
+    "n3": "the garter snake",
+    "n4": "the garter snakes",
+    "n5": "garter snake's",
+    "n6": "garter snakes'",
+    "n7": "a garter snake",
+    "n8": "many garter snakes"
+}

@@ -7,5 +7,12 @@
     "n2": "barns",
     "n3": "the barn",
     "n4": "the barns",
-    "n5": "barn's"
+    "n5": "barn's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "barns'",
+    "n7": "a barn",
+    "n8": "many barns"
 }

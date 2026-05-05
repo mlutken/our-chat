@@ -1,11 +1,24 @@
 {
     "base": "blot",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "blot",
     "v2": "blotted",
     "v3": "blotted",
     "v4": "blotting",
-    "v5": "blots"
+    "v5": "blots",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "blot",
+    "n2": "blots",
+    "n3": "the blot",
+    "n4": "the blots",
+    "n5": "blot's",
+    "n6": "blots'",
+    "n7": "a blot",
+    "n8": "many blots"
 }

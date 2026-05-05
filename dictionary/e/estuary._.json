@@ -1,0 +1,18 @@
+{
+    "base": "estuary",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "estuary",
+    "n2": "estuaries",
+    "n3": "the estuary",
+    "n4": "the estuaries",
+    "n5": "estuary's",
+    "n6": "estuaries'",
+    "n7": "an estuary",
+    "n8": "many estuaries"
+}

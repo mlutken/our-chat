@@ -1,0 +1,18 @@
+{
+    "base": "timepiece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "timepiece",
+    "n2": "timepieces",
+    "n3": "the timepiece",
+    "n4": "the timepieces",
+    "n5": "timepiece's",
+    "n6": "timepieces'",
+    "n7": "a timepiece",
+    "n8": "many timepieces"
+}

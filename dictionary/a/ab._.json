@@ -1,0 +1,18 @@
+{
+    "base": "ab",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ab",
+    "n2": "abs",
+    "n3": "the ab",
+    "n4": "the abs",
+    "n5": "ab's",
+    "n6": "abs'",
+    "n7": "an ab",
+    "n8": "many abs"
+}

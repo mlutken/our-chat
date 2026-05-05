@@ -1,0 +1,18 @@
+{
+    "base": "going-over",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "going-over",
+    "n2": "goings-over",
+    "n3": "the going-over",
+    "n4": "the goings-over",
+    "n5": "going-over's",
+    "n6": "goings-over's",
+    "n7": "a going-over",
+    "n8": "many goings-over"
+}

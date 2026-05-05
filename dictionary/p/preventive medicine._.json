@@ -1,0 +1,18 @@
+{
+    "base": "preventive medicine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preventive medicine",
+    "n2": "preventive medicines",
+    "n3": "the preventive medicine",
+    "n4": "the preventive medicines",
+    "n5": "preventive medicine's",
+    "n6": "preventive medicines'",
+    "n7": "a preventive medicine",
+    "n8": "many preventive medicines"
+}

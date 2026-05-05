@@ -1,0 +1,18 @@
+{
+    "base": "progression",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "progression",
+    "n2": "progressions",
+    "n3": "the progression",
+    "n4": "the progressions",
+    "n5": "progression's",
+    "n6": "progressions'",
+    "n7": "a progression",
+    "n8": "many progressions"
+}

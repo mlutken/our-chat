@@ -1,0 +1,18 @@
+{
+    "base": "flint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flint",
+    "n2": "flints",
+    "n3": "the flint",
+    "n4": "the flints",
+    "n5": "flint's",
+    "n6": "flints'",
+    "n7": "a flint",
+    "n8": "many flints"
+}

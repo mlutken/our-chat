@@ -1,0 +1,18 @@
+{
+    "base": "caterer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caterer",
+    "n2": "caterers",
+    "n3": "the caterer",
+    "n4": "the caterers",
+    "n5": "caterer's",
+    "n6": "caterers'",
+    "n7": "a caterer",
+    "n8": "many caterers"
+}

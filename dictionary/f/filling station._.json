@@ -1,0 +1,18 @@
+{
+    "base": "filling station",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "filling station",
+    "n2": "filling stations",
+    "n3": "the filling station",
+    "n4": "the filling stations",
+    "n5": "filling station's",
+    "n6": "filling stations'",
+    "n7": "a filling station",
+    "n8": "many filling stations"
+}

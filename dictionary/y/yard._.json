@@ -1,0 +1,18 @@
+{
+    "base": "yard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n1": "yard",
+    "n2": "yards",
+    "n3": "the yard",
+    "n4": "the yards",
+    "n5": "yard's",
+    "n6": "yards'",
+    "n7": "a yard",
+    "n8": "many yards"
+}

@@ -7,5 +7,12 @@
     "n2": "polices",
     "n3": "the police",
     "n4": "the polices",
-    "n5": "police's"
+    "n5": "police's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "polices'",
+    "n7": "a police",
+    "n8": "many polices"
 }

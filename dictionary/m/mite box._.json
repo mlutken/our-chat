@@ -1,0 +1,18 @@
+{
+    "base": "mite box",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mite box",
+    "n2": "mite boxes",
+    "n3": "the mite box",
+    "n4": "the mite boxes",
+    "n5": "mite box's",
+    "n6": "mite boxes'",
+    "n7": "a mite box",
+    "n8": "many mite boxes"
+}

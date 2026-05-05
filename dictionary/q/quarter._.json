@@ -1,0 +1,18 @@
+{
+    "base": "quarter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "quarter",
+    "n2": "quarters",
+    "n3": "the quarter",
+    "n4": "the quarters",
+    "n5": "quarter's",
+    "n6": "quarters'",
+    "n7": "a quarter",
+    "n8": "many quarters"
+}

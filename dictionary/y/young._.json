@@ -1,9 +1,22 @@
 {
     "base": "young",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "young",
     "adj2": "younger",
-    "adj3": "youngest"
+    "adj3": "youngest",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "young",
+    "n2": "youngs",
+    "n3": "the young",
+    "n4": "the youngs",
+    "n5": "young's",
+    "n6": "youngs'",
+    "n7": "a young",
+    "n8": "many youngs"
 }

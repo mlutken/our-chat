@@ -1,0 +1,18 @@
+{
+    "base": "milwaukee",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "milwaukee",
+    "n2": "milwaukees",
+    "n3": "the milwaukee",
+    "n4": "the milwaukees",
+    "n5": "milwaukee's",
+    "n6": "milwaukees'",
+    "n7": "a milwaukee",
+    "n8": "many milwaukees"
+}

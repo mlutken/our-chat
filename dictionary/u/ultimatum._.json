@@ -1,0 +1,18 @@
+{
+    "base": "ultimatum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ultimatum",
+    "n2": "ultimata",
+    "n3": "the ultimatum",
+    "n4": "the ultimata",
+    "n5": "ultimatum's",
+    "n6": "ultimata's",
+    "n7": "an ultimatum",
+    "n8": "many ultimata"
+}

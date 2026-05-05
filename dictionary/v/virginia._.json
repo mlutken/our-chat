@@ -1,0 +1,18 @@
+{
+    "base": "virginia",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "virginia",
+    "n2": "virginias",
+    "n3": "the virginia",
+    "n4": "the virginias",
+    "n5": "virginia's",
+    "n6": "virginias'",
+    "n7": "a virginia",
+    "n8": "many virginias"
+}

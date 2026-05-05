@@ -1,0 +1,18 @@
+{
+    "base": "denseness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "denseness",
+    "n2": "densenesses",
+    "n3": "the denseness",
+    "n4": "the densenesses",
+    "n5": "denseness'",
+    "n6": "densenesses'",
+    "n7": "a denseness",
+    "n8": "many densenesses"
+}

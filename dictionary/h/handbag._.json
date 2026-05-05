@@ -1,0 +1,18 @@
+{
+    "base": "handbag",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "handbag",
+    "n2": "handbags",
+    "n3": "the handbag",
+    "n4": "the handbags",
+    "n5": "handbag's",
+    "n6": "handbags'",
+    "n7": "a handbag",
+    "n8": "many handbags"
+}

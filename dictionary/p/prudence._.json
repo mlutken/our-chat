@@ -1,0 +1,18 @@
+{
+    "base": "prudence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prudence",
+    "n2": "prudences",
+    "n3": "the prudence",
+    "n4": "the prudences",
+    "n5": "prudence's",
+    "n6": "prudences'",
+    "n7": "a prudence",
+    "n8": "many prudences"
+}

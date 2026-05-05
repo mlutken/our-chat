@@ -1,0 +1,18 @@
+{
+    "base": "incentive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "incentive",
+    "n2": "incentives",
+    "n3": "the incentive",
+    "n4": "the incentives",
+    "n5": "incentive's",
+    "n6": "incentives'",
+    "n7": "an incentive",
+    "n8": "many incentives"
+}

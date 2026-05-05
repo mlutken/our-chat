@@ -1,0 +1,18 @@
+{
+    "base": "won-lost record",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "won-lost record",
+    "n2": "won-lost records",
+    "n3": "the won-lost record",
+    "n4": "the won-lost records",
+    "n5": "won-lost record's",
+    "n6": "won-lost records'",
+    "n7": "a won-lost record",
+    "n8": "many won-lost records"
+}

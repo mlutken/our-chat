@@ -1,0 +1,18 @@
+{
+    "base": "surgeon",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "surgeon",
+    "n2": "surgeons",
+    "n3": "the surgeon",
+    "n4": "the surgeons",
+    "n5": "surgeon's",
+    "n6": "surgeons'",
+    "n7": "a surgeon",
+    "n8": "many surgeons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "pose",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pose",
+    "n2": "poses",
+    "n3": "the pose",
+    "n4": "the poses",
+    "n5": "pose's",
+    "n6": "poses'",
+    "n7": "a pose",
+    "n8": "many poses"
+}

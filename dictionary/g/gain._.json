@@ -7,5 +7,12 @@
     "n2": "gains",
     "n3": "the gain",
     "n4": "the gains",
-    "n5": "gain's"
+    "n5": "gain's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "gains'",
+    "n7": "a gain",
+    "n8": "many gains"
 }

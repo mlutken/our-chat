@@ -1,0 +1,18 @@
+{
+    "base": "appetite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "appetite",
+    "n2": "appetites",
+    "n3": "the appetite",
+    "n4": "the appetites",
+    "n5": "appetite's",
+    "n6": "appetites'",
+    "n7": "an appetite",
+    "n8": "many appetites"
+}

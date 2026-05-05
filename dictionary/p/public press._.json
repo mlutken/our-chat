@@ -1,0 +1,18 @@
+{
+    "base": "public press",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "public press",
+    "n2": "public presses",
+    "n3": "the public press",
+    "n4": "the public presses",
+    "n5": "public press'",
+    "n6": "public presses'",
+    "n7": "a public press",
+    "n8": "many public presses"
+}

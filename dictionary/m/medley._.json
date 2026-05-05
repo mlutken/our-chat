@@ -1,0 +1,18 @@
+{
+    "base": "medley",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medley",
+    "n2": "medleys",
+    "n3": "the medley",
+    "n4": "the medleys",
+    "n5": "medley's",
+    "n6": "medleys'",
+    "n7": "a medley",
+    "n8": "many medleys"
+}

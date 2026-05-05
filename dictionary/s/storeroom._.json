@@ -1,0 +1,18 @@
+{
+    "base": "storeroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "storeroom",
+    "n2": "storerooms",
+    "n3": "the storeroom",
+    "n4": "the storerooms",
+    "n5": "storeroom's",
+    "n6": "storerooms'",
+    "n7": "a storeroom",
+    "n8": "many storerooms"
+}

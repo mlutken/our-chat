@@ -13,5 +13,12 @@
     "v2": "exercised",
     "v3": "exercised",
     "v4": "exercising",
-    "v5": "exercises"
+    "v5": "exercises",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "exercises'",
+    "n7": "an exercise",
+    "n8": "many exercises"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "living",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "living",
+    "n2": "livings",
+    "n3": "the living",
+    "n4": "the livings",
+    "n5": "living's",
+    "n6": "livings'",
+    "n7": "a living",
+    "n8": "many livings"
+}

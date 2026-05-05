@@ -1,0 +1,18 @@
+{
+    "base": "clergyman",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "clergyman",
+    "n2": "clergymen",
+    "n3": "the clergyman",
+    "n4": "the clergymen",
+    "n5": "clergyman's",
+    "n6": "clergymen's",
+    "n7": "a clergyman",
+    "n8": "many clergymen"
+}

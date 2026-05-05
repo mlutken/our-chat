@@ -7,5 +7,12 @@
     "n2": "sisters",
     "n3": "the sister",
     "n4": "the sisters",
-    "n5": "sister's"
+    "n5": "sister's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "sisters'",
+    "n7": "a sister",
+    "n8": "many sisters"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sentence structure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sentence structure",
+    "n2": "sentence structures",
+    "n3": "the sentence structure",
+    "n4": "the sentence structures",
+    "n5": "sentence structure's",
+    "n6": "sentence structures'",
+    "n7": "a sentence structure",
+    "n8": "many sentence structures"
+}

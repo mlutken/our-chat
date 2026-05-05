@@ -1,0 +1,18 @@
+{
+    "base": "necessity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "necessity",
+    "n2": "necessities",
+    "n3": "the necessity",
+    "n4": "the necessities",
+    "n5": "necessity's",
+    "n6": "necessities'",
+    "n7": "a necessity",
+    "n8": "many necessities"
+}

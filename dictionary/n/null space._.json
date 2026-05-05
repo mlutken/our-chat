@@ -1,0 +1,18 @@
+{
+    "base": "null space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "null space",
+    "n2": "null spaces",
+    "n3": "the null space",
+    "n4": "the null spaces",
+    "n5": "null space's",
+    "n6": "null spaces'",
+    "n7": "a null space",
+    "n8": "many null spaces"
+}

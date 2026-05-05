@@ -1,0 +1,18 @@
+{
+    "base": "fostering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fostering",
+    "n2": "fosterings",
+    "n3": "the fostering",
+    "n4": "the fosterings",
+    "n5": "fostering's",
+    "n6": "fosterings'",
+    "n7": "a fostering",
+    "n8": "many fosterings"
+}

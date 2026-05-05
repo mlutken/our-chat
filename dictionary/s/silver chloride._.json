@@ -1,0 +1,18 @@
+{
+    "base": "silver chloride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "silver chloride",
+    "n2": "silver chlorides",
+    "n3": "the silver chloride",
+    "n4": "the silver chlorides",
+    "n5": "silver chloride's",
+    "n6": "silver chlorides'",
+    "n7": "a silver chloride",
+    "n8": "many silver chlorides"
+}

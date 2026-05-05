@@ -1,0 +1,18 @@
+{
+    "base": "nassau",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nassau",
+    "n2": "nassaus",
+    "n3": "the nassau",
+    "n4": "the nassaus",
+    "n5": "nassau's",
+    "n6": "nassaus'",
+    "n7": "a nassau",
+    "n8": "many nassaus"
+}

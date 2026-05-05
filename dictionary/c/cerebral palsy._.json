@@ -1,0 +1,18 @@
+{
+    "base": "cerebral palsy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cerebral palsy",
+    "n2": "cerebral palsies",
+    "n3": "the cerebral palsy",
+    "n4": "the cerebral palsies",
+    "n5": "cerebral palsy's",
+    "n6": "cerebral palsies'",
+    "n7": "a cerebral palsy",
+    "n8": "many cerebral palsies"
+}

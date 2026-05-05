@@ -1,0 +1,18 @@
+{
+    "base": "leaders",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "leaders",
+    "n2": "leaderses",
+    "n3": "the leaders",
+    "n4": "the leaderses",
+    "n5": "leaders'",
+    "n6": "leaderses'",
+    "n7": "a leaders",
+    "n8": "many leaderses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wedding night",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wedding night",
+    "n2": "wedding nights",
+    "n3": "the wedding night",
+    "n4": "the wedding nights",
+    "n5": "wedding night's",
+    "n6": "wedding nights'",
+    "n7": "a wedding night",
+    "n8": "many wedding nights"
+}

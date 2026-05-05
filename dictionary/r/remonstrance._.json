@@ -1,0 +1,18 @@
+{
+    "base": "remonstrance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "remonstrance",
+    "n2": "remonstrances",
+    "n3": "the remonstrance",
+    "n4": "the remonstrances",
+    "n5": "remonstrance's",
+    "n6": "remonstrances'",
+    "n7": "a remonstrance",
+    "n8": "many remonstrances"
+}

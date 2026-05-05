@@ -1,7 +1,20 @@
 {
     "base": "opposite",
     "classes": [
+        "n",
         "pre"
     ],
-    "f0": "opposite"
+    "f0": "opposite",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "opposite",
+    "n2": "opposites",
+    "n3": "the opposite",
+    "n4": "the opposites",
+    "n5": "opposite's",
+    "n6": "opposites'",
+    "n7": "an opposite",
+    "n8": "many opposites"
 }

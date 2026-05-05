@@ -1,0 +1,18 @@
+{
+    "base": "directivity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "directivity",
+    "n2": "directivities",
+    "n3": "the directivity",
+    "n4": "the directivities",
+    "n5": "directivity's",
+    "n6": "directivities'",
+    "n7": "a directivity",
+    "n8": "many directivities"
+}

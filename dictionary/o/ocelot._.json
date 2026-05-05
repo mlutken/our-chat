@@ -1,0 +1,18 @@
+{
+    "base": "ocelot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ocelot",
+    "n2": "ocelots",
+    "n3": "the ocelot",
+    "n4": "the ocelots",
+    "n5": "ocelot's",
+    "n6": "ocelots'",
+    "n7": "an ocelot",
+    "n8": "many ocelots"
+}

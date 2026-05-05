@@ -1,0 +1,18 @@
+{
+    "base": "pansy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "pansy",
+    "n2": "pansies",
+    "n3": "the pansy",
+    "n4": "the pansies",
+    "n5": "pansy's",
+    "n6": "pansies'",
+    "n7": "a pansy",
+    "n8": "many pansies"
+}

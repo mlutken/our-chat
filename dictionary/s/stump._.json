@@ -1,0 +1,18 @@
+{
+    "base": "stump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "stump",
+    "n2": "stumps",
+    "n3": "the stump",
+    "n4": "the stumps",
+    "n5": "stump's",
+    "n6": "stumps'",
+    "n7": "a stump",
+    "n8": "many stumps"
+}

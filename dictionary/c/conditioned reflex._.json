@@ -1,0 +1,18 @@
+{
+    "base": "conditioned reflex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "conditioned reflex",
+    "n2": "conditioned reflexes",
+    "n3": "the conditioned reflex",
+    "n4": "the conditioned reflexes",
+    "n5": "conditioned reflex's",
+    "n6": "conditioned reflexes'",
+    "n7": "a conditioned reflex",
+    "n8": "many conditioned reflexes"
+}

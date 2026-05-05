@@ -1,11 +1,24 @@
 {
     "base": "crash",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "crash",
     "v2": "crashed",
     "v3": "crashed",
     "v4": "crashing",
-    "v5": "crashes"
+    "v5": "crashes",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "crash",
+    "n2": "crashes",
+    "n3": "the crash",
+    "n4": "the crashes",
+    "n5": "crash's",
+    "n6": "crashes'",
+    "n7": "a crash",
+    "n8": "many crashes"
 }

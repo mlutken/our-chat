@@ -1,0 +1,18 @@
+{
+    "base": "o",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "o",
+    "n2": "os",
+    "n3": "the o",
+    "n4": "the os",
+    "n5": "o's",
+    "n6": "os'",
+    "n7": "an o",
+    "n8": "many os"
+}

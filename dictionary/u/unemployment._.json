@@ -1,0 +1,18 @@
+{
+    "base": "unemployment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "unemployment",
+    "n2": "unemployments",
+    "n3": "the unemployment",
+    "n4": "the unemployments",
+    "n5": "unemployment's",
+    "n6": "unemployments'",
+    "n7": "an unemployment",
+    "n8": "many unemployments"
+}

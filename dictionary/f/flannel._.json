@@ -1,0 +1,18 @@
+{
+    "base": "flannel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flannel",
+    "n2": "flannels",
+    "n3": "the flannel",
+    "n4": "the flannels",
+    "n5": "flannel's",
+    "n6": "flannels'",
+    "n7": "a flannel",
+    "n8": "many flannels"
+}

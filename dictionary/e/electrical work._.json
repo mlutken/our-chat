@@ -1,0 +1,18 @@
+{
+    "base": "electrical work",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "electrical work",
+    "n2": "electrical works",
+    "n3": "the electrical work",
+    "n4": "the electrical works",
+    "n5": "electrical work's",
+    "n6": "electrical works'",
+    "n7": "an electrical work",
+    "n8": "many electrical works"
+}

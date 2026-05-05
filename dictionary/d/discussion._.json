@@ -7,5 +7,12 @@
     "n2": "discussions",
     "n3": "the discussion",
     "n4": "the discussions",
-    "n5": "discussion's"
+    "n5": "discussion's",
+    "proper": false,
+    "commonness": 52,
+    "max_commonness": 6834,
+    "commonness_ge_count": 315,
+    "n6": "discussions'",
+    "n7": "a discussion",
+    "n8": "many discussions"
 }

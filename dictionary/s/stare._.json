@@ -1,0 +1,18 @@
+{
+    "base": "stare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "stare",
+    "n2": "stares",
+    "n3": "the stare",
+    "n4": "the stares",
+    "n5": "stare's",
+    "n6": "stares'",
+    "n7": "a stare",
+    "n8": "many stares"
+}

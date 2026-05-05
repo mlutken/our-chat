@@ -1,0 +1,18 @@
+{
+    "base": "blackout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blackout",
+    "n2": "blackouts",
+    "n3": "the blackout",
+    "n4": "the blackouts",
+    "n5": "blackout's",
+    "n6": "blackouts'",
+    "n7": "a blackout",
+    "n8": "many blackouts"
+}

@@ -1,11 +1,24 @@
 {
     "base": "open",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "open",
     "v2": "opened",
     "v3": "opened",
     "v4": "opening",
-    "v5": "opens"
+    "v5": "opens",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "open",
+    "n2": "opens",
+    "n3": "the open",
+    "n4": "the opens",
+    "n5": "open's",
+    "n6": "opens'",
+    "n7": "an open",
+    "n8": "many opens"
 }

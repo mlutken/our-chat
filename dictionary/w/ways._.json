@@ -1,0 +1,18 @@
+{
+    "base": "ways",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ways",
+    "n2": "wayses",
+    "n3": "the ways",
+    "n4": "the wayses",
+    "n5": "ways'",
+    "n6": "wayses'",
+    "n7": "a ways",
+    "n8": "many wayses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mutant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mutant",
+    "n2": "mutants",
+    "n3": "the mutant",
+    "n4": "the mutants",
+    "n5": "mutant's",
+    "n6": "mutants'",
+    "n7": "a mutant",
+    "n8": "many mutants"
+}

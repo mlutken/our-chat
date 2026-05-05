@@ -1,0 +1,18 @@
+{
+    "base": "chopin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chopin",
+    "n2": "chopins",
+    "n3": "the chopin",
+    "n4": "the chopins",
+    "n5": "chopin's",
+    "n6": "chopins'",
+    "n7": "a chopin",
+    "n8": "many chopins"
+}

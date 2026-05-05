@@ -1,0 +1,18 @@
+{
+    "base": "neoclassicism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neoclassicism",
+    "n2": "neoclassicisms",
+    "n3": "the neoclassicism",
+    "n4": "the neoclassicisms",
+    "n5": "neoclassicism's",
+    "n6": "neoclassicisms'",
+    "n7": "a neoclassicism",
+    "n8": "many neoclassicisms"
+}

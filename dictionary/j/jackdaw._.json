@@ -1,0 +1,18 @@
+{
+    "base": "jackdaw",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jackdaw",
+    "n2": "jackdaws",
+    "n3": "the jackdaw",
+    "n4": "the jackdaws",
+    "n5": "jackdaw's",
+    "n6": "jackdaws'",
+    "n7": "a jackdaw",
+    "n8": "many jackdaws"
+}

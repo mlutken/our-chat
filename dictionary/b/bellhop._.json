@@ -1,0 +1,18 @@
+{
+    "base": "bellhop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bellhop",
+    "n2": "bellhops",
+    "n3": "the bellhop",
+    "n4": "the bellhops",
+    "n5": "bellhop's",
+    "n6": "bellhops'",
+    "n7": "a bellhop",
+    "n8": "many bellhops"
+}

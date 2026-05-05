@@ -1,0 +1,18 @@
+{
+    "base": "ninth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ninth",
+    "n2": "ninths",
+    "n3": "the ninth",
+    "n4": "the ninths",
+    "n5": "ninth's",
+    "n6": "ninths'",
+    "n7": "a ninth",
+    "n8": "many ninths"
+}

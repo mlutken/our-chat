@@ -1,0 +1,18 @@
+{
+    "base": "soft spot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soft spot",
+    "n2": "soft spots",
+    "n3": "the soft spot",
+    "n4": "the soft spots",
+    "n5": "soft spot's",
+    "n6": "soft spots'",
+    "n7": "a soft spot",
+    "n8": "many soft spots"
+}

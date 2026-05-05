@@ -1,0 +1,18 @@
+{
+    "base": "human death",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "human death",
+    "n2": "human deaths",
+    "n3": "the human death",
+    "n4": "the human deaths",
+    "n5": "human death's",
+    "n6": "human deaths'",
+    "n7": "a human death",
+    "n8": "many human deaths"
+}

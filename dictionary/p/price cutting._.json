@@ -1,0 +1,18 @@
+{
+    "base": "price cutting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "price cutting",
+    "n2": "price cuttings",
+    "n3": "the price cutting",
+    "n4": "the price cuttings",
+    "n5": "price cutting's",
+    "n6": "price cuttings'",
+    "n7": "a price cutting",
+    "n8": "many price cuttings"
+}

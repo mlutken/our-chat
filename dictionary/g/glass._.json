@@ -7,5 +7,12 @@
     "n2": "glasses",
     "n3": "the glass",
     "n4": "the glasses",
-    "n5": "glass's"
+    "n5": "glass'",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n6": "glasses'",
+    "n7": "a glass",
+    "n8": "many glasses"
 }

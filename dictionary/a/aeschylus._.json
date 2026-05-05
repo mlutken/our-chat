@@ -1,0 +1,18 @@
+{
+    "base": "aeschylus",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aeschylus",
+    "n2": "aeschyluses",
+    "n3": "the aeschylus",
+    "n4": "the aeschyluses",
+    "n5": "aeschylus'",
+    "n6": "aeschyluses'",
+    "n7": "an aeschylus",
+    "n8": "many aeschyluses"
+}

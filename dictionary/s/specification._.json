@@ -1,0 +1,18 @@
+{
+    "base": "specification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "specification",
+    "n2": "specifications",
+    "n3": "the specification",
+    "n4": "the specifications",
+    "n5": "specification's",
+    "n6": "specifications'",
+    "n7": "a specification",
+    "n8": "many specifications"
+}

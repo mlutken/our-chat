@@ -1,0 +1,18 @@
+{
+    "base": "irritation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "irritation",
+    "n2": "irritations",
+    "n3": "the irritation",
+    "n4": "the irritations",
+    "n5": "irritation's",
+    "n6": "irritations'",
+    "n7": "an irritation",
+    "n8": "many irritations"
+}

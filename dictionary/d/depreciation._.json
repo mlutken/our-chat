@@ -1,0 +1,18 @@
+{
+    "base": "depreciation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "depreciation",
+    "n2": "depreciations",
+    "n3": "the depreciation",
+    "n4": "the depreciations",
+    "n5": "depreciation's",
+    "n6": "depreciations'",
+    "n7": "a depreciation",
+    "n8": "many depreciations"
+}

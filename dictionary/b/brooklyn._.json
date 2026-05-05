@@ -1,0 +1,18 @@
+{
+    "base": "brooklyn",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "brooklyn",
+    "n2": "brooklyns",
+    "n3": "the brooklyn",
+    "n4": "the brooklyns",
+    "n5": "brooklyn's",
+    "n6": "brooklyns'",
+    "n7": "a brooklyn",
+    "n8": "many brooklyns"
+}

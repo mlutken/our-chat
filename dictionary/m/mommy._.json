@@ -1,0 +1,18 @@
+{
+    "base": "mommy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mommy",
+    "n2": "mommies",
+    "n3": "the mommy",
+    "n4": "the mommies",
+    "n5": "mommy's",
+    "n6": "mommies'",
+    "n7": "a mommy",
+    "n8": "many mommies"
+}

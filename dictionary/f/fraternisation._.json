@@ -1,0 +1,18 @@
+{
+    "base": "fraternisation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fraternisation",
+    "n2": "fraternisations",
+    "n3": "the fraternisation",
+    "n4": "the fraternisations",
+    "n5": "fraternisation's",
+    "n6": "fraternisations'",
+    "n7": "a fraternisation",
+    "n8": "many fraternisations"
+}

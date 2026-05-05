@@ -1,0 +1,18 @@
+{
+    "base": "state of affairs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "state of affairs",
+    "n2": "state of affairses",
+    "n3": "the state of affairs",
+    "n4": "the state of affairses",
+    "n5": "state of affairs'",
+    "n6": "state of affairses'",
+    "n7": "a state of affairs",
+    "n8": "many state of affairses"
+}

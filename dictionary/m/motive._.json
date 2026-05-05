@@ -1,0 +1,18 @@
+{
+    "base": "motive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "motive",
+    "n2": "motives",
+    "n3": "the motive",
+    "n4": "the motives",
+    "n5": "motive's",
+    "n6": "motives'",
+    "n7": "a motive",
+    "n8": "many motives"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "knife",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "knife",
+    "n2": "knives",
+    "n3": "the knife",
+    "n4": "the knives",
+    "n5": "knife's",
+    "n6": "knives'",
+    "n7": "a knife",
+    "n8": "many knives"
+}

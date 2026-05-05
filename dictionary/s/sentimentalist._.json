@@ -1,0 +1,18 @@
+{
+    "base": "sentimentalist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sentimentalist",
+    "n2": "sentimentalists",
+    "n3": "the sentimentalist",
+    "n4": "the sentimentalists",
+    "n5": "sentimentalist's",
+    "n6": "sentimentalists'",
+    "n7": "a sentimentalist",
+    "n8": "many sentimentalists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "violence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "violence",
+    "n2": "violences",
+    "n3": "the violence",
+    "n4": "the violences",
+    "n5": "violence's",
+    "n6": "violences'",
+    "n7": "a violence",
+    "n8": "many violences"
+}

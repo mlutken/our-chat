@@ -1,0 +1,18 @@
+{
+    "base": "zero",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "zero",
+    "n2": "zeroes",
+    "n3": "the zero",
+    "n4": "the zeroes",
+    "n5": "zero's",
+    "n6": "zeroes'",
+    "n7": "a zero",
+    "n8": "many zeroes"
+}

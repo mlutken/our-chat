@@ -1,0 +1,18 @@
+{
+    "base": "compound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "compound",
+    "n2": "compounds",
+    "n3": "the compound",
+    "n4": "the compounds",
+    "n5": "compound's",
+    "n6": "compounds'",
+    "n7": "a compound",
+    "n8": "many compounds"
+}

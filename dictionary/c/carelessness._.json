@@ -1,0 +1,18 @@
+{
+    "base": "carelessness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "carelessness",
+    "n2": "carelessnesses",
+    "n3": "the carelessness",
+    "n4": "the carelessnesses",
+    "n5": "carelessness'",
+    "n6": "carelessnesses'",
+    "n7": "a carelessness",
+    "n8": "many carelessnesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "october",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "october",
+    "n2": "octobers",
+    "n3": "the october",
+    "n4": "the octobers",
+    "n5": "october's",
+    "n6": "octobers'",
+    "n7": "an october",
+    "n8": "many octobers"
+}

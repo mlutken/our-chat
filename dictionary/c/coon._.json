@@ -1,0 +1,18 @@
+{
+    "base": "coon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coon",
+    "n2": "coons",
+    "n3": "the coon",
+    "n4": "the coons",
+    "n5": "coon's",
+    "n6": "coons'",
+    "n7": "a coon",
+    "n8": "many coons"
+}

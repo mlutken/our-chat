@@ -1,0 +1,18 @@
+{
+    "base": "imbalance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "imbalance",
+    "n2": "imbalances",
+    "n3": "the imbalance",
+    "n4": "the imbalances",
+    "n5": "imbalance's",
+    "n6": "imbalances'",
+    "n7": "an imbalance",
+    "n8": "many imbalances"
+}

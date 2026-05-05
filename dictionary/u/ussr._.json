@@ -1,0 +1,18 @@
+{
+    "base": "ussr",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ussr",
+    "n2": "ussrs",
+    "n3": "the ussr",
+    "n4": "the ussrs",
+    "n5": "ussr's",
+    "n6": "ussrs'",
+    "n7": "an ussr",
+    "n8": "many ussrs"
+}

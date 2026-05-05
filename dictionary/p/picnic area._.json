@@ -1,0 +1,18 @@
+{
+    "base": "picnic area",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picnic area",
+    "n2": "picnic areas",
+    "n3": "the picnic area",
+    "n4": "the picnic areas",
+    "n5": "picnic area's",
+    "n6": "picnic areas'",
+    "n7": "a picnic area",
+    "n8": "many picnic areas"
+}

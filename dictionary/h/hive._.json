@@ -1,0 +1,18 @@
+{
+    "base": "hive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hive",
+    "n2": "hives",
+    "n3": "the hive",
+    "n4": "the hives",
+    "n5": "hive's",
+    "n6": "hives'",
+    "n7": "a hive",
+    "n8": "many hives"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "suburb",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "suburb",
+    "n2": "suburbs",
+    "n3": "the suburb",
+    "n4": "the suburbs",
+    "n5": "suburb's",
+    "n6": "suburbs'",
+    "n7": "a suburb",
+    "n8": "many suburbs"
+}

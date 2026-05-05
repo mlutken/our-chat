@@ -1,0 +1,18 @@
+{
+    "base": "idler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "idler",
+    "n2": "idlers",
+    "n3": "the idler",
+    "n4": "the idlers",
+    "n5": "idler's",
+    "n6": "idlers'",
+    "n7": "an idler",
+    "n8": "many idlers"
+}

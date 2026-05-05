@@ -1,0 +1,18 @@
+{
+    "base": "trouser cuff",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trouser cuff",
+    "n2": "trouser cufves",
+    "n3": "the trouser cuff",
+    "n4": "the trouser cufves",
+    "n5": "trouser cuff's",
+    "n6": "trouser cufves'",
+    "n7": "a trouser cuff",
+    "n8": "many trouser cufves"
+}

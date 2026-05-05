@@ -1,0 +1,18 @@
+{
+    "base": "argot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "argot",
+    "n2": "argots",
+    "n3": "the argot",
+    "n4": "the argots",
+    "n5": "argot's",
+    "n6": "argots'",
+    "n7": "an argot",
+    "n8": "many argots"
+}

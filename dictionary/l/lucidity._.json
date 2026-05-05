@@ -1,0 +1,18 @@
+{
+    "base": "lucidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lucidity",
+    "n2": "lucidities",
+    "n3": "the lucidity",
+    "n4": "the lucidities",
+    "n5": "lucidity's",
+    "n6": "lucidities'",
+    "n7": "a lucidity",
+    "n8": "many lucidities"
+}

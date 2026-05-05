@@ -1,0 +1,18 @@
+{
+    "base": "incipiency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "incipiency",
+    "n2": "incipiencies",
+    "n3": "the incipiency",
+    "n4": "the incipiencies",
+    "n5": "incipiency's",
+    "n6": "incipiencies'",
+    "n7": "an incipiency",
+    "n8": "many incipiencies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rush hour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rush hour",
+    "n2": "rush hours",
+    "n3": "the rush hour",
+    "n4": "the rush hours",
+    "n5": "rush hour's",
+    "n6": "rush hours'",
+    "n7": "a rush hour",
+    "n8": "many rush hours"
+}

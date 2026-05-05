@@ -1,0 +1,18 @@
+{
+    "base": "urine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "urine",
+    "n2": "urines",
+    "n3": "the urine",
+    "n4": "the urines",
+    "n5": "urine's",
+    "n6": "urines'",
+    "n7": "an urine",
+    "n8": "many urines"
+}

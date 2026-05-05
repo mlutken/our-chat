@@ -1,0 +1,18 @@
+{
+    "base": "wayside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wayside",
+    "n2": "waysides",
+    "n3": "the wayside",
+    "n4": "the waysides",
+    "n5": "wayside's",
+    "n6": "waysides'",
+    "n7": "a wayside",
+    "n8": "many waysides"
+}

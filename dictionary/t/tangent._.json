@@ -1,0 +1,18 @@
+{
+    "base": "tangent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "tangent",
+    "n2": "tangents",
+    "n3": "the tangent",
+    "n4": "the tangents",
+    "n5": "tangent's",
+    "n6": "tangents'",
+    "n7": "a tangent",
+    "n8": "many tangents"
+}

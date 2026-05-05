@@ -1,0 +1,18 @@
+{
+    "base": "respiration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "respiration",
+    "n2": "respirations",
+    "n3": "the respiration",
+    "n4": "the respirations",
+    "n5": "respiration's",
+    "n6": "respirations'",
+    "n7": "a respiration",
+    "n8": "many respirations"
+}

@@ -1,9 +1,22 @@
 {
     "base": "elder",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "elder",
     "adj2": "elder",
-    "adj3": "eldest"
+    "adj3": "eldest",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "elder",
+    "n2": "elders",
+    "n3": "the elder",
+    "n4": "the elders",
+    "n5": "elder's",
+    "n6": "elders'",
+    "n7": "an elder",
+    "n8": "many elders"
 }

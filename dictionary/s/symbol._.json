@@ -7,5 +7,12 @@
     "n2": "symbols",
     "n3": "the symbol",
     "n4": "the symbols",
-    "n5": "symbol's"
+    "n5": "symbol's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "symbols'",
+    "n7": "a symbol",
+    "n8": "many symbols"
 }

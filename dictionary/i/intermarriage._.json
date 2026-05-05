@@ -1,0 +1,18 @@
+{
+    "base": "intermarriage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intermarriage",
+    "n2": "intermarriages",
+    "n3": "the intermarriage",
+    "n4": "the intermarriages",
+    "n5": "intermarriage's",
+    "n6": "intermarriages'",
+    "n7": "an intermarriage",
+    "n8": "many intermarriages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bedpost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bedpost",
+    "n2": "bedposts",
+    "n3": "the bedpost",
+    "n4": "the bedposts",
+    "n5": "bedpost's",
+    "n6": "bedposts'",
+    "n7": "a bedpost",
+    "n8": "many bedposts"
+}

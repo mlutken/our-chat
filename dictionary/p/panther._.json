@@ -1,0 +1,18 @@
+{
+    "base": "panther",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "panther",
+    "n2": "panthers",
+    "n3": "the panther",
+    "n4": "the panthers",
+    "n5": "panther's",
+    "n6": "panthers'",
+    "n7": "a panther",
+    "n8": "many panthers"
+}

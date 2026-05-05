@@ -1,0 +1,18 @@
+{
+    "base": "plowing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plowing",
+    "n2": "plowings",
+    "n3": "the plowing",
+    "n4": "the plowings",
+    "n5": "plowing's",
+    "n6": "plowings'",
+    "n7": "a plowing",
+    "n8": "many plowings"
+}

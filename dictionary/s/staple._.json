@@ -1,0 +1,18 @@
+{
+    "base": "staple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "staple",
+    "n2": "staples",
+    "n3": "the staple",
+    "n4": "the staples",
+    "n5": "staple's",
+    "n6": "staples'",
+    "n7": "a staple",
+    "n8": "many staples"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "entity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "entity",
+    "n2": "entities",
+    "n3": "the entity",
+    "n4": "the entities",
+    "n5": "entity's",
+    "n6": "entities'",
+    "n7": "an entity",
+    "n8": "many entities"
+}

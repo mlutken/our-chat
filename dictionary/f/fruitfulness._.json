@@ -1,0 +1,18 @@
+{
+    "base": "fruitfulness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fruitfulness",
+    "n2": "fruitfulnesses",
+    "n3": "the fruitfulness",
+    "n4": "the fruitfulnesses",
+    "n5": "fruitfulness'",
+    "n6": "fruitfulnesses'",
+    "n7": "a fruitfulness",
+    "n8": "many fruitfulnesses"
+}

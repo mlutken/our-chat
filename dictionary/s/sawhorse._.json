@@ -1,0 +1,18 @@
+{
+    "base": "sawhorse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sawhorse",
+    "n2": "sawhorses",
+    "n3": "the sawhorse",
+    "n4": "the sawhorses",
+    "n5": "sawhorse's",
+    "n6": "sawhorses'",
+    "n7": "a sawhorse",
+    "n8": "many sawhorses"
+}

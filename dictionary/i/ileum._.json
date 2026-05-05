@@ -1,0 +1,18 @@
+{
+    "base": "ileum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ileum",
+    "n2": "ileums",
+    "n3": "the ileum",
+    "n4": "the ileums",
+    "n5": "ileum's",
+    "n6": "ileums'",
+    "n7": "an ileum",
+    "n8": "many ileums"
+}

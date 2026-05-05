@@ -1,0 +1,18 @@
+{
+    "base": "steel blue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steel blue",
+    "n2": "steel blues",
+    "n3": "the steel blue",
+    "n4": "the steel blues",
+    "n5": "steel blue's",
+    "n6": "steel blues'",
+    "n7": "a steel blue",
+    "n8": "many steel blues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "aborigine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aborigine",
+    "n2": "aborigines",
+    "n3": "the aborigine",
+    "n4": "the aborigines",
+    "n5": "aborigine's",
+    "n6": "aborigines'",
+    "n7": "an aborigine",
+    "n8": "many aborigines"
+}

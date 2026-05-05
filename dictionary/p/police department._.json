@@ -1,0 +1,18 @@
+{
+    "base": "police department",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "police department",
+    "n2": "police departments",
+    "n3": "the police department",
+    "n4": "the police departments",
+    "n5": "police department's",
+    "n6": "police departments'",
+    "n7": "a police department",
+    "n8": "many police departments"
+}

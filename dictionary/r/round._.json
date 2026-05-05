@@ -1,5 +1,20 @@
 {
     "base": "round",
-    "classes": ["pre"],
-    "f0": "round"
+    "classes": [
+        "n",
+        "pre"
+    ],
+    "f0": "round",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "round",
+    "n2": "rounds",
+    "n3": "the round",
+    "n4": "the rounds",
+    "n5": "round's",
+    "n6": "rounds'",
+    "n7": "a round",
+    "n8": "many rounds"
 }

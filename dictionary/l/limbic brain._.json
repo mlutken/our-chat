@@ -1,0 +1,18 @@
+{
+    "base": "limbic brain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "limbic brain",
+    "n2": "limbic brains",
+    "n3": "the limbic brain",
+    "n4": "the limbic brains",
+    "n5": "limbic brain's",
+    "n6": "limbic brains'",
+    "n7": "a limbic brain",
+    "n8": "many limbic brains"
+}

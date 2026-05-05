@@ -1,0 +1,18 @@
+{
+    "base": "optimum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "optimum",
+    "n2": "optima",
+    "n3": "the optimum",
+    "n4": "the optima",
+    "n5": "optimum's",
+    "n6": "optima's",
+    "n7": "an optimum",
+    "n8": "many optima"
+}

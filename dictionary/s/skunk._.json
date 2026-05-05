@@ -1,0 +1,18 @@
+{
+    "base": "skunk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "skunk",
+    "n2": "skunks",
+    "n3": "the skunk",
+    "n4": "the skunks",
+    "n5": "skunk's",
+    "n6": "skunks'",
+    "n7": "a skunk",
+    "n8": "many skunks"
+}

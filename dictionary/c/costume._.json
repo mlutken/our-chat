@@ -1,0 +1,18 @@
+{
+    "base": "costume",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "costume",
+    "n2": "costumes",
+    "n3": "the costume",
+    "n4": "the costumes",
+    "n5": "costume's",
+    "n6": "costumes'",
+    "n7": "a costume",
+    "n8": "many costumes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "devisee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "devisee",
+    "n2": "devisees",
+    "n3": "the devisee",
+    "n4": "the devisees",
+    "n5": "devisee's",
+    "n6": "devisees'",
+    "n7": "a devisee",
+    "n8": "many devisees"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "playacting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "playacting",
+    "n2": "playactings",
+    "n3": "the playacting",
+    "n4": "the playactings",
+    "n5": "playacting's",
+    "n6": "playactings'",
+    "n7": "a playacting",
+    "n8": "many playactings"
+}

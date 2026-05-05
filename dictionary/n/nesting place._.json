@@ -1,0 +1,18 @@
+{
+    "base": "nesting place",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nesting place",
+    "n2": "nesting places",
+    "n3": "the nesting place",
+    "n4": "the nesting places",
+    "n5": "nesting place's",
+    "n6": "nesting places'",
+    "n7": "a nesting place",
+    "n8": "many nesting places"
+}

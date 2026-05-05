@@ -1,0 +1,18 @@
+{
+    "base": "thirteen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thirteen",
+    "n2": "thirteens",
+    "n3": "the thirteen",
+    "n4": "the thirteens",
+    "n5": "thirteen's",
+    "n6": "thirteens'",
+    "n7": "a thirteen",
+    "n8": "many thirteens"
+}

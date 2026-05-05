@@ -1,0 +1,18 @@
+{
+    "base": "sugar maple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sugar maple",
+    "n2": "sugar maples",
+    "n3": "the sugar maple",
+    "n4": "the sugar maples",
+    "n5": "sugar maple's",
+    "n6": "sugar maples'",
+    "n7": "a sugar maple",
+    "n8": "many sugar maples"
+}

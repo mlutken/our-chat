@@ -1,0 +1,18 @@
+{
+    "base": "platoon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "platoon",
+    "n2": "platoons",
+    "n3": "the platoon",
+    "n4": "the platoons",
+    "n5": "platoon's",
+    "n6": "platoons'",
+    "n7": "a platoon",
+    "n8": "many platoons"
+}

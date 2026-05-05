@@ -1,0 +1,18 @@
+{
+    "base": "occasion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "occasion",
+    "n2": "occasions",
+    "n3": "the occasion",
+    "n4": "the occasions",
+    "n5": "occasion's",
+    "n6": "occasions'",
+    "n7": "an occasion",
+    "n8": "many occasions"
+}

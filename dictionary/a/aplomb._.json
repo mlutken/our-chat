@@ -1,0 +1,18 @@
+{
+    "base": "aplomb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aplomb",
+    "n2": "aplombs",
+    "n3": "the aplomb",
+    "n4": "the aplombs",
+    "n5": "aplomb's",
+    "n6": "aplombs'",
+    "n7": "an aplomb",
+    "n8": "many aplombs"
+}

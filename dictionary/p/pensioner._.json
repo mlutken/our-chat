@@ -1,0 +1,18 @@
+{
+    "base": "pensioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pensioner",
+    "n2": "pensioners",
+    "n3": "the pensioner",
+    "n4": "the pensioners",
+    "n5": "pensioner's",
+    "n6": "pensioners'",
+    "n7": "a pensioner",
+    "n8": "many pensioners"
+}

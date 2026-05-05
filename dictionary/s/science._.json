@@ -7,5 +7,12 @@
     "n2": "sciences",
     "n3": "the science",
     "n4": "the sciences",
-    "n5": "science's"
+    "n5": "science's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "sciences'",
+    "n7": "a science",
+    "n8": "many sciences"
 }

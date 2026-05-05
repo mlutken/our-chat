@@ -1,11 +1,24 @@
 {
     "base": "produce",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "produce",
     "v2": "produced",
     "v3": "produced",
     "v4": "producing",
-    "v5": "produces"
+    "v5": "produces",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "produce",
+    "n2": "produces",
+    "n3": "the produce",
+    "n4": "the produces",
+    "n5": "produce's",
+    "n6": "produces'",
+    "n7": "a produce",
+    "n8": "many produces"
 }

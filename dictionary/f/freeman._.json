@@ -1,0 +1,18 @@
+{
+    "base": "freeman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "freeman",
+    "n2": "freemen",
+    "n3": "the freeman",
+    "n4": "the freemen",
+    "n5": "freeman's",
+    "n6": "freemen's",
+    "n7": "a freeman",
+    "n8": "many freemen"
+}

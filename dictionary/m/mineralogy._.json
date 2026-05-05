@@ -1,0 +1,18 @@
+{
+    "base": "mineralogy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mineralogy",
+    "n2": "mineralogies",
+    "n3": "the mineralogy",
+    "n4": "the mineralogies",
+    "n5": "mineralogy's",
+    "n6": "mineralogies'",
+    "n7": "a mineralogy",
+    "n8": "many mineralogies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lagoon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "lagoon",
+    "n2": "lagoons",
+    "n3": "the lagoon",
+    "n4": "the lagoons",
+    "n5": "lagoon's",
+    "n6": "lagoons'",
+    "n7": "a lagoon",
+    "n8": "many lagoons"
+}

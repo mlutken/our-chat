@@ -1,0 +1,18 @@
+{
+    "base": "feast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "feast",
+    "n2": "feasts",
+    "n3": "the feast",
+    "n4": "the feasts",
+    "n5": "feast's",
+    "n6": "feasts'",
+    "n7": "a feast",
+    "n8": "many feasts"
+}

@@ -7,5 +7,12 @@
     "n2": "behaviors",
     "n3": "the behavior",
     "n4": "the behaviors",
-    "n5": "behavior's"
+    "n5": "behavior's",
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n6": "behaviors'",
+    "n7": "a behavior",
+    "n8": "many behaviors"
 }

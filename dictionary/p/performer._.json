@@ -1,0 +1,18 @@
+{
+    "base": "performer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "performer",
+    "n2": "performers",
+    "n3": "the performer",
+    "n4": "the performers",
+    "n5": "performer's",
+    "n6": "performers'",
+    "n7": "a performer",
+    "n8": "many performers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rim",
+    "n2": "rims",
+    "n3": "the rim",
+    "n4": "the rims",
+    "n5": "rim's",
+    "n6": "rims'",
+    "n7": "a rim",
+    "n8": "many rims"
+}

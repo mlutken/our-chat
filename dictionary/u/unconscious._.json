@@ -1,0 +1,18 @@
+{
+    "base": "unconscious",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unconscious",
+    "n2": "unconsciouses",
+    "n3": "the unconscious",
+    "n4": "the unconsciouses",
+    "n5": "unconscious'",
+    "n6": "unconsciouses'",
+    "n7": "an unconscious",
+    "n8": "many unconsciouses"
+}

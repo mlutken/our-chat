@@ -7,5 +7,12 @@
     "n2": "appointments",
     "n3": "the appointment",
     "n4": "the appointments",
-    "n5": "appointment's"
+    "n5": "appointment's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "appointments'",
+    "n7": "an appointment",
+    "n8": "many appointments"
 }

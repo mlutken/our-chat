@@ -1,0 +1,18 @@
+{
+    "base": "showpiece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "showpiece",
+    "n2": "showpieces",
+    "n3": "the showpiece",
+    "n4": "the showpieces",
+    "n5": "showpiece's",
+    "n6": "showpieces'",
+    "n7": "a showpiece",
+    "n8": "many showpieces"
+}

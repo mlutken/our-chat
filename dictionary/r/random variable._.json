@@ -1,0 +1,18 @@
+{
+    "base": "random variable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "random variable",
+    "n2": "random variables",
+    "n3": "the random variable",
+    "n4": "the random variables",
+    "n5": "random variable's",
+    "n6": "random variables'",
+    "n7": "a random variable",
+    "n8": "many random variables"
+}

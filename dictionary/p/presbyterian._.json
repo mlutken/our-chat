@@ -1,0 +1,18 @@
+{
+    "base": "presbyterian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "presbyterian",
+    "n2": "presbyterians",
+    "n3": "the presbyterian",
+    "n4": "the presbyterians",
+    "n5": "presbyterian's",
+    "n6": "presbyterians'",
+    "n7": "a presbyterian",
+    "n8": "many presbyterians"
+}

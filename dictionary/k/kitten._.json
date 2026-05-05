@@ -1,0 +1,18 @@
+{
+    "base": "kitten",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "kitten",
+    "n2": "kittens",
+    "n3": "the kitten",
+    "n4": "the kittens",
+    "n5": "kitten's",
+    "n6": "kittens'",
+    "n7": "a kitten",
+    "n8": "many kittens"
+}

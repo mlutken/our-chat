@@ -1,0 +1,18 @@
+{
+    "base": "isle",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "isle",
+    "n2": "isles",
+    "n3": "the isle",
+    "n4": "the isles",
+    "n5": "isle's",
+    "n6": "isles'",
+    "n7": "an isle",
+    "n8": "many isles"
+}

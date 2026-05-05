@@ -7,5 +7,12 @@
     "n2": "hotels",
     "n3": "the hotel",
     "n4": "the hotels",
-    "n5": "hotel's"
+    "n5": "hotel's",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n6": "hotels'",
+    "n7": "a hotel",
+    "n8": "many hotels"
 }

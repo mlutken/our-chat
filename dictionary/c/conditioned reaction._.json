@@ -1,0 +1,18 @@
+{
+    "base": "conditioned reaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "conditioned reaction",
+    "n2": "conditioned reactions",
+    "n3": "the conditioned reaction",
+    "n4": "the conditioned reactions",
+    "n5": "conditioned reaction's",
+    "n6": "conditioned reactions'",
+    "n7": "a conditioned reaction",
+    "n8": "many conditioned reactions"
+}

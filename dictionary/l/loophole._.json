@@ -1,0 +1,18 @@
+{
+    "base": "loophole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "loophole",
+    "n2": "loopholes",
+    "n3": "the loophole",
+    "n4": "the loopholes",
+    "n5": "loophole's",
+    "n6": "loopholes'",
+    "n7": "a loophole",
+    "n8": "many loopholes"
+}

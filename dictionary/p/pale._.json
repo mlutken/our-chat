@@ -1,0 +1,18 @@
+{
+    "base": "pale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pale",
+    "n2": "pales",
+    "n3": "the pale",
+    "n4": "the pales",
+    "n5": "pale's",
+    "n6": "pales'",
+    "n7": "a pale",
+    "n8": "many pales"
+}

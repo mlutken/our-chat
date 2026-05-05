@@ -1,0 +1,18 @@
+{
+    "base": "curio",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "curio",
+    "n2": "curios",
+    "n3": "the curio",
+    "n4": "the curios",
+    "n5": "curio's",
+    "n6": "curios'",
+    "n7": "a curio",
+    "n8": "many curios"
+}

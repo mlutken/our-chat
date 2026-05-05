@@ -1,0 +1,18 @@
+{
+    "base": "gunshot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gunshot",
+    "n2": "gunshots",
+    "n3": "the gunshot",
+    "n4": "the gunshots",
+    "n5": "gunshot's",
+    "n6": "gunshots'",
+    "n7": "a gunshot",
+    "n8": "many gunshots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sweet shrub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweet shrub",
+    "n2": "sweet shrubs",
+    "n3": "the sweet shrub",
+    "n4": "the sweet shrubs",
+    "n5": "sweet shrub's",
+    "n6": "sweet shrubs'",
+    "n7": "a sweet shrub",
+    "n8": "many sweet shrubs"
+}

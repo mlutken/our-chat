@@ -1,11 +1,24 @@
 {
     "base": "knock",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "knock",
     "v2": "knocked",
     "v3": "knocked",
     "v4": "knocking",
-    "v5": "knocks"
+    "v5": "knocks",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "knock",
+    "n2": "knocks",
+    "n3": "the knock",
+    "n4": "the knocks",
+    "n5": "knock's",
+    "n6": "knocks'",
+    "n7": "a knock",
+    "n8": "many knocks"
 }

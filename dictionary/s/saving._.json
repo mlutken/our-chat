@@ -7,5 +7,12 @@
     "n2": "savings",
     "n3": "the saving",
     "n4": "the savings",
-    "n5": "saving's"
+    "n5": "saving's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "savings'",
+    "n7": "a saving",
+    "n8": "many savings"
 }

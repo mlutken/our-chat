@@ -1,0 +1,18 @@
+{
+    "base": "period piece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "period piece",
+    "n2": "period pieces",
+    "n3": "the period piece",
+    "n4": "the period pieces",
+    "n5": "period piece's",
+    "n6": "period pieces'",
+    "n7": "a period piece",
+    "n8": "many period pieces"
+}

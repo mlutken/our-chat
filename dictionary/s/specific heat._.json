@@ -1,0 +1,18 @@
+{
+    "base": "specific heat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "specific heat",
+    "n2": "specific heats",
+    "n3": "the specific heat",
+    "n4": "the specific heats",
+    "n5": "specific heat's",
+    "n6": "specific heats'",
+    "n7": "a specific heat",
+    "n8": "many specific heats"
+}

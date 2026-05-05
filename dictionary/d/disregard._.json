@@ -1,0 +1,18 @@
+{
+    "base": "disregard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "disregard",
+    "n2": "disregards",
+    "n3": "the disregard",
+    "n4": "the disregards",
+    "n5": "disregard's",
+    "n6": "disregards'",
+    "n7": "a disregard",
+    "n8": "many disregards"
+}

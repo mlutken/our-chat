@@ -1,0 +1,18 @@
+{
+    "base": "claret",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "claret",
+    "n2": "clarets",
+    "n3": "the claret",
+    "n4": "the clarets",
+    "n5": "claret's",
+    "n6": "clarets'",
+    "n7": "a claret",
+    "n8": "many clarets"
+}

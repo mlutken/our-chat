@@ -1,0 +1,18 @@
+{
+    "base": "gentleman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "gentleman",
+    "n2": "gentlemen",
+    "n3": "the gentleman",
+    "n4": "the gentlemen",
+    "n5": "gentleman's",
+    "n6": "gentlemen's",
+    "n7": "a gentleman",
+    "n8": "many gentlemen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "passage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "passage",
+    "n2": "passages",
+    "n3": "the passage",
+    "n4": "the passages",
+    "n5": "passage's",
+    "n6": "passages'",
+    "n7": "a passage",
+    "n8": "many passages"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cartridge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "cartridge",
+    "n2": "cartridges",
+    "n3": "the cartridge",
+    "n4": "the cartridges",
+    "n5": "cartridge's",
+    "n6": "cartridges'",
+    "n7": "a cartridge",
+    "n8": "many cartridges"
+}

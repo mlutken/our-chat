@@ -1,0 +1,18 @@
+{
+    "base": "sweat gland",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweat gland",
+    "n2": "sweat glands",
+    "n3": "the sweat gland",
+    "n4": "the sweat glands",
+    "n5": "sweat gland's",
+    "n6": "sweat glands'",
+    "n7": "a sweat gland",
+    "n8": "many sweat glands"
+}

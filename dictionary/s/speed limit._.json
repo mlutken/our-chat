@@ -1,0 +1,18 @@
+{
+    "base": "speed limit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "speed limit",
+    "n2": "speed limits",
+    "n3": "the speed limit",
+    "n4": "the speed limits",
+    "n5": "speed limit's",
+    "n6": "speed limits'",
+    "n7": "a speed limit",
+    "n8": "many speed limits"
+}

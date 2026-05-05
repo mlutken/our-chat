@@ -1,0 +1,18 @@
+{
+    "base": "pathos",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pathos",
+    "n2": "pathoses",
+    "n3": "the pathos",
+    "n4": "the pathoses",
+    "n5": "pathos'",
+    "n6": "pathoses'",
+    "n7": "a pathos",
+    "n8": "many pathoses"
+}

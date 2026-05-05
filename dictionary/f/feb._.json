@@ -1,0 +1,18 @@
+{
+    "base": "feb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "feb",
+    "n2": "febs",
+    "n3": "the feb",
+    "n4": "the febs",
+    "n5": "feb's",
+    "n6": "febs'",
+    "n7": "a feb",
+    "n8": "many febs"
+}

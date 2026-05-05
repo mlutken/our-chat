@@ -1,0 +1,18 @@
+{
+    "base": "opponent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "opponent",
+    "n2": "opponents",
+    "n3": "the opponent",
+    "n4": "the opponents",
+    "n5": "opponent's",
+    "n6": "opponents'",
+    "n7": "an opponent",
+    "n8": "many opponents"
+}

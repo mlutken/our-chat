@@ -7,5 +7,12 @@
     "n2": "assistances",
     "n3": "the assistance",
     "n4": "the assistances",
-    "n5": "assistance's"
+    "n5": "assistance's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "assistances'",
+    "n7": "an assistance",
+    "n8": "many assistances"
 }

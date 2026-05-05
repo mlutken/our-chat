@@ -1,11 +1,24 @@
 {
     "base": "trouble",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "trouble",
     "v2": "troubled",
     "v3": "troubled",
     "v4": "troubling",
-    "v5": "troubles"
+    "v5": "troubles",
+    "proper": false,
+    "commonness": 73,
+    "max_commonness": 6834,
+    "commonness_ge_count": 191,
+    "n1": "trouble",
+    "n2": "troubles",
+    "n3": "the trouble",
+    "n4": "the troubles",
+    "n5": "trouble's",
+    "n6": "troubles'",
+    "n7": "a trouble",
+    "n8": "many troubles"
 }

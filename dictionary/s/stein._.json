@@ -1,0 +1,18 @@
+{
+    "base": "stein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stein",
+    "n2": "steins",
+    "n3": "the stein",
+    "n4": "the steins",
+    "n5": "stein's",
+    "n6": "steins'",
+    "n7": "a stein",
+    "n8": "many steins"
+}

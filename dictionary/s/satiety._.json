@@ -1,0 +1,18 @@
+{
+    "base": "satiety",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "satiety",
+    "n2": "satieties",
+    "n3": "the satiety",
+    "n4": "the satieties",
+    "n5": "satiety's",
+    "n6": "satieties'",
+    "n7": "a satiety",
+    "n8": "many satieties"
+}

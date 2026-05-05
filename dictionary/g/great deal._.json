@@ -1,0 +1,18 @@
+{
+    "base": "great deal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "great deal",
+    "n2": "great deals",
+    "n3": "the great deal",
+    "n4": "the great deals",
+    "n5": "great deal's",
+    "n6": "great deals'",
+    "n7": "a great deal",
+    "n8": "many great deals"
+}

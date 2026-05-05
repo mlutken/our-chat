@@ -1,0 +1,18 @@
+{
+    "base": "denial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "denial",
+    "n2": "denials",
+    "n3": "the denial",
+    "n4": "the denials",
+    "n5": "denial's",
+    "n6": "denials'",
+    "n7": "a denial",
+    "n8": "many denials"
+}

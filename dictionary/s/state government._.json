@@ -1,0 +1,18 @@
+{
+    "base": "state government",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "state government",
+    "n2": "state governments",
+    "n3": "the state government",
+    "n4": "the state governments",
+    "n5": "state government's",
+    "n6": "state governments'",
+    "n7": "a state government",
+    "n8": "many state governments"
+}

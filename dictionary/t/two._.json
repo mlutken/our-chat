@@ -7,5 +7,12 @@
     "n2": "twos",
     "n3": "the two",
     "n4": "the twos",
-    "n5": "two's"
+    "n5": "two's",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "twos'",
+    "n7": "a two",
+    "n8": "many twos"
 }

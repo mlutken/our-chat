@@ -1,0 +1,18 @@
+{
+    "base": "horde",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "horde",
+    "n2": "hordes",
+    "n3": "the horde",
+    "n4": "the hordes",
+    "n5": "horde's",
+    "n6": "hordes'",
+    "n7": "a horde",
+    "n8": "many hordes"
+}

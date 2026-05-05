@@ -1,0 +1,18 @@
+{
+    "base": "endpoint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "endpoint",
+    "n2": "endpoints",
+    "n3": "the endpoint",
+    "n4": "the endpoints",
+    "n5": "endpoint's",
+    "n6": "endpoints'",
+    "n7": "an endpoint",
+    "n8": "many endpoints"
+}

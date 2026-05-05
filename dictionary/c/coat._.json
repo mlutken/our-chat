@@ -1,0 +1,18 @@
+{
+    "base": "coat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "coat",
+    "n2": "coats",
+    "n3": "the coat",
+    "n4": "the coats",
+    "n5": "coat's",
+    "n6": "coats'",
+    "n7": "a coat",
+    "n8": "many coats"
+}

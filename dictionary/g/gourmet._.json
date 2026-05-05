@@ -1,0 +1,18 @@
+{
+    "base": "gourmet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gourmet",
+    "n2": "gourmets",
+    "n3": "the gourmet",
+    "n4": "the gourmets",
+    "n5": "gourmet's",
+    "n6": "gourmets'",
+    "n7": "a gourmet",
+    "n8": "many gourmets"
+}

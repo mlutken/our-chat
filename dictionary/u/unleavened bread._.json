@@ -1,0 +1,18 @@
+{
+    "base": "unleavened bread",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "unleavened bread",
+    "n2": "unleavened breads",
+    "n3": "the unleavened bread",
+    "n4": "the unleavened breads",
+    "n5": "unleavened bread's",
+    "n6": "unleavened breads'",
+    "n7": "an unleavened bread",
+    "n8": "many unleavened breads"
+}

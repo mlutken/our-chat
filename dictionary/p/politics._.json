@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "politics",
-    "n2": "politics",
+    "n2": "politicses",
     "n3": "the politics",
-    "n4": "the politics",
-    "n5": "politics's"
+    "n4": "the politicses",
+    "n5": "politics'",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n6": "politicses'",
+    "n7": "a politics",
+    "n8": "many politicses"
 }

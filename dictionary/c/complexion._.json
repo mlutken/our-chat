@@ -1,0 +1,18 @@
+{
+    "base": "complexion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "complexion",
+    "n2": "complexions",
+    "n3": "the complexion",
+    "n4": "the complexions",
+    "n5": "complexion's",
+    "n6": "complexions'",
+    "n7": "a complexion",
+    "n8": "many complexions"
+}

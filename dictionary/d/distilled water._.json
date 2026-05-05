@@ -1,0 +1,18 @@
+{
+    "base": "distilled water",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "distilled water",
+    "n2": "distilled waters",
+    "n3": "the distilled water",
+    "n4": "the distilled waters",
+    "n5": "distilled water's",
+    "n6": "distilled waters'",
+    "n7": "a distilled water",
+    "n8": "many distilled waters"
+}

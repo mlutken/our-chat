@@ -1,0 +1,18 @@
+{
+    "base": "european country",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "european country",
+    "n2": "european countries",
+    "n3": "the european country",
+    "n4": "the european countries",
+    "n5": "european country's",
+    "n6": "european countries'",
+    "n7": "a european country",
+    "n8": "many european countries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sleeping capsule",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sleeping capsule",
+    "n2": "sleeping capsules",
+    "n3": "the sleeping capsule",
+    "n4": "the sleeping capsules",
+    "n5": "sleeping capsule's",
+    "n6": "sleeping capsules'",
+    "n7": "a sleeping capsule",
+    "n8": "many sleeping capsules"
+}

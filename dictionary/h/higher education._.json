@@ -1,0 +1,18 @@
+{
+    "base": "higher education",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "higher education",
+    "n2": "higher educations",
+    "n3": "the higher education",
+    "n4": "the higher educations",
+    "n5": "higher education's",
+    "n6": "higher educations'",
+    "n7": "a higher education",
+    "n8": "many higher educations"
+}

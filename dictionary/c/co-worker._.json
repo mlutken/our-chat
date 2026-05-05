@@ -1,0 +1,18 @@
+{
+    "base": "co-worker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "co-worker",
+    "n2": "co-workers",
+    "n3": "the co-worker",
+    "n4": "the co-workers",
+    "n5": "co-worker's",
+    "n6": "co-workers'",
+    "n7": "a co-worker",
+    "n8": "many co-workers"
+}

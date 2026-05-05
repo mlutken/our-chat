@@ -1,0 +1,18 @@
+{
+    "base": "defeat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "defeat",
+    "n2": "defeats",
+    "n3": "the defeat",
+    "n4": "the defeats",
+    "n5": "defeat's",
+    "n6": "defeats'",
+    "n7": "a defeat",
+    "n8": "many defeats"
+}

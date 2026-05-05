@@ -1,0 +1,18 @@
+{
+    "base": "rubber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "rubber",
+    "n2": "rubbers",
+    "n3": "the rubber",
+    "n4": "the rubbers",
+    "n5": "rubber's",
+    "n6": "rubbers'",
+    "n7": "a rubber",
+    "n8": "many rubbers"
+}

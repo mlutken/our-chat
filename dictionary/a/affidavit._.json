@@ -1,0 +1,18 @@
+{
+    "base": "affidavit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "affidavit",
+    "n2": "affidavits",
+    "n3": "the affidavit",
+    "n4": "the affidavits",
+    "n5": "affidavit's",
+    "n6": "affidavits'",
+    "n7": "an affidavit",
+    "n8": "many affidavits"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shakespeare",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "shakespeare",
+    "n2": "shakespeares",
+    "n3": "the shakespeare",
+    "n4": "the shakespeares",
+    "n5": "shakespeare's",
+    "n6": "shakespeares'",
+    "n7": "a shakespeare",
+    "n8": "many shakespeares"
+}

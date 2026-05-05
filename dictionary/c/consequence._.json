@@ -7,5 +7,12 @@
     "n2": "consequences",
     "n3": "the consequence",
     "n4": "the consequences",
-    "n5": "consequence's"
+    "n5": "consequence's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "consequences'",
+    "n7": "a consequence",
+    "n8": "many consequences"
 }

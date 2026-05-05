@@ -1,0 +1,18 @@
+{
+    "base": "herb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "herb",
+    "n2": "herbs",
+    "n3": "the herb",
+    "n4": "the herbs",
+    "n5": "herb's",
+    "n6": "herbs'",
+    "n7": "a herb",
+    "n8": "many herbs"
+}

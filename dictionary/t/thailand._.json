@@ -1,0 +1,18 @@
+{
+    "base": "thailand",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thailand",
+    "n2": "thailands",
+    "n3": "the thailand",
+    "n4": "the thailands",
+    "n5": "thailand's",
+    "n6": "thailands'",
+    "n7": "a thailand",
+    "n8": "many thailands"
+}

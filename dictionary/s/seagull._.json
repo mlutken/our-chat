@@ -1,0 +1,18 @@
+{
+    "base": "seagull",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seagull",
+    "n2": "seagulls",
+    "n3": "the seagull",
+    "n4": "the seagulls",
+    "n5": "seagull's",
+    "n6": "seagulls'",
+    "n7": "a seagull",
+    "n8": "many seagulls"
+}

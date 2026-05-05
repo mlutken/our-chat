@@ -1,0 +1,18 @@
+{
+    "base": "classic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "classic",
+    "n2": "classics",
+    "n3": "the classic",
+    "n4": "the classics",
+    "n5": "classic's",
+    "n6": "classics'",
+    "n7": "a classic",
+    "n8": "many classics"
+}

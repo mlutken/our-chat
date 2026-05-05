@@ -1,0 +1,18 @@
+{
+    "base": "infiltration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "infiltration",
+    "n2": "infiltrations",
+    "n3": "the infiltration",
+    "n4": "the infiltrations",
+    "n5": "infiltration's",
+    "n6": "infiltrations'",
+    "n7": "an infiltration",
+    "n8": "many infiltrations"
+}

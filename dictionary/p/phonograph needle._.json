@@ -1,0 +1,18 @@
+{
+    "base": "phonograph needle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phonograph needle",
+    "n2": "phonograph needles",
+    "n3": "the phonograph needle",
+    "n4": "the phonograph needles",
+    "n5": "phonograph needle's",
+    "n6": "phonograph needles'",
+    "n7": "a phonograph needle",
+    "n8": "many phonograph needles"
+}

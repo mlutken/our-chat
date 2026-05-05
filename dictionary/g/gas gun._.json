@@ -1,0 +1,18 @@
+{
+    "base": "gas gun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gas gun",
+    "n2": "gas guns",
+    "n3": "the gas gun",
+    "n4": "the gas guns",
+    "n5": "gas gun's",
+    "n6": "gas guns'",
+    "n7": "a gas gun",
+    "n8": "many gas guns"
+}

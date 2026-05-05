@@ -1,0 +1,18 @@
+{
+    "base": "soviets",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "soviets",
+    "n2": "sovietses",
+    "n3": "the soviets",
+    "n4": "the sovietses",
+    "n5": "soviets'",
+    "n6": "sovietses'",
+    "n7": "a soviets",
+    "n8": "many sovietses"
+}

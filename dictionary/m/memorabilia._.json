@@ -1,0 +1,18 @@
+{
+    "base": "memorabilia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "memorabilia",
+    "n2": "memorabilias",
+    "n3": "the memorabilia",
+    "n4": "the memorabilias",
+    "n5": "memorabilia's",
+    "n6": "memorabilias'",
+    "n7": "a memorabilia",
+    "n8": "many memorabilias"
+}

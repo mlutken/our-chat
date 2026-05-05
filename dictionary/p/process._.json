@@ -7,5 +7,12 @@
     "n2": "processes",
     "n3": "the process",
     "n4": "the processes",
-    "n5": "process's"
+    "n5": "process'",
+    "proper": false,
+    "commonness": 91,
+    "max_commonness": 6834,
+    "commonness_ge_count": 139,
+    "n6": "processes'",
+    "n7": "a process",
+    "n8": "many processes"
 }

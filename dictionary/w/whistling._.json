@@ -1,0 +1,18 @@
+{
+    "base": "whistling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "whistling",
+    "n2": "whistlings",
+    "n3": "the whistling",
+    "n4": "the whistlings",
+    "n5": "whistling's",
+    "n6": "whistlings'",
+    "n7": "a whistling",
+    "n8": "many whistlings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tub",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "tub",
+    "n2": "tubs",
+    "n3": "the tub",
+    "n4": "the tubs",
+    "n5": "tub's",
+    "n6": "tubs'",
+    "n7": "a tub",
+    "n8": "many tubs"
+}

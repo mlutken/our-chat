@@ -1,0 +1,18 @@
+{
+    "base": "tidings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tidings",
+    "n2": "tidingses",
+    "n3": "the tidings",
+    "n4": "the tidingses",
+    "n5": "tidings'",
+    "n6": "tidingses'",
+    "n7": "a tidings",
+    "n8": "many tidingses"
+}

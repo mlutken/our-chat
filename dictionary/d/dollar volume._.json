@@ -1,0 +1,18 @@
+{
+    "base": "dollar volume",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dollar volume",
+    "n2": "dollar volumes",
+    "n3": "the dollar volume",
+    "n4": "the dollar volumes",
+    "n5": "dollar volume's",
+    "n6": "dollar volumes'",
+    "n7": "a dollar volume",
+    "n8": "many dollar volumes"
+}

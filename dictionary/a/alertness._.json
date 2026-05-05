@@ -1,0 +1,18 @@
+{
+    "base": "alertness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "alertness",
+    "n2": "alertnesses",
+    "n3": "the alertness",
+    "n4": "the alertnesses",
+    "n5": "alertness'",
+    "n6": "alertnesses'",
+    "n7": "an alertness",
+    "n8": "many alertnesses"
+}

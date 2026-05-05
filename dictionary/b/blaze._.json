@@ -1,0 +1,18 @@
+{
+    "base": "blaze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "blaze",
+    "n2": "blazes",
+    "n3": "the blaze",
+    "n4": "the blazes",
+    "n5": "blaze's",
+    "n6": "blazes'",
+    "n7": "a blaze",
+    "n8": "many blazes"
+}

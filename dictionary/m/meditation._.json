@@ -1,0 +1,18 @@
+{
+    "base": "meditation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "meditation",
+    "n2": "meditations",
+    "n3": "the meditation",
+    "n4": "the meditations",
+    "n5": "meditation's",
+    "n6": "meditations'",
+    "n7": "a meditation",
+    "n8": "many meditations"
+}

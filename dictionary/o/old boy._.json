@@ -1,0 +1,18 @@
+{
+    "base": "old boy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "old boy",
+    "n2": "old boys",
+    "n3": "the old boy",
+    "n4": "the old boys",
+    "n5": "old boy's",
+    "n6": "old boys'",
+    "n7": "an old boy",
+    "n8": "many old boys"
+}

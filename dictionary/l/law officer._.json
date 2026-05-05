@@ -1,0 +1,18 @@
+{
+    "base": "law officer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "law officer",
+    "n2": "law officers",
+    "n3": "the law officer",
+    "n4": "the law officers",
+    "n5": "law officer's",
+    "n6": "law officers'",
+    "n7": "a law officer",
+    "n8": "many law officers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "split",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "split",
+    "n2": "splits",
+    "n3": "the split",
+    "n4": "the splits",
+    "n5": "split's",
+    "n6": "splits'",
+    "n7": "a split",
+    "n8": "many splits"
+}

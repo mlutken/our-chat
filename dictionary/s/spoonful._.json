@@ -1,0 +1,18 @@
+{
+    "base": "spoonful",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spoonful",
+    "n2": "spoonfuls",
+    "n3": "the spoonful",
+    "n4": "the spoonfuls",
+    "n5": "spoonful's",
+    "n6": "spoonfuls'",
+    "n7": "a spoonful",
+    "n8": "many spoonfuls"
+}

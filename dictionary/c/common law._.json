@@ -1,0 +1,18 @@
+{
+    "base": "common law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "common law",
+    "n2": "common laws",
+    "n3": "the common law",
+    "n4": "the common laws",
+    "n5": "common law's",
+    "n6": "common laws'",
+    "n7": "a common law",
+    "n8": "many common laws"
+}

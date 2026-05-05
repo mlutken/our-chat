@@ -1,0 +1,18 @@
+{
+    "base": "dominion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "dominion",
+    "n2": "dominions",
+    "n3": "the dominion",
+    "n4": "the dominions",
+    "n5": "dominion's",
+    "n6": "dominions'",
+    "n7": "a dominion",
+    "n8": "many dominions"
+}

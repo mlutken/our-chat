@@ -1,0 +1,18 @@
+{
+    "base": "cut glass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cut glass",
+    "n2": "cut glasses",
+    "n3": "the cut glass",
+    "n4": "the cut glasses",
+    "n5": "cut glass'",
+    "n6": "cut glasses'",
+    "n7": "a cut glass",
+    "n8": "many cut glasses"
+}

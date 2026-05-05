@@ -1,0 +1,18 @@
+{
+    "base": "foreman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "foreman",
+    "n2": "foremen",
+    "n3": "the foreman",
+    "n4": "the foremen",
+    "n5": "foreman's",
+    "n6": "foremen's",
+    "n7": "a foreman",
+    "n8": "many foremen"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "non-resistant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "non-resistant",
+    "n2": "non-resistants",
+    "n3": "the non-resistant",
+    "n4": "the non-resistants",
+    "n5": "non-resistant's",
+    "n6": "non-resistants'",
+    "n7": "a non-resistant",
+    "n8": "many non-resistants"
+}

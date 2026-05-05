@@ -1,0 +1,18 @@
+{
+    "base": "brood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "brood",
+    "n2": "broods",
+    "n3": "the brood",
+    "n4": "the broods",
+    "n5": "brood's",
+    "n6": "broods'",
+    "n7": "a brood",
+    "n8": "many broods"
+}

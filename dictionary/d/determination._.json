@@ -7,5 +7,12 @@
     "n2": "determinations",
     "n3": "the determination",
     "n4": "the determinations",
-    "n5": "determination's"
+    "n5": "determination's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "determinations'",
+    "n7": "a determination",
+    "n8": "many determinations"
 }

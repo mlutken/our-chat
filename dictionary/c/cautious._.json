@@ -1,0 +1,18 @@
+{
+    "base": "cautious",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cautious",
+    "n2": "cautiouses",
+    "n3": "the cautious",
+    "n4": "the cautiouses",
+    "n5": "cautious'",
+    "n6": "cautiouses'",
+    "n7": "a cautious",
+    "n8": "many cautiouses"
+}

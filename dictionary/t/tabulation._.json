@@ -1,0 +1,18 @@
+{
+    "base": "tabulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tabulation",
+    "n2": "tabulations",
+    "n3": "the tabulation",
+    "n4": "the tabulations",
+    "n5": "tabulation's",
+    "n6": "tabulations'",
+    "n7": "a tabulation",
+    "n8": "many tabulations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "operating budget",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "operating budget",
+    "n2": "operating budgets",
+    "n3": "the operating budget",
+    "n4": "the operating budgets",
+    "n5": "operating budget's",
+    "n6": "operating budgets'",
+    "n7": "an operating budget",
+    "n8": "many operating budgets"
+}

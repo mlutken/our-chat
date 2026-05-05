@@ -1,0 +1,18 @@
+{
+    "base": "car door",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "car door",
+    "n2": "car doors",
+    "n3": "the car door",
+    "n4": "the car doors",
+    "n5": "car door's",
+    "n6": "car doors'",
+    "n7": "a car door",
+    "n8": "many car doors"
+}

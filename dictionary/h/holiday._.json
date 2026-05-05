@@ -7,5 +7,12 @@
     "n2": "holidays",
     "n3": "the holiday",
     "n4": "the holidays",
-    "n5": "holiday's"
+    "n5": "holiday's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "holidays'",
+    "n7": "a holiday",
+    "n8": "many holidays"
 }

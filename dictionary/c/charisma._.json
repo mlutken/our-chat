@@ -1,0 +1,18 @@
+{
+    "base": "charisma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "charisma",
+    "n2": "charismas",
+    "n3": "the charisma",
+    "n4": "the charismas",
+    "n5": "charisma's",
+    "n6": "charismas'",
+    "n7": "a charisma",
+    "n8": "many charismas"
+}

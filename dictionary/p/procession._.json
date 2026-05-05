@@ -1,0 +1,18 @@
+{
+    "base": "procession",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "procession",
+    "n2": "processions",
+    "n3": "the procession",
+    "n4": "the processions",
+    "n5": "procession's",
+    "n6": "processions'",
+    "n7": "a procession",
+    "n8": "many processions"
+}

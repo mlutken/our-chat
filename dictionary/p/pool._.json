@@ -7,5 +7,12 @@
     "n2": "pools",
     "n3": "the pool",
     "n4": "the pools",
-    "n5": "pool's"
+    "n5": "pool's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "pools'",
+    "n7": "a pool",
+    "n8": "many pools"
 }

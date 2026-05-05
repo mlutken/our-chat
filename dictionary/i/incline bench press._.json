@@ -1,0 +1,18 @@
+{
+    "base": "incline bench press",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "incline bench press",
+    "n2": "incline bench presses",
+    "n3": "the incline bench press",
+    "n4": "the incline bench presses",
+    "n5": "incline bench press'",
+    "n6": "incline bench presses'",
+    "n7": "an incline bench press",
+    "n8": "many incline bench presses"
+}

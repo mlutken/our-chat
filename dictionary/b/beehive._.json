@@ -1,0 +1,18 @@
+{
+    "base": "beehive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beehive",
+    "n2": "beehives",
+    "n3": "the beehive",
+    "n4": "the beehives",
+    "n5": "beehive's",
+    "n6": "beehives'",
+    "n7": "a beehive",
+    "n8": "many beehives"
+}

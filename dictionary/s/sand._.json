@@ -1,0 +1,18 @@
+{
+    "base": "sand",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "sand",
+    "n2": "sands",
+    "n3": "the sand",
+    "n4": "the sands",
+    "n5": "sand's",
+    "n6": "sands'",
+    "n7": "a sand",
+    "n8": "many sands"
+}

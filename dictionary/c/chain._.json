@@ -7,5 +7,12 @@
     "n2": "chains",
     "n3": "the chain",
     "n4": "the chains",
-    "n5": "chain's"
+    "n5": "chain's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "chains'",
+    "n7": "a chain",
+    "n8": "many chains"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "symphony orchestra",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "symphony orchestra",
+    "n2": "symphony orchestras",
+    "n3": "the symphony orchestra",
+    "n4": "the symphony orchestras",
+    "n5": "symphony orchestra's",
+    "n6": "symphony orchestras'",
+    "n7": "a symphony orchestra",
+    "n8": "many symphony orchestras"
+}

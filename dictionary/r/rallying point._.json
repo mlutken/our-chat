@@ -1,0 +1,18 @@
+{
+    "base": "rallying point",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rallying point",
+    "n2": "rallying points",
+    "n3": "the rallying point",
+    "n4": "the rallying points",
+    "n5": "rallying point's",
+    "n6": "rallying points'",
+    "n7": "a rallying point",
+    "n8": "many rallying points"
+}

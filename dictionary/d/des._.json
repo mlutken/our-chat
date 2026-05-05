@@ -1,0 +1,18 @@
+{
+    "base": "des",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "des",
+    "n2": "deses",
+    "n3": "the des",
+    "n4": "the deses",
+    "n5": "des'",
+    "n6": "deses'",
+    "n7": "a des",
+    "n8": "many deses"
+}

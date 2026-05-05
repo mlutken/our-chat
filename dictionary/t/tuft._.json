@@ -1,0 +1,18 @@
+{
+    "base": "tuft",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tuft",
+    "n2": "tufts",
+    "n3": "the tuft",
+    "n4": "the tufts",
+    "n5": "tuft's",
+    "n6": "tufts'",
+    "n7": "a tuft",
+    "n8": "many tufts"
+}

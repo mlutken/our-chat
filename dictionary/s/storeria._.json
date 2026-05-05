@@ -1,0 +1,18 @@
+{
+    "base": "storeria",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "storeria",
+    "n2": "storerias",
+    "n3": "the storeria",
+    "n4": "the storerias",
+    "n5": "storeria's",
+    "n6": "storerias'",
+    "n7": "a storeria",
+    "n8": "many storerias"
+}

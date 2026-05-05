@@ -1,0 +1,18 @@
+{
+    "base": "luggage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "luggage",
+    "n2": "luggages",
+    "n3": "the luggage",
+    "n4": "the luggages",
+    "n5": "luggage's",
+    "n6": "luggages'",
+    "n7": "a luggage",
+    "n8": "many luggages"
+}

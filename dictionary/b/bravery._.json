@@ -1,0 +1,18 @@
+{
+    "base": "bravery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bravery",
+    "n2": "braveries",
+    "n3": "the bravery",
+    "n4": "the braveries",
+    "n5": "bravery's",
+    "n6": "braveries'",
+    "n7": "a bravery",
+    "n8": "many braveries"
+}

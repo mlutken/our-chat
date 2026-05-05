@@ -1,0 +1,18 @@
+{
+    "base": "left",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "left",
+    "n2": "lefts",
+    "n3": "the left",
+    "n4": "the lefts",
+    "n5": "left's",
+    "n6": "lefts'",
+    "n7": "a left",
+    "n8": "many lefts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "oversimplification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oversimplification",
+    "n2": "oversimplifications",
+    "n3": "the oversimplification",
+    "n4": "the oversimplifications",
+    "n5": "oversimplification's",
+    "n6": "oversimplifications'",
+    "n7": "an oversimplification",
+    "n8": "many oversimplifications"
+}

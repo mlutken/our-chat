@@ -7,5 +7,12 @@
     "n2": "edges",
     "n3": "the edge",
     "n4": "the edges",
-    "n5": "edge's"
+    "n5": "edge's",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n6": "edges'",
+    "n7": "an edge",
+    "n8": "many edges"
 }

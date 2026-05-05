@@ -1,0 +1,18 @@
+{
+    "base": "pistoleer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pistoleer",
+    "n2": "pistoleers",
+    "n3": "the pistoleer",
+    "n4": "the pistoleers",
+    "n5": "pistoleer's",
+    "n6": "pistoleers'",
+    "n7": "a pistoleer",
+    "n8": "many pistoleers"
+}

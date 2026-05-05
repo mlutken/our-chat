@@ -7,5 +7,12 @@
     "n2": "aspects",
     "n3": "the aspect",
     "n4": "the aspects",
-    "n5": "aspect's"
+    "n5": "aspect's",
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n6": "aspects'",
+    "n7": "an aspect",
+    "n8": "many aspects"
 }

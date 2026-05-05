@@ -1,0 +1,18 @@
+{
+    "base": "pelvic girdle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pelvic girdle",
+    "n2": "pelvic girdles",
+    "n3": "the pelvic girdle",
+    "n4": "the pelvic girdles",
+    "n5": "pelvic girdle's",
+    "n6": "pelvic girdles'",
+    "n7": "a pelvic girdle",
+    "n8": "many pelvic girdles"
+}

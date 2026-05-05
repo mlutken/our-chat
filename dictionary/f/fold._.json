@@ -1,11 +1,24 @@
 {
     "base": "fold",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fold",
     "v2": "folded",
     "v3": "folded",
     "v4": "folding",
-    "v5": "folds"
+    "v5": "folds",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "fold",
+    "n2": "folds",
+    "n3": "the fold",
+    "n4": "the folds",
+    "n5": "fold's",
+    "n6": "folds'",
+    "n7": "a fold",
+    "n8": "many folds"
 }

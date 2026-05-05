@@ -1,0 +1,18 @@
+{
+    "base": "terminal velocity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "terminal velocity",
+    "n2": "terminal velocities",
+    "n3": "the terminal velocity",
+    "n4": "the terminal velocities",
+    "n5": "terminal velocity's",
+    "n6": "terminal velocities'",
+    "n7": "a terminal velocity",
+    "n8": "many terminal velocities"
+}

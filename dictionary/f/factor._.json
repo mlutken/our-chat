@@ -7,5 +7,12 @@
     "n2": "factors",
     "n3": "the factor",
     "n4": "the factors",
-    "n5": "factor's"
+    "n5": "factor's",
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n6": "factors'",
+    "n7": "a factor",
+    "n8": "many factors"
 }

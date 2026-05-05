@@ -1,0 +1,18 @@
+{
+    "base": "small fortune",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "small fortune",
+    "n2": "small fortunes",
+    "n3": "the small fortune",
+    "n4": "the small fortunes",
+    "n5": "small fortune's",
+    "n6": "small fortunes'",
+    "n7": "a small fortune",
+    "n8": "many small fortunes"
+}

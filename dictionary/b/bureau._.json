@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "bureau",
-    "n2": "bureaus",
+    "n2": "bureaux",
     "n3": "the bureau",
-    "n4": "the bureaus",
-    "n5": "bureau's"
+    "n4": "the bureaux",
+    "n5": "bureau's",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "bureaux's",
+    "n7": "a bureau",
+    "n8": "many bureaux"
 }

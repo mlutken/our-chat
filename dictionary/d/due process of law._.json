@@ -1,0 +1,18 @@
+{
+    "base": "due process of law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "due process of law",
+    "n2": "due process of laws",
+    "n3": "the due process of law",
+    "n4": "the due process of laws",
+    "n5": "due process of law's",
+    "n6": "due process of laws'",
+    "n7": "a due process of law",
+    "n8": "many due process of laws"
+}

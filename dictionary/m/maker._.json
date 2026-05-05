@@ -1,0 +1,18 @@
+{
+    "base": "maker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "maker",
+    "n2": "makers",
+    "n3": "the maker",
+    "n4": "the makers",
+    "n5": "maker's",
+    "n6": "makers'",
+    "n7": "a maker",
+    "n8": "many makers"
+}

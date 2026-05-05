@@ -1,0 +1,18 @@
+{
+    "base": "catkin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "catkin",
+    "n2": "catkins",
+    "n3": "the catkin",
+    "n4": "the catkins",
+    "n5": "catkin's",
+    "n6": "catkins'",
+    "n7": "a catkin",
+    "n8": "many catkins"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "picasso",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "picasso",
+    "n2": "picassos",
+    "n3": "the picasso",
+    "n4": "the picassos",
+    "n5": "picasso's",
+    "n6": "picassos'",
+    "n7": "a picasso",
+    "n8": "many picassos"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "swallow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "swallow",
+    "n2": "swallows",
+    "n3": "the swallow",
+    "n4": "the swallows",
+    "n5": "swallow's",
+    "n6": "swallows'",
+    "n7": "a swallow",
+    "n8": "many swallows"
+}

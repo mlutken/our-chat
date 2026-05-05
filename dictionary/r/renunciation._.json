@@ -1,0 +1,18 @@
+{
+    "base": "renunciation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "renunciation",
+    "n2": "renunciations",
+    "n3": "the renunciation",
+    "n4": "the renunciations",
+    "n5": "renunciation's",
+    "n6": "renunciations'",
+    "n7": "a renunciation",
+    "n8": "many renunciations"
+}

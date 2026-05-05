@@ -1,0 +1,18 @@
+{
+    "base": "sampling station",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sampling station",
+    "n2": "sampling stations",
+    "n3": "the sampling station",
+    "n4": "the sampling stations",
+    "n5": "sampling station's",
+    "n6": "sampling stations'",
+    "n7": "a sampling station",
+    "n8": "many sampling stations"
+}

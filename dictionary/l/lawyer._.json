@@ -1,0 +1,18 @@
+{
+    "base": "lawyer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "lawyer",
+    "n2": "lawyers",
+    "n3": "the lawyer",
+    "n4": "the lawyers",
+    "n5": "lawyer's",
+    "n6": "lawyers'",
+    "n7": "a lawyer",
+    "n8": "many lawyers"
+}

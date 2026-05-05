@@ -1,0 +1,18 @@
+{
+    "base": "desertion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "desertion",
+    "n2": "desertions",
+    "n3": "the desertion",
+    "n4": "the desertions",
+    "n5": "desertion's",
+    "n6": "desertions'",
+    "n7": "a desertion",
+    "n8": "many desertions"
+}

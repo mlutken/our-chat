@@ -1,0 +1,18 @@
+{
+    "base": "incident",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "incident",
+    "n2": "incidents",
+    "n3": "the incident",
+    "n4": "the incidents",
+    "n5": "incident's",
+    "n6": "incidents'",
+    "n7": "an incident",
+    "n8": "many incidents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "warmth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "warmth",
+    "n2": "warmths",
+    "n3": "the warmth",
+    "n4": "the warmths",
+    "n5": "warmth's",
+    "n6": "warmths'",
+    "n7": "a warmth",
+    "n8": "many warmths"
+}

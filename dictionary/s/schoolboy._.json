@@ -1,0 +1,18 @@
+{
+    "base": "schoolboy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "schoolboy",
+    "n2": "schoolboys",
+    "n3": "the schoolboy",
+    "n4": "the schoolboys",
+    "n5": "schoolboy's",
+    "n6": "schoolboys'",
+    "n7": "a schoolboy",
+    "n8": "many schoolboys"
+}

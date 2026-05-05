@@ -1,0 +1,18 @@
+{
+    "base": "workbench",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "workbench",
+    "n2": "workbenches",
+    "n3": "the workbench",
+    "n4": "the workbenches",
+    "n5": "workbench's",
+    "n6": "workbenches'",
+    "n7": "a workbench",
+    "n8": "many workbenches"
+}

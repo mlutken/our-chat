@@ -1,0 +1,18 @@
+{
+    "base": "cleft",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cleft",
+    "n2": "clefts",
+    "n3": "the cleft",
+    "n4": "the clefts",
+    "n5": "cleft's",
+    "n6": "clefts'",
+    "n7": "a cleft",
+    "n8": "many clefts"
+}

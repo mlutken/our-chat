@@ -1,0 +1,18 @@
+{
+    "base": "exertion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "exertion",
+    "n2": "exertions",
+    "n3": "the exertion",
+    "n4": "the exertions",
+    "n5": "exertion's",
+    "n6": "exertions'",
+    "n7": "an exertion",
+    "n8": "many exertions"
+}

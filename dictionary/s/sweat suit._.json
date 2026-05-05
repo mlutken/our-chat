@@ -1,0 +1,18 @@
+{
+    "base": "sweat suit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweat suit",
+    "n2": "sweat suits",
+    "n3": "the sweat suit",
+    "n4": "the sweat suits",
+    "n5": "sweat suit's",
+    "n6": "sweat suits'",
+    "n7": "a sweat suit",
+    "n8": "many sweat suits"
+}

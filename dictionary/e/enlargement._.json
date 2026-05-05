@@ -1,0 +1,18 @@
+{
+    "base": "enlargement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "enlargement",
+    "n2": "enlargements",
+    "n3": "the enlargement",
+    "n4": "the enlargements",
+    "n5": "enlargement's",
+    "n6": "enlargements'",
+    "n7": "an enlargement",
+    "n8": "many enlargements"
+}

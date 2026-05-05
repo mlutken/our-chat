@@ -1,0 +1,18 @@
+{
+    "base": "hallelujah",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hallelujah",
+    "n2": "hallelujahs",
+    "n3": "the hallelujah",
+    "n4": "the hallelujahs",
+    "n5": "hallelujah's",
+    "n6": "hallelujahs'",
+    "n7": "a hallelujah",
+    "n8": "many hallelujahs"
+}

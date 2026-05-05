@@ -1,0 +1,18 @@
+{
+    "base": "superstition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "superstition",
+    "n2": "superstitions",
+    "n3": "the superstition",
+    "n4": "the superstitions",
+    "n5": "superstition's",
+    "n6": "superstitions'",
+    "n7": "a superstition",
+    "n8": "many superstitions"
+}

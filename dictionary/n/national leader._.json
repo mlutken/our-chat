@@ -1,0 +1,18 @@
+{
+    "base": "national leader",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "national leader",
+    "n2": "national leaders",
+    "n3": "the national leader",
+    "n4": "the national leaders",
+    "n5": "national leader's",
+    "n6": "national leaders'",
+    "n7": "a national leader",
+    "n8": "many national leaders"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "tallow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tallow",
+    "n2": "tallows",
+    "n3": "the tallow",
+    "n4": "the tallows",
+    "n5": "tallow's",
+    "n6": "tallows'",
+    "n7": "a tallow",
+    "n8": "many tallows"
+}

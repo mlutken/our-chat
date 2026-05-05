@@ -1,0 +1,18 @@
+{
+    "base": "size of it",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "size of it",
+    "n2": "size of its",
+    "n3": "the size of it",
+    "n4": "the size of its",
+    "n5": "size of it's",
+    "n6": "size of its'",
+    "n7": "a size of it",
+    "n8": "many size of its"
+}

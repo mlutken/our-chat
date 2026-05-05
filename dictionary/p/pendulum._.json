@@ -1,0 +1,18 @@
+{
+    "base": "pendulum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pendulum",
+    "n2": "pendulums",
+    "n3": "the pendulum",
+    "n4": "the pendulums",
+    "n5": "pendulum's",
+    "n6": "pendulums'",
+    "n7": "a pendulum",
+    "n8": "many pendulums"
+}

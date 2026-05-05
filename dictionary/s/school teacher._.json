@@ -1,0 +1,18 @@
+{
+    "base": "school teacher",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "school teacher",
+    "n2": "school teachers",
+    "n3": "the school teacher",
+    "n4": "the school teachers",
+    "n5": "school teacher's",
+    "n6": "school teachers'",
+    "n7": "a school teacher",
+    "n8": "many school teachers"
+}

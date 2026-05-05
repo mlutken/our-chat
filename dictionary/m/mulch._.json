@@ -1,0 +1,18 @@
+{
+    "base": "mulch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "mulch",
+    "n2": "mulches",
+    "n3": "the mulch",
+    "n4": "the mulches",
+    "n5": "mulch's",
+    "n6": "mulches'",
+    "n7": "a mulch",
+    "n8": "many mulches"
+}

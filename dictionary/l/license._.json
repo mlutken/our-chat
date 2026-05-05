@@ -1,11 +1,24 @@
 {
     "base": "license",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "license",
     "v2": "licensed/licenced",
     "v3": "licensed/licenced",
     "v4": "licensing/licencing",
-    "v5": "licenses/licences"
+    "v5": "licenses/licences",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "license",
+    "n2": "licenses",
+    "n3": "the license",
+    "n4": "the licenses",
+    "n5": "license's",
+    "n6": "licenses'",
+    "n7": "a license",
+    "n8": "many licenses"
 }

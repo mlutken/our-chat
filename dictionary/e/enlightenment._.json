@@ -1,0 +1,18 @@
+{
+    "base": "enlightenment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "enlightenment",
+    "n2": "enlightenments",
+    "n3": "the enlightenment",
+    "n4": "the enlightenments",
+    "n5": "enlightenment's",
+    "n6": "enlightenments'",
+    "n7": "an enlightenment",
+    "n8": "many enlightenments"
+}

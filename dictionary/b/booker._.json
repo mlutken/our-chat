@@ -1,0 +1,18 @@
+{
+    "base": "booker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "booker",
+    "n2": "bookers",
+    "n3": "the booker",
+    "n4": "the bookers",
+    "n5": "booker's",
+    "n6": "bookers'",
+    "n7": "a booker",
+    "n8": "many bookers"
+}

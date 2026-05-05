@@ -1,0 +1,18 @@
+{
+    "base": "academicianship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "academicianship",
+    "n2": "academicianships",
+    "n3": "the academicianship",
+    "n4": "the academicianships",
+    "n5": "academicianship's",
+    "n6": "academicianships'",
+    "n7": "an academicianship",
+    "n8": "many academicianships"
+}

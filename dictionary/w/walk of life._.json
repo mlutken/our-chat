@@ -1,0 +1,18 @@
+{
+    "base": "walk of life",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "walk of life",
+    "n2": "walk of lives",
+    "n3": "the walk of life",
+    "n4": "the walk of lives",
+    "n5": "walk of life's",
+    "n6": "walk of lives'",
+    "n7": "a walk of life",
+    "n8": "many walk of lives"
+}

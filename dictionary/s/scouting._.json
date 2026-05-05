@@ -1,0 +1,18 @@
+{
+    "base": "scouting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scouting",
+    "n2": "scoutings",
+    "n3": "the scouting",
+    "n4": "the scoutings",
+    "n5": "scouting's",
+    "n6": "scoutings'",
+    "n7": "a scouting",
+    "n8": "many scoutings"
+}

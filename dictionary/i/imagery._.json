@@ -1,0 +1,18 @@
+{
+    "base": "imagery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "imagery",
+    "n2": "imageries",
+    "n3": "the imagery",
+    "n4": "the imageries",
+    "n5": "imagery's",
+    "n6": "imageries'",
+    "n7": "an imagery",
+    "n8": "many imageries"
+}

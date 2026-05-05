@@ -1,0 +1,18 @@
+{
+    "base": "finale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "finale",
+    "n2": "finales",
+    "n3": "the finale",
+    "n4": "the finales",
+    "n5": "finale's",
+    "n6": "finales'",
+    "n7": "a finale",
+    "n8": "many finales"
+}

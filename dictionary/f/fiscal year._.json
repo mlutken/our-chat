@@ -1,0 +1,18 @@
+{
+    "base": "fiscal year",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "fiscal year",
+    "n2": "fiscal years",
+    "n3": "the fiscal year",
+    "n4": "the fiscal years",
+    "n5": "fiscal year's",
+    "n6": "fiscal years'",
+    "n7": "a fiscal year",
+    "n8": "many fiscal years"
+}

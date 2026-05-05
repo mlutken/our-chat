@@ -1,0 +1,18 @@
+{
+    "base": "crystallite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crystallite",
+    "n2": "crystallites",
+    "n3": "the crystallite",
+    "n4": "the crystallites",
+    "n5": "crystallite's",
+    "n6": "crystallites'",
+    "n7": "a crystallite",
+    "n8": "many crystallites"
+}

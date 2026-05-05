@@ -1,0 +1,18 @@
+{
+    "base": "inexperience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "inexperience",
+    "n2": "inexperiences",
+    "n3": "the inexperience",
+    "n4": "the inexperiences",
+    "n5": "inexperience's",
+    "n6": "inexperiences'",
+    "n7": "an inexperience",
+    "n8": "many inexperiences"
+}

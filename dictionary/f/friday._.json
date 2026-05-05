@@ -1,0 +1,18 @@
+{
+    "base": "friday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "friday",
+    "n2": "fridays",
+    "n3": "the friday",
+    "n4": "the fridays",
+    "n5": "friday's",
+    "n6": "fridays'",
+    "n7": "a friday",
+    "n8": "many fridays"
+}

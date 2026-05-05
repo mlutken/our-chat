@@ -1,0 +1,18 @@
+{
+    "base": "natural gas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "natural gas",
+    "n2": "natural gases",
+    "n3": "the natural gas",
+    "n4": "the natural gases",
+    "n5": "natural gas'",
+    "n6": "natural gases'",
+    "n7": "a natural gas",
+    "n8": "many natural gases"
+}

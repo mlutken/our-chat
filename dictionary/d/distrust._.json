@@ -1,0 +1,18 @@
+{
+    "base": "distrust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "distrust",
+    "n2": "distrusts",
+    "n3": "the distrust",
+    "n4": "the distrusts",
+    "n5": "distrust's",
+    "n6": "distrusts'",
+    "n7": "a distrust",
+    "n8": "many distrusts"
+}

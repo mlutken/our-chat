@@ -1,0 +1,18 @@
+{
+    "base": "literalness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "literalness",
+    "n2": "literalnesses",
+    "n3": "the literalness",
+    "n4": "the literalnesses",
+    "n5": "literalness'",
+    "n6": "literalnesses'",
+    "n7": "a literalness",
+    "n8": "many literalnesses"
+}

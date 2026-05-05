@@ -7,5 +7,12 @@
     "n2": "fitnesses",
     "n3": "the fitness",
     "n4": "the fitnesses",
-    "n5": "fitness's"
+    "n5": "fitness'",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "fitnesses'",
+    "n7": "a fitness",
+    "n8": "many fitnesses"
 }

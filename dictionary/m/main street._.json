@@ -1,0 +1,18 @@
+{
+    "base": "main street",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "main street",
+    "n2": "main streets",
+    "n3": "the main street",
+    "n4": "the main streets",
+    "n5": "main street's",
+    "n6": "main streets'",
+    "n7": "a main street",
+    "n8": "many main streets"
+}

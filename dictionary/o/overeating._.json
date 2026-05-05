@@ -1,0 +1,18 @@
+{
+    "base": "overeating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overeating",
+    "n2": "overeatings",
+    "n3": "the overeating",
+    "n4": "the overeatings",
+    "n5": "overeating's",
+    "n6": "overeatings'",
+    "n7": "an overeating",
+    "n8": "many overeatings"
+}

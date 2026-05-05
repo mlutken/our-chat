@@ -1,0 +1,18 @@
+{
+    "base": "repertory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "repertory",
+    "n2": "repertories",
+    "n3": "the repertory",
+    "n4": "the repertories",
+    "n5": "repertory's",
+    "n6": "repertories'",
+    "n7": "a repertory",
+    "n8": "many repertories"
+}

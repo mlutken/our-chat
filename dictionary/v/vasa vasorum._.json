@@ -1,0 +1,18 @@
+{
+    "base": "vasa vasorum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vasa vasorum",
+    "n2": "vasa vasorums",
+    "n3": "the vasa vasorum",
+    "n4": "the vasa vasorums",
+    "n5": "vasa vasorum's",
+    "n6": "vasa vasorums'",
+    "n7": "a vasa vasorum",
+    "n8": "many vasa vasorums"
+}

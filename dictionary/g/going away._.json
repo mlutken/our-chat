@@ -1,0 +1,18 @@
+{
+    "base": "going away",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "going away",
+    "n2": "going aways",
+    "n3": "the going away",
+    "n4": "the going aways",
+    "n5": "going away's",
+    "n6": "going aways'",
+    "n7": "a going away",
+    "n8": "many going aways"
+}

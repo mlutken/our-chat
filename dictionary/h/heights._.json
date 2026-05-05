@@ -1,0 +1,18 @@
+{
+    "base": "heights",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "heights",
+    "n2": "heightses",
+    "n3": "the heights",
+    "n4": "the heightses",
+    "n5": "heights'",
+    "n6": "heightses'",
+    "n7": "a heights",
+    "n8": "many heightses"
+}

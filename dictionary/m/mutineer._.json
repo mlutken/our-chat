@@ -1,0 +1,18 @@
+{
+    "base": "mutineer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mutineer",
+    "n2": "mutineers",
+    "n3": "the mutineer",
+    "n4": "the mutineers",
+    "n5": "mutineer's",
+    "n6": "mutineers'",
+    "n7": "a mutineer",
+    "n8": "many mutineers"
+}

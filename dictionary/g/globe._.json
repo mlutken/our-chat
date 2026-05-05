@@ -1,0 +1,18 @@
+{
+    "base": "globe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "globe",
+    "n2": "globes",
+    "n3": "the globe",
+    "n4": "the globes",
+    "n5": "globe's",
+    "n6": "globes'",
+    "n7": "a globe",
+    "n8": "many globes"
+}

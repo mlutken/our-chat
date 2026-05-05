@@ -1,0 +1,18 @@
+{
+    "base": "lion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lion",
+    "n2": "lions",
+    "n3": "the lion",
+    "n4": "the lions",
+    "n5": "lion's",
+    "n6": "lions'",
+    "n7": "a lion",
+    "n8": "many lions"
+}

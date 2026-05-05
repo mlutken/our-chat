@@ -1,0 +1,18 @@
+{
+    "base": "parachute",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parachute",
+    "n2": "parachutes",
+    "n3": "the parachute",
+    "n4": "the parachutes",
+    "n5": "parachute's",
+    "n6": "parachutes'",
+    "n7": "a parachute",
+    "n8": "many parachutes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "favorite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "favorite",
+    "n2": "favorites",
+    "n3": "the favorite",
+    "n4": "the favorites",
+    "n5": "favorite's",
+    "n6": "favorites'",
+    "n7": "a favorite",
+    "n8": "many favorites"
+}

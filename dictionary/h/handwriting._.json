@@ -1,0 +1,18 @@
+{
+    "base": "handwriting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "handwriting",
+    "n2": "handwritings",
+    "n3": "the handwriting",
+    "n4": "the handwritings",
+    "n5": "handwriting's",
+    "n6": "handwritings'",
+    "n7": "a handwriting",
+    "n8": "many handwritings"
+}

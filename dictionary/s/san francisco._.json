@@ -1,0 +1,18 @@
+{
+    "base": "san francisco",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "san francisco",
+    "n2": "san franciscos",
+    "n3": "the san francisco",
+    "n4": "the san franciscos",
+    "n5": "san francisco's",
+    "n6": "san franciscos'",
+    "n7": "a san francisco",
+    "n8": "many san franciscos"
+}

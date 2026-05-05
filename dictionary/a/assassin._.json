@@ -1,0 +1,18 @@
+{
+    "base": "assassin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "assassin",
+    "n2": "assassins",
+    "n3": "the assassin",
+    "n4": "the assassins",
+    "n5": "assassin's",
+    "n6": "assassins'",
+    "n7": "an assassin",
+    "n8": "many assassins"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "recession",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "recession",
+    "n2": "recessions",
+    "n3": "the recession",
+    "n4": "the recessions",
+    "n5": "recession's",
+    "n6": "recessions'",
+    "n7": "a recession",
+    "n8": "many recessions"
+}

@@ -11,5 +11,12 @@
     "n2": "goods",
     "n3": "the good",
     "n4": "the goods",
-    "n5": "good's"
+    "n5": "good's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "goods'",
+    "n7": "a good",
+    "n8": "many goods"
 }

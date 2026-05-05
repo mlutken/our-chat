@@ -1,0 +1,18 @@
+{
+    "base": "loins",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loins",
+    "n2": "loinses",
+    "n3": "the loins",
+    "n4": "the loinses",
+    "n5": "loins'",
+    "n6": "loinses'",
+    "n7": "a loins",
+    "n8": "many loinses"
+}

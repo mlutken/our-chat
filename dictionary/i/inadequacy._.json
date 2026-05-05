@@ -1,0 +1,18 @@
+{
+    "base": "inadequacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inadequacy",
+    "n2": "inadequacies",
+    "n3": "the inadequacy",
+    "n4": "the inadequacies",
+    "n5": "inadequacy's",
+    "n6": "inadequacies'",
+    "n7": "an inadequacy",
+    "n8": "many inadequacies"
+}

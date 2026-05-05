@@ -1,0 +1,18 @@
+{
+    "base": "blackmailer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blackmailer",
+    "n2": "blackmailers",
+    "n3": "the blackmailer",
+    "n4": "the blackmailers",
+    "n5": "blackmailer's",
+    "n6": "blackmailers'",
+    "n7": "a blackmailer",
+    "n8": "many blackmailers"
+}

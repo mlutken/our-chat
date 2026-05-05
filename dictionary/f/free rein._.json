@@ -1,0 +1,18 @@
+{
+    "base": "free rein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "free rein",
+    "n2": "free reins",
+    "n3": "the free rein",
+    "n4": "the free reins",
+    "n5": "free rein's",
+    "n6": "free reins'",
+    "n7": "a free rein",
+    "n8": "many free reins"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "abscissa",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abscissa",
+    "n2": "abscissae",
+    "n3": "the abscissa",
+    "n4": "the abscissae",
+    "n5": "abscissa's",
+    "n6": "abscissae's",
+    "n7": "an abscissa",
+    "n8": "many abscissae"
+}

@@ -1,11 +1,24 @@
 {
     "base": "shout",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "shout",
     "v2": "shouted",
     "v3": "shouted",
     "v4": "shouting",
-    "v5": "shouts"
+    "v5": "shouts",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "shout",
+    "n2": "shouts",
+    "n3": "the shout",
+    "n4": "the shouts",
+    "n5": "shout's",
+    "n6": "shouts'",
+    "n7": "a shout",
+    "n8": "many shouts"
 }

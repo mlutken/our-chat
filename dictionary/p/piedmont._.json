@@ -1,0 +1,18 @@
+{
+    "base": "piedmont",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piedmont",
+    "n2": "piedmonts",
+    "n3": "the piedmont",
+    "n4": "the piedmonts",
+    "n5": "piedmont's",
+    "n6": "piedmonts'",
+    "n7": "a piedmont",
+    "n8": "many piedmonts"
+}

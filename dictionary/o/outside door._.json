@@ -1,0 +1,18 @@
+{
+    "base": "outside door",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "outside door",
+    "n2": "outside doors",
+    "n3": "the outside door",
+    "n4": "the outside doors",
+    "n5": "outside door's",
+    "n6": "outside doors'",
+    "n7": "an outside door",
+    "n8": "many outside doors"
+}

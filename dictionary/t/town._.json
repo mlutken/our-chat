@@ -7,5 +7,12 @@
     "n2": "towns",
     "n3": "the town",
     "n4": "the towns",
-    "n5": "town's"
+    "n5": "town's",
+    "proper": false,
+    "commonness": 79,
+    "max_commonness": 6834,
+    "commonness_ge_count": 169,
+    "n6": "towns'",
+    "n7": "a town",
+    "n8": "many towns"
 }

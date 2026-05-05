@@ -7,5 +7,12 @@
     "n2": "cheeks",
     "n3": "the cheek",
     "n4": "the cheeks",
-    "n5": "cheek's"
+    "n5": "cheek's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "cheeks'",
+    "n7": "a cheek",
+    "n8": "many cheeks"
 }

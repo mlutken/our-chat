@@ -1,0 +1,18 @@
+{
+    "base": "hollywood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "hollywood",
+    "n2": "hollywoods",
+    "n3": "the hollywood",
+    "n4": "the hollywoods",
+    "n5": "hollywood's",
+    "n6": "hollywoods'",
+    "n7": "a hollywood",
+    "n8": "many hollywoods"
+}

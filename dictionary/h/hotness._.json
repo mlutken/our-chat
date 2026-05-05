@@ -1,0 +1,18 @@
+{
+    "base": "hotness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hotness",
+    "n2": "hotnesses",
+    "n3": "the hotness",
+    "n4": "the hotnesses",
+    "n5": "hotness'",
+    "n6": "hotnesses'",
+    "n7": "a hotness",
+    "n8": "many hotnesses"
+}

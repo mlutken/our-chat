@@ -1,0 +1,18 @@
+{
+    "base": "benediction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "benediction",
+    "n2": "benedictions",
+    "n3": "the benediction",
+    "n4": "the benedictions",
+    "n5": "benediction's",
+    "n6": "benedictions'",
+    "n7": "a benediction",
+    "n8": "many benedictions"
+}

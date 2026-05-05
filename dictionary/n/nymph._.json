@@ -1,0 +1,18 @@
+{
+    "base": "nymph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nymph",
+    "n2": "nymphs",
+    "n3": "the nymph",
+    "n4": "the nymphs",
+    "n5": "nymph's",
+    "n6": "nymphs'",
+    "n7": "a nymph",
+    "n8": "many nymphs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sweatband",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sweatband",
+    "n2": "sweatbands",
+    "n3": "the sweatband",
+    "n4": "the sweatbands",
+    "n5": "sweatband's",
+    "n6": "sweatbands'",
+    "n7": "a sweatband",
+    "n8": "many sweatbands"
+}

@@ -7,5 +7,12 @@
     "n2": "explorations",
     "n3": "the exploration",
     "n4": "the explorations",
-    "n5": "exploration's"
+    "n5": "exploration's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "explorations'",
+    "n7": "an exploration",
+    "n8": "many explorations"
 }

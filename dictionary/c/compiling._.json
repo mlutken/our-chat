@@ -1,0 +1,18 @@
+{
+    "base": "compiling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "compiling",
+    "n2": "compilings",
+    "n3": "the compiling",
+    "n4": "the compilings",
+    "n5": "compiling's",
+    "n6": "compilings'",
+    "n7": "a compiling",
+    "n8": "many compilings"
+}

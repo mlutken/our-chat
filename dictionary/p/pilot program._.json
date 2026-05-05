@@ -1,0 +1,18 @@
+{
+    "base": "pilot program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pilot program",
+    "n2": "pilot programs",
+    "n3": "the pilot program",
+    "n4": "the pilot programs",
+    "n5": "pilot program's",
+    "n6": "pilot programs'",
+    "n7": "a pilot program",
+    "n8": "many pilot programs"
+}

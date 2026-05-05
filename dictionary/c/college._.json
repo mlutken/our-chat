@@ -7,5 +7,12 @@
     "n2": "colleges",
     "n3": "the college",
     "n4": "the colleges",
-    "n5": "college's"
+    "n5": "college's",
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n6": "colleges'",
+    "n7": "a college",
+    "n8": "many colleges"
 }

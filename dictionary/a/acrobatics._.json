@@ -1,0 +1,18 @@
+{
+    "base": "acrobatics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "acrobatics",
+    "n2": "acrobaticses",
+    "n3": "the acrobatics",
+    "n4": "the acrobaticses",
+    "n5": "acrobatics'",
+    "n6": "acrobaticses'",
+    "n7": "an acrobatics",
+    "n8": "many acrobaticses"
+}

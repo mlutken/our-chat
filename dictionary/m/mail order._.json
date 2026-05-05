@@ -1,0 +1,18 @@
+{
+    "base": "mail order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mail order",
+    "n2": "mail orders",
+    "n3": "the mail order",
+    "n4": "the mail orders",
+    "n5": "mail order's",
+    "n6": "mail orders'",
+    "n7": "a mail order",
+    "n8": "many mail orders"
+}

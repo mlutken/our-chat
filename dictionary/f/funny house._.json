@@ -1,0 +1,18 @@
+{
+    "base": "funny house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "funny house",
+    "n2": "funny houses",
+    "n3": "the funny house",
+    "n4": "the funny houses",
+    "n5": "funny house's",
+    "n6": "funny houses'",
+    "n7": "a funny house",
+    "n8": "many funny houses"
+}

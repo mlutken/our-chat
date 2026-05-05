@@ -1,0 +1,18 @@
+{
+    "base": "mast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "mast",
+    "n2": "masts",
+    "n3": "the mast",
+    "n4": "the masts",
+    "n5": "mast's",
+    "n6": "masts'",
+    "n7": "a mast",
+    "n8": "many masts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "group participation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "group participation",
+    "n2": "group participations",
+    "n3": "the group participation",
+    "n4": "the group participations",
+    "n5": "group participation's",
+    "n6": "group participations'",
+    "n7": "a group participation",
+    "n8": "many group participations"
+}

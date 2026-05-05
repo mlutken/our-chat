@@ -1,0 +1,18 @@
+{
+    "base": "flock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "flock",
+    "n2": "flocks",
+    "n3": "the flock",
+    "n4": "the flocks",
+    "n5": "flock's",
+    "n6": "flocks'",
+    "n7": "a flock",
+    "n8": "many flocks"
+}

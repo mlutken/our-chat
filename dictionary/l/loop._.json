@@ -1,0 +1,18 @@
+{
+    "base": "loop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "loop",
+    "n2": "loops",
+    "n3": "the loop",
+    "n4": "the loops",
+    "n5": "loop's",
+    "n6": "loops'",
+    "n7": "a loop",
+    "n8": "many loops"
+}

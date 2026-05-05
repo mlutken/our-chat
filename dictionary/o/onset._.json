@@ -1,0 +1,18 @@
+{
+    "base": "onset",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n1": "onset",
+    "n2": "onsets",
+    "n3": "the onset",
+    "n4": "the onsets",
+    "n5": "onset's",
+    "n6": "onsets'",
+    "n7": "an onset",
+    "n8": "many onsets"
+}

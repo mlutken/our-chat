@@ -1,0 +1,18 @@
+{
+    "base": "company operator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "company operator",
+    "n2": "company operators",
+    "n3": "the company operator",
+    "n4": "the company operators",
+    "n5": "company operator's",
+    "n6": "company operators'",
+    "n7": "a company operator",
+    "n8": "many company operators"
+}

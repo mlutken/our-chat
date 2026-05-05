@@ -1,0 +1,18 @@
+{
+    "base": "autonomy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "autonomy",
+    "n2": "autonomies",
+    "n3": "the autonomy",
+    "n4": "the autonomies",
+    "n5": "autonomy's",
+    "n6": "autonomies'",
+    "n7": "an autonomy",
+    "n8": "many autonomies"
+}

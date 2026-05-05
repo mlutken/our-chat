@@ -1,0 +1,18 @@
+{
+    "base": "petit dejeuner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "petit dejeuner",
+    "n2": "petit dejeuners",
+    "n3": "the petit dejeuner",
+    "n4": "the petit dejeuners",
+    "n5": "petit dejeuner's",
+    "n6": "petit dejeuners'",
+    "n7": "a petit dejeuner",
+    "n8": "many petit dejeuners"
+}

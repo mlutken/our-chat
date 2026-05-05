@@ -1,0 +1,18 @@
+{
+    "base": "pebble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "pebble",
+    "n2": "pebbles",
+    "n3": "the pebble",
+    "n4": "the pebbles",
+    "n5": "pebble's",
+    "n6": "pebbles'",
+    "n7": "a pebble",
+    "n8": "many pebbles"
+}

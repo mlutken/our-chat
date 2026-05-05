@@ -1,0 +1,18 @@
+{
+    "base": "fantasy life",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fantasy life",
+    "n2": "fantasy lives",
+    "n3": "the fantasy life",
+    "n4": "the fantasy lives",
+    "n5": "fantasy life's",
+    "n6": "fantasy lives'",
+    "n7": "a fantasy life",
+    "n8": "many fantasy lives"
+}

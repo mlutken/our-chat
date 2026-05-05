@@ -1,0 +1,18 @@
+{
+    "base": "applicability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "applicability",
+    "n2": "applicabilities",
+    "n3": "the applicability",
+    "n4": "the applicabilities",
+    "n5": "applicability's",
+    "n6": "applicabilities'",
+    "n7": "an applicability",
+    "n8": "many applicabilities"
+}

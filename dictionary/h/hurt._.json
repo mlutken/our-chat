@@ -1,0 +1,18 @@
+{
+    "base": "hurt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "hurt",
+    "n2": "hurts",
+    "n3": "the hurt",
+    "n4": "the hurts",
+    "n5": "hurt's",
+    "n6": "hurts'",
+    "n7": "a hurt",
+    "n8": "many hurts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bread dough",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bread dough",
+    "n2": "bread doughs",
+    "n3": "the bread dough",
+    "n4": "the bread doughs",
+    "n5": "bread dough's",
+    "n6": "bread doughs'",
+    "n7": "a bread dough",
+    "n8": "many bread doughs"
+}

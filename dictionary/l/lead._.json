@@ -1,11 +1,24 @@
 {
     "base": "lead",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "lead",
     "v2": "led",
     "v3": "led",
     "v4": "leading",
-    "v5": "leads"
+    "v5": "leads",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "lead",
+    "n2": "leads",
+    "n3": "the lead",
+    "n4": "the leads",
+    "n5": "lead's",
+    "n6": "leads'",
+    "n7": "a lead",
+    "n8": "many leads"
 }

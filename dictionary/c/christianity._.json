@@ -1,0 +1,18 @@
+{
+    "base": "christianity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "christianity",
+    "n2": "christianities",
+    "n3": "the christianity",
+    "n4": "the christianities",
+    "n5": "christianity's",
+    "n6": "christianities'",
+    "n7": "a christianity",
+    "n8": "many christianities"
+}

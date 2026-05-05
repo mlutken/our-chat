@@ -1,0 +1,18 @@
+{
+    "base": "connecticut",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "connecticut",
+    "n2": "connecticuts",
+    "n3": "the connecticut",
+    "n4": "the connecticuts",
+    "n5": "connecticut's",
+    "n6": "connecticuts'",
+    "n7": "a connecticut",
+    "n8": "many connecticuts"
+}

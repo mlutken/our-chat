@@ -7,5 +7,12 @@
     "n2": "transportations",
     "n3": "the transportation",
     "n4": "the transportations",
-    "n5": "transportation's"
+    "n5": "transportation's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "transportations'",
+    "n7": "a transportation",
+    "n8": "many transportations"
 }

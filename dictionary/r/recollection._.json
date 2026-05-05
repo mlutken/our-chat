@@ -1,0 +1,18 @@
+{
+    "base": "recollection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "recollection",
+    "n2": "recollections",
+    "n3": "the recollection",
+    "n4": "the recollections",
+    "n5": "recollection's",
+    "n6": "recollections'",
+    "n7": "a recollection",
+    "n8": "many recollections"
+}

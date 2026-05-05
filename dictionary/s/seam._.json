@@ -1,0 +1,18 @@
+{
+    "base": "seam",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seam",
+    "n2": "seams",
+    "n3": "the seam",
+    "n4": "the seams",
+    "n5": "seam's",
+    "n6": "seams'",
+    "n7": "a seam",
+    "n8": "many seams"
+}

@@ -7,5 +7,12 @@
     "n2": "rivers",
     "n3": "the river",
     "n4": "the rivers",
-    "n5": "river's"
+    "n5": "river's",
+    "proper": true,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n6": "rivers'",
+    "n7": "a river",
+    "n8": "many rivers"
 }

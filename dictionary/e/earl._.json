@@ -1,0 +1,18 @@
+{
+    "base": "earl",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "earl",
+    "n2": "earls",
+    "n3": "the earl",
+    "n4": "the earls",
+    "n5": "earl's",
+    "n6": "earls'",
+    "n7": "an earl",
+    "n8": "many earls"
+}

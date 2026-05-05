@@ -1,0 +1,18 @@
+{
+    "base": "anaesthesia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anaesthesia",
+    "n2": "anaesthesias",
+    "n3": "the anaesthesia",
+    "n4": "the anaesthesias",
+    "n5": "anaesthesia's",
+    "n6": "anaesthesias'",
+    "n7": "an anaesthesia",
+    "n8": "many anaesthesias"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bat",
+    "n2": "bats",
+    "n3": "the bat",
+    "n4": "the bats",
+    "n5": "bat's",
+    "n6": "bats'",
+    "n7": "a bat",
+    "n8": "many bats"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "make-work",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "make-work",
+    "n2": "make-works",
+    "n3": "the make-work",
+    "n4": "the make-works",
+    "n5": "make-work's",
+    "n6": "make-works'",
+    "n7": "a make-work",
+    "n8": "many make-works"
+}

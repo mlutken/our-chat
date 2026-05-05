@@ -1,0 +1,18 @@
+{
+    "base": "window-washing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "window-washing",
+    "n2": "window-washings",
+    "n3": "the window-washing",
+    "n4": "the window-washings",
+    "n5": "window-washing's",
+    "n6": "window-washings'",
+    "n7": "a window-washing",
+    "n8": "many window-washings"
+}

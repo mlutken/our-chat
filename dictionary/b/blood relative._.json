@@ -1,0 +1,18 @@
+{
+    "base": "blood relative",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blood relative",
+    "n2": "blood relatives",
+    "n3": "the blood relative",
+    "n4": "the blood relatives",
+    "n5": "blood relative's",
+    "n6": "blood relatives'",
+    "n7": "a blood relative",
+    "n8": "many blood relatives"
+}

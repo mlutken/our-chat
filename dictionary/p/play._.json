@@ -1,11 +1,24 @@
 {
     "base": "play",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "play",
     "v2": "played",
     "v3": "played",
     "v4": "playing",
-    "v5": "plays"
+    "v5": "plays",
+    "proper": false,
+    "commonness": 61,
+    "max_commonness": 6834,
+    "commonness_ge_count": 253,
+    "n1": "play",
+    "n2": "plays",
+    "n3": "the play",
+    "n4": "the plays",
+    "n5": "play's",
+    "n6": "plays'",
+    "n7": "a play",
+    "n8": "many plays"
 }

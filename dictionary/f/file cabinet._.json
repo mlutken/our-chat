@@ -1,0 +1,18 @@
+{
+    "base": "file cabinet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "file cabinet",
+    "n2": "file cabinets",
+    "n3": "the file cabinet",
+    "n4": "the file cabinets",
+    "n5": "file cabinet's",
+    "n6": "file cabinets'",
+    "n7": "a file cabinet",
+    "n8": "many file cabinets"
+}

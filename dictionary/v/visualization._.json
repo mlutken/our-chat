@@ -1,0 +1,18 @@
+{
+    "base": "visualization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "visualization",
+    "n2": "visualizations",
+    "n3": "the visualization",
+    "n4": "the visualizations",
+    "n5": "visualization's",
+    "n6": "visualizations'",
+    "n7": "a visualization",
+    "n8": "many visualizations"
+}

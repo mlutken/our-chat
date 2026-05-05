@@ -1,0 +1,18 @@
+{
+    "base": "footbridge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "footbridge",
+    "n2": "footbridges",
+    "n3": "the footbridge",
+    "n4": "the footbridges",
+    "n5": "footbridge's",
+    "n6": "footbridges'",
+    "n7": "a footbridge",
+    "n8": "many footbridges"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shutter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "shutter",
+    "n2": "shutters",
+    "n3": "the shutter",
+    "n4": "the shutters",
+    "n5": "shutter's",
+    "n6": "shutters'",
+    "n7": "a shutter",
+    "n8": "many shutters"
+}

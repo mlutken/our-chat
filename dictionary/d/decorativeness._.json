@@ -1,0 +1,18 @@
+{
+    "base": "decorativeness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "decorativeness",
+    "n2": "decorativenesses",
+    "n3": "the decorativeness",
+    "n4": "the decorativenesses",
+    "n5": "decorativeness'",
+    "n6": "decorativenesses'",
+    "n7": "a decorativeness",
+    "n8": "many decorativenesses"
+}

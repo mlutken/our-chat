@@ -1,0 +1,18 @@
+{
+    "base": "sweatshirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sweatshirt",
+    "n2": "sweatshirts",
+    "n3": "the sweatshirt",
+    "n4": "the sweatshirts",
+    "n5": "sweatshirt's",
+    "n6": "sweatshirts'",
+    "n7": "a sweatshirt",
+    "n8": "many sweatshirts"
+}

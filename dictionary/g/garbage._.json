@@ -7,5 +7,12 @@
     "n2": "garbages",
     "n3": "the garbage",
     "n4": "the garbages",
-    "n5": "garbage's"
+    "n5": "garbage's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "garbages'",
+    "n7": "a garbage",
+    "n8": "many garbages"
 }

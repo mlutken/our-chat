@@ -1,0 +1,18 @@
+{
+    "base": "block capital",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "block capital",
+    "n2": "block capitals",
+    "n3": "the block capital",
+    "n4": "the block capitals",
+    "n5": "block capital's",
+    "n6": "block capitals'",
+    "n7": "a block capital",
+    "n8": "many block capitals"
+}

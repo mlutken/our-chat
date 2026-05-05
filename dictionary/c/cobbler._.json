@@ -1,0 +1,18 @@
+{
+    "base": "cobbler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cobbler",
+    "n2": "cobblers",
+    "n3": "the cobbler",
+    "n4": "the cobblers",
+    "n5": "cobbler's",
+    "n6": "cobblers'",
+    "n7": "a cobbler",
+    "n8": "many cobblers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "trade school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trade school",
+    "n2": "trade schools",
+    "n3": "the trade school",
+    "n4": "the trade schools",
+    "n5": "trade school's",
+    "n6": "trade schools'",
+    "n7": "a trade school",
+    "n8": "many trade schools"
+}

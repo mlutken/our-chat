@@ -1,0 +1,18 @@
+{
+    "base": "milliampere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "milliampere",
+    "n2": "milliamperes",
+    "n3": "the milliampere",
+    "n4": "the milliamperes",
+    "n5": "milliampere's",
+    "n6": "milliamperes'",
+    "n7": "a milliampere",
+    "n8": "many milliamperes"
+}

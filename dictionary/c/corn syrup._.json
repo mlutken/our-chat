@@ -1,0 +1,18 @@
+{
+    "base": "corn syrup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corn syrup",
+    "n2": "corn syrups",
+    "n3": "the corn syrup",
+    "n4": "the corn syrups",
+    "n5": "corn syrup's",
+    "n6": "corn syrups'",
+    "n7": "a corn syrup",
+    "n8": "many corn syrups"
+}

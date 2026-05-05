@@ -1,0 +1,18 @@
+{
+    "base": "odds",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "odds",
+    "n2": "oddses",
+    "n3": "the odds",
+    "n4": "the oddses",
+    "n5": "odds'",
+    "n6": "oddses'",
+    "n7": "an odds",
+    "n8": "many oddses"
+}

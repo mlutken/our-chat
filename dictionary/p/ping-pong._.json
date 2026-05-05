@@ -1,0 +1,18 @@
+{
+    "base": "ping-pong",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ping-pong",
+    "n2": "ping-pongs",
+    "n3": "the ping-pong",
+    "n4": "the ping-pongs",
+    "n5": "ping-pong's",
+    "n6": "ping-pongs'",
+    "n7": "a ping-pong",
+    "n8": "many ping-pongs"
+}

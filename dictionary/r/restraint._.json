@@ -1,0 +1,18 @@
+{
+    "base": "restraint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "restraint",
+    "n2": "restraints",
+    "n3": "the restraint",
+    "n4": "the restraints",
+    "n5": "restraint's",
+    "n6": "restraints'",
+    "n7": "a restraint",
+    "n8": "many restraints"
+}

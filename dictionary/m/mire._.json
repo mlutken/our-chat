@@ -1,0 +1,18 @@
+{
+    "base": "mire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mire",
+    "n2": "mires",
+    "n3": "the mire",
+    "n4": "the mires",
+    "n5": "mire's",
+    "n6": "mires'",
+    "n7": "a mire",
+    "n8": "many mires"
+}

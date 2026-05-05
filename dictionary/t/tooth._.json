@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "tooth",
-    "n2": "tooths",
+    "n2": "teeth",
     "n3": "the tooth",
-    "n4": "the tooths",
-    "n5": "tooth's"
+    "n4": "the teeth",
+    "n5": "tooth's",
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n6": "teeth's",
+    "n7": "a tooth",
+    "n8": "many teeth"
 }

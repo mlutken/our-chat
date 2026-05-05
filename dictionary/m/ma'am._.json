@@ -1,0 +1,18 @@
+{
+    "base": "ma'am",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ma'am",
+    "n2": "ma'ams",
+    "n3": "the ma'am",
+    "n4": "the ma'ams",
+    "n5": "ma'am's",
+    "n6": "ma'ams'",
+    "n7": "a ma'am",
+    "n8": "many ma'ams"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "nightshirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nightshirt",
+    "n2": "nightshirts",
+    "n3": "the nightshirt",
+    "n4": "the nightshirts",
+    "n5": "nightshirt's",
+    "n6": "nightshirts'",
+    "n7": "a nightshirt",
+    "n8": "many nightshirts"
+}

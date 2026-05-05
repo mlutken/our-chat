@@ -1,0 +1,18 @@
+{
+    "base": "capacitor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "capacitor",
+    "n2": "capacitors",
+    "n3": "the capacitor",
+    "n4": "the capacitors",
+    "n5": "capacitor's",
+    "n6": "capacitors'",
+    "n7": "a capacitor",
+    "n8": "many capacitors"
+}

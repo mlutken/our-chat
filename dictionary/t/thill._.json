@@ -1,0 +1,18 @@
+{
+    "base": "thill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thill",
+    "n2": "thills",
+    "n3": "the thill",
+    "n4": "the thills",
+    "n5": "thill's",
+    "n6": "thills'",
+    "n7": "a thill",
+    "n8": "many thills"
+}

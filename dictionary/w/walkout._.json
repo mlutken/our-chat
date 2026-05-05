@@ -1,0 +1,18 @@
+{
+    "base": "walkout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "walkout",
+    "n2": "walkouts",
+    "n3": "the walkout",
+    "n4": "the walkouts",
+    "n5": "walkout's",
+    "n6": "walkouts'",
+    "n7": "a walkout",
+    "n8": "many walkouts"
+}

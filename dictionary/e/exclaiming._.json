@@ -1,0 +1,18 @@
+{
+    "base": "exclaiming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exclaiming",
+    "n2": "exclaimings",
+    "n3": "the exclaiming",
+    "n4": "the exclaimings",
+    "n5": "exclaiming's",
+    "n6": "exclaimings'",
+    "n7": "an exclaiming",
+    "n8": "many exclaimings"
+}

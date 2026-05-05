@@ -1,0 +1,18 @@
+{
+    "base": "citrus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "citrus",
+    "n2": "citruses",
+    "n3": "the citrus",
+    "n4": "the citruses",
+    "n5": "citrus'",
+    "n6": "citruses'",
+    "n7": "a citrus",
+    "n8": "many citruses"
+}

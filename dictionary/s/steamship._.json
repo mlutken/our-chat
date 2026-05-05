@@ -1,0 +1,18 @@
+{
+    "base": "steamship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steamship",
+    "n2": "steamships",
+    "n3": "the steamship",
+    "n4": "the steamships",
+    "n5": "steamship's",
+    "n6": "steamships'",
+    "n7": "a steamship",
+    "n8": "many steamships"
+}

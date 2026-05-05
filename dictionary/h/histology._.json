@@ -1,0 +1,18 @@
+{
+    "base": "histology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "histology",
+    "n2": "histologies",
+    "n3": "the histology",
+    "n4": "the histologies",
+    "n5": "histology's",
+    "n6": "histologies'",
+    "n7": "a histology",
+    "n8": "many histologies"
+}

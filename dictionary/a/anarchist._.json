@@ -1,0 +1,18 @@
+{
+    "base": "anarchist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anarchist",
+    "n2": "anarchists",
+    "n3": "the anarchist",
+    "n4": "the anarchists",
+    "n5": "anarchist's",
+    "n6": "anarchists'",
+    "n7": "an anarchist",
+    "n8": "many anarchists"
+}

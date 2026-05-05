@@ -1,0 +1,18 @@
+{
+    "base": "motor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "motor",
+    "n2": "motors",
+    "n3": "the motor",
+    "n4": "the motors",
+    "n5": "motor's",
+    "n6": "motors'",
+    "n7": "a motor",
+    "n8": "many motors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lair",
+    "n2": "lairs",
+    "n3": "the lair",
+    "n4": "the lairs",
+    "n5": "lair's",
+    "n6": "lairs'",
+    "n7": "a lair",
+    "n8": "many lairs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "utah",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "utah",
+    "n2": "utahs",
+    "n3": "the utah",
+    "n4": "the utahs",
+    "n5": "utah's",
+    "n6": "utahs'",
+    "n7": "an utah",
+    "n8": "many utahs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "batwing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "batwing",
+    "n2": "batwings",
+    "n3": "the batwing",
+    "n4": "the batwings",
+    "n5": "batwing's",
+    "n6": "batwings'",
+    "n7": "a batwing",
+    "n8": "many batwings"
+}

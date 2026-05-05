@@ -1,0 +1,18 @@
+{
+    "base": "ocher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ocher",
+    "n2": "ochers",
+    "n3": "the ocher",
+    "n4": "the ochers",
+    "n5": "ocher's",
+    "n6": "ochers'",
+    "n7": "an ocher",
+    "n8": "many ochers"
+}

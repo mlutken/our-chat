@@ -1,0 +1,18 @@
+{
+    "base": "holy scripture",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holy scripture",
+    "n2": "holy scriptures",
+    "n3": "the holy scripture",
+    "n4": "the holy scriptures",
+    "n5": "holy scripture's",
+    "n6": "holy scriptures'",
+    "n7": "a holy scripture",
+    "n8": "many holy scriptures"
+}

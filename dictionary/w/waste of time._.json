@@ -1,0 +1,18 @@
+{
+    "base": "waste of time",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waste of time",
+    "n2": "waste of times",
+    "n3": "the waste of time",
+    "n4": "the waste of times",
+    "n5": "waste of time's",
+    "n6": "waste of times'",
+    "n7": "a waste of time",
+    "n8": "many waste of times"
+}

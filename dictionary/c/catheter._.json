@@ -1,0 +1,18 @@
+{
+    "base": "catheter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "catheter",
+    "n2": "catheters",
+    "n3": "the catheter",
+    "n4": "the catheters",
+    "n5": "catheter's",
+    "n6": "catheters'",
+    "n7": "a catheter",
+    "n8": "many catheters"
+}

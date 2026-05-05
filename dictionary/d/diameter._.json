@@ -1,0 +1,18 @@
+{
+    "base": "diameter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "diameter",
+    "n2": "diameters",
+    "n3": "the diameter",
+    "n4": "the diameters",
+    "n5": "diameter's",
+    "n6": "diameters'",
+    "n7": "a diameter",
+    "n8": "many diameters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "alabamian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alabamian",
+    "n2": "alabamians",
+    "n3": "the alabamian",
+    "n4": "the alabamians",
+    "n5": "alabamian's",
+    "n6": "alabamians'",
+    "n7": "an alabamian",
+    "n8": "many alabamians"
+}

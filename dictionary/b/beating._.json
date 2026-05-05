@@ -1,0 +1,18 @@
+{
+    "base": "beating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beating",
+    "n2": "beatings",
+    "n3": "the beating",
+    "n4": "the beatings",
+    "n5": "beating's",
+    "n6": "beatings'",
+    "n7": "a beating",
+    "n8": "many beatings"
+}

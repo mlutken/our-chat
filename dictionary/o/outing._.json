@@ -1,0 +1,18 @@
+{
+    "base": "outing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "outing",
+    "n2": "outings",
+    "n3": "the outing",
+    "n4": "the outings",
+    "n5": "outing's",
+    "n6": "outings'",
+    "n7": "an outing",
+    "n8": "many outings"
+}

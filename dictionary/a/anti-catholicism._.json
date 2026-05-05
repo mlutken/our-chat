@@ -1,0 +1,18 @@
+{
+    "base": "anti-catholicism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anti-catholicism",
+    "n2": "anti-catholicisms",
+    "n3": "the anti-catholicism",
+    "n4": "the anti-catholicisms",
+    "n5": "anti-catholicism's",
+    "n6": "anti-catholicisms'",
+    "n7": "an anti-catholicism",
+    "n8": "many anti-catholicisms"
+}

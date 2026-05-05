@@ -1,0 +1,18 @@
+{
+    "base": "fidelity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fidelity",
+    "n2": "fidelities",
+    "n3": "the fidelity",
+    "n4": "the fidelities",
+    "n5": "fidelity's",
+    "n6": "fidelities'",
+    "n7": "a fidelity",
+    "n8": "many fidelities"
+}

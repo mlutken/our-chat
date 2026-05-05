@@ -1,0 +1,18 @@
+{
+    "base": "tutorial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tutorial",
+    "n2": "tutorials",
+    "n3": "the tutorial",
+    "n4": "the tutorials",
+    "n5": "tutorial's",
+    "n6": "tutorials'",
+    "n7": "a tutorial",
+    "n8": "many tutorials"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "perfect gas",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "perfect gas",
+    "n2": "perfect gases",
+    "n3": "the perfect gas",
+    "n4": "the perfect gases",
+    "n5": "perfect gas'",
+    "n6": "perfect gases'",
+    "n7": "a perfect gas",
+    "n8": "many perfect gases"
+}

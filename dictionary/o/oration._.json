@@ -1,0 +1,18 @@
+{
+    "base": "oration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oration",
+    "n2": "orations",
+    "n3": "the oration",
+    "n4": "the orations",
+    "n5": "oration's",
+    "n6": "orations'",
+    "n7": "an oration",
+    "n8": "many orations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "posture",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "posture",
+    "n2": "postures",
+    "n3": "the posture",
+    "n4": "the postures",
+    "n5": "posture's",
+    "n6": "postures'",
+    "n7": "a posture",
+    "n8": "many postures"
+}

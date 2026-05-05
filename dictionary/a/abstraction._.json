@@ -1,0 +1,18 @@
+{
+    "base": "abstraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "abstraction",
+    "n2": "abstractions",
+    "n3": "the abstraction",
+    "n4": "the abstractions",
+    "n5": "abstraction's",
+    "n6": "abstractions'",
+    "n7": "an abstraction",
+    "n8": "many abstractions"
+}

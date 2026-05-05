@@ -1,0 +1,18 @@
+{
+    "base": "election day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "election day",
+    "n2": "election days",
+    "n3": "the election day",
+    "n4": "the election days",
+    "n5": "election day's",
+    "n6": "election days'",
+    "n7": "an election day",
+    "n8": "many election days"
+}

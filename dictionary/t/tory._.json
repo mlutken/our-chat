@@ -1,0 +1,18 @@
+{
+    "base": "tory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tory",
+    "n2": "tories",
+    "n3": "the tory",
+    "n4": "the tories",
+    "n5": "tory's",
+    "n6": "tories'",
+    "n7": "a tory",
+    "n8": "many tories"
+}

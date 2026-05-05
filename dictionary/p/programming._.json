@@ -1,0 +1,18 @@
+{
+    "base": "programming",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "programming",
+    "n2": "programmings",
+    "n3": "the programming",
+    "n4": "the programmings",
+    "n5": "programming's",
+    "n6": "programmings'",
+    "n7": "a programming",
+    "n8": "many programmings"
+}

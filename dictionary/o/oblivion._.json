@@ -1,0 +1,18 @@
+{
+    "base": "oblivion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oblivion",
+    "n2": "oblivions",
+    "n3": "the oblivion",
+    "n4": "the oblivions",
+    "n5": "oblivion's",
+    "n6": "oblivions'",
+    "n7": "an oblivion",
+    "n8": "many oblivions"
+}

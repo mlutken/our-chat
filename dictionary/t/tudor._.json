@@ -1,0 +1,18 @@
+{
+    "base": "tudor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tudor",
+    "n2": "tudors",
+    "n3": "the tudor",
+    "n4": "the tudors",
+    "n5": "tudor's",
+    "n6": "tudors'",
+    "n7": "a tudor",
+    "n8": "many tudors"
+}

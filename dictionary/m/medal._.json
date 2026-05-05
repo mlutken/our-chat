@@ -1,0 +1,18 @@
+{
+    "base": "medal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "medal",
+    "n2": "medals",
+    "n3": "the medal",
+    "n4": "the medals",
+    "n5": "medal's",
+    "n6": "medals'",
+    "n7": "a medal",
+    "n8": "many medals"
+}

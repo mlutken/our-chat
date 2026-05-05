@@ -1,0 +1,18 @@
+{
+    "base": "pigskin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pigskin",
+    "n2": "pigskins",
+    "n3": "the pigskin",
+    "n4": "the pigskins",
+    "n5": "pigskin's",
+    "n6": "pigskins'",
+    "n7": "a pigskin",
+    "n8": "many pigskins"
+}

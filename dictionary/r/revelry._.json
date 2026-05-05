@@ -1,0 +1,18 @@
+{
+    "base": "revelry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "revelry",
+    "n2": "revelries",
+    "n3": "the revelry",
+    "n4": "the revelries",
+    "n5": "revelry's",
+    "n6": "revelries'",
+    "n7": "a revelry",
+    "n8": "many revelries"
+}

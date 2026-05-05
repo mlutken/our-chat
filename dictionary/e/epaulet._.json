@@ -1,0 +1,18 @@
+{
+    "base": "epaulet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epaulet",
+    "n2": "epaulets",
+    "n3": "the epaulet",
+    "n4": "the epaulets",
+    "n5": "epaulet's",
+    "n6": "epaulets'",
+    "n7": "an epaulet",
+    "n8": "many epaulets"
+}

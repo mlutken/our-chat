@@ -1,0 +1,18 @@
+{
+    "base": "convent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "convent",
+    "n2": "convents",
+    "n3": "the convent",
+    "n4": "the convents",
+    "n5": "convent's",
+    "n6": "convents'",
+    "n7": "a convent",
+    "n8": "many convents"
+}

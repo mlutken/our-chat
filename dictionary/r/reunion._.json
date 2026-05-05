@@ -1,0 +1,18 @@
+{
+    "base": "reunion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "reunion",
+    "n2": "reunions",
+    "n3": "the reunion",
+    "n4": "the reunions",
+    "n5": "reunion's",
+    "n6": "reunions'",
+    "n7": "a reunion",
+    "n8": "many reunions"
+}

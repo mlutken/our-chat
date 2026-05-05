@@ -1,0 +1,18 @@
+{
+    "base": "leather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "leather",
+    "n2": "leathers",
+    "n3": "the leather",
+    "n4": "the leathers",
+    "n5": "leather's",
+    "n6": "leathers'",
+    "n7": "a leather",
+    "n8": "many leathers"
+}

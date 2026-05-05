@@ -1,0 +1,18 @@
+{
+    "base": "publicist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "publicist",
+    "n2": "publicists",
+    "n3": "the publicist",
+    "n4": "the publicists",
+    "n5": "publicist's",
+    "n6": "publicists'",
+    "n7": "a publicist",
+    "n8": "many publicists"
+}

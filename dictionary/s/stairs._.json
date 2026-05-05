@@ -1,0 +1,18 @@
+{
+    "base": "stairs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "stairs",
+    "n2": "stairses",
+    "n3": "the stairs",
+    "n4": "the stairses",
+    "n5": "stairs'",
+    "n6": "stairses'",
+    "n7": "a stairs",
+    "n8": "many stairses"
+}

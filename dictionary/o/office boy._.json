@@ -1,0 +1,18 @@
+{
+    "base": "office boy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "office boy",
+    "n2": "office boys",
+    "n3": "the office boy",
+    "n4": "the office boys",
+    "n5": "office boy's",
+    "n6": "office boys'",
+    "n7": "an office boy",
+    "n8": "many office boys"
+}

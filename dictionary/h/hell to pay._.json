@@ -1,0 +1,18 @@
+{
+    "base": "hell to pay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hell to pay",
+    "n2": "hell to pays",
+    "n3": "the hell to pay",
+    "n4": "the hell to pays",
+    "n5": "hell to pay's",
+    "n6": "hell to pays'",
+    "n7": "a hell to pay",
+    "n8": "many hell to pays"
+}

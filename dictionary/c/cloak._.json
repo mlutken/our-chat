@@ -1,0 +1,18 @@
+{
+    "base": "cloak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cloak",
+    "n2": "cloaks",
+    "n3": "the cloak",
+    "n4": "the cloaks",
+    "n5": "cloak's",
+    "n6": "cloaks'",
+    "n7": "a cloak",
+    "n8": "many cloaks"
+}

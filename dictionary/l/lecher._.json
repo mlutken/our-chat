@@ -1,0 +1,18 @@
+{
+    "base": "lecher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lecher",
+    "n2": "lechers",
+    "n3": "the lecher",
+    "n4": "the lechers",
+    "n5": "lecher's",
+    "n6": "lechers'",
+    "n7": "a lecher",
+    "n8": "many lechers"
+}

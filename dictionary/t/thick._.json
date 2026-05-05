@@ -1,9 +1,22 @@
 {
     "base": "thick",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "thick",
     "adj2": "thicker",
-    "adj3": "thickest"
+    "adj3": "thickest",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thick",
+    "n2": "thicks",
+    "n3": "the thick",
+    "n4": "the thicks",
+    "n5": "thick's",
+    "n6": "thicks'",
+    "n7": "a thick",
+    "n8": "many thicks"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "the shits",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "the shits",
+    "n2": "the shitses",
+    "n3": "the the shits",
+    "n4": "the the shitses",
+    "n5": "the shits'",
+    "n6": "the shitses'",
+    "n7": "a the shits",
+    "n8": "many the shitses"
+}

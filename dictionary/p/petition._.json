@@ -1,0 +1,18 @@
+{
+    "base": "petition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "petition",
+    "n2": "petitions",
+    "n3": "the petition",
+    "n4": "the petitions",
+    "n5": "petition's",
+    "n6": "petitions'",
+    "n7": "a petition",
+    "n8": "many petitions"
+}

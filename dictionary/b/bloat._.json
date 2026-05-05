@@ -1,0 +1,18 @@
+{
+    "base": "bloat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bloat",
+    "n2": "bloats",
+    "n3": "the bloat",
+    "n4": "the bloats",
+    "n5": "bloat's",
+    "n6": "bloats'",
+    "n7": "a bloat",
+    "n8": "many bloats"
+}

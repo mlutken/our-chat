@@ -1,0 +1,18 @@
+{
+    "base": "unambiguity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unambiguity",
+    "n2": "unambiguities",
+    "n3": "the unambiguity",
+    "n4": "the unambiguities",
+    "n5": "unambiguity's",
+    "n6": "unambiguities'",
+    "n7": "an unambiguity",
+    "n8": "many unambiguities"
+}

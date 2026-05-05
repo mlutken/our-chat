@@ -1,0 +1,18 @@
+{
+    "base": "sheet music",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sheet music",
+    "n2": "sheet musics",
+    "n3": "the sheet music",
+    "n4": "the sheet musics",
+    "n5": "sheet music's",
+    "n6": "sheet musics'",
+    "n7": "a sheet music",
+    "n8": "many sheet musics"
+}

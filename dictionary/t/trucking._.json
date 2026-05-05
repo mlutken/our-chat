@@ -1,0 +1,18 @@
+{
+    "base": "trucking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trucking",
+    "n2": "truckings",
+    "n3": "the trucking",
+    "n4": "the truckings",
+    "n5": "trucking's",
+    "n6": "truckings'",
+    "n7": "a trucking",
+    "n8": "many truckings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "beak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "beak",
+    "n2": "beaks",
+    "n3": "the beak",
+    "n4": "the beaks",
+    "n5": "beak's",
+    "n6": "beaks'",
+    "n7": "a beak",
+    "n8": "many beaks"
+}

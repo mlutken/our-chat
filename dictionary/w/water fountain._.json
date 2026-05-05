@@ -1,0 +1,18 @@
+{
+    "base": "water fountain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water fountain",
+    "n2": "water fountains",
+    "n3": "the water fountain",
+    "n4": "the water fountains",
+    "n5": "water fountain's",
+    "n6": "water fountains'",
+    "n7": "a water fountain",
+    "n8": "many water fountains"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "objet d'art",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "objet d'art",
+    "n2": "objets d'art",
+    "n3": "the objet d'art",
+    "n4": "the objets d'art",
+    "n5": "objet d'art's",
+    "n6": "objets d'art's",
+    "n7": "an objet d'art",
+    "n8": "many objets d'art"
+}

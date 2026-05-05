@@ -1,0 +1,18 @@
+{
+    "base": "earnest",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "earnest",
+    "n2": "earnests",
+    "n3": "the earnest",
+    "n4": "the earnests",
+    "n5": "earnest's",
+    "n6": "earnests'",
+    "n7": "an earnest",
+    "n8": "many earnests"
+}

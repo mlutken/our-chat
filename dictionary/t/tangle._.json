@@ -1,0 +1,18 @@
+{
+    "base": "tangle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "tangle",
+    "n2": "tangles",
+    "n3": "the tangle",
+    "n4": "the tangles",
+    "n5": "tangle's",
+    "n6": "tangles'",
+    "n7": "a tangle",
+    "n8": "many tangles"
+}

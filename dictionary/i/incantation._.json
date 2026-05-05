@@ -1,0 +1,18 @@
+{
+    "base": "incantation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incantation",
+    "n2": "incantations",
+    "n3": "the incantation",
+    "n4": "the incantations",
+    "n5": "incantation's",
+    "n6": "incantations'",
+    "n7": "an incantation",
+    "n8": "many incantations"
+}

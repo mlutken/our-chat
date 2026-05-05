@@ -1,0 +1,18 @@
+{
+    "base": "voltaic cell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voltaic cell",
+    "n2": "voltaic cells",
+    "n3": "the voltaic cell",
+    "n4": "the voltaic cells",
+    "n5": "voltaic cell's",
+    "n6": "voltaic cells'",
+    "n7": "a voltaic cell",
+    "n8": "many voltaic cells"
+}

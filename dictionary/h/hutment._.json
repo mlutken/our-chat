@@ -1,0 +1,18 @@
+{
+    "base": "hutment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hutment",
+    "n2": "hutments",
+    "n3": "the hutment",
+    "n4": "the hutments",
+    "n5": "hutment's",
+    "n6": "hutments'",
+    "n7": "a hutment",
+    "n8": "many hutments"
+}

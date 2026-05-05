@@ -1,0 +1,18 @@
+{
+    "base": "writing paper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "writing paper",
+    "n2": "writing papers",
+    "n3": "the writing paper",
+    "n4": "the writing papers",
+    "n5": "writing paper's",
+    "n6": "writing papers'",
+    "n7": "a writing paper",
+    "n8": "many writing papers"
+}

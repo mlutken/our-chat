@@ -7,5 +7,12 @@
     "n2": "hearts",
     "n3": "the heart",
     "n4": "the hearts",
-    "n5": "heart's"
+    "n5": "heart's",
+    "proper": false,
+    "commonness": 84,
+    "max_commonness": 6834,
+    "commonness_ge_count": 150,
+    "n6": "hearts'",
+    "n7": "a heart",
+    "n8": "many hearts"
 }

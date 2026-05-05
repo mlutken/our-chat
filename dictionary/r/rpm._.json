@@ -1,0 +1,18 @@
+{
+    "base": "rpm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rpm",
+    "n2": "rpms",
+    "n3": "the rpm",
+    "n4": "the rpms",
+    "n5": "rpm's",
+    "n6": "rpms'",
+    "n7": "a rpm",
+    "n8": "many rpms"
+}

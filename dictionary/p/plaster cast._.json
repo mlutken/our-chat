@@ -1,0 +1,18 @@
+{
+    "base": "plaster cast",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "plaster cast",
+    "n2": "plaster casts",
+    "n3": "the plaster cast",
+    "n4": "the plaster casts",
+    "n5": "plaster cast's",
+    "n6": "plaster casts'",
+    "n7": "a plaster cast",
+    "n8": "many plaster casts"
+}

@@ -7,5 +7,12 @@
     "n2": "desks",
     "n3": "the desk",
     "n4": "the desks",
-    "n5": "desk's"
+    "n5": "desk's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "desks'",
+    "n7": "a desk",
+    "n8": "many desks"
 }

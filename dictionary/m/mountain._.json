@@ -1,0 +1,18 @@
+{
+    "base": "mountain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "mountain",
+    "n2": "mountains",
+    "n3": "the mountain",
+    "n4": "the mountains",
+    "n5": "mountain's",
+    "n6": "mountains'",
+    "n7": "a mountain",
+    "n8": "many mountains"
+}

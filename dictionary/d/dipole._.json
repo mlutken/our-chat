@@ -1,0 +1,18 @@
+{
+    "base": "dipole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dipole",
+    "n2": "dipoles",
+    "n3": "the dipole",
+    "n4": "the dipoles",
+    "n5": "dipole's",
+    "n6": "dipoles'",
+    "n7": "a dipole",
+    "n8": "many dipoles"
+}

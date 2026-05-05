@@ -1,11 +1,24 @@
 {
     "base": "pine",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pine",
     "v2": "pined",
     "v3": "pined",
     "v4": "pining",
-    "v5": "pines"
+    "v5": "pines",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pine",
+    "n2": "pines",
+    "n3": "the pine",
+    "n4": "the pines",
+    "n5": "pine's",
+    "n6": "pines'",
+    "n7": "a pine",
+    "n8": "many pines"
 }

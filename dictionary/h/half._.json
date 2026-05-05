@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "half",
-    "n2": "halfs",
+    "n2": "halves",
     "n3": "the half",
-    "n4": "the halfs",
-    "n5": "half's"
+    "n4": "the halves",
+    "n5": "half's",
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n6": "halves'",
+    "n7": "a half",
+    "n8": "many halves"
 }

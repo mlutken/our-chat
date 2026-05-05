@@ -1,0 +1,18 @@
+{
+    "base": "hell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "hell",
+    "n2": "hells",
+    "n3": "the hell",
+    "n4": "the hells",
+    "n5": "hell's",
+    "n6": "hells'",
+    "n7": "a hell",
+    "n8": "many hells"
+}

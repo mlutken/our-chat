@@ -1,0 +1,18 @@
+{
+    "base": "seed grain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seed grain",
+    "n2": "seed grains",
+    "n3": "the seed grain",
+    "n4": "the seed grains",
+    "n5": "seed grain's",
+    "n6": "seed grains'",
+    "n7": "a seed grain",
+    "n8": "many seed grains"
+}

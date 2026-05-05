@@ -1,0 +1,18 @@
+{
+    "base": "unfolding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unfolding",
+    "n2": "unfoldings",
+    "n3": "the unfolding",
+    "n4": "the unfoldings",
+    "n5": "unfolding's",
+    "n6": "unfoldings'",
+    "n7": "an unfolding",
+    "n8": "many unfoldings"
+}

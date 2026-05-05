@@ -1,0 +1,18 @@
+{
+    "base": "cross section",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "cross section",
+    "n2": "cross sections",
+    "n3": "the cross section",
+    "n4": "the cross sections",
+    "n5": "cross section's",
+    "n6": "cross sections'",
+    "n7": "a cross section",
+    "n8": "many cross sections"
+}

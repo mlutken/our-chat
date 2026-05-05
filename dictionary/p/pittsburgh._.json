@@ -1,0 +1,18 @@
+{
+    "base": "pittsburgh",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "pittsburgh",
+    "n2": "pittsburghs",
+    "n3": "the pittsburgh",
+    "n4": "the pittsburghs",
+    "n5": "pittsburgh's",
+    "n6": "pittsburghs'",
+    "n7": "a pittsburgh",
+    "n8": "many pittsburghs"
+}

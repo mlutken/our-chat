@@ -1,0 +1,18 @@
+{
+    "base": "arteriolosclerosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "arteriolosclerosis",
+    "n2": "arteriolosclerosises",
+    "n3": "the arteriolosclerosis",
+    "n4": "the arteriolosclerosises",
+    "n5": "arteriolosclerosis'",
+    "n6": "arteriolosclerosises'",
+    "n7": "an arteriolosclerosis",
+    "n8": "many arteriolosclerosises"
+}

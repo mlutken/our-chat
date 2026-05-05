@@ -1,0 +1,18 @@
+{
+    "base": "coccidioidomycosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coccidioidomycosis",
+    "n2": "coccidioidomycosises",
+    "n3": "the coccidioidomycosis",
+    "n4": "the coccidioidomycosises",
+    "n5": "coccidioidomycosis'",
+    "n6": "coccidioidomycosises'",
+    "n7": "a coccidioidomycosis",
+    "n8": "many coccidioidomycosises"
+}

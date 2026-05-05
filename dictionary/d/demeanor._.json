@@ -1,0 +1,18 @@
+{
+    "base": "demeanor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "demeanor",
+    "n2": "demeanors",
+    "n3": "the demeanor",
+    "n4": "the demeanors",
+    "n5": "demeanor's",
+    "n6": "demeanors'",
+    "n7": "a demeanor",
+    "n8": "many demeanors"
+}

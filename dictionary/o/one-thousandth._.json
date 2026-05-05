@@ -1,0 +1,18 @@
+{
+    "base": "one-thousandth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "one-thousandth",
+    "n2": "one-thousandths",
+    "n3": "the one-thousandth",
+    "n4": "the one-thousandths",
+    "n5": "one-thousandth's",
+    "n6": "one-thousandths'",
+    "n7": "a one-thousandth",
+    "n8": "many one-thousandths"
+}

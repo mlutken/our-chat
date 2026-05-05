@@ -1,0 +1,18 @@
+{
+    "base": "rabat",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rabat",
+    "n2": "rabats",
+    "n3": "the rabat",
+    "n4": "the rabats",
+    "n5": "rabat's",
+    "n6": "rabats'",
+    "n7": "a rabat",
+    "n8": "many rabats"
+}

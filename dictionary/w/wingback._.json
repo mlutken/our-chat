@@ -1,0 +1,18 @@
+{
+    "base": "wingback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wingback",
+    "n2": "wingbacks",
+    "n3": "the wingback",
+    "n4": "the wingbacks",
+    "n5": "wingback's",
+    "n6": "wingbacks'",
+    "n7": "a wingback",
+    "n8": "many wingbacks"
+}

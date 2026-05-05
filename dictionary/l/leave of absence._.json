@@ -1,0 +1,18 @@
+{
+    "base": "leave of absence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leave of absence",
+    "n2": "leave of absences",
+    "n3": "the leave of absence",
+    "n4": "the leave of absences",
+    "n5": "leave of absence's",
+    "n6": "leave of absences'",
+    "n7": "a leave of absence",
+    "n8": "many leave of absences"
+}

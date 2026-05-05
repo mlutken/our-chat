@@ -1,0 +1,18 @@
+{
+    "base": "disparagement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "disparagement",
+    "n2": "disparagements",
+    "n3": "the disparagement",
+    "n4": "the disparagements",
+    "n5": "disparagement's",
+    "n6": "disparagements'",
+    "n7": "a disparagement",
+    "n8": "many disparagements"
+}

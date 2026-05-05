@@ -1,0 +1,18 @@
+{
+    "base": "red blood cell",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "red blood cell",
+    "n2": "red blood cells",
+    "n3": "the red blood cell",
+    "n4": "the red blood cells",
+    "n5": "red blood cell's",
+    "n6": "red blood cells'",
+    "n7": "a red blood cell",
+    "n8": "many red blood cells"
+}

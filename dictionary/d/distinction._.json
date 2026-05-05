@@ -1,0 +1,18 @@
+{
+    "base": "distinction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "distinction",
+    "n2": "distinctions",
+    "n3": "the distinction",
+    "n4": "the distinctions",
+    "n5": "distinction's",
+    "n6": "distinctions'",
+    "n7": "a distinction",
+    "n8": "many distinctions"
+}

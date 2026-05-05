@@ -1,0 +1,18 @@
+{
+    "base": "debunking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "debunking",
+    "n2": "debunkings",
+    "n3": "the debunking",
+    "n4": "the debunkings",
+    "n5": "debunking's",
+    "n6": "debunkings'",
+    "n7": "a debunking",
+    "n8": "many debunkings"
+}

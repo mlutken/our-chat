@@ -1,0 +1,18 @@
+{
+    "base": "rationalization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rationalization",
+    "n2": "rationalizations",
+    "n3": "the rationalization",
+    "n4": "the rationalizations",
+    "n5": "rationalization's",
+    "n6": "rationalizations'",
+    "n7": "a rationalization",
+    "n8": "many rationalizations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "canada",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "canada",
+    "n2": "canadas",
+    "n3": "the canada",
+    "n4": "the canadas",
+    "n5": "canada's",
+    "n6": "canadas'",
+    "n7": "a canada",
+    "n8": "many canadas"
+}

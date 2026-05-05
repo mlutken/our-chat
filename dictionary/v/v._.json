@@ -1,0 +1,18 @@
+{
+    "base": "v",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "v",
+    "n2": "vs",
+    "n3": "the v",
+    "n4": "the vs",
+    "n5": "v's",
+    "n6": "vs'",
+    "n7": "a v",
+    "n8": "many vs"
+}

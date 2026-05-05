@@ -7,5 +7,12 @@
     "n2": "walls",
     "n3": "the wall",
     "n4": "the walls",
-    "n5": "wall's"
+    "n5": "wall's",
+    "proper": false,
+    "commonness": 98,
+    "max_commonness": 6834,
+    "commonness_ge_count": 123,
+    "n6": "walls'",
+    "n7": "a wall",
+    "n8": "many walls"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "backer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "backer",
+    "n2": "backers",
+    "n3": "the backer",
+    "n4": "the backers",
+    "n5": "backer's",
+    "n6": "backers'",
+    "n7": "a backer",
+    "n8": "many backers"
+}

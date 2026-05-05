@@ -1,0 +1,18 @@
+{
+    "base": "plank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "plank",
+    "n2": "planks",
+    "n3": "the plank",
+    "n4": "the planks",
+    "n5": "plank's",
+    "n6": "planks'",
+    "n7": "a plank",
+    "n8": "many planks"
+}

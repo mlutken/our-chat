@@ -1,0 +1,18 @@
+{
+    "base": "celebrity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "celebrity",
+    "n2": "celebrities",
+    "n3": "the celebrity",
+    "n4": "the celebrities",
+    "n5": "celebrity's",
+    "n6": "celebrities'",
+    "n7": "a celebrity",
+    "n8": "many celebrities"
+}

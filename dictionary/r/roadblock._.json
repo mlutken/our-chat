@@ -1,0 +1,18 @@
+{
+    "base": "roadblock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roadblock",
+    "n2": "roadblocks",
+    "n3": "the roadblock",
+    "n4": "the roadblocks",
+    "n5": "roadblock's",
+    "n6": "roadblocks'",
+    "n7": "a roadblock",
+    "n8": "many roadblocks"
+}

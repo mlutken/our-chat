@@ -7,5 +7,12 @@
     "n2": "expenses",
     "n3": "the expense",
     "n4": "the expenses",
-    "n5": "expense's"
+    "n5": "expense's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "expenses'",
+    "n7": "an expense",
+    "n8": "many expenses"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sightseeing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sightseeing",
+    "n2": "sightseeings",
+    "n3": "the sightseeing",
+    "n4": "the sightseeings",
+    "n5": "sightseeing's",
+    "n6": "sightseeings'",
+    "n7": "a sightseeing",
+    "n8": "many sightseeings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "white house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "white house",
+    "n2": "white houses",
+    "n3": "the white house",
+    "n4": "the white houses",
+    "n5": "white house's",
+    "n6": "white houses'",
+    "n7": "a white house",
+    "n8": "many white houses"
+}

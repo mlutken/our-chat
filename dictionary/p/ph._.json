@@ -1,0 +1,18 @@
+{
+    "base": "ph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ph",
+    "n2": "phs",
+    "n3": "the ph",
+    "n4": "the phs",
+    "n5": "ph's",
+    "n6": "phs'",
+    "n7": "a ph",
+    "n8": "many phs"
+}

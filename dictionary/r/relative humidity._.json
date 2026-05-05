@@ -1,0 +1,18 @@
+{
+    "base": "relative humidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "relative humidity",
+    "n2": "relative humidities",
+    "n3": "the relative humidity",
+    "n4": "the relative humidities",
+    "n5": "relative humidity's",
+    "n6": "relative humidities'",
+    "n7": "a relative humidity",
+    "n8": "many relative humidities"
+}

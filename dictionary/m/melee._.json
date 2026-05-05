@@ -1,0 +1,18 @@
+{
+    "base": "melee",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "melee",
+    "n2": "melees",
+    "n3": "the melee",
+    "n4": "the melees",
+    "n5": "melee's",
+    "n6": "melees'",
+    "n7": "a melee",
+    "n8": "many melees"
+}

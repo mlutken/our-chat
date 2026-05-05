@@ -1,0 +1,18 @@
+{
+    "base": "vapor pressure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "vapor pressure",
+    "n2": "vapor pressures",
+    "n3": "the vapor pressure",
+    "n4": "the vapor pressures",
+    "n5": "vapor pressure's",
+    "n6": "vapor pressures'",
+    "n7": "a vapor pressure",
+    "n8": "many vapor pressures"
+}

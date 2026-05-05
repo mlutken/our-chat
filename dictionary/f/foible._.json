@@ -1,0 +1,18 @@
+{
+    "base": "foible",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foible",
+    "n2": "foibles",
+    "n3": "the foible",
+    "n4": "the foibles",
+    "n5": "foible's",
+    "n6": "foibles'",
+    "n7": "a foible",
+    "n8": "many foibles"
+}

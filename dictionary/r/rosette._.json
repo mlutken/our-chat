@@ -1,0 +1,18 @@
+{
+    "base": "rosette",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rosette",
+    "n2": "rosettes",
+    "n3": "the rosette",
+    "n4": "the rosettes",
+    "n5": "rosette's",
+    "n6": "rosettes'",
+    "n7": "a rosette",
+    "n8": "many rosettes"
+}

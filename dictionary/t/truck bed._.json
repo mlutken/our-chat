@@ -1,0 +1,18 @@
+{
+    "base": "truck bed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "truck bed",
+    "n2": "truck beds",
+    "n3": "the truck bed",
+    "n4": "the truck beds",
+    "n5": "truck bed's",
+    "n6": "truck beds'",
+    "n7": "a truck bed",
+    "n8": "many truck beds"
+}

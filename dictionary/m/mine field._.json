@@ -1,0 +1,18 @@
+{
+    "base": "mine field",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mine field",
+    "n2": "mine fields",
+    "n3": "the mine field",
+    "n4": "the mine fields",
+    "n5": "mine field's",
+    "n6": "mine fields'",
+    "n7": "a mine field",
+    "n8": "many mine fields"
+}

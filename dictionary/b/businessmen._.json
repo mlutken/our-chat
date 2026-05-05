@@ -1,0 +1,18 @@
+{
+    "base": "businessmen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "businessmen",
+    "n2": "businessmens",
+    "n3": "the businessmen",
+    "n4": "the businessmens",
+    "n5": "businessmen's",
+    "n6": "businessmens'",
+    "n7": "a businessmen",
+    "n8": "many businessmens"
+}

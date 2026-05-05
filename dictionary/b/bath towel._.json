@@ -1,0 +1,18 @@
+{
+    "base": "bath towel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bath towel",
+    "n2": "bath towels",
+    "n3": "the bath towel",
+    "n4": "the bath towels",
+    "n5": "bath towel's",
+    "n6": "bath towels'",
+    "n7": "a bath towel",
+    "n8": "many bath towels"
+}

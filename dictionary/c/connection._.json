@@ -7,5 +7,12 @@
     "n2": "connections",
     "n3": "the connection",
     "n4": "the connections",
-    "n5": "connection's"
+    "n5": "connection's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "connections'",
+    "n7": "a connection",
+    "n8": "many connections"
 }

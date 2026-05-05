@@ -1,0 +1,18 @@
+{
+    "base": "basileus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "basileus",
+    "n2": "basileis",
+    "n3": "the basileus",
+    "n4": "the basileis",
+    "n5": "basileus'",
+    "n6": "basileis'",
+    "n7": "a basileus",
+    "n8": "many basileis"
+}

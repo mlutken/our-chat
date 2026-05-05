@@ -1,0 +1,18 @@
+{
+    "base": "riddle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "riddle",
+    "n2": "riddles",
+    "n3": "the riddle",
+    "n4": "the riddles",
+    "n5": "riddle's",
+    "n6": "riddles'",
+    "n7": "a riddle",
+    "n8": "many riddles"
+}

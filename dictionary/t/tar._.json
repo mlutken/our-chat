@@ -1,0 +1,18 @@
+{
+    "base": "tar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tar",
+    "n2": "tars",
+    "n3": "the tar",
+    "n4": "the tars",
+    "n5": "tar's",
+    "n6": "tars'",
+    "n7": "a tar",
+    "n8": "many tars"
+}

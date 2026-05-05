@@ -1,0 +1,18 @@
+{
+    "base": "kc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kc",
+    "n2": "kcs",
+    "n3": "the kc",
+    "n4": "the kcs",
+    "n5": "kc's",
+    "n6": "kcs'",
+    "n7": "a kc",
+    "n8": "many kcs"
+}

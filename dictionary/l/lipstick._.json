@@ -1,0 +1,18 @@
+{
+    "base": "lipstick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lipstick",
+    "n2": "lipsticks",
+    "n3": "the lipstick",
+    "n4": "the lipsticks",
+    "n5": "lipstick's",
+    "n6": "lipsticks'",
+    "n7": "a lipstick",
+    "n8": "many lipsticks"
+}

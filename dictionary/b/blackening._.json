@@ -1,0 +1,18 @@
+{
+    "base": "blackening",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blackening",
+    "n2": "blackenings",
+    "n3": "the blackening",
+    "n4": "the blackenings",
+    "n5": "blackening's",
+    "n6": "blackenings'",
+    "n7": "a blackening",
+    "n8": "many blackenings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "morse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "morse",
+    "n2": "morses",
+    "n3": "the morse",
+    "n4": "the morses",
+    "n5": "morse's",
+    "n6": "morses'",
+    "n7": "a morse",
+    "n8": "many morses"
+}

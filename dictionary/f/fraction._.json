@@ -1,0 +1,18 @@
+{
+    "base": "fraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "fraction",
+    "n2": "fractions",
+    "n3": "the fraction",
+    "n4": "the fractions",
+    "n5": "fraction's",
+    "n6": "fractions'",
+    "n7": "a fraction",
+    "n8": "many fractions"
+}

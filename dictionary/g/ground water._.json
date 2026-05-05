@@ -1,0 +1,18 @@
+{
+    "base": "ground water",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ground water",
+    "n2": "ground waters",
+    "n3": "the ground water",
+    "n4": "the ground waters",
+    "n5": "ground water's",
+    "n6": "ground waters'",
+    "n7": "a ground water",
+    "n8": "many ground waters"
+}

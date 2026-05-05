@@ -1,0 +1,18 @@
+{
+    "base": "hero worshipper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hero worshipper",
+    "n2": "hero worshippers",
+    "n3": "the hero worshipper",
+    "n4": "the hero worshippers",
+    "n5": "hero worshipper's",
+    "n6": "hero worshippers'",
+    "n7": "a hero worshipper",
+    "n8": "many hero worshippers"
+}

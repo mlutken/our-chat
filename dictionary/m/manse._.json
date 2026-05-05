@@ -1,0 +1,18 @@
+{
+    "base": "manse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "manse",
+    "n2": "manses",
+    "n3": "the manse",
+    "n4": "the manses",
+    "n5": "manse's",
+    "n6": "manses'",
+    "n7": "a manse",
+    "n8": "many manses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "resorcinol",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "resorcinol",
+    "n2": "resorcinols",
+    "n3": "the resorcinol",
+    "n4": "the resorcinols",
+    "n5": "resorcinol's",
+    "n6": "resorcinols'",
+    "n7": "a resorcinol",
+    "n8": "many resorcinols"
+}

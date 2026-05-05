@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "difficulty",
-    "n2": "difficultys",
+    "n2": "difficulties",
     "n3": "the difficulty",
-    "n4": "the difficultys",
-    "n5": "difficulty's"
+    "n4": "the difficulties",
+    "n5": "difficulty's",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n6": "difficulties'",
+    "n7": "a difficulty",
+    "n8": "many difficulties"
 }

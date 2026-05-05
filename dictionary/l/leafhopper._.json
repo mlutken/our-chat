@@ -1,0 +1,18 @@
+{
+    "base": "leafhopper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leafhopper",
+    "n2": "leafhoppers",
+    "n3": "the leafhopper",
+    "n4": "the leafhoppers",
+    "n5": "leafhopper's",
+    "n6": "leafhoppers'",
+    "n7": "a leafhopper",
+    "n8": "many leafhoppers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "assessor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "assessor",
+    "n2": "assessors",
+    "n3": "the assessor",
+    "n4": "the assessors",
+    "n5": "assessor's",
+    "n6": "assessors'",
+    "n7": "an assessor",
+    "n8": "many assessors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "holocaust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "holocaust",
+    "n2": "holocausts",
+    "n3": "the holocaust",
+    "n4": "the holocausts",
+    "n5": "holocaust's",
+    "n6": "holocausts'",
+    "n7": "a holocaust",
+    "n8": "many holocausts"
+}

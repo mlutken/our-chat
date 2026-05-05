@@ -1,0 +1,18 @@
+{
+    "base": "personification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "personification",
+    "n2": "personifications",
+    "n3": "the personification",
+    "n4": "the personifications",
+    "n5": "personification's",
+    "n6": "personifications'",
+    "n7": "a personification",
+    "n8": "many personifications"
+}

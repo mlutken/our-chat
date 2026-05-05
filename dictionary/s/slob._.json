@@ -1,0 +1,18 @@
+{
+    "base": "slob",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slob",
+    "n2": "slobs",
+    "n3": "the slob",
+    "n4": "the slobs",
+    "n5": "slob's",
+    "n6": "slobs'",
+    "n7": "a slob",
+    "n8": "many slobs"
+}

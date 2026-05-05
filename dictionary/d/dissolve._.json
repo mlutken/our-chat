@@ -1,0 +1,18 @@
+{
+    "base": "dissolve",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dissolve",
+    "n2": "dissolves",
+    "n3": "the dissolve",
+    "n4": "the dissolves",
+    "n5": "dissolve's",
+    "n6": "dissolves'",
+    "n7": "a dissolve",
+    "n8": "many dissolves"
+}

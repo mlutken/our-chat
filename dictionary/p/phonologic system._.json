@@ -1,0 +1,18 @@
+{
+    "base": "phonologic system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phonologic system",
+    "n2": "phonologic systems",
+    "n3": "the phonologic system",
+    "n4": "the phonologic systems",
+    "n5": "phonologic system's",
+    "n6": "phonologic systems'",
+    "n7": "a phonologic system",
+    "n8": "many phonologic systems"
+}

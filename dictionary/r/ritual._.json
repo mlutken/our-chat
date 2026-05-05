@@ -1,0 +1,18 @@
+{
+    "base": "ritual",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "ritual",
+    "n2": "rituals",
+    "n3": "the ritual",
+    "n4": "the rituals",
+    "n5": "ritual's",
+    "n6": "rituals'",
+    "n7": "a ritual",
+    "n8": "many rituals"
+}

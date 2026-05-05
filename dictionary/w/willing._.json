@@ -1,0 +1,18 @@
+{
+    "base": "willing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "willing",
+    "n2": "willings",
+    "n3": "the willing",
+    "n4": "the willings",
+    "n5": "willing's",
+    "n6": "willings'",
+    "n7": "a willing",
+    "n8": "many willings"
+}

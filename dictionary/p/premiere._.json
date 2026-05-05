@@ -1,0 +1,18 @@
+{
+    "base": "premiere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "premiere",
+    "n2": "premieres",
+    "n3": "the premiere",
+    "n4": "the premieres",
+    "n5": "premiere's",
+    "n6": "premieres'",
+    "n7": "a premiere",
+    "n8": "many premieres"
+}

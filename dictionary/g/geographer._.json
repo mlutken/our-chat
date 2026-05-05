@@ -1,0 +1,18 @@
+{
+    "base": "geographer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "geographer",
+    "n2": "geographers",
+    "n3": "the geographer",
+    "n4": "the geographers",
+    "n5": "geographer's",
+    "n6": "geographers'",
+    "n7": "a geographer",
+    "n8": "many geographers"
+}

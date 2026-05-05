@@ -1,0 +1,18 @@
+{
+    "base": "throe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "throe",
+    "n2": "throes",
+    "n3": "the throe",
+    "n4": "the throes",
+    "n5": "throe's",
+    "n6": "throes'",
+    "n7": "a throe",
+    "n8": "many throes"
+}

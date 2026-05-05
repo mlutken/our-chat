@@ -1,0 +1,18 @@
+{
+    "base": "telephone number",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telephone number",
+    "n2": "telephone numbers",
+    "n3": "the telephone number",
+    "n4": "the telephone numbers",
+    "n5": "telephone number's",
+    "n6": "telephone numbers'",
+    "n7": "a telephone number",
+    "n8": "many telephone numbers"
+}

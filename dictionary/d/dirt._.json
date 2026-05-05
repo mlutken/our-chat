@@ -7,5 +7,12 @@
     "n2": "dirts",
     "n3": "the dirt",
     "n4": "the dirts",
-    "n5": "dirt's"
+    "n5": "dirt's",
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n6": "dirts'",
+    "n7": "a dirt",
+    "n8": "many dirts"
 }

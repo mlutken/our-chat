@@ -1,0 +1,18 @@
+{
+    "base": "subordinate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "subordinate",
+    "n2": "subordinates",
+    "n3": "the subordinate",
+    "n4": "the subordinates",
+    "n5": "subordinate's",
+    "n6": "subordinates'",
+    "n7": "a subordinate",
+    "n8": "many subordinates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "venus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "venus",
+    "n2": "venuses",
+    "n3": "the venus",
+    "n4": "the venuses",
+    "n5": "venus'",
+    "n6": "venuses'",
+    "n7": "a venus",
+    "n8": "many venuses"
+}

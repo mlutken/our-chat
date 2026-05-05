@@ -7,5 +7,12 @@
     "n2": "marriages",
     "n3": "the marriage",
     "n4": "the marriages",
-    "n5": "marriage's"
+    "n5": "marriage's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "marriages'",
+    "n7": "a marriage",
+    "n8": "many marriages"
 }

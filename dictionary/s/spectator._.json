@@ -1,0 +1,18 @@
+{
+    "base": "spectator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "spectator",
+    "n2": "spectators",
+    "n3": "the spectator",
+    "n4": "the spectators",
+    "n5": "spectator's",
+    "n6": "spectators'",
+    "n7": "a spectator",
+    "n8": "many spectators"
+}

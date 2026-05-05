@@ -1,11 +1,24 @@
 {
     "base": "mate",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "mate",
     "v2": "mated",
     "v3": "mated",
     "v4": "mating",
-    "v5": "mates"
+    "v5": "mates",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "mate",
+    "n2": "mates",
+    "n3": "the mate",
+    "n4": "the mates",
+    "n5": "mate's",
+    "n6": "mates'",
+    "n7": "a mate",
+    "n8": "many mates"
 }

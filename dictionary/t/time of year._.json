@@ -1,0 +1,18 @@
+{
+    "base": "time of year",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "time of year",
+    "n2": "time of years",
+    "n3": "the time of year",
+    "n4": "the time of years",
+    "n5": "time of year's",
+    "n6": "time of years'",
+    "n7": "a time of year",
+    "n8": "many time of years"
+}

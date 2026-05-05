@@ -1,0 +1,18 @@
+{
+    "base": "devilment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "devilment",
+    "n2": "devilments",
+    "n3": "the devilment",
+    "n4": "the devilments",
+    "n5": "devilment's",
+    "n6": "devilments'",
+    "n7": "a devilment",
+    "n8": "many devilments"
+}

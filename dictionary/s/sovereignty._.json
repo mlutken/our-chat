@@ -1,0 +1,18 @@
+{
+    "base": "sovereignty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sovereignty",
+    "n2": "sovereignties",
+    "n3": "the sovereignty",
+    "n4": "the sovereignties",
+    "n5": "sovereignty's",
+    "n6": "sovereignties'",
+    "n7": "a sovereignty",
+    "n8": "many sovereignties"
+}

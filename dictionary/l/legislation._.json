@@ -1,0 +1,18 @@
+{
+    "base": "legislation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "legislation",
+    "n2": "legislations",
+    "n3": "the legislation",
+    "n4": "the legislations",
+    "n5": "legislation's",
+    "n6": "legislations'",
+    "n7": "a legislation",
+    "n8": "many legislations"
+}

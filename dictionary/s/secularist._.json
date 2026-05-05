@@ -1,0 +1,18 @@
+{
+    "base": "secularist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "secularist",
+    "n2": "secularists",
+    "n3": "the secularist",
+    "n4": "the secularists",
+    "n5": "secularist's",
+    "n6": "secularists'",
+    "n7": "a secularist",
+    "n8": "many secularists"
+}

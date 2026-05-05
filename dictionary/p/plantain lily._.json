@@ -1,0 +1,18 @@
+{
+    "base": "plantain lily",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "plantain lily",
+    "n2": "plantain lilies",
+    "n3": "the plantain lily",
+    "n4": "the plantain lilies",
+    "n5": "plantain lily's",
+    "n6": "plantain lilies'",
+    "n7": "a plantain lily",
+    "n8": "many plantain lilies"
+}

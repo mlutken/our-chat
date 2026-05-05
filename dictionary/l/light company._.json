@@ -1,0 +1,18 @@
+{
+    "base": "light company",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "light company",
+    "n2": "light companies",
+    "n3": "the light company",
+    "n4": "the light companies",
+    "n5": "light company's",
+    "n6": "light companies'",
+    "n7": "a light company",
+    "n8": "many light companies"
+}

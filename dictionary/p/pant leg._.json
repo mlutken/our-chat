@@ -1,0 +1,18 @@
+{
+    "base": "pant leg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pant leg",
+    "n2": "pant legs",
+    "n3": "the pant leg",
+    "n4": "the pant legs",
+    "n5": "pant leg's",
+    "n6": "pant legs'",
+    "n7": "a pant leg",
+    "n8": "many pant legs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "iodoprotein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "iodoprotein",
+    "n2": "iodoproteins",
+    "n3": "the iodoprotein",
+    "n4": "the iodoproteins",
+    "n5": "iodoprotein's",
+    "n6": "iodoproteins'",
+    "n7": "an iodoprotein",
+    "n8": "many iodoproteins"
+}

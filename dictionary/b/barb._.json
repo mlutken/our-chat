@@ -1,0 +1,18 @@
+{
+    "base": "barb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barb",
+    "n2": "barbs",
+    "n3": "the barb",
+    "n4": "the barbs",
+    "n5": "barb's",
+    "n6": "barbs'",
+    "n7": "a barb",
+    "n8": "many barbs"
+}

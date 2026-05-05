@@ -1,0 +1,18 @@
+{
+    "base": "projection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "projection",
+    "n2": "projections",
+    "n3": "the projection",
+    "n4": "the projections",
+    "n5": "projection's",
+    "n6": "projections'",
+    "n7": "a projection",
+    "n8": "many projections"
+}

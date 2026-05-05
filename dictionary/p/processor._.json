@@ -1,0 +1,18 @@
+{
+    "base": "processor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "processor",
+    "n2": "processors",
+    "n3": "the processor",
+    "n4": "the processors",
+    "n5": "processor's",
+    "n6": "processors'",
+    "n7": "a processor",
+    "n8": "many processors"
+}

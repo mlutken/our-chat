@@ -1,0 +1,18 @@
+{
+    "base": "ambush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ambush",
+    "n2": "ambushes",
+    "n3": "the ambush",
+    "n4": "the ambushes",
+    "n5": "ambush's",
+    "n6": "ambushes'",
+    "n7": "an ambush",
+    "n8": "many ambushes"
+}

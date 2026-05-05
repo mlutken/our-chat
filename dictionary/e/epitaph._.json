@@ -1,0 +1,18 @@
+{
+    "base": "epitaph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epitaph",
+    "n2": "epitaphs",
+    "n3": "the epitaph",
+    "n4": "the epitaphs",
+    "n5": "epitaph's",
+    "n6": "epitaphs'",
+    "n7": "an epitaph",
+    "n8": "many epitaphs"
+}

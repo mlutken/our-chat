@@ -1,0 +1,18 @@
+{
+    "base": "planet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "planet",
+    "n2": "planets",
+    "n3": "the planet",
+    "n4": "the planets",
+    "n5": "planet's",
+    "n6": "planets'",
+    "n7": "a planet",
+    "n8": "many planets"
+}

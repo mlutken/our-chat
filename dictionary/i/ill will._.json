@@ -1,0 +1,18 @@
+{
+    "base": "ill will",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ill will",
+    "n2": "ill wills",
+    "n3": "the ill will",
+    "n4": "the ill wills",
+    "n5": "ill will's",
+    "n6": "ill wills'",
+    "n7": "an ill will",
+    "n8": "many ill wills"
+}

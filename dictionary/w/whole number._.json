@@ -1,0 +1,18 @@
+{
+    "base": "whole number",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whole number",
+    "n2": "whole numbers",
+    "n3": "the whole number",
+    "n4": "the whole numbers",
+    "n5": "whole number's",
+    "n6": "whole numbers'",
+    "n7": "a whole number",
+    "n8": "many whole numbers"
+}

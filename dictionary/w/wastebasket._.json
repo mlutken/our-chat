@@ -1,0 +1,18 @@
+{
+    "base": "wastebasket",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "wastebasket",
+    "n2": "wastebaskets",
+    "n3": "the wastebasket",
+    "n4": "the wastebaskets",
+    "n5": "wastebasket's",
+    "n6": "wastebaskets'",
+    "n7": "a wastebasket",
+    "n8": "many wastebaskets"
+}

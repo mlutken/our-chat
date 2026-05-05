@@ -1,0 +1,18 @@
+{
+    "base": "railhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "railhead",
+    "n2": "railheads",
+    "n3": "the railhead",
+    "n4": "the railheads",
+    "n5": "railhead's",
+    "n6": "railheads'",
+    "n7": "a railhead",
+    "n8": "many railheads"
+}

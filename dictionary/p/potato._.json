@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "potato",
-    "n2": "potatos",
+    "n2": "potatoes",
     "n3": "the potato",
-    "n4": "the potatos",
-    "n5": "potato's"
+    "n4": "the potatoes",
+    "n5": "potato's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "potatoes'",
+    "n7": "a potato",
+    "n8": "many potatoes"
 }

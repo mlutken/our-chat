@@ -1,0 +1,18 @@
+{
+    "base": "wastewater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wastewater",
+    "n2": "wastewaters",
+    "n3": "the wastewater",
+    "n4": "the wastewaters",
+    "n5": "wastewater's",
+    "n6": "wastewaters'",
+    "n7": "a wastewater",
+    "n8": "many wastewaters"
+}

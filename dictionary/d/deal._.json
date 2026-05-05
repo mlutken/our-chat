@@ -1,11 +1,24 @@
 {
     "base": "deal",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "deal",
     "v2": "dealt",
     "v3": "dealt",
     "v4": "dealing",
-    "v5": "deals"
+    "v5": "deals",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "deal",
+    "n2": "deals",
+    "n3": "the deal",
+    "n4": "the deals",
+    "n5": "deal's",
+    "n6": "deals'",
+    "n7": "a deal",
+    "n8": "many deals"
 }

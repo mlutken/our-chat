@@ -1,0 +1,18 @@
+{
+    "base": "symbolist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "symbolist",
+    "n2": "symbolists",
+    "n3": "the symbolist",
+    "n4": "the symbolists",
+    "n5": "symbolist's",
+    "n6": "symbolists'",
+    "n7": "a symbolist",
+    "n8": "many symbolists"
+}

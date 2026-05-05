@@ -1,0 +1,18 @@
+{
+    "base": "lawman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lawman",
+    "n2": "lawmen",
+    "n3": "the lawman",
+    "n4": "the lawmen",
+    "n5": "lawman's",
+    "n6": "lawmen's",
+    "n7": "a lawman",
+    "n8": "many lawmen"
+}

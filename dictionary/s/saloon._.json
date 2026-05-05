@@ -1,0 +1,18 @@
+{
+    "base": "saloon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "saloon",
+    "n2": "saloons",
+    "n3": "the saloon",
+    "n4": "the saloons",
+    "n5": "saloon's",
+    "n6": "saloons'",
+    "n7": "a saloon",
+    "n8": "many saloons"
+}

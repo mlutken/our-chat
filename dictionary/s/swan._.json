@@ -1,0 +1,18 @@
+{
+    "base": "swan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "swan",
+    "n2": "swans",
+    "n3": "the swan",
+    "n4": "the swans",
+    "n5": "swan's",
+    "n6": "swans'",
+    "n7": "a swan",
+    "n8": "many swans"
+}

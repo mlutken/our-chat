@@ -7,5 +7,12 @@
     "n2": "channels",
     "n3": "the channel",
     "n4": "the channels",
-    "n5": "channel's"
+    "n5": "channel's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "channels'",
+    "n7": "a channel",
+    "n8": "many channels"
 }

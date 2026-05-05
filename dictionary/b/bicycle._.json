@@ -1,0 +1,18 @@
+{
+    "base": "bicycle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "bicycle",
+    "n2": "bicycles",
+    "n3": "the bicycle",
+    "n4": "the bicycles",
+    "n5": "bicycle's",
+    "n6": "bicycles'",
+    "n7": "a bicycle",
+    "n8": "many bicycles"
+}

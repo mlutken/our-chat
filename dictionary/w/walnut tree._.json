@@ -1,0 +1,18 @@
+{
+    "base": "walnut tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "walnut tree",
+    "n2": "walnut trees",
+    "n3": "the walnut tree",
+    "n4": "the walnut trees",
+    "n5": "walnut tree's",
+    "n6": "walnut trees'",
+    "n7": "a walnut tree",
+    "n8": "many walnut trees"
+}

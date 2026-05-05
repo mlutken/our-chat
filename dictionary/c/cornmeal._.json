@@ -1,0 +1,18 @@
+{
+    "base": "cornmeal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cornmeal",
+    "n2": "cornmeals",
+    "n3": "the cornmeal",
+    "n4": "the cornmeals",
+    "n5": "cornmeal's",
+    "n6": "cornmeals'",
+    "n7": "a cornmeal",
+    "n8": "many cornmeals"
+}

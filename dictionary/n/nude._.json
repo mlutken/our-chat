@@ -1,0 +1,18 @@
+{
+    "base": "nude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "nude",
+    "n2": "nudes",
+    "n3": "the nude",
+    "n4": "the nudes",
+    "n5": "nude's",
+    "n6": "nudes'",
+    "n7": "a nude",
+    "n8": "many nudes"
+}

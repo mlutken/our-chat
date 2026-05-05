@@ -1,0 +1,18 @@
+{
+    "base": "hue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "hue",
+    "n2": "hues",
+    "n3": "the hue",
+    "n4": "the hues",
+    "n5": "hue's",
+    "n6": "hues'",
+    "n7": "a hue",
+    "n8": "many hues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "zodiacal light",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "zodiacal light",
+    "n2": "zodiacal lights",
+    "n3": "the zodiacal light",
+    "n4": "the zodiacal lights",
+    "n5": "zodiacal light's",
+    "n6": "zodiacal lights'",
+    "n7": "a zodiacal light",
+    "n8": "many zodiacal lights"
+}

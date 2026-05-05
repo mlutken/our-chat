@@ -1,0 +1,18 @@
+{
+    "base": "identification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "identification",
+    "n2": "identifications",
+    "n3": "the identification",
+    "n4": "the identifications",
+    "n5": "identification's",
+    "n6": "identifications'",
+    "n7": "an identification",
+    "n8": "many identifications"
+}

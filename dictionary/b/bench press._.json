@@ -1,0 +1,18 @@
+{
+    "base": "bench press",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bench press",
+    "n2": "bench presses",
+    "n3": "the bench press",
+    "n4": "the bench presses",
+    "n5": "bench press'",
+    "n6": "bench presses'",
+    "n7": "a bench press",
+    "n8": "many bench presses"
+}

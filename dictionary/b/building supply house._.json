@@ -1,0 +1,18 @@
+{
+    "base": "building supply house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "building supply house",
+    "n2": "building supply houses",
+    "n3": "the building supply house",
+    "n4": "the building supply houses",
+    "n5": "building supply house's",
+    "n6": "building supply houses'",
+    "n7": "a building supply house",
+    "n8": "many building supply houses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "flick",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "flick",
+    "n2": "flicks",
+    "n3": "the flick",
+    "n4": "the flicks",
+    "n5": "flick's",
+    "n6": "flicks'",
+    "n7": "a flick",
+    "n8": "many flicks"
+}

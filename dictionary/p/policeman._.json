@@ -1,0 +1,18 @@
+{
+    "base": "policeman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "policeman",
+    "n2": "policemen",
+    "n3": "the policeman",
+    "n4": "the policemen",
+    "n5": "policeman's",
+    "n6": "policemen's",
+    "n7": "a policeman",
+    "n8": "many policemen"
+}

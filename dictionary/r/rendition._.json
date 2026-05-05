@@ -1,0 +1,18 @@
+{
+    "base": "rendition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rendition",
+    "n2": "renditions",
+    "n3": "the rendition",
+    "n4": "the renditions",
+    "n5": "rendition's",
+    "n6": "renditions'",
+    "n7": "a rendition",
+    "n8": "many renditions"
+}

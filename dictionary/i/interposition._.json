@@ -1,0 +1,18 @@
+{
+    "base": "interposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interposition",
+    "n2": "interpositions",
+    "n3": "the interposition",
+    "n4": "the interpositions",
+    "n5": "interposition's",
+    "n6": "interpositions'",
+    "n7": "an interposition",
+    "n8": "many interpositions"
+}

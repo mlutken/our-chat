@@ -1,0 +1,18 @@
+{
+    "base": "mist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "mist",
+    "n2": "mists",
+    "n3": "the mist",
+    "n4": "the mists",
+    "n5": "mist's",
+    "n6": "mists'",
+    "n7": "a mist",
+    "n8": "many mists"
+}

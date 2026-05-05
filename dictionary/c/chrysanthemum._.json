@@ -1,0 +1,18 @@
+{
+    "base": "chrysanthemum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chrysanthemum",
+    "n2": "chrysanthemums",
+    "n3": "the chrysanthemum",
+    "n4": "the chrysanthemums",
+    "n5": "chrysanthemum's",
+    "n6": "chrysanthemums'",
+    "n7": "a chrysanthemum",
+    "n8": "many chrysanthemums"
+}

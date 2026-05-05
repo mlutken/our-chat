@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "means",
-    "n2": "means",
+    "n2": "meanses",
     "n3": "the means",
-    "n4": "the means",
-    "n5": "means'"
+    "n4": "the meanses",
+    "n5": "means'",
+    "proper": false,
+    "commonness": 61,
+    "max_commonness": 6834,
+    "commonness_ge_count": 253,
+    "n6": "meanses'",
+    "n7": "a means",
+    "n8": "many meanses"
 }

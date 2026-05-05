@@ -1,0 +1,18 @@
+{
+    "base": "lamp chimney",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lamp chimney",
+    "n2": "lamp chimneys",
+    "n3": "the lamp chimney",
+    "n4": "the lamp chimneys",
+    "n5": "lamp chimney's",
+    "n6": "lamp chimneys'",
+    "n7": "a lamp chimney",
+    "n8": "many lamp chimneys"
+}

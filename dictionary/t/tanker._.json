@@ -1,0 +1,18 @@
+{
+    "base": "tanker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tanker",
+    "n2": "tankers",
+    "n3": "the tanker",
+    "n4": "the tankers",
+    "n5": "tanker's",
+    "n6": "tankers'",
+    "n7": "a tanker",
+    "n8": "many tankers"
+}

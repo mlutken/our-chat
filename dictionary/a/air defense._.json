@@ -1,0 +1,18 @@
+{
+    "base": "air defense",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "air defense",
+    "n2": "air defenses",
+    "n3": "the air defense",
+    "n4": "the air defenses",
+    "n5": "air defense's",
+    "n6": "air defenses'",
+    "n7": "an air defense",
+    "n8": "many air defenses"
+}

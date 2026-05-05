@@ -1,0 +1,18 @@
+{
+    "base": "rhinoceros",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rhinoceros",
+    "n2": "rhinoceroses",
+    "n3": "the rhinoceros",
+    "n4": "the rhinoceroses",
+    "n5": "rhinoceros'",
+    "n6": "rhinoceroses'",
+    "n7": "a rhinoceros",
+    "n8": "many rhinoceroses"
+}

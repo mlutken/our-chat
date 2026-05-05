@@ -1,0 +1,18 @@
+{
+    "base": "lignite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "lignite",
+    "n2": "lignites",
+    "n3": "the lignite",
+    "n4": "the lignites",
+    "n5": "lignite's",
+    "n6": "lignites'",
+    "n7": "a lignite",
+    "n8": "many lignites"
+}

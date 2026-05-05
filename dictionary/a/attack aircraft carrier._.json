@@ -1,0 +1,18 @@
+{
+    "base": "attack aircraft carrier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "attack aircraft carrier",
+    "n2": "attack aircraft carriers",
+    "n3": "the attack aircraft carrier",
+    "n4": "the attack aircraft carriers",
+    "n5": "attack aircraft carrier's",
+    "n6": "attack aircraft carriers'",
+    "n7": "an attack aircraft carrier",
+    "n8": "many attack aircraft carriers"
+}

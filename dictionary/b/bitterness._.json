@@ -1,0 +1,18 @@
+{
+    "base": "bitterness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bitterness",
+    "n2": "bitternesses",
+    "n3": "the bitterness",
+    "n4": "the bitternesses",
+    "n5": "bitterness'",
+    "n6": "bitternesses'",
+    "n7": "a bitterness",
+    "n8": "many bitternesses"
+}

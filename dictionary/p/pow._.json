@@ -1,0 +1,18 @@
+{
+    "base": "pow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pow",
+    "n2": "pows",
+    "n3": "the pow",
+    "n4": "the pows",
+    "n5": "pow's",
+    "n6": "pows'",
+    "n7": "a pow",
+    "n8": "many pows"
+}

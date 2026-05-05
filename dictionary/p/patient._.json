@@ -7,5 +7,12 @@
     "n2": "patients",
     "n3": "the patient",
     "n4": "the patients",
-    "n5": "patient's"
+    "n5": "patient's",
+    "proper": false,
+    "commonness": 73,
+    "max_commonness": 6834,
+    "commonness_ge_count": 191,
+    "n6": "patients'",
+    "n7": "a patient",
+    "n8": "many patients"
 }

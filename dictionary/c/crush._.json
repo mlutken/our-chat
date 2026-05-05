@@ -1,0 +1,18 @@
+{
+    "base": "crush",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crush",
+    "n2": "crushes",
+    "n3": "the crush",
+    "n4": "the crushes",
+    "n5": "crush's",
+    "n6": "crushes'",
+    "n7": "a crush",
+    "n8": "many crushes"
+}

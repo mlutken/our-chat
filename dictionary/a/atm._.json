@@ -1,0 +1,18 @@
+{
+    "base": "atm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "atm",
+    "n2": "atms",
+    "n3": "the atm",
+    "n4": "the atms",
+    "n5": "atm's",
+    "n6": "atms'",
+    "n7": "an atm",
+    "n8": "many atms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "thruway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thruway",
+    "n2": "thruways",
+    "n3": "the thruway",
+    "n4": "the thruways",
+    "n5": "thruway's",
+    "n6": "thruways'",
+    "n7": "a thruway",
+    "n8": "many thruways"
+}

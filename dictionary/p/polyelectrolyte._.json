@@ -1,0 +1,18 @@
+{
+    "base": "polyelectrolyte",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "polyelectrolyte",
+    "n2": "polyelectrolytes",
+    "n3": "the polyelectrolyte",
+    "n4": "the polyelectrolytes",
+    "n5": "polyelectrolyte's",
+    "n6": "polyelectrolytes'",
+    "n7": "a polyelectrolyte",
+    "n8": "many polyelectrolytes"
+}

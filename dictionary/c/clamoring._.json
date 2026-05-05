@@ -1,0 +1,18 @@
+{
+    "base": "clamoring",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clamoring",
+    "n2": "clamorings",
+    "n3": "the clamoring",
+    "n4": "the clamorings",
+    "n5": "clamoring's",
+    "n6": "clamorings'",
+    "n7": "a clamoring",
+    "n8": "many clamorings"
+}

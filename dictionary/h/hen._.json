@@ -1,0 +1,18 @@
+{
+    "base": "hen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "hen",
+    "n2": "hens",
+    "n3": "the hen",
+    "n4": "the hens",
+    "n5": "hen's",
+    "n6": "hens'",
+    "n7": "a hen",
+    "n8": "many hens"
+}

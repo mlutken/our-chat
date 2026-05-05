@@ -1,0 +1,18 @@
+{
+    "base": "hypothalamus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "hypothalamus",
+    "n2": "hypothalami",
+    "n3": "the hypothalamus",
+    "n4": "the hypothalami",
+    "n5": "hypothalamus'",
+    "n6": "hypothalami's",
+    "n7": "a hypothalamus",
+    "n8": "many hypothalami"
+}

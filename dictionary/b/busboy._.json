@@ -1,0 +1,18 @@
+{
+    "base": "busboy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "busboy",
+    "n2": "busboys",
+    "n3": "the busboy",
+    "n4": "the busboys",
+    "n5": "busboy's",
+    "n6": "busboys'",
+    "n7": "a busboy",
+    "n8": "many busboys"
+}

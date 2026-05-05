@@ -1,0 +1,18 @@
+{
+    "base": "lumber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "lumber",
+    "n2": "lumbers",
+    "n3": "the lumber",
+    "n4": "the lumbers",
+    "n5": "lumber's",
+    "n6": "lumbers'",
+    "n7": "a lumber",
+    "n8": "many lumbers"
+}

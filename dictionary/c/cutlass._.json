@@ -1,0 +1,18 @@
+{
+    "base": "cutlass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cutlass",
+    "n2": "cutlasses",
+    "n3": "the cutlass",
+    "n4": "the cutlasses",
+    "n5": "cutlass'",
+    "n6": "cutlasses'",
+    "n7": "a cutlass",
+    "n8": "many cutlasses"
+}

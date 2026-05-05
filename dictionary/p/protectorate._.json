@@ -1,0 +1,18 @@
+{
+    "base": "protectorate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "protectorate",
+    "n2": "protectorates",
+    "n3": "the protectorate",
+    "n4": "the protectorates",
+    "n5": "protectorate's",
+    "n6": "protectorates'",
+    "n7": "a protectorate",
+    "n8": "many protectorates"
+}

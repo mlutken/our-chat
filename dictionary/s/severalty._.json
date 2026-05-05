@@ -1,0 +1,18 @@
+{
+    "base": "severalty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "severalty",
+    "n2": "severalties",
+    "n3": "the severalty",
+    "n4": "the severalties",
+    "n5": "severalty's",
+    "n6": "severalties'",
+    "n7": "a severalty",
+    "n8": "many severalties"
+}

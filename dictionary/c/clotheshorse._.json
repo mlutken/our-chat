@@ -1,0 +1,18 @@
+{
+    "base": "clotheshorse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clotheshorse",
+    "n2": "clotheshorses",
+    "n3": "the clotheshorse",
+    "n4": "the clotheshorses",
+    "n5": "clotheshorse's",
+    "n6": "clotheshorses'",
+    "n7": "a clotheshorse",
+    "n8": "many clotheshorses"
+}

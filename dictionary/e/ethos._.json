@@ -1,0 +1,18 @@
+{
+    "base": "ethos",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ethos",
+    "n2": "ethoses",
+    "n3": "the ethos",
+    "n4": "the ethoses",
+    "n5": "ethos'",
+    "n6": "ethoses'",
+    "n7": "an ethos",
+    "n8": "many ethoses"
+}

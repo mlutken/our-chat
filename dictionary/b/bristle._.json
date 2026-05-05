@@ -1,0 +1,18 @@
+{
+    "base": "bristle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bristle",
+    "n2": "bristles",
+    "n3": "the bristle",
+    "n4": "the bristles",
+    "n5": "bristle's",
+    "n6": "bristles'",
+    "n7": "a bristle",
+    "n8": "many bristles"
+}

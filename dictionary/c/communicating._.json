@@ -1,0 +1,18 @@
+{
+    "base": "communicating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "communicating",
+    "n2": "communicatings",
+    "n3": "the communicating",
+    "n4": "the communicatings",
+    "n5": "communicating's",
+    "n6": "communicatings'",
+    "n7": "a communicating",
+    "n8": "many communicatings"
+}

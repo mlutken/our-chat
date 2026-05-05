@@ -7,5 +7,12 @@
     "n2": "sources",
     "n3": "the source",
     "n4": "the sources",
-    "n5": "source's"
+    "n5": "source's",
+    "proper": false,
+    "commonness": 70,
+    "max_commonness": 6834,
+    "commonness_ge_count": 209,
+    "n6": "sources'",
+    "n7": "a source",
+    "n8": "many sources"
 }

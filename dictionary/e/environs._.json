@@ -1,0 +1,18 @@
+{
+    "base": "environs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "environs",
+    "n2": "environses",
+    "n3": "the environs",
+    "n4": "the environses",
+    "n5": "environs'",
+    "n6": "environses'",
+    "n7": "an environs",
+    "n8": "many environses"
+}

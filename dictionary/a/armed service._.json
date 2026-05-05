@@ -1,0 +1,18 @@
+{
+    "base": "armed service",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "armed service",
+    "n2": "armed services",
+    "n3": "the armed service",
+    "n4": "the armed services",
+    "n5": "armed service's",
+    "n6": "armed services'",
+    "n7": "an armed service",
+    "n8": "many armed services"
+}

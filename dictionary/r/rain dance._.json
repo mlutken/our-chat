@@ -1,0 +1,18 @@
+{
+    "base": "rain dance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rain dance",
+    "n2": "rain dances",
+    "n3": "the rain dance",
+    "n4": "the rain dances",
+    "n5": "rain dance's",
+    "n6": "rain dances'",
+    "n7": "a rain dance",
+    "n8": "many rain dances"
+}

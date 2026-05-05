@@ -1,0 +1,18 @@
+{
+    "base": "two-by-four",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "two-by-four",
+    "n2": "two-by-fours",
+    "n3": "the two-by-four",
+    "n4": "the two-by-fours",
+    "n5": "two-by-four's",
+    "n6": "two-by-fours'",
+    "n7": "a two-by-four",
+    "n8": "many two-by-fours"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cloud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n1": "cloud",
+    "n2": "clouds",
+    "n3": "the cloud",
+    "n4": "the clouds",
+    "n5": "cloud's",
+    "n6": "clouds'",
+    "n7": "a cloud",
+    "n8": "many clouds"
+}

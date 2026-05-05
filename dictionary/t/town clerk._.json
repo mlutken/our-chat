@@ -1,0 +1,18 @@
+{
+    "base": "town clerk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "town clerk",
+    "n2": "town clerks",
+    "n3": "the town clerk",
+    "n4": "the town clerks",
+    "n5": "town clerk's",
+    "n6": "town clerks'",
+    "n7": "a town clerk",
+    "n8": "many town clerks"
+}

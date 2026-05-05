@@ -1,0 +1,18 @@
+{
+    "base": "carbon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "carbon",
+    "n2": "carbons",
+    "n3": "the carbon",
+    "n4": "the carbons",
+    "n5": "carbon's",
+    "n6": "carbons'",
+    "n7": "a carbon",
+    "n8": "many carbons"
+}

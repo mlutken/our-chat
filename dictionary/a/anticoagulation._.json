@@ -1,0 +1,18 @@
+{
+    "base": "anticoagulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anticoagulation",
+    "n2": "anticoagulations",
+    "n3": "the anticoagulation",
+    "n4": "the anticoagulations",
+    "n5": "anticoagulation's",
+    "n6": "anticoagulations'",
+    "n7": "an anticoagulation",
+    "n8": "many anticoagulations"
+}

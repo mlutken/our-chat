@@ -7,5 +7,12 @@
     "n2": "supplies",
     "n3": "the supply",
     "n4": "the supplies",
-    "n5": "supply's"
+    "n5": "supply's",
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n6": "supplies'",
+    "n7": "a supply",
+    "n8": "many supplies"
 }

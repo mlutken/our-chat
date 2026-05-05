@@ -1,0 +1,18 @@
+{
+    "base": "shirking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shirking",
+    "n2": "shirkings",
+    "n3": "the shirking",
+    "n4": "the shirkings",
+    "n5": "shirking's",
+    "n6": "shirkings'",
+    "n7": "a shirking",
+    "n8": "many shirkings"
+}

@@ -7,5 +7,12 @@
     "n2": "debts",
     "n3": "the debt",
     "n4": "the debts",
-    "n5": "debt's"
+    "n5": "debt's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "debts'",
+    "n7": "a debt",
+    "n8": "many debts"
 }

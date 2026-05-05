@@ -7,5 +7,12 @@
     "n2": "distributions",
     "n3": "the distribution",
     "n4": "the distributions",
-    "n5": "distribution's"
+    "n5": "distribution's",
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n6": "distributions'",
+    "n7": "a distribution",
+    "n8": "many distributions"
 }

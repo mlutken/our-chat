@@ -1,0 +1,18 @@
+{
+    "base": "rigger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rigger",
+    "n2": "riggers",
+    "n3": "the rigger",
+    "n4": "the riggers",
+    "n5": "rigger's",
+    "n6": "riggers'",
+    "n7": "a rigger",
+    "n8": "many riggers"
+}

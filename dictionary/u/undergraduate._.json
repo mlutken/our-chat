@@ -1,0 +1,18 @@
+{
+    "base": "undergraduate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "undergraduate",
+    "n2": "undergraduates",
+    "n3": "the undergraduate",
+    "n4": "the undergraduates",
+    "n5": "undergraduate's",
+    "n6": "undergraduates'",
+    "n7": "an undergraduate",
+    "n8": "many undergraduates"
+}

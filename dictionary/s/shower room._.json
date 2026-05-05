@@ -1,0 +1,18 @@
+{
+    "base": "shower room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shower room",
+    "n2": "shower rooms",
+    "n3": "the shower room",
+    "n4": "the shower rooms",
+    "n5": "shower room's",
+    "n6": "shower rooms'",
+    "n7": "a shower room",
+    "n8": "many shower rooms"
+}

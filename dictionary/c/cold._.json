@@ -1,9 +1,22 @@
 {
     "base": "cold",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "cold",
     "adj2": "colder",
-    "adj3": "coldest"
+    "adj3": "coldest",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "cold",
+    "n2": "colds",
+    "n3": "the cold",
+    "n4": "the colds",
+    "n5": "cold's",
+    "n6": "colds'",
+    "n7": "a cold",
+    "n8": "many colds"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "television camera",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "television camera",
+    "n2": "television cameras",
+    "n3": "the television camera",
+    "n4": "the television cameras",
+    "n5": "television camera's",
+    "n6": "television cameras'",
+    "n7": "a television camera",
+    "n8": "many television cameras"
+}

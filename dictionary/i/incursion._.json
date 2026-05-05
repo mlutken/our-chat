@@ -1,0 +1,18 @@
+{
+    "base": "incursion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incursion",
+    "n2": "incursions",
+    "n3": "the incursion",
+    "n4": "the incursions",
+    "n5": "incursion's",
+    "n6": "incursions'",
+    "n7": "an incursion",
+    "n8": "many incursions"
+}

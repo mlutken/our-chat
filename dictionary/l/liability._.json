@@ -1,0 +1,18 @@
+{
+    "base": "liability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "liability",
+    "n2": "liabilities",
+    "n3": "the liability",
+    "n4": "the liabilities",
+    "n5": "liability's",
+    "n6": "liabilities'",
+    "n7": "a liability",
+    "n8": "many liabilities"
+}

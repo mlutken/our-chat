@@ -1,0 +1,18 @@
+{
+    "base": "extremity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "extremity",
+    "n2": "extremities",
+    "n3": "the extremity",
+    "n4": "the extremities",
+    "n5": "extremity's",
+    "n6": "extremities'",
+    "n7": "an extremity",
+    "n8": "many extremities"
+}

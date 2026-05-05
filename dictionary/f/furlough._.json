@@ -1,0 +1,18 @@
+{
+    "base": "furlough",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "furlough",
+    "n2": "furloughs",
+    "n3": "the furlough",
+    "n4": "the furloughs",
+    "n5": "furlough's",
+    "n6": "furloughs'",
+    "n7": "a furlough",
+    "n8": "many furloughs"
+}

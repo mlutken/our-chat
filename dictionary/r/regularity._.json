@@ -1,0 +1,18 @@
+{
+    "base": "regularity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "regularity",
+    "n2": "regularities",
+    "n3": "the regularity",
+    "n4": "the regularities",
+    "n5": "regularity's",
+    "n6": "regularities'",
+    "n7": "a regularity",
+    "n8": "many regularities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "voting precinct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voting precinct",
+    "n2": "voting precincts",
+    "n3": "the voting precinct",
+    "n4": "the voting precincts",
+    "n5": "voting precinct's",
+    "n6": "voting precincts'",
+    "n7": "a voting precinct",
+    "n8": "many voting precincts"
+}

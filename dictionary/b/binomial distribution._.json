@@ -1,0 +1,18 @@
+{
+    "base": "binomial distribution",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "binomial distribution",
+    "n2": "binomial distributions",
+    "n3": "the binomial distribution",
+    "n4": "the binomial distributions",
+    "n5": "binomial distribution's",
+    "n6": "binomial distributions'",
+    "n7": "a binomial distribution",
+    "n8": "many binomial distributions"
+}

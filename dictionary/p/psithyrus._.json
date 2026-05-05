@@ -1,0 +1,18 @@
+{
+    "base": "psithyrus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "psithyrus",
+    "n2": "psithyruses",
+    "n3": "the psithyrus",
+    "n4": "the psithyruses",
+    "n5": "psithyrus'",
+    "n6": "psithyruses'",
+    "n7": "a psithyrus",
+    "n8": "many psithyruses"
+}

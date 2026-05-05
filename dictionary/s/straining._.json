@@ -1,0 +1,18 @@
+{
+    "base": "straining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "straining",
+    "n2": "strainings",
+    "n3": "the straining",
+    "n4": "the strainings",
+    "n5": "straining's",
+    "n6": "strainings'",
+    "n7": "a straining",
+    "n8": "many strainings"
+}

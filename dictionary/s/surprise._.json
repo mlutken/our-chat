@@ -1,0 +1,18 @@
+{
+    "base": "surprise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "surprise",
+    "n2": "surprises",
+    "n3": "the surprise",
+    "n4": "the surprises",
+    "n5": "surprise's",
+    "n6": "surprises'",
+    "n7": "a surprise",
+    "n8": "many surprises"
+}

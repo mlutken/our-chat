@@ -7,5 +7,12 @@
     "n2": "stages",
     "n3": "the stage",
     "n4": "the stages",
-    "n5": "stage's"
+    "n5": "stage's",
+    "proper": false,
+    "commonness": 69,
+    "max_commonness": 6834,
+    "commonness_ge_count": 218,
+    "n6": "stages'",
+    "n7": "a stage",
+    "n8": "many stages"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "hemorrhoid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hemorrhoid",
+    "n2": "hemorrhoids",
+    "n3": "the hemorrhoid",
+    "n4": "the hemorrhoids",
+    "n5": "hemorrhoid's",
+    "n6": "hemorrhoids'",
+    "n7": "a hemorrhoid",
+    "n8": "many hemorrhoids"
+}

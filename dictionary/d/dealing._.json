@@ -1,0 +1,18 @@
+{
+    "base": "dealing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dealing",
+    "n2": "dealings",
+    "n3": "the dealing",
+    "n4": "the dealings",
+    "n5": "dealing's",
+    "n6": "dealings'",
+    "n7": "a dealing",
+    "n8": "many dealings"
+}

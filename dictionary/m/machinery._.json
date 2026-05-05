@@ -1,0 +1,18 @@
+{
+    "base": "machinery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "machinery",
+    "n2": "machineries",
+    "n3": "the machinery",
+    "n4": "the machineries",
+    "n5": "machinery's",
+    "n6": "machineries'",
+    "n7": "a machinery",
+    "n8": "many machineries"
+}

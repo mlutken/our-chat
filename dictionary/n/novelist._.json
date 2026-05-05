@@ -1,0 +1,18 @@
+{
+    "base": "novelist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "novelist",
+    "n2": "novelists",
+    "n3": "the novelist",
+    "n4": "the novelists",
+    "n5": "novelist's",
+    "n6": "novelists'",
+    "n7": "a novelist",
+    "n8": "many novelists"
+}

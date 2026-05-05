@@ -1,11 +1,24 @@
 {
     "base": "buzz",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "buzz",
     "v2": "buzzed",
     "v3": "buzzed",
     "v4": "buzzing",
-    "v5": "buzzes"
+    "v5": "buzzes",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "buzz",
+    "n2": "buzzes",
+    "n3": "the buzz",
+    "n4": "the buzzes",
+    "n5": "buzz's",
+    "n6": "buzzes'",
+    "n7": "a buzz",
+    "n8": "many buzzes"
 }

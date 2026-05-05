@@ -1,0 +1,18 @@
+{
+    "base": "immunoelectrophoresis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "immunoelectrophoresis",
+    "n2": "immunoelectrophoresises",
+    "n3": "the immunoelectrophoresis",
+    "n4": "the immunoelectrophoresises",
+    "n5": "immunoelectrophoresis'",
+    "n6": "immunoelectrophoresises'",
+    "n7": "an immunoelectrophoresis",
+    "n8": "many immunoelectrophoresises"
+}

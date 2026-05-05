@@ -7,5 +7,12 @@
     "n2": "excitements",
     "n3": "the excitement",
     "n4": "the excitements",
-    "n5": "excitement's"
+    "n5": "excitement's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "excitements'",
+    "n7": "an excitement",
+    "n8": "many excitements"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "sacrilege",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sacrilege",
+    "n2": "sacrileges",
+    "n3": "the sacrilege",
+    "n4": "the sacrileges",
+    "n5": "sacrilege's",
+    "n6": "sacrileges'",
+    "n7": "a sacrilege",
+    "n8": "many sacrileges"
+}

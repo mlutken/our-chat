@@ -1,0 +1,18 @@
+{
+    "base": "bog",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bog",
+    "n2": "bogs",
+    "n3": "the bog",
+    "n4": "the bogs",
+    "n5": "bog's",
+    "n6": "bogs'",
+    "n7": "a bog",
+    "n8": "many bogs"
+}

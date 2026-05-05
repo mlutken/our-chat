@@ -1,0 +1,18 @@
+{
+    "base": "adolescent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adolescent",
+    "n2": "adolescents",
+    "n3": "the adolescent",
+    "n4": "the adolescents",
+    "n5": "adolescent's",
+    "n6": "adolescents'",
+    "n7": "an adolescent",
+    "n8": "many adolescents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "learning",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "learning",
+    "n2": "learnings",
+    "n3": "the learning",
+    "n4": "the learnings",
+    "n5": "learning's",
+    "n6": "learnings'",
+    "n7": "a learning",
+    "n8": "many learnings"
+}

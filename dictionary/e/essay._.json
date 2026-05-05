@@ -1,0 +1,18 @@
+{
+    "base": "essay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "essay",
+    "n2": "essays",
+    "n3": "the essay",
+    "n4": "the essays",
+    "n5": "essay's",
+    "n6": "essays'",
+    "n7": "an essay",
+    "n8": "many essays"
+}

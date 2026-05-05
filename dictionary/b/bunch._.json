@@ -1,0 +1,18 @@
+{
+    "base": "bunch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "bunch",
+    "n2": "bunches",
+    "n3": "the bunch",
+    "n4": "the bunches",
+    "n5": "bunch's",
+    "n6": "bunches'",
+    "n7": "a bunch",
+    "n8": "many bunches"
+}

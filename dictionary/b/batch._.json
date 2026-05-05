@@ -1,0 +1,18 @@
+{
+    "base": "batch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "batch",
+    "n2": "batches",
+    "n3": "the batch",
+    "n4": "the batches",
+    "n5": "batch's",
+    "n6": "batches'",
+    "n7": "a batch",
+    "n8": "many batches"
+}

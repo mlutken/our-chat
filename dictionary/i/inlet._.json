@@ -1,0 +1,18 @@
+{
+    "base": "inlet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "inlet",
+    "n2": "inlets",
+    "n3": "the inlet",
+    "n4": "the inlets",
+    "n5": "inlet's",
+    "n6": "inlets'",
+    "n7": "an inlet",
+    "n8": "many inlets"
+}

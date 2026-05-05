@@ -1,0 +1,18 @@
+{
+    "base": "broth of a boy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "broth of a boy",
+    "n2": "broth of a boys",
+    "n3": "the broth of a boy",
+    "n4": "the broth of a boys",
+    "n5": "broth of a boy's",
+    "n6": "broth of a boys'",
+    "n7": "a broth of a boy",
+    "n8": "many broth of a boys"
+}

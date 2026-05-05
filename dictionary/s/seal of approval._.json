@@ -1,0 +1,18 @@
+{
+    "base": "seal of approval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seal of approval",
+    "n2": "seal of approvals",
+    "n3": "the seal of approval",
+    "n4": "the seal of approvals",
+    "n5": "seal of approval's",
+    "n6": "seal of approvals'",
+    "n7": "a seal of approval",
+    "n8": "many seal of approvals"
+}

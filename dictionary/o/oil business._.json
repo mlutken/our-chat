@@ -1,0 +1,18 @@
+{
+    "base": "oil business",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "oil business",
+    "n2": "oil businesses",
+    "n3": "the oil business",
+    "n4": "the oil businesses",
+    "n5": "oil business'",
+    "n6": "oil businesses'",
+    "n7": "an oil business",
+    "n8": "many oil businesses"
+}

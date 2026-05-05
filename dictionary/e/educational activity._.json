@@ -1,0 +1,18 @@
+{
+    "base": "educational activity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "educational activity",
+    "n2": "educational activities",
+    "n3": "the educational activity",
+    "n4": "the educational activities",
+    "n5": "educational activity's",
+    "n6": "educational activities'",
+    "n7": "an educational activity",
+    "n8": "many educational activities"
+}

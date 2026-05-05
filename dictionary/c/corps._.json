@@ -1,0 +1,18 @@
+{
+    "base": "corps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "corps",
+    "n2": "corpses",
+    "n3": "the corps",
+    "n4": "the corpses",
+    "n5": "corps'",
+    "n6": "corpses'",
+    "n7": "a corps",
+    "n8": "many corpses"
+}

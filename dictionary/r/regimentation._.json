@@ -1,0 +1,18 @@
+{
+    "base": "regimentation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "regimentation",
+    "n2": "regimentations",
+    "n3": "the regimentation",
+    "n4": "the regimentations",
+    "n5": "regimentation's",
+    "n6": "regimentations'",
+    "n7": "a regimentation",
+    "n8": "many regimentations"
+}

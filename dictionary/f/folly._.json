@@ -1,0 +1,18 @@
+{
+    "base": "folly",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "folly",
+    "n2": "follies",
+    "n3": "the folly",
+    "n4": "the follies",
+    "n5": "folly's",
+    "n6": "follies'",
+    "n7": "a folly",
+    "n8": "many follies"
+}

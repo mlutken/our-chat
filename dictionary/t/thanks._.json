@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "thanks",
-    "n2": "thanks",
+    "n2": "thankses",
     "n3": "the thanks",
-    "n4": "the thanks",
-    "n5": "thanks's"
+    "n4": "the thankses",
+    "n5": "thanks'",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "thankses'",
+    "n7": "a thanks",
+    "n8": "many thankses"
 }

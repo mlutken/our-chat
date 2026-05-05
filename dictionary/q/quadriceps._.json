@@ -1,0 +1,18 @@
+{
+    "base": "quadriceps",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quadriceps",
+    "n2": "quadricepses",
+    "n3": "the quadriceps",
+    "n4": "the quadricepses",
+    "n5": "quadriceps'",
+    "n6": "quadricepses'",
+    "n7": "a quadriceps",
+    "n8": "many quadricepses"
+}

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "medium",
-    "n2": "mediums",
+    "n2": "media",
     "n3": "the medium",
-    "n4": "the mediums",
-    "n5": "medium's"
+    "n4": "the media",
+    "n5": "medium's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "media's",
+    "n7": "a medium",
+    "n8": "many media"
 }

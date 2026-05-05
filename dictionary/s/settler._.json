@@ -1,0 +1,18 @@
+{
+    "base": "settler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "settler",
+    "n2": "settlers",
+    "n3": "the settler",
+    "n4": "the settlers",
+    "n5": "settler's",
+    "n6": "settlers'",
+    "n7": "a settler",
+    "n8": "many settlers"
+}

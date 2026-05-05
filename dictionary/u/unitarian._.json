@@ -1,0 +1,18 @@
+{
+    "base": "unitarian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unitarian",
+    "n2": "unitarians",
+    "n3": "the unitarian",
+    "n4": "the unitarians",
+    "n5": "unitarian's",
+    "n6": "unitarians'",
+    "n7": "a unitarian",
+    "n8": "many unitarians"
+}

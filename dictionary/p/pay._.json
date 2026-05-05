@@ -1,11 +1,24 @@
 {
     "base": "pay",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pay",
     "v2": "paid",
     "v3": "paid",
     "v4": "paying",
-    "v5": "pays"
+    "v5": "pays",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "pay",
+    "n2": "pays",
+    "n3": "the pay",
+    "n4": "the pays",
+    "n5": "pay's",
+    "n6": "pays'",
+    "n7": "a pay",
+    "n8": "many pays"
 }

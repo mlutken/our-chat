@@ -1,0 +1,18 @@
+{
+    "base": "heroine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "heroine",
+    "n2": "heroines",
+    "n3": "the heroine",
+    "n4": "the heroines",
+    "n5": "heroine's",
+    "n6": "heroines'",
+    "n7": "a heroine",
+    "n8": "many heroines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "encampment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "encampment",
+    "n2": "encampments",
+    "n3": "the encampment",
+    "n4": "the encampments",
+    "n5": "encampment's",
+    "n6": "encampments'",
+    "n7": "an encampment",
+    "n8": "many encampments"
+}

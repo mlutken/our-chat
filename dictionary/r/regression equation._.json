@@ -1,0 +1,18 @@
+{
+    "base": "regression equation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "regression equation",
+    "n2": "regression equations",
+    "n3": "the regression equation",
+    "n4": "the regression equations",
+    "n5": "regression equation's",
+    "n6": "regression equations'",
+    "n7": "a regression equation",
+    "n8": "many regression equations"
+}

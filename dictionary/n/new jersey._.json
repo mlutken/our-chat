@@ -1,0 +1,18 @@
+{
+    "base": "new jersey",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "new jersey",
+    "n2": "new jerseys",
+    "n3": "the new jersey",
+    "n4": "the new jerseys",
+    "n5": "new jersey's",
+    "n6": "new jerseys'",
+    "n7": "a new jersey",
+    "n8": "many new jerseys"
+}

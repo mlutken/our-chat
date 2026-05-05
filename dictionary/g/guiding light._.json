@@ -1,0 +1,18 @@
+{
+    "base": "guiding light",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guiding light",
+    "n2": "guiding lights",
+    "n3": "the guiding light",
+    "n4": "the guiding lights",
+    "n5": "guiding light's",
+    "n6": "guiding lights'",
+    "n7": "a guiding light",
+    "n8": "many guiding lights"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fixer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fixer",
+    "n2": "fixers",
+    "n3": "the fixer",
+    "n4": "the fixers",
+    "n5": "fixer's",
+    "n6": "fixers'",
+    "n7": "a fixer",
+    "n8": "many fixers"
+}

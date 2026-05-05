@@ -7,5 +7,12 @@
     "n2": "experts",
     "n3": "the expert",
     "n4": "the experts",
-    "n5": "expert's"
+    "n5": "expert's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "experts'",
+    "n7": "an expert",
+    "n8": "many experts"
 }

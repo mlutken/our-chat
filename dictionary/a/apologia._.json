@@ -1,0 +1,18 @@
+{
+    "base": "apologia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "apologia",
+    "n2": "apologias",
+    "n3": "the apologia",
+    "n4": "the apologias",
+    "n5": "apologia's",
+    "n6": "apologias'",
+    "n7": "an apologia",
+    "n8": "many apologias"
+}

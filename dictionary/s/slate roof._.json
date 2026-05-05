@@ -1,0 +1,18 @@
+{
+    "base": "slate roof",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slate roof",
+    "n2": "slate rooves",
+    "n3": "the slate roof",
+    "n4": "the slate rooves",
+    "n5": "slate roof's",
+    "n6": "slate rooves'",
+    "n7": "a slate roof",
+    "n8": "many slate rooves"
+}

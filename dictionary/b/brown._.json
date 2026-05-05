@@ -1,0 +1,18 @@
+{
+    "base": "brown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brown",
+    "n2": "browns",
+    "n3": "the brown",
+    "n4": "the browns",
+    "n5": "brown's",
+    "n6": "browns'",
+    "n7": "a brown",
+    "n8": "many browns"
+}

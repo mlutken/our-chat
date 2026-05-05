@@ -1,0 +1,18 @@
+{
+    "base": "flowering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "flowering",
+    "n2": "flowerings",
+    "n3": "the flowering",
+    "n4": "the flowerings",
+    "n5": "flowering's",
+    "n6": "flowerings'",
+    "n7": "a flowering",
+    "n8": "many flowerings"
+}

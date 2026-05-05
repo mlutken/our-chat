@@ -1,0 +1,18 @@
+{
+    "base": "delhi boil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "delhi boil",
+    "n2": "delhi boils",
+    "n3": "the delhi boil",
+    "n4": "the delhi boils",
+    "n5": "delhi boil's",
+    "n6": "delhi boils'",
+    "n7": "a delhi boil",
+    "n8": "many delhi boils"
+}

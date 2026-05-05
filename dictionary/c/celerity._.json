@@ -1,0 +1,18 @@
+{
+    "base": "celerity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "celerity",
+    "n2": "celerities",
+    "n3": "the celerity",
+    "n4": "the celerities",
+    "n5": "celerity's",
+    "n6": "celerities'",
+    "n7": "a celerity",
+    "n8": "many celerities"
+}

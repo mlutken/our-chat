@@ -1,0 +1,18 @@
+{
+    "base": "sushi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sushi",
+    "n2": "sushis",
+    "n3": "the sushi",
+    "n4": "the sushis",
+    "n5": "sushi's",
+    "n6": "sushis'",
+    "n7": "a sushi",
+    "n8": "many sushis"
+}

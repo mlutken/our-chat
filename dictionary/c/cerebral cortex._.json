@@ -1,0 +1,18 @@
+{
+    "base": "cerebral cortex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cerebral cortex",
+    "n2": "cerebral cortexes",
+    "n3": "the cerebral cortex",
+    "n4": "the cerebral cortexes",
+    "n5": "cerebral cortex's",
+    "n6": "cerebral cortexes'",
+    "n7": "a cerebral cortex",
+    "n8": "many cerebral cortexes"
+}

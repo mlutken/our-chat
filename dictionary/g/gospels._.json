@@ -1,0 +1,18 @@
+{
+    "base": "gospels",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gospels",
+    "n2": "gospelses",
+    "n3": "the gospels",
+    "n4": "the gospelses",
+    "n5": "gospels'",
+    "n6": "gospelses'",
+    "n7": "a gospels",
+    "n8": "many gospelses"
+}

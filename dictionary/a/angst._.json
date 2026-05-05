@@ -1,0 +1,18 @@
+{
+    "base": "angst",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "angst",
+    "n2": "angsts",
+    "n3": "the angst",
+    "n4": "the angsts",
+    "n5": "angst's",
+    "n6": "angsts'",
+    "n7": "an angst",
+    "n8": "many angsts"
+}

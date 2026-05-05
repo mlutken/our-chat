@@ -1,0 +1,18 @@
+{
+    "base": "gusto",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gusto",
+    "n2": "gustos",
+    "n3": "the gusto",
+    "n4": "the gustos",
+    "n5": "gusto's",
+    "n6": "gustos'",
+    "n7": "a gusto",
+    "n8": "many gustos"
+}

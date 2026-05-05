@@ -7,5 +7,12 @@
     "n2": "suggestions",
     "n3": "the suggestion",
     "n4": "the suggestions",
-    "n5": "suggestion's"
+    "n5": "suggestion's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "suggestions'",
+    "n7": "a suggestion",
+    "n8": "many suggestions"
 }

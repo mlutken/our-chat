@@ -1,0 +1,18 @@
+{
+    "base": "shenanigan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "shenanigan",
+    "n2": "shenanigans",
+    "n3": "the shenanigan",
+    "n4": "the shenanigans",
+    "n5": "shenanigan's",
+    "n6": "shenanigans'",
+    "n7": "a shenanigan",
+    "n8": "many shenanigans"
+}

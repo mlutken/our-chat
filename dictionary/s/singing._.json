@@ -1,0 +1,18 @@
+{
+    "base": "singing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "singing",
+    "n2": "singings",
+    "n3": "the singing",
+    "n4": "the singings",
+    "n5": "singing's",
+    "n6": "singings'",
+    "n7": "a singing",
+    "n8": "many singings"
+}

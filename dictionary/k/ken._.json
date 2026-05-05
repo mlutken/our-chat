@@ -1,0 +1,18 @@
+{
+    "base": "ken",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ken",
+    "n2": "kens",
+    "n3": "the ken",
+    "n4": "the kens",
+    "n5": "ken's",
+    "n6": "kens'",
+    "n7": "a ken",
+    "n8": "many kens"
+}

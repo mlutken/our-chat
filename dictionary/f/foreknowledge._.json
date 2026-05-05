@@ -1,0 +1,18 @@
+{
+    "base": "foreknowledge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foreknowledge",
+    "n2": "foreknowledges",
+    "n3": "the foreknowledge",
+    "n4": "the foreknowledges",
+    "n5": "foreknowledge's",
+    "n6": "foreknowledges'",
+    "n7": "a foreknowledge",
+    "n8": "many foreknowledges"
+}

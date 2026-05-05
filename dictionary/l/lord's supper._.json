@@ -1,0 +1,18 @@
+{
+    "base": "lord's supper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lord's supper",
+    "n2": "lord's suppers",
+    "n3": "the lord's supper",
+    "n4": "the lord's suppers",
+    "n5": "lord's supper's",
+    "n6": "lord's suppers'",
+    "n7": "a lord's supper",
+    "n8": "many lord's suppers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wagon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 25,
+    "max_commonness": 6834,
+    "commonness_ge_count": 758,
+    "n1": "wagon",
+    "n2": "wagons",
+    "n3": "the wagon",
+    "n4": "the wagons",
+    "n5": "wagon's",
+    "n6": "wagons'",
+    "n7": "a wagon",
+    "n8": "many wagons"
+}

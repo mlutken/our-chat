@@ -7,5 +7,12 @@
     "n2": "articles",
     "n3": "the article",
     "n4": "the articles",
-    "n5": "article's"
+    "n5": "article's",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "articles'",
+    "n7": "an article",
+    "n8": "many articles"
 }

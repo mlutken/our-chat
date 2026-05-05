@@ -13,5 +13,12 @@
     "v2": "hoped",
     "v3": "hoped",
     "v4": "hoping",
-    "v5": "hopes"
+    "v5": "hopes",
+    "proper": false,
+    "commonness": 51,
+    "max_commonness": 6834,
+    "commonness_ge_count": 322,
+    "n6": "hopes'",
+    "n7": "a hope",
+    "n8": "many hopes"
 }

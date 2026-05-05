@@ -7,5 +7,12 @@
     "n2": "contexts",
     "n3": "the context",
     "n4": "the contexts",
-    "n5": "context's"
+    "n5": "context's",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n6": "contexts'",
+    "n7": "a context",
+    "n8": "many contexts"
 }

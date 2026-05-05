@@ -1,0 +1,18 @@
+{
+    "base": "ruling",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "ruling",
+    "n2": "rulings",
+    "n3": "the ruling",
+    "n4": "the rulings",
+    "n5": "ruling's",
+    "n6": "rulings'",
+    "n7": "a ruling",
+    "n8": "many rulings"
+}

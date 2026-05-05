@@ -1,0 +1,18 @@
+{
+    "base": "objectification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "objectification",
+    "n2": "objectifications",
+    "n3": "the objectification",
+    "n4": "the objectifications",
+    "n5": "objectification's",
+    "n6": "objectifications'",
+    "n7": "an objectification",
+    "n8": "many objectifications"
+}

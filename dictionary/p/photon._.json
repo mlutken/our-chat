@@ -1,0 +1,18 @@
+{
+    "base": "photon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "photon",
+    "n2": "photons",
+    "n3": "the photon",
+    "n4": "the photons",
+    "n5": "photon's",
+    "n6": "photons'",
+    "n7": "a photon",
+    "n8": "many photons"
+}

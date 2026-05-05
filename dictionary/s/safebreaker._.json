@@ -1,0 +1,18 @@
+{
+    "base": "safebreaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "safebreaker",
+    "n2": "safebreakers",
+    "n3": "the safebreaker",
+    "n4": "the safebreakers",
+    "n5": "safebreaker's",
+    "n6": "safebreakers'",
+    "n7": "a safebreaker",
+    "n8": "many safebreakers"
+}

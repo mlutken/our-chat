@@ -1,0 +1,18 @@
+{
+    "base": "ml",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "ml",
+    "n2": "mls",
+    "n3": "the ml",
+    "n4": "the mls",
+    "n5": "ml's",
+    "n6": "mls'",
+    "n7": "a ml",
+    "n8": "many mls"
+}

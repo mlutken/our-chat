@@ -1,0 +1,18 @@
+{
+    "base": "timetable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "timetable",
+    "n2": "timetables",
+    "n3": "the timetable",
+    "n4": "the timetables",
+    "n5": "timetable's",
+    "n6": "timetables'",
+    "n7": "a timetable",
+    "n8": "many timetables"
+}

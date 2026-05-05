@@ -1,0 +1,18 @@
+{
+    "base": "rank and file",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rank and file",
+    "n2": "rank and files",
+    "n3": "the rank and file",
+    "n4": "the rank and files",
+    "n5": "rank and file's",
+    "n6": "rank and files'",
+    "n7": "a rank and file",
+    "n8": "many rank and files"
+}

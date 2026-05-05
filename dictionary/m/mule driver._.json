@@ -1,0 +1,18 @@
+{
+    "base": "mule driver",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "mule driver",
+    "n2": "mule drivers",
+    "n3": "the mule driver",
+    "n4": "the mule drivers",
+    "n5": "mule driver's",
+    "n6": "mule drivers'",
+    "n7": "a mule driver",
+    "n8": "many mule drivers"
+}

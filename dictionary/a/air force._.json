@@ -1,0 +1,18 @@
+{
+    "base": "air force",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "air force",
+    "n2": "air forces",
+    "n3": "the air force",
+    "n4": "the air forces",
+    "n5": "air force's",
+    "n6": "air forces'",
+    "n7": "an air force",
+    "n8": "many air forces"
+}

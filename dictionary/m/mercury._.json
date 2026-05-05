@@ -1,0 +1,18 @@
+{
+    "base": "mercury",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "mercury",
+    "n2": "mercuries",
+    "n3": "the mercury",
+    "n4": "the mercuries",
+    "n5": "mercury's",
+    "n6": "mercuries'",
+    "n7": "a mercury",
+    "n8": "many mercuries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "foresight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "foresight",
+    "n2": "foresights",
+    "n3": "the foresight",
+    "n4": "the foresights",
+    "n5": "foresight's",
+    "n6": "foresights'",
+    "n7": "a foresight",
+    "n8": "many foresights"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "shrug",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "shrug",
+    "n2": "shrugs",
+    "n3": "the shrug",
+    "n4": "the shrugs",
+    "n5": "shrug's",
+    "n6": "shrugs'",
+    "n7": "a shrug",
+    "n8": "many shrugs"
+}

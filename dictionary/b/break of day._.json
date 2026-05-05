@@ -1,0 +1,18 @@
+{
+    "base": "break of day",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "break of day",
+    "n2": "break of days",
+    "n3": "the break of day",
+    "n4": "the break of days",
+    "n5": "break of day's",
+    "n6": "break of days'",
+    "n7": "a break of day",
+    "n8": "many break of days"
+}

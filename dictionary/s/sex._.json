@@ -1,0 +1,18 @@
+{
+    "base": "sex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "sex",
+    "n2": "sexes",
+    "n3": "the sex",
+    "n4": "the sexes",
+    "n5": "sex's",
+    "n6": "sexes'",
+    "n7": "a sex",
+    "n8": "many sexes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "movie house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "movie house",
+    "n2": "movie houses",
+    "n3": "the movie house",
+    "n4": "the movie houses",
+    "n5": "movie house's",
+    "n6": "movie houses'",
+    "n7": "a movie house",
+    "n8": "many movie houses"
+}

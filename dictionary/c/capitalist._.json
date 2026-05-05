@@ -1,0 +1,18 @@
+{
+    "base": "capitalist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capitalist",
+    "n2": "capitalists",
+    "n3": "the capitalist",
+    "n4": "the capitalists",
+    "n5": "capitalist's",
+    "n6": "capitalists'",
+    "n7": "a capitalist",
+    "n8": "many capitalists"
+}

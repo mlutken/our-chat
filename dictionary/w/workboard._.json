@@ -1,0 +1,18 @@
+{
+    "base": "workboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "workboard",
+    "n2": "workboards",
+    "n3": "the workboard",
+    "n4": "the workboards",
+    "n5": "workboard's",
+    "n6": "workboards'",
+    "n7": "a workboard",
+    "n8": "many workboards"
+}

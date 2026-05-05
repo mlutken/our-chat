@@ -1,0 +1,18 @@
+{
+    "base": "accretion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "accretion",
+    "n2": "accretions",
+    "n3": "the accretion",
+    "n4": "the accretions",
+    "n5": "accretion's",
+    "n6": "accretions'",
+    "n7": "an accretion",
+    "n8": "many accretions"
+}

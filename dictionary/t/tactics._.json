@@ -1,0 +1,18 @@
+{
+    "base": "tactics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tactics",
+    "n2": "tacticses",
+    "n3": "the tactics",
+    "n4": "the tacticses",
+    "n5": "tactics'",
+    "n6": "tacticses'",
+    "n7": "a tactics",
+    "n8": "many tacticses"
+}

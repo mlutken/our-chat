@@ -1,0 +1,18 @@
+{
+    "base": "ray",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "ray",
+    "n2": "rays",
+    "n3": "the ray",
+    "n4": "the rays",
+    "n5": "ray's",
+    "n6": "rays'",
+    "n7": "a ray",
+    "n8": "many rays"
+}

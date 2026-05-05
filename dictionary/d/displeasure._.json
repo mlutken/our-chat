@@ -1,0 +1,18 @@
+{
+    "base": "displeasure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "displeasure",
+    "n2": "displeasures",
+    "n3": "the displeasure",
+    "n4": "the displeasures",
+    "n5": "displeasure's",
+    "n6": "displeasures'",
+    "n7": "a displeasure",
+    "n8": "many displeasures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "rearguard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rearguard",
+    "n2": "rearguards",
+    "n3": "the rearguard",
+    "n4": "the rearguards",
+    "n5": "rearguard's",
+    "n6": "rearguards'",
+    "n7": "a rearguard",
+    "n8": "many rearguards"
+}

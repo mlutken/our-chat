@@ -1,0 +1,18 @@
+{
+    "base": "wreckage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wreckage",
+    "n2": "wreckages",
+    "n3": "the wreckage",
+    "n4": "the wreckages",
+    "n5": "wreckage's",
+    "n6": "wreckages'",
+    "n7": "a wreckage",
+    "n8": "many wreckages"
+}

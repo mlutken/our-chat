@@ -1,0 +1,18 @@
+{
+    "base": "time-delay measuring system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "time-delay measuring system",
+    "n2": "time-delay measuring systems",
+    "n3": "the time-delay measuring system",
+    "n4": "the time-delay measuring systems",
+    "n5": "time-delay measuring system's",
+    "n6": "time-delay measuring systems'",
+    "n7": "a time-delay measuring system",
+    "n8": "many time-delay measuring systems"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "chip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chip",
+    "n2": "chips",
+    "n3": "the chip",
+    "n4": "the chips",
+    "n5": "chip's",
+    "n6": "chips'",
+    "n7": "a chip",
+    "n8": "many chips"
+}

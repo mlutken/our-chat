@@ -1,0 +1,18 @@
+{
+    "base": "ester",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ester",
+    "n2": "esters",
+    "n3": "the ester",
+    "n4": "the esters",
+    "n5": "ester's",
+    "n6": "esters'",
+    "n7": "an ester",
+    "n8": "many esters"
+}

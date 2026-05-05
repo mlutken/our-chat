@@ -1,0 +1,18 @@
+{
+    "base": "wattle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wattle",
+    "n2": "wattles",
+    "n3": "the wattle",
+    "n4": "the wattles",
+    "n5": "wattle's",
+    "n6": "wattles'",
+    "n7": "a wattle",
+    "n8": "many wattles"
+}

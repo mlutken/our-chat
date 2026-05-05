@@ -1,0 +1,18 @@
+{
+    "base": "presidency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "presidency",
+    "n2": "presidencies",
+    "n3": "the presidency",
+    "n4": "the presidencies",
+    "n5": "presidency's",
+    "n6": "presidencies'",
+    "n7": "a presidency",
+    "n8": "many presidencies"
+}

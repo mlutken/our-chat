@@ -1,0 +1,18 @@
+{
+    "base": "controller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "controller",
+    "n2": "controllers",
+    "n3": "the controller",
+    "n4": "the controllers",
+    "n5": "controller's",
+    "n6": "controllers'",
+    "n7": "a controller",
+    "n8": "many controllers"
+}

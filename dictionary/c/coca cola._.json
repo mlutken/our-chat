@@ -1,0 +1,18 @@
+{
+    "base": "coca cola",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coca cola",
+    "n2": "coca colas",
+    "n3": "the coca cola",
+    "n4": "the coca colas",
+    "n5": "coca cola's",
+    "n6": "coca colas'",
+    "n7": "a coca cola",
+    "n8": "many coca colas"
+}

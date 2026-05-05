@@ -1,0 +1,18 @@
+{
+    "base": "falcon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "falcon",
+    "n2": "falcons",
+    "n3": "the falcon",
+    "n4": "the falcons",
+    "n5": "falcon's",
+    "n6": "falcons'",
+    "n7": "a falcon",
+    "n8": "many falcons"
+}

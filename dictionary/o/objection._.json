@@ -1,0 +1,18 @@
+{
+    "base": "objection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "objection",
+    "n2": "objections",
+    "n3": "the objection",
+    "n4": "the objections",
+    "n5": "objection's",
+    "n6": "objections'",
+    "n7": "an objection",
+    "n8": "many objections"
+}

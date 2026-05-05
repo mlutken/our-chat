@@ -1,0 +1,18 @@
+{
+    "base": "hoop snake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hoop snake",
+    "n2": "hoop snakes",
+    "n3": "the hoop snake",
+    "n4": "the hoop snakes",
+    "n5": "hoop snake's",
+    "n6": "hoop snakes'",
+    "n7": "a hoop snake",
+    "n8": "many hoop snakes"
+}

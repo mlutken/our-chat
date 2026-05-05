@@ -1,0 +1,18 @@
+{
+    "base": "allusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "allusion",
+    "n2": "allusions",
+    "n3": "the allusion",
+    "n4": "the allusions",
+    "n5": "allusion's",
+    "n6": "allusions'",
+    "n7": "an allusion",
+    "n8": "many allusions"
+}

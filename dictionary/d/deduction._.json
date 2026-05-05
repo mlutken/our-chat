@@ -1,0 +1,18 @@
+{
+    "base": "deduction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "deduction",
+    "n2": "deductions",
+    "n3": "the deduction",
+    "n4": "the deductions",
+    "n5": "deduction's",
+    "n6": "deductions'",
+    "n7": "a deduction",
+    "n8": "many deductions"
+}

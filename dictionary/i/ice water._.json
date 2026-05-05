@@ -1,0 +1,18 @@
+{
+    "base": "ice water",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ice water",
+    "n2": "ice waters",
+    "n3": "the ice water",
+    "n4": "the ice waters",
+    "n5": "ice water's",
+    "n6": "ice waters'",
+    "n7": "an ice water",
+    "n8": "many ice waters"
+}

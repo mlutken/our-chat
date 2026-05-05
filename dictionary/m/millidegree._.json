@@ -1,0 +1,18 @@
+{
+    "base": "millidegree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "millidegree",
+    "n2": "millidegrees",
+    "n3": "the millidegree",
+    "n4": "the millidegrees",
+    "n5": "millidegree's",
+    "n6": "millidegrees'",
+    "n7": "a millidegree",
+    "n8": "many millidegrees"
+}

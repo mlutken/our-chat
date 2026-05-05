@@ -1,0 +1,18 @@
+{
+    "base": "yesteryear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yesteryear",
+    "n2": "yesteryears",
+    "n3": "the yesteryear",
+    "n4": "the yesteryears",
+    "n5": "yesteryear's",
+    "n6": "yesteryears'",
+    "n7": "a yesteryear",
+    "n8": "many yesteryears"
+}

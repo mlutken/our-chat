@@ -1,0 +1,18 @@
+{
+    "base": "emotionality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "emotionality",
+    "n2": "emotionalities",
+    "n3": "the emotionality",
+    "n4": "the emotionalities",
+    "n5": "emotionality's",
+    "n6": "emotionalities'",
+    "n7": "an emotionality",
+    "n8": "many emotionalities"
+}

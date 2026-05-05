@@ -1,0 +1,18 @@
+{
+    "base": "rapport",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rapport",
+    "n2": "rapports",
+    "n3": "the rapport",
+    "n4": "the rapports",
+    "n5": "rapport's",
+    "n6": "rapports'",
+    "n7": "a rapport",
+    "n8": "many rapports"
+}

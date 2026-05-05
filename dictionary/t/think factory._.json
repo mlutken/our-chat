@@ -1,0 +1,18 @@
+{
+    "base": "think factory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "think factory",
+    "n2": "think factories",
+    "n3": "the think factory",
+    "n4": "the think factories",
+    "n5": "think factory's",
+    "n6": "think factories'",
+    "n7": "a think factory",
+    "n8": "many think factories"
+}

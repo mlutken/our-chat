@@ -1,0 +1,18 @@
+{
+    "base": "salesman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "salesman",
+    "n2": "salesmen",
+    "n3": "the salesman",
+    "n4": "the salesmen",
+    "n5": "salesman's",
+    "n6": "salesmen's",
+    "n7": "a salesman",
+    "n8": "many salesmen"
+}

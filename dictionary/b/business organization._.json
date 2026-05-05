@@ -1,0 +1,18 @@
+{
+    "base": "business organization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "business organization",
+    "n2": "business organizations",
+    "n3": "the business organization",
+    "n4": "the business organizations",
+    "n5": "business organization's",
+    "n6": "business organizations'",
+    "n7": "a business organization",
+    "n8": "many business organizations"
+}

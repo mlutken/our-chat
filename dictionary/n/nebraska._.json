@@ -1,0 +1,18 @@
+{
+    "base": "nebraska",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nebraska",
+    "n2": "nebraskas",
+    "n3": "the nebraska",
+    "n4": "the nebraskas",
+    "n5": "nebraska's",
+    "n6": "nebraskas'",
+    "n7": "a nebraska",
+    "n8": "many nebraskas"
+}

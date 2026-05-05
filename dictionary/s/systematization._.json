@@ -1,0 +1,18 @@
+{
+    "base": "systematization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "systematization",
+    "n2": "systematizations",
+    "n3": "the systematization",
+    "n4": "the systematizations",
+    "n5": "systematization's",
+    "n6": "systematizations'",
+    "n7": "a systematization",
+    "n8": "many systematizations"
+}

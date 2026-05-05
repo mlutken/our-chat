@@ -1,0 +1,18 @@
+{
+    "base": "friendliness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "friendliness",
+    "n2": "friendlinesses",
+    "n3": "the friendliness",
+    "n4": "the friendlinesses",
+    "n5": "friendliness'",
+    "n6": "friendlinesses'",
+    "n7": "a friendliness",
+    "n8": "many friendlinesses"
+}

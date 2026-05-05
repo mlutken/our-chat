@@ -1,0 +1,18 @@
+{
+    "base": "fourth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fourth",
+    "n2": "fourths",
+    "n3": "the fourth",
+    "n4": "the fourths",
+    "n5": "fourth's",
+    "n6": "fourths'",
+    "n7": "a fourth",
+    "n8": "many fourths"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ideology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ideology",
+    "n2": "ideologies",
+    "n3": "the ideology",
+    "n4": "the ideologies",
+    "n5": "ideology's",
+    "n6": "ideologies'",
+    "n7": "an ideology",
+    "n8": "many ideologies"
+}

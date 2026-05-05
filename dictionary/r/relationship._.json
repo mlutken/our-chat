@@ -7,5 +7,12 @@
     "n2": "relationships",
     "n3": "the relationship",
     "n4": "the relationships",
-    "n5": "relationship's"
+    "n5": "relationship's",
+    "proper": false,
+    "commonness": 42,
+    "max_commonness": 6834,
+    "commonness_ge_count": 413,
+    "n6": "relationships'",
+    "n7": "a relationship",
+    "n8": "many relationships"
 }

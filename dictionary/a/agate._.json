@@ -1,0 +1,18 @@
+{
+    "base": "agate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "agate",
+    "n2": "agates",
+    "n3": "the agate",
+    "n4": "the agates",
+    "n5": "agate's",
+    "n6": "agates'",
+    "n7": "an agate",
+    "n8": "many agates"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "voting right",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voting right",
+    "n2": "voting rights",
+    "n3": "the voting right",
+    "n4": "the voting rights",
+    "n5": "voting right's",
+    "n6": "voting rights'",
+    "n7": "a voting right",
+    "n8": "many voting rights"
+}

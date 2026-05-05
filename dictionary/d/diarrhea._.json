@@ -1,0 +1,18 @@
+{
+    "base": "diarrhea",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "diarrhea",
+    "n2": "diarrheas",
+    "n3": "the diarrhea",
+    "n4": "the diarrheas",
+    "n5": "diarrhea's",
+    "n6": "diarrheas'",
+    "n7": "a diarrhea",
+    "n8": "many diarrheas"
+}

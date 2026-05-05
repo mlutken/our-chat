@@ -1,0 +1,18 @@
+{
+    "base": "chairman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "chairman",
+    "n2": "chairmen",
+    "n3": "the chairman",
+    "n4": "the chairmen",
+    "n5": "chairman's",
+    "n6": "chairmen's",
+    "n7": "a chairman",
+    "n8": "many chairmen"
+}

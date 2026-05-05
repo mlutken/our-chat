@@ -1,0 +1,18 @@
+{
+    "base": "press conference",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "press conference",
+    "n2": "press conferences",
+    "n3": "the press conference",
+    "n4": "the press conferences",
+    "n5": "press conference's",
+    "n6": "press conferences'",
+    "n7": "a press conference",
+    "n8": "many press conferences"
+}

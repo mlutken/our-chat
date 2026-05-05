@@ -1,0 +1,18 @@
+{
+    "base": "proton",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proton",
+    "n2": "protons",
+    "n3": "the proton",
+    "n4": "the protons",
+    "n5": "proton's",
+    "n6": "protons'",
+    "n7": "a proton",
+    "n8": "many protons"
+}

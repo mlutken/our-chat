@@ -1,0 +1,18 @@
+{
+    "base": "bathos",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bathos",
+    "n2": "bathoses",
+    "n3": "the bathos",
+    "n4": "the bathoses",
+    "n5": "bathos'",
+    "n6": "bathoses'",
+    "n7": "a bathos",
+    "n8": "many bathoses"
+}

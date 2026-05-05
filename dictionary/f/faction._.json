@@ -1,0 +1,18 @@
+{
+    "base": "faction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "faction",
+    "n2": "factions",
+    "n3": "the faction",
+    "n4": "the factions",
+    "n5": "faction's",
+    "n6": "factions'",
+    "n7": "a faction",
+    "n8": "many factions"
+}

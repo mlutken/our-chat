@@ -1,0 +1,18 @@
+{
+    "base": "iceland",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "iceland",
+    "n2": "icelands",
+    "n3": "the iceland",
+    "n4": "the icelands",
+    "n5": "iceland's",
+    "n6": "icelands'",
+    "n7": "an iceland",
+    "n8": "many icelands"
+}

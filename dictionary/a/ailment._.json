@@ -1,0 +1,18 @@
+{
+    "base": "ailment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "ailment",
+    "n2": "ailments",
+    "n3": "the ailment",
+    "n4": "the ailments",
+    "n5": "ailment's",
+    "n6": "ailments'",
+    "n7": "an ailment",
+    "n8": "many ailments"
+}

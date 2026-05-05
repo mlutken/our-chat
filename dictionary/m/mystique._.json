@@ -1,0 +1,18 @@
+{
+    "base": "mystique",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mystique",
+    "n2": "mystiques",
+    "n3": "the mystique",
+    "n4": "the mystiques",
+    "n5": "mystique's",
+    "n6": "mystiques'",
+    "n7": "a mystique",
+    "n8": "many mystiques"
+}

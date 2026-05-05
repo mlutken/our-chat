@@ -1,0 +1,18 @@
+{
+    "base": "hardware store",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hardware store",
+    "n2": "hardware stores",
+    "n3": "the hardware store",
+    "n4": "the hardware stores",
+    "n5": "hardware store's",
+    "n6": "hardware stores'",
+    "n7": "a hardware store",
+    "n8": "many hardware stores"
+}

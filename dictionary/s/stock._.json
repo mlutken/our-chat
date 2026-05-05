@@ -7,5 +7,12 @@
     "n2": "stocks",
     "n3": "the stock",
     "n4": "the stocks",
-    "n5": "stock's"
+    "n5": "stock's",
+    "proper": false,
+    "commonness": 38,
+    "max_commonness": 6834,
+    "commonness_ge_count": 474,
+    "n6": "stocks'",
+    "n7": "a stock",
+    "n8": "many stocks"
 }

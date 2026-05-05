@@ -1,0 +1,18 @@
+{
+    "base": "national park",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "national park",
+    "n2": "national parks",
+    "n3": "the national park",
+    "n4": "the national parks",
+    "n5": "national park's",
+    "n6": "national parks'",
+    "n7": "a national park",
+    "n8": "many national parks"
+}

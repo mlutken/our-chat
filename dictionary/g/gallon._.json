@@ -1,0 +1,18 @@
+{
+    "base": "gallon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gallon",
+    "n2": "gallons",
+    "n3": "the gallon",
+    "n4": "the gallons",
+    "n5": "gallon's",
+    "n6": "gallons'",
+    "n7": "a gallon",
+    "n8": "many gallons"
+}

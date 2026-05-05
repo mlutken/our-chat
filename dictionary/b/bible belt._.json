@@ -1,0 +1,18 @@
+{
+    "base": "bible belt",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bible belt",
+    "n2": "bible belts",
+    "n3": "the bible belt",
+    "n4": "the bible belts",
+    "n5": "bible belt's",
+    "n6": "bible belts'",
+    "n7": "a bible belt",
+    "n8": "many bible belts"
+}

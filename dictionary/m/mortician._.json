@@ -1,0 +1,18 @@
+{
+    "base": "mortician",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mortician",
+    "n2": "morticians",
+    "n3": "the mortician",
+    "n4": "the morticians",
+    "n5": "mortician's",
+    "n6": "morticians'",
+    "n7": "a mortician",
+    "n8": "many morticians"
+}

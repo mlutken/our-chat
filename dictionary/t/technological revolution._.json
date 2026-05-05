@@ -1,0 +1,18 @@
+{
+    "base": "technological revolution",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "technological revolution",
+    "n2": "technological revolutions",
+    "n3": "the technological revolution",
+    "n4": "the technological revolutions",
+    "n5": "technological revolution's",
+    "n6": "technological revolutions'",
+    "n7": "a technological revolution",
+    "n8": "many technological revolutions"
+}

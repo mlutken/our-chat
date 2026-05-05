@@ -1,0 +1,18 @@
+{
+    "base": "streamliner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "streamliner",
+    "n2": "streamliners",
+    "n3": "the streamliner",
+    "n4": "the streamliners",
+    "n5": "streamliner's",
+    "n6": "streamliners'",
+    "n7": "a streamliner",
+    "n8": "many streamliners"
+}

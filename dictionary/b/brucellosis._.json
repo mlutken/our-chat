@@ -1,0 +1,18 @@
+{
+    "base": "brucellosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brucellosis",
+    "n2": "brucellosises",
+    "n3": "the brucellosis",
+    "n4": "the brucellosises",
+    "n5": "brucellosis'",
+    "n6": "brucellosises'",
+    "n7": "a brucellosis",
+    "n8": "many brucellosises"
+}

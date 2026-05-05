@@ -1,0 +1,18 @@
+{
+    "base": "tv audience",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tv audience",
+    "n2": "tv audiences",
+    "n3": "the tv audience",
+    "n4": "the tv audiences",
+    "n5": "tv audience's",
+    "n6": "tv audiences'",
+    "n7": "a tv audience",
+    "n8": "many tv audiences"
+}

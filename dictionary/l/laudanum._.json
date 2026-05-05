@@ -1,0 +1,18 @@
+{
+    "base": "laudanum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laudanum",
+    "n2": "laudanums",
+    "n3": "the laudanum",
+    "n4": "the laudanums",
+    "n5": "laudanum's",
+    "n6": "laudanums'",
+    "n7": "a laudanum",
+    "n8": "many laudanums"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "kick up",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "kick up",
+    "n2": "kick ups",
+    "n3": "the kick up",
+    "n4": "the kick ups",
+    "n5": "kick up's",
+    "n6": "kick ups'",
+    "n7": "a kick up",
+    "n8": "many kick ups"
+}

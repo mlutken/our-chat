@@ -1,11 +1,24 @@
 {
     "base": "desert",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "desert",
     "v2": "deserted",
     "v3": "deserted",
     "v4": "deserting",
-    "v5": "deserts"
+    "v5": "deserts",
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "desert",
+    "n2": "deserts",
+    "n3": "the desert",
+    "n4": "the deserts",
+    "n5": "desert's",
+    "n6": "deserts'",
+    "n7": "a desert",
+    "n8": "many deserts"
 }

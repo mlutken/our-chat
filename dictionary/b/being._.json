@@ -1,7 +1,20 @@
 {
     "base": "being",
     "classes": [
+        "n",
         "misc"
     ],
-    "f0": "being"
+    "f0": "being",
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "being",
+    "n2": "beings",
+    "n3": "the being",
+    "n4": "the beings",
+    "n5": "being's",
+    "n6": "beings'",
+    "n7": "a being",
+    "n8": "many beings"
 }

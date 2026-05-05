@@ -1,0 +1,18 @@
+{
+    "base": "harem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "harem",
+    "n2": "harems",
+    "n3": "the harem",
+    "n4": "the harems",
+    "n5": "harem's",
+    "n6": "harems'",
+    "n7": "a harem",
+    "n8": "many harems"
+}

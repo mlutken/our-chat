@@ -1,0 +1,18 @@
+{
+    "base": "working capital",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "working capital",
+    "n2": "working capitals",
+    "n3": "the working capital",
+    "n4": "the working capitals",
+    "n5": "working capital's",
+    "n6": "working capitals'",
+    "n7": "a working capital",
+    "n8": "many working capitals"
+}

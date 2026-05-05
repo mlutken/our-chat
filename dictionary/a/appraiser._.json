@@ -1,0 +1,18 @@
+{
+    "base": "appraiser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "appraiser",
+    "n2": "appraisers",
+    "n3": "the appraiser",
+    "n4": "the appraisers",
+    "n5": "appraiser's",
+    "n6": "appraisers'",
+    "n7": "an appraiser",
+    "n8": "many appraisers"
+}

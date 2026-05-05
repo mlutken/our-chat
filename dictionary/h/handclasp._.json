@@ -1,0 +1,18 @@
+{
+    "base": "handclasp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "handclasp",
+    "n2": "handclasps",
+    "n3": "the handclasp",
+    "n4": "the handclasps",
+    "n5": "handclasp's",
+    "n6": "handclasps'",
+    "n7": "a handclasp",
+    "n8": "many handclasps"
+}

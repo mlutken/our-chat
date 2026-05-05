@@ -1,0 +1,18 @@
+{
+    "base": "saline",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 27,
+    "max_commonness": 6834,
+    "commonness_ge_count": 699,
+    "n1": "saline",
+    "n2": "salines",
+    "n3": "the saline",
+    "n4": "the salines",
+    "n5": "saline's",
+    "n6": "salines'",
+    "n7": "a saline",
+    "n8": "many salines"
+}

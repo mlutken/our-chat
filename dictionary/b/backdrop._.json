@@ -1,0 +1,18 @@
+{
+    "base": "backdrop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "backdrop",
+    "n2": "backdrops",
+    "n3": "the backdrop",
+    "n4": "the backdrops",
+    "n5": "backdrop's",
+    "n6": "backdrops'",
+    "n7": "a backdrop",
+    "n8": "many backdrops"
+}

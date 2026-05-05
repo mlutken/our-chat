@@ -1,0 +1,18 @@
+{
+    "base": "excellence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "excellence",
+    "n2": "excellences",
+    "n3": "the excellence",
+    "n4": "the excellences",
+    "n5": "excellence's",
+    "n6": "excellences'",
+    "n7": "an excellence",
+    "n8": "many excellences"
+}

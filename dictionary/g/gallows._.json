@@ -1,0 +1,18 @@
+{
+    "base": "gallows",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gallows",
+    "n2": "gallowses",
+    "n3": "the gallows",
+    "n4": "the gallowses",
+    "n5": "gallows'",
+    "n6": "gallowses'",
+    "n7": "a gallows",
+    "n8": "many gallowses"
+}

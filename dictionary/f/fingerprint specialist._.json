@@ -1,0 +1,18 @@
+{
+    "base": "fingerprint specialist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fingerprint specialist",
+    "n2": "fingerprint specialists",
+    "n3": "the fingerprint specialist",
+    "n4": "the fingerprint specialists",
+    "n5": "fingerprint specialist's",
+    "n6": "fingerprint specialists'",
+    "n7": "a fingerprint specialist",
+    "n8": "many fingerprint specialists"
+}

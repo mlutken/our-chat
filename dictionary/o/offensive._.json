@@ -1,0 +1,18 @@
+{
+    "base": "offensive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "offensive",
+    "n2": "offensives",
+    "n3": "the offensive",
+    "n4": "the offensives",
+    "n5": "offensive's",
+    "n6": "offensives'",
+    "n7": "an offensive",
+    "n8": "many offensives"
+}

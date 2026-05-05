@@ -1,0 +1,18 @@
+{
+    "base": "notch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "notch",
+    "n2": "notches",
+    "n3": "the notch",
+    "n4": "the notches",
+    "n5": "notch's",
+    "n6": "notches'",
+    "n7": "a notch",
+    "n8": "many notches"
+}

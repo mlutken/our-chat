@@ -1,0 +1,18 @@
+{
+    "base": "sash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sash",
+    "n2": "sashes",
+    "n3": "the sash",
+    "n4": "the sashes",
+    "n5": "sash's",
+    "n6": "sashes'",
+    "n7": "a sash",
+    "n8": "many sashes"
+}

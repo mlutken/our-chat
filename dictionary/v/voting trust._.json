@@ -1,0 +1,18 @@
+{
+    "base": "voting trust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "voting trust",
+    "n2": "voting trusts",
+    "n3": "the voting trust",
+    "n4": "the voting trusts",
+    "n5": "voting trust's",
+    "n6": "voting trusts'",
+    "n7": "a voting trust",
+    "n8": "many voting trusts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "babe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "babe",
+    "n2": "babes",
+    "n3": "the babe",
+    "n4": "the babes",
+    "n5": "babe's",
+    "n6": "babes'",
+    "n7": "a babe",
+    "n8": "many babes"
+}

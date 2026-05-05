@@ -1,0 +1,18 @@
+{
+    "base": "tennis court",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tennis court",
+    "n2": "tennis courts",
+    "n3": "the tennis court",
+    "n4": "the tennis courts",
+    "n5": "tennis court's",
+    "n6": "tennis courts'",
+    "n7": "a tennis court",
+    "n8": "many tennis courts"
+}

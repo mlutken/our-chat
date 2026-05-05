@@ -1,0 +1,18 @@
+{
+    "base": "moral principle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moral principle",
+    "n2": "moral principles",
+    "n3": "the moral principle",
+    "n4": "the moral principles",
+    "n5": "moral principle's",
+    "n6": "moral principles'",
+    "n7": "a moral principle",
+    "n8": "many moral principles"
+}

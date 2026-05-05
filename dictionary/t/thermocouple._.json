@@ -1,0 +1,18 @@
+{
+    "base": "thermocouple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "thermocouple",
+    "n2": "thermocouples",
+    "n3": "the thermocouple",
+    "n4": "the thermocouples",
+    "n5": "thermocouple's",
+    "n6": "thermocouples'",
+    "n7": "a thermocouple",
+    "n8": "many thermocouples"
+}

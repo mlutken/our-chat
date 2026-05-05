@@ -1,0 +1,18 @@
+{
+    "base": "assay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assay",
+    "n2": "assays",
+    "n3": "the assay",
+    "n4": "the assays",
+    "n5": "assay's",
+    "n6": "assays'",
+    "n7": "an assay",
+    "n8": "many assays"
+}

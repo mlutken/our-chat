@@ -7,5 +7,12 @@
     "n2": "poets",
     "n3": "the poet",
     "n4": "the poets",
-    "n5": "poet's"
+    "n5": "poet's",
+    "proper": true,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "poets'",
+    "n7": "a poet",
+    "n8": "many poets"
 }

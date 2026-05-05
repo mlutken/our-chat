@@ -1,0 +1,18 @@
+{
+    "base": "plato",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "plato",
+    "n2": "platos",
+    "n3": "the plato",
+    "n4": "the platos",
+    "n5": "plato's",
+    "n6": "platos'",
+    "n7": "a plato",
+    "n8": "many platos"
+}

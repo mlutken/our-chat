@@ -1,0 +1,18 @@
+{
+    "base": "sill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sill",
+    "n2": "sills",
+    "n3": "the sill",
+    "n4": "the sills",
+    "n5": "sill's",
+    "n6": "sills'",
+    "n7": "a sill",
+    "n8": "many sills"
+}

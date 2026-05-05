@@ -1,0 +1,18 @@
+{
+    "base": "burrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "burrow",
+    "n2": "burrows",
+    "n3": "the burrow",
+    "n4": "the burrows",
+    "n5": "burrow's",
+    "n6": "burrows'",
+    "n7": "a burrow",
+    "n8": "many burrows"
+}

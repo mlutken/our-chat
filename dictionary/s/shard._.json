@@ -1,0 +1,18 @@
+{
+    "base": "shard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shard",
+    "n2": "shards",
+    "n3": "the shard",
+    "n4": "the shards",
+    "n5": "shard's",
+    "n6": "shards'",
+    "n7": "a shard",
+    "n8": "many shards"
+}

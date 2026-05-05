@@ -1,0 +1,18 @@
+{
+    "base": "fervor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fervor",
+    "n2": "fervors",
+    "n3": "the fervor",
+    "n4": "the fervors",
+    "n5": "fervor's",
+    "n6": "fervors'",
+    "n7": "a fervor",
+    "n8": "many fervors"
+}

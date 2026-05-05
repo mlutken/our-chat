@@ -1,0 +1,18 @@
+{
+    "base": "new hampshire",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "new hampshire",
+    "n2": "new hampshires",
+    "n3": "the new hampshire",
+    "n4": "the new hampshires",
+    "n5": "new hampshire's",
+    "n6": "new hampshires'",
+    "n7": "a new hampshire",
+    "n8": "many new hampshires"
+}

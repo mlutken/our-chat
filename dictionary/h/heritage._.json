@@ -1,0 +1,18 @@
+{
+    "base": "heritage",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "heritage",
+    "n2": "heritages",
+    "n3": "the heritage",
+    "n4": "the heritages",
+    "n5": "heritage's",
+    "n6": "heritages'",
+    "n7": "a heritage",
+    "n8": "many heritages"
+}

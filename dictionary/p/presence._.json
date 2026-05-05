@@ -7,5 +7,12 @@
     "n2": "presences",
     "n3": "the presence",
     "n4": "the presences",
-    "n5": "presence's"
+    "n5": "presence's",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "presences'",
+    "n7": "a presence",
+    "n8": "many presences"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "musical instrument",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "musical instrument",
+    "n2": "musical instruments",
+    "n3": "the musical instrument",
+    "n4": "the musical instruments",
+    "n5": "musical instrument's",
+    "n6": "musical instruments'",
+    "n7": "a musical instrument",
+    "n8": "many musical instruments"
+}

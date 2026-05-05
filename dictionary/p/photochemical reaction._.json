@@ -1,0 +1,18 @@
+{
+    "base": "photochemical reaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "photochemical reaction",
+    "n2": "photochemical reactions",
+    "n3": "the photochemical reaction",
+    "n4": "the photochemical reactions",
+    "n5": "photochemical reaction's",
+    "n6": "photochemical reactions'",
+    "n7": "a photochemical reaction",
+    "n8": "many photochemical reactions"
+}

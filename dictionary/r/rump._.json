@@ -1,0 +1,18 @@
+{
+    "base": "rump",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rump",
+    "n2": "rumps",
+    "n3": "the rump",
+    "n4": "the rumps",
+    "n5": "rump's",
+    "n6": "rumps'",
+    "n7": "a rump",
+    "n8": "many rumps"
+}

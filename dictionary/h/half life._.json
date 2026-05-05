@@ -1,0 +1,18 @@
+{
+    "base": "half life",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "half life",
+    "n2": "half lives",
+    "n3": "the half life",
+    "n4": "the half lives",
+    "n5": "half life's",
+    "n6": "half lives'",
+    "n7": "a half life",
+    "n8": "many half lives"
+}

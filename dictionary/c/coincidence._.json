@@ -1,0 +1,18 @@
+{
+    "base": "coincidence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "coincidence",
+    "n2": "coincidences",
+    "n3": "the coincidence",
+    "n4": "the coincidences",
+    "n5": "coincidence's",
+    "n6": "coincidences'",
+    "n7": "a coincidence",
+    "n8": "many coincidences"
+}

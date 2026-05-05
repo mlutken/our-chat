@@ -1,0 +1,18 @@
+{
+    "base": "irreproducibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "irreproducibility",
+    "n2": "irreproducibilities",
+    "n3": "the irreproducibility",
+    "n4": "the irreproducibilities",
+    "n5": "irreproducibility's",
+    "n6": "irreproducibilities'",
+    "n7": "an irreproducibility",
+    "n8": "many irreproducibilities"
+}

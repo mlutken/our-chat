@@ -1,9 +1,22 @@
 {
     "base": "high",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "high",
     "adj2": "higher",
-    "adj3": "highest"
+    "adj3": "highest",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "high",
+    "n2": "highs",
+    "n3": "the high",
+    "n4": "the highs",
+    "n5": "high's",
+    "n6": "highs'",
+    "n7": "a high",
+    "n8": "many highs"
 }

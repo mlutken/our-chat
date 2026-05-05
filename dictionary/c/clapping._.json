@@ -1,0 +1,18 @@
+{
+    "base": "clapping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "clapping",
+    "n2": "clappings",
+    "n3": "the clapping",
+    "n4": "the clappings",
+    "n5": "clapping's",
+    "n6": "clappings'",
+    "n7": "a clapping",
+    "n8": "many clappings"
+}

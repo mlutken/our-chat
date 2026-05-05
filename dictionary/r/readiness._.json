@@ -1,0 +1,18 @@
+{
+    "base": "readiness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "readiness",
+    "n2": "readinesses",
+    "n3": "the readiness",
+    "n4": "the readinesses",
+    "n5": "readiness'",
+    "n6": "readinesses'",
+    "n7": "a readiness",
+    "n8": "many readinesses"
+}

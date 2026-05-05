@@ -1,0 +1,18 @@
+{
+    "base": "brooding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brooding",
+    "n2": "broodings",
+    "n3": "the brooding",
+    "n4": "the broodings",
+    "n5": "brooding's",
+    "n6": "broodings'",
+    "n7": "a brooding",
+    "n8": "many broodings"
+}

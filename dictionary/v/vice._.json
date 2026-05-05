@@ -1,0 +1,18 @@
+{
+    "base": "vice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "vice",
+    "n2": "vices",
+    "n3": "the vice",
+    "n4": "the vices",
+    "n5": "vice's",
+    "n6": "vices'",
+    "n7": "a vice",
+    "n8": "many vices"
+}

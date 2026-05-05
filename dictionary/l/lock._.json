@@ -1,11 +1,24 @@
 {
     "base": "lock",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "lock",
     "v2": "locked",
     "v3": "locked",
     "v4": "locking",
-    "v5": "locks"
+    "v5": "locks",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "lock",
+    "n2": "locks",
+    "n3": "the lock",
+    "n4": "the locks",
+    "n5": "lock's",
+    "n6": "locks'",
+    "n7": "a lock",
+    "n8": "many locks"
 }

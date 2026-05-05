@@ -1,0 +1,18 @@
+{
+    "base": "streetlight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "streetlight",
+    "n2": "streetlights",
+    "n3": "the streetlight",
+    "n4": "the streetlights",
+    "n5": "streetlight's",
+    "n6": "streetlights'",
+    "n7": "a streetlight",
+    "n8": "many streetlights"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "obscenity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "obscenity",
+    "n2": "obscenities",
+    "n3": "the obscenity",
+    "n4": "the obscenities",
+    "n5": "obscenity's",
+    "n6": "obscenities'",
+    "n7": "an obscenity",
+    "n8": "many obscenities"
+}

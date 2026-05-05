@@ -7,5 +7,12 @@
     "n2": "oils",
     "n3": "the oil",
     "n4": "the oils",
-    "n5": "oil's"
+    "n5": "oil's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "oils'",
+    "n7": "an oil",
+    "n8": "many oils"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "nonoccurrence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nonoccurrence",
+    "n2": "nonoccurrences",
+    "n3": "the nonoccurrence",
+    "n4": "the nonoccurrences",
+    "n5": "nonoccurrence's",
+    "n6": "nonoccurrences'",
+    "n7": "a nonoccurrence",
+    "n8": "many nonoccurrences"
+}

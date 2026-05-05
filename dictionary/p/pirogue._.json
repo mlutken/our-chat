@@ -1,0 +1,18 @@
+{
+    "base": "pirogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pirogue",
+    "n2": "pirogues",
+    "n3": "the pirogue",
+    "n4": "the pirogues",
+    "n5": "pirogue's",
+    "n6": "pirogues'",
+    "n7": "a pirogue",
+    "n8": "many pirogues"
+}

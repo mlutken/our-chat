@@ -1,0 +1,18 @@
+{
+    "base": "legal holiday",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "legal holiday",
+    "n2": "legal holidays",
+    "n3": "the legal holiday",
+    "n4": "the legal holidays",
+    "n5": "legal holiday's",
+    "n6": "legal holidays'",
+    "n7": "a legal holiday",
+    "n8": "many legal holidays"
+}

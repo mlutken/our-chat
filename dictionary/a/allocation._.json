@@ -1,0 +1,18 @@
+{
+    "base": "allocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "allocation",
+    "n2": "allocations",
+    "n3": "the allocation",
+    "n4": "the allocations",
+    "n5": "allocation's",
+    "n6": "allocations'",
+    "n7": "an allocation",
+    "n8": "many allocations"
+}

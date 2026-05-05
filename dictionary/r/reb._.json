@@ -1,0 +1,18 @@
+{
+    "base": "reb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "reb",
+    "n2": "rebs",
+    "n3": "the reb",
+    "n4": "the rebs",
+    "n5": "reb's",
+    "n6": "rebs'",
+    "n7": "a reb",
+    "n8": "many rebs"
+}

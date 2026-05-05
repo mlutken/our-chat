@@ -1,0 +1,18 @@
+{
+    "base": "backbend",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "backbend",
+    "n2": "backbends",
+    "n3": "the backbend",
+    "n4": "the backbends",
+    "n5": "backbend's",
+    "n6": "backbends'",
+    "n7": "a backbend",
+    "n8": "many backbends"
+}

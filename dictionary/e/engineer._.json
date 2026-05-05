@@ -1,0 +1,18 @@
+{
+    "base": "engineer",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "engineer",
+    "n2": "engineers",
+    "n3": "the engineer",
+    "n4": "the engineers",
+    "n5": "engineer's",
+    "n6": "engineers'",
+    "n7": "an engineer",
+    "n8": "many engineers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "fluorescence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "fluorescence",
+    "n2": "fluorescences",
+    "n3": "the fluorescence",
+    "n4": "the fluorescences",
+    "n5": "fluorescence's",
+    "n6": "fluorescences'",
+    "n7": "a fluorescence",
+    "n8": "many fluorescences"
+}

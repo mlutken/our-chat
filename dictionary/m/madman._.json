@@ -1,0 +1,18 @@
+{
+    "base": "madman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "madman",
+    "n2": "madmen",
+    "n3": "the madman",
+    "n4": "the madmen",
+    "n5": "madman's",
+    "n6": "madmen's",
+    "n7": "a madman",
+    "n8": "many madmen"
+}

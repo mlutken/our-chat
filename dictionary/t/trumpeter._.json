@@ -1,0 +1,18 @@
+{
+    "base": "trumpeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trumpeter",
+    "n2": "trumpeters",
+    "n3": "the trumpeter",
+    "n4": "the trumpeters",
+    "n5": "trumpeter's",
+    "n6": "trumpeters'",
+    "n7": "a trumpeter",
+    "n8": "many trumpeters"
+}

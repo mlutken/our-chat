@@ -1,0 +1,18 @@
+{
+    "base": "carving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "carving",
+    "n2": "carvings",
+    "n3": "the carving",
+    "n4": "the carvings",
+    "n5": "carving's",
+    "n6": "carvings'",
+    "n7": "a carving",
+    "n8": "many carvings"
+}

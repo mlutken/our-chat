@@ -1,0 +1,18 @@
+{
+    "base": "continent",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "continent",
+    "n2": "continents",
+    "n3": "the continent",
+    "n4": "the continents",
+    "n5": "continent's",
+    "n6": "continents'",
+    "n7": "a continent",
+    "n8": "many continents"
+}

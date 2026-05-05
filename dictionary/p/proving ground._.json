@@ -1,0 +1,18 @@
+{
+    "base": "proving ground",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proving ground",
+    "n2": "proving grounds",
+    "n3": "the proving ground",
+    "n4": "the proving grounds",
+    "n5": "proving ground's",
+    "n6": "proving grounds'",
+    "n7": "a proving ground",
+    "n8": "many proving grounds"
+}

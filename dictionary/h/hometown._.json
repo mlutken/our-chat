@@ -1,0 +1,18 @@
+{
+    "base": "hometown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hometown",
+    "n2": "hometowns",
+    "n3": "the hometown",
+    "n4": "the hometowns",
+    "n5": "hometown's",
+    "n6": "hometowns'",
+    "n7": "a hometown",
+    "n8": "many hometowns"
+}

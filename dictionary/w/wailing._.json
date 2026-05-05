@@ -1,0 +1,18 @@
+{
+    "base": "wailing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wailing",
+    "n2": "wailings",
+    "n3": "the wailing",
+    "n4": "the wailings",
+    "n5": "wailing's",
+    "n6": "wailings'",
+    "n7": "a wailing",
+    "n8": "many wailings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "consulting firm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "consulting firm",
+    "n2": "consulting firms",
+    "n3": "the consulting firm",
+    "n4": "the consulting firms",
+    "n5": "consulting firm's",
+    "n6": "consulting firms'",
+    "n7": "a consulting firm",
+    "n8": "many consulting firms"
+}

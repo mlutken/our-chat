@@ -7,5 +7,12 @@
     "n2": "funerals",
     "n3": "the funeral",
     "n4": "the funerals",
-    "n5": "funeral's"
+    "n5": "funeral's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "funerals'",
+    "n7": "a funeral",
+    "n8": "many funerals"
 }

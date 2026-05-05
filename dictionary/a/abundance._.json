@@ -1,0 +1,18 @@
+{
+    "base": "abundance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "abundance",
+    "n2": "abundances",
+    "n3": "the abundance",
+    "n4": "the abundances",
+    "n5": "abundance's",
+    "n6": "abundances'",
+    "n7": "an abundance",
+    "n8": "many abundances"
+}

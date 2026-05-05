@@ -1,0 +1,18 @@
+{
+    "base": "creature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "creature",
+    "n2": "creatures",
+    "n3": "the creature",
+    "n4": "the creatures",
+    "n5": "creature's",
+    "n6": "creatures'",
+    "n7": "a creature",
+    "n8": "many creatures"
+}

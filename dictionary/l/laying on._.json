@@ -1,0 +1,18 @@
+{
+    "base": "laying on",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "laying on",
+    "n2": "laying ons",
+    "n3": "the laying on",
+    "n4": "the laying ons",
+    "n5": "laying on's",
+    "n6": "laying ons'",
+    "n7": "a laying on",
+    "n8": "many laying ons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "garbage collector",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "garbage collector",
+    "n2": "garbage collectors",
+    "n3": "the garbage collector",
+    "n4": "the garbage collectors",
+    "n5": "garbage collector's",
+    "n6": "garbage collectors'",
+    "n7": "a garbage collector",
+    "n8": "many garbage collectors"
+}

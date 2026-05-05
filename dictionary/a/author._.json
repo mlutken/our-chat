@@ -1,0 +1,18 @@
+{
+    "base": "author",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 44,
+    "max_commonness": 6834,
+    "commonness_ge_count": 389,
+    "n1": "author",
+    "n2": "authors",
+    "n3": "the author",
+    "n4": "the authors",
+    "n5": "author's",
+    "n6": "authors'",
+    "n7": "an author",
+    "n8": "many authors"
+}

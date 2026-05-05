@@ -1,0 +1,18 @@
+{
+    "base": "censure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "censure",
+    "n2": "censures",
+    "n3": "the censure",
+    "n4": "the censures",
+    "n5": "censure's",
+    "n6": "censures'",
+    "n7": "a censure",
+    "n8": "many censures"
+}

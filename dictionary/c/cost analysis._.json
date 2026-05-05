@@ -1,0 +1,18 @@
+{
+    "base": "cost analysis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cost analysis",
+    "n2": "cost analysises",
+    "n3": "the cost analysis",
+    "n4": "the cost analysises",
+    "n5": "cost analysis'",
+    "n6": "cost analysises'",
+    "n7": "a cost analysis",
+    "n8": "many cost analysises"
+}

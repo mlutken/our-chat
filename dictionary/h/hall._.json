@@ -7,5 +7,12 @@
     "n2": "halls",
     "n3": "the hall",
     "n4": "the halls",
-    "n5": "hall's"
+    "n5": "hall's",
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n6": "halls'",
+    "n7": "a hall",
+    "n8": "many halls"
 }

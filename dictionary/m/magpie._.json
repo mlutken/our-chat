@@ -1,0 +1,18 @@
+{
+    "base": "magpie",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magpie",
+    "n2": "magpies",
+    "n3": "the magpie",
+    "n4": "the magpies",
+    "n5": "magpie's",
+    "n6": "magpies'",
+    "n7": "a magpie",
+    "n8": "many magpies"
+}

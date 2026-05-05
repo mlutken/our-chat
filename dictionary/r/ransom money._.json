@@ -1,0 +1,18 @@
+{
+    "base": "ransom money",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ransom money",
+    "n2": "ransom moneys",
+    "n3": "the ransom money",
+    "n4": "the ransom moneys",
+    "n5": "ransom money's",
+    "n6": "ransom moneys'",
+    "n7": "a ransom money",
+    "n8": "many ransom moneys"
+}

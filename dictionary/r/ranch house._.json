@@ -1,0 +1,18 @@
+{
+    "base": "ranch house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "ranch house",
+    "n2": "ranch houses",
+    "n3": "the ranch house",
+    "n4": "the ranch houses",
+    "n5": "ranch house's",
+    "n6": "ranch houses'",
+    "n7": "a ranch house",
+    "n8": "many ranch houses"
+}

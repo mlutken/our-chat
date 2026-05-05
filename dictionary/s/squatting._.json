@@ -1,0 +1,18 @@
+{
+    "base": "squatting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "squatting",
+    "n2": "squattings",
+    "n3": "the squatting",
+    "n4": "the squattings",
+    "n5": "squatting's",
+    "n6": "squattings'",
+    "n7": "a squatting",
+    "n8": "many squattings"
+}

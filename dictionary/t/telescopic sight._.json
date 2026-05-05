@@ -1,0 +1,18 @@
+{
+    "base": "telescopic sight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telescopic sight",
+    "n2": "telescopic sights",
+    "n3": "the telescopic sight",
+    "n4": "the telescopic sights",
+    "n5": "telescopic sight's",
+    "n6": "telescopic sights'",
+    "n7": "a telescopic sight",
+    "n8": "many telescopic sights"
+}

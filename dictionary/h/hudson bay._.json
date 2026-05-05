@@ -1,0 +1,18 @@
+{
+    "base": "hudson bay",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hudson bay",
+    "n2": "hudson bays",
+    "n3": "the hudson bay",
+    "n4": "the hudson bays",
+    "n5": "hudson bay's",
+    "n6": "hudson bays'",
+    "n7": "a hudson bay",
+    "n8": "many hudson bays"
+}

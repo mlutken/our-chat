@@ -7,5 +7,12 @@
     "n2": "parents",
     "n3": "the parent",
     "n4": "the parents",
-    "n5": "parent's"
+    "n5": "parent's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "parents'",
+    "n7": "a parent",
+    "n8": "many parents"
 }

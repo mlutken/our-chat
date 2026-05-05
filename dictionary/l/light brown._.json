@@ -1,0 +1,18 @@
+{
+    "base": "light brown",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "light brown",
+    "n2": "light browns",
+    "n3": "the light brown",
+    "n4": "the light browns",
+    "n5": "light brown's",
+    "n6": "light browns'",
+    "n7": "a light brown",
+    "n8": "many light browns"
+}

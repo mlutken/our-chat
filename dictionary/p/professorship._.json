@@ -1,0 +1,18 @@
+{
+    "base": "professorship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "professorship",
+    "n2": "professorships",
+    "n3": "the professorship",
+    "n4": "the professorships",
+    "n5": "professorship's",
+    "n6": "professorships'",
+    "n7": "a professorship",
+    "n8": "many professorships"
+}

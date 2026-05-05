@@ -1,0 +1,18 @@
+{
+    "base": "assyriology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assyriology",
+    "n2": "assyriologies",
+    "n3": "the assyriology",
+    "n4": "the assyriologies",
+    "n5": "assyriology's",
+    "n6": "assyriologies'",
+    "n7": "an assyriology",
+    "n8": "many assyriologies"
+}

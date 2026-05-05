@@ -1,0 +1,18 @@
+{
+    "base": "propeller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "propeller",
+    "n2": "propellers",
+    "n3": "the propeller",
+    "n4": "the propellers",
+    "n5": "propeller's",
+    "n6": "propellers'",
+    "n7": "a propeller",
+    "n8": "many propellers"
+}

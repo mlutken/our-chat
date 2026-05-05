@@ -1,0 +1,18 @@
+{
+    "base": "chaise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chaise",
+    "n2": "chaises",
+    "n3": "the chaise",
+    "n4": "the chaises",
+    "n5": "chaise's",
+    "n6": "chaises'",
+    "n7": "a chaise",
+    "n8": "many chaises"
+}

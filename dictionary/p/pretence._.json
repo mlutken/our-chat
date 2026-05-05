@@ -1,0 +1,18 @@
+{
+    "base": "pretence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pretence",
+    "n2": "pretences",
+    "n3": "the pretence",
+    "n4": "the pretences",
+    "n5": "pretence's",
+    "n6": "pretences'",
+    "n7": "a pretence",
+    "n8": "many pretences"
+}

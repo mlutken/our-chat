@@ -1,0 +1,18 @@
+{
+    "base": "parlance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parlance",
+    "n2": "parlances",
+    "n3": "the parlance",
+    "n4": "the parlances",
+    "n5": "parlance's",
+    "n6": "parlances'",
+    "n7": "a parlance",
+    "n8": "many parlances"
+}

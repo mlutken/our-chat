@@ -1,0 +1,18 @@
+{
+    "base": "femininity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "femininity",
+    "n2": "femininities",
+    "n3": "the femininity",
+    "n4": "the femininities",
+    "n5": "femininity's",
+    "n6": "femininities'",
+    "n7": "a femininity",
+    "n8": "many femininities"
+}

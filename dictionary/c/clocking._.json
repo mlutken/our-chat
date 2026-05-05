@@ -1,0 +1,18 @@
+{
+    "base": "clocking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clocking",
+    "n2": "clockings",
+    "n3": "the clocking",
+    "n4": "the clockings",
+    "n5": "clocking's",
+    "n6": "clockings'",
+    "n7": "a clocking",
+    "n8": "many clockings"
+}

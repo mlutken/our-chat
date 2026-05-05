@@ -1,0 +1,18 @@
+{
+    "base": "cabin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "cabin",
+    "n2": "cabins",
+    "n3": "the cabin",
+    "n4": "the cabins",
+    "n5": "cabin's",
+    "n6": "cabins'",
+    "n7": "a cabin",
+    "n8": "many cabins"
+}

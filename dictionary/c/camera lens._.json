@@ -1,0 +1,18 @@
+{
+    "base": "camera lens",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "camera lens",
+    "n2": "camera lenses",
+    "n3": "the camera lens",
+    "n4": "the camera lenses",
+    "n5": "camera lens'",
+    "n6": "camera lenses'",
+    "n7": "a camera lens",
+    "n8": "many camera lenses"
+}

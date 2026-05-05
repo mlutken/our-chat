@@ -1,0 +1,18 @@
+{
+    "base": "daffodil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "daffodil",
+    "n2": "daffodils",
+    "n3": "the daffodil",
+    "n4": "the daffodils",
+    "n5": "daffodil's",
+    "n6": "daffodils'",
+    "n7": "a daffodil",
+    "n8": "many daffodils"
+}

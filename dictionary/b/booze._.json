@@ -1,0 +1,18 @@
+{
+    "base": "booze",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "booze",
+    "n2": "boozes",
+    "n3": "the booze",
+    "n4": "the boozes",
+    "n5": "booze's",
+    "n6": "boozes'",
+    "n7": "a booze",
+    "n8": "many boozes"
+}

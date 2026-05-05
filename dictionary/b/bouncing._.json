@@ -1,0 +1,18 @@
+{
+    "base": "bouncing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bouncing",
+    "n2": "bouncings",
+    "n3": "the bouncing",
+    "n4": "the bouncings",
+    "n5": "bouncing's",
+    "n6": "bouncings'",
+    "n7": "a bouncing",
+    "n8": "many bouncings"
+}

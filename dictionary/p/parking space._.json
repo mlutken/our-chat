@@ -1,0 +1,18 @@
+{
+    "base": "parking space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parking space",
+    "n2": "parking spaces",
+    "n3": "the parking space",
+    "n4": "the parking spaces",
+    "n5": "parking space's",
+    "n6": "parking spaces'",
+    "n7": "a parking space",
+    "n8": "many parking spaces"
+}

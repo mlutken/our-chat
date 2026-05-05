@@ -1,0 +1,18 @@
+{
+    "base": "overthrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overthrow",
+    "n2": "overthrows",
+    "n3": "the overthrow",
+    "n4": "the overthrows",
+    "n5": "overthrow's",
+    "n6": "overthrows'",
+    "n7": "an overthrow",
+    "n8": "many overthrows"
+}

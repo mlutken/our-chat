@@ -1,0 +1,18 @@
+{
+    "base": "blatancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blatancy",
+    "n2": "blatancies",
+    "n3": "the blatancy",
+    "n4": "the blatancies",
+    "n5": "blatancy's",
+    "n6": "blatancies'",
+    "n7": "a blatancy",
+    "n8": "many blatancies"
+}

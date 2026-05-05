@@ -1,0 +1,18 @@
+{
+    "base": "bonemeal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bonemeal",
+    "n2": "bonemeals",
+    "n3": "the bonemeal",
+    "n4": "the bonemeals",
+    "n5": "bonemeal's",
+    "n6": "bonemeals'",
+    "n7": "a bonemeal",
+    "n8": "many bonemeals"
+}

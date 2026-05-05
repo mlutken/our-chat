@@ -1,0 +1,18 @@
+{
+    "base": "fielding average",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fielding average",
+    "n2": "fielding averages",
+    "n3": "the fielding average",
+    "n4": "the fielding averages",
+    "n5": "fielding average's",
+    "n6": "fielding averages'",
+    "n7": "a fielding average",
+    "n8": "many fielding averages"
+}

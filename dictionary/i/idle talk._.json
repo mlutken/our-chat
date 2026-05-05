@@ -1,0 +1,18 @@
+{
+    "base": "idle talk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "idle talk",
+    "n2": "idle talks",
+    "n3": "the idle talk",
+    "n4": "the idle talks",
+    "n5": "idle talk's",
+    "n6": "idle talks'",
+    "n7": "an idle talk",
+    "n8": "many idle talks"
+}

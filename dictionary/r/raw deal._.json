@@ -1,0 +1,18 @@
+{
+    "base": "raw deal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "raw deal",
+    "n2": "raw deals",
+    "n3": "the raw deal",
+    "n4": "the raw deals",
+    "n5": "raw deal's",
+    "n6": "raw deals'",
+    "n7": "a raw deal",
+    "n8": "many raw deals"
+}

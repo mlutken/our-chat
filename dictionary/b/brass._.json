@@ -1,0 +1,18 @@
+{
+    "base": "brass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "brass",
+    "n2": "brasses",
+    "n3": "the brass",
+    "n4": "the brasses",
+    "n5": "brass'",
+    "n6": "brasses'",
+    "n7": "a brass",
+    "n8": "many brasses"
+}

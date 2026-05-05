@@ -1,0 +1,18 @@
+{
+    "base": "riding boot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "riding boot",
+    "n2": "riding boots",
+    "n3": "the riding boot",
+    "n4": "the riding boots",
+    "n5": "riding boot's",
+    "n6": "riding boots'",
+    "n7": "a riding boot",
+    "n8": "many riding boots"
+}

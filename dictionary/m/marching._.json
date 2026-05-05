@@ -1,0 +1,18 @@
+{
+    "base": "marching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marching",
+    "n2": "marchings",
+    "n3": "the marching",
+    "n4": "the marchings",
+    "n5": "marching's",
+    "n6": "marchings'",
+    "n7": "a marching",
+    "n8": "many marchings"
+}

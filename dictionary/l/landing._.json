@@ -1,0 +1,18 @@
+{
+    "base": "landing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "landing",
+    "n2": "landings",
+    "n3": "the landing",
+    "n4": "the landings",
+    "n5": "landing's",
+    "n6": "landings'",
+    "n7": "a landing",
+    "n8": "many landings"
+}

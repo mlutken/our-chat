@@ -1,0 +1,18 @@
+{
+    "base": "emblem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "emblem",
+    "n2": "emblems",
+    "n3": "the emblem",
+    "n4": "the emblems",
+    "n5": "emblem's",
+    "n6": "emblems'",
+    "n7": "an emblem",
+    "n8": "many emblems"
+}

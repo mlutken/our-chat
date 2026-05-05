@@ -1,0 +1,18 @@
+{
+    "base": "pickle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pickle",
+    "n2": "pickles",
+    "n3": "the pickle",
+    "n4": "the pickles",
+    "n5": "pickle's",
+    "n6": "pickles'",
+    "n7": "a pickle",
+    "n8": "many pickles"
+}

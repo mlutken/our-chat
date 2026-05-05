@@ -1,0 +1,18 @@
+{
+    "base": "episode",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "episode",
+    "n2": "episodes",
+    "n3": "the episode",
+    "n4": "the episodes",
+    "n5": "episode's",
+    "n6": "episodes'",
+    "n7": "an episode",
+    "n8": "many episodes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "finger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 53,
+    "max_commonness": 6834,
+    "commonness_ge_count": 300,
+    "n1": "finger",
+    "n2": "fingers",
+    "n3": "the finger",
+    "n4": "the fingers",
+    "n5": "finger's",
+    "n6": "fingers'",
+    "n7": "a finger",
+    "n8": "many fingers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "chivalry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chivalry",
+    "n2": "chivalries",
+    "n3": "the chivalry",
+    "n4": "the chivalries",
+    "n5": "chivalry's",
+    "n6": "chivalries'",
+    "n7": "a chivalry",
+    "n8": "many chivalries"
+}

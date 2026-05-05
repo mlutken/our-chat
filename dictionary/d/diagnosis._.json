@@ -7,5 +7,12 @@
     "n2": "diagnoses",
     "n3": "the diagnosis",
     "n4": "the diagnoses",
-    "n5": "diagnosis's"
+    "n5": "diagnosis'",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "diagnoses'",
+    "n7": "a diagnosis",
+    "n8": "many diagnoses"
 }

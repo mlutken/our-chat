@@ -1,0 +1,18 @@
+{
+    "base": "propagation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "propagation",
+    "n2": "propagations",
+    "n3": "the propagation",
+    "n4": "the propagations",
+    "n5": "propagation's",
+    "n6": "propagations'",
+    "n7": "a propagation",
+    "n8": "many propagations"
+}

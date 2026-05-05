@@ -1,0 +1,18 @@
+{
+    "base": "one-upmanship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "one-upmanship",
+    "n2": "one-upmanships",
+    "n3": "the one-upmanship",
+    "n4": "the one-upmanships",
+    "n5": "one-upmanship's",
+    "n6": "one-upmanships'",
+    "n7": "a one-upmanship",
+    "n8": "many one-upmanships"
+}

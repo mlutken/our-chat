@@ -1,0 +1,18 @@
+{
+    "base": "evensong",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "evensong",
+    "n2": "evensongs",
+    "n3": "the evensong",
+    "n4": "the evensongs",
+    "n5": "evensong's",
+    "n6": "evensongs'",
+    "n7": "an evensong",
+    "n8": "many evensongs"
+}

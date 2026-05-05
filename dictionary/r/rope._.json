@@ -1,0 +1,18 @@
+{
+    "base": "rope",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "rope",
+    "n2": "ropes",
+    "n3": "the rope",
+    "n4": "the ropes",
+    "n5": "rope's",
+    "n6": "ropes'",
+    "n7": "a rope",
+    "n8": "many ropes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "armadillo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "armadillo",
+    "n2": "armadillos",
+    "n3": "the armadillo",
+    "n4": "the armadillos",
+    "n5": "armadillo's",
+    "n6": "armadillos'",
+    "n7": "an armadillo",
+    "n8": "many armadillos"
+}

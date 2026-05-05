@@ -1,0 +1,18 @@
+{
+    "base": "battalion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "battalion",
+    "n2": "battalions",
+    "n3": "the battalion",
+    "n4": "the battalions",
+    "n5": "battalion's",
+    "n6": "battalions'",
+    "n7": "a battalion",
+    "n8": "many battalions"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "creeper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "creeper",
+    "n2": "creepers",
+    "n3": "the creeper",
+    "n4": "the creepers",
+    "n5": "creeper's",
+    "n6": "creepers'",
+    "n7": "a creeper",
+    "n8": "many creepers"
+}

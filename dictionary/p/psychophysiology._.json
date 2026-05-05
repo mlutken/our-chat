@@ -1,0 +1,18 @@
+{
+    "base": "psychophysiology",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "psychophysiology",
+    "n2": "psychophysiologies",
+    "n3": "the psychophysiology",
+    "n4": "the psychophysiologies",
+    "n5": "psychophysiology's",
+    "n6": "psychophysiologies'",
+    "n7": "a psychophysiology",
+    "n8": "many psychophysiologies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "los angeles",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "los angeles",
+    "n2": "los angeleses",
+    "n3": "the los angeles",
+    "n4": "the los angeleses",
+    "n5": "los angeles'",
+    "n6": "los angeleses'",
+    "n7": "a los angeles",
+    "n8": "many los angeleses"
+}

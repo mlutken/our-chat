@@ -1,0 +1,18 @@
+{
+    "base": "rosebud",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rosebud",
+    "n2": "rosebuds",
+    "n3": "the rosebud",
+    "n4": "the rosebuds",
+    "n5": "rosebud's",
+    "n6": "rosebuds'",
+    "n7": "a rosebud",
+    "n8": "many rosebuds"
+}

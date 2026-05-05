@@ -1,0 +1,18 @@
+{
+    "base": "rabbi",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rabbi",
+    "n2": "rabbis",
+    "n3": "the rabbi",
+    "n4": "the rabbis",
+    "n5": "rabbi's",
+    "n6": "rabbis'",
+    "n7": "a rabbi",
+    "n8": "many rabbis"
+}

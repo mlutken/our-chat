@@ -1,0 +1,18 @@
+{
+    "base": "man of affairs",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "man of affairs",
+    "n2": "man of affairses",
+    "n3": "the man of affairs",
+    "n4": "the man of affairses",
+    "n5": "man of affairs'",
+    "n6": "man of affairses'",
+    "n7": "a man of affairs",
+    "n8": "many man of affairses"
+}

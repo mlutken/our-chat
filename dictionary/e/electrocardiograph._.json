@@ -1,0 +1,18 @@
+{
+    "base": "electrocardiograph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "electrocardiograph",
+    "n2": "electrocardiographs",
+    "n3": "the electrocardiograph",
+    "n4": "the electrocardiographs",
+    "n5": "electrocardiograph's",
+    "n6": "electrocardiographs'",
+    "n7": "an electrocardiograph",
+    "n8": "many electrocardiographs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "timer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "timer",
+    "n2": "timers",
+    "n3": "the timer",
+    "n4": "the timers",
+    "n5": "timer's",
+    "n6": "timers'",
+    "n7": "a timer",
+    "n8": "many timers"
+}

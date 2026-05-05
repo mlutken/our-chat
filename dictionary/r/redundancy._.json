@@ -1,0 +1,18 @@
+{
+    "base": "redundancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "redundancy",
+    "n2": "redundancies",
+    "n3": "the redundancy",
+    "n4": "the redundancies",
+    "n5": "redundancy's",
+    "n6": "redundancies'",
+    "n7": "a redundancy",
+    "n8": "many redundancies"
+}

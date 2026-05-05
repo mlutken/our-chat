@@ -1,0 +1,18 @@
+{
+    "base": "scourge",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scourge",
+    "n2": "scourges",
+    "n3": "the scourge",
+    "n4": "the scourges",
+    "n5": "scourge's",
+    "n6": "scourges'",
+    "n7": "a scourge",
+    "n8": "many scourges"
+}

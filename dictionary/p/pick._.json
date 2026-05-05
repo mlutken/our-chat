@@ -1,11 +1,24 @@
 {
     "base": "pick",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "pick",
     "v2": "picked",
     "v3": "picked",
     "v4": "picking",
-    "v5": "picks"
+    "v5": "picks",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pick",
+    "n2": "picks",
+    "n3": "the pick",
+    "n4": "the picks",
+    "n5": "pick's",
+    "n6": "picks'",
+    "n7": "a pick",
+    "n8": "many picks"
 }

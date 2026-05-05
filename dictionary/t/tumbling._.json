@@ -1,0 +1,18 @@
+{
+    "base": "tumbling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tumbling",
+    "n2": "tumblings",
+    "n3": "the tumbling",
+    "n4": "the tumblings",
+    "n5": "tumbling's",
+    "n6": "tumblings'",
+    "n7": "a tumbling",
+    "n8": "many tumblings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "new england",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "new england",
+    "n2": "new englands",
+    "n3": "the new england",
+    "n4": "the new englands",
+    "n5": "new england's",
+    "n6": "new englands'",
+    "n7": "a new england",
+    "n8": "many new englands"
+}

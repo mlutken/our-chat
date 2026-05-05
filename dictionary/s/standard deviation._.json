@@ -1,0 +1,18 @@
+{
+    "base": "standard deviation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "standard deviation",
+    "n2": "standard deviations",
+    "n3": "the standard deviation",
+    "n4": "the standard deviations",
+    "n5": "standard deviation's",
+    "n6": "standard deviations'",
+    "n7": "a standard deviation",
+    "n8": "many standard deviations"
+}

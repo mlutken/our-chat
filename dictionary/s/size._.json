@@ -7,5 +7,12 @@
     "n2": "sizes",
     "n3": "the size",
     "n4": "the sizes",
-    "n5": "size's"
+    "n5": "size's",
+    "proper": false,
+    "commonness": 73,
+    "max_commonness": 6834,
+    "commonness_ge_count": 191,
+    "n6": "sizes'",
+    "n7": "a size",
+    "n8": "many sizes"
 }

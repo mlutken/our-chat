@@ -1,0 +1,18 @@
+{
+    "base": "hollowness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hollowness",
+    "n2": "hollownesses",
+    "n3": "the hollowness",
+    "n4": "the hollownesses",
+    "n5": "hollowness'",
+    "n6": "hollownesses'",
+    "n7": "a hollowness",
+    "n8": "many hollownesses"
+}

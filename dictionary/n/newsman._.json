@@ -1,0 +1,18 @@
+{
+    "base": "newsman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "newsman",
+    "n2": "newsmen",
+    "n3": "the newsman",
+    "n4": "the newsmen",
+    "n5": "newsman's",
+    "n6": "newsmen's",
+    "n7": "a newsman",
+    "n8": "many newsmen"
+}

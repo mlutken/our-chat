@@ -1,0 +1,18 @@
+{
+    "base": "food for thought",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "food for thought",
+    "n2": "food for thoughts",
+    "n3": "the food for thought",
+    "n4": "the food for thoughts",
+    "n5": "food for thought's",
+    "n6": "food for thoughts'",
+    "n7": "a food for thought",
+    "n8": "many food for thoughts"
+}

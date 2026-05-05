@@ -1,0 +1,18 @@
+{
+    "base": "flourish",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flourish",
+    "n2": "flourishes",
+    "n3": "the flourish",
+    "n4": "the flourishes",
+    "n5": "flourish's",
+    "n6": "flourishes'",
+    "n7": "a flourish",
+    "n8": "many flourishes"
+}

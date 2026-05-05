@@ -1,0 +1,18 @@
+{
+    "base": "expansiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "expansiveness",
+    "n2": "expansivenesses",
+    "n3": "the expansiveness",
+    "n4": "the expansivenesses",
+    "n5": "expansiveness'",
+    "n6": "expansivenesses'",
+    "n7": "an expansiveness",
+    "n8": "many expansivenesses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "seat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "seat",
+    "n2": "seats",
+    "n3": "the seat",
+    "n4": "the seats",
+    "n5": "seat's",
+    "n6": "seats'",
+    "n7": "a seat",
+    "n8": "many seats"
+}

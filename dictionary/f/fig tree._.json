@@ -1,0 +1,18 @@
+{
+    "base": "fig tree",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fig tree",
+    "n2": "fig trees",
+    "n3": "the fig tree",
+    "n4": "the fig trees",
+    "n5": "fig tree's",
+    "n6": "fig trees'",
+    "n7": "a fig tree",
+    "n8": "many fig trees"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "mustache",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "mustache",
+    "n2": "mustaches",
+    "n3": "the mustache",
+    "n4": "the mustaches",
+    "n5": "mustache's",
+    "n6": "mustaches'",
+    "n7": "a mustache",
+    "n8": "many mustaches"
+}

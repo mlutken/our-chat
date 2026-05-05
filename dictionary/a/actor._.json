@@ -7,5 +7,12 @@
     "n2": "actors",
     "n3": "the actor",
     "n4": "the actors",
-    "n5": "actor's"
+    "n5": "actor's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "actors'",
+    "n7": "an actor",
+    "n8": "many actors"
 }

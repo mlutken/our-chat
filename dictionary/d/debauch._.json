@@ -1,0 +1,18 @@
+{
+    "base": "debauch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "debauch",
+    "n2": "debauches",
+    "n3": "the debauch",
+    "n4": "the debauches",
+    "n5": "debauch's",
+    "n6": "debauches'",
+    "n7": "a debauch",
+    "n8": "many debauches"
+}

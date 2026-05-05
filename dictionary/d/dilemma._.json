@@ -1,0 +1,18 @@
+{
+    "base": "dilemma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "dilemma",
+    "n2": "dilemmas",
+    "n3": "the dilemma",
+    "n4": "the dilemmas",
+    "n5": "dilemma's",
+    "n6": "dilemmas'",
+    "n7": "a dilemma",
+    "n8": "many dilemmas"
+}

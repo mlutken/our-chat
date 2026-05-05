@@ -1,0 +1,18 @@
+{
+    "base": "semitrance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "semitrance",
+    "n2": "semitrances",
+    "n3": "the semitrance",
+    "n4": "the semitrances",
+    "n5": "semitrance's",
+    "n6": "semitrances'",
+    "n7": "a semitrance",
+    "n8": "many semitrances"
+}

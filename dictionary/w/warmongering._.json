@@ -1,0 +1,18 @@
+{
+    "base": "warmongering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "warmongering",
+    "n2": "warmongerings",
+    "n3": "the warmongering",
+    "n4": "the warmongerings",
+    "n5": "warmongering's",
+    "n6": "warmongerings'",
+    "n7": "a warmongering",
+    "n8": "many warmongerings"
+}

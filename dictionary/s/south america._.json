@@ -1,0 +1,18 @@
+{
+    "base": "south america",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "south america",
+    "n2": "south americas",
+    "n3": "the south america",
+    "n4": "the south americas",
+    "n5": "south america's",
+    "n6": "south americas'",
+    "n7": "a south america",
+    "n8": "many south americas"
+}

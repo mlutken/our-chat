@@ -1,0 +1,18 @@
+{
+    "base": "revival",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "revival",
+    "n2": "revivals",
+    "n3": "the revival",
+    "n4": "the revivals",
+    "n5": "revival's",
+    "n6": "revivals'",
+    "n7": "a revival",
+    "n8": "many revivals"
+}

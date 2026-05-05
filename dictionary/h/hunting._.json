@@ -1,0 +1,18 @@
+{
+    "base": "hunting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "hunting",
+    "n2": "huntings",
+    "n3": "the hunting",
+    "n4": "the huntings",
+    "n5": "hunting's",
+    "n6": "huntings'",
+    "n7": "a hunting",
+    "n8": "many huntings"
+}

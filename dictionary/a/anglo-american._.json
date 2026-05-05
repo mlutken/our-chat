@@ -1,0 +1,18 @@
+{
+    "base": "anglo-american",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "anglo-american",
+    "n2": "anglo-americans",
+    "n3": "the anglo-american",
+    "n4": "the anglo-americans",
+    "n5": "anglo-american's",
+    "n6": "anglo-americans'",
+    "n7": "an anglo-american",
+    "n8": "many anglo-americans"
+}

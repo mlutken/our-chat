@@ -1,0 +1,18 @@
+{
+    "base": "eyesight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "eyesight",
+    "n2": "eyesights",
+    "n3": "the eyesight",
+    "n4": "the eyesights",
+    "n5": "eyesight's",
+    "n6": "eyesights'",
+    "n7": "an eyesight",
+    "n8": "many eyesights"
+}

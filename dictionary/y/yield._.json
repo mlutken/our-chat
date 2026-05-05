@@ -1,11 +1,24 @@
 {
     "base": "yield",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "yield",
     "v2": "yielded",
     "v3": "yielded",
     "v4": "yielding",
-    "v5": "yields"
+    "v5": "yields",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "yield",
+    "n2": "yields",
+    "n3": "the yield",
+    "n4": "the yields",
+    "n5": "yield's",
+    "n6": "yields'",
+    "n7": "a yield",
+    "n8": "many yields"
 }

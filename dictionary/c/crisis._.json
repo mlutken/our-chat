@@ -7,5 +7,12 @@
     "n2": "crises",
     "n3": "the crisis",
     "n4": "the crises",
-    "n5": "crisis's"
+    "n5": "crisis'",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n6": "crises'",
+    "n7": "a crisis",
+    "n8": "many crises"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "diagram",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "diagram",
+    "n2": "diagrams",
+    "n3": "the diagram",
+    "n4": "the diagrams",
+    "n5": "diagram's",
+    "n6": "diagrams'",
+    "n7": "a diagram",
+    "n8": "many diagrams"
+}

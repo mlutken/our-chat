@@ -7,5 +7,12 @@
     "n2": "revenues",
     "n3": "the revenue",
     "n4": "the revenues",
-    "n5": "revenue's"
+    "n5": "revenue's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "revenues'",
+    "n7": "a revenue",
+    "n8": "many revenues"
 }

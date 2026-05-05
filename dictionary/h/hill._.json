@@ -1,0 +1,18 @@
+{
+    "base": "hill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n1": "hill",
+    "n2": "hills",
+    "n3": "the hill",
+    "n4": "the hills",
+    "n5": "hill's",
+    "n6": "hills'",
+    "n7": "a hill",
+    "n8": "many hills"
+}

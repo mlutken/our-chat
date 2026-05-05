@@ -1,0 +1,18 @@
+{
+    "base": "quickness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "quickness",
+    "n2": "quicknesses",
+    "n3": "the quickness",
+    "n4": "the quicknesses",
+    "n5": "quickness'",
+    "n6": "quicknesses'",
+    "n7": "a quickness",
+    "n8": "many quicknesses"
+}

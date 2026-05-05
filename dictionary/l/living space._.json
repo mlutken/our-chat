@@ -1,0 +1,18 @@
+{
+    "base": "living space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "living space",
+    "n2": "living spaces",
+    "n3": "the living space",
+    "n4": "the living spaces",
+    "n5": "living space's",
+    "n6": "living spaces'",
+    "n7": "a living space",
+    "n8": "many living spaces"
+}

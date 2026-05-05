@@ -1,0 +1,18 @@
+{
+    "base": "social structure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "social structure",
+    "n2": "social structures",
+    "n3": "the social structure",
+    "n4": "the social structures",
+    "n5": "social structure's",
+    "n6": "social structures'",
+    "n7": "a social structure",
+    "n8": "many social structures"
+}

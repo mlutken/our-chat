@@ -1,0 +1,18 @@
+{
+    "base": "capillary tubing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capillary tubing",
+    "n2": "capillary tubings",
+    "n3": "the capillary tubing",
+    "n4": "the capillary tubings",
+    "n5": "capillary tubing's",
+    "n6": "capillary tubings'",
+    "n7": "a capillary tubing",
+    "n8": "many capillary tubings"
+}

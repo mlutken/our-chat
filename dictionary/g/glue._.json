@@ -1,11 +1,24 @@
 {
     "base": "glue",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "glue",
     "v2": "glued",
     "v3": "glued",
     "v4": "gluing",
-    "v5": "glues"
+    "v5": "glues",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glue",
+    "n2": "glues",
+    "n3": "the glue",
+    "n4": "the glues",
+    "n5": "glue's",
+    "n6": "glues'",
+    "n7": "a glue",
+    "n8": "many glues"
 }

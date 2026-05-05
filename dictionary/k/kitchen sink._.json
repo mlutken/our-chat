@@ -1,0 +1,18 @@
+{
+    "base": "kitchen sink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "kitchen sink",
+    "n2": "kitchen sinks",
+    "n3": "the kitchen sink",
+    "n4": "the kitchen sinks",
+    "n5": "kitchen sink's",
+    "n6": "kitchen sinks'",
+    "n7": "a kitchen sink",
+    "n8": "many kitchen sinks"
+}

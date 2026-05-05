@@ -1,0 +1,18 @@
+{
+    "base": "corrugated iron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corrugated iron",
+    "n2": "corrugated irons",
+    "n3": "the corrugated iron",
+    "n4": "the corrugated irons",
+    "n5": "corrugated iron's",
+    "n6": "corrugated irons'",
+    "n7": "a corrugated iron",
+    "n8": "many corrugated irons"
+}

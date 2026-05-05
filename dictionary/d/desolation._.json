@@ -1,0 +1,18 @@
+{
+    "base": "desolation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "desolation",
+    "n2": "desolations",
+    "n3": "the desolation",
+    "n4": "the desolations",
+    "n5": "desolation's",
+    "n6": "desolations'",
+    "n7": "a desolation",
+    "n8": "many desolations"
+}

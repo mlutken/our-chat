@@ -1,0 +1,18 @@
+{
+    "base": "hyperemia",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hyperemia",
+    "n2": "hyperemias",
+    "n3": "the hyperemia",
+    "n4": "the hyperemias",
+    "n5": "hyperemia's",
+    "n6": "hyperemias'",
+    "n7": "a hyperemia",
+    "n8": "many hyperemias"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "advisability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "advisability",
+    "n2": "advisabilities",
+    "n3": "the advisability",
+    "n4": "the advisabilities",
+    "n5": "advisability's",
+    "n6": "advisabilities'",
+    "n7": "an advisability",
+    "n8": "many advisabilities"
+}

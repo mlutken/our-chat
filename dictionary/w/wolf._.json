@@ -7,5 +7,12 @@
     "n2": "wolves",
     "n3": "the wolf",
     "n4": "the wolves",
-    "n5": "wolf's"
+    "n5": "wolf's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "wolves'",
+    "n7": "a wolf",
+    "n8": "many wolves"
 }

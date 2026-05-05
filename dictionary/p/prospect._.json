@@ -1,0 +1,18 @@
+{
+    "base": "prospect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "prospect",
+    "n2": "prospects",
+    "n3": "the prospect",
+    "n4": "the prospects",
+    "n5": "prospect's",
+    "n6": "prospects'",
+    "n7": "a prospect",
+    "n8": "many prospects"
+}

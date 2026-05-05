@@ -1,0 +1,18 @@
+{
+    "base": "injustice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "injustice",
+    "n2": "injustices",
+    "n3": "the injustice",
+    "n4": "the injustices",
+    "n5": "injustice's",
+    "n6": "injustices'",
+    "n7": "an injustice",
+    "n8": "many injustices"
+}

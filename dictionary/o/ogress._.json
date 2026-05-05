@@ -1,0 +1,18 @@
+{
+    "base": "ogress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ogress",
+    "n2": "ogresses",
+    "n3": "the ogress",
+    "n4": "the ogresses",
+    "n5": "ogress'",
+    "n6": "ogresses'",
+    "n7": "an ogress",
+    "n8": "many ogresses"
+}

@@ -7,5 +7,12 @@
     "n2": "trends",
     "n3": "the trend",
     "n4": "the trends",
-    "n5": "trend's"
+    "n5": "trend's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "trends'",
+    "n7": "a trend",
+    "n8": "many trends"
 }

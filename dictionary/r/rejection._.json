@@ -1,0 +1,18 @@
+{
+    "base": "rejection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "rejection",
+    "n2": "rejections",
+    "n3": "the rejection",
+    "n4": "the rejections",
+    "n5": "rejection's",
+    "n6": "rejections'",
+    "n7": "a rejection",
+    "n8": "many rejections"
+}

@@ -7,5 +7,12 @@
     "n2": "growths",
     "n3": "the growth",
     "n4": "the growths",
-    "n5": "growth's"
+    "n5": "growth's",
+    "proper": false,
+    "commonness": 64,
+    "max_commonness": 6834,
+    "commonness_ge_count": 239,
+    "n6": "growths'",
+    "n7": "a growth",
+    "n8": "many growths"
 }

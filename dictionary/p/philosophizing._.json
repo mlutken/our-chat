@@ -1,0 +1,18 @@
+{
+    "base": "philosophizing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "philosophizing",
+    "n2": "philosophizings",
+    "n3": "the philosophizing",
+    "n4": "the philosophizings",
+    "n5": "philosophizing's",
+    "n6": "philosophizings'",
+    "n7": "a philosophizing",
+    "n8": "many philosophizings"
+}

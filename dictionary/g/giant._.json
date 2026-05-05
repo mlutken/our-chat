@@ -1,0 +1,18 @@
+{
+    "base": "giant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "giant",
+    "n2": "giants",
+    "n3": "the giant",
+    "n4": "the giants",
+    "n5": "giant's",
+    "n6": "giants'",
+    "n7": "a giant",
+    "n8": "many giants"
+}

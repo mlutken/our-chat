@@ -1,0 +1,18 @@
+{
+    "base": "slop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "slop",
+    "n2": "slops",
+    "n3": "the slop",
+    "n4": "the slops",
+    "n5": "slop's",
+    "n6": "slops'",
+    "n7": "a slop",
+    "n8": "many slops"
+}

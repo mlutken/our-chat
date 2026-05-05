@@ -1,0 +1,18 @@
+{
+    "base": "bulk",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "bulk",
+    "n2": "bulks",
+    "n3": "the bulk",
+    "n4": "the bulks",
+    "n5": "bulk's",
+    "n6": "bulks'",
+    "n7": "a bulk",
+    "n8": "many bulks"
+}

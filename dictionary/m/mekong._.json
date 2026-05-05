@@ -1,0 +1,18 @@
+{
+    "base": "mekong",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mekong",
+    "n2": "mekongs",
+    "n3": "the mekong",
+    "n4": "the mekongs",
+    "n5": "mekong's",
+    "n6": "mekongs'",
+    "n7": "a mekong",
+    "n8": "many mekongs"
+}

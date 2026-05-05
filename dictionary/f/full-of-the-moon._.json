@@ -1,0 +1,18 @@
+{
+    "base": "full-of-the-moon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "full-of-the-moon",
+    "n2": "full-of-the-moons",
+    "n3": "the full-of-the-moon",
+    "n4": "the full-of-the-moons",
+    "n5": "full-of-the-moon's",
+    "n6": "full-of-the-moons'",
+    "n7": "a full-of-the-moon",
+    "n8": "many full-of-the-moons"
+}

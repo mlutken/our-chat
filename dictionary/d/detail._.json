@@ -7,5 +7,12 @@
     "n2": "details",
     "n3": "the detail",
     "n4": "the details",
-    "n5": "detail's"
+    "n5": "detail's",
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n6": "details'",
+    "n7": "a detail",
+    "n8": "many details"
 }

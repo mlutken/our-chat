@@ -1,0 +1,18 @@
+{
+    "base": "mobilization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mobilization",
+    "n2": "mobilizations",
+    "n3": "the mobilization",
+    "n4": "the mobilizations",
+    "n5": "mobilization's",
+    "n6": "mobilizations'",
+    "n7": "a mobilization",
+    "n8": "many mobilizations"
+}

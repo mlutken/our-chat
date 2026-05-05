@@ -7,5 +7,12 @@
     "n2": "journals",
     "n3": "the journal",
     "n4": "the journals",
-    "n5": "journal's"
+    "n5": "journal's",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n6": "journals'",
+    "n7": "a journal",
+    "n8": "many journals"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "tyrant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tyrant",
+    "n2": "tyrants",
+    "n3": "the tyrant",
+    "n4": "the tyrants",
+    "n5": "tyrant's",
+    "n6": "tyrants'",
+    "n7": "a tyrant",
+    "n8": "many tyrants"
+}

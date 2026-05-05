@@ -1,0 +1,18 @@
+{
+    "base": "defect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "defect",
+    "n2": "defects",
+    "n3": "the defect",
+    "n4": "the defects",
+    "n5": "defect's",
+    "n6": "defects'",
+    "n7": "a defect",
+    "n8": "many defects"
+}

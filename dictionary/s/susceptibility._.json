@@ -1,0 +1,18 @@
+{
+    "base": "susceptibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "susceptibility",
+    "n2": "susceptibilities",
+    "n3": "the susceptibility",
+    "n4": "the susceptibilities",
+    "n5": "susceptibility's",
+    "n6": "susceptibilities'",
+    "n7": "a susceptibility",
+    "n8": "many susceptibilities"
+}

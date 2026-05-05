@@ -1,0 +1,18 @@
+{
+    "base": "jerking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jerking",
+    "n2": "jerkings",
+    "n3": "the jerking",
+    "n4": "the jerkings",
+    "n5": "jerking's",
+    "n6": "jerkings'",
+    "n7": "a jerking",
+    "n8": "many jerkings"
+}

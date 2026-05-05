@@ -1,0 +1,18 @@
+{
+    "base": "mite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mite",
+    "n2": "mites",
+    "n3": "the mite",
+    "n4": "the mites",
+    "n5": "mite's",
+    "n6": "mites'",
+    "n7": "a mite",
+    "n8": "many mites"
+}

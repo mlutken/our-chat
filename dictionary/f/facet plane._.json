@@ -1,0 +1,18 @@
+{
+    "base": "facet plane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "facet plane",
+    "n2": "facet planes",
+    "n3": "the facet plane",
+    "n4": "the facet planes",
+    "n5": "facet plane's",
+    "n6": "facet planes'",
+    "n7": "a facet plane",
+    "n8": "many facet planes"
+}

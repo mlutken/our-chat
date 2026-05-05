@@ -1,0 +1,18 @@
+{
+    "base": "railroad train",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "railroad train",
+    "n2": "railroad trains",
+    "n3": "the railroad train",
+    "n4": "the railroad trains",
+    "n5": "railroad train's",
+    "n6": "railroad trains'",
+    "n7": "a railroad train",
+    "n8": "many railroad trains"
+}

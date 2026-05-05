@@ -1,0 +1,18 @@
+{
+    "base": "draper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "draper",
+    "n2": "drapers",
+    "n3": "the draper",
+    "n4": "the drapers",
+    "n5": "draper's",
+    "n6": "drapers'",
+    "n7": "a draper",
+    "n8": "many drapers"
+}

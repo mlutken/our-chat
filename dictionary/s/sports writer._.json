@@ -1,0 +1,18 @@
+{
+    "base": "sports writer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sports writer",
+    "n2": "sports writers",
+    "n3": "the sports writer",
+    "n4": "the sports writers",
+    "n5": "sports writer's",
+    "n6": "sports writers'",
+    "n7": "a sports writer",
+    "n8": "many sports writers"
+}

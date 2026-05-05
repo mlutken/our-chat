@@ -1,0 +1,18 @@
+{
+    "base": "ketosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ketosis",
+    "n2": "ketosises",
+    "n3": "the ketosis",
+    "n4": "the ketosises",
+    "n5": "ketosis'",
+    "n6": "ketosises'",
+    "n7": "a ketosis",
+    "n8": "many ketosises"
+}

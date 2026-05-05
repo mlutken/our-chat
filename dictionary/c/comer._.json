@@ -1,0 +1,18 @@
+{
+    "base": "comer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "comer",
+    "n2": "comers",
+    "n3": "the comer",
+    "n4": "the comers",
+    "n5": "comer's",
+    "n6": "comers'",
+    "n7": "a comer",
+    "n8": "many comers"
+}

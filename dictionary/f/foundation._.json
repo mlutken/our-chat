@@ -7,5 +7,12 @@
     "n2": "foundations",
     "n3": "the foundation",
     "n4": "the foundations",
-    "n5": "foundation's"
+    "n5": "foundation's",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "foundations'",
+    "n7": "a foundation",
+    "n8": "many foundations"
 }

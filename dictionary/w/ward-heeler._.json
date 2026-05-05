@@ -1,0 +1,18 @@
+{
+    "base": "ward-heeler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ward-heeler",
+    "n2": "ward-heelers",
+    "n3": "the ward-heeler",
+    "n4": "the ward-heelers",
+    "n5": "ward-heeler's",
+    "n6": "ward-heelers'",
+    "n7": "a ward-heeler",
+    "n8": "many ward-heelers"
+}

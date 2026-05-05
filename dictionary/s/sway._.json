@@ -1,0 +1,18 @@
+{
+    "base": "sway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sway",
+    "n2": "sways",
+    "n3": "the sway",
+    "n4": "the sways",
+    "n5": "sway's",
+    "n6": "sways'",
+    "n7": "a sway",
+    "n8": "many sways"
+}

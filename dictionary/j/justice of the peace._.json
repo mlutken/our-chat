@@ -1,0 +1,18 @@
+{
+    "base": "justice of the peace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "justice of the peace",
+    "n2": "justice of the peaces",
+    "n3": "the justice of the peace",
+    "n4": "the justice of the peaces",
+    "n5": "justice of the peace's",
+    "n6": "justice of the peaces'",
+    "n7": "a justice of the peace",
+    "n8": "many justice of the peaces"
+}

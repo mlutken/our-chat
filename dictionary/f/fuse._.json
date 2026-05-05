@@ -1,0 +1,18 @@
+{
+    "base": "fuse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fuse",
+    "n2": "fuses",
+    "n3": "the fuse",
+    "n4": "the fuses",
+    "n5": "fuse's",
+    "n6": "fuses'",
+    "n7": "a fuse",
+    "n8": "many fuses"
+}

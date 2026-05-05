@@ -1,0 +1,18 @@
+{
+    "base": "loon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "loon",
+    "n2": "loons",
+    "n3": "the loon",
+    "n4": "the loons",
+    "n5": "loon's",
+    "n6": "loons'",
+    "n7": "a loon",
+    "n8": "many loons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "egypt",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "egypt",
+    "n2": "egypts",
+    "n3": "the egypt",
+    "n4": "the egypts",
+    "n5": "egypt's",
+    "n6": "egypts'",
+    "n7": "an egypt",
+    "n8": "many egypts"
+}

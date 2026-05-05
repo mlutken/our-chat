@@ -1,0 +1,18 @@
+{
+    "base": "lobe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "lobe",
+    "n2": "lobes",
+    "n3": "the lobe",
+    "n4": "the lobes",
+    "n5": "lobe's",
+    "n6": "lobes'",
+    "n7": "a lobe",
+    "n8": "many lobes"
+}

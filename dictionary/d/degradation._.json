@@ -1,0 +1,18 @@
+{
+    "base": "degradation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "degradation",
+    "n2": "degradations",
+    "n3": "the degradation",
+    "n4": "the degradations",
+    "n5": "degradation's",
+    "n6": "degradations'",
+    "n7": "a degradation",
+    "n8": "many degradations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "intermediate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "intermediate",
+    "n2": "intermediates",
+    "n3": "the intermediate",
+    "n4": "the intermediates",
+    "n5": "intermediate's",
+    "n6": "intermediates'",
+    "n7": "an intermediate",
+    "n8": "many intermediates"
+}

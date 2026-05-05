@@ -1,0 +1,18 @@
+{
+    "base": "west berliner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "west berliner",
+    "n2": "west berliners",
+    "n3": "the west berliner",
+    "n4": "the west berliners",
+    "n5": "west berliner's",
+    "n6": "west berliners'",
+    "n7": "a west berliner",
+    "n8": "many west berliners"
+}

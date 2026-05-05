@@ -1,0 +1,18 @@
+{
+    "base": "judiciary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "judiciary",
+    "n2": "judiciaries",
+    "n3": "the judiciary",
+    "n4": "the judiciaries",
+    "n5": "judiciary's",
+    "n6": "judiciaries'",
+    "n7": "a judiciary",
+    "n8": "many judiciaries"
+}

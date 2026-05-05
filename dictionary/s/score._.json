@@ -7,5 +7,12 @@
     "n2": "scores",
     "n3": "the score",
     "n4": "the scores",
-    "n5": "score's"
+    "n5": "score's",
+    "proper": false,
+    "commonness": 36,
+    "max_commonness": 6834,
+    "commonness_ge_count": 497,
+    "n6": "scores'",
+    "n7": "a score",
+    "n8": "many scores"
 }

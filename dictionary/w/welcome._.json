@@ -1,11 +1,24 @@
 {
     "base": "welcome",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "welcome",
     "v2": "welcomed",
     "v3": "welcomed",
     "v4": "welcoming",
-    "v5": "welcomes"
+    "v5": "welcomes",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "welcome",
+    "n2": "welcomes",
+    "n3": "the welcome",
+    "n4": "the welcomes",
+    "n5": "welcome's",
+    "n6": "welcomes'",
+    "n7": "a welcome",
+    "n8": "many welcomes"
 }

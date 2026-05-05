@@ -1,0 +1,18 @@
+{
+    "base": "resistance thermometer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "resistance thermometer",
+    "n2": "resistance thermometers",
+    "n3": "the resistance thermometer",
+    "n4": "the resistance thermometers",
+    "n5": "resistance thermometer's",
+    "n6": "resistance thermometers'",
+    "n7": "a resistance thermometer",
+    "n8": "many resistance thermometers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "montreal",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "montreal",
+    "n2": "montreals",
+    "n3": "the montreal",
+    "n4": "the montreals",
+    "n5": "montreal's",
+    "n6": "montreals'",
+    "n7": "a montreal",
+    "n8": "many montreals"
+}

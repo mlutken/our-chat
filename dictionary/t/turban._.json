@@ -1,0 +1,18 @@
+{
+    "base": "turban",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "turban",
+    "n2": "turbans",
+    "n3": "the turban",
+    "n4": "the turbans",
+    "n5": "turban's",
+    "n6": "turbans'",
+    "n7": "a turban",
+    "n8": "many turbans"
+}

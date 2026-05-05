@@ -1,0 +1,18 @@
+{
+    "base": "subspace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "subspace",
+    "n2": "subspaces",
+    "n3": "the subspace",
+    "n4": "the subspaces",
+    "n5": "subspace's",
+    "n6": "subspaces'",
+    "n7": "a subspace",
+    "n8": "many subspaces"
+}

@@ -13,5 +13,12 @@
     "v2": "attempted",
     "v3": "attempted",
     "v4": "attempting",
-    "v5": "attempts"
+    "v5": "attempts",
+    "proper": false,
+    "commonness": 51,
+    "max_commonness": 6834,
+    "commonness_ge_count": 322,
+    "n6": "attempts'",
+    "n7": "an attempt",
+    "n8": "many attempts"
 }

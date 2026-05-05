@@ -1,0 +1,18 @@
+{
+    "base": "breaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breaking",
+    "n2": "breakings",
+    "n3": "the breaking",
+    "n4": "the breakings",
+    "n5": "breaking's",
+    "n6": "breakings'",
+    "n7": "a breaking",
+    "n8": "many breakings"
+}

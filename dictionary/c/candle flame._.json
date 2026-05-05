@@ -1,0 +1,18 @@
+{
+    "base": "candle flame",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "candle flame",
+    "n2": "candle flames",
+    "n3": "the candle flame",
+    "n4": "the candle flames",
+    "n5": "candle flame's",
+    "n6": "candle flames'",
+    "n7": "a candle flame",
+    "n8": "many candle flames"
+}

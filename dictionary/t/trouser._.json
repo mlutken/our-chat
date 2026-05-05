@@ -1,0 +1,18 @@
+{
+    "base": "trouser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "trouser",
+    "n2": "trousers",
+    "n3": "the trouser",
+    "n4": "the trousers",
+    "n5": "trouser's",
+    "n6": "trousers'",
+    "n7": "a trouser",
+    "n8": "many trousers"
+}

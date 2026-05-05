@@ -7,5 +7,12 @@
     "n2": "interactions",
     "n3": "the interaction",
     "n4": "the interactions",
-    "n5": "interaction's"
+    "n5": "interaction's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "interactions'",
+    "n7": "an interaction",
+    "n8": "many interactions"
 }

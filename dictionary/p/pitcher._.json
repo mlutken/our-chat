@@ -1,0 +1,18 @@
+{
+    "base": "pitcher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "pitcher",
+    "n2": "pitchers",
+    "n3": "the pitcher",
+    "n4": "the pitchers",
+    "n5": "pitcher's",
+    "n6": "pitchers'",
+    "n7": "a pitcher",
+    "n8": "many pitchers"
+}

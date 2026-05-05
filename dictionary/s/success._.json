@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "success",
-    "n2": "success",
+    "n2": "successes",
     "n3": "the success",
-    "n4": "the success",
-    "n5": "success's"
+    "n4": "the successes",
+    "n5": "success'",
+    "proper": false,
+    "commonness": 72,
+    "max_commonness": 6834,
+    "commonness_ge_count": 199,
+    "n6": "successes'",
+    "n7": "a success",
+    "n8": "many successes"
 }

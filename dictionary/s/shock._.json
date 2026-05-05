@@ -1,11 +1,24 @@
 {
     "base": "shock",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "shock",
     "v2": "shocked",
     "v3": "shocked",
     "v4": "shocking",
-    "v5": "shocks"
+    "v5": "shocks",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "shock",
+    "n2": "shocks",
+    "n3": "the shock",
+    "n4": "the shocks",
+    "n5": "shock's",
+    "n6": "shocks'",
+    "n7": "a shock",
+    "n8": "many shocks"
 }

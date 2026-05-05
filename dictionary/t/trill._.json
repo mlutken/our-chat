@@ -1,0 +1,18 @@
+{
+    "base": "trill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "trill",
+    "n2": "trills",
+    "n3": "the trill",
+    "n4": "the trills",
+    "n5": "trill's",
+    "n6": "trills'",
+    "n7": "a trill",
+    "n8": "many trills"
+}

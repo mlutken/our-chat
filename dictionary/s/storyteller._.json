@@ -1,0 +1,18 @@
+{
+    "base": "storyteller",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "storyteller",
+    "n2": "storytellers",
+    "n3": "the storyteller",
+    "n4": "the storytellers",
+    "n5": "storyteller's",
+    "n6": "storytellers'",
+    "n7": "a storyteller",
+    "n8": "many storytellers"
+}

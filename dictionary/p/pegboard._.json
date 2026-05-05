@@ -1,0 +1,18 @@
+{
+    "base": "pegboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "pegboard",
+    "n2": "pegboards",
+    "n3": "the pegboard",
+    "n4": "the pegboards",
+    "n5": "pegboard's",
+    "n6": "pegboards'",
+    "n7": "a pegboard",
+    "n8": "many pegboards"
+}

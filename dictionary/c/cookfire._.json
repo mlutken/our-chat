@@ -1,0 +1,18 @@
+{
+    "base": "cookfire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cookfire",
+    "n2": "cookfires",
+    "n3": "the cookfire",
+    "n4": "the cookfires",
+    "n5": "cookfire's",
+    "n6": "cookfires'",
+    "n7": "a cookfire",
+    "n8": "many cookfires"
+}

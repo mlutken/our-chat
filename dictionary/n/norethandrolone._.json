@@ -1,0 +1,18 @@
+{
+    "base": "norethandrolone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "norethandrolone",
+    "n2": "norethandrolones",
+    "n3": "the norethandrolone",
+    "n4": "the norethandrolones",
+    "n5": "norethandrolone's",
+    "n6": "norethandrolones'",
+    "n7": "a norethandrolone",
+    "n8": "many norethandrolones"
+}

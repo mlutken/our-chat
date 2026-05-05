@@ -1,0 +1,18 @@
+{
+    "base": "barkeep",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "barkeep",
+    "n2": "barkeeps",
+    "n3": "the barkeep",
+    "n4": "the barkeeps",
+    "n5": "barkeep's",
+    "n6": "barkeeps'",
+    "n7": "a barkeep",
+    "n8": "many barkeeps"
+}

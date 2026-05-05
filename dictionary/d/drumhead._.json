@@ -1,0 +1,18 @@
+{
+    "base": "drumhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drumhead",
+    "n2": "drumheads",
+    "n3": "the drumhead",
+    "n4": "the drumheads",
+    "n5": "drumhead's",
+    "n6": "drumheads'",
+    "n7": "a drumhead",
+    "n8": "many drumheads"
+}

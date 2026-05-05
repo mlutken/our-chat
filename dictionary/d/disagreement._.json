@@ -1,0 +1,18 @@
+{
+    "base": "disagreement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "disagreement",
+    "n2": "disagreements",
+    "n3": "the disagreement",
+    "n4": "the disagreements",
+    "n5": "disagreement's",
+    "n6": "disagreements'",
+    "n7": "a disagreement",
+    "n8": "many disagreements"
+}

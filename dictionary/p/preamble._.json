@@ -1,0 +1,18 @@
+{
+    "base": "preamble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "preamble",
+    "n2": "preambles",
+    "n3": "the preamble",
+    "n4": "the preambles",
+    "n5": "preamble's",
+    "n6": "preambles'",
+    "n7": "a preamble",
+    "n8": "many preambles"
+}

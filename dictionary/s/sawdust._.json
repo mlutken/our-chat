@@ -1,0 +1,18 @@
+{
+    "base": "sawdust",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sawdust",
+    "n2": "sawdusts",
+    "n3": "the sawdust",
+    "n4": "the sawdusts",
+    "n5": "sawdust's",
+    "n6": "sawdusts'",
+    "n7": "a sawdust",
+    "n8": "many sawdusts"
+}

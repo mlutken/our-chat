@@ -1,0 +1,18 @@
+{
+    "base": "nectary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nectary",
+    "n2": "nectaries",
+    "n3": "the nectary",
+    "n4": "the nectaries",
+    "n5": "nectary's",
+    "n6": "nectaries'",
+    "n7": "a nectary",
+    "n8": "many nectaries"
+}

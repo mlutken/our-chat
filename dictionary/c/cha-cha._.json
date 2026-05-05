@@ -1,0 +1,18 @@
+{
+    "base": "cha-cha",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cha-cha",
+    "n2": "cha-chas",
+    "n3": "the cha-cha",
+    "n4": "the cha-chas",
+    "n5": "cha-cha's",
+    "n6": "cha-chas'",
+    "n7": "a cha-cha",
+    "n8": "many cha-chas"
+}

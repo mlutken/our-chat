@@ -1,0 +1,18 @@
+{
+    "base": "pushup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pushup",
+    "n2": "pushups",
+    "n3": "the pushup",
+    "n4": "the pushups",
+    "n5": "pushup's",
+    "n6": "pushups'",
+    "n7": "a pushup",
+    "n8": "many pushups"
+}

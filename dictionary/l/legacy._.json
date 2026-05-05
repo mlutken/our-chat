@@ -1,0 +1,18 @@
+{
+    "base": "legacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legacy",
+    "n2": "legacies",
+    "n3": "the legacy",
+    "n4": "the legacies",
+    "n5": "legacy's",
+    "n6": "legacies'",
+    "n7": "a legacy",
+    "n8": "many legacies"
+}

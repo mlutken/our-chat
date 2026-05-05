@@ -7,5 +7,12 @@
     "n2": "packages",
     "n3": "the package",
     "n4": "the packages",
-    "n5": "package's"
+    "n5": "package's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "packages'",
+    "n7": "a package",
+    "n8": "many packages"
 }

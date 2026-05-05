@@ -1,0 +1,18 @@
+{
+    "base": "subcontinent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subcontinent",
+    "n2": "subcontinents",
+    "n3": "the subcontinent",
+    "n4": "the subcontinents",
+    "n5": "subcontinent's",
+    "n6": "subcontinents'",
+    "n7": "a subcontinent",
+    "n8": "many subcontinents"
+}

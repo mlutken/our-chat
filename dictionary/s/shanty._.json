@@ -1,0 +1,18 @@
+{
+    "base": "shanty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shanty",
+    "n2": "shanties",
+    "n3": "the shanty",
+    "n4": "the shanties",
+    "n5": "shanty's",
+    "n6": "shanties'",
+    "n7": "a shanty",
+    "n8": "many shanties"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "magnifying glass",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "magnifying glass",
+    "n2": "magnifying glasses",
+    "n3": "the magnifying glass",
+    "n4": "the magnifying glasses",
+    "n5": "magnifying glass'",
+    "n6": "magnifying glasses'",
+    "n7": "a magnifying glass",
+    "n8": "many magnifying glasses"
+}

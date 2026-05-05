@@ -1,0 +1,18 @@
+{
+    "base": "flight of stairs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flight of stairs",
+    "n2": "flights of stairs",
+    "n3": "the flight of stairs",
+    "n4": "the flights of stairs",
+    "n5": "flight of stairs'",
+    "n6": "flights of stairs'",
+    "n7": "a flight of stairs",
+    "n8": "many flights of stairs"
+}

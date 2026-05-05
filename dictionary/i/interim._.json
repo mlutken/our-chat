@@ -1,0 +1,18 @@
+{
+    "base": "interim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "interim",
+    "n2": "interims",
+    "n3": "the interim",
+    "n4": "the interims",
+    "n5": "interim's",
+    "n6": "interims'",
+    "n7": "an interim",
+    "n8": "many interims"
+}

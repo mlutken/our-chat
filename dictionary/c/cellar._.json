@@ -1,0 +1,18 @@
+{
+    "base": "cellar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "cellar",
+    "n2": "cellars",
+    "n3": "the cellar",
+    "n4": "the cellars",
+    "n5": "cellar's",
+    "n6": "cellars'",
+    "n7": "a cellar",
+    "n8": "many cellars"
+}

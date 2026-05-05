@@ -1,0 +1,18 @@
+{
+    "base": "efficiency engineer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "efficiency engineer",
+    "n2": "efficiency engineers",
+    "n3": "the efficiency engineer",
+    "n4": "the efficiency engineers",
+    "n5": "efficiency engineer's",
+    "n6": "efficiency engineers'",
+    "n7": "an efficiency engineer",
+    "n8": "many efficiency engineers"
+}

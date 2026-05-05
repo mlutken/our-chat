@@ -1,0 +1,18 @@
+{
+    "base": "promoter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "promoter",
+    "n2": "promoters",
+    "n3": "the promoter",
+    "n4": "the promoters",
+    "n5": "promoter's",
+    "n6": "promoters'",
+    "n7": "a promoter",
+    "n8": "many promoters"
+}

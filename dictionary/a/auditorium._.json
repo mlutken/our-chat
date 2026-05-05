@@ -1,0 +1,18 @@
+{
+    "base": "auditorium",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "auditorium",
+    "n2": "auditoria",
+    "n3": "the auditorium",
+    "n4": "the auditoria",
+    "n5": "auditorium's",
+    "n6": "auditoria's",
+    "n7": "an auditorium",
+    "n8": "many auditoria"
+}

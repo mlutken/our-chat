@@ -1,0 +1,18 @@
+{
+    "base": "recurrence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "recurrence",
+    "n2": "recurrences",
+    "n3": "the recurrence",
+    "n4": "the recurrences",
+    "n5": "recurrence's",
+    "n6": "recurrences'",
+    "n7": "a recurrence",
+    "n8": "many recurrences"
+}

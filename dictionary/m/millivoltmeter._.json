@@ -1,0 +1,18 @@
+{
+    "base": "millivoltmeter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "millivoltmeter",
+    "n2": "millivoltmeters",
+    "n3": "the millivoltmeter",
+    "n4": "the millivoltmeters",
+    "n5": "millivoltmeter's",
+    "n6": "millivoltmeters'",
+    "n7": "a millivoltmeter",
+    "n8": "many millivoltmeters"
+}

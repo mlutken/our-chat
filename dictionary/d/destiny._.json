@@ -1,0 +1,18 @@
+{
+    "base": "destiny",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "destiny",
+    "n2": "destinies",
+    "n3": "the destiny",
+    "n4": "the destinies",
+    "n5": "destiny's",
+    "n6": "destinies'",
+    "n7": "a destiny",
+    "n8": "many destinies"
+}

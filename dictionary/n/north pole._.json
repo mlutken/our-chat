@@ -1,0 +1,18 @@
+{
+    "base": "north pole",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "north pole",
+    "n2": "north poles",
+    "n3": "the north pole",
+    "n4": "the north poles",
+    "n5": "north pole's",
+    "n6": "north poles'",
+    "n7": "a north pole",
+    "n8": "many north poles"
+}

@@ -1,11 +1,24 @@
 {
     "base": "catch",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "catch",
     "v2": "caught",
     "v3": "caught",
     "v4": "catching",
-    "v5": "catches"
+    "v5": "catches",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "catch",
+    "n2": "catches",
+    "n3": "the catch",
+    "n4": "the catches",
+    "n5": "catch's",
+    "n6": "catches'",
+    "n7": "a catch",
+    "n8": "many catches"
 }

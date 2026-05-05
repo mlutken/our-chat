@@ -1,0 +1,18 @@
+{
+    "base": "sloop",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sloop",
+    "n2": "sloops",
+    "n3": "the sloop",
+    "n4": "the sloops",
+    "n5": "sloop's",
+    "n6": "sloops'",
+    "n7": "a sloop",
+    "n8": "many sloops"
+}

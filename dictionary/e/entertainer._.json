@@ -1,0 +1,18 @@
+{
+    "base": "entertainer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "entertainer",
+    "n2": "entertainers",
+    "n3": "the entertainer",
+    "n4": "the entertainers",
+    "n5": "entertainer's",
+    "n6": "entertainers'",
+    "n7": "an entertainer",
+    "n8": "many entertainers"
+}

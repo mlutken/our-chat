@@ -1,0 +1,18 @@
+{
+    "base": "putout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "putout",
+    "n2": "putouts",
+    "n3": "the putout",
+    "n4": "the putouts",
+    "n5": "putout's",
+    "n6": "putouts'",
+    "n7": "a putout",
+    "n8": "many putouts"
+}

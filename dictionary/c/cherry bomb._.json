@@ -1,0 +1,18 @@
+{
+    "base": "cherry bomb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cherry bomb",
+    "n2": "cherry bombs",
+    "n3": "the cherry bomb",
+    "n4": "the cherry bombs",
+    "n5": "cherry bomb's",
+    "n6": "cherry bombs'",
+    "n7": "a cherry bomb",
+    "n8": "many cherry bombs"
+}

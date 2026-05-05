@@ -1,11 +1,24 @@
 {
     "base": "cross",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cross",
     "v2": "crossed",
     "v3": "crossed",
     "v4": "crossing",
-    "v5": "crosses"
+    "v5": "crosses",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "cross",
+    "n2": "crosses",
+    "n3": "the cross",
+    "n4": "the crosses",
+    "n5": "cross'",
+    "n6": "crosses'",
+    "n7": "a cross",
+    "n8": "many crosses"
 }

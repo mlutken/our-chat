@@ -1,0 +1,18 @@
+{
+    "base": "guerrilla",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "guerrilla",
+    "n2": "guerrillas",
+    "n3": "the guerrilla",
+    "n4": "the guerrillas",
+    "n5": "guerrilla's",
+    "n6": "guerrillas'",
+    "n7": "a guerrilla",
+    "n8": "many guerrillas"
+}

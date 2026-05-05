@@ -1,11 +1,24 @@
 {
     "base": "wrap",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "wrap",
     "v2": "wrapped",
     "v3": "wrapped",
     "v4": "wrapping",
-    "v5": "wraps"
+    "v5": "wraps",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wrap",
+    "n2": "wraps",
+    "n3": "the wrap",
+    "n4": "the wraps",
+    "n5": "wrap's",
+    "n6": "wraps'",
+    "n7": "a wrap",
+    "n8": "many wraps"
 }

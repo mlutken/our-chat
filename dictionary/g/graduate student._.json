@@ -1,0 +1,18 @@
+{
+    "base": "graduate student",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "graduate student",
+    "n2": "graduate students",
+    "n3": "the graduate student",
+    "n4": "the graduate students",
+    "n5": "graduate student's",
+    "n6": "graduate students'",
+    "n7": "a graduate student",
+    "n8": "many graduate students"
+}

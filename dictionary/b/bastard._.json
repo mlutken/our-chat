@@ -1,0 +1,18 @@
+{
+    "base": "bastard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "bastard",
+    "n2": "bastards",
+    "n3": "the bastard",
+    "n4": "the bastards",
+    "n5": "bastard's",
+    "n6": "bastards'",
+    "n7": "a bastard",
+    "n8": "many bastards"
+}

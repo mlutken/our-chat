@@ -1,11 +1,24 @@
 {
     "base": "dislike",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "dislike",
     "v2": "disliked",
     "v3": "disliked",
     "v4": "disliking",
-    "v5": "dislikes"
+    "v5": "dislikes",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "dislike",
+    "n2": "dislikes",
+    "n3": "the dislike",
+    "n4": "the dislikes",
+    "n5": "dislike's",
+    "n6": "dislikes'",
+    "n7": "a dislike",
+    "n8": "many dislikes"
 }

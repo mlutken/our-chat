@@ -1,0 +1,18 @@
+{
+    "base": "fanfare",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fanfare",
+    "n2": "fanfares",
+    "n3": "the fanfare",
+    "n4": "the fanfares",
+    "n5": "fanfare's",
+    "n6": "fanfares'",
+    "n7": "a fanfare",
+    "n8": "many fanfares"
+}

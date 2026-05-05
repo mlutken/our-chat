@@ -1,0 +1,18 @@
+{
+    "base": "calcification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "calcification",
+    "n2": "calcifications",
+    "n3": "the calcification",
+    "n4": "the calcifications",
+    "n5": "calcification's",
+    "n6": "calcifications'",
+    "n7": "a calcification",
+    "n8": "many calcifications"
+}

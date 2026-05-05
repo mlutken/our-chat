@@ -7,5 +7,12 @@
     "n2": "opuses",
     "n3": "the opus",
     "n4": "the opuses",
-    "n5": "opus's"
+    "n5": "opus'",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "opuses'",
+    "n7": "an opus",
+    "n8": "many opuses"
 }

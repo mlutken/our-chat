@@ -1,0 +1,18 @@
+{
+    "base": "psychopath",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "psychopath",
+    "n2": "psychopaths",
+    "n3": "the psychopath",
+    "n4": "the psychopaths",
+    "n5": "psychopath's",
+    "n6": "psychopaths'",
+    "n7": "a psychopath",
+    "n8": "many psychopaths"
+}

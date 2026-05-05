@@ -1,0 +1,18 @@
+{
+    "base": "physician",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "physician",
+    "n2": "physicians",
+    "n3": "the physician",
+    "n4": "the physicians",
+    "n5": "physician's",
+    "n6": "physicians'",
+    "n7": "a physician",
+    "n8": "many physicians"
+}

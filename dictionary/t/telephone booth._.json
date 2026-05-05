@@ -1,0 +1,18 @@
+{
+    "base": "telephone booth",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "telephone booth",
+    "n2": "telephone booths",
+    "n3": "the telephone booth",
+    "n4": "the telephone booths",
+    "n5": "telephone booth's",
+    "n6": "telephone booths'",
+    "n7": "a telephone booth",
+    "n8": "many telephone booths"
+}

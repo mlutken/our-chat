@@ -1,0 +1,18 @@
+{
+    "base": "profit and loss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "profit and loss",
+    "n2": "profit and losses",
+    "n3": "the profit and loss",
+    "n4": "the profit and losses",
+    "n5": "profit and loss'",
+    "n6": "profit and losses'",
+    "n7": "a profit and loss",
+    "n8": "many profit and losses"
+}

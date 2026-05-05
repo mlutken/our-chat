@@ -1,0 +1,18 @@
+{
+    "base": "reactionary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "reactionary",
+    "n2": "reactionaries",
+    "n3": "the reactionary",
+    "n4": "the reactionaries",
+    "n5": "reactionary's",
+    "n6": "reactionaries'",
+    "n7": "a reactionary",
+    "n8": "many reactionaries"
+}

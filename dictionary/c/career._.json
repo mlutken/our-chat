@@ -7,5 +7,12 @@
     "n2": "careers",
     "n3": "the career",
     "n4": "the careers",
-    "n5": "career's"
+    "n5": "career's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "careers'",
+    "n7": "a career",
+    "n8": "many careers"
 }

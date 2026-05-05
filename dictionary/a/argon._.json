@@ -1,0 +1,18 @@
+{
+    "base": "argon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "argon",
+    "n2": "argons",
+    "n3": "the argon",
+    "n4": "the argons",
+    "n5": "argon's",
+    "n6": "argons'",
+    "n7": "an argon",
+    "n8": "many argons"
+}

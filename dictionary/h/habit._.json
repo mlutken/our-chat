@@ -1,0 +1,18 @@
+{
+    "base": "habit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "habit",
+    "n2": "habits",
+    "n3": "the habit",
+    "n4": "the habits",
+    "n5": "habit's",
+    "n6": "habits'",
+    "n7": "a habit",
+    "n8": "many habits"
+}

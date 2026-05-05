@@ -7,5 +7,12 @@
     "n2": "wealths",
     "n3": "the wealth",
     "n4": "the wealths",
-    "n5": "wealth's"
+    "n5": "wealth's",
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n6": "wealths'",
+    "n7": "a wealth",
+    "n8": "many wealths"
 }

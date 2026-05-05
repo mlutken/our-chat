@@ -1,0 +1,18 @@
+{
+    "base": "lb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "lb",
+    "n2": "lbs",
+    "n3": "the lb",
+    "n4": "the lbs",
+    "n5": "lb's",
+    "n6": "lbs'",
+    "n7": "a lb",
+    "n8": "many lbs"
+}

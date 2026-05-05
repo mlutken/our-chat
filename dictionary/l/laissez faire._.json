@@ -1,0 +1,18 @@
+{
+    "base": "laissez faire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "laissez faire",
+    "n2": "laissez faires",
+    "n3": "the laissez faire",
+    "n4": "the laissez faires",
+    "n5": "laissez faire's",
+    "n6": "laissez faires'",
+    "n7": "a laissez faire",
+    "n8": "many laissez faires"
+}

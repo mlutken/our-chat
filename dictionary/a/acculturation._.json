@@ -1,0 +1,18 @@
+{
+    "base": "acculturation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "acculturation",
+    "n2": "acculturations",
+    "n3": "the acculturation",
+    "n4": "the acculturations",
+    "n5": "acculturation's",
+    "n6": "acculturations'",
+    "n7": "an acculturation",
+    "n8": "many acculturations"
+}

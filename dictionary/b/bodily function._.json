@@ -1,0 +1,18 @@
+{
+    "base": "bodily function",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bodily function",
+    "n2": "bodily functions",
+    "n3": "the bodily function",
+    "n4": "the bodily functions",
+    "n5": "bodily function's",
+    "n6": "bodily functions'",
+    "n7": "a bodily function",
+    "n8": "many bodily functions"
+}

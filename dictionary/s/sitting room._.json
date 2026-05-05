@@ -1,0 +1,18 @@
+{
+    "base": "sitting room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sitting room",
+    "n2": "sitting rooms",
+    "n3": "the sitting room",
+    "n4": "the sitting rooms",
+    "n5": "sitting room's",
+    "n6": "sitting rooms'",
+    "n7": "a sitting room",
+    "n8": "many sitting rooms"
+}

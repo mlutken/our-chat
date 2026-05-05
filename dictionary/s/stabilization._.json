@@ -1,0 +1,18 @@
+{
+    "base": "stabilization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stabilization",
+    "n2": "stabilizations",
+    "n3": "the stabilization",
+    "n4": "the stabilizations",
+    "n5": "stabilization's",
+    "n6": "stabilizations'",
+    "n7": "a stabilization",
+    "n8": "many stabilizations"
+}

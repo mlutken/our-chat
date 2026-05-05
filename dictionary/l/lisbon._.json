@@ -1,0 +1,18 @@
+{
+    "base": "lisbon",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lisbon",
+    "n2": "lisbons",
+    "n3": "the lisbon",
+    "n4": "the lisbons",
+    "n5": "lisbon's",
+    "n6": "lisbons'",
+    "n7": "a lisbon",
+    "n8": "many lisbons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "empire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "empire",
+    "n2": "empires",
+    "n3": "the empire",
+    "n4": "the empires",
+    "n5": "empire's",
+    "n6": "empires'",
+    "n7": "an empire",
+    "n8": "many empires"
+}

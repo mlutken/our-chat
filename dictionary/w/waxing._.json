@@ -1,0 +1,18 @@
+{
+    "base": "waxing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waxing",
+    "n2": "waxings",
+    "n3": "the waxing",
+    "n4": "the waxings",
+    "n5": "waxing's",
+    "n6": "waxings'",
+    "n7": "a waxing",
+    "n8": "many waxings"
+}

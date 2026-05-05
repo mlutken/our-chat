@@ -1,0 +1,18 @@
+{
+    "base": "inkling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inkling",
+    "n2": "inklings",
+    "n3": "the inkling",
+    "n4": "the inklings",
+    "n5": "inkling's",
+    "n6": "inklings'",
+    "n7": "an inkling",
+    "n8": "many inklings"
+}

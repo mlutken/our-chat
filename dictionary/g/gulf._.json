@@ -1,0 +1,18 @@
+{
+    "base": "gulf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "gulf",
+    "n2": "gulves",
+    "n3": "the gulf",
+    "n4": "the gulves",
+    "n5": "gulf's",
+    "n6": "gulves'",
+    "n7": "a gulf",
+    "n8": "many gulves"
+}

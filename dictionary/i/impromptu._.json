@@ -1,0 +1,18 @@
+{
+    "base": "impromptu",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impromptu",
+    "n2": "impromptus",
+    "n3": "the impromptu",
+    "n4": "the impromptus",
+    "n5": "impromptu's",
+    "n6": "impromptus'",
+    "n7": "an impromptu",
+    "n8": "many impromptus"
+}

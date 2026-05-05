@@ -1,0 +1,18 @@
+{
+    "base": "first step",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "first step",
+    "n2": "first steps",
+    "n3": "the first step",
+    "n4": "the first steps",
+    "n5": "first step's",
+    "n6": "first steps'",
+    "n7": "a first step",
+    "n8": "many first steps"
+}

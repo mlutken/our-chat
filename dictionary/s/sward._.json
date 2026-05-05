@@ -1,0 +1,18 @@
+{
+    "base": "sward",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sward",
+    "n2": "swards",
+    "n3": "the sward",
+    "n4": "the swards",
+    "n5": "sward's",
+    "n6": "swards'",
+    "n7": "a sward",
+    "n8": "many swards"
+}

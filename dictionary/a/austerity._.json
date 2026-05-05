@@ -1,0 +1,18 @@
+{
+    "base": "austerity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "austerity",
+    "n2": "austerities",
+    "n3": "the austerity",
+    "n4": "the austerities",
+    "n5": "austerity's",
+    "n6": "austerities'",
+    "n7": "an austerity",
+    "n8": "many austerities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "running",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "running",
+    "n2": "runnings",
+    "n3": "the running",
+    "n4": "the runnings",
+    "n5": "running's",
+    "n6": "runnings'",
+    "n7": "a running",
+    "n8": "many runnings"
+}

@@ -7,5 +7,12 @@
     "n2": "administrations",
     "n3": "the administration",
     "n4": "the administrations",
-    "n5": "administration's"
+    "n5": "administration's",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n6": "administrations'",
+    "n7": "an administration",
+    "n8": "many administrations"
 }

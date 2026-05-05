@@ -1,0 +1,18 @@
+{
+    "base": "dejection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dejection",
+    "n2": "dejections",
+    "n3": "the dejection",
+    "n4": "the dejections",
+    "n5": "dejection's",
+    "n6": "dejections'",
+    "n7": "a dejection",
+    "n8": "many dejections"
+}

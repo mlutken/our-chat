@@ -1,0 +1,18 @@
+{
+    "base": "bioassay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bioassay",
+    "n2": "bioassays",
+    "n3": "the bioassay",
+    "n4": "the bioassays",
+    "n5": "bioassay's",
+    "n6": "bioassays'",
+    "n7": "a bioassay",
+    "n8": "many bioassays"
+}

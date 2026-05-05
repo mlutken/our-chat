@@ -7,5 +7,12 @@
     "n2": "statuses",
     "n3": "the status",
     "n4": "the statuses",
-    "n5": "status's"
+    "n5": "status'",
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n6": "statuses'",
+    "n7": "a status",
+    "n8": "many statuses"
 }

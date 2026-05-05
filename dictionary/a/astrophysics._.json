@@ -1,0 +1,18 @@
+{
+    "base": "astrophysics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "astrophysics",
+    "n2": "astrophysicses",
+    "n3": "the astrophysics",
+    "n4": "the astrophysicses",
+    "n5": "astrophysics'",
+    "n6": "astrophysicses'",
+    "n7": "an astrophysics",
+    "n8": "many astrophysicses"
+}

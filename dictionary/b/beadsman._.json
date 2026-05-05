@@ -1,0 +1,18 @@
+{
+    "base": "beadsman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "beadsman",
+    "n2": "beadsmen",
+    "n3": "the beadsman",
+    "n4": "the beadsmen",
+    "n5": "beadsman's",
+    "n6": "beadsmen's",
+    "n7": "a beadsman",
+    "n8": "many beadsmen"
+}

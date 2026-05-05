@@ -1,0 +1,18 @@
+{
+    "base": "incompatibility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "incompatibility",
+    "n2": "incompatibilities",
+    "n3": "the incompatibility",
+    "n4": "the incompatibilities",
+    "n5": "incompatibility's",
+    "n6": "incompatibilities'",
+    "n7": "an incompatibility",
+    "n8": "many incompatibilities"
+}

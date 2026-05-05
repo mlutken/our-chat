@@ -1,0 +1,18 @@
+{
+    "base": "breakwater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "breakwater",
+    "n2": "breakwaters",
+    "n3": "the breakwater",
+    "n4": "the breakwaters",
+    "n5": "breakwater's",
+    "n6": "breakwaters'",
+    "n7": "a breakwater",
+    "n8": "many breakwaters"
+}

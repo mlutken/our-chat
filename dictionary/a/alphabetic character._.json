@@ -1,0 +1,18 @@
+{
+    "base": "alphabetic character",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alphabetic character",
+    "n2": "alphabetic characters",
+    "n3": "the alphabetic character",
+    "n4": "the alphabetic characters",
+    "n5": "alphabetic character's",
+    "n6": "alphabetic characters'",
+    "n7": "an alphabetic character",
+    "n8": "many alphabetic characters"
+}

@@ -1,11 +1,24 @@
 {
     "base": "crawl",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "crawl",
     "v2": "crawled",
     "v3": "crawled",
     "v4": "crawling",
-    "v5": "crawls"
+    "v5": "crawls",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crawl",
+    "n2": "crawls",
+    "n3": "the crawl",
+    "n4": "the crawls",
+    "n5": "crawl's",
+    "n6": "crawls'",
+    "n7": "a crawl",
+    "n8": "many crawls"
 }

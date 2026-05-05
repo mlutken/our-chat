@@ -1,0 +1,18 @@
+{
+    "base": "shipment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "shipment",
+    "n2": "shipments",
+    "n3": "the shipment",
+    "n4": "the shipments",
+    "n5": "shipment's",
+    "n6": "shipments'",
+    "n7": "a shipment",
+    "n8": "many shipments"
+}

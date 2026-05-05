@@ -1,0 +1,18 @@
+{
+    "base": "abreaction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abreaction",
+    "n2": "abreactions",
+    "n3": "the abreaction",
+    "n4": "the abreactions",
+    "n5": "abreaction's",
+    "n6": "abreactions'",
+    "n7": "an abreaction",
+    "n8": "many abreactions"
+}

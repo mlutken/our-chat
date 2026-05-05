@@ -1,0 +1,18 @@
+{
+    "base": "specialization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "specialization",
+    "n2": "specializations",
+    "n3": "the specialization",
+    "n4": "the specializations",
+    "n5": "specialization's",
+    "n6": "specializations'",
+    "n7": "a specialization",
+    "n8": "many specializations"
+}

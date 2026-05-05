@@ -1,0 +1,18 @@
+{
+    "base": "passerby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "passerby",
+    "n2": "passerbies",
+    "n3": "the passerby",
+    "n4": "the passerbies",
+    "n5": "passerby's",
+    "n6": "passerbies'",
+    "n7": "a passerby",
+    "n8": "many passerbies"
+}

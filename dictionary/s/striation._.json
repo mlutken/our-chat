@@ -1,0 +1,18 @@
+{
+    "base": "striation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "striation",
+    "n2": "striations",
+    "n3": "the striation",
+    "n4": "the striations",
+    "n5": "striation's",
+    "n6": "striations'",
+    "n7": "a striation",
+    "n8": "many striations"
+}

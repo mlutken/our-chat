@@ -7,5 +7,12 @@
     "n2": "perspectives",
     "n3": "the perspective",
     "n4": "the perspectives",
-    "n5": "perspective's"
+    "n5": "perspective's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "perspectives'",
+    "n7": "a perspective",
+    "n8": "many perspectives"
 }

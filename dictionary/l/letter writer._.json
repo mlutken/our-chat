@@ -1,0 +1,18 @@
+{
+    "base": "letter writer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "letter writer",
+    "n2": "letter writers",
+    "n3": "the letter writer",
+    "n4": "the letter writers",
+    "n5": "letter writer's",
+    "n6": "letter writers'",
+    "n7": "a letter writer",
+    "n8": "many letter writers"
+}

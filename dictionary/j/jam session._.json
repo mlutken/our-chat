@@ -1,0 +1,18 @@
+{
+    "base": "jam session",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jam session",
+    "n2": "jam sessions",
+    "n3": "the jam session",
+    "n4": "the jam sessions",
+    "n5": "jam session's",
+    "n6": "jam sessions'",
+    "n7": "a jam session",
+    "n8": "many jam sessions"
+}

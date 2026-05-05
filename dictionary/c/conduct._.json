@@ -7,5 +7,12 @@
     "n2": "conducts",
     "n3": "the conduct",
     "n4": "the conducts",
-    "n5": "conduct's"
+    "n5": "conduct's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "conducts'",
+    "n7": "a conduct",
+    "n8": "many conducts"
 }

@@ -1,11 +1,24 @@
 {
     "base": "transport",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "transport",
     "v2": "transported",
     "v3": "transported",
     "v4": "transporting",
-    "v5": "transports"
+    "v5": "transports",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "transport",
+    "n2": "transports",
+    "n3": "the transport",
+    "n4": "the transports",
+    "n5": "transport's",
+    "n6": "transports'",
+    "n7": "a transport",
+    "n8": "many transports"
 }

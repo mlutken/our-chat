@@ -1,0 +1,18 @@
+{
+    "base": "negro",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "negro",
+    "n2": "negroes",
+    "n3": "the negro",
+    "n4": "the negroes",
+    "n5": "negro's",
+    "n6": "negroes'",
+    "n7": "a negro",
+    "n8": "many negroes"
+}

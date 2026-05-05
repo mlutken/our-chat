@@ -1,0 +1,18 @@
+{
+    "base": "ax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ax",
+    "n2": "axes",
+    "n3": "the ax",
+    "n4": "the axes",
+    "n5": "ax's",
+    "n6": "axes'",
+    "n7": "an ax",
+    "n8": "many axes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "quackery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "quackery",
+    "n2": "quackeries",
+    "n3": "the quackery",
+    "n4": "the quackeries",
+    "n5": "quackery's",
+    "n6": "quackeries'",
+    "n7": "a quackery",
+    "n8": "many quackeries"
+}

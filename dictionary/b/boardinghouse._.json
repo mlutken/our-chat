@@ -1,0 +1,18 @@
+{
+    "base": "boardinghouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boardinghouse",
+    "n2": "boardinghouses",
+    "n3": "the boardinghouse",
+    "n4": "the boardinghouses",
+    "n5": "boardinghouse's",
+    "n6": "boardinghouses'",
+    "n7": "a boardinghouse",
+    "n8": "many boardinghouses"
+}

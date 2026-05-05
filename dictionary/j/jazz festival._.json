@@ -1,0 +1,18 @@
+{
+    "base": "jazz festival",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jazz festival",
+    "n2": "jazz festivals",
+    "n3": "the jazz festival",
+    "n4": "the jazz festivals",
+    "n5": "jazz festival's",
+    "n6": "jazz festivals'",
+    "n7": "a jazz festival",
+    "n8": "many jazz festivals"
+}

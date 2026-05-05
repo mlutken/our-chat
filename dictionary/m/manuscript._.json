@@ -1,0 +1,18 @@
+{
+    "base": "manuscript",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "manuscript",
+    "n2": "manuscripts",
+    "n3": "the manuscript",
+    "n4": "the manuscripts",
+    "n5": "manuscript's",
+    "n6": "manuscripts'",
+    "n7": "a manuscript",
+    "n8": "many manuscripts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "carabao",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carabao",
+    "n2": "carabaos",
+    "n3": "the carabao",
+    "n4": "the carabaos",
+    "n5": "carabao's",
+    "n6": "carabaos'",
+    "n7": "a carabao",
+    "n8": "many carabaos"
+}

@@ -7,5 +7,12 @@
     "n2": "dramas",
     "n3": "the drama",
     "n4": "the dramas",
-    "n5": "drama's"
+    "n5": "drama's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "dramas'",
+    "n7": "a drama",
+    "n8": "many dramas"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "daddy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "daddy",
+    "n2": "daddies",
+    "n3": "the daddy",
+    "n4": "the daddies",
+    "n5": "daddy's",
+    "n6": "daddies'",
+    "n7": "a daddy",
+    "n8": "many daddies"
+}

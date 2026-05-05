@@ -1,0 +1,18 @@
+{
+    "base": "red region",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "red region",
+    "n2": "red regions",
+    "n3": "the red region",
+    "n4": "the red regions",
+    "n5": "red region's",
+    "n6": "red regions'",
+    "n7": "a red region",
+    "n8": "many red regions"
+}

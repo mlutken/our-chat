@@ -1,0 +1,18 @@
+{
+    "base": "zionism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "zionism",
+    "n2": "zionisms",
+    "n3": "the zionism",
+    "n4": "the zionisms",
+    "n5": "zionism's",
+    "n6": "zionisms'",
+    "n7": "a zionism",
+    "n8": "many zionisms"
+}

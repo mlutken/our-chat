@@ -1,0 +1,18 @@
+{
+    "base": "labour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "labour",
+    "n2": "labours",
+    "n3": "the labour",
+    "n4": "the labours",
+    "n5": "labour's",
+    "n6": "labours'",
+    "n7": "a labour",
+    "n8": "many labours"
+}

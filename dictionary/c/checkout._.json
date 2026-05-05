@@ -1,0 +1,18 @@
+{
+    "base": "checkout",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "checkout",
+    "n2": "checkouts",
+    "n3": "the checkout",
+    "n4": "the checkouts",
+    "n5": "checkout's",
+    "n6": "checkouts'",
+    "n7": "a checkout",
+    "n8": "many checkouts"
+}

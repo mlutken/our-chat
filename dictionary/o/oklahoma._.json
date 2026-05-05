@@ -1,0 +1,18 @@
+{
+    "base": "oklahoma",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "oklahoma",
+    "n2": "oklahomas",
+    "n3": "the oklahoma",
+    "n4": "the oklahomas",
+    "n5": "oklahoma's",
+    "n6": "oklahomas'",
+    "n7": "an oklahoma",
+    "n8": "many oklahomas"
+}

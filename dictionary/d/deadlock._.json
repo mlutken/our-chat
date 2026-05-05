@@ -1,0 +1,18 @@
+{
+    "base": "deadlock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "deadlock",
+    "n2": "deadlocks",
+    "n3": "the deadlock",
+    "n4": "the deadlocks",
+    "n5": "deadlock's",
+    "n6": "deadlocks'",
+    "n7": "a deadlock",
+    "n8": "many deadlocks"
+}

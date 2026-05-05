@@ -13,5 +13,12 @@
     "v2": "filmed",
     "v3": "filmed",
     "v4": "filming",
-    "v5": "films"
+    "v5": "films",
+    "proper": false,
+    "commonness": 64,
+    "max_commonness": 6834,
+    "commonness_ge_count": 239,
+    "n6": "films'",
+    "n7": "a film",
+    "n8": "many films"
 }

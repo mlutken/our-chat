@@ -1,0 +1,18 @@
+{
+    "base": "stalin",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stalin",
+    "n2": "stalins",
+    "n3": "the stalin",
+    "n4": "the stalins",
+    "n5": "stalin's",
+    "n6": "stalins'",
+    "n7": "a stalin",
+    "n8": "many stalins"
+}

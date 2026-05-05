@@ -1,0 +1,18 @@
+{
+    "base": "senior high school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "senior high school",
+    "n2": "senior high schools",
+    "n3": "the senior high school",
+    "n4": "the senior high schools",
+    "n5": "senior high school's",
+    "n6": "senior high schools'",
+    "n7": "a senior high school",
+    "n8": "many senior high schools"
+}

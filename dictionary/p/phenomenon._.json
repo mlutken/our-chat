@@ -7,5 +7,12 @@
     "n2": "phenomena",
     "n3": "the phenomenon",
     "n4": "the phenomena",
-    "n5": "phenomenon's"
+    "n5": "phenomenon's",
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n6": "phenomena's",
+    "n7": "a phenomenon",
+    "n8": "many phenomena"
 }

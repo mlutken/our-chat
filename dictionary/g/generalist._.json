@@ -1,0 +1,18 @@
+{
+    "base": "generalist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "generalist",
+    "n2": "generalists",
+    "n3": "the generalist",
+    "n4": "the generalists",
+    "n5": "generalist's",
+    "n6": "generalists'",
+    "n7": "a generalist",
+    "n8": "many generalists"
+}

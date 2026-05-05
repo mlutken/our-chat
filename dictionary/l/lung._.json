@@ -1,0 +1,18 @@
+{
+    "base": "lung",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 30,
+    "max_commonness": 6834,
+    "commonness_ge_count": 631,
+    "n1": "lung",
+    "n2": "lungs",
+    "n3": "the lung",
+    "n4": "the lungs",
+    "n5": "lung's",
+    "n6": "lungs'",
+    "n7": "a lung",
+    "n8": "many lungs"
+}

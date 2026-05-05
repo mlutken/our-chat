@@ -1,0 +1,18 @@
+{
+    "base": "raw umber",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "raw umber",
+    "n2": "raw umbers",
+    "n3": "the raw umber",
+    "n4": "the raw umbers",
+    "n5": "raw umber's",
+    "n6": "raw umbers'",
+    "n7": "a raw umber",
+    "n8": "many raw umbers"
+}

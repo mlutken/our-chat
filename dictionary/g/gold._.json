@@ -1,0 +1,18 @@
+{
+    "base": "gold",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "gold",
+    "n2": "golds",
+    "n3": "the gold",
+    "n4": "the golds",
+    "n5": "gold's",
+    "n6": "golds'",
+    "n7": "a gold",
+    "n8": "many golds"
+}

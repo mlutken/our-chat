@@ -7,5 +7,12 @@
     "n2": "capitals",
     "n3": "the capital",
     "n4": "the capitals",
-    "n5": "capital's"
+    "n5": "capital's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "capitals'",
+    "n7": "a capital",
+    "n8": "many capitals"
 }

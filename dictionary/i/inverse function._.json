@@ -1,0 +1,18 @@
+{
+    "base": "inverse function",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inverse function",
+    "n2": "inverse functions",
+    "n3": "the inverse function",
+    "n4": "the inverse functions",
+    "n5": "inverse function's",
+    "n6": "inverse functions'",
+    "n7": "an inverse function",
+    "n8": "many inverse functions"
+}

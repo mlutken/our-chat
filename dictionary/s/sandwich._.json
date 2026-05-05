@@ -1,0 +1,18 @@
+{
+    "base": "sandwich",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "sandwich",
+    "n2": "sandwiches",
+    "n3": "the sandwich",
+    "n4": "the sandwiches",
+    "n5": "sandwich's",
+    "n6": "sandwiches'",
+    "n7": "a sandwich",
+    "n8": "many sandwiches"
+}

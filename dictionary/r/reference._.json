@@ -7,5 +7,12 @@
     "n2": "references",
     "n3": "the reference",
     "n4": "the references",
-    "n5": "reference's"
+    "n5": "reference's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "references'",
+    "n7": "a reference",
+    "n8": "many references"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "intimacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intimacy",
+    "n2": "intimacies",
+    "n3": "the intimacy",
+    "n4": "the intimacies",
+    "n5": "intimacy's",
+    "n6": "intimacies'",
+    "n7": "an intimacy",
+    "n8": "many intimacies"
+}

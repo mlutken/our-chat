@@ -1,0 +1,18 @@
+{
+    "base": "school term",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "school term",
+    "n2": "school terms",
+    "n3": "the school term",
+    "n4": "the school terms",
+    "n5": "school term's",
+    "n6": "school terms'",
+    "n7": "a school term",
+    "n8": "many school terms"
+}

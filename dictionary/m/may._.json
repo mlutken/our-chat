@@ -1,7 +1,20 @@
 {
     "base": "may",
     "classes": [
+        "n",
         "aux"
     ],
-    "f0": "may"
+    "f0": "may",
+    "proper": false,
+    "commonness": 29,
+    "max_commonness": 6834,
+    "commonness_ge_count": 653,
+    "n1": "may",
+    "n2": "mays",
+    "n3": "the may",
+    "n4": "the mays",
+    "n5": "may's",
+    "n6": "mays'",
+    "n7": "a may",
+    "n8": "many mays"
 }

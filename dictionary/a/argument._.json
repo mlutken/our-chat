@@ -7,5 +7,12 @@
     "n2": "arguments",
     "n3": "the argument",
     "n4": "the arguments",
-    "n5": "argument's"
+    "n5": "argument's",
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n6": "arguments'",
+    "n7": "an argument",
+    "n8": "many arguments"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "baffin island",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "baffin island",
+    "n2": "baffin islands",
+    "n3": "the baffin island",
+    "n4": "the baffin islands",
+    "n5": "baffin island's",
+    "n6": "baffin islands'",
+    "n7": "a baffin island",
+    "n8": "many baffin islands"
+}

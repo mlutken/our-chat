@@ -1,0 +1,18 @@
+{
+    "base": "piezoelectric effect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piezoelectric effect",
+    "n2": "piezoelectric effects",
+    "n3": "the piezoelectric effect",
+    "n4": "the piezoelectric effects",
+    "n5": "piezoelectric effect's",
+    "n6": "piezoelectric effects'",
+    "n7": "a piezoelectric effect",
+    "n8": "many piezoelectric effects"
+}

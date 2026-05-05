@@ -1,0 +1,18 @@
+{
+    "base": "artillery fire",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artillery fire",
+    "n2": "artillery fires",
+    "n3": "the artillery fire",
+    "n4": "the artillery fires",
+    "n5": "artillery fire's",
+    "n6": "artillery fires'",
+    "n7": "an artillery fire",
+    "n8": "many artillery fires"
+}

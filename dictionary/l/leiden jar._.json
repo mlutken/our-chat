@@ -1,0 +1,18 @@
+{
+    "base": "leiden jar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leiden jar",
+    "n2": "leiden jars",
+    "n3": "the leiden jar",
+    "n4": "the leiden jars",
+    "n5": "leiden jar's",
+    "n6": "leiden jars'",
+    "n7": "a leiden jar",
+    "n8": "many leiden jars"
+}

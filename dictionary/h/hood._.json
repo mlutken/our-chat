@@ -1,0 +1,18 @@
+{
+    "base": "hood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hood",
+    "n2": "hoods",
+    "n3": "the hood",
+    "n4": "the hoods",
+    "n5": "hood's",
+    "n6": "hoods'",
+    "n7": "a hood",
+    "n8": "many hoods"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "heartbeat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "heartbeat",
+    "n2": "heartbeats",
+    "n3": "the heartbeat",
+    "n4": "the heartbeats",
+    "n5": "heartbeat's",
+    "n6": "heartbeats'",
+    "n7": "a heartbeat",
+    "n8": "many heartbeats"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "batting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "batting",
+    "n2": "battings",
+    "n3": "the batting",
+    "n4": "the battings",
+    "n5": "batting's",
+    "n6": "battings'",
+    "n7": "a batting",
+    "n8": "many battings"
+}

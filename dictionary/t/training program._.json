@@ -1,0 +1,18 @@
+{
+    "base": "training program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "training program",
+    "n2": "training programs",
+    "n3": "the training program",
+    "n4": "the training programs",
+    "n5": "training program's",
+    "n6": "training programs'",
+    "n7": "a training program",
+    "n8": "many training programs"
+}

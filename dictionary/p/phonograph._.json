@@ -1,0 +1,18 @@
+{
+    "base": "phonograph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phonograph",
+    "n2": "phonographs",
+    "n3": "the phonograph",
+    "n4": "the phonographs",
+    "n5": "phonograph's",
+    "n6": "phonographs'",
+    "n7": "a phonograph",
+    "n8": "many phonographs"
+}

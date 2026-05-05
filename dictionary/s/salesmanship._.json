@@ -1,0 +1,18 @@
+{
+    "base": "salesmanship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "salesmanship",
+    "n2": "salesmanships",
+    "n3": "the salesmanship",
+    "n4": "the salesmanships",
+    "n5": "salesmanship's",
+    "n6": "salesmanships'",
+    "n7": "a salesmanship",
+    "n8": "many salesmanships"
+}

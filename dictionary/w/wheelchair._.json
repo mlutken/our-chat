@@ -1,0 +1,18 @@
+{
+    "base": "wheelchair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wheelchair",
+    "n2": "wheelchairs",
+    "n3": "the wheelchair",
+    "n4": "the wheelchairs",
+    "n5": "wheelchair's",
+    "n6": "wheelchairs'",
+    "n7": "a wheelchair",
+    "n8": "many wheelchairs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "countenance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "countenance",
+    "n2": "countenances",
+    "n3": "the countenance",
+    "n4": "the countenances",
+    "n5": "countenance's",
+    "n6": "countenances'",
+    "n7": "a countenance",
+    "n8": "many countenances"
+}

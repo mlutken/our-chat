@@ -1,0 +1,18 @@
+{
+    "base": "experiment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 78,
+    "max_commonness": 6834,
+    "commonness_ge_count": 174,
+    "n1": "experiment",
+    "n2": "experiments",
+    "n3": "the experiment",
+    "n4": "the experiments",
+    "n5": "experiment's",
+    "n6": "experiments'",
+    "n7": "an experiment",
+    "n8": "many experiments"
+}

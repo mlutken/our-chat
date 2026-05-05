@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "currency",
-    "n2": "currencys",
+    "n2": "currencies",
     "n3": "the currency",
-    "n4": "the currencys",
-    "n5": "currency's"
+    "n4": "the currencies",
+    "n5": "currency's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "currencies'",
+    "n7": "a currency",
+    "n8": "many currencies"
 }

@@ -1,11 +1,24 @@
 {
     "base": "release",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "release",
     "v2": "released",
     "v3": "released",
     "v4": "releasing",
-    "v5": "releases"
+    "v5": "releases",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n1": "release",
+    "n2": "releases",
+    "n3": "the release",
+    "n4": "the releases",
+    "n5": "release's",
+    "n6": "releases'",
+    "n7": "a release",
+    "n8": "many releases"
 }

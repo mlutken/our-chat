@@ -1,0 +1,18 @@
+{
+    "base": "closing off",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "closing off",
+    "n2": "closing ofves",
+    "n3": "the closing off",
+    "n4": "the closing ofves",
+    "n5": "closing off's",
+    "n6": "closing ofves'",
+    "n7": "a closing off",
+    "n8": "many closing ofves"
+}

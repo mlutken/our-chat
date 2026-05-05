@@ -1,0 +1,18 @@
+{
+    "base": "deterrent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deterrent",
+    "n2": "deterrents",
+    "n3": "the deterrent",
+    "n4": "the deterrents",
+    "n5": "deterrent's",
+    "n6": "deterrents'",
+    "n7": "a deterrent",
+    "n8": "many deterrents"
+}

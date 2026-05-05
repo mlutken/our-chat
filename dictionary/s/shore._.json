@@ -1,0 +1,18 @@
+{
+    "base": "shore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "shore",
+    "n2": "shores",
+    "n3": "the shore",
+    "n4": "the shores",
+    "n5": "shore's",
+    "n6": "shores'",
+    "n7": "a shore",
+    "n8": "many shores"
+}

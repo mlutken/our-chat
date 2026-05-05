@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "economy",
-    "n2": "economys",
+    "n2": "economies",
     "n3": "the economy",
-    "n4": "the economys",
-    "n5": "economy's"
+    "n4": "the economies",
+    "n5": "economy's",
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n6": "economies'",
+    "n7": "an economy",
+    "n8": "many economies"
 }

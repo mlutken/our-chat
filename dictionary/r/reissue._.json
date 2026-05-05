@@ -1,0 +1,18 @@
+{
+    "base": "reissue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reissue",
+    "n2": "reissues",
+    "n3": "the reissue",
+    "n4": "the reissues",
+    "n5": "reissue's",
+    "n6": "reissues'",
+    "n7": "a reissue",
+    "n8": "many reissues"
+}

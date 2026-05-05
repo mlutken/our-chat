@@ -1,0 +1,18 @@
+{
+    "base": "losing streak",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "losing streak",
+    "n2": "losing streaks",
+    "n3": "the losing streak",
+    "n4": "the losing streaks",
+    "n5": "losing streak's",
+    "n6": "losing streaks'",
+    "n7": "a losing streak",
+    "n8": "many losing streaks"
+}

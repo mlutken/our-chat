@@ -1,0 +1,18 @@
+{
+    "base": "hamper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hamper",
+    "n2": "hampers",
+    "n3": "the hamper",
+    "n4": "the hampers",
+    "n5": "hamper's",
+    "n6": "hampers'",
+    "n7": "a hamper",
+    "n8": "many hampers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sentimentality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sentimentality",
+    "n2": "sentimentalities",
+    "n3": "the sentimentality",
+    "n4": "the sentimentalities",
+    "n5": "sentimentality's",
+    "n6": "sentimentalities'",
+    "n7": "a sentimentality",
+    "n8": "many sentimentalities"
+}

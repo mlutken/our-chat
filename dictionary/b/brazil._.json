@@ -1,0 +1,18 @@
+{
+    "base": "brazil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brazil",
+    "n2": "brazils",
+    "n3": "the brazil",
+    "n4": "the brazils",
+    "n5": "brazil's",
+    "n6": "brazils'",
+    "n7": "a brazil",
+    "n8": "many brazils"
+}

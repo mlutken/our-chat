@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "virus",
-    "n2": "virus",
+    "n2": "viruses",
     "n3": "the virus",
-    "n4": "the virus",
-    "n5": "virus's"
+    "n4": "the viruses",
+    "n5": "virus'",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "viruses'",
+    "n7": "a virus",
+    "n8": "many viruses"
 }

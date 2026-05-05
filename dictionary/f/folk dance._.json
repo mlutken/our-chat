@@ -1,0 +1,18 @@
+{
+    "base": "folk dance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "folk dance",
+    "n2": "folk dances",
+    "n3": "the folk dance",
+    "n4": "the folk dances",
+    "n5": "folk dance's",
+    "n6": "folk dances'",
+    "n7": "a folk dance",
+    "n8": "many folk dances"
+}

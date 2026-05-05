@@ -1,0 +1,18 @@
+{
+    "base": "calibre",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "calibre",
+    "n2": "calibres",
+    "n3": "the calibre",
+    "n4": "the calibres",
+    "n5": "calibre's",
+    "n6": "calibres'",
+    "n7": "a calibre",
+    "n8": "many calibres"
+}

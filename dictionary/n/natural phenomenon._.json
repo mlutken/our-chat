@@ -1,0 +1,18 @@
+{
+    "base": "natural phenomenon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "natural phenomenon",
+    "n2": "natural phenomenons",
+    "n3": "the natural phenomenon",
+    "n4": "the natural phenomenons",
+    "n5": "natural phenomenon's",
+    "n6": "natural phenomenons'",
+    "n7": "a natural phenomenon",
+    "n8": "many natural phenomenons"
+}

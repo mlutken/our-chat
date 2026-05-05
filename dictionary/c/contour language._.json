@@ -1,0 +1,18 @@
+{
+    "base": "contour language",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "contour language",
+    "n2": "contour languages",
+    "n3": "the contour language",
+    "n4": "the contour languages",
+    "n5": "contour language's",
+    "n6": "contour languages'",
+    "n7": "a contour language",
+    "n8": "many contour languages"
+}

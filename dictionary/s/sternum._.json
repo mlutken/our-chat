@@ -1,0 +1,18 @@
+{
+    "base": "sternum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sternum",
+    "n2": "sterna",
+    "n3": "the sternum",
+    "n4": "the sterna",
+    "n5": "sternum's",
+    "n6": "sterna's",
+    "n7": "a sternum",
+    "n8": "many sterna"
+}

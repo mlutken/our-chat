@@ -1,0 +1,18 @@
+{
+    "base": "head of hair",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "head of hair",
+    "n2": "head of hairs",
+    "n3": "the head of hair",
+    "n4": "the head of hairs",
+    "n5": "head of hair's",
+    "n6": "head of hairs'",
+    "n7": "a head of hair",
+    "n8": "many head of hairs"
+}

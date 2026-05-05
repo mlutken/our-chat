@@ -1,11 +1,24 @@
 {
     "base": "comb",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "comb",
     "v2": "combed",
     "v3": "combed",
     "v4": "combing",
-    "v5": "combs"
+    "v5": "combs",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "comb",
+    "n2": "combs",
+    "n3": "the comb",
+    "n4": "the combs",
+    "n5": "comb's",
+    "n6": "combs'",
+    "n7": "a comb",
+    "n8": "many combs"
 }

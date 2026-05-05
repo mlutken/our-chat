@@ -1,0 +1,18 @@
+{
+    "base": "overshoe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "overshoe",
+    "n2": "overshoes",
+    "n3": "the overshoe",
+    "n4": "the overshoes",
+    "n5": "overshoe's",
+    "n6": "overshoes'",
+    "n7": "an overshoe",
+    "n8": "many overshoes"
+}

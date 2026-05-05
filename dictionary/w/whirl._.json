@@ -1,11 +1,24 @@
 {
     "base": "whirl",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "whirl",
     "v2": "whirled",
     "v3": "whirled",
     "v4": "whirling",
-    "v5": "whirls"
+    "v5": "whirls",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whirl",
+    "n2": "whirls",
+    "n3": "the whirl",
+    "n4": "the whirls",
+    "n5": "whirl's",
+    "n6": "whirls'",
+    "n7": "a whirl",
+    "n8": "many whirls"
 }

@@ -1,8 +1,21 @@
 {
     "base": "much",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "much",
-    "adv_subtype": "degree"
+    "adv_subtype": "degree",
+    "proper": false,
+    "commonness": 54,
+    "max_commonness": 6834,
+    "commonness_ge_count": 294,
+    "n1": "much",
+    "n2": "muches",
+    "n3": "the much",
+    "n4": "the muches",
+    "n5": "much's",
+    "n6": "muches'",
+    "n7": "a much",
+    "n8": "many muches"
 }

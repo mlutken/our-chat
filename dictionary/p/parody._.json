@@ -1,0 +1,18 @@
+{
+    "base": "parody",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parody",
+    "n2": "parodies",
+    "n3": "the parody",
+    "n4": "the parodies",
+    "n5": "parody's",
+    "n6": "parodies'",
+    "n7": "a parody",
+    "n8": "many parodies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "insubordination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "insubordination",
+    "n2": "insubordinations",
+    "n3": "the insubordination",
+    "n4": "the insubordinations",
+    "n5": "insubordination's",
+    "n6": "insubordinations'",
+    "n7": "an insubordination",
+    "n8": "many insubordinations"
+}

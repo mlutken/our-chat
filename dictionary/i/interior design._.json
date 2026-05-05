@@ -1,0 +1,18 @@
+{
+    "base": "interior design",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "interior design",
+    "n2": "interior designs",
+    "n3": "the interior design",
+    "n4": "the interior designs",
+    "n5": "interior design's",
+    "n6": "interior designs'",
+    "n7": "an interior design",
+    "n8": "many interior designs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "machine gun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "machine gun",
+    "n2": "machine guns",
+    "n3": "the machine gun",
+    "n4": "the machine guns",
+    "n5": "machine gun's",
+    "n6": "machine guns'",
+    "n7": "a machine gun",
+    "n8": "many machine guns"
+}

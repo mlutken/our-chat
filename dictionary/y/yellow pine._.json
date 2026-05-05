@@ -1,0 +1,18 @@
+{
+    "base": "yellow pine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "yellow pine",
+    "n2": "yellow pines",
+    "n3": "the yellow pine",
+    "n4": "the yellow pines",
+    "n5": "yellow pine's",
+    "n6": "yellow pines'",
+    "n7": "a yellow pine",
+    "n8": "many yellow pines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "seedpod",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "seedpod",
+    "n2": "seedpods",
+    "n3": "the seedpod",
+    "n4": "the seedpods",
+    "n5": "seedpod's",
+    "n6": "seedpods'",
+    "n7": "a seedpod",
+    "n8": "many seedpods"
+}

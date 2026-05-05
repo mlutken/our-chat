@@ -1,0 +1,18 @@
+{
+    "base": "wake",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "wake",
+    "n2": "wakes",
+    "n3": "the wake",
+    "n4": "the wakes",
+    "n5": "wake's",
+    "n6": "wakes'",
+    "n7": "a wake",
+    "n8": "many wakes"
+}

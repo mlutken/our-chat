@@ -1,0 +1,18 @@
+{
+    "base": "virginity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "virginity",
+    "n2": "virginities",
+    "n3": "the virginity",
+    "n4": "the virginities",
+    "n5": "virginity's",
+    "n6": "virginities'",
+    "n7": "a virginity",
+    "n8": "many virginities"
+}

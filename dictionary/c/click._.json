@@ -1,11 +1,24 @@
 {
     "base": "click",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "click",
     "v2": "clicked",
     "v3": "clicked",
     "v4": "clicking",
-    "v5": "clicks"
+    "v5": "clicks",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "click",
+    "n2": "clicks",
+    "n3": "the click",
+    "n4": "the clicks",
+    "n5": "click's",
+    "n6": "clicks'",
+    "n7": "a click",
+    "n8": "many clicks"
 }

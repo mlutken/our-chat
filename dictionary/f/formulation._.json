@@ -1,0 +1,18 @@
+{
+    "base": "formulation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "formulation",
+    "n2": "formulations",
+    "n3": "the formulation",
+    "n4": "the formulations",
+    "n5": "formulation's",
+    "n6": "formulations'",
+    "n7": "a formulation",
+    "n8": "many formulations"
+}

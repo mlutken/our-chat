@@ -1,0 +1,18 @@
+{
+    "base": "anvil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "anvil",
+    "n2": "anvils",
+    "n3": "the anvil",
+    "n4": "the anvils",
+    "n5": "anvil's",
+    "n6": "anvils'",
+    "n7": "an anvil",
+    "n8": "many anvils"
+}

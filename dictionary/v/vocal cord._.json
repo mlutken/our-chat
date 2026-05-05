@@ -1,0 +1,18 @@
+{
+    "base": "vocal cord",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vocal cord",
+    "n2": "vocal cords",
+    "n3": "the vocal cord",
+    "n4": "the vocal cords",
+    "n5": "vocal cord's",
+    "n6": "vocal cords'",
+    "n7": "a vocal cord",
+    "n8": "many vocal cords"
+}

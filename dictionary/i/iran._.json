@@ -1,0 +1,18 @@
+{
+    "base": "iran",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "iran",
+    "n2": "irans",
+    "n3": "the iran",
+    "n4": "the irans",
+    "n5": "iran's",
+    "n6": "irans'",
+    "n7": "an iran",
+    "n8": "many irans"
+}

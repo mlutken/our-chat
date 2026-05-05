@@ -1,0 +1,18 @@
+{
+    "base": "chin-up",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chin-up",
+    "n2": "chin-ups",
+    "n3": "the chin-up",
+    "n4": "the chin-ups",
+    "n5": "chin-up's",
+    "n6": "chin-ups'",
+    "n7": "a chin-up",
+    "n8": "many chin-ups"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lotus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lotus",
+    "n2": "lotuses",
+    "n3": "the lotus",
+    "n4": "the lotuses",
+    "n5": "lotus'",
+    "n6": "lotuses'",
+    "n7": "a lotus",
+    "n8": "many lotuses"
+}

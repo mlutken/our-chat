@@ -1,0 +1,18 @@
+{
+    "base": "hitching post",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hitching post",
+    "n2": "hitching posts",
+    "n3": "the hitching post",
+    "n4": "the hitching posts",
+    "n5": "hitching post's",
+    "n6": "hitching posts'",
+    "n7": "a hitching post",
+    "n8": "many hitching posts"
+}

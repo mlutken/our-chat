@@ -1,0 +1,18 @@
+{
+    "base": "treadmill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "treadmill",
+    "n2": "treadmills",
+    "n3": "the treadmill",
+    "n4": "the treadmills",
+    "n5": "treadmill's",
+    "n6": "treadmills'",
+    "n7": "a treadmill",
+    "n8": "many treadmills"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "credo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "credo",
+    "n2": "credos",
+    "n3": "the credo",
+    "n4": "the credos",
+    "n5": "credo's",
+    "n6": "credos'",
+    "n7": "a credo",
+    "n8": "many credos"
+}

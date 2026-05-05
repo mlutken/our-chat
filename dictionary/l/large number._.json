@@ -1,0 +1,18 @@
+{
+    "base": "large number",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "large number",
+    "n2": "large numbers",
+    "n3": "the large number",
+    "n4": "the large numbers",
+    "n5": "large number's",
+    "n6": "large numbers'",
+    "n7": "a large number",
+    "n8": "many large numbers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cannon fodder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cannon fodder",
+    "n2": "cannon fodders",
+    "n3": "the cannon fodder",
+    "n4": "the cannon fodders",
+    "n5": "cannon fodder's",
+    "n6": "cannon fodders'",
+    "n7": "a cannon fodder",
+    "n8": "many cannon fodders"
+}

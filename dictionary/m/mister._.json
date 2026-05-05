@@ -1,0 +1,18 @@
+{
+    "base": "mister",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mister",
+    "n2": "misters",
+    "n3": "the mister",
+    "n4": "the misters",
+    "n5": "mister's",
+    "n6": "misters'",
+    "n7": "a mister",
+    "n8": "many misters"
+}

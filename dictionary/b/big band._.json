@@ -1,0 +1,18 @@
+{
+    "base": "big band",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "big band",
+    "n2": "big bands",
+    "n3": "the big band",
+    "n4": "the big bands",
+    "n5": "big band's",
+    "n6": "big bands'",
+    "n7": "a big band",
+    "n8": "many big bands"
+}

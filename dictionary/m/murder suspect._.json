@@ -1,0 +1,18 @@
+{
+    "base": "murder suspect",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "murder suspect",
+    "n2": "murder suspects",
+    "n3": "the murder suspect",
+    "n4": "the murder suspects",
+    "n5": "murder suspect's",
+    "n6": "murder suspects'",
+    "n7": "a murder suspect",
+    "n8": "many murder suspects"
+}

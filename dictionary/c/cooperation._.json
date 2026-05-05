@@ -1,0 +1,18 @@
+{
+    "base": "cooperation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "cooperation",
+    "n2": "cooperations",
+    "n3": "the cooperation",
+    "n4": "the cooperations",
+    "n5": "cooperation's",
+    "n6": "cooperations'",
+    "n7": "a cooperation",
+    "n8": "many cooperations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sauce",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sauce",
+    "n2": "sauces",
+    "n3": "the sauce",
+    "n4": "the sauces",
+    "n5": "sauce's",
+    "n6": "sauces'",
+    "n7": "a sauce",
+    "n8": "many sauces"
+}

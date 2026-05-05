@@ -1,0 +1,18 @@
+{
+    "base": "undercurrent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "undercurrent",
+    "n2": "undercurrents",
+    "n3": "the undercurrent",
+    "n4": "the undercurrents",
+    "n5": "undercurrent's",
+    "n6": "undercurrents'",
+    "n7": "an undercurrent",
+    "n8": "many undercurrents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "breeding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "breeding",
+    "n2": "breedings",
+    "n3": "the breeding",
+    "n4": "the breedings",
+    "n5": "breeding's",
+    "n6": "breedings'",
+    "n7": "a breeding",
+    "n8": "many breedings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "coma",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coma",
+    "n2": "comae",
+    "n3": "the coma",
+    "n4": "the comae",
+    "n5": "coma's",
+    "n6": "comae's",
+    "n7": "a coma",
+    "n8": "many comae"
+}

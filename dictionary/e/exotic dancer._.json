@@ -1,0 +1,18 @@
+{
+    "base": "exotic dancer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exotic dancer",
+    "n2": "exotic dancers",
+    "n3": "the exotic dancer",
+    "n4": "the exotic dancers",
+    "n5": "exotic dancer's",
+    "n6": "exotic dancers'",
+    "n7": "an exotic dancer",
+    "n8": "many exotic dancers"
+}

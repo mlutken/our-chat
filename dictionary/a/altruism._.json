@@ -1,0 +1,18 @@
+{
+    "base": "altruism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "altruism",
+    "n2": "altruisms",
+    "n3": "the altruism",
+    "n4": "the altruisms",
+    "n5": "altruism's",
+    "n6": "altruisms'",
+    "n7": "an altruism",
+    "n8": "many altruisms"
+}

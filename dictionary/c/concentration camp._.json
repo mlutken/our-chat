@@ -1,0 +1,18 @@
+{
+    "base": "concentration camp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "concentration camp",
+    "n2": "concentration camps",
+    "n3": "the concentration camp",
+    "n4": "the concentration camps",
+    "n5": "concentration camp's",
+    "n6": "concentration camps'",
+    "n7": "a concentration camp",
+    "n8": "many concentration camps"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "courtier",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "courtier",
+    "n2": "courtiers",
+    "n3": "the courtier",
+    "n4": "the courtiers",
+    "n5": "courtier's",
+    "n6": "courtiers'",
+    "n7": "a courtier",
+    "n8": "many courtiers"
+}

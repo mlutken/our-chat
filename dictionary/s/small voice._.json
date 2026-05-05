@@ -1,0 +1,18 @@
+{
+    "base": "small voice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "small voice",
+    "n2": "small voices",
+    "n3": "the small voice",
+    "n4": "the small voices",
+    "n5": "small voice's",
+    "n6": "small voices'",
+    "n7": "a small voice",
+    "n8": "many small voices"
+}

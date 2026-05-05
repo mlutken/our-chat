@@ -1,0 +1,18 @@
+{
+    "base": "legitimacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "legitimacy",
+    "n2": "legitimacies",
+    "n3": "the legitimacy",
+    "n4": "the legitimacies",
+    "n5": "legitimacy's",
+    "n6": "legitimacies'",
+    "n7": "a legitimacy",
+    "n8": "many legitimacies"
+}

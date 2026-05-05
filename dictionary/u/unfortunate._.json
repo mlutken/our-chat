@@ -1,0 +1,18 @@
+{
+    "base": "unfortunate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unfortunate",
+    "n2": "unfortunates",
+    "n3": "the unfortunate",
+    "n4": "the unfortunates",
+    "n5": "unfortunate's",
+    "n6": "unfortunates'",
+    "n7": "an unfortunate",
+    "n8": "many unfortunates"
+}

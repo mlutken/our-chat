@@ -7,5 +7,12 @@
     "n2": "championships",
     "n3": "the championship",
     "n4": "the championships",
-    "n5": "championship's"
+    "n5": "championship's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "championships'",
+    "n7": "a championship",
+    "n8": "many championships"
 }

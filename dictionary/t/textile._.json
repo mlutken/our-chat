@@ -1,0 +1,18 @@
+{
+    "base": "textile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "textile",
+    "n2": "textiles",
+    "n3": "the textile",
+    "n4": "the textiles",
+    "n5": "textile's",
+    "n6": "textiles'",
+    "n7": "a textile",
+    "n8": "many textiles"
+}

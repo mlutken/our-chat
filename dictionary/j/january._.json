@@ -1,0 +1,18 @@
+{
+    "base": "january",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "january",
+    "n2": "januaries",
+    "n3": "the january",
+    "n4": "the januaries",
+    "n5": "january's",
+    "n6": "januaries'",
+    "n7": "a january",
+    "n8": "many januaries"
+}

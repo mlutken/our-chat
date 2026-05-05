@@ -1,0 +1,18 @@
+{
+    "base": "unrealism",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unrealism",
+    "n2": "unrealisms",
+    "n3": "the unrealism",
+    "n4": "the unrealisms",
+    "n5": "unrealism's",
+    "n6": "unrealisms'",
+    "n7": "an unrealism",
+    "n8": "many unrealisms"
+}

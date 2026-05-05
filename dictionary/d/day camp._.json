@@ -1,0 +1,18 @@
+{
+    "base": "day camp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "day camp",
+    "n2": "day camps",
+    "n3": "the day camp",
+    "n4": "the day camps",
+    "n5": "day camp's",
+    "n6": "day camps'",
+    "n7": "a day camp",
+    "n8": "many day camps"
+}

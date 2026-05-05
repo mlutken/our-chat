@@ -1,0 +1,18 @@
+{
+    "base": "split second",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "split second",
+    "n2": "split seconds",
+    "n3": "the split second",
+    "n4": "the split seconds",
+    "n5": "split second's",
+    "n6": "split seconds'",
+    "n7": "a split second",
+    "n8": "many split seconds"
+}

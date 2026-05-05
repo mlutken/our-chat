@@ -1,0 +1,18 @@
+{
+    "base": "parishioner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "parishioner",
+    "n2": "parishioners",
+    "n3": "the parishioner",
+    "n4": "the parishioners",
+    "n5": "parishioner's",
+    "n6": "parishioners'",
+    "n7": "a parishioner",
+    "n8": "many parishioners"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "laboratory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "laboratory",
+    "n2": "laboratories",
+    "n3": "the laboratory",
+    "n4": "the laboratories",
+    "n5": "laboratory's",
+    "n6": "laboratories'",
+    "n7": "a laboratory",
+    "n8": "many laboratories"
+}

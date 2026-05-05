@@ -7,5 +7,12 @@
     "n2": "conditions",
     "n3": "the condition",
     "n4": "the conditions",
-    "n5": "condition's"
+    "n5": "condition's",
+    "proper": false,
+    "commonness": 87,
+    "max_commonness": 6834,
+    "commonness_ge_count": 142,
+    "n6": "conditions'",
+    "n7": "a condition",
+    "n8": "many conditions"
 }

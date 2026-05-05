@@ -1,0 +1,18 @@
+{
+    "base": "vibration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vibration",
+    "n2": "vibrations",
+    "n3": "the vibration",
+    "n4": "the vibrations",
+    "n5": "vibration's",
+    "n6": "vibrations'",
+    "n7": "a vibration",
+    "n8": "many vibrations"
+}

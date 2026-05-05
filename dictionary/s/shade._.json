@@ -1,0 +1,18 @@
+{
+    "base": "shade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "shade",
+    "n2": "shades",
+    "n3": "the shade",
+    "n4": "the shades",
+    "n5": "shade's",
+    "n6": "shades'",
+    "n7": "a shade",
+    "n8": "many shades"
+}

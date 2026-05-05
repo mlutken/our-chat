@@ -1,0 +1,18 @@
+{
+    "base": "monograph",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "monograph",
+    "n2": "monographs",
+    "n3": "the monograph",
+    "n4": "the monographs",
+    "n5": "monograph's",
+    "n6": "monographs'",
+    "n7": "a monograph",
+    "n8": "many monographs"
+}

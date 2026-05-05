@@ -1,0 +1,18 @@
+{
+    "base": "gavotte",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gavotte",
+    "n2": "gavottes",
+    "n3": "the gavotte",
+    "n4": "the gavottes",
+    "n5": "gavotte's",
+    "n6": "gavottes'",
+    "n7": "a gavotte",
+    "n8": "many gavottes"
+}

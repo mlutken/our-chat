@@ -1,0 +1,18 @@
+{
+    "base": "recorder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "recorder",
+    "n2": "recorders",
+    "n3": "the recorder",
+    "n4": "the recorders",
+    "n5": "recorder's",
+    "n6": "recorders'",
+    "n7": "a recorder",
+    "n8": "many recorders"
+}

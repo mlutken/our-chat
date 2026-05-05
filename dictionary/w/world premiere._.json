@@ -1,0 +1,18 @@
+{
+    "base": "world premiere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "world premiere",
+    "n2": "world premieres",
+    "n3": "the world premiere",
+    "n4": "the world premieres",
+    "n5": "world premiere's",
+    "n6": "world premieres'",
+    "n7": "a world premiere",
+    "n8": "many world premieres"
+}

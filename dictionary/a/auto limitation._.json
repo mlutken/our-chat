@@ -1,0 +1,18 @@
+{
+    "base": "auto limitation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "auto limitation",
+    "n2": "auto limitations",
+    "n3": "the auto limitation",
+    "n4": "the auto limitations",
+    "n5": "auto limitation's",
+    "n6": "auto limitations'",
+    "n7": "an auto limitation",
+    "n8": "many auto limitations"
+}

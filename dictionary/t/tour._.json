@@ -1,11 +1,24 @@
 {
     "base": "tour",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tour",
     "v2": "toured",
     "v3": "toured",
     "v4": "touring",
-    "v5": "tours"
+    "v5": "tours",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "tour",
+    "n2": "tours",
+    "n3": "the tour",
+    "n4": "the tours",
+    "n5": "tour's",
+    "n6": "tours'",
+    "n7": "a tour",
+    "n8": "many tours"
 }

@@ -7,5 +7,12 @@
     "n2": "appendices",
     "n3": "the appendix",
     "n4": "the appendices",
-    "n5": "appendix's"
+    "n5": "appendix's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "appendices'",
+    "n7": "an appendix",
+    "n8": "many appendices"
 }

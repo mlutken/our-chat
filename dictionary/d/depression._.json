@@ -7,5 +7,12 @@
     "n2": "depressions",
     "n3": "the depression",
     "n4": "the depressions",
-    "n5": "depression's"
+    "n5": "depression's",
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n6": "depressions'",
+    "n7": "a depression",
+    "n8": "many depressions"
 }

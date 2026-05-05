@@ -1,0 +1,18 @@
+{
+    "base": "disc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "disc",
+    "n2": "discs",
+    "n3": "the disc",
+    "n4": "the discs",
+    "n5": "disc's",
+    "n6": "discs'",
+    "n7": "a disc",
+    "n8": "many discs"
+}

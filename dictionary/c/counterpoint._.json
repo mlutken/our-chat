@@ -1,0 +1,18 @@
+{
+    "base": "counterpoint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "counterpoint",
+    "n2": "counterpoints",
+    "n3": "the counterpoint",
+    "n4": "the counterpoints",
+    "n5": "counterpoint's",
+    "n6": "counterpoints'",
+    "n7": "a counterpoint",
+    "n8": "many counterpoints"
+}

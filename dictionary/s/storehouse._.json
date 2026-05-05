@@ -1,0 +1,18 @@
+{
+    "base": "storehouse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "storehouse",
+    "n2": "storehouses",
+    "n3": "the storehouse",
+    "n4": "the storehouses",
+    "n5": "storehouse's",
+    "n6": "storehouses'",
+    "n7": "a storehouse",
+    "n8": "many storehouses"
+}

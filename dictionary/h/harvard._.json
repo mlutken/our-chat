@@ -1,0 +1,18 @@
+{
+    "base": "harvard",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "harvard",
+    "n2": "harvards",
+    "n3": "the harvard",
+    "n4": "the harvards",
+    "n5": "harvard's",
+    "n6": "harvards'",
+    "n7": "a harvard",
+    "n8": "many harvards"
+}

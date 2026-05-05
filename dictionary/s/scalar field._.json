@@ -1,0 +1,18 @@
+{
+    "base": "scalar field",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scalar field",
+    "n2": "scalar fields",
+    "n3": "the scalar field",
+    "n4": "the scalar fields",
+    "n5": "scalar field's",
+    "n6": "scalar fields'",
+    "n7": "a scalar field",
+    "n8": "many scalar fields"
+}

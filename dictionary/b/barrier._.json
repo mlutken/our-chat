@@ -1,0 +1,18 @@
+{
+    "base": "barrier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "barrier",
+    "n2": "barriers",
+    "n3": "the barrier",
+    "n4": "the barriers",
+    "n5": "barrier's",
+    "n6": "barriers'",
+    "n7": "a barrier",
+    "n8": "many barriers"
+}

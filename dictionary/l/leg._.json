@@ -1,0 +1,18 @@
+{
+    "base": "leg",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 85,
+    "max_commonness": 6834,
+    "commonness_ge_count": 146,
+    "n1": "leg",
+    "n2": "legs",
+    "n3": "the leg",
+    "n4": "the legs",
+    "n5": "leg's",
+    "n6": "legs'",
+    "n7": "a leg",
+    "n8": "many legs"
+}

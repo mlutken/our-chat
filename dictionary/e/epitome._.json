@@ -1,0 +1,18 @@
+{
+    "base": "epitome",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "epitome",
+    "n2": "epitomes",
+    "n3": "the epitome",
+    "n4": "the epitomes",
+    "n5": "epitome's",
+    "n6": "epitomes'",
+    "n7": "an epitome",
+    "n8": "many epitomes"
+}

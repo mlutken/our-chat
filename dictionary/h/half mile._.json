@@ -1,0 +1,18 @@
+{
+    "base": "half mile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "half mile",
+    "n2": "half miles",
+    "n3": "the half mile",
+    "n4": "the half miles",
+    "n5": "half mile's",
+    "n6": "half miles'",
+    "n7": "a half mile",
+    "n8": "many half miles"
+}

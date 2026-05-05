@@ -1,0 +1,18 @@
+{
+    "base": "tear",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "tear",
+    "n2": "tears",
+    "n3": "the tear",
+    "n4": "the tears",
+    "n5": "tear's",
+    "n6": "tears'",
+    "n7": "a tear",
+    "n8": "many tears"
+}

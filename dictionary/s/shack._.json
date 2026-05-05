@@ -1,0 +1,18 @@
+{
+    "base": "shack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shack",
+    "n2": "shacks",
+    "n3": "the shack",
+    "n4": "the shacks",
+    "n5": "shack's",
+    "n6": "shacks'",
+    "n7": "a shack",
+    "n8": "many shacks"
+}

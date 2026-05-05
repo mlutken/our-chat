@@ -1,0 +1,18 @@
+{
+    "base": "vegetable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "vegetable",
+    "n2": "vegetables",
+    "n3": "the vegetable",
+    "n4": "the vegetables",
+    "n5": "vegetable's",
+    "n6": "vegetables'",
+    "n7": "a vegetable",
+    "n8": "many vegetables"
+}

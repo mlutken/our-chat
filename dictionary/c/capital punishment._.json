@@ -1,0 +1,18 @@
+{
+    "base": "capital punishment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "capital punishment",
+    "n2": "capital punishments",
+    "n3": "the capital punishment",
+    "n4": "the capital punishments",
+    "n5": "capital punishment's",
+    "n6": "capital punishments'",
+    "n7": "a capital punishment",
+    "n8": "many capital punishments"
+}

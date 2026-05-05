@@ -1,0 +1,18 @@
+{
+    "base": "fatigue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "fatigue",
+    "n2": "fatigues",
+    "n3": "the fatigue",
+    "n4": "the fatigues",
+    "n5": "fatigue's",
+    "n6": "fatigues'",
+    "n7": "a fatigue",
+    "n8": "many fatigues"
+}

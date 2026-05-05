@@ -1,0 +1,18 @@
+{
+    "base": "sphere",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "sphere",
+    "n2": "spheres",
+    "n3": "the sphere",
+    "n4": "the spheres",
+    "n5": "sphere's",
+    "n6": "spheres'",
+    "n7": "a sphere",
+    "n8": "many spheres"
+}

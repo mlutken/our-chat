@@ -1,0 +1,18 @@
+{
+    "base": "discontent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "discontent",
+    "n2": "discontents",
+    "n3": "the discontent",
+    "n4": "the discontents",
+    "n5": "discontent's",
+    "n6": "discontents'",
+    "n7": "a discontent",
+    "n8": "many discontents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "milking stool",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "milking stool",
+    "n2": "milking stools",
+    "n3": "the milking stool",
+    "n4": "the milking stools",
+    "n5": "milking stool's",
+    "n6": "milking stools'",
+    "n7": "a milking stool",
+    "n8": "many milking stools"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "winnipeg",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "winnipeg",
+    "n2": "winnipegs",
+    "n3": "the winnipeg",
+    "n4": "the winnipegs",
+    "n5": "winnipeg's",
+    "n6": "winnipegs'",
+    "n7": "a winnipeg",
+    "n8": "many winnipegs"
+}

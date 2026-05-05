@@ -7,5 +7,12 @@
     "n2": "screens",
     "n3": "the screen",
     "n4": "the screens",
-    "n5": "screen's"
+    "n5": "screen's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "screens'",
+    "n7": "a screen",
+    "n8": "many screens"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "trolley line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trolley line",
+    "n2": "trolley lines",
+    "n3": "the trolley line",
+    "n4": "the trolley lines",
+    "n5": "trolley line's",
+    "n6": "trolley lines'",
+    "n7": "a trolley line",
+    "n8": "many trolley lines"
+}

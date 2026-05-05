@@ -1,0 +1,18 @@
+{
+    "base": "coaching",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "coaching",
+    "n2": "coachings",
+    "n3": "the coaching",
+    "n4": "the coachings",
+    "n5": "coaching's",
+    "n6": "coachings'",
+    "n7": "a coaching",
+    "n8": "many coachings"
+}

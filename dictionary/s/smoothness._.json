@@ -1,0 +1,18 @@
+{
+    "base": "smoothness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "smoothness",
+    "n2": "smoothnesses",
+    "n3": "the smoothness",
+    "n4": "the smoothnesses",
+    "n5": "smoothness'",
+    "n6": "smoothnesses'",
+    "n7": "a smoothness",
+    "n8": "many smoothnesses"
+}

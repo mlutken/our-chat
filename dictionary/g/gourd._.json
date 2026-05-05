@@ -1,0 +1,18 @@
+{
+    "base": "gourd",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gourd",
+    "n2": "gourds",
+    "n3": "the gourd",
+    "n4": "the gourds",
+    "n5": "gourd's",
+    "n6": "gourds'",
+    "n7": "a gourd",
+    "n8": "many gourds"
+}

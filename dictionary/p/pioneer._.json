@@ -1,0 +1,18 @@
+{
+    "base": "pioneer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pioneer",
+    "n2": "pioneers",
+    "n3": "the pioneer",
+    "n4": "the pioneers",
+    "n5": "pioneer's",
+    "n6": "pioneers'",
+    "n7": "a pioneer",
+    "n8": "many pioneers"
+}

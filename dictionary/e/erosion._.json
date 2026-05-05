@@ -1,0 +1,18 @@
+{
+    "base": "erosion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "erosion",
+    "n2": "erosions",
+    "n3": "the erosion",
+    "n4": "the erosions",
+    "n5": "erosion's",
+    "n6": "erosions'",
+    "n7": "an erosion",
+    "n8": "many erosions"
+}

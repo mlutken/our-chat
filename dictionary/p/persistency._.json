@@ -1,0 +1,18 @@
+{
+    "base": "persistency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "persistency",
+    "n2": "persistencies",
+    "n3": "the persistency",
+    "n4": "the persistencies",
+    "n5": "persistency's",
+    "n6": "persistencies'",
+    "n7": "a persistency",
+    "n8": "many persistencies"
+}

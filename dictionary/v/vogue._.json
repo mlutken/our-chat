@@ -1,0 +1,18 @@
+{
+    "base": "vogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "vogue",
+    "n2": "vogues",
+    "n3": "the vogue",
+    "n4": "the vogues",
+    "n5": "vogue's",
+    "n6": "vogues'",
+    "n7": "a vogue",
+    "n8": "many vogues"
+}

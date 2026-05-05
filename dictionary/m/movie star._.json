@@ -1,0 +1,18 @@
+{
+    "base": "movie star",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "movie star",
+    "n2": "movie stars",
+    "n3": "the movie star",
+    "n4": "the movie stars",
+    "n5": "movie star's",
+    "n6": "movie stars'",
+    "n7": "a movie star",
+    "n8": "many movie stars"
+}

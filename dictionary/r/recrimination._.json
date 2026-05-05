@@ -1,0 +1,18 @@
+{
+    "base": "recrimination",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "recrimination",
+    "n2": "recriminations",
+    "n3": "the recrimination",
+    "n4": "the recriminations",
+    "n5": "recrimination's",
+    "n6": "recriminations'",
+    "n7": "a recrimination",
+    "n8": "many recriminations"
+}

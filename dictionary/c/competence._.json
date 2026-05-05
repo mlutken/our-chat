@@ -1,0 +1,18 @@
+{
+    "base": "competence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "competence",
+    "n2": "competences",
+    "n3": "the competence",
+    "n4": "the competences",
+    "n5": "competence's",
+    "n6": "competences'",
+    "n7": "a competence",
+    "n8": "many competences"
+}

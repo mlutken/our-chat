@@ -1,0 +1,18 @@
+{
+    "base": "pap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pap",
+    "n2": "paps",
+    "n3": "the pap",
+    "n4": "the paps",
+    "n5": "pap's",
+    "n6": "paps'",
+    "n7": "a pap",
+    "n8": "many paps"
+}

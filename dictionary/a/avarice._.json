@@ -1,0 +1,18 @@
+{
+    "base": "avarice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "avarice",
+    "n2": "avarices",
+    "n3": "the avarice",
+    "n4": "the avarices",
+    "n5": "avarice's",
+    "n6": "avarices'",
+    "n7": "an avarice",
+    "n8": "many avarices"
+}

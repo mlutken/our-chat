@@ -1,0 +1,18 @@
+{
+    "base": "health problem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "health problem",
+    "n2": "health problems",
+    "n3": "the health problem",
+    "n4": "the health problems",
+    "n5": "health problem's",
+    "n6": "health problems'",
+    "n7": "a health problem",
+    "n8": "many health problems"
+}

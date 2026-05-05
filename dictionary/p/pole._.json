@@ -1,0 +1,18 @@
+{
+    "base": "pole",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n1": "pole",
+    "n2": "poles",
+    "n3": "the pole",
+    "n4": "the poles",
+    "n5": "pole's",
+    "n6": "poles'",
+    "n7": "a pole",
+    "n8": "many poles"
+}

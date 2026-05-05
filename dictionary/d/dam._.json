@@ -1,11 +1,24 @@
 {
     "base": "dam",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "dam",
     "v2": "dammed",
     "v3": "dammed",
     "v4": "damming",
-    "v5": "dams"
+    "v5": "dams",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "dam",
+    "n2": "dams",
+    "n3": "the dam",
+    "n4": "the dams",
+    "n5": "dam's",
+    "n6": "dams'",
+    "n7": "a dam",
+    "n8": "many dams"
 }

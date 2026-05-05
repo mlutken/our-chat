@@ -1,0 +1,18 @@
+{
+    "base": "ignition key",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ignition key",
+    "n2": "ignition keys",
+    "n3": "the ignition key",
+    "n4": "the ignition keys",
+    "n5": "ignition key's",
+    "n6": "ignition keys'",
+    "n7": "an ignition key",
+    "n8": "many ignition keys"
+}

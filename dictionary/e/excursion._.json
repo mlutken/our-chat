@@ -1,0 +1,18 @@
+{
+    "base": "excursion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "excursion",
+    "n2": "excursions",
+    "n3": "the excursion",
+    "n4": "the excursions",
+    "n5": "excursion's",
+    "n6": "excursions'",
+    "n7": "an excursion",
+    "n8": "many excursions"
+}

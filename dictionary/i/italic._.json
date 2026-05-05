@@ -1,0 +1,18 @@
+{
+    "base": "italic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "italic",
+    "n2": "italics",
+    "n3": "the italic",
+    "n4": "the italics",
+    "n5": "italic's",
+    "n6": "italics'",
+    "n7": "an italic",
+    "n8": "many italics"
+}

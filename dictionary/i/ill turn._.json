@@ -1,0 +1,18 @@
+{
+    "base": "ill turn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ill turn",
+    "n2": "ill turns",
+    "n3": "the ill turn",
+    "n4": "the ill turns",
+    "n5": "ill turn's",
+    "n6": "ill turns'",
+    "n7": "an ill turn",
+    "n8": "many ill turns"
+}

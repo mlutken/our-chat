@@ -1,0 +1,18 @@
+{
+    "base": "television program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "television program",
+    "n2": "television programs",
+    "n3": "the television program",
+    "n4": "the television programs",
+    "n5": "television program's",
+    "n6": "television programs'",
+    "n7": "a television program",
+    "n8": "many television programs"
+}

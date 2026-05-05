@@ -1,0 +1,18 @@
+{
+    "base": "soft-shoe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soft-shoe",
+    "n2": "soft-shoes",
+    "n3": "the soft-shoe",
+    "n4": "the soft-shoes",
+    "n5": "soft-shoe's",
+    "n6": "soft-shoes'",
+    "n7": "a soft-shoe",
+    "n8": "many soft-shoes"
+}

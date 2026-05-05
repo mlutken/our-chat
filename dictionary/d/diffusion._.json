@@ -1,0 +1,18 @@
+{
+    "base": "diffusion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "diffusion",
+    "n2": "diffusions",
+    "n3": "the diffusion",
+    "n4": "the diffusions",
+    "n5": "diffusion's",
+    "n6": "diffusions'",
+    "n7": "a diffusion",
+    "n8": "many diffusions"
+}

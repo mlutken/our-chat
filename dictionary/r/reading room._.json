@@ -1,0 +1,18 @@
+{
+    "base": "reading room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reading room",
+    "n2": "reading rooms",
+    "n3": "the reading room",
+    "n4": "the reading rooms",
+    "n5": "reading room's",
+    "n6": "reading rooms'",
+    "n7": "a reading room",
+    "n8": "many reading rooms"
+}

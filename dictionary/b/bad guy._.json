@@ -1,0 +1,18 @@
+{
+    "base": "bad guy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bad guy",
+    "n2": "bad guys",
+    "n3": "the bad guy",
+    "n4": "the bad guys",
+    "n5": "bad guy's",
+    "n6": "bad guys'",
+    "n7": "a bad guy",
+    "n8": "many bad guys"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "here and now",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "here and now",
+    "n2": "here and nows",
+    "n3": "the here and now",
+    "n4": "the here and nows",
+    "n5": "here and now's",
+    "n6": "here and nows'",
+    "n7": "a here and now",
+    "n8": "many here and nows"
+}

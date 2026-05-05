@@ -1,0 +1,18 @@
+{
+    "base": "gateway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gateway",
+    "n2": "gateways",
+    "n3": "the gateway",
+    "n4": "the gateways",
+    "n5": "gateway's",
+    "n6": "gateways'",
+    "n7": "a gateway",
+    "n8": "many gateways"
+}

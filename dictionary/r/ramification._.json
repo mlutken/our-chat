@@ -1,0 +1,18 @@
+{
+    "base": "ramification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ramification",
+    "n2": "ramifications",
+    "n3": "the ramification",
+    "n4": "the ramifications",
+    "n5": "ramification's",
+    "n6": "ramifications'",
+    "n7": "a ramification",
+    "n8": "many ramifications"
+}

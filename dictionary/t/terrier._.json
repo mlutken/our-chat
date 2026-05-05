@@ -1,0 +1,18 @@
+{
+    "base": "terrier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "terrier",
+    "n2": "terriers",
+    "n3": "the terrier",
+    "n4": "the terriers",
+    "n5": "terrier's",
+    "n6": "terriers'",
+    "n7": "a terrier",
+    "n8": "many terriers"
+}

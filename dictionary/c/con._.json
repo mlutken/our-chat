@@ -1,0 +1,18 @@
+{
+    "base": "con",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "con",
+    "n2": "cons",
+    "n3": "the con",
+    "n4": "the cons",
+    "n5": "con's",
+    "n6": "cons'",
+    "n7": "a con",
+    "n8": "many cons"
+}

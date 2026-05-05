@@ -1,0 +1,18 @@
+{
+    "base": "rattler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "rattler",
+    "n2": "rattlers",
+    "n3": "the rattler",
+    "n4": "the rattlers",
+    "n5": "rattler's",
+    "n6": "rattlers'",
+    "n7": "a rattler",
+    "n8": "many rattlers"
+}

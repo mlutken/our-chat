@@ -1,0 +1,18 @@
+{
+    "base": "impressionist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "impressionist",
+    "n2": "impressionists",
+    "n3": "the impressionist",
+    "n4": "the impressionists",
+    "n5": "impressionist's",
+    "n6": "impressionists'",
+    "n7": "an impressionist",
+    "n8": "many impressionists"
+}

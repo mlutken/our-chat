@@ -1,0 +1,18 @@
+{
+    "base": "fluorescein",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fluorescein",
+    "n2": "fluoresceins",
+    "n3": "the fluorescein",
+    "n4": "the fluoresceins",
+    "n5": "fluorescein's",
+    "n6": "fluoresceins'",
+    "n7": "a fluorescein",
+    "n8": "many fluoresceins"
+}

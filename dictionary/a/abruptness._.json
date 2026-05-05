@@ -1,0 +1,18 @@
+{
+    "base": "abruptness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abruptness",
+    "n2": "abruptnesses",
+    "n3": "the abruptness",
+    "n4": "the abruptnesses",
+    "n5": "abruptness'",
+    "n6": "abruptnesses'",
+    "n7": "an abruptness",
+    "n8": "many abruptnesses"
+}

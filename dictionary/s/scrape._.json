@@ -1,0 +1,18 @@
+{
+    "base": "scrape",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "scrape",
+    "n2": "scrapes",
+    "n3": "the scrape",
+    "n4": "the scrapes",
+    "n5": "scrape's",
+    "n6": "scrapes'",
+    "n7": "a scrape",
+    "n8": "many scrapes"
+}

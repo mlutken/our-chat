@@ -7,5 +7,12 @@
     "n2": "labs",
     "n3": "the lab",
     "n4": "the labs",
-    "n5": "lab's"
+    "n5": "lab's",
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n6": "labs'",
+    "n7": "a lab",
+    "n8": "many labs"
 }

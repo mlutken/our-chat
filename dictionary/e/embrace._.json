@@ -1,11 +1,24 @@
 {
     "base": "embrace",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "embrace",
     "v2": "embraced",
     "v3": "embraced",
     "v4": "embracing",
-    "v5": "embraces"
+    "v5": "embraces",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "embrace",
+    "n2": "embraces",
+    "n3": "the embrace",
+    "n4": "the embraces",
+    "n5": "embrace's",
+    "n6": "embraces'",
+    "n7": "an embrace",
+    "n8": "many embraces"
 }

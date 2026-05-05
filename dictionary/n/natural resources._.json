@@ -1,0 +1,18 @@
+{
+    "base": "natural resources",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "natural resources",
+    "n2": "natural resourceses",
+    "n3": "the natural resources",
+    "n4": "the natural resourceses",
+    "n5": "natural resources'",
+    "n6": "natural resourceses'",
+    "n7": "a natural resources",
+    "n8": "many natural resourceses"
+}

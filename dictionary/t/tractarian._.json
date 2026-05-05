@@ -1,0 +1,18 @@
+{
+    "base": "tractarian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tractarian",
+    "n2": "tractarians",
+    "n3": "the tractarian",
+    "n4": "the tractarians",
+    "n5": "tractarian's",
+    "n6": "tractarians'",
+    "n7": "a tractarian",
+    "n8": "many tractarians"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "hell-rooster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hell-rooster",
+    "n2": "hell-roosters",
+    "n3": "the hell-rooster",
+    "n4": "the hell-roosters",
+    "n5": "hell-rooster's",
+    "n6": "hell-roosters'",
+    "n7": "a hell-rooster",
+    "n8": "many hell-roosters"
+}

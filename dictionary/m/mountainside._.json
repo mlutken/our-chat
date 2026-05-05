@@ -1,0 +1,18 @@
+{
+    "base": "mountainside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mountainside",
+    "n2": "mountainsides",
+    "n3": "the mountainside",
+    "n4": "the mountainsides",
+    "n5": "mountainside's",
+    "n6": "mountainsides'",
+    "n7": "a mountainside",
+    "n8": "many mountainsides"
+}

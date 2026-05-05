@@ -1,0 +1,18 @@
+{
+    "base": "proportion",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "proportion",
+    "n2": "proportions",
+    "n3": "the proportion",
+    "n4": "the proportions",
+    "n5": "proportion's",
+    "n6": "proportions'",
+    "n7": "a proportion",
+    "n8": "many proportions"
+}

@@ -1,11 +1,24 @@
 {
     "base": "cover",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cover",
     "v2": "covered",
     "v3": "covered",
     "v4": "covering",
-    "v5": "covers"
+    "v5": "covers",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n1": "cover",
+    "n2": "covers",
+    "n3": "the cover",
+    "n4": "the covers",
+    "n5": "cover's",
+    "n6": "covers'",
+    "n7": "a cover",
+    "n8": "many covers"
 }

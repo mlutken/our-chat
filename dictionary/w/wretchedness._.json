@@ -1,0 +1,18 @@
+{
+    "base": "wretchedness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wretchedness",
+    "n2": "wretchednesses",
+    "n3": "the wretchedness",
+    "n4": "the wretchednesses",
+    "n5": "wretchedness'",
+    "n6": "wretchednesses'",
+    "n7": "a wretchedness",
+    "n8": "many wretchednesses"
+}

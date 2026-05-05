@@ -1,0 +1,18 @@
+{
+    "base": "geiger tube",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "geiger tube",
+    "n2": "geiger tubes",
+    "n3": "the geiger tube",
+    "n4": "the geiger tubes",
+    "n5": "geiger tube's",
+    "n6": "geiger tubes'",
+    "n7": "a geiger tube",
+    "n8": "many geiger tubes"
+}

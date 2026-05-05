@@ -1,0 +1,18 @@
+{
+    "base": "bramble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "bramble",
+    "n2": "brambles",
+    "n3": "the bramble",
+    "n4": "the brambles",
+    "n5": "bramble's",
+    "n6": "brambles'",
+    "n7": "a bramble",
+    "n8": "many brambles"
+}

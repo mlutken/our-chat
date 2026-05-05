@@ -1,0 +1,18 @@
+{
+    "base": "vexation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vexation",
+    "n2": "vexations",
+    "n3": "the vexation",
+    "n4": "the vexations",
+    "n5": "vexation's",
+    "n6": "vexations'",
+    "n7": "a vexation",
+    "n8": "many vexations"
+}

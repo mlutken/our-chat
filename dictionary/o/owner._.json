@@ -7,5 +7,12 @@
     "n2": "owners",
     "n3": "the owner",
     "n4": "the owners",
-    "n5": "owner's"
+    "n5": "owner's",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n6": "owners'",
+    "n7": "an owner",
+    "n8": "many owners"
 }

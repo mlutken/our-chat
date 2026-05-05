@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "cash",
-    "n2": "cashs",
+    "n2": "cashes",
     "n3": "the cash",
-    "n4": "the cashs",
-    "n5": "cash's"
+    "n4": "the cashes",
+    "n5": "cash's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "cashes'",
+    "n7": "a cash",
+    "n8": "many cashes"
 }

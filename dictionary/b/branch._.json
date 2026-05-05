@@ -1,11 +1,24 @@
 {
     "base": "branch",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "branch",
     "v2": "branched",
     "v3": "branched",
     "v4": "branching",
-    "v5": "branches"
+    "v5": "branches",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "branch",
+    "n2": "branches",
+    "n3": "the branch",
+    "n4": "the branches",
+    "n5": "branch's",
+    "n6": "branches'",
+    "n7": "a branch",
+    "n8": "many branches"
 }

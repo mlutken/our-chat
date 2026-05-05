@@ -1,0 +1,18 @@
+{
+    "base": "arrangement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "arrangement",
+    "n2": "arrangements",
+    "n3": "the arrangement",
+    "n4": "the arrangements",
+    "n5": "arrangement's",
+    "n6": "arrangements'",
+    "n7": "an arrangement",
+    "n8": "many arrangements"
+}

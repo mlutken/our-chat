@@ -1,0 +1,18 @@
+{
+    "base": "stiffness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "stiffness",
+    "n2": "stiffnesses",
+    "n3": "the stiffness",
+    "n4": "the stiffnesses",
+    "n5": "stiffness'",
+    "n6": "stiffnesses'",
+    "n7": "a stiffness",
+    "n8": "many stiffnesses"
+}

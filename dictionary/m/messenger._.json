@@ -1,0 +1,18 @@
+{
+    "base": "messenger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "messenger",
+    "n2": "messengers",
+    "n3": "the messenger",
+    "n4": "the messengers",
+    "n5": "messenger's",
+    "n6": "messengers'",
+    "n7": "a messenger",
+    "n8": "many messengers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "slant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "slant",
+    "n2": "slants",
+    "n3": "the slant",
+    "n4": "the slants",
+    "n5": "slant's",
+    "n6": "slants'",
+    "n7": "a slant",
+    "n8": "many slants"
+}

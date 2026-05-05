@@ -7,5 +7,12 @@
     "n2": "chickens",
     "n3": "the chicken",
     "n4": "the chickens",
-    "n5": "chicken's"
+    "n5": "chicken's",
+    "proper": false,
+    "commonness": 26,
+    "max_commonness": 6834,
+    "commonness_ge_count": 724,
+    "n6": "chickens'",
+    "n7": "a chicken",
+    "n8": "many chickens"
 }

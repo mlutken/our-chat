@@ -1,0 +1,18 @@
+{
+    "base": "interplanetary space",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "interplanetary space",
+    "n2": "interplanetary spaces",
+    "n3": "the interplanetary space",
+    "n4": "the interplanetary spaces",
+    "n5": "interplanetary space's",
+    "n6": "interplanetary spaces'",
+    "n7": "an interplanetary space",
+    "n8": "many interplanetary spaces"
+}

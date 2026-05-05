@@ -1,0 +1,18 @@
+{
+    "base": "patron saint",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "patron saint",
+    "n2": "patron saints",
+    "n3": "the patron saint",
+    "n4": "the patron saints",
+    "n5": "patron saint's",
+    "n6": "patron saints'",
+    "n7": "a patron saint",
+    "n8": "many patron saints"
+}

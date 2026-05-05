@@ -1,0 +1,18 @@
+{
+    "base": "forefather",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forefather",
+    "n2": "forefathers",
+    "n3": "the forefather",
+    "n4": "the forefathers",
+    "n5": "forefather's",
+    "n6": "forefathers'",
+    "n7": "a forefather",
+    "n8": "many forefathers"
+}

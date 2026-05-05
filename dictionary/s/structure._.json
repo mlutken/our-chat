@@ -7,5 +7,12 @@
     "n2": "structures",
     "n3": "the structure",
     "n4": "the structures",
-    "n5": "structure's"
+    "n5": "structure's",
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n6": "structures'",
+    "n7": "a structure",
+    "n8": "many structures"
 }

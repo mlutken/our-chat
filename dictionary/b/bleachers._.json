@@ -1,0 +1,18 @@
+{
+    "base": "bleachers",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bleachers",
+    "n2": "bleacherses",
+    "n3": "the bleachers",
+    "n4": "the bleacherses",
+    "n5": "bleachers'",
+    "n6": "bleacherses'",
+    "n7": "a bleachers",
+    "n8": "many bleacherses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "grammarian",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grammarian",
+    "n2": "grammarians",
+    "n3": "the grammarian",
+    "n4": "the grammarians",
+    "n5": "grammarian's",
+    "n6": "grammarians'",
+    "n7": "a grammarian",
+    "n8": "many grammarians"
+}

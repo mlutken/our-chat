@@ -1,0 +1,18 @@
+{
+    "base": "lease",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lease",
+    "n2": "leases",
+    "n3": "the lease",
+    "n4": "the leases",
+    "n5": "lease's",
+    "n6": "leases'",
+    "n7": "a lease",
+    "n8": "many leases"
+}

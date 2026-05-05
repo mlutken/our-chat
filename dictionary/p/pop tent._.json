@@ -1,0 +1,18 @@
+{
+    "base": "pop tent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pop tent",
+    "n2": "pop tents",
+    "n3": "the pop tent",
+    "n4": "the pop tents",
+    "n5": "pop tent's",
+    "n6": "pop tents'",
+    "n7": "a pop tent",
+    "n8": "many pop tents"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "analogue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "analogue",
+    "n2": "analogues",
+    "n3": "the analogue",
+    "n4": "the analogues",
+    "n5": "analogue's",
+    "n6": "analogues'",
+    "n7": "an analogue",
+    "n8": "many analogues"
+}

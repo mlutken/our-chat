@@ -1,0 +1,18 @@
+{
+    "base": "feeler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "feeler",
+    "n2": "feelers",
+    "n3": "the feeler",
+    "n4": "the feelers",
+    "n5": "feeler's",
+    "n6": "feelers'",
+    "n7": "a feeler",
+    "n8": "many feelers"
+}

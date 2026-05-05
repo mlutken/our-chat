@@ -1,0 +1,18 @@
+{
+    "base": "axle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "axle",
+    "n2": "axles",
+    "n3": "the axle",
+    "n4": "the axles",
+    "n5": "axle's",
+    "n6": "axles'",
+    "n7": "an axle",
+    "n8": "many axles"
+}

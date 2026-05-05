@@ -1,0 +1,18 @@
+{
+    "base": "saltwater",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "saltwater",
+    "n2": "saltwaters",
+    "n3": "the saltwater",
+    "n4": "the saltwaters",
+    "n5": "saltwater's",
+    "n6": "saltwaters'",
+    "n7": "a saltwater",
+    "n8": "many saltwaters"
+}

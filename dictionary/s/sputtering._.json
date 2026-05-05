@@ -1,0 +1,18 @@
+{
+    "base": "sputtering",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sputtering",
+    "n2": "sputterings",
+    "n3": "the sputtering",
+    "n4": "the sputterings",
+    "n5": "sputtering's",
+    "n6": "sputterings'",
+    "n7": "a sputtering",
+    "n8": "many sputterings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "paramilitary organization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paramilitary organization",
+    "n2": "paramilitary organizations",
+    "n3": "the paramilitary organization",
+    "n4": "the paramilitary organizations",
+    "n5": "paramilitary organization's",
+    "n6": "paramilitary organizations'",
+    "n7": "a paramilitary organization",
+    "n8": "many paramilitary organizations"
+}

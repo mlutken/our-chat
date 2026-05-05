@@ -1,0 +1,18 @@
+{
+    "base": "teaching certificate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "teaching certificate",
+    "n2": "teaching certificates",
+    "n3": "the teaching certificate",
+    "n4": "the teaching certificates",
+    "n5": "teaching certificate's",
+    "n6": "teaching certificates'",
+    "n7": "a teaching certificate",
+    "n8": "many teaching certificates"
+}

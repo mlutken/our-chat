@@ -1,0 +1,18 @@
+{
+    "base": "iodotyrosine",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "iodotyrosine",
+    "n2": "iodotyrosines",
+    "n3": "the iodotyrosine",
+    "n4": "the iodotyrosines",
+    "n5": "iodotyrosine's",
+    "n6": "iodotyrosines'",
+    "n7": "an iodotyrosine",
+    "n8": "many iodotyrosines"
+}

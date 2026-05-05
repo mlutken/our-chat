@@ -1,0 +1,18 @@
+{
+    "base": "return address",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "return address",
+    "n2": "return addresses",
+    "n3": "the return address",
+    "n4": "the return addresses",
+    "n5": "return address'",
+    "n6": "return addresses'",
+    "n7": "a return address",
+    "n8": "many return addresses"
+}

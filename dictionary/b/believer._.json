@@ -1,0 +1,18 @@
+{
+    "base": "believer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "believer",
+    "n2": "believers",
+    "n3": "the believer",
+    "n4": "the believers",
+    "n5": "believer's",
+    "n6": "believers'",
+    "n7": "a believer",
+    "n8": "many believers"
+}

@@ -7,5 +7,12 @@
     "n2": "views",
     "n3": "the view",
     "n4": "the views",
-    "n5": "view's"
+    "n5": "view's",
+    "proper": false,
+    "commonness": 80,
+    "max_commonness": 6834,
+    "commonness_ge_count": 166,
+    "n6": "views'",
+    "n7": "a view",
+    "n8": "many views"
 }

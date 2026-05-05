@@ -1,0 +1,18 @@
+{
+    "base": "grayback",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "grayback",
+    "n2": "graybacks",
+    "n3": "the grayback",
+    "n4": "the graybacks",
+    "n5": "grayback's",
+    "n6": "graybacks'",
+    "n7": "a grayback",
+    "n8": "many graybacks"
+}

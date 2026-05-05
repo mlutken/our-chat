@@ -7,5 +7,12 @@
     "n2": "balls",
     "n3": "the ball",
     "n4": "the balls",
-    "n5": "ball's"
+    "n5": "ball's",
+    "proper": false,
+    "commonness": 47,
+    "max_commonness": 6834,
+    "commonness_ge_count": 358,
+    "n6": "balls'",
+    "n7": "a ball",
+    "n8": "many balls"
 }

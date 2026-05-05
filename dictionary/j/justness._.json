@@ -1,0 +1,18 @@
+{
+    "base": "justness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "justness",
+    "n2": "justnesses",
+    "n3": "the justness",
+    "n4": "the justnesses",
+    "n5": "justness'",
+    "n6": "justnesses'",
+    "n7": "a justness",
+    "n8": "many justnesses"
+}

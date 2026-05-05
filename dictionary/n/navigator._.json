@@ -1,0 +1,18 @@
+{
+    "base": "navigator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "navigator",
+    "n2": "navigators",
+    "n3": "the navigator",
+    "n4": "the navigators",
+    "n5": "navigator's",
+    "n6": "navigators'",
+    "n7": "a navigator",
+    "n8": "many navigators"
+}

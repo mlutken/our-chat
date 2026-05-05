@@ -1,0 +1,18 @@
+{
+    "base": "leapfrog",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "leapfrog",
+    "n2": "leapfrogs",
+    "n3": "the leapfrog",
+    "n4": "the leapfrogs",
+    "n5": "leapfrog's",
+    "n6": "leapfrogs'",
+    "n7": "a leapfrog",
+    "n8": "many leapfrogs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reign",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reign",
+    "n2": "reigns",
+    "n3": "the reign",
+    "n4": "the reigns",
+    "n5": "reign's",
+    "n6": "reigns'",
+    "n7": "a reign",
+    "n8": "many reigns"
+}

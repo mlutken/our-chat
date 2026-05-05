@@ -1,0 +1,18 @@
+{
+    "base": "mane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mane",
+    "n2": "manes",
+    "n3": "the mane",
+    "n4": "the manes",
+    "n5": "mane's",
+    "n6": "manes'",
+    "n7": "a mane",
+    "n8": "many manes"
+}

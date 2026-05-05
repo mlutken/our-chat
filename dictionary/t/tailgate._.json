@@ -1,0 +1,18 @@
+{
+    "base": "tailgate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tailgate",
+    "n2": "tailgates",
+    "n3": "the tailgate",
+    "n4": "the tailgates",
+    "n5": "tailgate's",
+    "n6": "tailgates'",
+    "n7": "a tailgate",
+    "n8": "many tailgates"
+}

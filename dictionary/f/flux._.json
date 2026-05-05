@@ -1,0 +1,18 @@
+{
+    "base": "flux",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "flux",
+    "n2": "fluxes",
+    "n3": "the flux",
+    "n4": "the fluxes",
+    "n5": "flux's",
+    "n6": "fluxes'",
+    "n7": "a flux",
+    "n8": "many fluxes"
+}

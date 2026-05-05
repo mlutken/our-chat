@@ -1,0 +1,18 @@
+{
+    "base": "polybutene",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "polybutene",
+    "n2": "polybutenes",
+    "n3": "the polybutene",
+    "n4": "the polybutenes",
+    "n5": "polybutene's",
+    "n6": "polybutenes'",
+    "n7": "a polybutene",
+    "n8": "many polybutenes"
+}

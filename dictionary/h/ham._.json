@@ -1,0 +1,18 @@
+{
+    "base": "ham",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ham",
+    "n2": "hams",
+    "n3": "the ham",
+    "n4": "the hams",
+    "n5": "ham's",
+    "n6": "hams'",
+    "n7": "a ham",
+    "n8": "many hams"
+}

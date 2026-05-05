@@ -1,0 +1,18 @@
+{
+    "base": "riboflavin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "riboflavin",
+    "n2": "riboflavins",
+    "n3": "the riboflavin",
+    "n4": "the riboflavins",
+    "n5": "riboflavin's",
+    "n6": "riboflavins'",
+    "n7": "a riboflavin",
+    "n8": "many riboflavins"
+}

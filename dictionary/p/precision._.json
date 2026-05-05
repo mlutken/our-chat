@@ -1,0 +1,18 @@
+{
+    "base": "precision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "precision",
+    "n2": "precisions",
+    "n3": "the precision",
+    "n4": "the precisions",
+    "n5": "precision's",
+    "n6": "precisions'",
+    "n7": "a precision",
+    "n8": "many precisions"
+}

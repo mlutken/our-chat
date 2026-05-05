@@ -1,0 +1,18 @@
+{
+    "base": "aerial",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aerial",
+    "n2": "aerials",
+    "n3": "the aerial",
+    "n4": "the aerials",
+    "n5": "aerial's",
+    "n6": "aerials'",
+    "n7": "an aerial",
+    "n8": "many aerials"
+}

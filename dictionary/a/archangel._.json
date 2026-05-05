@@ -1,0 +1,18 @@
+{
+    "base": "archangel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "archangel",
+    "n2": "archangels",
+    "n3": "the archangel",
+    "n4": "the archangels",
+    "n5": "archangel's",
+    "n6": "archangels'",
+    "n7": "an archangel",
+    "n8": "many archangels"
+}

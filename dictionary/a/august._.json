@@ -1,0 +1,18 @@
+{
+    "base": "august",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "august",
+    "n2": "augusts",
+    "n3": "the august",
+    "n4": "the augusts",
+    "n5": "august's",
+    "n6": "augusts'",
+    "n7": "an august",
+    "n8": "many augusts"
+}

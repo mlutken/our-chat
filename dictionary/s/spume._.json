@@ -1,0 +1,18 @@
+{
+    "base": "spume",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "spume",
+    "n2": "spumes",
+    "n3": "the spume",
+    "n4": "the spumes",
+    "n5": "spume's",
+    "n6": "spumes'",
+    "n7": "a spume",
+    "n8": "many spumes"
+}

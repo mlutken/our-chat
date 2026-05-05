@@ -1,0 +1,18 @@
+{
+    "base": "shotgun",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "shotgun",
+    "n2": "shotguns",
+    "n3": "the shotgun",
+    "n4": "the shotguns",
+    "n5": "shotgun's",
+    "n6": "shotguns'",
+    "n7": "a shotgun",
+    "n8": "many shotguns"
+}

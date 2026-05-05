@@ -1,0 +1,18 @@
+{
+    "base": "growl",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "growl",
+    "n2": "growls",
+    "n3": "the growl",
+    "n4": "the growls",
+    "n5": "growl's",
+    "n6": "growls'",
+    "n7": "a growl",
+    "n8": "many growls"
+}

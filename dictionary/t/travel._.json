@@ -1,11 +1,24 @@
 {
     "base": "travel",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "travel",
     "v2": "traveled/travelled",
     "v3": "traveled/travelled",
     "v4": "traveling/travelling",
-    "v5": "travels/travels"
+    "v5": "travels/travels",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "travel",
+    "n2": "travels",
+    "n3": "the travel",
+    "n4": "the travels",
+    "n5": "travel's",
+    "n6": "travels'",
+    "n7": "a travel",
+    "n8": "many travels"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "homebound",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "homebound",
+    "n2": "homebounds",
+    "n3": "the homebound",
+    "n4": "the homebounds",
+    "n5": "homebound's",
+    "n6": "homebounds'",
+    "n7": "a homebound",
+    "n8": "many homebounds"
+}

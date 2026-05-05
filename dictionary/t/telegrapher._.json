@@ -1,0 +1,18 @@
+{
+    "base": "telegrapher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "telegrapher",
+    "n2": "telegraphers",
+    "n3": "the telegrapher",
+    "n4": "the telegraphers",
+    "n5": "telegrapher's",
+    "n6": "telegraphers'",
+    "n7": "a telegrapher",
+    "n8": "many telegraphers"
+}

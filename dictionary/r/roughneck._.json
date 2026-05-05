@@ -1,0 +1,18 @@
+{
+    "base": "roughneck",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "roughneck",
+    "n2": "roughnecks",
+    "n3": "the roughneck",
+    "n4": "the roughnecks",
+    "n5": "roughneck's",
+    "n6": "roughnecks'",
+    "n7": "a roughneck",
+    "n8": "many roughnecks"
+}

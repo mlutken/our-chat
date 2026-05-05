@@ -1,0 +1,18 @@
+{
+    "base": "masculinity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "masculinity",
+    "n2": "masculinities",
+    "n3": "the masculinity",
+    "n4": "the masculinities",
+    "n5": "masculinity's",
+    "n6": "masculinities'",
+    "n7": "a masculinity",
+    "n8": "many masculinities"
+}

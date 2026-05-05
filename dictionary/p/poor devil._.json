@@ -1,0 +1,18 @@
+{
+    "base": "poor devil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "poor devil",
+    "n2": "poor devils",
+    "n3": "the poor devil",
+    "n4": "the poor devils",
+    "n5": "poor devil's",
+    "n6": "poor devils'",
+    "n7": "a poor devil",
+    "n8": "many poor devils"
+}

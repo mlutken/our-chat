@@ -1,0 +1,18 @@
+{
+    "base": "truculence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "truculence",
+    "n2": "truculences",
+    "n3": "the truculence",
+    "n4": "the truculences",
+    "n5": "truculence's",
+    "n6": "truculences'",
+    "n7": "a truculence",
+    "n8": "many truculences"
+}

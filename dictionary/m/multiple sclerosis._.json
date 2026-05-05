@@ -1,0 +1,18 @@
+{
+    "base": "multiple sclerosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "multiple sclerosis",
+    "n2": "multiple sclerosises",
+    "n3": "the multiple sclerosis",
+    "n4": "the multiple sclerosises",
+    "n5": "multiple sclerosis'",
+    "n6": "multiple sclerosises'",
+    "n7": "a multiple sclerosis",
+    "n8": "many multiple sclerosises"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "gravitational attraction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gravitational attraction",
+    "n2": "gravitational attractions",
+    "n3": "the gravitational attraction",
+    "n4": "the gravitational attractions",
+    "n5": "gravitational attraction's",
+    "n6": "gravitational attractions'",
+    "n7": "a gravitational attraction",
+    "n8": "many gravitational attractions"
+}

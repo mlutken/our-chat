@@ -1,0 +1,18 @@
+{
+    "base": "cowling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cowling",
+    "n2": "cowlings",
+    "n3": "the cowling",
+    "n4": "the cowlings",
+    "n5": "cowling's",
+    "n6": "cowlings'",
+    "n7": "a cowling",
+    "n8": "many cowlings"
+}

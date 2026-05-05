@@ -1,0 +1,18 @@
+{
+    "base": "sociologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sociologist",
+    "n2": "sociologists",
+    "n3": "the sociologist",
+    "n4": "the sociologists",
+    "n5": "sociologist's",
+    "n6": "sociologists'",
+    "n7": "a sociologist",
+    "n8": "many sociologists"
+}

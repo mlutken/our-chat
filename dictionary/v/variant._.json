@@ -1,0 +1,18 @@
+{
+    "base": "variant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "variant",
+    "n2": "variants",
+    "n3": "the variant",
+    "n4": "the variants",
+    "n5": "variant's",
+    "n6": "variants'",
+    "n7": "a variant",
+    "n8": "many variants"
+}

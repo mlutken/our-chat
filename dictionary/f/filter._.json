@@ -1,11 +1,24 @@
 {
     "base": "filter",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "filter",
     "v2": "filtered",
     "v3": "filtered",
     "v4": "filtering",
-    "v5": "filters"
+    "v5": "filters",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "filter",
+    "n2": "filters",
+    "n3": "the filter",
+    "n4": "the filters",
+    "n5": "filter's",
+    "n6": "filters'",
+    "n7": "a filter",
+    "n8": "many filters"
 }

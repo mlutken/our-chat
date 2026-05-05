@@ -1,0 +1,18 @@
+{
+    "base": "pseudophloem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pseudophloem",
+    "n2": "pseudophloems",
+    "n3": "the pseudophloem",
+    "n4": "the pseudophloems",
+    "n5": "pseudophloem's",
+    "n6": "pseudophloems'",
+    "n7": "a pseudophloem",
+    "n8": "many pseudophloems"
+}

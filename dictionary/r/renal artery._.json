@@ -1,0 +1,18 @@
+{
+    "base": "renal artery",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "renal artery",
+    "n2": "renal arteries",
+    "n3": "the renal artery",
+    "n4": "the renal arteries",
+    "n5": "renal artery's",
+    "n6": "renal arteries'",
+    "n7": "a renal artery",
+    "n8": "many renal arteries"
+}

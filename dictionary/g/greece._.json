@@ -1,0 +1,18 @@
+{
+    "base": "greece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "greece",
+    "n2": "greeces",
+    "n3": "the greece",
+    "n4": "the greeces",
+    "n5": "greece's",
+    "n6": "greeces'",
+    "n7": "a greece",
+    "n8": "many greeces"
+}

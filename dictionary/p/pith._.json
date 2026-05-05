@@ -1,0 +1,18 @@
+{
+    "base": "pith",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pith",
+    "n2": "piths",
+    "n3": "the pith",
+    "n4": "the piths",
+    "n5": "pith's",
+    "n6": "piths'",
+    "n7": "a pith",
+    "n8": "many piths"
+}

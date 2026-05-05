@@ -1,0 +1,18 @@
+{
+    "base": "contractor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "contractor",
+    "n2": "contractors",
+    "n3": "the contractor",
+    "n4": "the contractors",
+    "n5": "contractor's",
+    "n6": "contractors'",
+    "n7": "a contractor",
+    "n8": "many contractors"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "master bedroom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "master bedroom",
+    "n2": "master bedrooms",
+    "n3": "the master bedroom",
+    "n4": "the master bedrooms",
+    "n5": "master bedroom's",
+    "n6": "master bedrooms'",
+    "n7": "a master bedroom",
+    "n8": "many master bedrooms"
+}

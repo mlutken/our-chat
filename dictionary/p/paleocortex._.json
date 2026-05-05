@@ -1,0 +1,18 @@
+{
+    "base": "paleocortex",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paleocortex",
+    "n2": "paleocortexes",
+    "n3": "the paleocortex",
+    "n4": "the paleocortexes",
+    "n5": "paleocortex's",
+    "n6": "paleocortexes'",
+    "n7": "a paleocortex",
+    "n8": "many paleocortexes"
+}

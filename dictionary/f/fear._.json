@@ -1,11 +1,24 @@
 {
     "base": "fear",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "fear",
     "v2": "feared",
     "v3": "feared",
     "v4": "fearing",
-    "v5": "fears"
+    "v5": "fears",
+    "proper": false,
+    "commonness": 80,
+    "max_commonness": 6834,
+    "commonness_ge_count": 166,
+    "n1": "fear",
+    "n2": "fears",
+    "n3": "the fear",
+    "n4": "the fears",
+    "n5": "fear's",
+    "n6": "fears'",
+    "n7": "a fear",
+    "n8": "many fears"
 }

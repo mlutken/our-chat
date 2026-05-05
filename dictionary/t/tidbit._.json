@@ -1,0 +1,18 @@
+{
+    "base": "tidbit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tidbit",
+    "n2": "tidbits",
+    "n3": "the tidbit",
+    "n4": "the tidbits",
+    "n5": "tidbit's",
+    "n6": "tidbits'",
+    "n7": "a tidbit",
+    "n8": "many tidbits"
+}

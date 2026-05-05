@@ -1,0 +1,18 @@
+{
+    "base": "stature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "stature",
+    "n2": "statures",
+    "n3": "the stature",
+    "n4": "the statures",
+    "n5": "stature's",
+    "n6": "statures'",
+    "n7": "a stature",
+    "n8": "many statures"
+}

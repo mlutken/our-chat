@@ -1,0 +1,18 @@
+{
+    "base": "cigar box",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cigar box",
+    "n2": "cigar boxes",
+    "n3": "the cigar box",
+    "n4": "the cigar boxes",
+    "n5": "cigar box's",
+    "n6": "cigar boxes'",
+    "n7": "a cigar box",
+    "n8": "many cigar boxes"
+}

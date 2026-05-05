@@ -1,0 +1,18 @@
+{
+    "base": "fibrous tissue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "fibrous tissue",
+    "n2": "fibrous tissues",
+    "n3": "the fibrous tissue",
+    "n4": "the fibrous tissues",
+    "n5": "fibrous tissue's",
+    "n6": "fibrous tissues'",
+    "n7": "a fibrous tissue",
+    "n8": "many fibrous tissues"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "accenting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "accenting",
+    "n2": "accentings",
+    "n3": "the accenting",
+    "n4": "the accentings",
+    "n5": "accenting's",
+    "n6": "accentings'",
+    "n7": "an accenting",
+    "n8": "many accentings"
+}

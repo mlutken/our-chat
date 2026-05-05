@@ -1,0 +1,18 @@
+{
+    "base": "piano lesson",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piano lesson",
+    "n2": "piano lessons",
+    "n3": "the piano lesson",
+    "n4": "the piano lessons",
+    "n5": "piano lesson's",
+    "n6": "piano lessons'",
+    "n7": "a piano lesson",
+    "n8": "many piano lessons"
+}

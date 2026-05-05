@@ -1,0 +1,18 @@
+{
+    "base": "absolute temperature",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "absolute temperature",
+    "n2": "absolute temperatures",
+    "n3": "the absolute temperature",
+    "n4": "the absolute temperatures",
+    "n5": "absolute temperature's",
+    "n6": "absolute temperatures'",
+    "n7": "an absolute temperature",
+    "n8": "many absolute temperatures"
+}

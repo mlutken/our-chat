@@ -1,0 +1,18 @@
+{
+    "base": "closed interval",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "closed interval",
+    "n2": "closed intervals",
+    "n3": "the closed interval",
+    "n4": "the closed intervals",
+    "n5": "closed interval's",
+    "n6": "closed intervals'",
+    "n7": "a closed interval",
+    "n8": "many closed intervals"
+}

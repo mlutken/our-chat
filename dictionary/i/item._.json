@@ -7,5 +7,12 @@
     "n2": "items",
     "n3": "the item",
     "n4": "the items",
-    "n5": "item's"
+    "n5": "item's",
+    "proper": false,
+    "commonness": 65,
+    "max_commonness": 6834,
+    "commonness_ge_count": 236,
+    "n6": "items'",
+    "n7": "an item",
+    "n8": "many items"
 }

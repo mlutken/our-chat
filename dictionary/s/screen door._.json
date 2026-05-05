@@ -1,0 +1,18 @@
+{
+    "base": "screen door",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "screen door",
+    "n2": "screen doors",
+    "n3": "the screen door",
+    "n4": "the screen doors",
+    "n5": "screen door's",
+    "n6": "screen doors'",
+    "n7": "a screen door",
+    "n8": "many screen doors"
+}

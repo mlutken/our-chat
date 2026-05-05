@@ -1,0 +1,18 @@
+{
+    "base": "retraining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "retraining",
+    "n2": "retrainings",
+    "n3": "the retraining",
+    "n4": "the retrainings",
+    "n5": "retraining's",
+    "n6": "retrainings'",
+    "n7": "a retraining",
+    "n8": "many retrainings"
+}

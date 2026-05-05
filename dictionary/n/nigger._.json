@@ -1,0 +1,18 @@
+{
+    "base": "nigger",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n1": "nigger",
+    "n2": "niggers",
+    "n3": "the nigger",
+    "n4": "the niggers",
+    "n5": "nigger's",
+    "n6": "niggers'",
+    "n7": "a nigger",
+    "n8": "many niggers"
+}

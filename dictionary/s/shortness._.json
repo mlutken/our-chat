@@ -1,0 +1,18 @@
+{
+    "base": "shortness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shortness",
+    "n2": "shortnesses",
+    "n3": "the shortness",
+    "n4": "the shortnesses",
+    "n5": "shortness'",
+    "n6": "shortnesses'",
+    "n7": "a shortness",
+    "n8": "many shortnesses"
+}

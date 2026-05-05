@@ -1,0 +1,18 @@
+{
+    "base": "marbleizing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marbleizing",
+    "n2": "marbleizings",
+    "n3": "the marbleizing",
+    "n4": "the marbleizings",
+    "n5": "marbleizing's",
+    "n6": "marbleizings'",
+    "n7": "a marbleizing",
+    "n8": "many marbleizings"
+}

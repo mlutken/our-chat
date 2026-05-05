@@ -7,5 +7,12 @@
     "n2": "entertainments",
     "n3": "the entertainment",
     "n4": "the entertainments",
-    "n5": "entertainment's"
+    "n5": "entertainment's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "entertainments'",
+    "n7": "an entertainment",
+    "n8": "many entertainments"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "rice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "rice",
+    "n2": "rices",
+    "n3": "the rice",
+    "n4": "the rices",
+    "n5": "rice's",
+    "n6": "rices'",
+    "n7": "a rice",
+    "n8": "many rices"
+}

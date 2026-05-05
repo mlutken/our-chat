@@ -1,0 +1,18 @@
+{
+    "base": "morsel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "morsel",
+    "n2": "morsels",
+    "n3": "the morsel",
+    "n4": "the morsels",
+    "n5": "morsel's",
+    "n6": "morsels'",
+    "n7": "a morsel",
+    "n8": "many morsels"
+}

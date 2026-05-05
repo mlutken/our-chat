@@ -1,0 +1,18 @@
+{
+    "base": "utterance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "utterance",
+    "n2": "utterances",
+    "n3": "the utterance",
+    "n4": "the utterances",
+    "n5": "utterance's",
+    "n6": "utterances'",
+    "n7": "an utterance",
+    "n8": "many utterances"
+}

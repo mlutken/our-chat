@@ -1,0 +1,18 @@
+{
+    "base": "projectile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "projectile",
+    "n2": "projectiles",
+    "n3": "the projectile",
+    "n4": "the projectiles",
+    "n5": "projectile's",
+    "n6": "projectiles'",
+    "n7": "a projectile",
+    "n8": "many projectiles"
+}

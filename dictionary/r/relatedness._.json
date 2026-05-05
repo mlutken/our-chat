@@ -1,0 +1,18 @@
+{
+    "base": "relatedness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "relatedness",
+    "n2": "relatednesses",
+    "n3": "the relatedness",
+    "n4": "the relatednesses",
+    "n5": "relatedness'",
+    "n6": "relatednesses'",
+    "n7": "a relatedness",
+    "n8": "many relatednesses"
+}

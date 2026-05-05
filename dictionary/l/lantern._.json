@@ -1,0 +1,18 @@
+{
+    "base": "lantern",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "lantern",
+    "n2": "lanterns",
+    "n3": "the lantern",
+    "n4": "the lanterns",
+    "n5": "lantern's",
+    "n6": "lanterns'",
+    "n7": "a lantern",
+    "n8": "many lanterns"
+}

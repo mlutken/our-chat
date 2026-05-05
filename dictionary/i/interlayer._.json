@@ -1,0 +1,18 @@
+{
+    "base": "interlayer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "interlayer",
+    "n2": "interlayers",
+    "n3": "the interlayer",
+    "n4": "the interlayers",
+    "n5": "interlayer's",
+    "n6": "interlayers'",
+    "n7": "an interlayer",
+    "n8": "many interlayers"
+}

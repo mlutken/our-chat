@@ -1,0 +1,18 @@
+{
+    "base": "racine",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "racine",
+    "n2": "racines",
+    "n3": "the racine",
+    "n4": "the racines",
+    "n5": "racine's",
+    "n6": "racines'",
+    "n7": "a racine",
+    "n8": "many racines"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ducking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ducking",
+    "n2": "duckings",
+    "n3": "the ducking",
+    "n4": "the duckings",
+    "n5": "ducking's",
+    "n6": "duckings'",
+    "n7": "a ducking",
+    "n8": "many duckings"
+}

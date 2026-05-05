@@ -1,0 +1,18 @@
+{
+    "base": "adjudication",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "adjudication",
+    "n2": "adjudications",
+    "n3": "the adjudication",
+    "n4": "the adjudications",
+    "n5": "adjudication's",
+    "n6": "adjudications'",
+    "n7": "an adjudication",
+    "n8": "many adjudications"
+}

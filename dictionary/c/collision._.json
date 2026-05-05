@@ -1,0 +1,18 @@
+{
+    "base": "collision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "collision",
+    "n2": "collisions",
+    "n3": "the collision",
+    "n4": "the collisions",
+    "n5": "collision's",
+    "n6": "collisions'",
+    "n7": "a collision",
+    "n8": "many collisions"
+}

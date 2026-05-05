@@ -1,0 +1,18 @@
+{
+    "base": "chatter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chatter",
+    "n2": "chatters",
+    "n3": "the chatter",
+    "n4": "the chatters",
+    "n5": "chatter's",
+    "n6": "chatters'",
+    "n7": "a chatter",
+    "n8": "many chatters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "utility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "utility",
+    "n2": "utilities",
+    "n3": "the utility",
+    "n4": "the utilities",
+    "n5": "utility's",
+    "n6": "utilities'",
+    "n7": "an utility",
+    "n8": "many utilities"
+}

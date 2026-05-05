@@ -1,0 +1,18 @@
+{
+    "base": "hissing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hissing",
+    "n2": "hissings",
+    "n3": "the hissing",
+    "n4": "the hissings",
+    "n5": "hissing's",
+    "n6": "hissings'",
+    "n7": "a hissing",
+    "n8": "many hissings"
+}

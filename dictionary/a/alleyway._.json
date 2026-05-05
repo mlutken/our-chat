@@ -1,0 +1,18 @@
+{
+    "base": "alleyway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alleyway",
+    "n2": "alleyways",
+    "n3": "the alleyway",
+    "n4": "the alleyways",
+    "n5": "alleyway's",
+    "n6": "alleyways'",
+    "n7": "an alleyway",
+    "n8": "many alleyways"
+}

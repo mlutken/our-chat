@@ -1,0 +1,18 @@
+{
+    "base": "husbandry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "husbandry",
+    "n2": "husbandries",
+    "n3": "the husbandry",
+    "n4": "the husbandries",
+    "n5": "husbandry's",
+    "n6": "husbandries'",
+    "n7": "a husbandry",
+    "n8": "many husbandries"
+}

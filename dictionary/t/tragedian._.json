@@ -1,0 +1,18 @@
+{
+    "base": "tragedian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tragedian",
+    "n2": "tragedians",
+    "n3": "the tragedian",
+    "n4": "the tragedians",
+    "n5": "tragedian's",
+    "n6": "tragedians'",
+    "n7": "a tragedian",
+    "n8": "many tragedians"
+}

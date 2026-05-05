@@ -1,11 +1,24 @@
 {
     "base": "give",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "give",
     "v2": "gave",
     "v3": "given",
     "v4": "giving",
-    "v5": "gives"
+    "v5": "gives",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "give",
+    "n2": "gives",
+    "n3": "the give",
+    "n4": "the gives",
+    "n5": "give's",
+    "n6": "gives'",
+    "n7": "a give",
+    "n8": "many gives"
 }

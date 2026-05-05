@@ -1,0 +1,18 @@
+{
+    "base": "leading man",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leading man",
+    "n2": "leading mans",
+    "n3": "the leading man",
+    "n4": "the leading mans",
+    "n5": "leading man's",
+    "n6": "leading mans'",
+    "n7": "a leading man",
+    "n8": "many leading mans"
+}

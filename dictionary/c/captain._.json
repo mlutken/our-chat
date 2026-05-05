@@ -1,0 +1,18 @@
+{
+    "base": "captain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "captain",
+    "n2": "captains",
+    "n3": "the captain",
+    "n4": "the captains",
+    "n5": "captain's",
+    "n6": "captains'",
+    "n7": "a captain",
+    "n8": "many captains"
+}

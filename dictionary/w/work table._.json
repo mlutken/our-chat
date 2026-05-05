@@ -1,0 +1,18 @@
+{
+    "base": "work table",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "work table",
+    "n2": "work tables",
+    "n3": "the work table",
+    "n4": "the work tables",
+    "n5": "work table's",
+    "n6": "work tables'",
+    "n7": "a work table",
+    "n8": "many work tables"
+}

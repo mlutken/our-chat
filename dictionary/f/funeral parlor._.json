@@ -1,0 +1,18 @@
+{
+    "base": "funeral parlor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "funeral parlor",
+    "n2": "funeral parlors",
+    "n3": "the funeral parlor",
+    "n4": "the funeral parlors",
+    "n5": "funeral parlor's",
+    "n6": "funeral parlors'",
+    "n7": "a funeral parlor",
+    "n8": "many funeral parlors"
+}

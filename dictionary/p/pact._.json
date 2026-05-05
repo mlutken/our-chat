@@ -1,0 +1,18 @@
+{
+    "base": "pact",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pact",
+    "n2": "pacts",
+    "n3": "the pact",
+    "n4": "the pacts",
+    "n5": "pact's",
+    "n6": "pacts'",
+    "n7": "a pact",
+    "n8": "many pacts"
+}

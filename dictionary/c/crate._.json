@@ -1,0 +1,18 @@
+{
+    "base": "crate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "crate",
+    "n2": "crates",
+    "n3": "the crate",
+    "n4": "the crates",
+    "n5": "crate's",
+    "n6": "crates'",
+    "n7": "a crate",
+    "n8": "many crates"
+}

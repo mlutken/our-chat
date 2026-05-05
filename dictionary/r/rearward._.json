@@ -1,0 +1,18 @@
+{
+    "base": "rearward",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rearward",
+    "n2": "rearwards",
+    "n3": "the rearward",
+    "n4": "the rearwards",
+    "n5": "rearward's",
+    "n6": "rearwards'",
+    "n7": "a rearward",
+    "n8": "many rearwards"
+}

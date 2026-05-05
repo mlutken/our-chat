@@ -7,5 +7,12 @@
     "n2": "celebrations",
     "n3": "the celebration",
     "n4": "the celebrations",
-    "n5": "celebration's"
+    "n5": "celebration's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "celebrations'",
+    "n7": "a celebration",
+    "n8": "many celebrations"
 }

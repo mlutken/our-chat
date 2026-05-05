@@ -1,0 +1,18 @@
+{
+    "base": "felon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "felon",
+    "n2": "felons",
+    "n3": "the felon",
+    "n4": "the felons",
+    "n5": "felon's",
+    "n6": "felons'",
+    "n7": "a felon",
+    "n8": "many felons"
+}

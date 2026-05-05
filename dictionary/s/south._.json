@@ -1,0 +1,18 @@
+{
+    "base": "south",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 46,
+    "max_commonness": 6834,
+    "commonness_ge_count": 367,
+    "n1": "south",
+    "n2": "souths",
+    "n3": "the south",
+    "n4": "the souths",
+    "n5": "south's",
+    "n6": "souths'",
+    "n7": "a south",
+    "n8": "many souths"
+}

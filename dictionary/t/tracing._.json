@@ -1,0 +1,18 @@
+{
+    "base": "tracing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "tracing",
+    "n2": "tracings",
+    "n3": "the tracing",
+    "n4": "the tracings",
+    "n5": "tracing's",
+    "n6": "tracings'",
+    "n7": "a tracing",
+    "n8": "many tracings"
+}

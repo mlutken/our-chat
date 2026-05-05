@@ -1,0 +1,18 @@
+{
+    "base": "tibet",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tibet",
+    "n2": "tibets",
+    "n3": "the tibet",
+    "n4": "the tibets",
+    "n5": "tibet's",
+    "n6": "tibets'",
+    "n7": "a tibet",
+    "n8": "many tibets"
+}

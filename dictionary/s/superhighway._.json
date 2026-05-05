@@ -1,0 +1,18 @@
+{
+    "base": "superhighway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "superhighway",
+    "n2": "superhighways",
+    "n3": "the superhighway",
+    "n4": "the superhighways",
+    "n5": "superhighway's",
+    "n6": "superhighways'",
+    "n7": "a superhighway",
+    "n8": "many superhighways"
+}

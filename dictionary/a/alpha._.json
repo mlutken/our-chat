@@ -1,0 +1,18 @@
+{
+    "base": "alpha",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "alpha",
+    "n2": "alphas",
+    "n3": "the alpha",
+    "n4": "the alphas",
+    "n5": "alpha's",
+    "n6": "alphas'",
+    "n7": "an alpha",
+    "n8": "many alphas"
+}

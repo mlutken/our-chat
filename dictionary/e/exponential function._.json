@@ -1,0 +1,18 @@
+{
+    "base": "exponential function",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "exponential function",
+    "n2": "exponential functions",
+    "n3": "the exponential function",
+    "n4": "the exponential functions",
+    "n5": "exponential function's",
+    "n6": "exponential functions'",
+    "n7": "an exponential function",
+    "n8": "many exponential functions"
+}

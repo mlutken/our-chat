@@ -1,0 +1,18 @@
+{
+    "base": "leg of lamb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leg of lamb",
+    "n2": "leg of lambs",
+    "n3": "the leg of lamb",
+    "n4": "the leg of lambs",
+    "n5": "leg of lamb's",
+    "n6": "leg of lambs'",
+    "n7": "a leg of lamb",
+    "n8": "many leg of lambs"
+}

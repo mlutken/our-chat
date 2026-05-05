@@ -1,0 +1,18 @@
+{
+    "base": "biologist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "biologist",
+    "n2": "biologists",
+    "n3": "the biologist",
+    "n4": "the biologists",
+    "n5": "biologist's",
+    "n6": "biologists'",
+    "n7": "a biologist",
+    "n8": "many biologists"
+}

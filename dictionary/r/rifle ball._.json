@@ -1,0 +1,18 @@
+{
+    "base": "rifle ball",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rifle ball",
+    "n2": "rifle balls",
+    "n3": "the rifle ball",
+    "n4": "the rifle balls",
+    "n5": "rifle ball's",
+    "n6": "rifle balls'",
+    "n7": "a rifle ball",
+    "n8": "many rifle balls"
+}

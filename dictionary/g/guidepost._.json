@@ -1,0 +1,18 @@
+{
+    "base": "guidepost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "guidepost",
+    "n2": "guideposts",
+    "n3": "the guidepost",
+    "n4": "the guideposts",
+    "n5": "guidepost's",
+    "n6": "guideposts'",
+    "n7": "a guidepost",
+    "n8": "many guideposts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "madness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "madness",
+    "n2": "madnesses",
+    "n3": "the madness",
+    "n4": "the madnesses",
+    "n5": "madness'",
+    "n6": "madnesses'",
+    "n7": "a madness",
+    "n8": "many madnesses"
+}

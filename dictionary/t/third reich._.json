@@ -1,0 +1,18 @@
+{
+    "base": "third reich",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "third reich",
+    "n2": "third reiches",
+    "n3": "the third reich",
+    "n4": "the third reiches",
+    "n5": "third reich's",
+    "n6": "third reiches'",
+    "n7": "a third reich",
+    "n8": "many third reiches"
+}

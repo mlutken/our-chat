@@ -1,0 +1,18 @@
+{
+    "base": "guts",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "guts",
+    "n2": "gutses",
+    "n3": "the guts",
+    "n4": "the gutses",
+    "n5": "guts'",
+    "n6": "gutses'",
+    "n7": "a guts",
+    "n8": "many gutses"
+}

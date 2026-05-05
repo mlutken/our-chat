@@ -1,0 +1,18 @@
+{
+    "base": "road game",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "road game",
+    "n2": "road games",
+    "n3": "the road game",
+    "n4": "the road games",
+    "n5": "road game's",
+    "n6": "road games'",
+    "n7": "a road game",
+    "n8": "many road games"
+}

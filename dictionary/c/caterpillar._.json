@@ -1,0 +1,18 @@
+{
+    "base": "caterpillar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caterpillar",
+    "n2": "caterpillars",
+    "n3": "the caterpillar",
+    "n4": "the caterpillars",
+    "n5": "caterpillar's",
+    "n6": "caterpillars'",
+    "n7": "a caterpillar",
+    "n8": "many caterpillars"
+}

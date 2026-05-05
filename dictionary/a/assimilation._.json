@@ -1,0 +1,18 @@
+{
+    "base": "assimilation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "assimilation",
+    "n2": "assimilations",
+    "n3": "the assimilation",
+    "n4": "the assimilations",
+    "n5": "assimilation's",
+    "n6": "assimilations'",
+    "n7": "an assimilation",
+    "n8": "many assimilations"
+}

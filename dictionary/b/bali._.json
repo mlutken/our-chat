@@ -1,0 +1,18 @@
+{
+    "base": "bali",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bali",
+    "n2": "balis",
+    "n3": "the bali",
+    "n4": "the balis",
+    "n5": "bali's",
+    "n6": "balis'",
+    "n7": "a bali",
+    "n8": "many balis"
+}

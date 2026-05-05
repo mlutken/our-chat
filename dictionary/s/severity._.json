@@ -1,0 +1,18 @@
+{
+    "base": "severity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "severity",
+    "n2": "severities",
+    "n3": "the severity",
+    "n4": "the severities",
+    "n5": "severity's",
+    "n6": "severities'",
+    "n7": "a severity",
+    "n8": "many severities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "whit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whit",
+    "n2": "whits",
+    "n3": "the whit",
+    "n4": "the whits",
+    "n5": "whit's",
+    "n6": "whits'",
+    "n7": "a whit",
+    "n8": "many whits"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "yank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "yank",
+    "n2": "yanks",
+    "n3": "the yank",
+    "n4": "the yanks",
+    "n5": "yank's",
+    "n6": "yanks'",
+    "n7": "a yank",
+    "n8": "many yanks"
+}

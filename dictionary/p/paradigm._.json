@@ -1,0 +1,18 @@
+{
+    "base": "paradigm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "paradigm",
+    "n2": "paradigms",
+    "n3": "the paradigm",
+    "n4": "the paradigms",
+    "n5": "paradigm's",
+    "n6": "paradigms'",
+    "n7": "a paradigm",
+    "n8": "many paradigms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "team spirit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "team spirit",
+    "n2": "team spirits",
+    "n3": "the team spirit",
+    "n4": "the team spirits",
+    "n5": "team spirit's",
+    "n6": "team spirits'",
+    "n7": "a team spirit",
+    "n8": "many team spirits"
+}

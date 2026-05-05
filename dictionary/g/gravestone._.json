@@ -1,0 +1,18 @@
+{
+    "base": "gravestone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gravestone",
+    "n2": "gravestones",
+    "n3": "the gravestone",
+    "n4": "the gravestones",
+    "n5": "gravestone's",
+    "n6": "gravestones'",
+    "n7": "a gravestone",
+    "n8": "many gravestones"
+}

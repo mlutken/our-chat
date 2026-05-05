@@ -7,5 +7,12 @@
     "n2": "benefits",
     "n3": "the benefit",
     "n4": "the benefits",
-    "n5": "benefit's"
+    "n5": "benefit's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "benefits'",
+    "n7": "a benefit",
+    "n8": "many benefits"
 }

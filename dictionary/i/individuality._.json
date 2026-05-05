@@ -1,0 +1,18 @@
+{
+    "base": "individuality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "individuality",
+    "n2": "individualities",
+    "n3": "the individuality",
+    "n4": "the individualities",
+    "n5": "individuality's",
+    "n6": "individualities'",
+    "n7": "an individuality",
+    "n8": "many individualities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bandoleer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bandoleer",
+    "n2": "bandoleers",
+    "n3": "the bandoleer",
+    "n4": "the bandoleers",
+    "n5": "bandoleer's",
+    "n6": "bandoleers'",
+    "n7": "a bandoleer",
+    "n8": "many bandoleers"
+}

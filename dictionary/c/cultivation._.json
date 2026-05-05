@@ -1,0 +1,18 @@
+{
+    "base": "cultivation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "cultivation",
+    "n2": "cultivations",
+    "n3": "the cultivation",
+    "n4": "the cultivations",
+    "n5": "cultivation's",
+    "n6": "cultivations'",
+    "n7": "a cultivation",
+    "n8": "many cultivations"
+}

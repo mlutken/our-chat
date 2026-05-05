@@ -1,11 +1,24 @@
 {
     "base": "murder",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "murder",
     "v2": "murdered",
     "v3": "murdered",
     "v4": "murdering",
-    "v5": "murders"
+    "v5": "murders",
+    "proper": false,
+    "commonness": 45,
+    "max_commonness": 6834,
+    "commonness_ge_count": 380,
+    "n1": "murder",
+    "n2": "murders",
+    "n3": "the murder",
+    "n4": "the murders",
+    "n5": "murder's",
+    "n6": "murders'",
+    "n7": "a murder",
+    "n8": "many murders"
 }

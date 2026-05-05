@@ -1,0 +1,18 @@
+{
+    "base": "loading",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "loading",
+    "n2": "loadings",
+    "n3": "the loading",
+    "n4": "the loadings",
+    "n5": "loading's",
+    "n6": "loadings'",
+    "n7": "a loading",
+    "n8": "many loadings"
+}

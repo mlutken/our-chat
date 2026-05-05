@@ -1,0 +1,18 @@
+{
+    "base": "paean",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "paean",
+    "n2": "paeans",
+    "n3": "the paean",
+    "n4": "the paeans",
+    "n5": "paean's",
+    "n6": "paeans'",
+    "n7": "a paean",
+    "n8": "many paeans"
+}

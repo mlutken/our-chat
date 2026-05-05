@@ -1,0 +1,18 @@
+{
+    "base": "coupon",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "coupon",
+    "n2": "coupons",
+    "n3": "the coupon",
+    "n4": "the coupons",
+    "n5": "coupon's",
+    "n6": "coupons'",
+    "n7": "a coupon",
+    "n8": "many coupons"
+}

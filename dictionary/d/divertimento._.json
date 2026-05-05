@@ -1,0 +1,18 @@
+{
+    "base": "divertimento",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "divertimento",
+    "n2": "divertimenti",
+    "n3": "the divertimento",
+    "n4": "the divertimenti",
+    "n5": "divertimento's",
+    "n6": "divertimenti's",
+    "n7": "a divertimento",
+    "n8": "many divertimenti"
+}

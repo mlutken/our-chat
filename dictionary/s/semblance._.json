@@ -1,0 +1,18 @@
+{
+    "base": "semblance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "semblance",
+    "n2": "semblances",
+    "n3": "the semblance",
+    "n4": "the semblances",
+    "n5": "semblance's",
+    "n6": "semblances'",
+    "n7": "a semblance",
+    "n8": "many semblances"
+}

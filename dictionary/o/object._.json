@@ -13,5 +13,12 @@
     "v2": "objected",
     "v3": "objected",
     "v4": "objecting",
-    "v5": "objects"
+    "v5": "objects",
+    "proper": false,
+    "commonness": 57,
+    "max_commonness": 6834,
+    "commonness_ge_count": 273,
+    "n6": "objects'",
+    "n7": "an object",
+    "n8": "many objects"
 }

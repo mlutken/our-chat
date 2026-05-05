@@ -1,0 +1,18 @@
+{
+    "base": "evangelist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "evangelist",
+    "n2": "evangelists",
+    "n3": "the evangelist",
+    "n4": "the evangelists",
+    "n5": "evangelist's",
+    "n6": "evangelists'",
+    "n7": "an evangelist",
+    "n8": "many evangelists"
+}

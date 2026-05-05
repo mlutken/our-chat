@@ -1,0 +1,18 @@
+{
+    "base": "quirt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "quirt",
+    "n2": "quirts",
+    "n3": "the quirt",
+    "n4": "the quirts",
+    "n5": "quirt's",
+    "n6": "quirts'",
+    "n7": "a quirt",
+    "n8": "many quirts"
+}

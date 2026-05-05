@@ -1,0 +1,18 @@
+{
+    "base": "dresser",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dresser",
+    "n2": "dressers",
+    "n3": "the dresser",
+    "n4": "the dressers",
+    "n5": "dresser's",
+    "n6": "dressers'",
+    "n7": "a dresser",
+    "n8": "many dressers"
+}

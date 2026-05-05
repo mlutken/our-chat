@@ -1,0 +1,18 @@
+{
+    "base": "public law",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "public law",
+    "n2": "public laws",
+    "n3": "the public law",
+    "n4": "the public laws",
+    "n5": "public law's",
+    "n6": "public laws'",
+    "n7": "a public law",
+    "n8": "many public laws"
+}

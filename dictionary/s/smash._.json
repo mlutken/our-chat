@@ -1,0 +1,18 @@
+{
+    "base": "smash",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "smash",
+    "n2": "smashes",
+    "n3": "the smash",
+    "n4": "the smashes",
+    "n5": "smash's",
+    "n6": "smashes'",
+    "n7": "a smash",
+    "n8": "many smashes"
+}

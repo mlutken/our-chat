@@ -7,5 +7,12 @@
     "n2": "strangers",
     "n3": "the stranger",
     "n4": "the strangers",
-    "n5": "stranger's"
+    "n5": "stranger's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "strangers'",
+    "n7": "a stranger",
+    "n8": "many strangers"
 }

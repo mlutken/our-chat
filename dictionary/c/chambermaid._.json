@@ -1,0 +1,18 @@
+{
+    "base": "chambermaid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "chambermaid",
+    "n2": "chambermaids",
+    "n3": "the chambermaid",
+    "n4": "the chambermaids",
+    "n5": "chambermaid's",
+    "n6": "chambermaids'",
+    "n7": "a chambermaid",
+    "n8": "many chambermaids"
+}

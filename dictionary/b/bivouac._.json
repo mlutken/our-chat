@@ -1,0 +1,18 @@
+{
+    "base": "bivouac",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bivouac",
+    "n2": "bivouacs",
+    "n3": "the bivouac",
+    "n4": "the bivouacs",
+    "n5": "bivouac's",
+    "n6": "bivouacs'",
+    "n7": "a bivouac",
+    "n8": "many bivouacs"
+}

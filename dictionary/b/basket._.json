@@ -7,5 +7,12 @@
     "n2": "baskets",
     "n3": "the basket",
     "n4": "the baskets",
-    "n5": "basket's"
+    "n5": "basket's",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n6": "baskets'",
+    "n7": "a basket",
+    "n8": "many baskets"
 }

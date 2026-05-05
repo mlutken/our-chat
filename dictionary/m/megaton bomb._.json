@@ -1,0 +1,18 @@
+{
+    "base": "megaton bomb",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "megaton bomb",
+    "n2": "megaton bombs",
+    "n3": "the megaton bomb",
+    "n4": "the megaton bombs",
+    "n5": "megaton bomb's",
+    "n6": "megaton bombs'",
+    "n7": "a megaton bomb",
+    "n8": "many megaton bombs"
+}

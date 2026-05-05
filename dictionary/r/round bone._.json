@@ -1,0 +1,18 @@
+{
+    "base": "round bone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "round bone",
+    "n2": "round bones",
+    "n3": "the round bone",
+    "n4": "the round bones",
+    "n5": "round bone's",
+    "n6": "round bones'",
+    "n7": "a round bone",
+    "n8": "many round bones"
+}

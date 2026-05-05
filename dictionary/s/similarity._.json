@@ -1,0 +1,18 @@
+{
+    "base": "similarity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "similarity",
+    "n2": "similarities",
+    "n3": "the similarity",
+    "n4": "the similarities",
+    "n5": "similarity's",
+    "n6": "similarities'",
+    "n7": "a similarity",
+    "n8": "many similarities"
+}

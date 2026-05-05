@@ -1,0 +1,18 @@
+{
+    "base": "responsiveness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "responsiveness",
+    "n2": "responsivenesses",
+    "n3": "the responsiveness",
+    "n4": "the responsivenesses",
+    "n5": "responsiveness'",
+    "n6": "responsivenesses'",
+    "n7": "a responsiveness",
+    "n8": "many responsivenesses"
+}

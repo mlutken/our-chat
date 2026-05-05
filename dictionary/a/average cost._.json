@@ -1,0 +1,18 @@
+{
+    "base": "average cost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "average cost",
+    "n2": "average costs",
+    "n3": "the average cost",
+    "n4": "the average costs",
+    "n5": "average cost's",
+    "n6": "average costs'",
+    "n7": "an average cost",
+    "n8": "many average costs"
+}

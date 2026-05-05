@@ -1,0 +1,18 @@
+{
+    "base": "philanthropist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "philanthropist",
+    "n2": "philanthropists",
+    "n3": "the philanthropist",
+    "n4": "the philanthropists",
+    "n5": "philanthropist's",
+    "n6": "philanthropists'",
+    "n7": "a philanthropist",
+    "n8": "many philanthropists"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "land grant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "land grant",
+    "n2": "land grants",
+    "n3": "the land grant",
+    "n4": "the land grants",
+    "n5": "land grant's",
+    "n6": "land grants'",
+    "n7": "a land grant",
+    "n8": "many land grants"
+}

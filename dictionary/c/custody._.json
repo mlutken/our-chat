@@ -1,0 +1,18 @@
+{
+    "base": "custody",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "custody",
+    "n2": "custodies",
+    "n3": "the custody",
+    "n4": "the custodies",
+    "n5": "custody's",
+    "n6": "custodies'",
+    "n7": "a custody",
+    "n8": "many custodies"
+}

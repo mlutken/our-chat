@@ -1,0 +1,18 @@
+{
+    "base": "stainless steel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stainless steel",
+    "n2": "stainless steels",
+    "n3": "the stainless steel",
+    "n4": "the stainless steels",
+    "n5": "stainless steel's",
+    "n6": "stainless steels'",
+    "n7": "a stainless steel",
+    "n8": "many stainless steels"
+}

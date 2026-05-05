@@ -1,0 +1,18 @@
+{
+    "base": "instrument panel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "instrument panel",
+    "n2": "instrument panels",
+    "n3": "the instrument panel",
+    "n4": "the instrument panels",
+    "n5": "instrument panel's",
+    "n6": "instrument panels'",
+    "n7": "an instrument panel",
+    "n8": "many instrument panels"
+}

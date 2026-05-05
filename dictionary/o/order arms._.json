@@ -1,0 +1,18 @@
+{
+    "base": "order arms",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "order arms",
+    "n2": "order armses",
+    "n3": "the order arms",
+    "n4": "the order armses",
+    "n5": "order arms'",
+    "n6": "order armses'",
+    "n7": "an order arms",
+    "n8": "many order armses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "peculiarity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "peculiarity",
+    "n2": "peculiarities",
+    "n3": "the peculiarity",
+    "n4": "the peculiarities",
+    "n5": "peculiarity's",
+    "n6": "peculiarities'",
+    "n7": "a peculiarity",
+    "n8": "many peculiarities"
+}

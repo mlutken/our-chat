@@ -1,0 +1,18 @@
+{
+    "base": "showcase",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "showcase",
+    "n2": "showcases",
+    "n3": "the showcase",
+    "n4": "the showcases",
+    "n5": "showcase's",
+    "n6": "showcases'",
+    "n7": "a showcase",
+    "n8": "many showcases"
+}

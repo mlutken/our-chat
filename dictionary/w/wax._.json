@@ -1,0 +1,18 @@
+{
+    "base": "wax",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "wax",
+    "n2": "waxes",
+    "n3": "the wax",
+    "n4": "the waxes",
+    "n5": "wax's",
+    "n6": "waxes'",
+    "n7": "a wax",
+    "n8": "many waxes"
+}

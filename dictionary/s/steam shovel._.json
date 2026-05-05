@@ -1,0 +1,18 @@
+{
+    "base": "steam shovel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steam shovel",
+    "n2": "steam shovels",
+    "n3": "the steam shovel",
+    "n4": "the steam shovels",
+    "n5": "steam shovel's",
+    "n6": "steam shovels'",
+    "n7": "a steam shovel",
+    "n8": "many steam shovels"
+}

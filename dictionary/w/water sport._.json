@@ -1,0 +1,18 @@
+{
+    "base": "water sport",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "water sport",
+    "n2": "water sports",
+    "n3": "the water sport",
+    "n4": "the water sports",
+    "n5": "water sport's",
+    "n6": "water sports'",
+    "n7": "a water sport",
+    "n8": "many water sports"
+}

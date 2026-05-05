@@ -7,5 +7,12 @@
     "n2": "flexibilities",
     "n3": "the flexibility",
     "n4": "the flexibilities",
-    "n5": "flexibility's"
+    "n5": "flexibility's",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n6": "flexibilities'",
+    "n7": "a flexibility",
+    "n8": "many flexibilities"
 }

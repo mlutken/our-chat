@@ -1,0 +1,18 @@
+{
+    "base": "piazza",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "piazza",
+    "n2": "piazzas",
+    "n3": "the piazza",
+    "n4": "the piazzas",
+    "n5": "piazza's",
+    "n6": "piazzas'",
+    "n7": "a piazza",
+    "n8": "many piazzas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sore",
+    "n2": "sores",
+    "n3": "the sore",
+    "n4": "the sores",
+    "n5": "sore's",
+    "n6": "sores'",
+    "n7": "a sore",
+    "n8": "many sores"
+}

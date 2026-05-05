@@ -1,8 +1,21 @@
 {
     "base": "now",
     "classes": [
+        "n",
         "adv"
     ],
     "f0": "now",
-    "adv_subtype": "time"
+    "adv_subtype": "time",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "now",
+    "n2": "nows",
+    "n3": "the now",
+    "n4": "the nows",
+    "n5": "now's",
+    "n6": "nows'",
+    "n7": "a now",
+    "n8": "many nows"
 }

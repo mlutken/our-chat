@@ -1,0 +1,18 @@
+{
+    "base": "jew",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 55,
+    "max_commonness": 6834,
+    "commonness_ge_count": 287,
+    "n1": "jew",
+    "n2": "jews",
+    "n3": "the jew",
+    "n4": "the jews",
+    "n5": "jew's",
+    "n6": "jews'",
+    "n7": "a jew",
+    "n8": "many jews"
+}

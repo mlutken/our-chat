@@ -1,0 +1,18 @@
+{
+    "base": "rightfield",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "rightfield",
+    "n2": "rightfields",
+    "n3": "the rightfield",
+    "n4": "the rightfields",
+    "n5": "rightfield's",
+    "n6": "rightfields'",
+    "n7": "a rightfield",
+    "n8": "many rightfields"
+}

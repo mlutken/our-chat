@@ -1,0 +1,18 @@
+{
+    "base": "settlement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "settlement",
+    "n2": "settlements",
+    "n3": "the settlement",
+    "n4": "the settlements",
+    "n5": "settlement's",
+    "n6": "settlements'",
+    "n7": "a settlement",
+    "n8": "many settlements"
+}

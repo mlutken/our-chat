@@ -1,0 +1,18 @@
+{
+    "base": "thoreau",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thoreau",
+    "n2": "thoreaus",
+    "n3": "the thoreau",
+    "n4": "the thoreaus",
+    "n5": "thoreau's",
+    "n6": "thoreaus'",
+    "n7": "a thoreau",
+    "n8": "many thoreaus"
+}

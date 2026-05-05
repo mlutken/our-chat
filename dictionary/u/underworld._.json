@@ -1,0 +1,18 @@
+{
+    "base": "underworld",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "underworld",
+    "n2": "underworlds",
+    "n3": "the underworld",
+    "n4": "the underworlds",
+    "n5": "underworld's",
+    "n6": "underworlds'",
+    "n7": "an underworld",
+    "n8": "many underworlds"
+}

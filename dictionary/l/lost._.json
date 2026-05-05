@@ -1,0 +1,18 @@
+{
+    "base": "lost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lost",
+    "n2": "losts",
+    "n3": "the lost",
+    "n4": "the losts",
+    "n5": "lost's",
+    "n6": "losts'",
+    "n7": "a lost",
+    "n8": "many losts"
+}

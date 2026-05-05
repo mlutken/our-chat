@@ -1,0 +1,18 @@
+{
+    "base": "fixing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fixing",
+    "n2": "fixings",
+    "n3": "the fixing",
+    "n4": "the fixings",
+    "n5": "fixing's",
+    "n6": "fixings'",
+    "n7": "a fixing",
+    "n8": "many fixings"
+}

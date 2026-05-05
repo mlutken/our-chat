@@ -1,0 +1,18 @@
+{
+    "base": "superlative",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "superlative",
+    "n2": "superlatives",
+    "n3": "the superlative",
+    "n4": "the superlatives",
+    "n5": "superlative's",
+    "n6": "superlatives'",
+    "n7": "a superlative",
+    "n8": "many superlatives"
+}

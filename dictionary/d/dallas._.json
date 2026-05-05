@@ -1,0 +1,18 @@
+{
+    "base": "dallas",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "dallas",
+    "n2": "dallases",
+    "n3": "the dallas",
+    "n4": "the dallases",
+    "n5": "dallas'",
+    "n6": "dallases'",
+    "n7": "a dallas",
+    "n8": "many dallases"
+}

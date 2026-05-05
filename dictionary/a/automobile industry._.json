@@ -1,0 +1,18 @@
+{
+    "base": "automobile industry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "automobile industry",
+    "n2": "automobile industries",
+    "n3": "the automobile industry",
+    "n4": "the automobile industries",
+    "n5": "automobile industry's",
+    "n6": "automobile industries'",
+    "n7": "an automobile industry",
+    "n8": "many automobile industries"
+}

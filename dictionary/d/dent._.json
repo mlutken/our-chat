@@ -1,0 +1,18 @@
+{
+    "base": "dent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dent",
+    "n2": "dents",
+    "n3": "the dent",
+    "n4": "the dents",
+    "n5": "dent's",
+    "n6": "dents'",
+    "n7": "a dent",
+    "n8": "many dents"
+}

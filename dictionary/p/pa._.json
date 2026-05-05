@@ -1,0 +1,18 @@
+{
+    "base": "pa",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "pa",
+    "n2": "pas",
+    "n3": "the pa",
+    "n4": "the pas",
+    "n5": "pa's",
+    "n6": "pas'",
+    "n7": "a pa",
+    "n8": "many pas"
+}

@@ -7,5 +7,12 @@
     "n2": "bills",
     "n3": "the bill",
     "n4": "the bills",
-    "n5": "bill's"
+    "n5": "bill's",
+    "proper": false,
+    "commonness": 33,
+    "max_commonness": 6834,
+    "commonness_ge_count": 554,
+    "n6": "bills'",
+    "n7": "a bill",
+    "n8": "many bills"
 }

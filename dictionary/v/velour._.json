@@ -1,0 +1,18 @@
+{
+    "base": "velour",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "velour",
+    "n2": "velours",
+    "n3": "the velour",
+    "n4": "the velours",
+    "n5": "velour's",
+    "n6": "velours'",
+    "n7": "a velour",
+    "n8": "many velours"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "wanderer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wanderer",
+    "n2": "wanderers",
+    "n3": "the wanderer",
+    "n4": "the wanderers",
+    "n5": "wanderer's",
+    "n6": "wanderers'",
+    "n7": "a wanderer",
+    "n8": "many wanderers"
+}

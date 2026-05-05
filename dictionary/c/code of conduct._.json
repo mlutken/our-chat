@@ -1,0 +1,18 @@
+{
+    "base": "code of conduct",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "code of conduct",
+    "n2": "code of conducts",
+    "n3": "the code of conduct",
+    "n4": "the code of conducts",
+    "n5": "code of conduct's",
+    "n6": "code of conducts'",
+    "n7": "a code of conduct",
+    "n8": "many code of conducts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "orchestra",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "orchestra",
+    "n2": "orchestras",
+    "n3": "the orchestra",
+    "n4": "the orchestras",
+    "n5": "orchestra's",
+    "n6": "orchestras'",
+    "n7": "an orchestra",
+    "n8": "many orchestras"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "handshaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "handshaking",
+    "n2": "handshakings",
+    "n3": "the handshaking",
+    "n4": "the handshakings",
+    "n5": "handshaking's",
+    "n6": "handshakings'",
+    "n7": "a handshaking",
+    "n8": "many handshakings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bay",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "bay",
+    "n2": "bays",
+    "n3": "the bay",
+    "n4": "the bays",
+    "n5": "bay's",
+    "n6": "bays'",
+    "n7": "a bay",
+    "n8": "many bays"
+}

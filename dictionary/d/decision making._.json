@@ -1,0 +1,18 @@
+{
+    "base": "decision making",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "decision making",
+    "n2": "decision makings",
+    "n3": "the decision making",
+    "n4": "the decision makings",
+    "n5": "decision making's",
+    "n6": "decision makings'",
+    "n7": "a decision making",
+    "n8": "many decision makings"
+}

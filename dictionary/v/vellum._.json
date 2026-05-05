@@ -1,0 +1,18 @@
+{
+    "base": "vellum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vellum",
+    "n2": "vellums",
+    "n3": "the vellum",
+    "n4": "the vellums",
+    "n5": "vellum's",
+    "n6": "vellums'",
+    "n7": "a vellum",
+    "n8": "many vellums"
+}

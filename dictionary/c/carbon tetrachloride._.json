@@ -1,0 +1,18 @@
+{
+    "base": "carbon tetrachloride",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 19,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1027,
+    "n1": "carbon tetrachloride",
+    "n2": "carbon tetrachlorides",
+    "n3": "the carbon tetrachloride",
+    "n4": "the carbon tetrachlorides",
+    "n5": "carbon tetrachloride's",
+    "n6": "carbon tetrachlorides'",
+    "n7": "a carbon tetrachloride",
+    "n8": "many carbon tetrachlorides"
+}

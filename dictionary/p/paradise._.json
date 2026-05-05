@@ -1,0 +1,18 @@
+{
+    "base": "paradise",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "paradise",
+    "n2": "paradises",
+    "n3": "the paradise",
+    "n4": "the paradises",
+    "n5": "paradise's",
+    "n6": "paradises'",
+    "n7": "a paradise",
+    "n8": "many paradises"
+}

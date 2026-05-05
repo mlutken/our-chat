@@ -1,0 +1,18 @@
+{
+    "base": "leech",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leech",
+    "n2": "leeches",
+    "n3": "the leech",
+    "n4": "the leeches",
+    "n5": "leech's",
+    "n6": "leeches'",
+    "n7": "a leech",
+    "n8": "many leeches"
+}

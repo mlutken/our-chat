@@ -1,0 +1,18 @@
+{
+    "base": "pinafore",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pinafore",
+    "n2": "pinafores",
+    "n3": "the pinafore",
+    "n4": "the pinafores",
+    "n5": "pinafore's",
+    "n6": "pinafores'",
+    "n7": "a pinafore",
+    "n8": "many pinafores"
+}

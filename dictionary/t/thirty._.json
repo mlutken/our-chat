@@ -1,0 +1,18 @@
+{
+    "base": "thirty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "thirty",
+    "n2": "thirties",
+    "n3": "the thirty",
+    "n4": "the thirties",
+    "n5": "thirty's",
+    "n6": "thirties'",
+    "n7": "a thirty",
+    "n8": "many thirties"
+}

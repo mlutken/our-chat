@@ -1,0 +1,18 @@
+{
+    "base": "serious music",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "serious music",
+    "n2": "serious musics",
+    "n3": "the serious music",
+    "n4": "the serious musics",
+    "n5": "serious music's",
+    "n6": "serious musics'",
+    "n7": "a serious music",
+    "n8": "many serious musics"
+}

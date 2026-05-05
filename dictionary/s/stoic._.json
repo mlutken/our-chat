@@ -1,0 +1,18 @@
+{
+    "base": "stoic",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "stoic",
+    "n2": "stoics",
+    "n3": "the stoic",
+    "n4": "the stoics",
+    "n5": "stoic's",
+    "n6": "stoics'",
+    "n7": "a stoic",
+    "n8": "many stoics"
+}

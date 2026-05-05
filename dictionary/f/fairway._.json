@@ -1,0 +1,18 @@
+{
+    "base": "fairway",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fairway",
+    "n2": "fairways",
+    "n3": "the fairway",
+    "n4": "the fairways",
+    "n5": "fairway's",
+    "n6": "fairways'",
+    "n7": "a fairway",
+    "n8": "many fairways"
+}

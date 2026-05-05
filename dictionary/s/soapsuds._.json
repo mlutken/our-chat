@@ -1,0 +1,18 @@
+{
+    "base": "soapsuds",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soapsuds",
+    "n2": "soapsudses",
+    "n3": "the soapsuds",
+    "n4": "the soapsudses",
+    "n5": "soapsuds'",
+    "n6": "soapsudses'",
+    "n7": "a soapsuds",
+    "n8": "many soapsudses"
+}

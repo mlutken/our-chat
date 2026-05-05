@@ -1,0 +1,18 @@
+{
+    "base": "sack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sack",
+    "n2": "sacks",
+    "n3": "the sack",
+    "n4": "the sacks",
+    "n5": "sack's",
+    "n6": "sacks'",
+    "n7": "a sack",
+    "n8": "many sacks"
+}

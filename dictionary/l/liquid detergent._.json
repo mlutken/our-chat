@@ -1,0 +1,18 @@
+{
+    "base": "liquid detergent",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "liquid detergent",
+    "n2": "liquid detergents",
+    "n3": "the liquid detergent",
+    "n4": "the liquid detergents",
+    "n5": "liquid detergent's",
+    "n6": "liquid detergents'",
+    "n7": "a liquid detergent",
+    "n8": "many liquid detergents"
+}

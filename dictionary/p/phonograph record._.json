@@ -1,0 +1,18 @@
+{
+    "base": "phonograph record",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phonograph record",
+    "n2": "phonograph records",
+    "n3": "the phonograph record",
+    "n4": "the phonograph records",
+    "n5": "phonograph record's",
+    "n6": "phonograph records'",
+    "n7": "a phonograph record",
+    "n8": "many phonograph records"
+}

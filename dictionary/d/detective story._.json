@@ -1,0 +1,18 @@
+{
+    "base": "detective story",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "detective story",
+    "n2": "detective stories",
+    "n3": "the detective story",
+    "n4": "the detective stories",
+    "n5": "detective story's",
+    "n6": "detective stories'",
+    "n7": "a detective story",
+    "n8": "many detective stories"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "stupidity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "stupidity",
+    "n2": "stupidities",
+    "n3": "the stupidity",
+    "n4": "the stupidities",
+    "n5": "stupidity's",
+    "n6": "stupidities'",
+    "n7": "a stupidity",
+    "n8": "many stupidities"
+}

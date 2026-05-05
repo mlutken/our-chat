@@ -7,5 +7,12 @@
     "n2": "compliances",
     "n3": "the compliance",
     "n4": "the compliances",
-    "n5": "compliance's"
+    "n5": "compliance's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "compliances'",
+    "n7": "a compliance",
+    "n8": "many compliances"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "vicious cycle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vicious cycle",
+    "n2": "vicious cycles",
+    "n3": "the vicious cycle",
+    "n4": "the vicious cycles",
+    "n5": "vicious cycle's",
+    "n6": "vicious cycles'",
+    "n7": "a vicious cycle",
+    "n8": "many vicious cycles"
+}

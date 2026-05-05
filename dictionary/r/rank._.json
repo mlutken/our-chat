@@ -1,0 +1,18 @@
+{
+    "base": "rank",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "rank",
+    "n2": "ranks",
+    "n3": "the rank",
+    "n4": "the ranks",
+    "n5": "rank's",
+    "n6": "ranks'",
+    "n7": "a rank",
+    "n8": "many ranks"
+}

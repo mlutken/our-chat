@@ -1,0 +1,18 @@
+{
+    "base": "evocation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "evocation",
+    "n2": "evocations",
+    "n3": "the evocation",
+    "n4": "the evocations",
+    "n5": "evocation's",
+    "n6": "evocations'",
+    "n7": "an evocation",
+    "n8": "many evocations"
+}

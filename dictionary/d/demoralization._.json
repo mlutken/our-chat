@@ -1,0 +1,18 @@
+{
+    "base": "demoralization",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "demoralization",
+    "n2": "demoralizations",
+    "n3": "the demoralization",
+    "n4": "the demoralizations",
+    "n5": "demoralization's",
+    "n6": "demoralizations'",
+    "n7": "a demoralization",
+    "n8": "many demoralizations"
+}

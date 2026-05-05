@@ -1,0 +1,18 @@
+{
+    "base": "exultation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "exultation",
+    "n2": "exultations",
+    "n3": "the exultation",
+    "n4": "the exultations",
+    "n5": "exultation's",
+    "n6": "exultations'",
+    "n7": "an exultation",
+    "n8": "many exultations"
+}

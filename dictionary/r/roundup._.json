@@ -1,0 +1,18 @@
+{
+    "base": "roundup",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "roundup",
+    "n2": "roundups",
+    "n3": "the roundup",
+    "n4": "the roundups",
+    "n5": "roundup's",
+    "n6": "roundups'",
+    "n7": "a roundup",
+    "n8": "many roundups"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "audit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "audit",
+    "n2": "audits",
+    "n3": "the audit",
+    "n4": "the audits",
+    "n5": "audit's",
+    "n6": "audits'",
+    "n7": "an audit",
+    "n8": "many audits"
+}

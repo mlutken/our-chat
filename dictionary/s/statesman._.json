@@ -1,0 +1,18 @@
+{
+    "base": "statesman",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "statesman",
+    "n2": "statesmen",
+    "n3": "the statesman",
+    "n4": "the statesmen",
+    "n5": "statesman's",
+    "n6": "statesmen's",
+    "n7": "a statesman",
+    "n8": "many statesmen"
+}

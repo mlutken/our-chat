@@ -7,5 +7,12 @@
     "n2": "springs",
     "n3": "the spring",
     "n4": "the springs",
-    "n5": "spring's"
+    "n5": "spring's",
+    "proper": false,
+    "commonness": 35,
+    "max_commonness": 6834,
+    "commonness_ge_count": 517,
+    "n6": "springs'",
+    "n7": "a spring",
+    "n8": "many springs"
 }

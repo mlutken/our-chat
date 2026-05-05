@@ -1,0 +1,18 @@
+{
+    "base": "birmingham",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "birmingham",
+    "n2": "birminghams",
+    "n3": "the birmingham",
+    "n4": "the birminghams",
+    "n5": "birmingham's",
+    "n6": "birminghams'",
+    "n7": "a birmingham",
+    "n8": "many birminghams"
+}

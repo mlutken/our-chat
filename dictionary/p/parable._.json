@@ -1,0 +1,18 @@
+{
+    "base": "parable",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "parable",
+    "n2": "parables",
+    "n3": "the parable",
+    "n4": "the parables",
+    "n5": "parable's",
+    "n6": "parables'",
+    "n7": "a parable",
+    "n8": "many parables"
+}

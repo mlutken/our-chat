@@ -7,5 +7,12 @@
     "n2": "stimuli",
     "n3": "the stimulus",
     "n4": "the stimuli",
-    "n5": "stimulus's"
+    "n5": "stimulus'",
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n6": "stimuli's",
+    "n7": "a stimulus",
+    "n8": "many stimuli"
 }

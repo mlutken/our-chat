@@ -1,0 +1,18 @@
+{
+    "base": "starlet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "starlet",
+    "n2": "starlets",
+    "n3": "the starlet",
+    "n4": "the starlets",
+    "n5": "starlet's",
+    "n6": "starlets'",
+    "n7": "a starlet",
+    "n8": "many starlets"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "bedside",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bedside",
+    "n2": "bedsides",
+    "n3": "the bedside",
+    "n4": "the bedsides",
+    "n5": "bedside's",
+    "n6": "bedsides'",
+    "n7": "a bedside",
+    "n8": "many bedsides"
+}

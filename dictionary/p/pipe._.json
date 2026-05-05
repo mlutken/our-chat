@@ -1,0 +1,18 @@
+{
+    "base": "pipe",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "pipe",
+    "n2": "pipes",
+    "n3": "the pipe",
+    "n4": "the pipes",
+    "n5": "pipe's",
+    "n6": "pipes'",
+    "n7": "a pipe",
+    "n8": "many pipes"
+}

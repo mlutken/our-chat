@@ -1,0 +1,18 @@
+{
+    "base": "german",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "german",
+    "n2": "germen",
+    "n3": "the german",
+    "n4": "the germen",
+    "n5": "german's",
+    "n6": "germen's",
+    "n7": "a german",
+    "n8": "many germen"
+}

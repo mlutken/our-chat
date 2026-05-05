@@ -1,0 +1,18 @@
+{
+    "base": "binding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "binding",
+    "n2": "bindings",
+    "n3": "the binding",
+    "n4": "the bindings",
+    "n5": "binding's",
+    "n6": "bindings'",
+    "n7": "a binding",
+    "n8": "many bindings"
+}

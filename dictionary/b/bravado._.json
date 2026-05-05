@@ -1,0 +1,18 @@
+{
+    "base": "bravado",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bravado",
+    "n2": "bravadoes",
+    "n3": "the bravado",
+    "n4": "the bravadoes",
+    "n5": "bravado's",
+    "n6": "bravadoes'",
+    "n7": "a bravado",
+    "n8": "many bravadoes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "knapsack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "knapsack",
+    "n2": "knapsacks",
+    "n3": "the knapsack",
+    "n4": "the knapsacks",
+    "n5": "knapsack's",
+    "n6": "knapsacks'",
+    "n7": "a knapsack",
+    "n8": "many knapsacks"
+}

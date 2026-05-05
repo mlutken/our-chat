@@ -1,0 +1,18 @@
+{
+    "base": "mimicry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mimicry",
+    "n2": "mimicries",
+    "n3": "the mimicry",
+    "n4": "the mimicries",
+    "n5": "mimicry's",
+    "n6": "mimicries'",
+    "n7": "a mimicry",
+    "n8": "many mimicries"
+}

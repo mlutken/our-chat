@@ -1,0 +1,18 @@
+{
+    "base": "clinch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "clinch",
+    "n2": "clinches",
+    "n3": "the clinch",
+    "n4": "the clinches",
+    "n5": "clinch's",
+    "n6": "clinches'",
+    "n7": "a clinch",
+    "n8": "many clinches"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "blackboard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "blackboard",
+    "n2": "blackboards",
+    "n3": "the blackboard",
+    "n4": "the blackboards",
+    "n5": "blackboard's",
+    "n6": "blackboards'",
+    "n7": "a blackboard",
+    "n8": "many blackboards"
+}

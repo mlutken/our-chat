@@ -1,0 +1,18 @@
+{
+    "base": "deflection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deflection",
+    "n2": "deflections",
+    "n3": "the deflection",
+    "n4": "the deflections",
+    "n5": "deflection's",
+    "n6": "deflections'",
+    "n7": "a deflection",
+    "n8": "many deflections"
+}

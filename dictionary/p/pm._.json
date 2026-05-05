@@ -1,0 +1,18 @@
+{
+    "base": "pm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "pm",
+    "n2": "pms",
+    "n3": "the pm",
+    "n4": "the pms",
+    "n5": "pm's",
+    "n6": "pms'",
+    "n7": "a pm",
+    "n8": "many pms"
+}

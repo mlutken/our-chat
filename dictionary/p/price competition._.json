@@ -1,0 +1,18 @@
+{
+    "base": "price competition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "price competition",
+    "n2": "price competitions",
+    "n3": "the price competition",
+    "n4": "the price competitions",
+    "n5": "price competition's",
+    "n6": "price competitions'",
+    "n7": "a price competition",
+    "n8": "many price competitions"
+}

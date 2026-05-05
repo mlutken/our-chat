@@ -1,0 +1,18 @@
+{
+    "base": "vocational training",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "vocational training",
+    "n2": "vocational trainings",
+    "n3": "the vocational training",
+    "n4": "the vocational trainings",
+    "n5": "vocational training's",
+    "n6": "vocational trainings'",
+    "n7": "a vocational training",
+    "n8": "many vocational trainings"
+}

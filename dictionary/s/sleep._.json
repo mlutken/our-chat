@@ -1,11 +1,24 @@
 {
     "base": "sleep",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "sleep",
     "v2": "slept",
     "v3": "slept",
     "v4": "sleeping",
-    "v5": "sleeps"
+    "v5": "sleeps",
+    "proper": false,
+    "commonness": 24,
+    "max_commonness": 6834,
+    "commonness_ge_count": 785,
+    "n1": "sleep",
+    "n2": "sleeps",
+    "n3": "the sleep",
+    "n4": "the sleeps",
+    "n5": "sleep's",
+    "n6": "sleeps'",
+    "n7": "a sleep",
+    "n8": "many sleeps"
 }

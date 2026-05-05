@@ -1,0 +1,18 @@
+{
+    "base": "arrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "arrow",
+    "n2": "arrows",
+    "n3": "the arrow",
+    "n4": "the arrows",
+    "n5": "arrow's",
+    "n6": "arrows'",
+    "n7": "an arrow",
+    "n8": "many arrows"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "blizzard",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "blizzard",
+    "n2": "blizzards",
+    "n3": "the blizzard",
+    "n4": "the blizzards",
+    "n5": "blizzard's",
+    "n6": "blizzards'",
+    "n7": "a blizzard",
+    "n8": "many blizzards"
+}

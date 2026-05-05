@@ -1,0 +1,18 @@
+{
+    "base": "handling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "handling",
+    "n2": "handlings",
+    "n3": "the handling",
+    "n4": "the handlings",
+    "n5": "handling's",
+    "n6": "handlings'",
+    "n7": "a handling",
+    "n8": "many handlings"
+}

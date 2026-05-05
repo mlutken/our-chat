@@ -1,0 +1,18 @@
+{
+    "base": "winter solstice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "winter solstice",
+    "n2": "winter solstices",
+    "n3": "the winter solstice",
+    "n4": "the winter solstices",
+    "n5": "winter solstice's",
+    "n6": "winter solstices'",
+    "n7": "a winter solstice",
+    "n8": "many winter solstices"
+}

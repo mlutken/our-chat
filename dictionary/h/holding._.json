@@ -1,0 +1,18 @@
+{
+    "base": "holding",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "holding",
+    "n2": "holdings",
+    "n3": "the holding",
+    "n4": "the holdings",
+    "n5": "holding's",
+    "n6": "holdings'",
+    "n7": "a holding",
+    "n8": "many holdings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "glamor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "glamor",
+    "n2": "glamors",
+    "n3": "the glamor",
+    "n4": "the glamors",
+    "n5": "glamor's",
+    "n6": "glamors'",
+    "n7": "a glamor",
+    "n8": "many glamors"
+}

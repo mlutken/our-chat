@@ -1,0 +1,18 @@
+{
+    "base": "longitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "longitude",
+    "n2": "longitudes",
+    "n3": "the longitude",
+    "n4": "the longitudes",
+    "n5": "longitude's",
+    "n6": "longitudes'",
+    "n7": "a longitude",
+    "n8": "many longitudes"
+}

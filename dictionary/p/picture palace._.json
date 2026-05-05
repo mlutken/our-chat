@@ -1,0 +1,18 @@
+{
+    "base": "picture palace",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "picture palace",
+    "n2": "picture palaces",
+    "n3": "the picture palace",
+    "n4": "the picture palaces",
+    "n5": "picture palace's",
+    "n6": "picture palaces'",
+    "n7": "a picture palace",
+    "n8": "many picture palaces"
+}

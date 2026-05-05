@@ -1,0 +1,18 @@
+{
+    "base": "public opinion poll",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "public opinion poll",
+    "n2": "public opinion polls",
+    "n3": "the public opinion poll",
+    "n4": "the public opinion polls",
+    "n5": "public opinion poll's",
+    "n6": "public opinion polls'",
+    "n7": "a public opinion poll",
+    "n8": "many public opinion polls"
+}

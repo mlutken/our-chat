@@ -1,0 +1,18 @@
+{
+    "base": "carbon tetrahalide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carbon tetrahalide",
+    "n2": "carbon tetrahalides",
+    "n3": "the carbon tetrahalide",
+    "n4": "the carbon tetrahalides",
+    "n5": "carbon tetrahalide's",
+    "n6": "carbon tetrahalides'",
+    "n7": "a carbon tetrahalide",
+    "n8": "many carbon tetrahalides"
+}

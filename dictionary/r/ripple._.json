@@ -1,0 +1,18 @@
+{
+    "base": "ripple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "ripple",
+    "n2": "ripples",
+    "n3": "the ripple",
+    "n4": "the ripples",
+    "n5": "ripple's",
+    "n6": "ripples'",
+    "n7": "a ripple",
+    "n8": "many ripples"
+}

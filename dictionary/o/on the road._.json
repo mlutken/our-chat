@@ -1,0 +1,18 @@
+{
+    "base": "on the road",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "on the road",
+    "n2": "on the roads",
+    "n3": "the on the road",
+    "n4": "the on the roads",
+    "n5": "on the road's",
+    "n6": "on the roads'",
+    "n7": "an on the road",
+    "n8": "many on the roads"
+}

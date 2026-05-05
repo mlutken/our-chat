@@ -1,0 +1,18 @@
+{
+    "base": "uproar",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "uproar",
+    "n2": "uproars",
+    "n3": "the uproar",
+    "n4": "the uproars",
+    "n5": "uproar's",
+    "n6": "uproars'",
+    "n7": "an uproar",
+    "n8": "many uproars"
+}

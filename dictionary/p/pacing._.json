@@ -1,0 +1,18 @@
+{
+    "base": "pacing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "pacing",
+    "n2": "pacings",
+    "n3": "the pacing",
+    "n4": "the pacings",
+    "n5": "pacing's",
+    "n6": "pacings'",
+    "n7": "a pacing",
+    "n8": "many pacings"
+}

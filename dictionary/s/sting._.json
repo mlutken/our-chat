@@ -1,0 +1,18 @@
+{
+    "base": "sting",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sting",
+    "n2": "stings",
+    "n3": "the sting",
+    "n4": "the stings",
+    "n5": "sting's",
+    "n6": "stings'",
+    "n7": "a sting",
+    "n8": "many stings"
+}

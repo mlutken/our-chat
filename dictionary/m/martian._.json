@@ -1,0 +1,18 @@
+{
+    "base": "martian",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "martian",
+    "n2": "martians",
+    "n3": "the martian",
+    "n4": "the martians",
+    "n5": "martian's",
+    "n6": "martians'",
+    "n7": "a martian",
+    "n8": "many martians"
+}

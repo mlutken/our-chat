@@ -1,0 +1,18 @@
+{
+    "base": "standby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "standby",
+    "n2": "standbies",
+    "n3": "the standby",
+    "n4": "the standbies",
+    "n5": "standby's",
+    "n6": "standbies'",
+    "n7": "a standby",
+    "n8": "many standbies"
+}

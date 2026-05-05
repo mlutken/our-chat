@@ -1,0 +1,18 @@
+{
+    "base": "adhesive",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "adhesive",
+    "n2": "adhesives",
+    "n3": "the adhesive",
+    "n4": "the adhesives",
+    "n5": "adhesive's",
+    "n6": "adhesives'",
+    "n7": "an adhesive",
+    "n8": "many adhesives"
+}

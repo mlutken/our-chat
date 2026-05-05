@@ -1,0 +1,18 @@
+{
+    "base": "banana",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "banana",
+    "n2": "bananas",
+    "n3": "the banana",
+    "n4": "the bananas",
+    "n5": "banana's",
+    "n6": "bananas'",
+    "n7": "a banana",
+    "n8": "many bananas"
+}

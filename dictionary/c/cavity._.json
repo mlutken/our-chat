@@ -1,0 +1,18 @@
+{
+    "base": "cavity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cavity",
+    "n2": "cavities",
+    "n3": "the cavity",
+    "n4": "the cavities",
+    "n5": "cavity's",
+    "n6": "cavities'",
+    "n7": "a cavity",
+    "n8": "many cavities"
+}

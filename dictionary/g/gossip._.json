@@ -1,0 +1,18 @@
+{
+    "base": "gossip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "gossip",
+    "n2": "gossips",
+    "n3": "the gossip",
+    "n4": "the gossips",
+    "n5": "gossip's",
+    "n6": "gossips'",
+    "n7": "a gossip",
+    "n8": "many gossips"
+}

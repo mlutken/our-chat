@@ -1,0 +1,18 @@
+{
+    "base": "caveat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "caveat",
+    "n2": "caveats",
+    "n3": "the caveat",
+    "n4": "the caveats",
+    "n5": "caveat's",
+    "n6": "caveats'",
+    "n7": "a caveat",
+    "n8": "many caveats"
+}

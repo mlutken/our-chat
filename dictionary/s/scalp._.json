@@ -1,0 +1,18 @@
+{
+    "base": "scalp",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "scalp",
+    "n2": "scalps",
+    "n3": "the scalp",
+    "n4": "the scalps",
+    "n5": "scalp's",
+    "n6": "scalps'",
+    "n7": "a scalp",
+    "n8": "many scalps"
+}

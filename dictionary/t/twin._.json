@@ -1,0 +1,18 @@
+{
+    "base": "twin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "twin",
+    "n2": "twins",
+    "n3": "the twin",
+    "n4": "the twins",
+    "n5": "twin's",
+    "n6": "twins'",
+    "n7": "a twin",
+    "n8": "many twins"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "dab",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dab",
+    "n2": "dabs",
+    "n3": "the dab",
+    "n4": "the dabs",
+    "n5": "dab's",
+    "n6": "dabs'",
+    "n7": "a dab",
+    "n8": "many dabs"
+}

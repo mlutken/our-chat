@@ -1,0 +1,18 @@
+{
+    "base": "wrought iron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wrought iron",
+    "n2": "wrought irons",
+    "n3": "the wrought iron",
+    "n4": "the wrought irons",
+    "n5": "wrought iron's",
+    "n6": "wrought irons'",
+    "n7": "a wrought iron",
+    "n8": "many wrought irons"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "reelection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reelection",
+    "n2": "reelections",
+    "n3": "the reelection",
+    "n4": "the reelections",
+    "n5": "reelection's",
+    "n6": "reelections'",
+    "n7": "a reelection",
+    "n8": "many reelections"
+}

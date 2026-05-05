@@ -1,0 +1,18 @@
+{
+    "base": "syria",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "syria",
+    "n2": "syrias",
+    "n3": "the syria",
+    "n4": "the syrias",
+    "n5": "syria's",
+    "n6": "syrias'",
+    "n7": "a syria",
+    "n8": "many syrias"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "college student",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "college student",
+    "n2": "college students",
+    "n3": "the college student",
+    "n4": "the college students",
+    "n5": "college student's",
+    "n6": "college students'",
+    "n7": "a college student",
+    "n8": "many college students"
+}

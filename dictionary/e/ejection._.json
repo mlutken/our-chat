@@ -1,0 +1,18 @@
+{
+    "base": "ejection",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "ejection",
+    "n2": "ejections",
+    "n3": "the ejection",
+    "n4": "the ejections",
+    "n5": "ejection's",
+    "n6": "ejections'",
+    "n7": "an ejection",
+    "n8": "many ejections"
+}

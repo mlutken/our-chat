@@ -1,0 +1,18 @@
+{
+    "base": "prosody",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prosody",
+    "n2": "prosodies",
+    "n3": "the prosody",
+    "n4": "the prosodies",
+    "n5": "prosody's",
+    "n6": "prosodies'",
+    "n7": "a prosody",
+    "n8": "many prosodies"
+}

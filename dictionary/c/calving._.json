@@ -1,0 +1,18 @@
+{
+    "base": "calving",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "calving",
+    "n2": "calvings",
+    "n3": "the calving",
+    "n4": "the calvings",
+    "n5": "calving's",
+    "n6": "calvings'",
+    "n7": "a calving",
+    "n8": "many calvings"
+}

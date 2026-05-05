@@ -1,0 +1,18 @@
+{
+    "base": "labor market",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "labor market",
+    "n2": "labor markets",
+    "n3": "the labor market",
+    "n4": "the labor markets",
+    "n5": "labor market's",
+    "n6": "labor markets'",
+    "n7": "a labor market",
+    "n8": "many labor markets"
+}

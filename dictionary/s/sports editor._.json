@@ -1,0 +1,18 @@
+{
+    "base": "sports editor",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "sports editor",
+    "n2": "sports editors",
+    "n3": "the sports editor",
+    "n4": "the sports editors",
+    "n5": "sports editor's",
+    "n6": "sports editors'",
+    "n7": "a sports editor",
+    "n8": "many sports editors"
+}

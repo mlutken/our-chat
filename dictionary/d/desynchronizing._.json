@@ -1,0 +1,18 @@
+{
+    "base": "desynchronizing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "desynchronizing",
+    "n2": "desynchronizings",
+    "n3": "the desynchronizing",
+    "n4": "the desynchronizings",
+    "n5": "desynchronizing's",
+    "n6": "desynchronizings'",
+    "n7": "a desynchronizing",
+    "n8": "many desynchronizings"
+}

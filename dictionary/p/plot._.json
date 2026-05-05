@@ -1,0 +1,18 @@
+{
+    "base": "plot",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n1": "plot",
+    "n2": "plots",
+    "n3": "the plot",
+    "n4": "the plots",
+    "n5": "plot's",
+    "n6": "plots'",
+    "n7": "a plot",
+    "n8": "many plots"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lager",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lager",
+    "n2": "lagers",
+    "n3": "the lager",
+    "n4": "the lagers",
+    "n5": "lager's",
+    "n6": "lagers'",
+    "n7": "a lager",
+    "n8": "many lagers"
+}

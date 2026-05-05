@@ -1,0 +1,18 @@
+{
+    "base": "leg curling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "leg curling",
+    "n2": "leg curlings",
+    "n3": "the leg curling",
+    "n4": "the leg curlings",
+    "n5": "leg curling's",
+    "n6": "leg curlings'",
+    "n7": "a leg curling",
+    "n8": "many leg curlings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lymph node",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lymph node",
+    "n2": "lymph nodes",
+    "n3": "the lymph node",
+    "n4": "the lymph nodes",
+    "n5": "lymph node's",
+    "n6": "lymph nodes'",
+    "n7": "a lymph node",
+    "n8": "many lymph nodes"
+}

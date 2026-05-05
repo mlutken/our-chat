@@ -1,0 +1,18 @@
+{
+    "base": "rabbit fever",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "rabbit fever",
+    "n2": "rabbit fevers",
+    "n3": "the rabbit fever",
+    "n4": "the rabbit fevers",
+    "n5": "rabbit fever's",
+    "n6": "rabbit fevers'",
+    "n7": "a rabbit fever",
+    "n8": "many rabbit fevers"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "masterpiece",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "masterpiece",
+    "n2": "masterpieces",
+    "n3": "the masterpiece",
+    "n4": "the masterpieces",
+    "n5": "masterpiece's",
+    "n6": "masterpieces'",
+    "n7": "a masterpiece",
+    "n8": "many masterpieces"
+}

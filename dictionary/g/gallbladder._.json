@@ -1,0 +1,18 @@
+{
+    "base": "gallbladder",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gallbladder",
+    "n2": "gallbladders",
+    "n3": "the gallbladder",
+    "n4": "the gallbladders",
+    "n5": "gallbladder's",
+    "n6": "gallbladders'",
+    "n7": "a gallbladder",
+    "n8": "many gallbladders"
+}

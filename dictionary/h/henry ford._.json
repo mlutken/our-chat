@@ -1,0 +1,18 @@
+{
+    "base": "henry ford",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "henry ford",
+    "n2": "henry fords",
+    "n3": "the henry ford",
+    "n4": "the henry fords",
+    "n5": "henry ford's",
+    "n6": "henry fords'",
+    "n7": "a henry ford",
+    "n8": "many henry fords"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "carbon dioxide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "carbon dioxide",
+    "n2": "carbon dioxides",
+    "n3": "the carbon dioxide",
+    "n4": "the carbon dioxides",
+    "n5": "carbon dioxide's",
+    "n6": "carbon dioxides'",
+    "n7": "a carbon dioxide",
+    "n8": "many carbon dioxides"
+}

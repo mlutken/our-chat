@@ -7,5 +7,12 @@
     "n2": "leaderships",
     "n3": "the leadership",
     "n4": "the leaderships",
-    "n5": "leadership's"
+    "n5": "leadership's",
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n6": "leaderships'",
+    "n7": "a leadership",
+    "n8": "many leaderships"
 }

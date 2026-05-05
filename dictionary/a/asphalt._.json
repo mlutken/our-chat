@@ -1,0 +1,18 @@
+{
+    "base": "asphalt",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "asphalt",
+    "n2": "asphalts",
+    "n3": "the asphalt",
+    "n4": "the asphalts",
+    "n5": "asphalt's",
+    "n6": "asphalts'",
+    "n7": "an asphalt",
+    "n8": "many asphalts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "ten-gallon hat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ten-gallon hat",
+    "n2": "ten-gallon hats",
+    "n3": "the ten-gallon hat",
+    "n4": "the ten-gallon hats",
+    "n5": "ten-gallon hat's",
+    "n6": "ten-gallon hats'",
+    "n7": "a ten-gallon hat",
+    "n8": "many ten-gallon hats"
+}

@@ -1,11 +1,24 @@
 {
     "base": "cure",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "cure",
     "v2": "cured",
     "v3": "cured",
     "v4": "curing",
-    "v5": "cures"
+    "v5": "cures",
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "cure",
+    "n2": "cures",
+    "n3": "the cure",
+    "n4": "the cures",
+    "n5": "cure's",
+    "n6": "cures'",
+    "n7": "a cure",
+    "n8": "many cures"
 }

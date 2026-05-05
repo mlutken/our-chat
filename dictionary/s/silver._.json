@@ -7,5 +7,12 @@
     "n2": "silvers",
     "n3": "the silver",
     "n4": "the silvers",
-    "n5": "silver's"
+    "n5": "silver's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "silvers'",
+    "n7": "a silver",
+    "n8": "many silvers"
 }

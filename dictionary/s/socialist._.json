@@ -1,0 +1,18 @@
+{
+    "base": "socialist",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "socialist",
+    "n2": "socialists",
+    "n3": "the socialist",
+    "n4": "the socialists",
+    "n5": "socialist's",
+    "n6": "socialists'",
+    "n7": "a socialist",
+    "n8": "many socialists"
+}

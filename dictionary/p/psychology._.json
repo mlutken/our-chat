@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "psychology",
-    "n2": "psychologys",
+    "n2": "psychologies",
     "n3": "the psychology",
-    "n4": "the psychologys",
-    "n5": "psychology's"
+    "n4": "the psychologies",
+    "n5": "psychology's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "psychologies'",
+    "n7": "a psychology",
+    "n8": "many psychologies"
 }

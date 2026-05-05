@@ -1,0 +1,18 @@
+{
+    "base": "taffy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "taffy",
+    "n2": "taffies",
+    "n3": "the taffy",
+    "n4": "the taffies",
+    "n5": "taffy's",
+    "n6": "taffies'",
+    "n7": "a taffy",
+    "n8": "many taffies"
+}

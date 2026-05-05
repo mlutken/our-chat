@@ -1,0 +1,18 @@
+{
+    "base": "phosphorus",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "phosphorus",
+    "n2": "phosphoruses",
+    "n3": "the phosphorus",
+    "n4": "the phosphoruses",
+    "n5": "phosphorus'",
+    "n6": "phosphoruses'",
+    "n7": "a phosphorus",
+    "n8": "many phosphoruses"
+}

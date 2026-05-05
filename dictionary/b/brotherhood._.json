@@ -1,0 +1,18 @@
+{
+    "base": "brotherhood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "brotherhood",
+    "n2": "brotherhoods",
+    "n3": "the brotherhood",
+    "n4": "the brotherhoods",
+    "n5": "brotherhood's",
+    "n6": "brotherhoods'",
+    "n7": "a brotherhood",
+    "n8": "many brotherhoods"
+}

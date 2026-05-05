@@ -7,5 +7,12 @@
     "n2": "conferences",
     "n3": "the conference",
     "n4": "the conferences",
-    "n5": "conference's"
+    "n5": "conference's",
+    "proper": false,
+    "commonness": 16,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1202,
+    "n6": "conferences'",
+    "n7": "a conference",
+    "n8": "many conferences"
 }

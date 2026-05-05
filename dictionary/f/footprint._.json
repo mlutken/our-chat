@@ -1,0 +1,18 @@
+{
+    "base": "footprint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "footprint",
+    "n2": "footprints",
+    "n3": "the footprint",
+    "n4": "the footprints",
+    "n5": "footprint's",
+    "n6": "footprints'",
+    "n7": "a footprint",
+    "n8": "many footprints"
+}

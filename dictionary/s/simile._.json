@@ -1,0 +1,18 @@
+{
+    "base": "simile",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "simile",
+    "n2": "similes",
+    "n3": "the simile",
+    "n4": "the similes",
+    "n5": "simile's",
+    "n6": "similes'",
+    "n7": "a simile",
+    "n8": "many similes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "brink",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brink",
+    "n2": "brinks",
+    "n3": "the brink",
+    "n4": "the brinks",
+    "n5": "brink's",
+    "n6": "brinks'",
+    "n7": "a brink",
+    "n8": "many brinks"
+}

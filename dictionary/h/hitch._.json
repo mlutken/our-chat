@@ -1,0 +1,18 @@
+{
+    "base": "hitch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hitch",
+    "n2": "hitches",
+    "n3": "the hitch",
+    "n4": "the hitches",
+    "n5": "hitch's",
+    "n6": "hitches'",
+    "n7": "a hitch",
+    "n8": "many hitches"
+}

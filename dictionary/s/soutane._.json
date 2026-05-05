@@ -1,0 +1,18 @@
+{
+    "base": "soutane",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "soutane",
+    "n2": "soutanes",
+    "n3": "the soutane",
+    "n4": "the soutanes",
+    "n5": "soutane's",
+    "n6": "soutanes'",
+    "n7": "a soutane",
+    "n8": "many soutanes"
+}

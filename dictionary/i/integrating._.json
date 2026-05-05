@@ -1,0 +1,18 @@
+{
+    "base": "integrating",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "integrating",
+    "n2": "integratings",
+    "n3": "the integrating",
+    "n4": "the integratings",
+    "n5": "integrating's",
+    "n6": "integratings'",
+    "n7": "an integrating",
+    "n8": "many integratings"
+}

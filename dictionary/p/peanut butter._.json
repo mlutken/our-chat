@@ -1,0 +1,18 @@
+{
+    "base": "peanut butter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "peanut butter",
+    "n2": "peanut butters",
+    "n3": "the peanut butter",
+    "n4": "the peanut butters",
+    "n5": "peanut butter's",
+    "n6": "peanut butters'",
+    "n7": "a peanut butter",
+    "n8": "many peanut butters"
+}

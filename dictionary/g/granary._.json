@@ -1,0 +1,18 @@
+{
+    "base": "granary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "granary",
+    "n2": "granaries",
+    "n3": "the granary",
+    "n4": "the granaries",
+    "n5": "granary's",
+    "n6": "granaries'",
+    "n7": "a granary",
+    "n8": "many granaries"
+}

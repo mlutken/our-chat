@@ -7,5 +7,12 @@
     "n2": "tales",
     "n3": "the tale",
     "n4": "the tales",
-    "n5": "tale's"
+    "n5": "tale's",
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n6": "tales'",
+    "n7": "a tale",
+    "n8": "many tales"
 }

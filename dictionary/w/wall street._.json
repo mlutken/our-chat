@@ -1,0 +1,18 @@
+{
+    "base": "wall street",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "wall street",
+    "n2": "wall streets",
+    "n3": "the wall street",
+    "n4": "the wall streets",
+    "n5": "wall street's",
+    "n6": "wall streets'",
+    "n7": "a wall street",
+    "n8": "many wall streets"
+}

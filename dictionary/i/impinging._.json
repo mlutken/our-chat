@@ -1,0 +1,18 @@
+{
+    "base": "impinging",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "impinging",
+    "n2": "impingings",
+    "n3": "the impinging",
+    "n4": "the impingings",
+    "n5": "impinging's",
+    "n6": "impingings'",
+    "n7": "an impinging",
+    "n8": "many impingings"
+}

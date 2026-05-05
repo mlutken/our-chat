@@ -7,5 +7,12 @@
     "n2": "coasts",
     "n3": "the coast",
     "n4": "the coasts",
-    "n5": "coast's"
+    "n5": "coast's",
+    "proper": false,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "coasts'",
+    "n7": "a coast",
+    "n8": "many coasts"
 }

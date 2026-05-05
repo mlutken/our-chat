@@ -1,0 +1,18 @@
+{
+    "base": "leisure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "leisure",
+    "n2": "leisures",
+    "n3": "the leisure",
+    "n4": "the leisures",
+    "n5": "leisure's",
+    "n6": "leisures'",
+    "n7": "a leisure",
+    "n8": "many leisures"
+}

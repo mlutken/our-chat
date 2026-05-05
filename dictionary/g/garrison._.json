@@ -1,0 +1,18 @@
+{
+    "base": "garrison",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "garrison",
+    "n2": "garrisons",
+    "n3": "the garrison",
+    "n4": "the garrisons",
+    "n5": "garrison's",
+    "n6": "garrisons'",
+    "n7": "a garrison",
+    "n8": "many garrisons"
+}

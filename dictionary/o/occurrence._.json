@@ -1,0 +1,18 @@
+{
+    "base": "occurrence",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "occurrence",
+    "n2": "occurrences",
+    "n3": "the occurrence",
+    "n4": "the occurrences",
+    "n5": "occurrence's",
+    "n6": "occurrences'",
+    "n7": "an occurrence",
+    "n8": "many occurrences"
+}

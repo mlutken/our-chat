@@ -7,5 +7,12 @@
     "n2": "perceptions",
     "n3": "the perception",
     "n4": "the perceptions",
-    "n5": "perception's"
+    "n5": "perception's",
+    "proper": false,
+    "commonness": 15,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1291,
+    "n6": "perceptions'",
+    "n7": "a perception",
+    "n8": "many perceptions"
 }

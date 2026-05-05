@@ -1,0 +1,18 @@
+{
+    "base": "abolition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "abolition",
+    "n2": "abolitions",
+    "n3": "the abolition",
+    "n4": "the abolitions",
+    "n5": "abolition's",
+    "n6": "abolitions'",
+    "n7": "an abolition",
+    "n8": "many abolitions"
+}

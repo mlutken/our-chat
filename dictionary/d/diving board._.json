@@ -1,0 +1,18 @@
+{
+    "base": "diving board",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "diving board",
+    "n2": "diving boards",
+    "n3": "the diving board",
+    "n4": "the diving boards",
+    "n5": "diving board's",
+    "n6": "diving boards'",
+    "n7": "a diving board",
+    "n8": "many diving boards"
+}

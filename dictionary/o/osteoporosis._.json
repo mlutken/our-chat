@@ -1,0 +1,18 @@
+{
+    "base": "osteoporosis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "osteoporosis",
+    "n2": "osteoporosises",
+    "n3": "the osteoporosis",
+    "n4": "the osteoporosises",
+    "n5": "osteoporosis'",
+    "n6": "osteoporosises'",
+    "n7": "an osteoporosis",
+    "n8": "many osteoporosises"
+}

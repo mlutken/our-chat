@@ -1,0 +1,18 @@
+{
+    "base": "chin music",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chin music",
+    "n2": "chin musics",
+    "n3": "the chin music",
+    "n4": "the chin musics",
+    "n5": "chin music's",
+    "n6": "chin musics'",
+    "n7": "a chin music",
+    "n8": "many chin musics"
+}

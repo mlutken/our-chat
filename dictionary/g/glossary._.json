@@ -1,0 +1,18 @@
+{
+    "base": "glossary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "glossary",
+    "n2": "glossaries",
+    "n3": "the glossary",
+    "n4": "the glossaries",
+    "n5": "glossary's",
+    "n6": "glossaries'",
+    "n7": "a glossary",
+    "n8": "many glossaries"
+}

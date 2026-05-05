@@ -1,0 +1,18 @@
+{
+    "base": "mahogany",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "mahogany",
+    "n2": "mahoganies",
+    "n3": "the mahogany",
+    "n4": "the mahoganies",
+    "n5": "mahogany's",
+    "n6": "mahoganies'",
+    "n7": "a mahogany",
+    "n8": "many mahoganies"
+}

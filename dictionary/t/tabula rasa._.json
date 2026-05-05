@@ -1,0 +1,18 @@
+{
+    "base": "tabula rasa",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tabula rasa",
+    "n2": "tabula rasas",
+    "n3": "the tabula rasa",
+    "n4": "the tabula rasas",
+    "n5": "tabula rasa's",
+    "n6": "tabula rasas'",
+    "n7": "a tabula rasa",
+    "n8": "many tabula rasas"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "kissing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "kissing",
+    "n2": "kissings",
+    "n3": "the kissing",
+    "n4": "the kissings",
+    "n5": "kissing's",
+    "n6": "kissings'",
+    "n7": "a kissing",
+    "n8": "many kissings"
+}

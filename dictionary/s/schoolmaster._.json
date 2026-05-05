@@ -1,0 +1,18 @@
+{
+    "base": "schoolmaster",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "schoolmaster",
+    "n2": "schoolmasters",
+    "n3": "the schoolmaster",
+    "n4": "the schoolmasters",
+    "n5": "schoolmaster's",
+    "n6": "schoolmasters'",
+    "n7": "a schoolmaster",
+    "n8": "many schoolmasters"
+}

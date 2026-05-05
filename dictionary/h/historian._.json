@@ -7,5 +7,12 @@
     "n2": "historians",
     "n3": "the historian",
     "n4": "the historians",
-    "n5": "historian's"
+    "n5": "historian's",
+    "proper": true,
+    "commonness": 20,
+    "max_commonness": 6834,
+    "commonness_ge_count": 976,
+    "n6": "historians'",
+    "n7": "a historian",
+    "n8": "many historians"
 }

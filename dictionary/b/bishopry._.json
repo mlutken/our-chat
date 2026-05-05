@@ -1,0 +1,18 @@
+{
+    "base": "bishopry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bishopry",
+    "n2": "bishopries",
+    "n3": "the bishopry",
+    "n4": "the bishopries",
+    "n5": "bishopry's",
+    "n6": "bishopries'",
+    "n7": "a bishopry",
+    "n8": "many bishopries"
+}

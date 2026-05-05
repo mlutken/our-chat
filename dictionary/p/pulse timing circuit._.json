@@ -1,0 +1,18 @@
+{
+    "base": "pulse timing circuit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pulse timing circuit",
+    "n2": "pulse timing circuits",
+    "n3": "the pulse timing circuit",
+    "n4": "the pulse timing circuits",
+    "n5": "pulse timing circuit's",
+    "n6": "pulse timing circuits'",
+    "n7": "a pulse timing circuit",
+    "n8": "many pulse timing circuits"
+}

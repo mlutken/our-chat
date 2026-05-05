@@ -1,0 +1,18 @@
+{
+    "base": "trepidation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "trepidation",
+    "n2": "trepidations",
+    "n3": "the trepidation",
+    "n4": "the trepidations",
+    "n5": "trepidation's",
+    "n6": "trepidations'",
+    "n7": "a trepidation",
+    "n8": "many trepidations"
+}

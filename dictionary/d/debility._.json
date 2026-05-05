@@ -1,0 +1,18 @@
+{
+    "base": "debility",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "debility",
+    "n2": "debilities",
+    "n3": "the debility",
+    "n4": "the debilities",
+    "n5": "debility's",
+    "n6": "debilities'",
+    "n7": "a debility",
+    "n8": "many debilities"
+}

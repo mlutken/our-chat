@@ -1,0 +1,18 @@
+{
+    "base": "purple heart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "purple heart",
+    "n2": "purple hearts",
+    "n3": "the purple heart",
+    "n4": "the purple hearts",
+    "n5": "purple heart's",
+    "n6": "purple hearts'",
+    "n7": "a purple heart",
+    "n8": "many purple hearts"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "seaman",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "seaman",
+    "n2": "seamen",
+    "n3": "the seaman",
+    "n4": "the seamen",
+    "n5": "seaman's",
+    "n6": "seamen's",
+    "n7": "a seaman",
+    "n8": "many seamen"
+}

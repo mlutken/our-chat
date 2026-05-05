@@ -1,0 +1,18 @@
+{
+    "base": "cm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n1": "cm",
+    "n2": "cms",
+    "n3": "the cm",
+    "n4": "the cms",
+    "n5": "cm's",
+    "n6": "cms'",
+    "n7": "a cm",
+    "n8": "many cms"
+}

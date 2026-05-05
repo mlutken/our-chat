@@ -1,0 +1,18 @@
+{
+    "base": "fright",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fright",
+    "n2": "frights",
+    "n3": "the fright",
+    "n4": "the frights",
+    "n5": "fright's",
+    "n6": "frights'",
+    "n7": "a fright",
+    "n8": "many frights"
+}

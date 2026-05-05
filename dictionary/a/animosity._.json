@@ -1,0 +1,18 @@
+{
+    "base": "animosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "animosity",
+    "n2": "animosities",
+    "n3": "the animosity",
+    "n4": "the animosities",
+    "n5": "animosity's",
+    "n6": "animosities'",
+    "n7": "an animosity",
+    "n8": "many animosities"
+}

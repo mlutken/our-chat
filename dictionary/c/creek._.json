@@ -1,0 +1,18 @@
+{
+    "base": "creek",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "creek",
+    "n2": "creeks",
+    "n3": "the creek",
+    "n4": "the creeks",
+    "n5": "creek's",
+    "n6": "creeks'",
+    "n7": "a creek",
+    "n8": "many creeks"
+}

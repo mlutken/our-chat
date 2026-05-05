@@ -1,0 +1,18 @@
+{
+    "base": "strain",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "strain",
+    "n2": "strains",
+    "n3": "the strain",
+    "n4": "the strains",
+    "n5": "strain's",
+    "n6": "strains'",
+    "n7": "a strain",
+    "n8": "many strains"
+}

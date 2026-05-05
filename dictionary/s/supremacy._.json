@@ -1,0 +1,18 @@
+{
+    "base": "supremacy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "supremacy",
+    "n2": "supremacies",
+    "n3": "the supremacy",
+    "n4": "the supremacies",
+    "n5": "supremacy's",
+    "n6": "supremacies'",
+    "n7": "a supremacy",
+    "n8": "many supremacies"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "impurity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "impurity",
+    "n2": "impurities",
+    "n3": "the impurity",
+    "n4": "the impurities",
+    "n5": "impurity's",
+    "n6": "impurities'",
+    "n7": "an impurity",
+    "n8": "many impurities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "woolen",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "woolen",
+    "n2": "woolens",
+    "n3": "the woolen",
+    "n4": "the woolens",
+    "n5": "woolen's",
+    "n6": "woolens'",
+    "n7": "a woolen",
+    "n8": "many woolens"
+}

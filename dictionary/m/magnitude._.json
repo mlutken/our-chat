@@ -1,0 +1,18 @@
+{
+    "base": "magnitude",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "magnitude",
+    "n2": "magnitudes",
+    "n3": "the magnitude",
+    "n4": "the magnitudes",
+    "n5": "magnitude's",
+    "n6": "magnitudes'",
+    "n7": "a magnitude",
+    "n8": "many magnitudes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "prison farm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prison farm",
+    "n2": "prison farms",
+    "n3": "the prison farm",
+    "n4": "the prison farms",
+    "n5": "prison farm's",
+    "n6": "prison farms'",
+    "n7": "a prison farm",
+    "n8": "many prison farms"
+}

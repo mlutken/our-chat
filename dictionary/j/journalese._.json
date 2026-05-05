@@ -1,0 +1,18 @@
+{
+    "base": "journalese",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "journalese",
+    "n2": "journaleses",
+    "n3": "the journalese",
+    "n4": "the journaleses",
+    "n5": "journalese's",
+    "n6": "journaleses'",
+    "n7": "a journalese",
+    "n8": "many journaleses"
+}

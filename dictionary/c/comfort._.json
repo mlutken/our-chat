@@ -1,11 +1,24 @@
 {
     "base": "comfort",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "comfort",
     "v2": "comforted",
     "v3": "comforted",
     "v4": "comforting",
-    "v5": "comforts"
+    "v5": "comforts",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "comfort",
+    "n2": "comforts",
+    "n3": "the comfort",
+    "n4": "the comforts",
+    "n5": "comfort's",
+    "n6": "comforts'",
+    "n7": "a comfort",
+    "n8": "many comforts"
 }

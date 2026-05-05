@@ -1,0 +1,18 @@
+{
+    "base": "chastity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "chastity",
+    "n2": "chastities",
+    "n3": "the chastity",
+    "n4": "the chastities",
+    "n5": "chastity's",
+    "n6": "chastities'",
+    "n7": "a chastity",
+    "n8": "many chastities"
+}

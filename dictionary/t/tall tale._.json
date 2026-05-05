@@ -1,0 +1,18 @@
+{
+    "base": "tall tale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tall tale",
+    "n2": "tall tales",
+    "n3": "the tall tale",
+    "n4": "the tall tales",
+    "n5": "tall tale's",
+    "n6": "tall tales'",
+    "n7": "a tall tale",
+    "n8": "many tall tales"
+}

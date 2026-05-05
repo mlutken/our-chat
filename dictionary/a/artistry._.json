@@ -1,0 +1,18 @@
+{
+    "base": "artistry",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "artistry",
+    "n2": "artistries",
+    "n3": "the artistry",
+    "n4": "the artistries",
+    "n5": "artistry's",
+    "n6": "artistries'",
+    "n7": "an artistry",
+    "n8": "many artistries"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "intermediary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "intermediary",
+    "n2": "intermediaries",
+    "n3": "the intermediary",
+    "n4": "the intermediaries",
+    "n5": "intermediary's",
+    "n6": "intermediaries'",
+    "n7": "an intermediary",
+    "n8": "many intermediaries"
+}

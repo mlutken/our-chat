@@ -1,0 +1,18 @@
+{
+    "base": "telephone order",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "telephone order",
+    "n2": "telephone orders",
+    "n3": "the telephone order",
+    "n4": "the telephone orders",
+    "n5": "telephone order's",
+    "n6": "telephone orders'",
+    "n7": "a telephone order",
+    "n8": "many telephone orders"
+}

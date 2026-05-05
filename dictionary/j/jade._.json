@@ -1,0 +1,18 @@
+{
+    "base": "jade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "jade",
+    "n2": "jades",
+    "n3": "the jade",
+    "n4": "the jades",
+    "n5": "jade's",
+    "n6": "jades'",
+    "n7": "a jade",
+    "n8": "many jades"
+}

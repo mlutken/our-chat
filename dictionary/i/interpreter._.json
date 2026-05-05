@@ -1,0 +1,18 @@
+{
+    "base": "interpreter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "interpreter",
+    "n2": "interpreters",
+    "n3": "the interpreter",
+    "n4": "the interpreters",
+    "n5": "interpreter's",
+    "n6": "interpreters'",
+    "n7": "an interpreter",
+    "n8": "many interpreters"
+}

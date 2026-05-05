@@ -1,0 +1,18 @@
+{
+    "base": "surveying",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "surveying",
+    "n2": "surveyings",
+    "n3": "the surveying",
+    "n4": "the surveyings",
+    "n5": "surveying's",
+    "n6": "surveyings'",
+    "n7": "a surveying",
+    "n8": "many surveyings"
+}

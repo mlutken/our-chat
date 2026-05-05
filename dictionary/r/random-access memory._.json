@@ -1,0 +1,18 @@
+{
+    "base": "random-access memory",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "random-access memory",
+    "n2": "random-access memories",
+    "n3": "the random-access memory",
+    "n4": "the random-access memories",
+    "n5": "random-access memory's",
+    "n6": "random-access memories'",
+    "n7": "a random-access memory",
+    "n8": "many random-access memories"
+}

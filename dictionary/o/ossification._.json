@@ -1,0 +1,18 @@
+{
+    "base": "ossification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "ossification",
+    "n2": "ossifications",
+    "n3": "the ossification",
+    "n4": "the ossifications",
+    "n5": "ossification's",
+    "n6": "ossifications'",
+    "n7": "an ossification",
+    "n8": "many ossifications"
+}

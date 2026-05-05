@@ -1,0 +1,18 @@
+{
+    "base": "relevancy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "relevancy",
+    "n2": "relevancies",
+    "n3": "the relevancy",
+    "n4": "the relevancies",
+    "n5": "relevancy's",
+    "n6": "relevancies'",
+    "n7": "a relevancy",
+    "n8": "many relevancies"
+}

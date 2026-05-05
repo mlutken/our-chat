@@ -1,0 +1,18 @@
+{
+    "base": "thermostatics",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "thermostatics",
+    "n2": "thermostaticses",
+    "n3": "the thermostatics",
+    "n4": "the thermostaticses",
+    "n5": "thermostatics'",
+    "n6": "thermostaticses'",
+    "n7": "a thermostatics",
+    "n8": "many thermostaticses"
+}

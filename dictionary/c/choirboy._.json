@@ -1,0 +1,18 @@
+{
+    "base": "choirboy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "choirboy",
+    "n2": "choirboys",
+    "n3": "the choirboy",
+    "n4": "the choirboys",
+    "n5": "choirboy's",
+    "n6": "choirboys'",
+    "n7": "a choirboy",
+    "n8": "many choirboys"
+}

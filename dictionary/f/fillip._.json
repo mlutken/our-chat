@@ -1,0 +1,18 @@
+{
+    "base": "fillip",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "fillip",
+    "n2": "fillips",
+    "n3": "the fillip",
+    "n4": "the fillips",
+    "n5": "fillip's",
+    "n6": "fillips'",
+    "n7": "a fillip",
+    "n8": "many fillips"
+}

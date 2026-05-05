@@ -1,0 +1,18 @@
+{
+    "base": "uniform",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "uniform",
+    "n2": "uniforms",
+    "n3": "the uniform",
+    "n4": "the uniforms",
+    "n5": "uniform's",
+    "n6": "uniforms'",
+    "n7": "a uniform",
+    "n8": "many uniforms"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lending",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lending",
+    "n2": "lendings",
+    "n3": "the lending",
+    "n4": "the lendings",
+    "n5": "lending's",
+    "n6": "lendings'",
+    "n7": "a lending",
+    "n8": "many lendings"
+}

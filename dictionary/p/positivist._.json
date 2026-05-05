@@ -1,0 +1,18 @@
+{
+    "base": "positivist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "positivist",
+    "n2": "positivists",
+    "n3": "the positivist",
+    "n4": "the positivists",
+    "n5": "positivist's",
+    "n6": "positivists'",
+    "n7": "a positivist",
+    "n8": "many positivists"
+}

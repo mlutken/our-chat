@@ -1,0 +1,18 @@
+{
+    "base": "tissue paper",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "tissue paper",
+    "n2": "tissue papers",
+    "n3": "the tissue paper",
+    "n4": "the tissue papers",
+    "n5": "tissue paper's",
+    "n6": "tissue papers'",
+    "n7": "a tissue paper",
+    "n8": "many tissue papers"
+}

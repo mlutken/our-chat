@@ -7,5 +7,12 @@
     "n2": "elevators",
     "n3": "the elevator",
     "n4": "the elevators",
-    "n5": "elevator's"
+    "n5": "elevator's",
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n6": "elevators'",
+    "n7": "an elevator",
+    "n8": "many elevators"
 }

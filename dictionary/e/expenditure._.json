@@ -1,0 +1,18 @@
+{
+    "base": "expenditure",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 23,
+    "max_commonness": 6834,
+    "commonness_ge_count": 825,
+    "n1": "expenditure",
+    "n2": "expenditures",
+    "n3": "the expenditure",
+    "n4": "the expenditures",
+    "n5": "expenditure's",
+    "n6": "expenditures'",
+    "n7": "an expenditure",
+    "n8": "many expenditures"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "peroxide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peroxide",
+    "n2": "peroxides",
+    "n3": "the peroxide",
+    "n4": "the peroxides",
+    "n5": "peroxide's",
+    "n6": "peroxides'",
+    "n7": "a peroxide",
+    "n8": "many peroxides"
+}

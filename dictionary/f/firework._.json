@@ -1,0 +1,18 @@
+{
+    "base": "firework",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "firework",
+    "n2": "fireworks",
+    "n3": "the firework",
+    "n4": "the fireworks",
+    "n5": "firework's",
+    "n6": "fireworks'",
+    "n7": "a firework",
+    "n8": "many fireworks"
+}

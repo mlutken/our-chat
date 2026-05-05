@@ -1,11 +1,24 @@
 {
     "base": "worth",
     "classes": [
+        "n",
         "adj",
         "pre"
     ],
     "adj1": "worth",
     "adj2": "more worth",
     "adj3": "most worth",
-    "f0": "worth"
+    "f0": "worth",
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "worth",
+    "n2": "worths",
+    "n3": "the worth",
+    "n4": "the worths",
+    "n5": "worth's",
+    "n6": "worths'",
+    "n7": "a worth",
+    "n8": "many worths"
 }

@@ -1,0 +1,18 @@
+{
+    "base": "booking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "booking",
+    "n2": "bookings",
+    "n3": "the booking",
+    "n4": "the bookings",
+    "n5": "booking's",
+    "n6": "bookings'",
+    "n7": "a booking",
+    "n8": "many bookings"
+}

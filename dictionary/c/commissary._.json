@@ -1,0 +1,18 @@
+{
+    "base": "commissary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "commissary",
+    "n2": "commissaries",
+    "n3": "the commissary",
+    "n4": "the commissaries",
+    "n5": "commissary's",
+    "n6": "commissaries'",
+    "n7": "a commissary",
+    "n8": "many commissaries"
+}

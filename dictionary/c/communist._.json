@@ -1,0 +1,18 @@
+{
+    "base": "communist",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "communist",
+    "n2": "communists",
+    "n3": "the communist",
+    "n4": "the communists",
+    "n5": "communist's",
+    "n6": "communists'",
+    "n7": "a communist",
+    "n8": "many communists"
+}

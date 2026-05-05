@@ -7,5 +7,12 @@
     "n2": "marketings",
     "n3": "the marketing",
     "n4": "the marketings",
-    "n5": "marketing's"
+    "n5": "marketing's",
+    "proper": false,
+    "commonness": 31,
+    "max_commonness": 6834,
+    "commonness_ge_count": 599,
+    "n6": "marketings'",
+    "n7": "a marketing",
+    "n8": "many marketings"
 }

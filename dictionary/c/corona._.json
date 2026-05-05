@@ -1,0 +1,18 @@
+{
+    "base": "corona",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "corona",
+    "n2": "coronae",
+    "n3": "the corona",
+    "n4": "the coronae",
+    "n5": "corona's",
+    "n6": "coronae's",
+    "n7": "a corona",
+    "n8": "many coronae"
+}

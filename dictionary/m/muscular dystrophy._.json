@@ -1,0 +1,18 @@
+{
+    "base": "muscular dystrophy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "muscular dystrophy",
+    "n2": "muscular dystrophies",
+    "n3": "the muscular dystrophy",
+    "n4": "the muscular dystrophies",
+    "n5": "muscular dystrophy's",
+    "n6": "muscular dystrophies'",
+    "n7": "a muscular dystrophy",
+    "n8": "many muscular dystrophies"
+}

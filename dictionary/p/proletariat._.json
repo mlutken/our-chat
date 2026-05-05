@@ -1,0 +1,18 @@
+{
+    "base": "proletariat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "proletariat",
+    "n2": "proletariats",
+    "n3": "the proletariat",
+    "n4": "the proletariats",
+    "n5": "proletariat's",
+    "n6": "proletariats'",
+    "n7": "a proletariat",
+    "n8": "many proletariats"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "heart disease",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "heart disease",
+    "n2": "heart diseases",
+    "n3": "the heart disease",
+    "n4": "the heart diseases",
+    "n5": "heart disease's",
+    "n6": "heart diseases'",
+    "n7": "a heart disease",
+    "n8": "many heart diseases"
+}

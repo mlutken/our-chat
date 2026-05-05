@@ -1,0 +1,18 @@
+{
+    "base": "hot potato",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hot potato",
+    "n2": "hot potatos",
+    "n3": "the hot potato",
+    "n4": "the hot potatos",
+    "n5": "hot potato's",
+    "n6": "hot potatos'",
+    "n7": "a hot potato",
+    "n8": "many hot potatos"
+}

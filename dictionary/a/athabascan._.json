@@ -1,0 +1,18 @@
+{
+    "base": "athabascan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "athabascan",
+    "n2": "athabascans",
+    "n3": "the athabascan",
+    "n4": "the athabascans",
+    "n5": "athabascan's",
+    "n6": "athabascans'",
+    "n7": "an athabascan",
+    "n8": "many athabascans"
+}

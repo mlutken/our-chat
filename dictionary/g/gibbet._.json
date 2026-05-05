@@ -1,0 +1,18 @@
+{
+    "base": "gibbet",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gibbet",
+    "n2": "gibbets",
+    "n3": "the gibbet",
+    "n4": "the gibbets",
+    "n5": "gibbet's",
+    "n6": "gibbets'",
+    "n7": "a gibbet",
+    "n8": "many gibbets"
+}

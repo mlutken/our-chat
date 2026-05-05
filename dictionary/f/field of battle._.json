@@ -1,0 +1,18 @@
+{
+    "base": "field of battle",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "field of battle",
+    "n2": "field of battles",
+    "n3": "the field of battle",
+    "n4": "the field of battles",
+    "n5": "field of battle's",
+    "n6": "field of battles'",
+    "n7": "a field of battle",
+    "n8": "many field of battles"
+}

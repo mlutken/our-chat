@@ -1,0 +1,18 @@
+{
+    "base": "commando",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "commando",
+    "n2": "commandoes",
+    "n3": "the commando",
+    "n4": "the commandoes",
+    "n5": "commando's",
+    "n6": "commandoes'",
+    "n7": "a commando",
+    "n8": "many commandoes"
+}

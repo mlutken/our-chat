@@ -1,0 +1,18 @@
+{
+    "base": "cruelty",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "cruelty",
+    "n2": "cruelties",
+    "n3": "the cruelty",
+    "n4": "the cruelties",
+    "n5": "cruelty's",
+    "n6": "cruelties'",
+    "n7": "a cruelty",
+    "n8": "many cruelties"
+}

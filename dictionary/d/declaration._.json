@@ -1,0 +1,18 @@
+{
+    "base": "declaration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "declaration",
+    "n2": "declarations",
+    "n3": "the declaration",
+    "n4": "the declarations",
+    "n5": "declaration's",
+    "n6": "declarations'",
+    "n7": "a declaration",
+    "n8": "many declarations"
+}

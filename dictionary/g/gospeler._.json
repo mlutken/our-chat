@@ -1,0 +1,18 @@
+{
+    "base": "gospeler",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gospeler",
+    "n2": "gospelers",
+    "n3": "the gospeler",
+    "n4": "the gospelers",
+    "n5": "gospeler's",
+    "n6": "gospelers'",
+    "n7": "a gospeler",
+    "n8": "many gospelers"
+}

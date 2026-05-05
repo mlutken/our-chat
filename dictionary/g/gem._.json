@@ -1,0 +1,18 @@
+{
+    "base": "gem",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gem",
+    "n2": "gems",
+    "n3": "the gem",
+    "n4": "the gems",
+    "n5": "gem's",
+    "n6": "gems'",
+    "n7": "a gem",
+    "n8": "many gems"
+}

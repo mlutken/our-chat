@@ -1,0 +1,18 @@
+{
+    "base": "hegel",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hegel",
+    "n2": "hegels",
+    "n3": "the hegel",
+    "n4": "the hegels",
+    "n5": "hegel's",
+    "n6": "hegels'",
+    "n7": "a hegel",
+    "n8": "many hegels"
+}

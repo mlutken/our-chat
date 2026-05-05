@@ -1,0 +1,18 @@
+{
+    "base": "minute of arc",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "minute of arc",
+    "n2": "minute of arcs",
+    "n3": "the minute of arc",
+    "n4": "the minute of arcs",
+    "n5": "minute of arc's",
+    "n6": "minute of arcs'",
+    "n7": "a minute of arc",
+    "n8": "many minute of arcs"
+}

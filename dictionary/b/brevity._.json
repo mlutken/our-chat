@@ -1,0 +1,18 @@
+{
+    "base": "brevity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "brevity",
+    "n2": "brevities",
+    "n3": "the brevity",
+    "n4": "the brevities",
+    "n5": "brevity's",
+    "n6": "brevities'",
+    "n7": "a brevity",
+    "n8": "many brevities"
+}

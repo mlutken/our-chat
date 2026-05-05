@@ -1,0 +1,18 @@
+{
+    "base": "shock therapy",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shock therapy",
+    "n2": "shock therapies",
+    "n3": "the shock therapy",
+    "n4": "the shock therapies",
+    "n5": "shock therapy's",
+    "n6": "shock therapies'",
+    "n7": "a shock therapy",
+    "n8": "many shock therapies"
+}

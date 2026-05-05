@@ -7,5 +7,12 @@
     "n2": "evidences",
     "n3": "the evidence",
     "n4": "the evidences",
-    "n5": "evidence's"
+    "n5": "evidence's",
+    "proper": false,
+    "commonness": 84,
+    "max_commonness": 6834,
+    "commonness_ge_count": 150,
+    "n6": "evidences'",
+    "n7": "an evidence",
+    "n8": "many evidences"
 }

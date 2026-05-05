@@ -1,0 +1,18 @@
+{
+    "base": "hangover",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "hangover",
+    "n2": "hangovers",
+    "n3": "the hangover",
+    "n4": "the hangovers",
+    "n5": "hangover's",
+    "n6": "hangovers'",
+    "n7": "a hangover",
+    "n8": "many hangovers"
+}

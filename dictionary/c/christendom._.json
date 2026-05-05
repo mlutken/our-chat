@@ -1,0 +1,18 @@
+{
+    "base": "christendom",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "christendom",
+    "n2": "christendoms",
+    "n3": "the christendom",
+    "n4": "the christendoms",
+    "n5": "christendom's",
+    "n6": "christendoms'",
+    "n7": "a christendom",
+    "n8": "many christendoms"
+}

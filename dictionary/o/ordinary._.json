@@ -1,0 +1,18 @@
+{
+    "base": "ordinary",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "ordinary",
+    "n2": "ordinaries",
+    "n3": "the ordinary",
+    "n4": "the ordinaries",
+    "n5": "ordinary's",
+    "n6": "ordinaries'",
+    "n7": "an ordinary",
+    "n8": "many ordinaries"
+}

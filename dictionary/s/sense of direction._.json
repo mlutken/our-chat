@@ -1,0 +1,18 @@
+{
+    "base": "sense of direction",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sense of direction",
+    "n2": "sense of directions",
+    "n3": "the sense of direction",
+    "n4": "the sense of directions",
+    "n5": "sense of direction's",
+    "n6": "sense of directions'",
+    "n7": "a sense of direction",
+    "n8": "many sense of directions"
+}

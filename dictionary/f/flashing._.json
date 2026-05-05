@@ -1,0 +1,18 @@
+{
+    "base": "flashing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "flashing",
+    "n2": "flashings",
+    "n3": "the flashing",
+    "n4": "the flashings",
+    "n5": "flashing's",
+    "n6": "flashings'",
+    "n7": "a flashing",
+    "n8": "many flashings"
+}

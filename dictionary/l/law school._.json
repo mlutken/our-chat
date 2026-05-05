@@ -1,0 +1,18 @@
+{
+    "base": "law school",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "law school",
+    "n2": "law schools",
+    "n3": "the law school",
+    "n4": "the law schools",
+    "n5": "law school's",
+    "n6": "law schools'",
+    "n7": "a law school",
+    "n8": "many law schools"
+}

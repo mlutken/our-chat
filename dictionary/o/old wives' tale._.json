@@ -1,0 +1,18 @@
+{
+    "base": "old wives' tale",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "old wives' tale",
+    "n2": "old wives' tales",
+    "n3": "the old wives' tale",
+    "n4": "the old wives' tales",
+    "n5": "old wives' tale's",
+    "n6": "old wives' tales'",
+    "n7": "an old wives' tale",
+    "n8": "many old wives' tales"
+}

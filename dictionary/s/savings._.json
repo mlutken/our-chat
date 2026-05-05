@@ -1,0 +1,18 @@
+{
+    "base": "savings",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "savings",
+    "n2": "savingses",
+    "n3": "the savings",
+    "n4": "the savingses",
+    "n5": "savings'",
+    "n6": "savingses'",
+    "n7": "a savings",
+    "n8": "many savingses"
+}

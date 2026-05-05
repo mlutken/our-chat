@@ -1,0 +1,18 @@
+{
+    "base": "deadhead",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "deadhead",
+    "n2": "deadheads",
+    "n3": "the deadhead",
+    "n4": "the deadheads",
+    "n5": "deadhead's",
+    "n6": "deadheads'",
+    "n7": "a deadhead",
+    "n8": "many deadheads"
+}

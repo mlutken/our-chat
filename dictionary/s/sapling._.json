@@ -1,0 +1,18 @@
+{
+    "base": "sapling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sapling",
+    "n2": "saplings",
+    "n3": "the sapling",
+    "n4": "the saplings",
+    "n5": "sapling's",
+    "n6": "saplings'",
+    "n7": "a sapling",
+    "n8": "many saplings"
+}

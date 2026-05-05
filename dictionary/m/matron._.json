@@ -1,0 +1,18 @@
+{
+    "base": "matron",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "matron",
+    "n2": "matrons",
+    "n3": "the matron",
+    "n4": "the matrons",
+    "n5": "matron's",
+    "n6": "matrons'",
+    "n7": "a matron",
+    "n8": "many matrons"
+}

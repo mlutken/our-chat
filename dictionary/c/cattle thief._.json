@@ -1,0 +1,18 @@
+{
+    "base": "cattle thief",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cattle thief",
+    "n2": "cattle thieves",
+    "n3": "the cattle thief",
+    "n4": "the cattle thieves",
+    "n5": "cattle thief's",
+    "n6": "cattle thieves'",
+    "n7": "a cattle thief",
+    "n8": "many cattle thieves"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "londoner",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "londoner",
+    "n2": "londoners",
+    "n3": "the londoner",
+    "n4": "the londoners",
+    "n5": "londoner's",
+    "n6": "londoners'",
+    "n7": "a londoner",
+    "n8": "many londoners"
+}

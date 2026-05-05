@@ -1,0 +1,18 @@
+{
+    "base": "basement",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 18,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1084,
+    "n1": "basement",
+    "n2": "basements",
+    "n3": "the basement",
+    "n4": "the basements",
+    "n5": "basement's",
+    "n6": "basements'",
+    "n7": "a basement",
+    "n8": "many basements"
+}

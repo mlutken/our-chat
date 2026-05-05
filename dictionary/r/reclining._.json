@@ -1,0 +1,18 @@
+{
+    "base": "reclining",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "reclining",
+    "n2": "reclinings",
+    "n3": "the reclining",
+    "n4": "the reclinings",
+    "n5": "reclining's",
+    "n6": "reclinings'",
+    "n7": "a reclining",
+    "n8": "many reclinings"
+}

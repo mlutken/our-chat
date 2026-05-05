@@ -1,0 +1,18 @@
+{
+    "base": "corn",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "corn",
+    "n2": "corns",
+    "n3": "the corn",
+    "n4": "the corns",
+    "n5": "corn's",
+    "n6": "corns'",
+    "n7": "a corn",
+    "n8": "many corns"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "case load",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "case load",
+    "n2": "case loads",
+    "n3": "the case load",
+    "n4": "the case loads",
+    "n5": "case load's",
+    "n6": "case loads'",
+    "n7": "a case load",
+    "n8": "many case loads"
+}

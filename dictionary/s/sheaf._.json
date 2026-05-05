@@ -1,0 +1,18 @@
+{
+    "base": "sheaf",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sheaf",
+    "n2": "sheaves",
+    "n3": "the sheaf",
+    "n4": "the sheaves",
+    "n5": "sheaf's",
+    "n6": "sheaves'",
+    "n7": "a sheaf",
+    "n8": "many sheaves"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "porosity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "porosity",
+    "n2": "porosities",
+    "n3": "the porosity",
+    "n4": "the porosities",
+    "n5": "porosity's",
+    "n6": "porosities'",
+    "n7": "a porosity",
+    "n8": "many porosities"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sandal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "sandal",
+    "n2": "sandals",
+    "n3": "the sandal",
+    "n4": "the sandals",
+    "n5": "sandal's",
+    "n6": "sandals'",
+    "n7": "a sandal",
+    "n8": "many sandals"
+}

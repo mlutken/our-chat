@@ -1,0 +1,18 @@
+{
+    "base": "inexperienced person",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inexperienced person",
+    "n2": "inexperienced persons",
+    "n3": "the inexperienced person",
+    "n4": "the inexperienced persons",
+    "n5": "inexperienced person's",
+    "n6": "inexperienced persons'",
+    "n7": "an inexperienced person",
+    "n8": "many inexperienced persons"
+}

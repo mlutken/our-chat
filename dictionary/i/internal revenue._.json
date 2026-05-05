@@ -1,0 +1,18 @@
+{
+    "base": "internal revenue",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "internal revenue",
+    "n2": "internal revenues",
+    "n3": "the internal revenue",
+    "n4": "the internal revenues",
+    "n5": "internal revenue's",
+    "n6": "internal revenues'",
+    "n7": "an internal revenue",
+    "n8": "many internal revenues"
+}

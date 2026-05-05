@@ -1,0 +1,18 @@
+{
+    "base": "cap",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "cap",
+    "n2": "caps",
+    "n3": "the cap",
+    "n4": "the caps",
+    "n5": "cap's",
+    "n6": "caps'",
+    "n7": "a cap",
+    "n8": "many caps"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "repeal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "repeal",
+    "n2": "repeals",
+    "n3": "the repeal",
+    "n4": "the repeals",
+    "n5": "repeal's",
+    "n6": "repeals'",
+    "n7": "a repeal",
+    "n8": "many repeals"
+}

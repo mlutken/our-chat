@@ -1,0 +1,18 @@
+{
+    "base": "aberration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "aberration",
+    "n2": "aberrations",
+    "n3": "the aberration",
+    "n4": "the aberrations",
+    "n5": "aberration's",
+    "n6": "aberrations'",
+    "n7": "an aberration",
+    "n8": "many aberrations"
+}

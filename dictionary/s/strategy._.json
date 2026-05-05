@@ -7,5 +7,12 @@
     "n2": "strategies",
     "n3": "the strategy",
     "n4": "the strategies",
-    "n5": "strategy's"
+    "n5": "strategy's",
+    "proper": false,
+    "commonness": 12,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1569,
+    "n6": "strategies'",
+    "n7": "a strategy",
+    "n8": "many strategies"
 }

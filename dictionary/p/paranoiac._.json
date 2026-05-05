@@ -1,0 +1,18 @@
+{
+    "base": "paranoiac",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "paranoiac",
+    "n2": "paranoiacs",
+    "n3": "the paranoiac",
+    "n4": "the paranoiacs",
+    "n5": "paranoiac's",
+    "n6": "paranoiacs'",
+    "n7": "a paranoiac",
+    "n8": "many paranoiacs"
+}

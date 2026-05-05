@@ -1,0 +1,18 @@
+{
+    "base": "lieutenant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 49,
+    "max_commonness": 6834,
+    "commonness_ge_count": 338,
+    "n1": "lieutenant",
+    "n2": "lieutenants",
+    "n3": "the lieutenant",
+    "n4": "the lieutenants",
+    "n5": "lieutenant's",
+    "n6": "lieutenants'",
+    "n7": "a lieutenant",
+    "n8": "many lieutenants"
+}

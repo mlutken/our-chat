@@ -1,0 +1,18 @@
+{
+    "base": "dustbin",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dustbin",
+    "n2": "dustbins",
+    "n3": "the dustbin",
+    "n4": "the dustbins",
+    "n5": "dustbin's",
+    "n6": "dustbins'",
+    "n7": "a dustbin",
+    "n8": "many dustbins"
+}

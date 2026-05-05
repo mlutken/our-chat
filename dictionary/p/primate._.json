@@ -1,0 +1,18 @@
+{
+    "base": "primate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "primate",
+    "n2": "primates",
+    "n3": "the primate",
+    "n4": "the primates",
+    "n5": "primate's",
+    "n6": "primates'",
+    "n7": "a primate",
+    "n8": "many primates"
+}

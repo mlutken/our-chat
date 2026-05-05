@@ -1,9 +1,22 @@
 {
     "base": "public",
     "classes": [
+        "n",
         "adj"
     ],
     "adj1": "public",
     "adj2": "more public",
-    "adj3": "most public"
+    "adj3": "most public",
+    "proper": false,
+    "commonness": 39,
+    "max_commonness": 6834,
+    "commonness_ge_count": 456,
+    "n1": "public",
+    "n2": "publics",
+    "n3": "the public",
+    "n4": "the publics",
+    "n5": "public's",
+    "n6": "publics'",
+    "n7": "a public",
+    "n8": "many publics"
 }

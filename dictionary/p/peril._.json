@@ -1,0 +1,18 @@
+{
+    "base": "peril",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "peril",
+    "n2": "perils",
+    "n3": "the peril",
+    "n4": "the perils",
+    "n5": "peril's",
+    "n6": "perils'",
+    "n7": "a peril",
+    "n8": "many perils"
+}

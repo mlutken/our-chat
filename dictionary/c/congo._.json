@@ -1,0 +1,18 @@
+{
+    "base": "congo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "congo",
+    "n2": "congos",
+    "n3": "the congo",
+    "n4": "the congos",
+    "n5": "congo's",
+    "n6": "congos'",
+    "n7": "a congo",
+    "n8": "many congos"
+}

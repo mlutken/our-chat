@@ -1,0 +1,18 @@
+{
+    "base": "grouping",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "grouping",
+    "n2": "groupings",
+    "n3": "the grouping",
+    "n4": "the groupings",
+    "n5": "grouping's",
+    "n6": "groupings'",
+    "n7": "a grouping",
+    "n8": "many groupings"
+}

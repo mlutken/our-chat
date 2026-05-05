@@ -1,0 +1,18 @@
+{
+    "base": "bone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "bone",
+    "n2": "bones",
+    "n3": "the bone",
+    "n4": "the bones",
+    "n5": "bone's",
+    "n6": "bones'",
+    "n7": "a bone",
+    "n8": "many bones"
+}

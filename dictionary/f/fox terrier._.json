@@ -1,0 +1,18 @@
+{
+    "base": "fox terrier",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fox terrier",
+    "n2": "fox terriers",
+    "n3": "the fox terrier",
+    "n4": "the fox terriers",
+    "n5": "fox terrier's",
+    "n6": "fox terriers'",
+    "n7": "a fox terrier",
+    "n8": "many fox terriers"
+}

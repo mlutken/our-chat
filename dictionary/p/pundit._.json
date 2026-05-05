@@ -1,0 +1,18 @@
+{
+    "base": "pundit",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pundit",
+    "n2": "pundits",
+    "n3": "the pundit",
+    "n4": "the pundits",
+    "n5": "pundit's",
+    "n6": "pundits'",
+    "n7": "a pundit",
+    "n8": "many pundits"
+}

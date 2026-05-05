@@ -1,0 +1,18 @@
+{
+    "base": "ham and eggs",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ham and eggs",
+    "n2": "ham and eggses",
+    "n3": "the ham and eggs",
+    "n4": "the ham and eggses",
+    "n5": "ham and eggs'",
+    "n6": "ham and eggses'",
+    "n7": "a ham and eggs",
+    "n8": "many ham and eggses"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "balzac",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "balzac",
+    "n2": "balzacs",
+    "n3": "the balzac",
+    "n4": "the balzacs",
+    "n5": "balzac's",
+    "n6": "balzacs'",
+    "n7": "a balzac",
+    "n8": "many balzacs"
+}

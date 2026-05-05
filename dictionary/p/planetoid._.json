@@ -1,0 +1,18 @@
+{
+    "base": "planetoid",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "planetoid",
+    "n2": "planetoids",
+    "n3": "the planetoid",
+    "n4": "the planetoids",
+    "n5": "planetoid's",
+    "n6": "planetoids'",
+    "n7": "a planetoid",
+    "n8": "many planetoids"
+}

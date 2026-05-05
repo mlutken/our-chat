@@ -1,0 +1,18 @@
+{
+    "base": "meat house",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "meat house",
+    "n2": "meat houses",
+    "n3": "the meat house",
+    "n4": "the meat houses",
+    "n5": "meat house's",
+    "n6": "meat houses'",
+    "n7": "a meat house",
+    "n8": "many meat houses"
+}

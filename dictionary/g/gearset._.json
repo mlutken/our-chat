@@ -1,0 +1,18 @@
+{
+    "base": "gearset",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gearset",
+    "n2": "gearsets",
+    "n3": "the gearset",
+    "n4": "the gearsets",
+    "n5": "gearset's",
+    "n6": "gearsets'",
+    "n7": "a gearset",
+    "n8": "many gearsets"
+}

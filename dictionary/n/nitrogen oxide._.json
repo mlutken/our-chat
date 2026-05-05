@@ -1,0 +1,18 @@
+{
+    "base": "nitrogen oxide",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "nitrogen oxide",
+    "n2": "nitrogen oxides",
+    "n3": "the nitrogen oxide",
+    "n4": "the nitrogen oxides",
+    "n5": "nitrogen oxide's",
+    "n6": "nitrogen oxides'",
+    "n7": "a nitrogen oxide",
+    "n8": "many nitrogen oxides"
+}

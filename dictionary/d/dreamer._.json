@@ -1,0 +1,18 @@
+{
+    "base": "dreamer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dreamer",
+    "n2": "dreamers",
+    "n3": "the dreamer",
+    "n4": "the dreamers",
+    "n5": "dreamer's",
+    "n6": "dreamers'",
+    "n7": "a dreamer",
+    "n8": "many dreamers"
+}

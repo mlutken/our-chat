@@ -1,0 +1,18 @@
+{
+    "base": "forearm",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "forearm",
+    "n2": "forearms",
+    "n3": "the forearm",
+    "n4": "the forearms",
+    "n5": "forearm's",
+    "n6": "forearms'",
+    "n7": "a forearm",
+    "n8": "many forearms"
+}

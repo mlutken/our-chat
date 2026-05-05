@@ -7,5 +7,12 @@
     "n2": "weights",
     "n3": "the weight",
     "n4": "the weights",
-    "n5": "weight's"
+    "n5": "weight's",
+    "proper": false,
+    "commonness": 40,
+    "max_commonness": 6834,
+    "commonness_ge_count": 440,
+    "n6": "weights'",
+    "n7": "a weight",
+    "n8": "many weights"
 }

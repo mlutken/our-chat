@@ -1,0 +1,18 @@
+{
+    "base": "wholesaler",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "wholesaler",
+    "n2": "wholesalers",
+    "n3": "the wholesaler",
+    "n4": "the wholesalers",
+    "n5": "wholesaler's",
+    "n6": "wholesalers'",
+    "n7": "a wholesaler",
+    "n8": "many wholesalers"
+}

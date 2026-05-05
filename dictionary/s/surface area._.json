@@ -1,0 +1,18 @@
+{
+    "base": "surface area",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "surface area",
+    "n2": "surface areas",
+    "n3": "the surface area",
+    "n4": "the surface areas",
+    "n5": "surface area's",
+    "n6": "surface areas'",
+    "n7": "a surface area",
+    "n8": "many surface areas"
+}

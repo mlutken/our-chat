@@ -1,0 +1,18 @@
+{
+    "base": "radio spectrum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "radio spectrum",
+    "n2": "radio spectrums",
+    "n3": "the radio spectrum",
+    "n4": "the radio spectrums",
+    "n5": "radio spectrum's",
+    "n6": "radio spectrums'",
+    "n7": "a radio spectrum",
+    "n8": "many radio spectrums"
+}

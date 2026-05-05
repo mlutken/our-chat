@@ -1,0 +1,18 @@
+{
+    "base": "single",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "single",
+    "n2": "singles",
+    "n3": "the single",
+    "n4": "the singles",
+    "n5": "single's",
+    "n6": "singles'",
+    "n7": "a single",
+    "n8": "many singles"
+}

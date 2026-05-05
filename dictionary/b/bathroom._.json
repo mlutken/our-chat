@@ -7,5 +7,12 @@
     "n2": "bathrooms",
     "n3": "the bathroom",
     "n4": "the bathrooms",
-    "n5": "bathroom's"
+    "n5": "bathroom's",
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n6": "bathrooms'",
+    "n7": "a bathroom",
+    "n8": "many bathrooms"
 }

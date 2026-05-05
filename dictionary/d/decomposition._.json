@@ -1,0 +1,18 @@
+{
+    "base": "decomposition",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 11,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1696,
+    "n1": "decomposition",
+    "n2": "decompositions",
+    "n3": "the decomposition",
+    "n4": "the decompositions",
+    "n5": "decomposition's",
+    "n6": "decompositions'",
+    "n7": "a decomposition",
+    "n8": "many decompositions"
+}

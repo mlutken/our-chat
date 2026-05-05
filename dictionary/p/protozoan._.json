@@ -1,0 +1,18 @@
+{
+    "base": "protozoan",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "protozoan",
+    "n2": "protozoa",
+    "n3": "the protozoan",
+    "n4": "the protozoa",
+    "n5": "protozoan's",
+    "n6": "protozoa's",
+    "n7": "a protozoan",
+    "n8": "many protozoa"
+}

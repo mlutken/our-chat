@@ -1,0 +1,18 @@
+{
+    "base": "law-breaking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "law-breaking",
+    "n2": "law-breakings",
+    "n3": "the law-breaking",
+    "n4": "the law-breakings",
+    "n5": "law-breaking's",
+    "n6": "law-breakings'",
+    "n7": "a law-breaking",
+    "n8": "many law-breakings"
+}

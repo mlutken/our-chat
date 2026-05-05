@@ -1,0 +1,18 @@
+{
+    "base": "border",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n1": "border",
+    "n2": "borders",
+    "n3": "the border",
+    "n4": "the borders",
+    "n5": "border's",
+    "n6": "borders'",
+    "n7": "a border",
+    "n8": "many borders"
+}

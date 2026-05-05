@@ -1,0 +1,18 @@
+{
+    "base": "whiteness",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "whiteness",
+    "n2": "whitenesses",
+    "n3": "the whiteness",
+    "n4": "the whitenesses",
+    "n5": "whiteness'",
+    "n6": "whitenesses'",
+    "n7": "a whiteness",
+    "n8": "many whitenesses"
+}

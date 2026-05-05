@@ -7,5 +7,12 @@
     "n2": "depths",
     "n3": "the depth",
     "n4": "the depths",
-    "n5": "depth's"
+    "n5": "depth's",
+    "proper": false,
+    "commonness": 41,
+    "max_commonness": 6834,
+    "commonness_ge_count": 428,
+    "n6": "depths'",
+    "n7": "a depth",
+    "n8": "many depths"
 }

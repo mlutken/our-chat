@@ -1,0 +1,18 @@
+{
+    "base": "tube-nosed fruit bat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "tube-nosed fruit bat",
+    "n2": "tube-nosed fruit bats",
+    "n3": "the tube-nosed fruit bat",
+    "n4": "the tube-nosed fruit bats",
+    "n5": "tube-nosed fruit bat's",
+    "n6": "tube-nosed fruit bats'",
+    "n7": "a tube-nosed fruit bat",
+    "n8": "many tube-nosed fruit bats"
+}

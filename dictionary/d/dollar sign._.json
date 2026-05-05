@@ -1,0 +1,18 @@
+{
+    "base": "dollar sign",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "dollar sign",
+    "n2": "dollar signs",
+    "n3": "the dollar sign",
+    "n4": "the dollar signs",
+    "n5": "dollar sign's",
+    "n6": "dollar signs'",
+    "n7": "a dollar sign",
+    "n8": "many dollar signs"
+}

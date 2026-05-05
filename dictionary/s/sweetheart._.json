@@ -1,0 +1,18 @@
+{
+    "base": "sweetheart",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "sweetheart",
+    "n2": "sweethearts",
+    "n3": "the sweetheart",
+    "n4": "the sweethearts",
+    "n5": "sweetheart's",
+    "n6": "sweethearts'",
+    "n7": "a sweetheart",
+    "n8": "many sweethearts"
+}

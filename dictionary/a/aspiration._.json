@@ -1,0 +1,18 @@
+{
+    "base": "aspiration",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "aspiration",
+    "n2": "aspirations",
+    "n3": "the aspiration",
+    "n4": "the aspirations",
+    "n5": "aspiration's",
+    "n6": "aspirations'",
+    "n7": "an aspiration",
+    "n8": "many aspirations"
+}

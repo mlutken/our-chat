@@ -1,0 +1,18 @@
+{
+    "base": "medical practice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "medical practice",
+    "n2": "medical practices",
+    "n3": "the medical practice",
+    "n4": "the medical practices",
+    "n5": "medical practice's",
+    "n6": "medical practices'",
+    "n7": "a medical practice",
+    "n8": "many medical practices"
+}

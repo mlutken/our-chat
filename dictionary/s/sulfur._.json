@@ -1,0 +1,18 @@
+{
+    "base": "sulfur",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "sulfur",
+    "n2": "sulfurs",
+    "n3": "the sulfur",
+    "n4": "the sulfurs",
+    "n5": "sulfur's",
+    "n6": "sulfurs'",
+    "n7": "a sulfur",
+    "n8": "many sulfurs"
+}

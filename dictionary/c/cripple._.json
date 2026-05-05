@@ -1,0 +1,18 @@
+{
+    "base": "cripple",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cripple",
+    "n2": "cripples",
+    "n3": "the cripple",
+    "n4": "the cripples",
+    "n5": "cripple's",
+    "n6": "cripples'",
+    "n7": "a cripple",
+    "n8": "many cripples"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lobby",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "lobby",
+    "n2": "lobbies",
+    "n3": "the lobby",
+    "n4": "the lobbies",
+    "n5": "lobby's",
+    "n6": "lobbies'",
+    "n7": "a lobby",
+    "n8": "many lobbies"
+}

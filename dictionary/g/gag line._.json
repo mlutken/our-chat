@@ -1,0 +1,18 @@
+{
+    "base": "gag line",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "gag line",
+    "n2": "gag lines",
+    "n3": "the gag line",
+    "n4": "the gag lines",
+    "n5": "gag line's",
+    "n6": "gag lines'",
+    "n7": "a gag line",
+    "n8": "many gag lines"
+}

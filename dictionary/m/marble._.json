@@ -1,0 +1,18 @@
+{
+    "base": "marble",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 10,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1839,
+    "n1": "marble",
+    "n2": "marbles",
+    "n3": "the marble",
+    "n4": "the marbles",
+    "n5": "marble's",
+    "n6": "marbles'",
+    "n7": "a marble",
+    "n8": "many marbles"
+}

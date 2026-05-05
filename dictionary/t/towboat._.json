@@ -1,0 +1,18 @@
+{
+    "base": "towboat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "towboat",
+    "n2": "towboats",
+    "n3": "the towboat",
+    "n4": "the towboats",
+    "n5": "towboat's",
+    "n6": "towboats'",
+    "n7": "a towboat",
+    "n8": "many towboats"
+}

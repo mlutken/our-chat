@@ -1,0 +1,18 @@
+{
+    "base": "subsoil",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "subsoil",
+    "n2": "subsoils",
+    "n3": "the subsoil",
+    "n4": "the subsoils",
+    "n5": "subsoil's",
+    "n6": "subsoils'",
+    "n7": "a subsoil",
+    "n8": "many subsoils"
+}

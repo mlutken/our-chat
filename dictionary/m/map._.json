@@ -7,5 +7,12 @@
     "n2": "maps",
     "n3": "the map",
     "n4": "the maps",
-    "n5": "map's"
+    "n5": "map's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "maps'",
+    "n7": "a map",
+    "n8": "many maps"
 }

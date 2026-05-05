@@ -1,0 +1,18 @@
+{
+    "base": "taiwan",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "taiwan",
+    "n2": "taiwans",
+    "n3": "the taiwan",
+    "n4": "the taiwans",
+    "n5": "taiwan's",
+    "n6": "taiwans'",
+    "n7": "a taiwan",
+    "n8": "many taiwans"
+}

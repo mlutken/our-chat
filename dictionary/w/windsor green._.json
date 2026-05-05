@@ -1,0 +1,18 @@
+{
+    "base": "windsor green",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "windsor green",
+    "n2": "windsor greens",
+    "n3": "the windsor green",
+    "n4": "the windsor greens",
+    "n5": "windsor green's",
+    "n6": "windsor greens'",
+    "n7": "a windsor green",
+    "n8": "many windsor greens"
+}

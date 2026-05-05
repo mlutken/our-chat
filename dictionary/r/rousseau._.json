@@ -1,0 +1,18 @@
+{
+    "base": "rousseau",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 13,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1462,
+    "n1": "rousseau",
+    "n2": "rousseaus",
+    "n3": "the rousseau",
+    "n4": "the rousseaus",
+    "n5": "rousseau's",
+    "n6": "rousseaus'",
+    "n7": "a rousseau",
+    "n8": "many rousseaus"
+}

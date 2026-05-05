@@ -1,0 +1,18 @@
+{
+    "base": "refund",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "refund",
+    "n2": "refunds",
+    "n3": "the refund",
+    "n4": "the refunds",
+    "n5": "refund's",
+    "n6": "refunds'",
+    "n7": "a refund",
+    "n8": "many refunds"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "greed",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "greed",
+    "n2": "greeds",
+    "n3": "the greed",
+    "n4": "the greeds",
+    "n5": "greed's",
+    "n6": "greeds'",
+    "n7": "a greed",
+    "n8": "many greeds"
+}

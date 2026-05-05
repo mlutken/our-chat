@@ -7,5 +7,12 @@
     "n2": "billions",
     "n3": "the billion",
     "n4": "the billions",
-    "n5": "billion's"
+    "n5": "billion's",
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n6": "billions'",
+    "n7": "a billion",
+    "n8": "many billions"
 }

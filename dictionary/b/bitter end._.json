@@ -1,0 +1,18 @@
+{
+    "base": "bitter end",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "bitter end",
+    "n2": "bitter ends",
+    "n3": "the bitter end",
+    "n4": "the bitter ends",
+    "n5": "bitter end's",
+    "n6": "bitter ends'",
+    "n7": "a bitter end",
+    "n8": "many bitter ends"
+}

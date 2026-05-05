@@ -1,0 +1,18 @@
+{
+    "base": "brad",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "brad",
+    "n2": "brads",
+    "n3": "the brad",
+    "n4": "the brads",
+    "n5": "brad's",
+    "n6": "brads'",
+    "n7": "a brad",
+    "n8": "many brads"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "conservation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "conservation",
+    "n2": "conservations",
+    "n3": "the conservation",
+    "n4": "the conservations",
+    "n5": "conservation's",
+    "n6": "conservations'",
+    "n7": "a conservation",
+    "n8": "many conservations"
+}

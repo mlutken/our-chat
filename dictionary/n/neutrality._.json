@@ -1,0 +1,18 @@
+{
+    "base": "neutrality",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neutrality",
+    "n2": "neutralities",
+    "n3": "the neutrality",
+    "n4": "the neutralities",
+    "n5": "neutrality's",
+    "n6": "neutralities'",
+    "n7": "a neutrality",
+    "n8": "many neutralities"
+}

@@ -1,11 +1,24 @@
 {
     "base": "worry",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "worry",
     "v2": "worried",
     "v3": "worried",
     "v4": "worrying",
-    "v5": "worries"
+    "v5": "worries",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "worry",
+    "n2": "worries",
+    "n3": "the worry",
+    "n4": "the worries",
+    "n5": "worry's",
+    "n6": "worries'",
+    "n7": "a worry",
+    "n8": "many worries"
 }

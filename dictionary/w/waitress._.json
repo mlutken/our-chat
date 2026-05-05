@@ -1,0 +1,18 @@
+{
+    "base": "waitress",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "waitress",
+    "n2": "waitresses",
+    "n3": "the waitress",
+    "n4": "the waitresses",
+    "n5": "waitress'",
+    "n6": "waitresses'",
+    "n7": "a waitress",
+    "n8": "many waitresses"
+}

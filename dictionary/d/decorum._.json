@@ -1,0 +1,18 @@
+{
+    "base": "decorum",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "decorum",
+    "n2": "decorums",
+    "n3": "the decorum",
+    "n4": "the decorums",
+    "n5": "decorum's",
+    "n6": "decorums'",
+    "n7": "a decorum",
+    "n8": "many decorums"
+}

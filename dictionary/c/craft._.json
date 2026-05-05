@@ -13,5 +13,12 @@
     "v2": "crafted",
     "v3": "crafted",
     "v4": "crafting",
-    "v5": "crafts"
+    "v5": "crafts",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n6": "crafts'",
+    "n7": "a craft",
+    "n8": "many crafts"
 }

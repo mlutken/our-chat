@@ -1,0 +1,18 @@
+{
+    "base": "moneymaker",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "moneymaker",
+    "n2": "moneymakers",
+    "n3": "the moneymaker",
+    "n4": "the moneymakers",
+    "n5": "moneymaker's",
+    "n6": "moneymakers'",
+    "n7": "a moneymaker",
+    "n8": "many moneymakers"
+}

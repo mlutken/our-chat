@@ -1,11 +1,24 @@
 {
     "base": "guarantee",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "guarantee",
     "v2": "guaranteed",
     "v3": "guaranteed",
     "v4": "guaranteeing",
-    "v5": "guarantees"
+    "v5": "guarantees",
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "guarantee",
+    "n2": "guarantees",
+    "n3": "the guarantee",
+    "n4": "the guarantees",
+    "n5": "guarantee's",
+    "n6": "guarantees'",
+    "n7": "a guarantee",
+    "n8": "many guarantees"
 }

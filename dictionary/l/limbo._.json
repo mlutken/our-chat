@@ -1,0 +1,18 @@
+{
+    "base": "limbo",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "limbo",
+    "n2": "limbos",
+    "n3": "the limbo",
+    "n4": "the limbos",
+    "n5": "limbo's",
+    "n6": "limbos'",
+    "n7": "a limbo",
+    "n8": "many limbos"
+}

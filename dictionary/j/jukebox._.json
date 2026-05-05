@@ -1,0 +1,18 @@
+{
+    "base": "jukebox",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jukebox",
+    "n2": "jukeboxes",
+    "n3": "the jukebox",
+    "n4": "the jukeboxes",
+    "n5": "jukebox's",
+    "n6": "jukeboxes'",
+    "n7": "a jukebox",
+    "n8": "many jukeboxes"
+}

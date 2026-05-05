@@ -1,0 +1,18 @@
+{
+    "base": "attachment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "attachment",
+    "n2": "attachments",
+    "n3": "the attachment",
+    "n4": "the attachments",
+    "n5": "attachment's",
+    "n6": "attachments'",
+    "n7": "an attachment",
+    "n8": "many attachments"
+}

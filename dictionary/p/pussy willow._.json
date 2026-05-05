@@ -1,0 +1,18 @@
+{
+    "base": "pussy willow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pussy willow",
+    "n2": "pussy willows",
+    "n3": "the pussy willow",
+    "n4": "the pussy willows",
+    "n5": "pussy willow's",
+    "n6": "pussy willows'",
+    "n7": "a pussy willow",
+    "n8": "many pussy willows"
+}

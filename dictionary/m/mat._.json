@@ -1,0 +1,18 @@
+{
+    "base": "mat",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "mat",
+    "n2": "mats",
+    "n3": "the mat",
+    "n4": "the mats",
+    "n5": "mat's",
+    "n6": "mats'",
+    "n7": "a mat",
+    "n8": "many mats"
+}

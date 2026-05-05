@@ -1,0 +1,18 @@
+{
+    "base": "redemption",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "redemption",
+    "n2": "redemptions",
+    "n3": "the redemption",
+    "n4": "the redemptions",
+    "n5": "redemption's",
+    "n6": "redemptions'",
+    "n7": "a redemption",
+    "n8": "many redemptions"
+}

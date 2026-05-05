@@ -1,0 +1,18 @@
+{
+    "base": "keynote",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "keynote",
+    "n2": "keynotes",
+    "n3": "the keynote",
+    "n4": "the keynotes",
+    "n5": "keynote's",
+    "n6": "keynotes'",
+    "n7": "a keynote",
+    "n8": "many keynotes"
+}

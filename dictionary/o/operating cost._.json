@@ -1,0 +1,18 @@
+{
+    "base": "operating cost",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "operating cost",
+    "n2": "operating costs",
+    "n3": "the operating cost",
+    "n4": "the operating costs",
+    "n5": "operating cost's",
+    "n6": "operating costs'",
+    "n7": "an operating cost",
+    "n8": "many operating costs"
+}

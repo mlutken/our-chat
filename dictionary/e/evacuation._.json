@@ -1,0 +1,18 @@
+{
+    "base": "evacuation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "evacuation",
+    "n2": "evacuations",
+    "n3": "the evacuation",
+    "n4": "the evacuations",
+    "n5": "evacuation's",
+    "n6": "evacuations'",
+    "n7": "an evacuation",
+    "n8": "many evacuations"
+}

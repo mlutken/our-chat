@@ -1,6 +1,7 @@
 {
     "base": "mine",
     "classes": [
+        "n",
         "pro",
         "v"
     ],
@@ -9,5 +10,17 @@
     "v2": "mined",
     "v3": "mined",
     "v4": "mining",
-    "v5": "mines"
+    "v5": "mines",
+    "proper": false,
+    "commonness": 17,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1143,
+    "n1": "mine",
+    "n2": "mines",
+    "n3": "the mine",
+    "n4": "the mines",
+    "n5": "mine's",
+    "n6": "mines'",
+    "n7": "a mine",
+    "n8": "many mines"
 }

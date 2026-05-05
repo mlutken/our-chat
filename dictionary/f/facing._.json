@@ -1,0 +1,18 @@
+{
+    "base": "facing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "facing",
+    "n2": "facings",
+    "n3": "the facing",
+    "n4": "the facings",
+    "n5": "facing's",
+    "n6": "facings'",
+    "n7": "a facing",
+    "n8": "many facings"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "sorrow",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "sorrow",
+    "n2": "sorrows",
+    "n3": "the sorrow",
+    "n4": "the sorrows",
+    "n5": "sorrow's",
+    "n6": "sorrows'",
+    "n7": "a sorrow",
+    "n8": "many sorrows"
+}

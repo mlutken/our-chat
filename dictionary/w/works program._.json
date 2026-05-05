@@ -1,0 +1,18 @@
+{
+    "base": "works program",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "works program",
+    "n2": "works programs",
+    "n3": "the works program",
+    "n4": "the works programs",
+    "n5": "works program's",
+    "n6": "works programs'",
+    "n7": "a works program",
+    "n8": "many works programs"
+}

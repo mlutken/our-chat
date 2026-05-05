@@ -1,0 +1,18 @@
+{
+    "base": "amity",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "amity",
+    "n2": "amities",
+    "n3": "the amity",
+    "n4": "the amities",
+    "n5": "amity's",
+    "n6": "amities'",
+    "n7": "an amity",
+    "n8": "many amities"
+}

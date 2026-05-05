@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "stress",
-    "n2": "stress",
+    "n2": "stresses",
     "n3": "the stress",
-    "n4": "the stress",
-    "n5": "stress's"
+    "n4": "the stresses",
+    "n5": "stress'",
+    "proper": false,
+    "commonness": 80,
+    "max_commonness": 6834,
+    "commonness_ge_count": 166,
+    "n6": "stresses'",
+    "n7": "a stress",
+    "n8": "many stresses"
 }

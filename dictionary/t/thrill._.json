@@ -1,0 +1,18 @@
+{
+    "base": "thrill",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "thrill",
+    "n2": "thrills",
+    "n3": "the thrill",
+    "n4": "the thrills",
+    "n5": "thrill's",
+    "n6": "thrills'",
+    "n7": "a thrill",
+    "n8": "many thrills"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "lamplight",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lamplight",
+    "n2": "lamplights",
+    "n3": "the lamplight",
+    "n4": "the lamplights",
+    "n5": "lamplight's",
+    "n6": "lamplights'",
+    "n7": "a lamplight",
+    "n8": "many lamplights"
+}

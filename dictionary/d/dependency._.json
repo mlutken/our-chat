@@ -1,0 +1,18 @@
+{
+    "base": "dependency",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "dependency",
+    "n2": "dependencies",
+    "n3": "the dependency",
+    "n4": "the dependencies",
+    "n5": "dependency's",
+    "n6": "dependencies'",
+    "n7": "a dependency",
+    "n8": "many dependencies"
+}

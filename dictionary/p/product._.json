@@ -7,5 +7,12 @@
     "n2": "products",
     "n3": "the product",
     "n4": "the products",
-    "n5": "product's"
+    "n5": "product's",
+    "proper": false,
+    "commonness": 87,
+    "max_commonness": 6834,
+    "commonness_ge_count": 142,
+    "n6": "products'",
+    "n7": "a product",
+    "n8": "many products"
 }

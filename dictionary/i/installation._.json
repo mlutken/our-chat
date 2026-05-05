@@ -7,5 +7,12 @@
     "n2": "installations",
     "n3": "the installation",
     "n4": "the installations",
-    "n5": "installation's"
+    "n5": "installation's",
+    "proper": false,
+    "commonness": 7,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2480,
+    "n6": "installations'",
+    "n7": "an installation",
+    "n8": "many installations"
 }

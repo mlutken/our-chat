@@ -1,0 +1,18 @@
+{
+    "base": "agrobacterium tumefaciens",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "agrobacterium tumefaciens",
+    "n2": "agrobacterium tumefacienses",
+    "n3": "the agrobacterium tumefaciens",
+    "n4": "the agrobacterium tumefacienses",
+    "n5": "agrobacterium tumefaciens'",
+    "n6": "agrobacterium tumefacienses'",
+    "n7": "an agrobacterium tumefaciens",
+    "n8": "many agrobacterium tumefacienses"
+}

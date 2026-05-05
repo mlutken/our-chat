@@ -1,0 +1,18 @@
+{
+    "base": "mortification",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "mortification",
+    "n2": "mortifications",
+    "n3": "the mortification",
+    "n4": "the mortifications",
+    "n5": "mortification's",
+    "n6": "mortifications'",
+    "n7": "a mortification",
+    "n8": "many mortifications"
+}

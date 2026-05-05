@@ -1,0 +1,18 @@
+{
+    "base": "lance",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "lance",
+    "n2": "lances",
+    "n3": "the lance",
+    "n4": "the lances",
+    "n5": "lance's",
+    "n6": "lances'",
+    "n7": "a lance",
+    "n8": "many lances"
+}

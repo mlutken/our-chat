@@ -1,0 +1,18 @@
+{
+    "base": "lecturer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "lecturer",
+    "n2": "lecturers",
+    "n3": "the lecturer",
+    "n4": "the lecturers",
+    "n5": "lecturer's",
+    "n6": "lecturers'",
+    "n7": "a lecturer",
+    "n8": "many lecturers"
+}

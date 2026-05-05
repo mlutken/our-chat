@@ -1,0 +1,18 @@
+{
+    "base": "provision",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 32,
+    "max_commonness": 6834,
+    "commonness_ge_count": 580,
+    "n1": "provision",
+    "n2": "provisions",
+    "n3": "the provision",
+    "n4": "the provisions",
+    "n5": "provision's",
+    "n6": "provisions'",
+    "n7": "a provision",
+    "n8": "many provisions"
+}

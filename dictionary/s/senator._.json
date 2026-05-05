@@ -1,0 +1,18 @@
+{
+    "base": "senator",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "senator",
+    "n2": "senators",
+    "n3": "the senator",
+    "n4": "the senators",
+    "n5": "senator's",
+    "n6": "senators'",
+    "n7": "a senator",
+    "n8": "many senators"
+}

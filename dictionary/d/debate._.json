@@ -1,0 +1,18 @@
+{
+    "base": "debate",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 22,
+    "max_commonness": 6834,
+    "commonness_ge_count": 872,
+    "n1": "debate",
+    "n2": "debates",
+    "n3": "the debate",
+    "n4": "the debates",
+    "n5": "debate's",
+    "n6": "debates'",
+    "n7": "a debate",
+    "n8": "many debates"
+}

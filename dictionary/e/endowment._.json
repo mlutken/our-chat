@@ -1,0 +1,18 @@
+{
+    "base": "endowment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "endowment",
+    "n2": "endowments",
+    "n3": "the endowment",
+    "n4": "the endowments",
+    "n5": "endowment's",
+    "n6": "endowments'",
+    "n7": "an endowment",
+    "n8": "many endowments"
+}

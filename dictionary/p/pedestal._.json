@@ -1,0 +1,18 @@
+{
+    "base": "pedestal",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "pedestal",
+    "n2": "pedestals",
+    "n3": "the pedestal",
+    "n4": "the pedestals",
+    "n5": "pedestal's",
+    "n6": "pedestals'",
+    "n7": "a pedestal",
+    "n8": "many pedestals"
+}

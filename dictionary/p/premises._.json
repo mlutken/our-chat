@@ -1,0 +1,18 @@
+{
+    "base": "premises",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "premises",
+    "n2": "premiseses",
+    "n3": "the premises",
+    "n4": "the premiseses",
+    "n5": "premises'",
+    "n6": "premiseses'",
+    "n7": "a premises",
+    "n8": "many premiseses"
+}

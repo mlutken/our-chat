@@ -1,0 +1,18 @@
+{
+    "base": "stampede",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "stampede",
+    "n2": "stampedes",
+    "n3": "the stampede",
+    "n4": "the stampedes",
+    "n5": "stampede's",
+    "n6": "stampedes'",
+    "n7": "a stampede",
+    "n8": "many stampedes"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "department of justice",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "department of justice",
+    "n2": "department of justices",
+    "n3": "the department of justice",
+    "n4": "the department of justices",
+    "n5": "department of justice's",
+    "n6": "department of justices'",
+    "n7": "a department of justice",
+    "n8": "many department of justices"
+}

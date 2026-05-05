@@ -1,0 +1,18 @@
+{
+    "base": "soundtrack",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "soundtrack",
+    "n2": "soundtracks",
+    "n3": "the soundtrack",
+    "n4": "the soundtracks",
+    "n5": "soundtrack's",
+    "n6": "soundtracks'",
+    "n7": "a soundtrack",
+    "n8": "many soundtracks"
+}

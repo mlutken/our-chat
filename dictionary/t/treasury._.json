@@ -1,0 +1,18 @@
+{
+    "base": "treasury",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "treasury",
+    "n2": "treasuries",
+    "n3": "the treasury",
+    "n4": "the treasuries",
+    "n5": "treasury's",
+    "n6": "treasuries'",
+    "n7": "a treasury",
+    "n8": "many treasuries"
+}

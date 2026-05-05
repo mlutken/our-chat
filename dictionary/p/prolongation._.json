@@ -1,0 +1,18 @@
+{
+    "base": "prolongation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "prolongation",
+    "n2": "prolongations",
+    "n3": "the prolongation",
+    "n4": "the prolongations",
+    "n5": "prolongation's",
+    "n6": "prolongations'",
+    "n7": "a prolongation",
+    "n8": "many prolongations"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "locker room",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "locker room",
+    "n2": "locker rooms",
+    "n3": "the locker room",
+    "n4": "the locker rooms",
+    "n5": "locker room's",
+    "n6": "locker rooms'",
+    "n7": "a locker room",
+    "n8": "many locker rooms"
+}

@@ -1,11 +1,24 @@
 {
     "base": "command",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "command",
     "v2": "commanded",
     "v3": "commanded",
     "v4": "commanding",
-    "v5": "commands"
+    "v5": "commands",
+    "proper": false,
+    "commonness": 43,
+    "max_commonness": 6834,
+    "commonness_ge_count": 400,
+    "n1": "command",
+    "n2": "commands",
+    "n3": "the command",
+    "n4": "the commands",
+    "n5": "command's",
+    "n6": "commands'",
+    "n7": "a command",
+    "n8": "many commands"
 }

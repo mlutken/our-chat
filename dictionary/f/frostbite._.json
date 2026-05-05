@@ -1,0 +1,18 @@
+{
+    "base": "frostbite",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "frostbite",
+    "n2": "frostbites",
+    "n3": "the frostbite",
+    "n4": "the frostbites",
+    "n5": "frostbite's",
+    "n6": "frostbites'",
+    "n7": "a frostbite",
+    "n8": "many frostbites"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "spacing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "spacing",
+    "n2": "spacings",
+    "n3": "the spacing",
+    "n4": "the spacings",
+    "n5": "spacing's",
+    "n6": "spacings'",
+    "n7": "a spacing",
+    "n8": "many spacings"
+}

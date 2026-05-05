@@ -1,0 +1,18 @@
+{
+    "base": "umbrella",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "umbrella",
+    "n2": "umbrellas",
+    "n3": "the umbrella",
+    "n4": "the umbrellas",
+    "n5": "umbrella's",
+    "n6": "umbrellas'",
+    "n7": "an umbrella",
+    "n8": "many umbrellas"
+}

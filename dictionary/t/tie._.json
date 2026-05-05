@@ -1,11 +1,24 @@
 {
     "base": "tie",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "tie",
     "v2": "tied",
     "v3": "tied",
     "v4": "tying",
-    "v5": "ties"
+    "v5": "ties",
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "tie",
+    "n2": "ties",
+    "n3": "the tie",
+    "n4": "the ties",
+    "n5": "tie's",
+    "n6": "ties'",
+    "n7": "a tie",
+    "n8": "many ties"
 }

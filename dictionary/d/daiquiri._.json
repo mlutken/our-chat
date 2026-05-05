@@ -1,0 +1,18 @@
+{
+    "base": "daiquiri",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "daiquiri",
+    "n2": "daiquiris",
+    "n3": "the daiquiri",
+    "n4": "the daiquiris",
+    "n5": "daiquiri's",
+    "n6": "daiquiris'",
+    "n7": "a daiquiri",
+    "n8": "many daiquiris"
+}

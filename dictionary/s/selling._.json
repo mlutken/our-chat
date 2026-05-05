@@ -1,0 +1,18 @@
+{
+    "base": "selling",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "selling",
+    "n2": "sellings",
+    "n3": "the selling",
+    "n4": "the sellings",
+    "n5": "selling's",
+    "n6": "sellings'",
+    "n7": "a selling",
+    "n8": "many sellings"
+}

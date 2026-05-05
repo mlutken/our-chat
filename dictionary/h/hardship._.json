@@ -1,0 +1,18 @@
+{
+    "base": "hardship",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hardship",
+    "n2": "hardships",
+    "n3": "the hardship",
+    "n4": "the hardships",
+    "n5": "hardship's",
+    "n6": "hardships'",
+    "n7": "a hardship",
+    "n8": "many hardships"
+}

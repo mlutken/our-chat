@@ -1,0 +1,18 @@
+{
+    "base": "circulatory system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "circulatory system",
+    "n2": "circulatory systems",
+    "n3": "the circulatory system",
+    "n4": "the circulatory systems",
+    "n5": "circulatory system's",
+    "n6": "circulatory systems'",
+    "n7": "a circulatory system",
+    "n8": "many circulatory systems"
+}

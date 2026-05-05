@@ -1,0 +1,18 @@
+{
+    "base": "jesus christ",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "jesus christ",
+    "n2": "jesus christs",
+    "n3": "the jesus christ",
+    "n4": "the jesus christs",
+    "n5": "jesus christ's",
+    "n6": "jesus christs'",
+    "n7": "a jesus christ",
+    "n8": "many jesus christs"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "cu ft",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "cu ft",
+    "n2": "cu fts",
+    "n3": "the cu ft",
+    "n4": "the cu fts",
+    "n5": "cu ft's",
+    "n6": "cu fts'",
+    "n7": "a cu ft",
+    "n8": "many cu fts"
+}

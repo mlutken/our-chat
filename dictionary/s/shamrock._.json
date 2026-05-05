@@ -1,0 +1,18 @@
+{
+    "base": "shamrock",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shamrock",
+    "n2": "shamrocks",
+    "n3": "the shamrock",
+    "n4": "the shamrocks",
+    "n5": "shamrock's",
+    "n6": "shamrocks'",
+    "n7": "a shamrock",
+    "n8": "many shamrocks"
+}

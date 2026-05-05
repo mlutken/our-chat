@@ -1,0 +1,18 @@
+{
+    "base": "unpredictability",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "unpredictability",
+    "n2": "unpredictabilities",
+    "n3": "the unpredictability",
+    "n4": "the unpredictabilities",
+    "n5": "unpredictability's",
+    "n6": "unpredictabilities'",
+    "n7": "an unpredictability",
+    "n8": "many unpredictabilities"
+}

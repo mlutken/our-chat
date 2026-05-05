@@ -1,0 +1,18 @@
+{
+    "base": "muscle tone",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "muscle tone",
+    "n2": "muscle tones",
+    "n3": "the muscle tone",
+    "n4": "the muscle tones",
+    "n5": "muscle tone's",
+    "n6": "muscle tones'",
+    "n7": "a muscle tone",
+    "n8": "many muscle tones"
+}

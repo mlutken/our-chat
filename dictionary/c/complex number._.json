@@ -1,0 +1,18 @@
+{
+    "base": "complex number",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "complex number",
+    "n2": "complex numbers",
+    "n3": "the complex number",
+    "n4": "the complex numbers",
+    "n5": "complex number's",
+    "n6": "complex numbers'",
+    "n7": "a complex number",
+    "n8": "many complex numbers"
+}

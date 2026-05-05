@@ -1,0 +1,18 @@
+{
+    "base": "drum major",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "drum major",
+    "n2": "drum majors",
+    "n3": "the drum major",
+    "n4": "the drum majors",
+    "n5": "drum major's",
+    "n6": "drum majors'",
+    "n7": "a drum major",
+    "n8": "many drum majors"
+}

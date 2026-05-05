@@ -1,0 +1,18 @@
+{
+    "base": "stocking",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 5,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3277,
+    "n1": "stocking",
+    "n2": "stockings",
+    "n3": "the stocking",
+    "n4": "the stockings",
+    "n5": "stocking's",
+    "n6": "stockings'",
+    "n7": "a stocking",
+    "n8": "many stockings"
+}

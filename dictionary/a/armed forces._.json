@@ -1,0 +1,18 @@
+{
+    "base": "armed forces",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "armed forces",
+    "n2": "armed forceses",
+    "n3": "the armed forces",
+    "n4": "the armed forceses",
+    "n5": "armed forces'",
+    "n6": "armed forceses'",
+    "n7": "an armed forces",
+    "n8": "many armed forceses"
+}

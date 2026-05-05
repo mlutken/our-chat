@@ -1,0 +1,18 @@
+{
+    "base": "jabbing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "jabbing",
+    "n2": "jabbings",
+    "n3": "the jabbing",
+    "n4": "the jabbings",
+    "n5": "jabbing's",
+    "n6": "jabbings'",
+    "n7": "a jabbing",
+    "n8": "many jabbings"
+}

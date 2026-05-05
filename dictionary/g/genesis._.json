@@ -1,0 +1,18 @@
+{
+    "base": "genesis",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 3,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4867,
+    "n1": "genesis",
+    "n2": "geneses",
+    "n3": "the genesis",
+    "n4": "the geneses",
+    "n5": "genesis'",
+    "n6": "geneses'",
+    "n7": "a genesis",
+    "n8": "many geneses"
+}

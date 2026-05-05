@@ -7,5 +7,12 @@
     "n2": "faiths",
     "n3": "the faith",
     "n4": "the faiths",
-    "n5": "faith's"
+    "n5": "faith's",
+    "proper": false,
+    "commonness": 34,
+    "max_commonness": 6834,
+    "commonness_ge_count": 539,
+    "n6": "faiths'",
+    "n7": "a faith",
+    "n8": "many faiths"
 }

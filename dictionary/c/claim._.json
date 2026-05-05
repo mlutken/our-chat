@@ -1,11 +1,24 @@
 {
     "base": "claim",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "claim",
     "v2": "claimed",
     "v3": "claimed",
     "v4": "claiming",
-    "v5": "claims"
+    "v5": "claims",
+    "proper": false,
+    "commonness": 48,
+    "max_commonness": 6834,
+    "commonness_ge_count": 349,
+    "n1": "claim",
+    "n2": "claims",
+    "n3": "the claim",
+    "n4": "the claims",
+    "n5": "claim's",
+    "n6": "claims'",
+    "n7": "a claim",
+    "n8": "many claims"
 }

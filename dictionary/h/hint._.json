@@ -1,0 +1,18 @@
+{
+    "base": "hint",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "hint",
+    "n2": "hints",
+    "n3": "the hint",
+    "n4": "the hints",
+    "n5": "hint's",
+    "n6": "hints'",
+    "n7": "a hint",
+    "n8": "many hints"
+}

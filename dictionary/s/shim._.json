@@ -1,0 +1,18 @@
+{
+    "base": "shim",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "shim",
+    "n2": "shims",
+    "n3": "the shim",
+    "n4": "the shims",
+    "n5": "shim's",
+    "n6": "shims'",
+    "n7": "a shim",
+    "n8": "many shims"
+}

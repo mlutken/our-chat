@@ -1,0 +1,18 @@
+{
+    "base": "bit part",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "bit part",
+    "n2": "bit parts",
+    "n3": "the bit part",
+    "n4": "the bit parts",
+    "n5": "bit part's",
+    "n6": "bit parts'",
+    "n7": "a bit part",
+    "n8": "many bit parts"
+}

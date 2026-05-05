@@ -1,0 +1,18 @@
+{
+    "base": "inside track",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "inside track",
+    "n2": "inside tracks",
+    "n3": "the inside track",
+    "n4": "the inside tracks",
+    "n5": "inside track's",
+    "n6": "inside tracks'",
+    "n7": "an inside track",
+    "n8": "many inside tracks"
+}

@@ -1,11 +1,24 @@
 {
     "base": "handle",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "handle",
     "v2": "handled",
     "v3": "handled",
     "v4": "handling",
-    "v5": "handles"
+    "v5": "handles",
+    "proper": false,
+    "commonness": 4,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3891,
+    "n1": "handle",
+    "n2": "handles",
+    "n3": "the handle",
+    "n4": "the handles",
+    "n5": "handle's",
+    "n6": "handles'",
+    "n7": "a handle",
+    "n8": "many handles"
 }

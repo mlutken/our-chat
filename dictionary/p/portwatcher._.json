@@ -1,0 +1,18 @@
+{
+    "base": "portwatcher",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "portwatcher",
+    "n2": "portwatchers",
+    "n3": "the portwatcher",
+    "n4": "the portwatchers",
+    "n5": "portwatcher's",
+    "n6": "portwatchers'",
+    "n7": "a portwatcher",
+    "n8": "many portwatchers"
+}

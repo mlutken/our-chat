@@ -1,0 +1,18 @@
+{
+    "base": "midwatch",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "midwatch",
+    "n2": "midwatches",
+    "n3": "the midwatch",
+    "n4": "the midwatches",
+    "n5": "midwatch's",
+    "n6": "midwatches'",
+    "n7": "a midwatch",
+    "n8": "many midwatches"
+}

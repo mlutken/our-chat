@@ -1,0 +1,18 @@
+{
+    "base": "iodoamino acid",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "iodoamino acid",
+    "n2": "iodoamino acids",
+    "n3": "the iodoamino acid",
+    "n4": "the iodoamino acids",
+    "n5": "iodoamino acid's",
+    "n6": "iodoamino acids'",
+    "n7": "an iodoamino acid",
+    "n8": "many iodoamino acids"
+}

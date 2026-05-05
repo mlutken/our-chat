@@ -1,0 +1,18 @@
+{
+    "base": "lashing",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "lashing",
+    "n2": "lashings",
+    "n3": "the lashing",
+    "n4": "the lashings",
+    "n5": "lashing's",
+    "n6": "lashings'",
+    "n7": "a lashing",
+    "n8": "many lashings"
+}

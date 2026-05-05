@@ -1,0 +1,18 @@
+{
+    "base": "depredation",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "depredation",
+    "n2": "depredations",
+    "n3": "the depredation",
+    "n4": "the depredations",
+    "n5": "depredation's",
+    "n6": "depredations'",
+    "n7": "a depredation",
+    "n8": "many depredations"
+}

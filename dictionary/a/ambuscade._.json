@@ -1,0 +1,18 @@
+{
+    "base": "ambuscade",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ambuscade",
+    "n2": "ambuscades",
+    "n3": "the ambuscade",
+    "n4": "the ambuscades",
+    "n5": "ambuscade's",
+    "n6": "ambuscades'",
+    "n7": "an ambuscade",
+    "n8": "many ambuscades"
+}

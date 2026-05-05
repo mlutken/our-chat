@@ -1,0 +1,18 @@
+{
+    "base": "steering wheel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "steering wheel",
+    "n2": "steering wheels",
+    "n3": "the steering wheel",
+    "n4": "the steering wheels",
+    "n5": "steering wheel's",
+    "n6": "steering wheels'",
+    "n7": "a steering wheel",
+    "n8": "many steering wheels"
+}

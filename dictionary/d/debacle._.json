@@ -1,0 +1,18 @@
+{
+    "base": "debacle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "debacle",
+    "n2": "debacles",
+    "n3": "the debacle",
+    "n4": "the debacles",
+    "n5": "debacle's",
+    "n6": "debacles'",
+    "n7": "a debacle",
+    "n8": "many debacles"
+}

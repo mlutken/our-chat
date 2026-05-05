@@ -1,0 +1,18 @@
+{
+    "base": "patchwork",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "patchwork",
+    "n2": "patchworks",
+    "n3": "the patchwork",
+    "n4": "the patchworks",
+    "n5": "patchwork's",
+    "n6": "patchworks'",
+    "n7": "a patchwork",
+    "n8": "many patchworks"
+}

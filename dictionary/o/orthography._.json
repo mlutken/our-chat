@@ -1,0 +1,18 @@
+{
+    "base": "orthography",
+    "classes": [
+        "n"
+    ],
+    "proper": true,
+    "commonness": 8,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2243,
+    "n1": "orthography",
+    "n2": "orthographies",
+    "n3": "the orthography",
+    "n4": "the orthographies",
+    "n5": "orthography's",
+    "n6": "orthographies'",
+    "n7": "an orthography",
+    "n8": "many orthographies"
+}

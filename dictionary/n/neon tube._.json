@@ -1,0 +1,18 @@
+{
+    "base": "neon tube",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "neon tube",
+    "n2": "neon tubes",
+    "n3": "the neon tube",
+    "n4": "the neon tubes",
+    "n5": "neon tube's",
+    "n6": "neon tubes'",
+    "n7": "a neon tube",
+    "n8": "many neon tubes"
+}

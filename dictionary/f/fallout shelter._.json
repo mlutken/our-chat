@@ -1,0 +1,18 @@
+{
+    "base": "fallout shelter",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "fallout shelter",
+    "n2": "fallout shelters",
+    "n3": "the fallout shelter",
+    "n4": "the fallout shelters",
+    "n5": "fallout shelter's",
+    "n6": "fallout shelters'",
+    "n7": "a fallout shelter",
+    "n8": "many fallout shelters"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "starting buffer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 6,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2817,
+    "n1": "starting buffer",
+    "n2": "starting buffers",
+    "n3": "the starting buffer",
+    "n4": "the starting buffers",
+    "n5": "starting buffer's",
+    "n6": "starting buffers'",
+    "n7": "a starting buffer",
+    "n8": "many starting buffers"
+}

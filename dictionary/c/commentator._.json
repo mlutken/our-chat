@@ -1,0 +1,18 @@
+{
+    "base": "commentator",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 2,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6715,
+    "n1": "commentator",
+    "n2": "commentators",
+    "n3": "the commentator",
+    "n4": "the commentators",
+    "n5": "commentator's",
+    "n6": "commentators'",
+    "n7": "a commentator",
+    "n8": "many commentators"
+}

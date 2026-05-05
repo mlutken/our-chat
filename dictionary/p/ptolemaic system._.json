@@ -1,0 +1,18 @@
+{
+    "base": "ptolemaic system",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "ptolemaic system",
+    "n2": "ptolemaic systems",
+    "n3": "the ptolemaic system",
+    "n4": "the ptolemaic systems",
+    "n5": "ptolemaic system's",
+    "n6": "ptolemaic systems'",
+    "n7": "a ptolemaic system",
+    "n8": "many ptolemaic systems"
+}

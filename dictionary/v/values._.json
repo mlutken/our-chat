@@ -1,0 +1,18 @@
+{
+    "base": "values",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 21,
+    "max_commonness": 6834,
+    "commonness_ge_count": 920,
+    "n1": "values",
+    "n2": "valueses",
+    "n3": "the values",
+    "n4": "the valueses",
+    "n5": "values'",
+    "n6": "valueses'",
+    "n7": "a values",
+    "n8": "many valueses"
+}

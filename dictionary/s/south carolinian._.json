@@ -1,0 +1,18 @@
+{
+    "base": "south carolinian",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "south carolinian",
+    "n2": "south carolinians",
+    "n3": "the south carolinian",
+    "n4": "the south carolinians",
+    "n5": "south carolinian's",
+    "n6": "south carolinians'",
+    "n7": "a south carolinian",
+    "n8": "many south carolinians"
+}

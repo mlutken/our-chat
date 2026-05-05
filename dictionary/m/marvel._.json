@@ -1,0 +1,18 @@
+{
+    "base": "marvel",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "marvel",
+    "n2": "marvels",
+    "n3": "the marvel",
+    "n4": "the marvels",
+    "n5": "marvel's",
+    "n6": "marvels'",
+    "n7": "a marvel",
+    "n8": "many marvels"
+}

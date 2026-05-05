@@ -1,0 +1,18 @@
+{
+    "base": "livelihood",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "livelihood",
+    "n2": "livelihoods",
+    "n3": "the livelihood",
+    "n4": "the livelihoods",
+    "n5": "livelihood's",
+    "n6": "livelihoods'",
+    "n7": "a livelihood",
+    "n8": "many livelihoods"
+}

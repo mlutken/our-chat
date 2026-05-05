@@ -1,0 +1,18 @@
+{
+    "base": "saddle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 14,
+    "max_commonness": 6834,
+    "commonness_ge_count": 1371,
+    "n1": "saddle",
+    "n2": "saddles",
+    "n3": "the saddle",
+    "n4": "the saddles",
+    "n5": "saddle's",
+    "n6": "saddles'",
+    "n7": "a saddle",
+    "n8": "many saddles"
+}

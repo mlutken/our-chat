@@ -1,0 +1,18 @@
+{
+    "base": "sergeant",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 9,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2021,
+    "n1": "sergeant",
+    "n2": "sergeants",
+    "n3": "the sergeant",
+    "n4": "the sergeants",
+    "n5": "sergeant's",
+    "n6": "sergeants'",
+    "n7": "a sergeant",
+    "n8": "many sergeants"
+}

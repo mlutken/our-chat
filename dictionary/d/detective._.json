@@ -1,0 +1,18 @@
+{
+    "base": "detective",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 28,
+    "max_commonness": 6834,
+    "commonness_ge_count": 674,
+    "n1": "detective",
+    "n2": "detectives",
+    "n3": "the detective",
+    "n4": "the detectives",
+    "n5": "detective's",
+    "n6": "detectives'",
+    "n7": "a detective",
+    "n8": "many detectives"
+}

@@ -1,0 +1,18 @@
+{
+    "base": "joss",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "joss",
+    "n2": "josses",
+    "n3": "the joss",
+    "n4": "the josses",
+    "n5": "joss'",
+    "n6": "josses'",
+    "n7": "a joss",
+    "n8": "many josses"
+}

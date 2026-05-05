@@ -7,5 +7,12 @@
     "n2": "trials",
     "n3": "the trial",
     "n4": "the trials",
-    "n5": "trial's"
+    "n5": "trial's",
+    "proper": false,
+    "commonness": 99,
+    "max_commonness": 6834,
+    "commonness_ge_count": 120,
+    "n6": "trials'",
+    "n7": "a trial",
+    "n8": "many trials"
 }
