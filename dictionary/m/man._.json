@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "man",
-    "n2": "mans",
+    "n2": "men",
     "n3": "the man",
-    "n4": "the mans",
-    "n5": "man's"
+    "n4": "the men",
+    "n5": "man's",
+    "proper": false,
+    "commonness": 1293,
+    "max_commonness": 6834,
+    "commonness_ge_count": 3,
+    "n6": "men's",
+    "n7": "a man",
+    "n8": "many men"
 }

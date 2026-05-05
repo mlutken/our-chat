@@ -7,5 +7,12 @@
     "n2": "systems",
     "n3": "the system",
     "n4": "the systems",
-    "n5": "system's"
+    "n5": "system's",
+    "proper": false,
+    "commonness": 112,
+    "max_commonness": 6834,
+    "commonness_ge_count": 90,
+    "n6": "systems'",
+    "n7": "a system",
+    "n8": "many systems"
 }

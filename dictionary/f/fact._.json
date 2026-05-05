@@ -7,5 +7,12 @@
     "n2": "facts",
     "n3": "the fact",
     "n4": "the facts",
-    "n5": "fact's"
+    "n5": "fact's",
+    "proper": false,
+    "commonness": 133,
+    "max_commonness": 6834,
+    "commonness_ge_count": 62,
+    "n6": "facts'",
+    "n7": "a fact",
+    "n8": "many facts"
 }

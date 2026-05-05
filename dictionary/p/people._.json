@@ -7,5 +7,12 @@
     "n2": "peoples",
     "n3": "the people",
     "n4": "the peoples",
-    "n5": "people's"
+    "n5": "people's",
+    "proper": false,
+    "commonness": 289,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11,
+    "n6": "peoples'",
+    "n7": "a people",
+    "n8": "many peoples"
 }

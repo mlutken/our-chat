@@ -7,5 +7,12 @@
     "n2": "areas",
     "n3": "the area",
     "n4": "the areas",
-    "n5": "area's"
+    "n5": "area's",
+    "proper": false,
+    "commonness": 215,
+    "max_commonness": 6834,
+    "commonness_ge_count": 20,
+    "n6": "areas'",
+    "n7": "an area",
+    "n8": "many areas"
 }

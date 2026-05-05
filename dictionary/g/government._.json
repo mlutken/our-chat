@@ -7,5 +7,12 @@
     "n2": "governments",
     "n3": "the government",
     "n4": "the governments",
-    "n5": "government's"
+    "n5": "government's",
+    "proper": false,
+    "commonness": 108,
+    "max_commonness": 6834,
+    "commonness_ge_count": 94,
+    "n6": "governments'",
+    "n7": "a government",
+    "n8": "many governments"
 }

@@ -7,5 +7,12 @@
     "n2": "studies",
     "n3": "the study",
     "n4": "the studies",
-    "n5": "study's"
+    "n5": "study's",
+    "proper": false,
+    "commonness": 131,
+    "max_commonness": 6834,
+    "commonness_ge_count": 65,
+    "n6": "studies'",
+    "n7": "a study",
+    "n8": "many studies"
 }

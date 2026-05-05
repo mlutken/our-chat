@@ -7,5 +7,12 @@
     "n2": "experiences",
     "n3": "the experience",
     "n4": "the experiences",
-    "n5": "experience's"
+    "n5": "experience's",
+    "proper": false,
+    "commonness": 128,
+    "max_commonness": 6834,
+    "commonness_ge_count": 69,
+    "n6": "experiences'",
+    "n7": "an experience",
+    "n8": "many experiences"
 }

@@ -7,5 +7,12 @@
     "n2": "values",
     "n3": "the value",
     "n4": "the values",
-    "n5": "value's"
+    "n5": "value's",
+    "proper": false,
+    "commonness": 132,
+    "max_commonness": 6834,
+    "commonness_ge_count": 64,
+    "n6": "values'",
+    "n7": "a value",
+    "n8": "many values"
 }

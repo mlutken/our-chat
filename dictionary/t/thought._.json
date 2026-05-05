@@ -7,5 +7,12 @@
     "n2": "thoughts",
     "n3": "the thought",
     "n4": "the thoughts",
-    "n5": "thought's"
+    "n5": "thought's",
+    "proper": false,
+    "commonness": 102,
+    "max_commonness": 6834,
+    "commonness_ge_count": 112,
+    "n6": "thoughts'",
+    "n7": "a thought",
+    "n8": "many thoughts"
 }

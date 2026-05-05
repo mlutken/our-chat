@@ -7,5 +7,12 @@
     "n2": "heads",
     "n3": "the head",
     "n4": "the heads",
-    "n5": "head's"
+    "n5": "head's",
+    "proper": false,
+    "commonness": 254,
+    "max_commonness": 6834,
+    "commonness_ge_count": 15,
+    "n6": "heads'",
+    "n7": "a head",
+    "n8": "many heads"
 }

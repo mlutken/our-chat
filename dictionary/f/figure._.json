@@ -7,5 +7,12 @@
     "n2": "figures",
     "n3": "the figure",
     "n4": "the figures",
-    "n5": "figure's"
+    "n5": "figure's",
+    "proper": false,
+    "commonness": 183,
+    "max_commonness": 6834,
+    "commonness_ge_count": 30,
+    "n6": "figures'",
+    "n7": "a figure",
+    "n8": "many figures"
 }

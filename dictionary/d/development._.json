@@ -7,5 +7,12 @@
     "n2": "developments",
     "n3": "the development",
     "n4": "the developments",
-    "n5": "development's"
+    "n5": "development's",
+    "proper": false,
+    "commonness": 135,
+    "max_commonness": 6834,
+    "commonness_ge_count": 61,
+    "n6": "developments'",
+    "n7": "a development",
+    "n8": "many developments"
 }

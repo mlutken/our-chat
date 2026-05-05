@@ -1,0 +1,18 @@
+{
+    "base": "boucle",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 1,
+    "max_commonness": 6834,
+    "commonness_ge_count": 11908,
+    "n1": "boucle",
+    "n2": "boucles",
+    "n3": "the boucle",
+    "n4": "the boucles",
+    "n5": "boucle's",
+    "n6": "boucles'",
+    "n7": "a boucle",
+    "n8": "many boucles"
+}

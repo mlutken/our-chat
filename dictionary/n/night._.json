@@ -7,5 +7,12 @@
     "n2": "nights",
     "n3": "the night",
     "n4": "the nights",
-    "n5": "night's"
+    "n5": "night's",
+    "proper": false,
+    "commonness": 167,
+    "max_commonness": 6834,
+    "commonness_ge_count": 37,
+    "n6": "nights'",
+    "n7": "a night",
+    "n8": "many nights"
 }

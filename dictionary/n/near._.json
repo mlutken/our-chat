@@ -1,7 +1,11 @@
 {
-    "base": "down",
+    "base": "near",
     "classes": [
-        "pre"
+        "pre",
+        "adj"
     ],
-    "f0": "down"
+    "f0": "near",
+    "adj1": "near",
+    "adj2": "nearer",
+    "adj3": "nearest"
 }

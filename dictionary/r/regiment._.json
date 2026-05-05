@@ -1,0 +1,18 @@
+{
+    "base": "regiment",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 145,
+    "max_commonness": 6834,
+    "commonness_ge_count": 51,
+    "n1": "regiment",
+    "n2": "regiments",
+    "n3": "the regiment",
+    "n4": "the regiments",
+    "n5": "regiment's",
+    "n6": "regiments'",
+    "n7": "a regiment",
+    "n8": "many regiments"
+}

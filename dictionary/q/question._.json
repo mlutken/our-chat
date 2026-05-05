@@ -13,5 +13,12 @@
     "v2": "questioned",
     "v3": "questioned",
     "v4": "questioning",
-    "v5": "questions"
+    "v5": "questions",
+    "proper": false,
+    "commonness": 148,
+    "max_commonness": 6834,
+    "commonness_ge_count": 48,
+    "n6": "questions'",
+    "n7": "a question",
+    "n8": "many questions"
 }

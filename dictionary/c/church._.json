@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "church",
-    "n2": "churchs",
+    "n2": "churches",
     "n3": "the church",
-    "n4": "the churchs",
-    "n5": "church's"
+    "n4": "the churches",
+    "n5": "church's",
+    "proper": false,
+    "commonness": 129,
+    "max_commonness": 6834,
+    "commonness_ge_count": 68,
+    "n6": "churches'",
+    "n7": "a church",
+    "n8": "many churches"
 }

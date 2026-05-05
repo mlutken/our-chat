@@ -7,5 +7,12 @@
     "n2": "problems",
     "n3": "the problem",
     "n4": "the problems",
-    "n5": "problem's"
+    "n5": "problem's",
+    "proper": false,
+    "commonness": 206,
+    "max_commonness": 6834,
+    "commonness_ge_count": 24,
+    "n6": "problems'",
+    "n7": "a problem",
+    "n8": "many problems"
 }

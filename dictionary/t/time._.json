@@ -13,5 +13,12 @@
     "v2": "timed",
     "v3": "timed",
     "v4": "timing",
-    "v5": "times"
+    "v5": "times",
+    "proper": false,
+    "commonness": 595,
+    "max_commonness": 6834,
+    "commonness_ge_count": 5,
+    "n6": "times'",
+    "n7": "a time",
+    "n8": "many times"
 }

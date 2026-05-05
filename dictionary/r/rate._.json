@@ -7,5 +7,12 @@
     "n2": "rates",
     "n3": "the rate",
     "n4": "the rates",
-    "n5": "rate's"
+    "n5": "rate's",
+    "proper": false,
+    "commonness": 108,
+    "max_commonness": 6834,
+    "commonness_ge_count": 94,
+    "n6": "rates'",
+    "n7": "a rate",
+    "n8": "many rates"
 }

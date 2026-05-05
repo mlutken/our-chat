@@ -7,5 +7,12 @@
     "n2": "courses",
     "n3": "the course",
     "n4": "the courses",
-    "n5": "course's"
+    "n5": "course's",
+    "proper": false,
+    "commonness": 100,
+    "max_commonness": 6834,
+    "commonness_ge_count": 117,
+    "n6": "courses'",
+    "n7": "a course",
+    "n8": "many courses"
 }

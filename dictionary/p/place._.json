@@ -13,5 +13,12 @@
     "v2": "placed",
     "v3": "placed",
     "v4": "placing",
-    "v5": "places"
+    "v5": "places",
+    "proper": false,
+    "commonness": 194,
+    "max_commonness": 6834,
+    "commonness_ge_count": 26,
+    "n6": "places'",
+    "n7": "a place",
+    "n8": "many places"
 }

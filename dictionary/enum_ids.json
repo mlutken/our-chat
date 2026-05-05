@@ -22,28 +22,32 @@
         "misc": 69
     },
     "classforms": {
-        "f0": 1,
-        "n1": 2,
-        "n2": 3,
-        "n3": 4,
-        "n4": 5,
-        "n5": 6,
+        "lc": 1,
+        "uc": 2,
+        "f0": 3,
+        "n1": 4,
+        "n2": 5,
+        "n3": 6,
+        "n4": 7,
+        "n5": 8,
+        "n6": 9,
+        "n7": 10,
+        "n8": 11,
 
-        "np1": 7,
+        "np1": 12,
 
-        "v1": 8,
-        "v2": 9,
-        "v3": 10,
-        "v4": 11,
-        "v5": 12,
+        "v1": 13,
+        "v2": 14,
+        "v3": 15,
+        "v4": 16,
+        "v5": 17,
 
-        "adj1": 13,
-        "adj2": 14,
-        "adj3": 15,
-
-        "lc": 16,
-        "uc": 17
-
+        "adj1": 18,
+        "adj2": 19,
+        "adj3": 20,
+        "adv1": 21,
+        "adv2": 22,
+        "adv3": 23
     },
     "manual": {
         "classes": [
@@ -69,6 +73,8 @@
                     "[misc] 69       : misc words. For now: [be, was/were, been, being, is] as they dont follow normal verb pattern"
                  ],
         "classforms": [
+                    "[lc]   : lowercase letter",
+                    "[uc]   : uppercase letter",
                     "[f0]  : Unknown form",
                     "[n1]  : Concrete noun singular [house] [success]",
                     "[n2]  : Concrete noun plural [houses] [successes]",
@@ -94,8 +100,6 @@
                     "[conj1] : conjunction base (only) form",
                     "[intj1] : interjection base (only) form",
 
-                    "[lc]   : lowercase letter",
-                    "[uc]   : uppercase letter",
                     "[sep1] : Separator",
                     "[unk1] : Unknown word/char",
                     "[pad1] : Padding"

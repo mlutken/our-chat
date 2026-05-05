@@ -7,5 +7,12 @@
     "n2": "informations",
     "n3": "the information",
     "n4": "the informations",
-    "n5": "information's"
+    "n5": "information's",
+    "proper": false,
+    "commonness": 150,
+    "max_commonness": 6834,
+    "commonness_ge_count": 46,
+    "n6": "informations'",
+    "n7": "an information",
+    "n8": "many informations"
 }

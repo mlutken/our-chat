@@ -7,5 +7,12 @@
     "n2": "hours",
     "n3": "the hour",
     "n4": "the hours",
-    "n5": "hour's"
+    "n5": "hour's",
+    "proper": false,
+    "commonness": 115,
+    "max_commonness": 6834,
+    "commonness_ge_count": 87,
+    "n6": "hours'",
+    "n7": "an hour",
+    "n8": "many hours"
 }

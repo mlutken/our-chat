@@ -13,5 +13,12 @@
     "v2": "worked",
     "v3": "worked",
     "v4": "working",
-    "v5": "works"
+    "v5": "works",
+    "proper": false,
+    "commonness": 212,
+    "max_commonness": 6834,
+    "commonness_ge_count": 22,
+    "n6": "works'",
+    "n7": "a work",
+    "n8": "many works"
 }

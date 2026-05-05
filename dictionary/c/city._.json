@@ -7,5 +7,12 @@
     "n2": "cities",
     "n3": "the city",
     "n4": "the cities",
-    "n5": "city's"
+    "n5": "city's",
+    "proper": false,
+    "commonness": 117,
+    "max_commonness": 6834,
+    "commonness_ge_count": 82,
+    "n6": "cities'",
+    "n7": "a city",
+    "n8": "many cities"
 }

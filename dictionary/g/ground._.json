@@ -1,0 +1,18 @@
+{
+    "base": "ground",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 107,
+    "max_commonness": 6834,
+    "commonness_ge_count": 99,
+    "n1": "ground",
+    "n2": "grounds",
+    "n3": "the ground",
+    "n4": "the grounds",
+    "n5": "ground's",
+    "n6": "grounds'",
+    "n7": "a ground",
+    "n8": "many grounds"
+}

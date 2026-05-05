@@ -1,5 +1,7 @@
 {
     "base": "of",
-    "classes": ["pre"],
+    "classes": [
+        "pre"
+    ],
     "f0": "of"
 }

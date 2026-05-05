@@ -7,5 +7,12 @@
     "n2": "countries",
     "n3": "the country",
     "n4": "the countries",
-    "n5": "country's"
+    "n5": "country's",
+    "proper": false,
+    "commonness": 123,
+    "max_commonness": 6834,
+    "commonness_ge_count": 75,
+    "n6": "countries'",
+    "n7": "a country",
+    "n8": "many countries"
 }

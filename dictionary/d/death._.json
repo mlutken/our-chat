@@ -7,5 +7,12 @@
     "n2": "deaths",
     "n3": "the death",
     "n4": "the deaths",
-    "n5": "death's"
+    "n5": "death's",
+    "proper": false,
+    "commonness": 130,
+    "max_commonness": 6834,
+    "commonness_ge_count": 66,
+    "n6": "deaths'",
+    "n7": "a death",
+    "n8": "many deaths"
 }

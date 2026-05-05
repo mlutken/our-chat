@@ -1,0 +1,7 @@
+{
+    "base": "counting",
+    "classes": [
+        "pre"
+    ],
+    "f0": "counting"
+}

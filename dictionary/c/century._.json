@@ -7,5 +7,12 @@
     "n2": "centuries",
     "n3": "the century",
     "n4": "the centuries",
-    "n5": "century's"
+    "n5": "century's",
+    "proper": false,
+    "commonness": 103,
+    "max_commonness": 6834,
+    "commonness_ge_count": 110,
+    "n6": "centuries'",
+    "n7": "a century",
+    "n8": "many centuries"
 }

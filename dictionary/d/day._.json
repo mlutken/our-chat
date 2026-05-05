@@ -7,5 +7,12 @@
     "n2": "days",
     "n3": "the day",
     "n4": "the days",
-    "n5": "day's"
+    "n5": "day's",
+    "proper": false,
+    "commonness": 349,
+    "max_commonness": 6834,
+    "commonness_ge_count": 8,
+    "n6": "days'",
+    "n7": "a day",
+    "n8": "many days"
 }

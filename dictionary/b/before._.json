@@ -1,7 +1,8 @@
 {
     "base": "before",
     "classes": [
-        "conj"
+        "conj",
+        "pre"
     ],
     "f0": "before"
 }

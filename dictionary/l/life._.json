@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "life",
-    "n2": "lifes",
+    "n2": "lives",
     "n3": "the life",
-    "n4": "the lifes",
-    "n5": "life's"
+    "n4": "the lives",
+    "n5": "life's",
+    "proper": false,
+    "commonness": 256,
+    "max_commonness": 6834,
+    "commonness_ge_count": 14,
+    "n6": "lives'",
+    "n7": "a life",
+    "n8": "many lives"
 }

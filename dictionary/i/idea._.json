@@ -7,5 +7,12 @@
     "n2": "ideas",
     "n3": "the idea",
     "n4": "the ideas",
-    "n5": "idea's"
+    "n5": "idea's",
+    "proper": false,
+    "commonness": 157,
+    "max_commonness": 6834,
+    "commonness_ge_count": 42,
+    "n6": "ideas'",
+    "n7": "an idea",
+    "n8": "many ideas"
 }

@@ -13,5 +13,12 @@
     "v2": "watered",
     "v3": "watered",
     "v4": "watering",
-    "v5": "waters"
+    "v5": "waters",
+    "proper": false,
+    "commonness": 182,
+    "max_commonness": 6834,
+    "commonness_ge_count": 31,
+    "n6": "waters'",
+    "n7": "a water",
+    "n8": "many waters"
 }

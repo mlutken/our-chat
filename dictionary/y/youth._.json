@@ -7,5 +7,12 @@
     "n2": "youths",
     "n3": "the youth",
     "n4": "the youths",
-    "n5": "youth's"
+    "n5": "youth's",
+    "proper": false,
+    "commonness": 342,
+    "max_commonness": 6834,
+    "commonness_ge_count": 9,
+    "n6": "youths'",
+    "n7": "a youth",
+    "n8": "many youths"
 }

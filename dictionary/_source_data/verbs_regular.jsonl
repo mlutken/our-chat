@@ -582,3 +582,5 @@
 {"base":"zoom","classes":["v"],"v1":"zoom","v2":"zoomed","v3":"zoomed","v4":"zooming","v5":"zooms"}
 {"base":"base","classes":["v"],"v1":"base","v2":"based","v3":"based","v4":"basing","v5":"bases"}
 {"base":"involve","classes":["v"],"v1":"involve","v2":"involved","v3":"involved","v4":"involving","v5":"involves"}
+
+{"base": "counsel", "classes": ["v"], "commonness": 3, "max_commonness": 16667, "commonness_ge_count": 2629, "v1": "counsel", "v2": "counselled", "v3": "counselled", "v4": "counselling", "v5": "counsels"}

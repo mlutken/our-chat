@@ -7,5 +7,12 @@
     "n2": "wars",
     "n3": "the war",
     "n4": "the wars",
-    "n5": "war's"
+    "n5": "war's",
+    "proper": false,
+    "commonness": 106,
+    "max_commonness": 6834,
+    "commonness_ge_count": 101,
+    "n6": "wars'",
+    "n7": "a war",
+    "n8": "many wars"
 }

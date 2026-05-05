@@ -1,7 +1,8 @@
 {
     "base": "towards",
     "classes": [
-        "adv"
+        "adv",
+        "pre"
     ],
     "f0": "towards",
     "adv_subtype": "place"

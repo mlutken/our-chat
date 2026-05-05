@@ -1,0 +1,18 @@
+{
+    "base": "surface",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 142,
+    "max_commonness": 6834,
+    "commonness_ge_count": 56,
+    "n1": "surface",
+    "n2": "surfaces",
+    "n3": "the surface",
+    "n4": "the surfaces",
+    "n5": "surface's",
+    "n6": "surfaces'",
+    "n7": "a surface",
+    "n8": "many surfaces"
+}

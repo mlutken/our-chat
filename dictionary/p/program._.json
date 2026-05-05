@@ -13,5 +13,12 @@
     "v2": "programmed",
     "v3": "programmed",
     "v4": "programming",
-    "v5": "programs"
+    "v5": "programs",
+    "proper": false,
+    "commonness": 150,
+    "max_commonness": 6834,
+    "commonness_ge_count": 46,
+    "n6": "programs'",
+    "n7": "a program",
+    "n8": "many programs"
 }

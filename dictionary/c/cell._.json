@@ -7,5 +7,12 @@
     "n2": "cells",
     "n3": "the cell",
     "n4": "the cells",
-    "n5": "cell's"
+    "n5": "cell's",
+    "proper": false,
+    "commonness": 116,
+    "max_commonness": 6834,
+    "commonness_ge_count": 85,
+    "n6": "cells'",
+    "n7": "a cell",
+    "n8": "many cells"
 }

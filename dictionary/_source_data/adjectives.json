@@ -1252,4 +1252,7 @@
     "adj2": "more unique",
     "adj3": "most unique"
     }
+    ,
+    {"base": "profound", "classes": ["adj"], "adj_classes": [], "commonness": 20, "max_commonness": 641, "commonness_ge_count": 384, "adj1": "profound", "adj2": "more profound", "adj3": "most profound", "adv1": "profoundly", "adv2": "more profoundly", "adv3": "most profoundly"}
+
 ]

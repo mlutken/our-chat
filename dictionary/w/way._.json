@@ -7,5 +7,12 @@
     "n2": "ways",
     "n3": "the way",
     "n4": "the ways",
-    "n5": "way's"
+    "n5": "way's",
+    "proper": false,
+    "commonness": 380,
+    "max_commonness": 6834,
+    "commonness_ge_count": 7,
+    "n6": "ways'",
+    "n7": "a way",
+    "n8": "many ways"
 }

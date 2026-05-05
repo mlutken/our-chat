@@ -13,5 +13,12 @@
     "v2": "named",
     "v3": "named",
     "v4": "naming",
-    "v5": "names"
+    "v5": "names",
+    "proper": false,
+    "commonness": 104,
+    "max_commonness": 6834,
+    "commonness_ge_count": 107,
+    "n6": "names'",
+    "n7": "a name",
+    "n8": "many names"
 }

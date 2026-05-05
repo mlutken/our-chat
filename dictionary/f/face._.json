@@ -13,5 +13,12 @@
     "v2": "faced",
     "v3": "faced",
     "v4": "facing",
-    "v5": "faces"
+    "v5": "faces",
+    "proper": false,
+    "commonness": 252,
+    "max_commonness": 6834,
+    "commonness_ge_count": 16,
+    "n6": "faces'",
+    "n7": "a face",
+    "n8": "many faces"
 }

@@ -7,5 +7,12 @@
     "n2": "cases",
     "n3": "the case",
     "n4": "the cases",
-    "n5": "case's"
+    "n5": "case's",
+    "proper": false,
+    "commonness": 165,
+    "max_commonness": 6834,
+    "commonness_ge_count": 39,
+    "n6": "cases'",
+    "n7": "a case",
+    "n8": "many cases"
 }

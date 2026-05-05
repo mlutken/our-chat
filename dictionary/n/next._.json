@@ -1,7 +1,8 @@
 {
     "base": "next",
     "classes": [
-        "adv"
+        "adv",
+        "pre"
     ],
     "f0": "next",
     "adv_subtype": "time"

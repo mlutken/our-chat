@@ -7,5 +7,12 @@
     "n2": "homes",
     "n3": "the home",
     "n4": "the homes",
-    "n5": "home's"
+    "n5": "home's",
+    "proper": false,
+    "commonness": 119,
+    "max_commonness": 6834,
+    "commonness_ge_count": 78,
+    "n6": "homes'",
+    "n7": "a home",
+    "n8": "many homes"
 }

@@ -7,5 +7,12 @@
     "n2": "sides",
     "n3": "the side",
     "n4": "the sides",
-    "n5": "side's"
+    "n5": "side's",
+    "proper": false,
+    "commonness": 168,
+    "max_commonness": 6834,
+    "commonness_ge_count": 36,
+    "n6": "sides'",
+    "n7": "a side",
+    "n8": "many sides"
 }

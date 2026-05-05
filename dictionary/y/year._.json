@@ -7,5 +7,12 @@
     "n2": "years",
     "n3": "the year",
     "n4": "the years",
-    "n5": "year's"
+    "n5": "year's",
+    "proper": false,
+    "commonness": 450,
+    "max_commonness": 6834,
+    "commonness_ge_count": 6,
+    "n6": "years'",
+    "n7": "a year",
+    "n8": "many years"
 }

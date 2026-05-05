@@ -3,16 +3,19 @@ import json
 import copy
 import pathlib
 
+g_commoness_minimum_value = 100
+
 dictionary_path     = pathlib.Path(__file__).parent.parent.resolve()
 source_data_path    = (dictionary_path / "_source_data").resolve()
 
 source_names = [
-    "nouns_irregular", "nouns_regular", "02_nouns",   # Nouns first. Rest in alphabetical order
+    "nouns_irregular", "nouns_regular", "02_nouns", "_wordnet_nouns_forms",   # Nouns first. Rest in alphabetical order
+    "verbs_irregular", "verbs_regular", "02_verbs", "_wordnet_verbs_forms"
     "adjectives", "conjunctive_adverbs", "degree_adverbs", "frequency_adverbs", "manner_adverbs", "relative_adverbs", "adverbs",
-    "place_adverbs", "time_adverbs", "verbs_irregular", "verbs_regular",
+    "_wordnet_adjective_forms",
+    "place_adverbs", "time_adverbs",
     "conjunctions",
-    "auxiliary_verbs", "misc_words", "pronoun_words.json", "preposition_words.json",
-    "02_verbs"
+    "auxiliary_verbs", "misc_words", "pronoun_words", "preposition_words"
 ]
 
 print(f"dictionary_path : {dictionary_path}")
@@ -27,7 +30,9 @@ def str_contains_number(str):
 
 def merge_dict_into_dict(word_into, word_from):
     if word_into['base'] != word_from['base']:
-        print(f"ERROR: {word_into['base']} != {word_from['base']}")
+        print(f"ERROR: Failed merging:  {word_into['base']} != {word_from['base']}")
+        print(f"into: {word_into}\nfrom: {word_from}\n")
+
         return False
 
     for key in word_from:
@@ -64,12 +69,26 @@ def read_word_file(base_name, wfp):
 
 def merge_dict_into_file(word_from):
     global g_total_words
-    g_total_words += 1
     base_name = word_from['base']
+
+    if str_contains_number(base_name):
+        print(f"NOTE: skipping word with number (for now at least) '{base_name}'")
+        return
+
     wfp = word_file_path(base_name)
     word_into = read_word_file(base_name, wfp)
+
+    if "commonness" in word_from:
+        commonness = int(word_from['commonness'])
+        if commonness < g_commoness_minimum_value:
+            return
+        # else:
+        #     print(f"FIXMENM WE WOULD IMPORT '{base_name}' WORD INTO [{g_total_words}]: {word_from} -> {wfp}")
+        #     return
+
+    g_total_words += 1
     merge_dict_into_dict(word_into, word_from)
-    print(f"WORD INTO [{g_total_words}]: {word_into} -> {wfp}")
+    print(f"WORD INTO [{g_total_words}]: {word_from} -> {wfp}")
     with open(wfp, "w") as fp:
         json.dump(word_into, fp, indent=4)
 
@@ -86,10 +105,13 @@ def merge_source_file(source_name):
         with open(source_file_path_jsonl) as f:
             for line in f:
                 try:
+                    line = line.strip()
+                    if line == "":
+                        continue
                     words_from = json.loads(line)
                 except:
                     pass
-                print(words_from)
+                # print(f"words_from: {words_from}")
                 merge_dict_into_file(words_from)
     else:
         print(f"ERROR: {source_file_path_json} or {source_file_path_jsonl} not found!")

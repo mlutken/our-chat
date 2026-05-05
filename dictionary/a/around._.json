@@ -1,7 +1,8 @@
 {
     "base": "around",
     "classes": [
-        "adv"
+        "adv",
+        "pre"
     ],
     "f0": "around",
     "adv_subtype": "place"

@@ -7,5 +7,12 @@
     "n2": "states",
     "n3": "the state",
     "n4": "the states",
-    "n5": "state's"
+    "n5": "state's",
+    "proper": false,
+    "commonness": 192,
+    "max_commonness": 6834,
+    "commonness_ge_count": 28,
+    "n6": "states'",
+    "n7": "a state",
+    "n8": "many states"
 }

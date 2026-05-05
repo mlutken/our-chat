@@ -1,5 +1,7 @@
 {
     "base": "plus",
-    "classes": ["pre"],
+    "classes": [
+        "pre"
+    ],
     "f0": "plus"
 }

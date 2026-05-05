@@ -7,5 +7,12 @@
     "n2": "nothings",
     "n3": "the nothing",
     "n4": "the nothings",
-    "n5": "nothing's"
+    "n5": "nothing's",
+    "proper": false,
+    "commonness": 141,
+    "max_commonness": 6834,
+    "commonness_ge_count": 57,
+    "n6": "nothings'",
+    "n7": "a nothing",
+    "n8": "many nothings"
 }

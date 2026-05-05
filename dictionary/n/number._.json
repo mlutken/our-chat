@@ -13,5 +13,12 @@
     "v2": "numbered",
     "v3": "numbered",
     "v4": "numbering",
-    "v5": "numbers"
+    "v5": "numbers",
+    "proper": false,
+    "commonness": 211,
+    "max_commonness": 6834,
+    "commonness_ge_count": 23,
+    "n6": "numbers'",
+    "n7": "a number",
+    "n8": "many numbers"
 }

@@ -7,5 +7,12 @@
     "n2": "spirits",
     "n3": "the spirit",
     "n4": "the spirits",
-    "n5": "spirit's"
+    "n5": "spirit's",
+    "proper": false,
+    "commonness": 116,
+    "max_commonness": 6834,
+    "commonness_ge_count": 85,
+    "n6": "spirits'",
+    "n7": "a spirit",
+    "n8": "many spirits"
 }

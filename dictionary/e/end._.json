@@ -13,5 +13,12 @@
     "v2": "ended",
     "v3": "ended",
     "v4": "ending",
-    "v5": "ends"
+    "v5": "ends",
+    "proper": false,
+    "commonness": 142,
+    "max_commonness": 6834,
+    "commonness_ge_count": 56,
+    "n6": "ends'",
+    "n7": "an end",
+    "n8": "many ends"
 }

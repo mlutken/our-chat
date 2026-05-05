@@ -7,5 +7,12 @@
     "n2": "worlds",
     "n3": "the world",
     "n4": "the worlds",
-    "n5": "world's"
+    "n5": "world's",
+    "proper": false,
+    "commonness": 227,
+    "max_commonness": 6834,
+    "commonness_ge_count": 19,
+    "n6": "worlds'",
+    "n7": "a world",
+    "n8": "many worlds"
 }

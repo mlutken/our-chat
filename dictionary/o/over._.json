@@ -1,7 +1,8 @@
 {
     "base": "over",
     "classes": [
-        "adv"
+        "adv",
+        "pre"
     ],
     "f0": "over",
     "adv_subtype": "place"

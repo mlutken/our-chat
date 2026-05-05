@@ -1,11 +1,24 @@
 {
     "base": "plant",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "plant",
     "v2": "planted",
     "v3": "planted",
     "v4": "planting",
-    "v5": "plants"
+    "v5": "plants",
+    "proper": false,
+    "commonness": 100,
+    "max_commonness": 6834,
+    "commonness_ge_count": 117,
+    "n1": "plant",
+    "n2": "plants",
+    "n3": "the plant",
+    "n4": "the plants",
+    "n5": "plant's",
+    "n6": "plants'",
+    "n7": "a plant",
+    "n8": "many plants"
 }

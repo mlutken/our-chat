@@ -7,5 +7,12 @@
     "n2": "companies",
     "n3": "the company",
     "n4": "the companies",
-    "n5": "company's"
+    "n5": "company's",
+    "proper": false,
+    "commonness": 105,
+    "max_commonness": 6834,
+    "commonness_ge_count": 103,
+    "n6": "companies'",
+    "n7": "a company",
+    "n8": "many companies"
 }

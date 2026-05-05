@@ -13,5 +13,12 @@
     "v2": "typed",
     "v3": "typed",
     "v4": "typing",
-    "v5": "types"
+    "v5": "types",
+    "proper": false,
+    "commonness": 143,
+    "max_commonness": 6834,
+    "commonness_ge_count": 54,
+    "n6": "types'",
+    "n7": "a type",
+    "n8": "many types"
 }

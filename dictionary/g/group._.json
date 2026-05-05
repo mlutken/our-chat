@@ -7,5 +7,12 @@
     "n2": "groups",
     "n3": "the group",
     "n4": "the groups",
-    "n5": "group's"
+    "n5": "group's",
+    "proper": false,
+    "commonness": 1346,
+    "max_commonness": 6834,
+    "commonness_ge_count": 2,
+    "n6": "groups'",
+    "n7": "a group",
+    "n8": "many groups"
 }

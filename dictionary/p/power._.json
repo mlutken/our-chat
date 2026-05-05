@@ -13,5 +13,12 @@
     "v2": "powered",
     "v3": "powered",
     "v4": "powering",
-    "v5": "powers"
+    "v5": "powers",
+    "proper": false,
+    "commonness": 115,
+    "max_commonness": 6834,
+    "commonness_ge_count": 87,
+    "n6": "powers'",
+    "n7": "a power",
+    "n8": "many powers"
 }

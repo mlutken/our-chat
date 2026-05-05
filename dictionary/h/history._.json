@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "history",
-    "n2": "historys",
+    "n2": "histories",
     "n3": "the history",
-    "n4": "the historys",
-    "n5": "history's"
+    "n4": "the histories",
+    "n5": "history's",
+    "proper": false,
+    "commonness": 107,
+    "max_commonness": 6834,
+    "commonness_ge_count": 99,
+    "n6": "histories'",
+    "n7": "a history",
+    "n8": "many histories"
 }

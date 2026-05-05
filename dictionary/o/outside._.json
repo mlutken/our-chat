@@ -2,7 +2,8 @@
     "base": "outside",
     "classes": [
         "n",
-        "adv"
+        "adv",
+        "pre"
     ],
     "n1": "outside",
     "n2": "outsides",

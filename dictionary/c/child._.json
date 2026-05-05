@@ -7,5 +7,12 @@
     "n2": "children",
     "n3": "the child",
     "n4": "the children",
-    "n5": "child's"
+    "n5": "child's",
+    "proper": false,
+    "commonness": 214,
+    "max_commonness": 6834,
+    "commonness_ge_count": 21,
+    "n6": "children's",
+    "n7": "a child",
+    "n8": "many children"
 }

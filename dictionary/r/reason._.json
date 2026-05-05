@@ -7,5 +7,12 @@
     "n2": "reasons",
     "n3": "the reason",
     "n4": "the reasons",
-    "n5": "reason's"
+    "n5": "reason's",
+    "proper": false,
+    "commonness": 110,
+    "max_commonness": 6834,
+    "commonness_ge_count": 91,
+    "n6": "reasons'",
+    "n7": "a reason",
+    "n8": "many reasons"
 }

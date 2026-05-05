@@ -7,5 +7,12 @@
     "n2": "ages",
     "n3": "the age",
     "n4": "the ages",
-    "n5": "age's"
+    "n5": "age's",
+    "proper": false,
+    "commonness": 104,
+    "max_commonness": 6834,
+    "commonness_ge_count": 107,
+    "n6": "ages'",
+    "n7": "an age",
+    "n8": "many ages"
 }

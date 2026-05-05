@@ -7,5 +7,12 @@
     "n2": "effects",
     "n3": "the effect",
     "n4": "the effects",
-    "n5": "effect's"
+    "n5": "effect's",
+    "proper": false,
+    "commonness": 124,
+    "max_commonness": 6834,
+    "commonness_ge_count": 73,
+    "n6": "effects'",
+    "n7": "an effect",
+    "n8": "many effects"
 }

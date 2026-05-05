@@ -1,6 +1,8 @@
 {
     "base": "by",
-    "classes": ["pre"],
+    "classes": [
+        "pre"
+    ],
     "pre0": "",
     "f0": "by"
 }

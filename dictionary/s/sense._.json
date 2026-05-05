@@ -7,5 +7,12 @@
     "n2": "senses",
     "n3": "the sense",
     "n4": "the senses",
-    "n5": "sense's"
+    "n5": "sense's",
+    "proper": false,
+    "commonness": 103,
+    "max_commonness": 6834,
+    "commonness_ge_count": 110,
+    "n6": "senses'",
+    "n7": "a sense",
+    "n8": "many senses"
 }

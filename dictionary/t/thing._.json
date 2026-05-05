@@ -7,5 +7,12 @@
     "n2": "things",
     "n3": "the thing",
     "n4": "the things",
-    "n5": "thing's"
+    "n5": "thing's",
+    "proper": false,
+    "commonness": 336,
+    "max_commonness": 6834,
+    "commonness_ge_count": 10,
+    "n6": "things'",
+    "n7": "a thing",
+    "n8": "many things"
 }

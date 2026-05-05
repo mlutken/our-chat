@@ -13,5 +13,12 @@
     "v2": "resulted",
     "v3": "resulted",
     "v4": "resulting",
-    "v5": "results"
+    "v5": "results",
+    "proper": false,
+    "commonness": 132,
+    "max_commonness": 6834,
+    "commonness_ge_count": 64,
+    "n6": "results'",
+    "n7": "a result",
+    "n8": "many results"
 }

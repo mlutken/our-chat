@@ -13,5 +13,12 @@
     "v2": "formed",
     "v3": "formed",
     "v4": "forming",
-    "v5": "forms"
+    "v5": "forms",
+    "proper": false,
+    "commonness": 256,
+    "max_commonness": 6834,
+    "commonness_ge_count": 14,
+    "n6": "forms'",
+    "n7": "a form",
+    "n8": "many forms"
 }

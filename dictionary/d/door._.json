@@ -7,5 +7,12 @@
     "n2": "doors",
     "n3": "the door",
     "n4": "the doors",
-    "n5": "door's"
+    "n5": "door's",
+    "proper": false,
+    "commonness": 140,
+    "max_commonness": 6834,
+    "commonness_ge_count": 58,
+    "n6": "doors'",
+    "n7": "a door",
+    "n8": "many doors"
 }

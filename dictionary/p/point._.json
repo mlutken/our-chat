@@ -13,5 +13,12 @@
     "v2": "pointed",
     "v3": "pointed",
     "v4": "pointing",
-    "v5": "points"
+    "v5": "points",
+    "proper": false,
+    "commonness": 154,
+    "max_commonness": 6834,
+    "commonness_ge_count": 44,
+    "n6": "points'",
+    "n7": "a point",
+    "n8": "many points"
 }

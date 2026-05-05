@@ -13,5 +13,12 @@
     "v2": "parted",
     "v3": "parted",
     "v4": "parting",
-    "v5": "parts"
+    "v5": "parts",
+    "proper": false,
+    "commonness": 234,
+    "max_commonness": 6834,
+    "commonness_ge_count": 17,
+    "n6": "parts'",
+    "n7": "a part",
+    "n8": "many parts"
 }

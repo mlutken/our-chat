@@ -7,5 +7,12 @@
     "n2": "families",
     "n3": "the family",
     "n4": "the families",
-    "n5": "family's"
+    "n5": "family's",
+    "proper": false,
+    "commonness": 135,
+    "max_commonness": 6834,
+    "commonness_ge_count": 61,
+    "n6": "families'",
+    "n7": "a family",
+    "n8": "many families"
 }

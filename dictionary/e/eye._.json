@@ -7,5 +7,12 @@
     "n2": "eyes",
     "n3": "the eye",
     "n4": "the eyes",
-    "n5": "eye's"
+    "n5": "eye's",
+    "proper": false,
+    "commonness": 277,
+    "max_commonness": 6834,
+    "commonness_ge_count": 12,
+    "n6": "eyes'",
+    "n7": "an eye",
+    "n8": "many eyes"
 }

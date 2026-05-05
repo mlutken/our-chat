@@ -7,5 +7,12 @@
     "n2": "lines",
     "n3": "the line",
     "n4": "the lines",
-    "n5": "line's"
+    "n5": "line's",
+    "proper": false,
+    "commonness": 192,
+    "max_commonness": 6834,
+    "commonness_ge_count": 28,
+    "n6": "lines'",
+    "n7": "a line",
+    "n8": "many lines"
 }

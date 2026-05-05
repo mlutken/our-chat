@@ -7,5 +7,12 @@
     "n2": "differences",
     "n3": "the difference",
     "n4": "the differences",
-    "n5": "difference's"
+    "n5": "difference's",
+    "proper": false,
+    "commonness": 113,
+    "max_commonness": 6834,
+    "commonness_ge_count": 89,
+    "n6": "differences'",
+    "n7": "a difference",
+    "n8": "many differences"
 }

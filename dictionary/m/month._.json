@@ -7,5 +7,12 @@
     "n2": "months",
     "n3": "the month",
     "n4": "the months",
-    "n5": "month's"
+    "n5": "month's",
+    "proper": false,
+    "commonness": 107,
+    "max_commonness": 6834,
+    "commonness_ge_count": 99,
+    "n6": "months'",
+    "n7": "a month",
+    "n8": "many months"
 }

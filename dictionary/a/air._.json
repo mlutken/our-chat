@@ -7,5 +7,12 @@
     "n2": "airs",
     "n3": "the air",
     "n4": "the airs",
-    "n5": "air's"
+    "n5": "air's",
+    "proper": false,
+    "commonness": 104,
+    "max_commonness": 6834,
+    "commonness_ge_count": 107,
+    "n6": "airs'",
+    "n7": "an air",
+    "n8": "many airs"
 }

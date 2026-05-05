@@ -1,0 +1,18 @@
+{
+    "base": "horse",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 104,
+    "max_commonness": 6834,
+    "commonness_ge_count": 107,
+    "n1": "horse",
+    "n2": "horses",
+    "n3": "the horse",
+    "n4": "the horses",
+    "n5": "horse's",
+    "n6": "horses'",
+    "n7": "a horse",
+    "n8": "many horses"
+}

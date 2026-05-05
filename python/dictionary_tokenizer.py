@@ -578,9 +578,9 @@ class DictionaryTokenizer():
 
 
     CLASS_TO_FORM_NAMES_ = {
-        "n": ["n1", "n2", "n3", "n4", "n5"],
+        "n": ["n1", "n2", "n3", "n4", "n5", "n6", "n7", "n8"],
         "v": ["v1", "v2", "v3", "v4", "v5"],
-        "adj": ["adj1", "adj2", "adj3"],
+        "adj": ["adj1", "adj2", "adj3", "adv1", "adv2", "adv3"],
         "adv": ["f0"],
         "pre": ["f0"],
         "pro": ["f0"],

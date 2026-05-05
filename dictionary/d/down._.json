@@ -1,5 +1,7 @@
 {
     "base": "down",
-    "classes": ["pre"],
+    "classes": [
+        "pre"
+    ],
     "f0": "down"
 }

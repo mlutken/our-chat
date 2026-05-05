@@ -1,0 +1,18 @@
+{
+    "base": "god",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 116,
+    "max_commonness": 6834,
+    "commonness_ge_count": 85,
+    "n1": "god",
+    "n2": "gods",
+    "n3": "the god",
+    "n4": "the gods",
+    "n5": "god's",
+    "n6": "gods'",
+    "n7": "a god",
+    "n8": "many gods"
+}

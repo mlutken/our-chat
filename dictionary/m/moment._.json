@@ -7,5 +7,12 @@
     "n2": "moments",
     "n3": "the moment",
     "n4": "the moments",
-    "n5": "moment's"
+    "n5": "moment's",
+    "proper": false,
+    "commonness": 161,
+    "max_commonness": 6834,
+    "commonness_ge_count": 41,
+    "n6": "moments'",
+    "n7": "a moment",
+    "n8": "many moments"
 }

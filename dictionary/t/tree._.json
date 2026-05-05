@@ -7,5 +7,12 @@
     "n2": "trees",
     "n3": "the tree",
     "n4": "the trees",
-    "n5": "tree's"
+    "n5": "tree's",
+    "proper": false,
+    "commonness": 107,
+    "max_commonness": 6834,
+    "commonness_ge_count": 99,
+    "n6": "trees'",
+    "n7": "a tree",
+    "n8": "many trees"
 }

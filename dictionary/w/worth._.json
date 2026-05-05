@@ -1,9 +1,11 @@
 {
     "base": "worth",
     "classes": [
-        "adj"
+        "adj",
+        "pre"
     ],
     "adj1": "worth",
     "adj2": "more worth",
-    "adj3": "most worth"
+    "adj3": "most worth",
+    "f0": "worth"
 }

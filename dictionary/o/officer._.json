@@ -1,0 +1,18 @@
+{
+    "base": "officer",
+    "classes": [
+        "n"
+    ],
+    "proper": false,
+    "commonness": 118,
+    "max_commonness": 6834,
+    "commonness_ge_count": 80,
+    "n1": "officer",
+    "n2": "officers",
+    "n3": "the officer",
+    "n4": "the officers",
+    "n5": "officer's",
+    "n6": "officers'",
+    "n7": "an officer",
+    "n8": "many officers"
+}

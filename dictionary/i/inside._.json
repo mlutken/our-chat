@@ -2,7 +2,8 @@
     "base": "inside",
     "classes": [
         "n",
-        "adv"
+        "adv",
+        "pre"
     ],
     "n1": "inside",
     "n2": "insides",

@@ -13,5 +13,12 @@
     "v2": "leveled/levelled",
     "v3": "leveled/levelled",
     "v4": "leveling/levelling",
-    "v5": "levels/levels"
+    "v5": "levels/levels",
+    "proper": false,
+    "commonness": 113,
+    "max_commonness": 6834,
+    "commonness_ge_count": 89,
+    "n6": "levels'",
+    "n7": "a level",
+    "n8": "many levels"
 }

@@ -1,11 +1,24 @@
 {
     "base": "use",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "use",
     "v2": "used",
     "v3": "used",
     "v4": "using",
-    "v5": "uses"
+    "v5": "uses",
+    "proper": false,
+    "commonness": 118,
+    "max_commonness": 6834,
+    "commonness_ge_count": 80,
+    "n1": "use",
+    "n2": "uses",
+    "n3": "the use",
+    "n4": "the uses",
+    "n5": "use's",
+    "n6": "uses'",
+    "n7": "a use",
+    "n8": "many uses"
 }

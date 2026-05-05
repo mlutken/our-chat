@@ -7,5 +7,12 @@
     "n2": "words",
     "n3": "the word",
     "n4": "the words",
-    "n5": "word's"
+    "n5": "word's",
+    "proper": false,
+    "commonness": 147,
+    "max_commonness": 6834,
+    "commonness_ge_count": 50,
+    "n6": "words'",
+    "n7": "a word",
+    "n8": "many words"
 }

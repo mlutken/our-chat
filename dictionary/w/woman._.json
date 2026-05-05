@@ -7,5 +7,12 @@
     "n2": "women",
     "n3": "the woman",
     "n4": "the women",
-    "n5": "woman's"
+    "n5": "woman's",
+    "proper": false,
+    "commonness": 144,
+    "max_commonness": 6834,
+    "commonness_ge_count": 53,
+    "n6": "women's",
+    "n7": "a woman",
+    "n8": "many women"
 }

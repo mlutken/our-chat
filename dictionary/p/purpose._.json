@@ -7,5 +7,12 @@
     "n2": "purposes",
     "n3": "the purpose",
     "n4": "the purposes",
-    "n5": "purpose's"
+    "n5": "purpose's",
+    "proper": false,
+    "commonness": 106,
+    "max_commonness": 6834,
+    "commonness_ge_count": 101,
+    "n6": "purposes'",
+    "n7": "a purpose",
+    "n8": "many purposes"
 }

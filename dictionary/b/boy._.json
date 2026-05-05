@@ -7,5 +7,12 @@
     "n2": "boys",
     "n3": "the boy",
     "n4": "the boys",
-    "n5": "boy's"
+    "n5": "boy's",
+    "proper": false,
+    "commonness": 203,
+    "max_commonness": 6834,
+    "commonness_ge_count": 25,
+    "n6": "boys'",
+    "n7": "a boy",
+    "n8": "many boys"
 }

@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "body",
-    "n2": "bodys",
+    "n2": "bodies",
     "n3": "the body",
-    "n4": "the bodys",
-    "n5": "body's"
+    "n4": "the bodies",
+    "n5": "body's",
+    "proper": false,
+    "commonness": 168,
+    "max_commonness": 6834,
+    "commonness_ge_count": 36,
+    "n6": "bodies'",
+    "n7": "a body",
+    "n8": "many bodies"
 }

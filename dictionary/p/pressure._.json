@@ -7,5 +7,12 @@
     "n2": "pressures",
     "n3": "the pressure",
     "n4": "the pressures",
-    "n5": "pressure's"
+    "n5": "pressure's",
+    "proper": false,
+    "commonness": 103,
+    "max_commonness": 6834,
+    "commonness_ge_count": 110,
+    "n6": "pressures'",
+    "n7": "a pressure",
+    "n8": "many pressures"
 }

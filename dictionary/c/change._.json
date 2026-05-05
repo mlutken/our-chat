@@ -1,11 +1,24 @@
 {
     "base": "change",
     "classes": [
+        "n",
         "v"
     ],
     "v1": "change",
     "v2": "changed",
     "v3": "changed",
     "v4": "changing",
-    "v5": "changes"
+    "v5": "changes",
+    "proper": false,
+    "commonness": 125,
+    "max_commonness": 6834,
+    "commonness_ge_count": 72,
+    "n1": "change",
+    "n2": "changes",
+    "n3": "the change",
+    "n4": "the changes",
+    "n5": "change's",
+    "n6": "changes'",
+    "n7": "a change",
+    "n8": "many changes"
 }

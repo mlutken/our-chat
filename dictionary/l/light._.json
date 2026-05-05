@@ -17,5 +17,12 @@
     "v2": "lighted/lit",
     "v3": "lighted/lit",
     "v4": "lighting",
-    "v5": "lights"
+    "v5": "lights",
+    "proper": false,
+    "commonness": 117,
+    "max_commonness": 6834,
+    "commonness_ge_count": 82,
+    "n6": "lights'",
+    "n7": "a light",
+    "n8": "many lights"
 }

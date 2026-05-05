@@ -7,5 +7,12 @@
     "n2": "positions",
     "n3": "the position",
     "n4": "the positions",
-    "n5": "position's"
+    "n5": "position's",
+    "proper": false,
+    "commonness": 125,
+    "max_commonness": 6834,
+    "commonness_ge_count": 72,
+    "n6": "positions'",
+    "n7": "a position",
+    "n8": "many positions"
 }

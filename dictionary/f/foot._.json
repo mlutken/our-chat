@@ -7,5 +7,12 @@
     "n2": "feet",
     "n3": "the foot",
     "n4": "the feet",
-    "n5": "foot's"
+    "n5": "foot's",
+    "proper": false,
+    "commonness": 187,
+    "max_commonness": 6834,
+    "commonness_ge_count": 29,
+    "n6": "feet's",
+    "n7": "a foot",
+    "n8": "many feet"
 }

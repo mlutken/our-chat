@@ -7,5 +7,12 @@
     "n2": "schools",
     "n3": "the school",
     "n4": "the schools",
-    "n5": "school's"
+    "n5": "school's",
+    "proper": false,
+    "commonness": 148,
+    "max_commonness": 6834,
+    "commonness_ge_count": 48,
+    "n6": "schools'",
+    "n7": "a school",
+    "n8": "many schools"
 }

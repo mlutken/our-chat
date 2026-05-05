@@ -7,5 +7,12 @@
     "n2": "mothers",
     "n3": "the mother",
     "n4": "the mothers",
-    "n5": "mother's"
+    "n5": "mother's",
+    "proper": false,
+    "commonness": 100,
+    "max_commonness": 6834,
+    "commonness_ge_count": 117,
+    "n6": "mothers'",
+    "n7": "a mother",
+    "n8": "many mothers"
 }

@@ -7,5 +7,12 @@
     "n2": "locations",
     "n3": "the location",
     "n4": "the locations",
-    "n5": "location's"
+    "n5": "location's",
+    "proper": false,
+    "commonness": 996,
+    "max_commonness": 6834,
+    "commonness_ge_count": 4,
+    "n6": "locations'",
+    "n7": "a location",
+    "n8": "many locations"
 }

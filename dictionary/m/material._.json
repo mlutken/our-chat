@@ -7,5 +7,12 @@
     "n2": "materials",
     "n3": "the material",
     "n4": "the materials",
-    "n5": "material's"
+    "n5": "material's",
+    "proper": false,
+    "commonness": 119,
+    "max_commonness": 6834,
+    "commonness_ge_count": 78,
+    "n6": "materials'",
+    "n7": "a material",
+    "n8": "many materials"
 }

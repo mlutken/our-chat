@@ -7,5 +7,12 @@
     "n2": "rooms",
     "n3": "the room",
     "n4": "the rooms",
-    "n5": "room's"
+    "n5": "room's",
+    "proper": false,
+    "commonness": 129,
+    "max_commonness": 6834,
+    "commonness_ge_count": 68,
+    "n6": "rooms'",
+    "n7": "a room",
+    "n8": "many rooms"
 }

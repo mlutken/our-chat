@@ -11,5 +11,12 @@
     "n5": "kind's",
     "adj1": "kind",
     "adj2": "kinder",
-    "adj3": "kindest"
+    "adj3": "kindest",
+    "proper": false,
+    "commonness": 126,
+    "max_commonness": 6834,
+    "commonness_ge_count": 70,
+    "n6": "kinds'",
+    "n7": "a kind",
+    "n8": "many kinds"
 }

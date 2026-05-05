@@ -7,5 +7,12 @@
     "n2": "voices",
     "n3": "the voice",
     "n4": "the voices",
-    "n5": "voice's"
+    "n5": "voice's",
+    "proper": false,
+    "commonness": 170,
+    "max_commonness": 6834,
+    "commonness_ge_count": 33,
+    "n6": "voices'",
+    "n7": "a voice",
+    "n8": "many voices"
 }

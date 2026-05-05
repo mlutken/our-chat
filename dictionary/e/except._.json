@@ -1,0 +1,7 @@
+{
+    "base": "except",
+    "classes": [
+        "pre"
+    ],
+    "f0": "except"
+}

@@ -13,5 +13,12 @@
     "v2": "interested",
     "v3": "interested",
     "v4": "interesting",
-    "v5": "interests"
+    "v5": "interests",
+    "proper": false,
+    "commonness": 144,
+    "max_commonness": 6834,
+    "commonness_ge_count": 53,
+    "n6": "interests'",
+    "n7": "an interest",
+    "n8": "many interests"
 }

@@ -1,0 +1,14 @@
+{
+    "base": "counsel",
+    "classes": [
+        "v"
+    ],
+    "commonness": 3,
+    "max_commonness": 16667,
+    "commonness_ge_count": 2629,
+    "v1": "counsel",
+    "v2": "counselled",
+    "v3": "counselled",
+    "v4": "counselling",
+    "v5": "counsels"
+}

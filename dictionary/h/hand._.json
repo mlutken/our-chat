@@ -13,5 +13,12 @@
     "v2": "handed",
     "v3": "handed",
     "v4": "handing",
-    "v5": "hands"
+    "v5": "hands",
+    "proper": false,
+    "commonness": 232,
+    "max_commonness": 6834,
+    "commonness_ge_count": 18,
+    "n6": "hands'",
+    "n7": "a hand",
+    "n8": "many hands"
 }

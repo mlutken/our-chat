@@ -7,5 +7,12 @@
     "n2": "actions",
     "n3": "the action",
     "n4": "the actions",
-    "n5": "action's"
+    "n5": "action's",
+    "proper": false,
+    "commonness": 139,
+    "max_commonness": 6834,
+    "commonness_ge_count": 59,
+    "n6": "actions'",
+    "n7": "an action",
+    "n8": "many actions"
 }

@@ -7,5 +7,12 @@
     "n2": "girls",
     "n3": "the girl",
     "n4": "the girls",
-    "n5": "girl's"
+    "n5": "girl's",
+    "proper": false,
+    "commonness": 156,
+    "max_commonness": 6834,
+    "commonness_ge_count": 43,
+    "n6": "girls'",
+    "n7": "a girl",
+    "n8": "many girls"
 }

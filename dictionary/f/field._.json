@@ -7,5 +7,12 @@
     "n2": "fields",
     "n3": "the field",
     "n4": "the fields",
-    "n5": "field's"
+    "n5": "field's",
+    "proper": false,
+    "commonness": 168,
+    "max_commonness": 6834,
+    "commonness_ge_count": 36,
+    "n6": "fields'",
+    "n7": "a field",
+    "n8": "many fields"
 }

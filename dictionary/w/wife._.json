@@ -4,8 +4,15 @@
         "n"
     ],
     "n1": "wife",
-    "n2": "wifes",
+    "n2": "wives",
     "n3": "the wife",
-    "n4": "the wifes",
-    "n5": "wife's"
+    "n4": "the wives",
+    "n5": "wife's",
+    "proper": true,
+    "commonness": 120,
+    "max_commonness": 6834,
+    "commonness_ge_count": 76,
+    "n6": "wives'",
+    "n7": "a wife",
+    "n8": "many wives"
 }

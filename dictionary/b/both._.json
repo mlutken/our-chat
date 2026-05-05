@@ -1,7 +1,8 @@
 {
     "base": "both",
     "classes": [
-        "conj"
+        "conj",
+        "pro"
     ],
     "f0": "both"
 }
