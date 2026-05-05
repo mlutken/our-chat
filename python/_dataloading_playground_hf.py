@@ -1,7 +1,7 @@
 from nndataloaders import *
 from dictionary_tokenizer import *
 
-print(f"Data loading playground 4")
+print(f"Data loading playground Hugging Face")
 
 tokenizer = DictionaryTokenizer("../dictionary")
 
