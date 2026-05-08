@@ -92,7 +92,7 @@ def print_usage_examples(exe_name):
     print("**********************")
     print(" 1) Run with strace to log downloaded data")
     print("   Add strace: strace -e trace=read,write,connect -f -o strace.log python our-chat.py YOUR-ARGUMENTS")
-    print("   Analyze log after: grep -oP 'read\([0-9]+,.*\) = \K[0-9]+' strace.log | awk '{sum+=$1} END {print \"Total bytes read:\", sum, \"(\" sum/1024/1024 \" MB)\"}' ")
+    print("   Analyze log after: grep -oP 'read\([0-9]+,.*\) = \K[0-9]+' strace.log | awk '{sum+=$1} END {print \"Total bytes read:\", sum, \"(\" sum/1024/1024/1024 \" GB)\"}' ")
 
     print("")
     print_tested_hugging_face_foundation_training_sets(exe_name)
