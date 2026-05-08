@@ -224,6 +224,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
     def __init__(self, tokenizer, hugging_face_uri, name, text_key, split, records_to_process, records_start_index, max_length, stride):
         super().__init__()
         warnings.filterwarnings("ignore", category=ResourceWarning)
+        self.hf_dataset_options_ = { "streaming": True, "download_mode": "reuse_cache_if_exists"} # reuse_cache_if_exists, force_redownload, force_redownload
         self.hf_dataset_ = None
         self.hf_iterator_ = None
         self.tokenizer_ = tokenizer
@@ -242,9 +243,13 @@ class IterDataset_HuggingFace(IterDataset_Base):
         self.read_chunk_size_ = int(max_length/4)
         self.token_queue_capacity_ = 100000
         self.token_queue_ = collections.deque([], maxlen=self.token_queue_capacity_)
-        self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
+        self.ensure_dataset_is_loaded()
         self.handle_iteration_done()
 
+
+    def ensure_dataset_is_loaded(self) :
+        if self.hf_dataset_ is None:
+            self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, **self.hf_dataset_options_)
 
     def do_epoch_started_(self):
         self.handle_iteration_done()
@@ -262,8 +267,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
         print(f"INFO: [{self.records_start_index_}:{self.records_to_process_}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
         self._handleDebugDataFileInit()
 
-        if self.hf_dataset_ is None:
-            self.hf_dataset_ = datasets.load_dataset(self.hugging_face_uri_, name=self.name_, split=self.split_, streaming=True)
+        self.ensure_dataset_is_loaded()
 
         self.records_read_this_iteration_ = 0
         self.records_processed_this_iteration_ = 0
