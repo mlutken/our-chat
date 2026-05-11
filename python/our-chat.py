@@ -92,7 +92,7 @@ def print_usage_examples(exe_name):
     print("**********************")
     print(" 1) Run with strace to log downloaded data")
     print("   Add strace: strace -e trace=read,write,connect -f -o strace.log python our-chat.py YOUR-ARGUMENTS")
-    print("   Analyze log after: grep -oP 'read\([0-9]+,.*\) = \K[0-9]+' strace.log | awk '{sum+=$1} END {print \"Total bytes read:\", sum, \"(\" sum/1024/1024/1024 \" GB)\"}' ")
+    print("   Analyze log after: grep -oP 'read\\([0-9]+,.*\\) = \\K[0-9]+' strace.log | awk '{sum+=$1} END {print \"Total bytes read:\", sum, \"\\(\" sum/1024/1024/1024 \" GB)\"}'")
 
     print("")
     print_tested_hugging_face_foundation_training_sets(exe_name)
@@ -340,3 +340,37 @@ if args.save_model:
 # )
 
 
+# HuggingFace.RECORD (76000) this iteration [rec index / processed]: [76000 / 76000] text[0:50]: 'From bump to baby and every milestone in between 💕'
+# HuggingFace.RECORD (76020) this iteration [rec index / processed]: [76020 / 76020] text[0:50]: 'I’m the resident Audio Visual nerd at church. Over'
+# HuggingFace.RECORD (76040) this iteration [rec index / processed]: [76040 / 76040] text[0:50]: 'Multi-Grammy Winning Artist and Philanthropist Jas'
+# /pytorch/aten/src/ATen/native/cuda/IndexKernelUtils.cu:16: vectorized_gather_kernel: block: [2548,0,0], thread: [96,0,0] Assertion `ind >=0 && ind < ind_dim_size && "vectorized gather kernel index out of bounds"` failed.
+# ...
+# Traceback (most recent call last):
+#   File "/home/ml/code/our-chat/python/our-chat.py", line 293, in <module>
+#     train_losses, val_losses, tokens_seen = train_model_simple(
+#                                             ~~~~~~~~~~~~~~~~~~^
+#         model, train_loader, validation_loader, optimizer, device,
+#         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#         num_epochs=num_epochs, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
+#         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#         start_context=default_start_context
+#         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+#     )
+#     ^
+#   File "/home/ml/code/our-chat/python/nnutils.py", line 756, in train_model_simple
+#     loss = model.calcLossBatch( input_batch, target_batch, device)
+#   File "/home/ml/code/our-chat/python/nnutils.py", line 510, in calcLossBatch
+#     logits, binary_numbers_part = self.forward(input_batch)
+#                                   ~~~~~~~~~~~~^^^^^^^^^^^^^
+#   File "/home/ml/code/our-chat/python/nnutils.py", line 451, in forward
+#     position_tensor = self.position_encoder(in_idx).to(in_idx.device)
+# torch.AcceleratorError: CUDA error: device-side assert triggered
+# Search for `cudaErrorAssert' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
+# CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+# For debugging consider passing CUDA_LAUNCH_BLOCKING=1
+# Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+#
+# Storage: 200 MBFrom bump to baby and every milestone in between 💕
+# I’ve had the joy of capturing this beautiful family’s journey—from maternity to newborn, sitter sessions, birthdays, and even holiday and Mother’s Day minis. Now they’ve welcomed another sweet baby girl, and I couldn’t be happier to help them document this next chapter.
+# Watching families grow in front of my lens is the greatest part of what I do✨
+# Spent the afternoon with this sweet couple, capturing their excitement as they get ready to welcome their first baby🏻
