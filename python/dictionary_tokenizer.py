@@ -138,10 +138,21 @@ class DictionaryTokenizer():
     def decode(self,  ids):
         return self.idsToText(ids)
 
+
     def parseTextToIds(self, text):
         self.addAnyUnknownWords(text)
         words = self.parseTextToWords(text)
-        return self.wordsToIds(words)
+        modified_words = []
+        for i in range(0, len(words)):
+            word = words[i]
+            # We are trying tp fix problems with words containg like minus/dash (-) and numbers, which causes problems, see training_data/crash-test-3.txt (Best-4)
+            # This is NOT the optimal way to do this as we insert an extra space. We need to do this earlier so we can avoid detecting for example "best-4" as
+            # "best", "-4" and instead as "best-4"
+            if i > 0 and stringIsNumber(word) and isMathOperation(word[0]) and not stringIsNumber(words[i-1]) and not isSeparator(words[i-1]):
+                modified_words.append(' ')
+            modified_words.append(word)
+
+        return self.wordsToIds(modified_words)
 
     def idsToText(self, ids):
         wordList = self.idsToWordList(ids)

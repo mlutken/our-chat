@@ -49,25 +49,35 @@ SEPARATORS = [
 ]
 
 
+MATH_OP_CHARS = [ '+', '-', '*', '/']
 NUMBER_CHARS = [ '0', '1', '2', '3', '4', '5', '6',  '7', '8', '9', '.', '+', '-']
 
 
 def idIsNumber(wordId):
     return wordId == NUMBER_ID
 
-
 def isSpace(ch):
     return ch == ' '
 
-
 def isSeparator(ch):
     return ch in SEPARATORS
+
+def isMathOperation(ch):
+    return ch in MATH_OP_CHARS
 
 def isSeparatorWordCount(ch):
     return ch in SEPARATORS_WORD_COUNT
 
 def isNumberChar(ch):
     return ch in NUMBER_CHARS
+
+def stringIsNumber(str):
+    for c in str:
+        if not isNumberChar(c):
+            return False
+    return True
+
+
 
 def maxBinaryNumber(num_int_bits=8):
     return 2**(num_int_bits-1) -1
