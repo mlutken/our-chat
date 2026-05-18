@@ -236,3 +236,21 @@ def traingen_math_before_1(a, choice: int = None):
     s += endResponse()
 
     return s
+
+
+def  get_random_qa(abs_range):
+    s = ""
+    a = random.randint(-abs_range, abs_range)
+    b = random.randint(-abs_range, abs_range)
+
+    qa_type = random.randint(0, 5)
+    choice = None
+    match qa_type:
+        case 0: s += traingen_math_plus(a, b, choice)
+        case 1: s += traingen_math_minus(a, b, choice)
+        case 2: s += traingen_math_multiply(a, b, choice)
+        case 3: s += traingen_math_divide(a, b, choice)
+        case 4: s += traingen_math_next_after_1(a, choice)
+        case 5: s += traingen_math_before_1(a, choice)
+    s += "\n"
+    return s

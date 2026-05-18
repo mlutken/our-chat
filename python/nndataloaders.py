@@ -25,8 +25,9 @@ class IterDataset_Base(IterableDataset):
         self.records_processed_this_iteration_ = 0
         self.debug_data_file_name_ = '/tmp/_our_streaming_records_debug.txt'
         self.write_text_to_debug_file_ = False
-        self.dbg_print_text_ = False
+        self.dbg_print_text_ = 0
         self.process_callback_ = None
+        self.simple_process_callback_ = None
         self.records_start_index_ = 0
 
     def epoch_started(self, epoch_number):
@@ -35,6 +36,9 @@ class IterDataset_Base(IterableDataset):
 
     def processCallbackSet(self, process_callback):
         self.process_callback_ = process_callback
+
+    def simpleProcessCallbackSet(self, process_callback):
+        self.simple_process_callback_ = process_callback
 
     def forceStop(self):
         self.forced_stop_ = True
@@ -101,11 +105,12 @@ class IterDataset_Base(IterableDataset):
 # https://medium.com/@amit25173/how-to-use-dataloader-with-iterabledataset-in-pytorch-an-advanced-practical-guide-898a49ace81c
 # https://docs.python.org/3/library/collections.html#collections.deque
 class IterDataset_TextFile(IterDataset_Base):
-    def __init__(self, tokenizer, text_file_path, records_to_process, max_length, stride):
+    def __init__(self, tokenizer, text_file_path, records_to_process, records_start_index, max_length, stride):
         super().__init__()
         self.tokenizer_ = tokenizer
         self.text_file_path_ = text_file_path
         self.records_to_process_ = records_to_process
+        self.records_start_index_ = records_start_index
         self.max_length_ = max_length
         self.stride_ = stride
         self.read_chunk_size_ = int(max_length/4)
@@ -126,6 +131,10 @@ class IterDataset_TextFile(IterDataset_Base):
         file_handle = open(self.text_file_path_, 'r')
 
         for line in file_handle:
+            if self.records_read_this_iteration_ < self.records_start_index_:
+                # print(f"skipping {self.records_read_this_iteration_}")
+                self.records_read_this_iteration_ += 1
+                continue
             if self.endPrematurely():
                 file_handle.close()
                 print("--------- FIXMENM TextFile endPrematurely() ----------")
@@ -140,10 +149,13 @@ class IterDataset_TextFile(IterDataset_Base):
 
             if self.dbg_print_text_:
                 if self.records_read_this_iteration_ % self.dbg_print_text_ == 0:
-                    print (f"TextFile.RECORD[{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:20]: '{line[0:20]}'")
+                    print (f"TextFile.RECORD[{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:50]: '{line[0:50]}'")
 
             if self.process_callback_ is not None:
                 line = self.process_callback_.process(line)
+
+            if self.simple_process_callback_ is not None:
+                line = self.simple_process_callback_(line, self.records_processed_this_iteration_)
 
             tokens = self.tokenizer_.encode(line)
 
@@ -197,13 +209,13 @@ class IterDataset_TextFile(IterDataset_Base):
         return input_chunk_tensor, target_chunk_tensor
 
 
-def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process = -1, batch_size=4, max_length=256,
+def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process, records_start_index, batch_size=4, max_length=256,
                                            stride=128, shuffle=False, drop_last=True,
                                            num_workers=0):
     if not os.path.isfile(textFilePath):
         return None
 
-    dataset = IterDataset_TextFile(tokenizer, textFilePath, records_to_process, max_length, stride)
+    dataset = IterDataset_TextFile(tokenizer, textFilePath, records_to_process, records_start_index, max_length, stride)
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
@@ -313,6 +325,9 @@ class IterDataset_HuggingFace(IterDataset_Base):
                 if self.process_callback_ is not None:
                     text = self.process_callback_.process(text)
 
+                if self.simple_process_callback_ is not None:
+                    text = self.simple_process_callback_(text, self.records_processed_this_iteration_)
+
                 if self.write_text_to_debug_file_:
                     with open(self.debug_data_file_name_, 'a') as f:
                         f.write(text)
@@ -411,7 +426,8 @@ def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_t
         return create_iter_loader_TextFile(
             tokenizer,
             resource_uri,
-            records_to_process,
+            records_to_process=records_to_process,
+            records_start_index=records_start_index,
             batch_size=batch_size,
             max_length=max_length,
             stride=stride,

@@ -1,9 +1,16 @@
+import sys
+sys.path.insert(1, '../training_data/helper_scripts')
+
+import traingen_math
+
+import random
+import torch
 import torch
 import argparse
 import os.path
-import sys
 
-
+# for i in range(0, 100):
+#     print(f"{i}: {traingen_math.get_random_qa(20000)}")
 
 import torch.nn as nn
 import torch.nn.functional as F
@@ -17,12 +24,31 @@ from system_globals import *
 from dictionary_tokenizer import *
 import pathlib
 
+global g_train_math_modulo
+global g_train_math_abs_range
+
 global g_repo_root_path
 global g_python_code_path
 g_repo_root_path        = pathlib.Path(__file__).parent.parent.resolve()
 g_python_code_path      = pathlib.Path(__file__).parent.resolve()
 g_dictionary_path       = g_repo_root_path / "dictionary"
 g_training_data_path    = g_repo_root_path / "training_data"
+
+# --------------------------------------------------------------------------------------------------------------
+# --- Math prompt - response callback function. Used when train_math_modulo is set to a valuer larger than 0 ---
+# --------------------------------------------------------------------------------------------------------------
+def train_math_inject(text, records_processed_this_iteration):
+    if records_processed_this_iteration % g_train_math_modulo == 0:
+        # print(f"FIXMENM train_math_inject [{records_processed_this_iteration}] g_train_math_modulo: {g_train_math_modulo}, g_train_math_abs_range: {g_train_math_abs_range}")
+        pos = text.find("</response>")
+        if pos != -1:
+            math_qa = traingen_math.get_random_qa(g_train_math_abs_range)
+            text += math_qa
+            # print(f"FIXMENM math_qa: '{math_qa}")
+            # print(f"FIXMENM text: '{text}")
+
+    return text
+
 
 print (f"g_repo_root_path       : {g_repo_root_path}")
 print (f"g_python_code_path     : {g_python_code_path}")
@@ -99,9 +125,11 @@ def print_usage_examples(exe_name):
 
 
 parser = argparse.ArgumentParser("gpt2-simple-train")
-parser.add_argument("--device", help="Set device 'cuda' or 'cpu'", nargs='?', type=str, default='')
 parser.add_argument("--model_path", help="Model parameters json file path/name", nargs='?', type=str, default="_model256.json")
 parser.add_argument("--save_path", help="Model save/load file name. If name is leaf blank we default to {model_path}.pth", nargs='?', type=str, default="")
+parser.add_argument("--device", help="Set device 'cuda' or 'cpu'", nargs='?', type=str, default='')
+parser.add_argument("--mode", help="Run mode: train, chat-simple", nargs='?', type=str, default="train")
+parser.add_argument("--cont", help="Continue training", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
@@ -109,10 +137,11 @@ parser.add_argument("--records_start_index", help="Index of first record to use 
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
-parser.add_argument("--mode", help="Run mode: train, chat-simple", nargs='?', type=str, default="train")
 parser.add_argument("--start_context", help="Start context for during training print of generation", nargs='?', type=str, default="<prompt> What is 15 + 5 ? </prompt> ")
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
+parser.add_argument("--train_math_modulo", help="Add math training example for every train_math_modulo 'records', Only meant for use during prompt/reponse text training", nargs='?', type=int, default=0)
+parser.add_argument("--train_math_abs_range", help="When <auto generation math promp/resonse to inject, see '--train_math_modulo'. Use this value as the absolute min/max of the initial numbers used. See traingen_math.py::get_random_qa()", nargs='?', type=int, default=30000)
 parser.add_argument("--dataset_name", help="Internal name of Hugging face) dataset: Eg: 'en', 'CC-MAIN-2024-10', ... Depends on concrete dataset.", nargs='?', type=str, default="")
 parser.add_argument("--dataset_key", help="Dictionary key name of primary text data in each record. Eg.: 'text'", nargs='?', type=str, default="")
 parser.add_argument("--dataset_training_split", help="Training split name. Eg.:'train'", nargs='?', type=str, default="train")
@@ -130,6 +159,7 @@ args = parser.parse_args()
 
 g_dl_data_train = dataloader_lookup(args.train_uri)
 g_dl_data_validate = dataloader_lookup(args.validation_uri)
+
 
 # --- Set default arguments from dataloader lookup ---
 if g_dl_data_train is not None:
@@ -163,13 +193,20 @@ g_model_name = model_name_from_path(args.model_path)
 if args.save_path == "":
     args.save_path = save_path_from_model_name(args.model_path)
 
+# -----------------------------------------------------------------------------------------
+# --- Math prompt - response callback function. Set global variables used as parameters ---
+# -----------------------------------------------------------------------------------------
+g_train_math_modulo = args.train_math_modulo
+g_train_math_abs_range = args.train_math_abs_range
+
 print("Default device           : ", g_device)
 print("model_path               : ", args.model_path)
 print("model_name               : ", g_model_name)
 print("save_path                : ", args.save_path)
 print("device                   : ", device)
 print("mode                     : ", args.mode)
-print("num_epochs               : ", args.epochs)
+print("cont                     : ", args.cont)
+print("epochs                   : ", args.epochs)
 print("plot                     : ", args.plot)
 print("batch_size               : ", args.batch_size)
 print("records_to_process       : ", args.records_to_process)
@@ -179,6 +216,8 @@ print("load_model               : ", args.load_model)
 print("start_context            : ", args.start_context)
 print("train_uri                : ", args.train_uri)
 print("validation_uri           : ", args.validation_uri)
+print("train_math_modulo        : ", args.train_math_modulo)
+print("train_math_abs_range     : ", args.train_math_abs_range)
 print("dataset_name             : ", args.dataset_name)
 print("dataset_key              : ", args.dataset_key)
 print("dataset_training_split   : ", args.dataset_training_split)
@@ -251,6 +290,7 @@ validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_u
 
 if g_dl_data_train is not None:
     train_loader.dataset.processCallbackSet(g_dl_data_train["pre_process"])     # Set possible preprocessor for training and validation
+    train_loader.dataset.simpleProcessCallbackSet(train_math_inject)
 if g_dl_data_validate is not None:
     validation_loader.dataset.processCallbackSet(g_dl_data_validate["pre_process"])     # Set possible preprocessor for training and validation
 

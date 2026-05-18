@@ -775,6 +775,9 @@ def train_model_simple(model, train_loader, val_loader,
                       f"Val loss {val_loss:.3f}"
                 )
                 print("******************************************************************************************************")
+                model.generateAndPrintSample(device, start_context)
+                model.generateAndPrintSample(device, "<prompt> What can I do to stay healthy? </response>")
+                print("******************************************************************************************************")
 
             with TM.keyboard:
                 if (pressed := TM.inkey()) == "q":
