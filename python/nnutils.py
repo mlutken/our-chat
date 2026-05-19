@@ -730,14 +730,14 @@ def generate_and_print_sample(model, device, start_context):
 
 
 def train_model_simple(model, train_loader, val_loader,
-                       optimizer, device, num_epochs,
+                       optimizer, device, num_epochs, start_epoch,
                        eval_freq, eval_iter, start_context):
     train_losses, val_losses, track_tokens_seen = [], [], []
     tokens_seen = 0
     global_step = -1
 
     trainingStopRequested = False
-    for epoch in range(num_epochs):
+    for epoch in range(start_epoch, num_epochs):
         print(f"----------------------- ")
         print(f"--- Start epoch {epoch}  eval_freq: {eval_freq} ---")
         print(f"-----------------------")

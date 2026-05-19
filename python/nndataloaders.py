@@ -26,22 +26,25 @@ class IterDataset_Base(IterableDataset):
         self.debug_data_file_name_ = '/tmp/_our_streaming_records_debug.txt'
         self.write_text_to_debug_file_ = False
         self.dbg_print_text_ = 0
-        self.process_callback_ = None
-        self.simple_process_callback_ = None
+        self.process_callbacks_ = []
+        self.info_callbacks_ = []
         self.records_start_index_ = 0
 
     def epoch_started(self, epoch_number):
         self.epoch_number_ = epoch_number
         self.do_epoch_started_()
 
-    def processCallbackSet(self, process_callback):
-        self.process_callback_ = process_callback
+    def processCallbackAppend(self, process_callback):
+        self.process_callbacks_.append(process_callback)
 
-    def simpleProcessCallbackSet(self, process_callback):
-        self.simple_process_callback_ = process_callback
+    def infoCallbackAppend(self, process_callback):
+        self.info_callbacks_.append(process_callback)
 
     def forceStop(self):
         self.forced_stop_ = True
+
+    def epochNumber(self):
+        return self.epoch_number_
 
     def recordsReadThisIteration(self):
         return self.records_read_this_iteration_
@@ -131,6 +134,7 @@ class IterDataset_TextFile(IterDataset_Base):
         file_handle = open(self.text_file_path_, 'r')
 
         for line in file_handle:
+            # Skip records until start reached
             if self.records_read_this_iteration_ < self.records_start_index_:
                 # print(f"skipping {self.records_read_this_iteration_}")
                 self.records_read_this_iteration_ += 1
@@ -145,17 +149,15 @@ class IterDataset_TextFile(IterDataset_Base):
             self.records_processed_this_iteration_ += 1
             self.records_read_this_iteration_ += 1
 
-            # TODO: No skipping (self.records_start_index_) implemented for text fiels yet. See IterDataset_HuggingFace for inspiration for how to implement!
+            for cb in self.info_callbacks_:
+                cb(self)
 
             if self.dbg_print_text_:
                 if self.records_read_this_iteration_ % self.dbg_print_text_ == 0:
                     print (f"TextFile.RECORD[{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}] text[0:50]: '{line[0:50]}'")
 
-            if self.process_callback_ is not None:
-                line = self.process_callback_.process(line)
-
-            if self.simple_process_callback_ is not None:
-                line = self.simple_process_callback_(line, self.records_processed_this_iteration_)
+            for cb in self.process_callbacks_:
+                line = cb(line, self)
 
             tokens = self.tokenizer_.encode(line)
 
@@ -313,6 +315,10 @@ class IterDataset_HuggingFace(IterDataset_Base):
                 self.records_read_this_iteration_ += 1
                 self.records_processed_this_iteration_ += 1
                 self.total_records_processed_ += 1
+
+                for cb in self.info_callbacks_:
+                    cb(self)
+
                 record_dict = dict(record)
 
                 text = record_dict[self.text_key_]
@@ -322,11 +328,8 @@ class IterDataset_HuggingFace(IterDataset_Base):
                     return self.process_output()
                     break
 
-                if self.process_callback_ is not None:
-                    text = self.process_callback_.process(text)
-
-                if self.simple_process_callback_ is not None:
-                    text = self.simple_process_callback_(text, self.records_processed_this_iteration_)
+                for cb in self.process_callbacks_:
+                    text = cb(text, self)
 
                 if self.write_text_to_debug_file_:
                     with open(self.debug_data_file_name_, 'a') as f:

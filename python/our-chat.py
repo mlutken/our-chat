@@ -1,4 +1,7 @@
 import sys
+
+from train_continue import TrainContinue
+
 sys.path.insert(1, '../training_data/helper_scripts')
 
 import traingen_math
@@ -37,15 +40,13 @@ g_training_data_path    = g_repo_root_path / "training_data"
 # --------------------------------------------------------------------------------------------------------------
 # --- Math prompt - response callback function. Used when train_math_modulo is set to a valuer larger than 0 ---
 # --------------------------------------------------------------------------------------------------------------
-def train_math_inject(text, records_processed_this_iteration):
-    if records_processed_this_iteration % g_train_math_modulo == 0:
-        # print(f"FIXMENM train_math_inject [{records_processed_this_iteration}] g_train_math_modulo: {g_train_math_modulo}, g_train_math_abs_range: {g_train_math_abs_range}")
+def train_math_inject(text, data_loader):
+    #print(f"FIXMENM train_math_inject [{data_loader.recordsProcessedThisIteration()}] g_train_math_modulo: {g_train_math_modulo}, g_train_math_abs_range: {g_train_math_abs_range}")
+    if data_loader.recordsProcessedThisIteration() % g_train_math_modulo == 0:
         pos = text.find("</response>")
         if pos != -1:
             math_qa = traingen_math.get_random_qa(g_train_math_abs_range)
             text += math_qa
-            # print(f"FIXMENM math_qa: '{math_qa}")
-            # print(f"FIXMENM text: '{text}")
 
     return text
 
@@ -141,7 +142,7 @@ parser.add_argument("--start_context", help="Start context for during training p
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
 parser.add_argument("--train_math_modulo", help="Add math training example for every train_math_modulo 'records', Only meant for use during prompt/reponse text training", nargs='?', type=int, default=0)
-parser.add_argument("--train_math_abs_range", help="When <auto generation math promp/resonse to inject, see '--train_math_modulo'. Use this value as the absolute min/max of the initial numbers used. See traingen_math.py::get_random_qa()", nargs='?', type=int, default=30000)
+parser.add_argument("--train_math_abs_range", help="When <auto generation math promp/response to inject, see '--train_math_modulo'. Use this value as the absolute min/max of the initial numbers used. See traingen_math.py::get_random_qa()", nargs='?', type=int, default=30000)
 parser.add_argument("--dataset_name", help="Internal name of Hugging face) dataset: Eg: 'en', 'CC-MAIN-2024-10', ... Depends on concrete dataset.", nargs='?', type=str, default="")
 parser.add_argument("--dataset_key", help="Dictionary key name of primary text data in each record. Eg.: 'text'", nargs='?', type=str, default="")
 parser.add_argument("--dataset_training_split", help="Training split name. Eg.:'train'", nargs='?', type=str, default="train")
@@ -155,7 +156,11 @@ parser.add_argument("--eval_freq", help="Number of batches between each evaluati
 parser.add_argument("--eval_batches", help="Number of batches to run during evaluation", nargs='?', type=int, default=5)
 parser.add_argument("--usage", help="Print usage examples", nargs='?', type=str2bool, const=True, default=False)
 
+g_start_epoch = 0
 args = parser.parse_args()
+g_train_continue = TrainContinue(args)
+print (g_train_continue.info_message())
+args = g_train_continue.modify_args()
 
 g_dl_data_train = dataloader_lookup(args.train_uri)
 g_dl_data_validate = dataloader_lookup(args.validation_uri)
@@ -289,17 +294,20 @@ validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_u
                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
 
 if g_dl_data_train is not None:
-    train_loader.dataset.processCallbackSet(g_dl_data_train["pre_process"])     # Set possible preprocessor for training and validation
-    train_loader.dataset.simpleProcessCallbackSet(train_math_inject)
+    train_loader.dataset.processCallbackAppend(g_dl_data_train["pre_process"])
 if g_dl_data_validate is not None:
-    validation_loader.dataset.processCallbackSet(g_dl_data_validate["pre_process"])     # Set possible preprocessor for training and validation
+    validation_loader.dataset.processCallbackAppend(g_dl_data_validate["pre_process"])     # Set possible preprocessor for training and validation
+
+train_loader.dataset.infoCallbackAppend(g_train_continue.update_callback)
+if g_train_math_modulo > 0:
+    train_loader.dataset.processCallbackAppend(train_math_inject)
 
 train_loader.dataset.debugPrintText(args.dbg_print_text)
 train_loader.dataset.writeTextToDebugFile(args.dbg_write_records_to_file)
 train_loader.dataset.setDebugDataFileName(args.dbg_records_file_name)
 
 # -------------------------------------------------------
-# --- Print initial loos before training if requested ---
+# --- Print initial loss before training if requested ---
 # -------------------------------------------------------
 if args.print_initial_loss:
     print("--- Calculating initial model loss ---")
@@ -332,7 +340,7 @@ optimizer = torch.optim.AdamW(
 
 train_losses, val_losses, tokens_seen = train_model_simple(
     model, train_loader, validation_loader, optimizer, device,
-    num_epochs=num_epochs, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
+    num_epochs=num_epochs, start_epoch=g_start_epoch, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
     start_context=default_start_context
 )
 
@@ -379,38 +387,3 @@ if args.save_model:
 #     "model_and_optimizer.pth"
 # )
 
-
-# HuggingFace.RECORD (76000) this iteration [rec index / processed]: [76000 / 76000] text[0:50]: 'From bump to baby and every milestone in between 💕'
-# HuggingFace.RECORD (76020) this iteration [rec index / processed]: [76020 / 76020] text[0:50]: 'I’m the resident Audio Visual nerd at church. Over'
-# HuggingFace.RECORD (76040) this iteration [rec index / processed]: [76040 / 76040] text[0:50]: 'Multi-Grammy Winning Artist and Philanthropist Jas'
-# /pytorch/aten/src/ATen/native/cuda/IndexKernelUtils.cu:16: vectorized_gather_kernel: block: [2548,0,0], thread: [96,0,0] Assertion `ind >=0 && ind < ind_dim_size && "vectorized gather kernel index out of bounds"` failed.
-# ...
-# Traceback (most recent call last):
-#   File "/home/ml/code/our-chat/python/our-chat.py", line 293, in <module>
-#     train_losses, val_losses, tokens_seen = train_model_simple(
-#                                             ~~~~~~~~~~~~~~~~~~^
-#         model, train_loader, validation_loader, optimizer, device,
-#         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#         num_epochs=num_epochs, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
-#         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#         start_context=default_start_context
-#         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-#     )
-#     ^
-#   File "/home/ml/code/our-chat/python/nnutils.py", line 756, in train_model_simple
-#     loss = model.calcLossBatch( input_batch, target_batch, device)
-#   File "/home/ml/code/our-chat/python/nnutils.py", line 510, in calcLossBatch
-#     logits, binary_numbers_part = self.forward(input_batch)
-#                                   ~~~~~~~~~~~~^^^^^^^^^^^^^
-#   File "/home/ml/code/our-chat/python/nnutils.py", line 451, in forward
-#     position_tensor = self.position_encoder(in_idx).to(in_idx.device)
-# torch.AcceleratorError: CUDA error: device-side assert triggered
-# Search for `cudaErrorAssert' in https://docs.nvidia.com/cuda/cuda-runtime-api/group__CUDART__TYPES.html for more information.
-# CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
-# For debugging consider passing CUDA_LAUNCH_BLOCKING=1
-# Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
-#
-# Storage: 200 MBFrom bump to baby and every milestone in between 💕
-# I’ve had the joy of capturing this beautiful family’s journey—from maternity to newborn, sitter sessions, birthdays, and even holiday and Mother’s Day minis. Now they’ve welcomed another sweet baby girl, and I couldn’t be happier to help them document this next chapter.
-# Watching families grow in front of my lens is the greatest part of what I do✨
-# Spent the afternoon with this sweet couple, capturing their excitement as they get ready to welcome their first baby🏻

@@ -8,11 +8,14 @@ class ProcessCallbackBase():
     def __init__(self):
         self.text_ = ""
         self.end_of_data_reached_ = False
+        self.text_ = ""
+        self.end_of_data_reached_ = False
 
     def set_reached_end_of_data(self):
         self.end_of_data_reached_ = True
 
-    def process(self, text):
+    def process(self, text, data_loader):
+        # print(f"FIXMENM data_loader: {data_loader.recordsProcessedThisIteration()}")
         if text == "":
             self.end_of_data_reached_ = True
         self._add_text(text)
@@ -66,7 +69,7 @@ class ProcessHumanBot1(ProcessCallbackBase):
 g_dataloaders = {
     'hf:HuggingFaceFW/finewiki'                                     : { 'dataset_name': 'en'                , 'dataset_key': 'text', 'pre_process': None                , 'train_type': 'pre-train' },
     'hf:HuggingFaceFW/fineweb'                                      : { 'dataset_name': 'CC-MAIN-2025-26'   , 'dataset_key': 'text', 'pre_process': None                , 'train_type': 'pre-train' },
-    'hf:Fredithefish/Instruction-Tuning-with-GPT-4-RedPajama-Chat'  : { 'dataset_name': 'default'           , 'dataset_key': 'text', 'pre_process': ProcessHumanBot1()  , 'train_type': 'qa-train'  },
+    'hf:Fredithefish/Instruction-Tuning-with-GPT-4-RedPajama-Chat'  : { 'dataset_name': 'default'           , 'dataset_key': 'text', 'pre_process': ProcessHumanBot1().process  , 'train_type': 'qa-train'  },
 }
 
 def all_dataloaders():
