@@ -134,7 +134,7 @@ parser.add_argument("--cont", help="Continue training", nargs='?', type=str2bool
 parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
-parser.add_argument("--records_start_index", help="Index of first record to use during training. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=0)
+parser.add_argument("--records_offset_index", help="Index of first record to use ", nargs='?', type=int, default=0)
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
@@ -215,7 +215,7 @@ print("epochs                   : ", args.epochs)
 print("plot                     : ", args.plot)
 print("batch_size               : ", args.batch_size)
 print("records_to_process       : ", args.records_to_process)
-print("records_start_index      : ", args.records_start_index)
+print("records_offset_index     : ", args.records_offset_index)
 print("save_model               : ", args.save_model)
 print("load_model               : ", args.load_model)
 print("start_context            : ", args.start_context)
@@ -284,14 +284,17 @@ print(f"--------------------------------------")
 # --- Create the loaders to use for training ---
 # ----------------------------------------------
 train_loader = create_data_loader(tokenizer, resource_uri=args.train_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                  split=args.dataset_training_split, records_to_process=args.records_to_process, records_start_index=args.records_start_index,
+                                  split=args.dataset_training_split, records_to_process=args.records_to_process,
                                   batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                   drop_last=False, shuffle=False, num_workers=args.num_workers)
 
 validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
-                                       split=args.dataset_validation_split, records_to_process=args.records_to_process, records_start_index=args.records_start_index,
+                                       split=args.dataset_validation_split, records_to_process=args.records_to_process,
                                        batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
+
+train_loader.dataset.epochStartNumberSet(g_start_epoch)
+train_loader.dataset.recordsOffsetIndexSet(args.records_offset_index)
 
 if g_dl_data_train is not None:
     train_loader.dataset.processCallbackAppend(g_dl_data_train["pre_process"])

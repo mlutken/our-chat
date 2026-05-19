@@ -18,7 +18,8 @@ from itertools import islice
 class IterDataset_Base(IterableDataset):
     def __init__(self):
         super().__init__()
-        self.epoch_number_ = -1
+        self.epoch_number_ = 0
+        self.start_epoch_number_ = 0
         self.forced_stop_ = False
         self.total_records_processed_ = 0
         self.records_read_this_iteration_ = 0
@@ -28,11 +29,29 @@ class IterDataset_Base(IterableDataset):
         self.dbg_print_text_ = 0
         self.process_callbacks_ = []
         self.info_callbacks_ = []
-        self.records_start_index_ = 0
+        self.records_offset_index_ = 0
+        self.records_continue_index_ = 0
+        self.records_to_process_ = -1
 
     def epoch_started(self, epoch_number):
+        if epoch_number > self.start_epoch_number_:
+            self.records_continue_index_ = 0
         self.epoch_number_ = epoch_number
         self.do_epoch_started_()
+
+    def epochStartNumberSet(self, epoch_number):
+        self.start_epoch_number_ = epoch_number
+
+    def recordsOffsetIndexSet(self, records_offset_index):
+        self.records_offset_index_ = records_offset_index
+
+    def recordsStartIndex(self):
+        if self.records_continue_index_ > self.records_offset_index_:
+            return self.records_continue_index_
+        return self.records_offset_index_
+
+    def recordsContinueIndexSet(self, records_continue_index):
+        self.records_continue_index_ = records_continue_index
 
     def processCallbackAppend(self, process_callback):
         self.process_callbacks_.append(process_callback)
@@ -55,8 +74,6 @@ class IterDataset_Base(IterableDataset):
     def totalRecordsProcessed(self):
         return self.total_records_processed_
 
-    def recordsStartIndex(self):
-        return self.records_start_index_
 
     def debugPrintText(self, do_dbg_print_text):
         self.dbg_print_text_ = int(do_dbg_print_text)
@@ -108,12 +125,11 @@ class IterDataset_Base(IterableDataset):
 # https://medium.com/@amit25173/how-to-use-dataloader-with-iterabledataset-in-pytorch-an-advanced-practical-guide-898a49ace81c
 # https://docs.python.org/3/library/collections.html#collections.deque
 class IterDataset_TextFile(IterDataset_Base):
-    def __init__(self, tokenizer, text_file_path, records_to_process, records_start_index, max_length, stride):
+    def __init__(self, tokenizer, text_file_path, records_to_process, max_length, stride):
         super().__init__()
         self.tokenizer_ = tokenizer
         self.text_file_path_ = text_file_path
         self.records_to_process_ = records_to_process
-        self.records_start_index_ = records_start_index
         self.max_length_ = max_length
         self.stride_ = stride
         self.read_chunk_size_ = int(max_length/4)
@@ -135,7 +151,7 @@ class IterDataset_TextFile(IterDataset_Base):
 
         for line in file_handle:
             # Skip records until start reached
-            if self.records_read_this_iteration_ < self.records_start_index_:
+            if self.records_read_this_iteration_ < self.recordsStartIndex():
                 # print(f"skipping {self.records_read_this_iteration_}")
                 self.records_read_this_iteration_ += 1
                 continue
@@ -211,13 +227,13 @@ class IterDataset_TextFile(IterDataset_Base):
         return input_chunk_tensor, target_chunk_tensor
 
 
-def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process, records_start_index, batch_size=4, max_length=256,
+def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process, batch_size=4, max_length=256,
                                            stride=128, shuffle=False, drop_last=True,
                                            num_workers=0):
     if not os.path.isfile(textFilePath):
         return None
 
-    dataset = IterDataset_TextFile(tokenizer, textFilePath, records_to_process, records_start_index, max_length, stride)
+    dataset = IterDataset_TextFile(tokenizer, textFilePath, records_to_process, max_length, stride)
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
@@ -235,7 +251,7 @@ def create_iter_loader_TextFile(tokenizer, textFilePath, records_to_process, rec
 # https://medium.com/@amit25173/how-to-use-dataloader-with-iterabledataset-in-pytorch-an-advanced-practical-guide-898a49ace81c
 # https://docs.python.org/3/library/collections.html#collections.deque
 class IterDataset_HuggingFace(IterDataset_Base):
-    def __init__(self, tokenizer, hugging_face_uri, name, text_key, split, records_to_process, records_start_index, max_length, stride):
+    def __init__(self, tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride):
         super().__init__()
         warnings.filterwarnings("ignore", category=ResourceWarning)
         self.hf_dataset_options_ = { "streaming": True, "download_mode": "reuse_cache_if_exists"} # reuse_cache_if_exists, force_redownload, force_redownload
@@ -247,8 +263,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
             self.hugging_face_uri_ = self.hugging_face_uri_.replace("hf:", "")
 
         self.records_to_process_ = records_to_process
-        self.records_start_index_ = records_start_index
-        self.records_to_read_ = self.records_start_index_ + self.records_to_process_
+        self.records_to_read_ = self.recordsStartIndex() + self.records_to_process_
         self.name_ = name
         self.text_key_ = text_key
         self.split_ = split
@@ -278,16 +293,16 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return False
 
     def handle_iteration_done(self):
-        print(f"INFO: [{self.records_start_index_}:{self.records_to_process_}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
+        print(f"INFO: [{self.recordsStartIndex()}:{self.records_to_process_}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
         self._handleDebugDataFileInit()
 
         self.ensure_dataset_is_loaded()
 
         self.records_read_this_iteration_ = 0
         self.records_processed_this_iteration_ = 0
-        if self.records_start_index_ > 0:
-            self.hf_iterator_ = self.hf_dataset_.skip(self.records_start_index_)
-            self.records_read_this_iteration_ = self.records_start_index_
+        if self.recordsStartIndex() > 0:
+            self.hf_iterator_ = self.hf_dataset_.skip(self.recordsStartIndex())
+            self.records_read_this_iteration_ = self.recordsStartIndex()
         else:
             self.hf_iterator_ = self.hf_dataset_.take(self.records_to_read_)
 
@@ -303,7 +318,7 @@ class IterDataset_HuggingFace(IterDataset_Base):
         if self.iteration_done():
             self.handle_iteration_done()
 
-        sliced_dataset = islice(self.hf_dataset_, self.records_start_index_, None)
+        sliced_dataset = islice(self.hf_dataset_, self.recordsStartIndex(), None)
         sliced_dataset = islice(sliced_dataset, self.records_to_process_)
 
         try:
@@ -393,9 +408,9 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return input_chunk_tensor, target_chunk_tensor
 
 
-def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process = -1, records_start_index = 0,
+def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process = -1,
                                     batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
-    dataset = IterDataset_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process, records_start_index, max_length, stride)
+    dataset = IterDataset_HuggingFace(tokenizer, hugging_face_uri, name, text_key, split, records_to_process, max_length, stride)
     dataloader = DataLoader(
         dataset,
         batch_size=batch_size,
@@ -408,7 +423,7 @@ def create_iter_loader_HuggingFace(tokenizer, hugging_face_uri, name, text_key, 
 
 
 
-def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_to_process = -1, records_start_index = 0,
+def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_to_process = -1,
                        batch_size=4, max_length=256, stride=128, shuffle=False, drop_last=True, num_workers=0):
     if 'hf:' in resource_uri:
         return create_iter_loader_HuggingFace(
@@ -418,7 +433,6 @@ def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_t
             text_key=text_key,
             split=split,
             records_to_process=records_to_process,
-            records_start_index=records_start_index,
             batch_size=batch_size,
             max_length=max_length,
             stride=stride,
@@ -430,7 +444,6 @@ def create_data_loader(tokenizer, resource_uri, name, text_key, split, records_t
             tokenizer,
             resource_uri,
             records_to_process=records_to_process,
-            records_start_index=records_start_index,
             batch_size=batch_size,
             max_length=max_length,
             stride=stride,
