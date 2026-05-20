@@ -751,7 +751,6 @@ def train_model_simple(model, train_loader, val_loader,
             current_batch_number += 1
             if trainingStopRequested:
                 break
-            # print(f"FIXMENM train batch[{current_batch_number}] global_step: {global_step}, tokens_seen: {tokens_seen}")
             optimizer.zero_grad()
             loss = model.calcLossBatch( input_batch, target_batch, device)
             loss.backward()
@@ -760,24 +759,26 @@ def train_model_simple(model, train_loader, val_loader,
             global_step += 1
 
             should_evaluate = (global_step % eval_freq) == 0
+            # print(f"FIXMENM [{should_evaluate}] train batch[{current_batch_number}] global_step: {global_step}, loss: {loss} tokens_seen: {tokens_seen}")
 
 
-            if should_evaluate:
+            # if should_evaluate:
                 # print(f"******************************************************************************************************")
                 # print(f"**** FIXMENM evalutating model START should_evaluate: {should_evaluate} global_step: {global_step} ***")
                 # print(f"******************************************************************************************************")
-                train_loss, val_loss = evaluate_model( model, train_loader, val_loader, device, eval_iter, True)
-                train_losses.append(train_loss)
-                val_losses.append(val_loss)
-                track_tokens_seen.append(tokens_seen)
-                print(f"EVALUATE: (tot recs: {train_loader.dataset.totalRecordsProcessed()}) Epoch {epoch+1} (Step {global_step:06d}): Rec index / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}] "
-                      f"Train loss {train_loss:.3f}, "
-                      f"Val loss {val_loss:.3f}"
-                )
-                print("******************************************************************************************************")
-                model.generateAndPrintSample(device, start_context)
-                model.generateAndPrintSample(device, "<prompt> What can I do to stay healthy? </response>")
-                print("******************************************************************************************************")
+
+                # train_loss, val_loss = evaluate_model( model, train_loader, val_loader, device, eval_iter, True)
+                # train_losses.append(train_loss)
+                # val_losses.append(val_loss)
+                # track_tokens_seen.append(tokens_seen)
+                # print(f"EVALUATE: (tot recs: {train_loader.dataset.totalRecordsProcessed()}) Epoch {epoch+1} (Step {global_step:06d}): Rec index / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}] "
+                #       f"Train loss {train_loss:.3f}, "
+                #       f"Val loss {val_loss:.3f}"
+                # )
+                # print("******************************************************************************************************")
+                # model.generateAndPrintSample(device, start_context)
+                # model.generateAndPrintSample(device, "<prompt> What can I do to stay healthy? </response>")
+                # print("******************************************************************************************************")
 
             with TM.keyboard:
                 if (pressed := TM.inkey()) == "q":
@@ -787,6 +788,6 @@ def train_model_simple(model, train_loader, val_loader,
                         val_loader.dataset.forceStop()
                     trainingStopRequested = True
 
-        print(f"EPOCH done: Epoch {epoch + 1} (Step {global_step:06d}): Recs read / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}]")
+        # print(f"EPOCH done: Epoch {epoch + 1} (Step {global_step:06d}): Recs read / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}]")
         model.generateAndPrintSample(device, start_context)
     return train_losses, val_losses, track_tokens_seen

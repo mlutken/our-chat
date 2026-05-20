@@ -33,7 +33,7 @@ class TrainContinue():
         return self.cmd_args_   # FIXMENM TODO
 
     def update_callback(self, data_loader):
-        print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] ")
+        # print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] TO process: {data_loader.recordsToProcessThisIteration()}")
         if data_loader.recordsProcessedThisIteration() % 100 == 0:
             self.state_dict_[self.cmd_args_.train_uri]["current_records_read"] = data_loader.recordsReadThisIteration()
             self.state_dict_[self.cmd_args_.train_uri]["current_epoch"] = data_loader.epochNumber()

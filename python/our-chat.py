@@ -134,7 +134,8 @@ parser.add_argument("--cont", help="Continue training", nargs='?', type=str2bool
 parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
-parser.add_argument("--records_offset_index", help="Index of first record to use ", nargs='?', type=int, default=0)
+parser.add_argument("--records_offset_index", help="Index of first record to use in each epoch. Mainly useful for large HF datasets, where we want to train in sections of the complete set.", nargs='?', type=int, default=0)
+parser.add_argument("--records_continue_index", help="Index of first record use when continuing. Only for the first epoch iteration.", nargs='?', type=int, default=0)
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
@@ -216,6 +217,7 @@ print("plot                     : ", args.plot)
 print("batch_size               : ", args.batch_size)
 print("records_to_process       : ", args.records_to_process)
 print("records_offset_index     : ", args.records_offset_index)
+print("records_continue_index   : ", args.records_continue_index)
 print("save_model               : ", args.save_model)
 print("load_model               : ", args.load_model)
 print("start_context            : ", args.start_context)
@@ -295,6 +297,7 @@ validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_u
 
 train_loader.dataset.epochStartNumberSet(g_start_epoch)
 train_loader.dataset.recordsOffsetIndexSet(args.records_offset_index)
+train_loader.dataset.recordsContinueIndexSet(args.records_continue_index)
 
 if g_dl_data_train is not None:
     train_loader.dataset.processCallbackAppend(g_dl_data_train["pre_process"])

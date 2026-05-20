@@ -13,11 +13,10 @@ from dataloader_pre_processors import *
 from itertools import islice
 
 
-
-
 class IterDataset_Base(IterableDataset):
     def __init__(self):
         super().__init__()
+        self.info_print_prefix_ = ""
         self.epoch_number_ = 0
         self.start_epoch_number_ = 0
         self.forced_stop_ = False
@@ -31,7 +30,10 @@ class IterDataset_Base(IterableDataset):
         self.info_callbacks_ = []
         self.records_offset_index_ = 0
         self.records_continue_index_ = 0
-        self.records_to_process_ = -1
+        self.records_to_process_this_iteration_ = -1
+
+    def setAsEvaluate(self):
+        self.info_print_prefix_ = "EVAL: "
 
     def epoch_started(self, epoch_number):
         if epoch_number > self.start_epoch_number_:
@@ -45,10 +47,17 @@ class IterDataset_Base(IterableDataset):
     def recordsOffsetIndexSet(self, records_offset_index):
         self.records_offset_index_ = records_offset_index
 
-    def recordsStartIndex(self):
+    def recordsIterationStartIndex(self):
         if self.records_continue_index_ > self.records_offset_index_:
             return self.records_continue_index_
         return self.records_offset_index_
+
+    def recordsIterationEndIndex(self):
+        return self.records_offset_index_ + self.records_to_process_this_iteration_
+
+    def recordsToProcessThisIteration(self):
+        records_to_process = self.recordsIterationEndIndex() - self.recordsIterationStartIndex()
+        return records_to_process if records_to_process > 0 else 0
 
     def recordsContinueIndexSet(self, records_continue_index):
         self.records_continue_index_ = records_continue_index
@@ -74,7 +83,6 @@ class IterDataset_Base(IterableDataset):
     def totalRecordsProcessed(self):
         return self.total_records_processed_
 
-
     def debugPrintText(self, do_dbg_print_text):
         self.dbg_print_text_ = int(do_dbg_print_text)
 
@@ -91,12 +99,12 @@ class IterDataset_Base(IterableDataset):
             # print(f"INFO IterDataset_Base::doCheckEndPrematurely FORCED STOP!")
             return True
 
-        if self.records_to_process_ == -1:  # -1 means process all records
+        if self.recordsToProcessThisIteration() == -1:  # -1 means process all records
             # print(f"INFO IterDataset_Base All records in dataset processed!")
             return false
 
-        if self.records_processed_this_iteration_ >= self.records_to_process_:
-            # print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.records_to_process_}) is processed processed!")
+        if self.records_processed_this_iteration_ >= self.recordsToProcessThisIteration():
+            # print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.recordsToProcess()}) is processed processed!")
             return True
 
         return False
@@ -129,7 +137,7 @@ class IterDataset_TextFile(IterDataset_Base):
         super().__init__()
         self.tokenizer_ = tokenizer
         self.text_file_path_ = text_file_path
-        self.records_to_process_ = records_to_process
+        self.records_to_process_this_iteration_ = records_to_process
         self.max_length_ = max_length
         self.stride_ = stride
         self.read_chunk_size_ = int(max_length/4)
@@ -144,6 +152,12 @@ class IterDataset_TextFile(IterDataset_Base):
         return len(self.token_queue_) > 0
 
     def __iter__(self):
+        # print(f"--------- FIXMENM TextFile iterator create({self.records_read_this_iteration_} / {self.records_processed_this_iteration_}) ----------")
+        # # FIXMENM BEGIN
+        # for line in traceback.format_stack():
+        #     print(line.strip())
+        # # FIXMENM END
+
         self.records_read_this_iteration_ = 0
         self.records_processed_this_iteration_ = 0
         # Open file in read mode and yield each line
@@ -151,13 +165,13 @@ class IterDataset_TextFile(IterDataset_Base):
 
         for line in file_handle:
             # Skip records until start reached
-            if self.records_read_this_iteration_ < self.recordsStartIndex():
+            if self.records_read_this_iteration_ < self.recordsIterationStartIndex():
                 # print(f"skipping {self.records_read_this_iteration_}")
                 self.records_read_this_iteration_ += 1
                 continue
             if self.endPrematurely():
                 file_handle.close()
-                print("--------- FIXMENM TextFile endPrematurely() ----------")
+                # print("--------- FIXMENM TextFile endPrematurely() ----------")
                 return None, None
                 break
 
@@ -262,8 +276,8 @@ class IterDataset_HuggingFace(IterDataset_Base):
         if 'hf:' in self.hugging_face_uri_:
             self.hugging_face_uri_ = self.hugging_face_uri_.replace("hf:", "")
 
-        self.records_to_process_ = records_to_process
-        self.records_to_read_ = self.recordsStartIndex() + self.records_to_process_
+        self.records_to_process_this_iteration_ = records_to_process
+        self.records_to_read_ = self.recordsIterationStartIndex() + self.records_to_process_this_iteration_
         self.name_ = name
         self.text_key_ = text_key
         self.split_ = split
@@ -287,22 +301,22 @@ class IterDataset_HuggingFace(IterDataset_Base):
         if (self.hf_dataset_ is None) or (self.hf_iterator_ is None):
             return True
 
-        if self.records_processed_this_iteration_ >= self.records_to_process_:
-            print(f"!!! ITERATION DONE: IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.records_to_process_}) is processed processed !!!!")
+        if self.records_processed_this_iteration_ >= self.recordsToProcessThisIteration():
+            print(f"!!! ITERATION DONE: IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.recordsToProcessThisIteration()}) is processed processed !!!!")
             return True
         return False
 
     def handle_iteration_done(self):
-        print(f"INFO: [{self.recordsStartIndex()}:{self.records_to_process_}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
+        print(f"INFO: [{self.recordsIterationStartIndex()}:{self.recordsToProcessThisIteration()}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
         self._handleDebugDataFileInit()
 
         self.ensure_dataset_is_loaded()
 
         self.records_read_this_iteration_ = 0
         self.records_processed_this_iteration_ = 0
-        if self.recordsStartIndex() > 0:
-            self.hf_iterator_ = self.hf_dataset_.skip(self.recordsStartIndex())
-            self.records_read_this_iteration_ = self.recordsStartIndex()
+        if self.recordsIterationStartIndex() > 0:
+            self.hf_iterator_ = self.hf_dataset_.skip(self.recordsIterationStartIndex())
+            self.records_read_this_iteration_ = self.recordsIterationStartIndex()
         else:
             self.hf_iterator_ = self.hf_dataset_.take(self.records_to_read_)
 
@@ -318,8 +332,8 @@ class IterDataset_HuggingFace(IterDataset_Base):
         if self.iteration_done():
             self.handle_iteration_done()
 
-        sliced_dataset = islice(self.hf_dataset_, self.recordsStartIndex(), None)
-        sliced_dataset = islice(sliced_dataset, self.records_to_process_)
+        sliced_dataset = islice(self.hf_dataset_, self.recordsIterationStartIndex(), None)
+        sliced_dataset = islice(sliced_dataset, self.recordsToProcessThisIteration())
 
         try:
             for record in sliced_dataset:
