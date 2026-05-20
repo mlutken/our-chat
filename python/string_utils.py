@@ -29,7 +29,7 @@ def format_prompt_response(prompt, response, context = ""):
 
 
 def model_name_from_path(path):
-    return Path(path).stem
+    return str(Path(path).stem)
 
 def save_path_from_model_name(path):
-    return Path(path).with_suffix(".pth")
+    return str(Path(path).with_suffix(".pth"))
