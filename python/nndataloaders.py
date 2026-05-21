@@ -30,7 +30,7 @@ class IterDataset_Base(IterableDataset):
         self.info_callbacks_ = []
         self.records_offset_index_ = 0
         self.records_continue_index_ = 0
-        self.records_to_process_this_iteration_ = -1
+        self.records_to_process_per_iteration_ = -1
 
     def setAsEvaluate(self):
         self.info_print_prefix_ = "EVAL: "
@@ -53,7 +53,7 @@ class IterDataset_Base(IterableDataset):
         return self.records_offset_index_
 
     def recordsIterationEndIndex(self):
-        return self.records_offset_index_ + self.records_to_process_this_iteration_
+        return self.records_offset_index_ + self.records_to_process_per_iteration_
 
     def recordsToProcessThisIteration(self):
         records_to_process = self.recordsIterationEndIndex() - self.recordsIterationStartIndex()
@@ -99,12 +99,12 @@ class IterDataset_Base(IterableDataset):
             # print(f"INFO IterDataset_Base::doCheckEndPrematurely FORCED STOP!")
             return True
 
-        if self.recordsToProcessThisIteration() == -1:  # -1 means process all records
+        if self.records_to_process_per_iteration_ == -1:  # -1 means process all records
             # print(f"INFO IterDataset_Base All records in dataset processed!")
             return false
 
         if self.records_processed_this_iteration_ >= self.recordsToProcessThisIteration():
-            # print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.recordsToProcess()}) is processed processed!")
+            # print(f"INFO IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.recordsToProcessThisIteration()}) is processed processed!")
             return True
 
         return False
@@ -137,7 +137,7 @@ class IterDataset_TextFile(IterDataset_Base):
         super().__init__()
         self.tokenizer_ = tokenizer
         self.text_file_path_ = text_file_path
-        self.records_to_process_this_iteration_ = records_to_process
+        self.records_to_process_per_iteration_ = records_to_process
         self.max_length_ = max_length
         self.stride_ = stride
         self.read_chunk_size_ = int(max_length/4)
@@ -276,8 +276,8 @@ class IterDataset_HuggingFace(IterDataset_Base):
         if 'hf:' in self.hugging_face_uri_:
             self.hugging_face_uri_ = self.hugging_face_uri_.replace("hf:", "")
 
-        self.records_to_process_this_iteration_ = records_to_process
-        self.records_to_read_ = self.recordsIterationStartIndex() + self.records_to_process_this_iteration_
+        self.records_to_process_per_iteration_ = records_to_process
+        self.records_to_read_ = self.recordsIterationStartIndex() + self.records_to_process_per_iteration_
         self.name_ = name
         self.text_key_ = text_key
         self.split_ = split

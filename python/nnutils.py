@@ -702,13 +702,13 @@ def calc_loss_loader(data_loader, model, device, num_batches):
 
 
 # --- Training ---
-def evaluate_model(model, train_loader, val_loader, device, eval_iter,  do_validation_loss):
+def evaluate_model(model, train_loader, val_loader, device, num_eval_batches_to_run,  do_validation_loss):
     model.eval()
     with torch.no_grad():
-        train_loss = calc_loss_loader(train_loader, model, device, num_batches=eval_iter)
+        train_loss = calc_loss_loader(train_loader, model, device, num_batches=num_eval_batches_to_run)
         val_loss = -1
         if do_validation_loss:
-            val_loss = calc_loss_loader(val_loader, model, device, num_batches=eval_iter)
+            val_loss = calc_loss_loader(val_loader, model, device, num_batches=num_eval_batches_to_run)
     model.train()
     return train_loss, val_loss
 
@@ -790,4 +790,5 @@ def train_model_simple(model, train_loader, val_loader,
 
         # print(f"EPOCH done: Epoch {epoch + 1} (Step {global_step:06d}): Recs read / processed in epoch: [{train_loader.dataset.recordsReadThisIteration()} / {train_loader.dataset.recordsProcessedThisIteration()}]")
         model.generateAndPrintSample(device, start_context)
-    return train_losses, val_losses, track_tokens_seen
+    return train_losses, val_losses, tokens_seen
+    # return train_losses, val_losses, track_tokens_seen

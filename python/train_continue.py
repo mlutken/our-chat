@@ -1,20 +1,20 @@
 import json
+import os
 import hashlib
 import sys
-from pathlib import Path
 
 class TrainContinue():
     def __init__(self, cmd_args, continue_state_filename: str = "continue.our-chat.json"):
         self.cmd_args_ = cmd_args
         self.cmd_args_dict_ = vars(cmd_args)
-        self.continue_state_filename_ = Path(continue_state_filename)
+        self.continue_state_filename_ = continue_state_filename
         self.state_dict_ = {}
 
         if self.cmd_args_dict_["train_uri"] is None:
             print ("FIXMENM self.cmd_args_dict_.train_uri is None")
             self.cmd_args_dict_["train_uri"] = "ERROR_MISSING_TRAIN_URI"
 
-        if not self.continue_state_filename_.exists():
+        if not os.path.isfile(self.continue_state_filename_):
             self.write_new_state_dict_file()
 
         self.read_and_update_state_dict()

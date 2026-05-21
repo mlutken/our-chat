@@ -1,4 +1,5 @@
 import sys
+import copy
 
 from train_continue import TrainContinue
 
@@ -153,7 +154,7 @@ parser.add_argument("--print_initial_loss", help="Calculate and print initial mo
 parser.add_argument("--dbg_print_text", help="Debug print streaming (text) records text field. Only first 20 chars", nargs='?', type=int, const=True, default=0)
 parser.add_argument("--dbg_write_records_to_file", help="Write streaming (text) records to a file for debug/info. Default file name is '/tmp/_our_streaming_records_debug.txt' ", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--dbg_records_file_name", help="Name to write streaming records text to. Default is: '/tmp/_our_streaming_records_debug.txt'", nargs='?', type=str, default="/tmp/_our_streaming_records_debug.txt")
-parser.add_argument("--eval_freq", help="Number of batches between each evaluation test of model ", nargs='?', type=int, default=100)
+parser.add_argument("--eval_freq", help="Number of batches between each evaluation test of model ", nargs='?', type=int, default=10000)
 parser.add_argument("--eval_batches", help="Number of batches to run during evaluation", nargs='?', type=int, default=5)
 parser.add_argument("--usage", help="Print usage examples", nargs='?', type=str2bool, const=True, default=False)
 
@@ -290,10 +291,12 @@ train_loader = create_data_loader(tokenizer, resource_uri=args.train_uri, name=a
                                   batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                   drop_last=False, shuffle=False, num_workers=args.num_workers)
 
-validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
+eval_validation_loader = create_data_loader(tokenizer, resource_uri=args.validation_uri, name=args.dataset_name, text_key=args.dataset_key,
                                        split=args.dataset_validation_split, records_to_process=args.records_to_process,
                                        batch_size=args.batch_size, max_length=model.CFG["context_length"], stride=model.CFG["context_length"],
                                        drop_last=False, shuffle=False, num_workers=args.num_workers)
+
+eval_train_loader = copy.deepcopy(train_loader)
 
 train_loader.dataset.epochStartNumberSet(g_start_epoch)
 train_loader.dataset.recordsOffsetIndexSet(args.records_offset_index)
@@ -302,7 +305,7 @@ train_loader.dataset.recordsContinueIndexSet(args.records_continue_index)
 if g_dl_data_train is not None:
     train_loader.dataset.processCallbackAppend(g_dl_data_train["pre_process"])
 if g_dl_data_validate is not None:
-    validation_loader.dataset.processCallbackAppend(g_dl_data_validate["pre_process"])     # Set possible preprocessor for training and validation
+    eval_validation_loader.dataset.processCallbackAppend(g_dl_data_validate["pre_process"])     # Set possible preprocessor for training and validation
 
 train_loader.dataset.infoCallbackAppend(g_train_continue.update_callback)
 if g_train_math_modulo > 0:
@@ -319,8 +322,8 @@ if args.print_initial_loss:
     print("--- Calculating initial model loss ---")
     model.to(device)
     with torch.no_grad():
-        train_loss = calc_loss_loader(train_loader, model, device, num_batches=args.eval_batches)
-        val_loss = calc_loss_loader(validation_loader, model, device, num_batches=args.eval_batches)
+        train_loss = calc_loss_loader(eval_train_loader, model, device, num_batches=args.eval_batches)
+        val_loss = calc_loss_loader(eval_validation_loader, model, device, num_batches=args.eval_batches)
     print(f"Training loss   : {train_loss}")
     print(f"Validation loss : {val_loss}")
     print("---------------------------------")
@@ -335,20 +338,32 @@ optimizer = torch.optim.AdamW(
 )
 
 # *********************************
+# *** TODO: ModelTrainner ***
 # *********************************
-# *** TODO: Foundation Traniner ***
-# *********************************
-# *********************************
-# trainer = FoundationTrainer (model=model, train_loader=train_loader, val_loader=validation_loader, optimizer=optimizer, device=device)
-# trainer.eval_freq = args.eval_freq
-# trainer.eval_iter = args.eval_batches
+trainer = ModelTrainer (model=model, train_loader=train_loader, eval_train_loader=eval_train_loader, eval_validation_loader=eval_validation_loader, optimizer=optimizer, device=device)
+trainer.eval_freq = args.eval_freq
+trainer.eval_batches = args.eval_batches
 # train_losses, val_losses, tokens_seen = trainer.trainModel(num_epochs=num_epochs, start_context=default_start_context)
+trainer.append_model_test_string(default_start_context)
+trainer.append_model_test_string("<prompt> What is 3 + 7 ? </prompt>")
+trainer.append_model_test_string("<prompt> How can I stay healthy ? </prompt>")
 
-train_losses, val_losses, tokens_seen = train_model_simple(
-    model, train_loader, validation_loader, optimizer, device,
-    num_epochs=num_epochs, start_epoch=g_start_epoch, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
-    start_context=default_start_context
-)
+train_losses, val_losses, tokens_seen = trainer.train_model_simple(num_epochs=num_epochs, start_epoch=g_start_epoch)
+
+# train_losses, val_losses, tokens_seen = train_model_simple(
+#     model, train_loader, eval_validation_loader, optimizer, device,
+#     num_epochs=num_epochs, start_epoch=g_start_epoch, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
+#     start_context=default_start_context
+# )
+
+# --------------------------------------
+# --- Print some data after training ---
+# --------------------------------------
+if len(train_losses) > 0:
+    print(f"Training loss   : {train_losses[-1]}")
+    print(f"Validation loss : {val_losses[-1]}")
+    print(f"Tokens seen     : {tokens_seen[-1]}")
+
 
 # ---------------------------
 # --- Plotting the losses ---
