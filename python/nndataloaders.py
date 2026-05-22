@@ -310,7 +310,9 @@ class IterDataset_HuggingFace(IterDataset_Base):
         print(f"INFO: [{self.recordsIterationStartIndex()}:{self.recordsToProcessThisIteration()}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
         self._handleDebugDataFileInit()
 
+        print(f"INFO handle_iteration_done 1")
         self.ensure_dataset_is_loaded()
+        print(f"INFO handle_iteration_done 2")
 
         self.records_read_this_iteration_ = 0
         self.records_processed_this_iteration_ = 0

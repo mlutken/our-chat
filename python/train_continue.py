@@ -26,15 +26,14 @@ class TrainContinue():
             s += f"\n--------------- Continuing run from epoch: {d['current_epoch']}, record: {d['current_records_read']}\n----------------------\n"
         return s
 
-    def modify_args(self):
-        if self.cmd_args_.mode != "continue":
-            return self.cmd_args_
 
-        return self.cmd_args_   # FIXMENM TODO
+    def get_continue_parameters(self):
+        cd = self.get_current_state_dict()
+        return cd['current_epoch'], cd['current_records_read']
 
     def update_callback(self, data_loader):
-        # print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] TO process: {data_loader.recordsToProcessThisIteration()}")
-        if data_loader.recordsProcessedThisIteration() % 100 == 0:
+        print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] TO process this iteration: {data_loader.recordsToProcessThisIteration()} TOTAL: {data_loader.totalRecordsProcessed()}")
+        if data_loader.totalRecordsProcessed() % 100 == 0:
             self.state_dict_[self.cmd_args_.train_uri]["current_records_read"] = data_loader.recordsReadThisIteration()
             self.state_dict_[self.cmd_args_.train_uri]["current_epoch"] = data_loader.epochNumber()
             self.write_current_state_dict()

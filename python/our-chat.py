@@ -1,4 +1,5 @@
 import sys
+import time
 import copy
 
 from train_continue import TrainContinue
@@ -134,9 +135,10 @@ parser.add_argument("--mode", help="Run mode: train, chat-simple", nargs='?', ty
 parser.add_argument("--cont", help="Continue training", nargs='?', type=str2bool, const=True, default=False)
 parser.add_argument("--epochs", help="Number of epochs", nargs='?', type=int, default=1)
 parser.add_argument("--plot", help="Plot losses", nargs='?', type=str2bool, const=True, default=False)
-parser.add_argument("--records_to_process", help="Maximum number of records to process during training. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
+parser.add_argument("--records_to_process", help="Maximum number of records to process Per epoch. -1 means all records in training data. Mainly relevant with large streaming ('hf:xx') URIs from HuggingFace", nargs='?', type=int, default=-1)
 parser.add_argument("--records_offset_index", help="Index of first record to use in each epoch. Mainly useful for large HF datasets, where we want to train in sections of the complete set.", nargs='?', type=int, default=0)
 parser.add_argument("--records_continue_index", help="Index of first record use when continuing. Only for the first epoch iteration.", nargs='?', type=int, default=0)
+parser.add_argument("--epoch_continue_index", help="Epoch iteration to continue from", nargs='?', type=int, default=0)
 parser.add_argument("--batch_size", help="Batch size", nargs='?', type=int, default=12)
 parser.add_argument("--save_model", help="Save the model after training", nargs='?', type=str2bool, const=True, default=True)
 parser.add_argument("--load_model", help="Load model before training", nargs='?', type=str2bool, const=True, default=True)
@@ -158,11 +160,15 @@ parser.add_argument("--eval_freq", help="Number of batches between each evaluati
 parser.add_argument("--eval_batches", help="Number of batches to run during evaluation", nargs='?', type=int, default=5)
 parser.add_argument("--usage", help="Print usage examples", nargs='?', type=str2bool, const=True, default=False)
 
-g_start_epoch = 0
 args = parser.parse_args()
 g_train_continue = TrainContinue(args)
+
+
 print (g_train_continue.info_message())
-args = g_train_continue.modify_args()
+if args.mode == "continue":
+    args.epoch_continue_index, args.records_continue_index  = g_train_continue.get_continue_parameters()
+    print(f"INFO: Continuing from continue_epoch: {args.epoch_continue_index}, continue_record: {args.records_continue_index}")
+    time.sleep(5)
 
 g_dl_data_train = dataloader_lookup(args.train_uri)
 g_dl_data_validate = dataloader_lookup(args.validation_uri)
@@ -219,6 +225,7 @@ print("batch_size               : ", args.batch_size)
 print("records_to_process       : ", args.records_to_process)
 print("records_offset_index     : ", args.records_offset_index)
 print("records_continue_index   : ", args.records_continue_index)
+print("epoch_continue_index     : ", args.epoch_continue_index)
 print("save_model               : ", args.save_model)
 print("load_model               : ", args.load_model)
 print("start_context            : ", args.start_context)
@@ -237,6 +244,8 @@ print("print_initial_loss       : ", args.print_initial_loss)
 print("dbg_print_text           : ", args.dbg_print_text)
 print("eval_freq                : ", args.eval_freq)
 print("eval_batches             : ", args.eval_batches)
+
+# sys.exit(1)  # FIXMENM
 
 tokenizer = DictionaryTokenizer("../dictionary")
 tokenizer.saveTokenizerTree("/home/ml/temp/_tokenizer_tree.json")
@@ -298,7 +307,7 @@ eval_validation_loader = create_data_loader(tokenizer, resource_uri=args.validat
 
 eval_train_loader = copy.deepcopy(train_loader)
 
-train_loader.dataset.epochStartNumberSet(g_start_epoch)
+train_loader.dataset.epochStartNumberSet(args.epoch_continue_index)
 train_loader.dataset.recordsOffsetIndexSet(args.records_offset_index)
 train_loader.dataset.recordsContinueIndexSet(args.records_continue_index)
 
@@ -348,13 +357,7 @@ trainer.append_model_test_string(default_start_context)
 trainer.append_model_test_string("<prompt> What is 3 + 7 ? </prompt>")
 trainer.append_model_test_string("<prompt> How can I stay healthy ? </prompt>")
 
-train_losses, val_losses, tokens_seen = trainer.train_model_simple(num_epochs=num_epochs, start_epoch=g_start_epoch)
-
-# train_losses, val_losses, tokens_seen = train_model_simple(
-#     model, train_loader, eval_validation_loader, optimizer, device,
-#     num_epochs=num_epochs, start_epoch=g_start_epoch, eval_freq=args.eval_freq, eval_iter=args.eval_batches,
-#     start_context=default_start_context
-# )
+train_losses, val_losses, tokens_seen = trainer.train_model_simple(num_epochs=num_epochs, start_epoch=args.epoch_continue_index)
 
 # --------------------------------------
 # --- Print some data after training ---
