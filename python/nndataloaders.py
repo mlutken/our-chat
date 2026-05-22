@@ -32,6 +32,9 @@ class IterDataset_Base(IterableDataset):
         self.records_continue_index_ = 0
         self.records_to_process_per_iteration_ = -1
 
+    def start(self):
+        pass
+
     def setAsEvaluate(self):
         self.info_print_prefix_ = "EVAL: "
 
@@ -287,8 +290,9 @@ class IterDataset_HuggingFace(IterDataset_Base):
         self.token_queue_capacity_ = 100000
         self.token_queue_ = collections.deque([], maxlen=self.token_queue_capacity_)
         self.ensure_dataset_is_loaded()
-        self.handle_iteration_done()
 
+    def start(self):
+        self.handle_iteration_done()
 
     def ensure_dataset_is_loaded(self) :
         if self.hf_dataset_ is None:
@@ -302,25 +306,26 @@ class IterDataset_HuggingFace(IterDataset_Base):
             return True
 
         if self.records_processed_this_iteration_ >= self.recordsToProcessThisIteration():
-            print(f"!!! ITERATION DONE: IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.recordsToProcessThisIteration()}) is processed processed !!!!")
+            # print(f"!!! ITERATION DONE: IterDataset_Base All records in this iteration ({self.records_processed_this_iteration_} / {self.recordsToProcessThisIteration()}) is processed processed !!!!")
             return True
         return False
 
     def handle_iteration_done(self):
-        print(f"INFO: [{self.recordsIterationStartIndex()}:{self.recordsToProcessThisIteration()}] handle_iteration_done [{self.records_read_this_iteration_} / {self.records_processed_this_iteration_}]")
+        # print(f"INFO (handle_iteration_done):,  recordsIterationStartIndex(): {self.recordsIterationStartIndex()},  recordsToProcessThisIteration(): {self.recordsToProcessThisIteration()}, recordsIterationEndIndex(): {self.recordsIterationEndIndex()} , records_read_this_iteration_: {self.records_read_this_iteration_},   records_processed_this_iteration_: {self.records_processed_this_iteration_}]")
         self._handleDebugDataFileInit()
-
-        print(f"INFO handle_iteration_done 1")
-        self.ensure_dataset_is_loaded()
-        print(f"INFO handle_iteration_done 2")
 
         self.records_read_this_iteration_ = 0
         self.records_processed_this_iteration_ = 0
+
+        self.ensure_dataset_is_loaded()
+
         if self.recordsIterationStartIndex() > 0:
-            self.hf_iterator_ = self.hf_dataset_.skip(self.recordsIterationStartIndex())
+            self.hf_iterator_ = self.hf_dataset_.skip(self.recordsIterationStartIndex()).take(self.recordsToProcessThisIteration())
             self.records_read_this_iteration_ = self.recordsIterationStartIndex()
         else:
-            self.hf_iterator_ = self.hf_dataset_.take(self.records_to_read_)
+            self.hf_iterator_ = self.hf_dataset_.take(self.recordsToProcessThisIteration())
+
+        # print(f"FIXMENM (handle_iteration_done) DONE  recordsIterationStartIndex(): {self.recordsIterationStartIndex()},  recordsToProcessThisIteration(): {self.recordsToProcessThisIteration()}, recordsIterationEndIndex(): {self.recordsIterationEndIndex()} , records_read_this_iteration_: {self.records_read_this_iteration_},   records_processed_this_iteration_: {self.records_processed_this_iteration_}]")
 
     def queue_len(self):
         return len(self.token_queue_)
@@ -329,8 +334,6 @@ class IterDataset_HuggingFace(IterDataset_Base):
         return len(self.token_queue_) > 0
 
     def __iter__(self):
-        # print(f"INFO: IterDataset_HuggingFace iterator create: self.process_callback_: {self.process_callback_}")
-
         if self.iteration_done():
             self.handle_iteration_done()
 

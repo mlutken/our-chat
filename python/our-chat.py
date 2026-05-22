@@ -146,7 +146,7 @@ parser.add_argument("--start_context", help="Start context for during training p
 parser.add_argument("--train_uri", help="File/URL with training data. Ex.: ../training_data/math-training-simple-2.txt", nargs='?', type=str, default="")
 parser.add_argument("--validation_uri", help="File/URL with validation data. Ex.: ../training_data/math-validation-simple-1.txt", nargs='?', type=str, default="")
 parser.add_argument("--train_math_modulo", help="Add math training example for every train_math_modulo 'records', Only meant for use during prompt/reponse text training", nargs='?', type=int, default=0)
-parser.add_argument("--train_math_abs_range", help="When <auto generation math promp/response to inject, see '--train_math_modulo'. Use this value as the absolute min/max of the initial numbers used. See traingen_math.py::get_random_qa()", nargs='?', type=int, default=30000)
+parser.add_argument("--train_math_abs_range", help="When <auto generation math promp/response to inject, see '--train_math_modulo'. Default 30 000 !  Use this value as the absolute min/max of the initial numbers used. See traingen_math.py::get_random_qa()", nargs='?', type=int, default=30000)
 parser.add_argument("--dataset_name", help="Internal name of Hugging face) dataset: Eg: 'en', 'CC-MAIN-2024-10', ... Depends on concrete dataset.", nargs='?', type=str, default="")
 parser.add_argument("--dataset_key", help="Dictionary key name of primary text data in each record. Eg.: 'text'", nargs='?', type=str, default="")
 parser.add_argument("--dataset_training_split", help="Training split name. Eg.:'train'", nargs='?', type=str, default="train")
@@ -164,11 +164,16 @@ args = parser.parse_args()
 g_train_continue = TrainContinue(args)
 
 
-print (g_train_continue.info_message())
 if args.mode == "continue":
-    args.epoch_continue_index, args.records_continue_index  = g_train_continue.get_continue_parameters()
-    print(f"INFO: Continuing from continue_epoch: {args.epoch_continue_index}, continue_record: {args.records_continue_index}")
-    time.sleep(5)
+    if g_train_continue.can_continue():
+        args.epoch_continue_index, args.records_continue_index  = g_train_continue.get_continue_parameters()
+        print(f"********************************************************************")
+        print(f"*** INFO: Continuing from [epoch:record]: [{args.epoch_continue_index} : {args.records_continue_index}] ***")
+        print(f"********************************************************************")
+        time.sleep(5)
+    else:
+        print("INFO: Training is complete so continue is not possible!")
+        sys.exit(0)
 
 g_dl_data_train = dataloader_lookup(args.train_uri)
 g_dl_data_validate = dataloader_lookup(args.validation_uri)
@@ -244,8 +249,6 @@ print("print_initial_loss       : ", args.print_initial_loss)
 print("dbg_print_text           : ", args.dbg_print_text)
 print("eval_freq                : ", args.eval_freq)
 print("eval_batches             : ", args.eval_batches)
-
-# sys.exit(1)  # FIXMENM
 
 tokenizer = DictionaryTokenizer("../dictionary")
 tokenizer.saveTokenizerTree("/home/ml/temp/_tokenizer_tree.json")
@@ -324,6 +327,12 @@ train_loader.dataset.debugPrintText(args.dbg_print_text)
 train_loader.dataset.writeTextToDebugFile(args.dbg_write_records_to_file)
 train_loader.dataset.setDebugDataFileName(args.dbg_records_file_name)
 
+train_loader.dataset.start()
+if eval_train_loader is not None:
+    eval_train_loader.dataset.start()
+if eval_validation_loader is not None:
+    eval_validation_loader.dataset.start()
+
 # -------------------------------------------------------
 # --- Print initial loss before training if requested ---
 # -------------------------------------------------------
@@ -358,6 +367,12 @@ trainer.append_model_test_string("<prompt> What is 3 + 7 ? </prompt>")
 trainer.append_model_test_string("<prompt> How can I stay healthy ? </prompt>")
 
 train_losses, val_losses, tokens_seen = trainer.train_model_simple(num_epochs=num_epochs, start_epoch=args.epoch_continue_index)
+
+if trainer.training_completed():
+    print("-----------------------------------------------------")
+    print(f"--- Training completed all {args.epochs} epochs ! ---")
+    print("-----------------------------------------------------")
+    g_train_continue.mark_training_done()
 
 # --------------------------------------
 # --- Print some data after training ---

@@ -11,7 +11,7 @@ class TrainContinue():
         self.state_dict_ = {}
 
         if self.cmd_args_dict_["train_uri"] is None:
-            print ("FIXMENM self.cmd_args_dict_.train_uri is None")
+            print ("ERROR: TrainContinue self.cmd_args_dict_.train_uri is None")
             self.cmd_args_dict_["train_uri"] = "ERROR_MISSING_TRAIN_URI"
 
         if not os.path.isfile(self.continue_state_filename_):
@@ -19,24 +19,25 @@ class TrainContinue():
 
         self.read_and_update_state_dict()
 
-    def info_message(self):
-        s = ""
-        if self.cmd_args_.mode == "continue":
-            d = self.get_current_state_dict()
-            s += f"\n--------------- Continuing run from epoch: {d['current_epoch']}, record: {d['current_records_read']}\n----------------------\n"
-        return s
 
+    def can_continue(self):
+        return self.cmd_args_.mode == "continue" and self.get_current_state_dict()['current_epoch'] < self.cmd_args_.epochs
 
     def get_continue_parameters(self):
         cd = self.get_current_state_dict()
         return cd['current_epoch'], cd['current_records_read']
 
     def update_callback(self, data_loader):
-        print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] TO process this iteration: {data_loader.recordsToProcessThisIteration()} TOTAL: {data_loader.totalRecordsProcessed()}")
+        # print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] TO process this iteration: {data_loader.recordsToProcessThisIteration()} TOTAL: {data_loader.totalRecordsProcessed()}")
         if data_loader.totalRecordsProcessed() % 100 == 0:
             self.state_dict_[self.cmd_args_.train_uri]["current_records_read"] = data_loader.recordsReadThisIteration()
             self.state_dict_[self.cmd_args_.train_uri]["current_epoch"] = data_loader.epochNumber()
             self.write_current_state_dict()
+
+    def mark_training_done(self):
+        self.state_dict_[self.cmd_args_.train_uri]["current_records_read"] = 0
+        self.state_dict_[self.cmd_args_.train_uri]["current_epoch"] = self.cmd_args_.epochs
+        self.write_current_state_dict()
 
     def read_and_update_state_dict(self):
         with open(self.continue_state_filename_, 'r') as json_file:
