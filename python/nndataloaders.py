@@ -66,10 +66,12 @@ class IterDataset_Base(IterableDataset):
         self.records_continue_index_ = records_continue_index
 
     def processCallbackAppend(self, process_callback):
-        self.process_callbacks_.append(process_callback)
+        if process_callback is not None:
+            self.process_callbacks_.append(process_callback)
 
     def infoCallbackAppend(self, process_callback):
-        self.info_callbacks_.append(process_callback)
+        if process_callback is not None:
+            self.info_callbacks_.append(process_callback)
 
     def forceStop(self):
         self.forced_stop_ = True

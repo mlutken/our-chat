@@ -1,7 +1,6 @@
 import json
 import os
-import hashlib
-import sys
+import torch
 
 class TrainContinue():
     def __init__(self, cmd_args, continue_state_filename: str = "continue.our-chat.json"):
@@ -9,6 +8,8 @@ class TrainContinue():
         self.cmd_args_dict_ = vars(cmd_args)
         self.continue_state_filename_ = continue_state_filename
         self.state_dict_ = {}
+        self.model_ = None
+        self.device_ = "cpu"
 
         if self.cmd_args_dict_["train_uri"] is None:
             print ("ERROR: TrainContinue self.cmd_args_dict_.train_uri is None")
@@ -20,6 +21,20 @@ class TrainContinue():
         self.read_and_update_state_dict()
 
 
+    def set_model(self, model, device):
+        self.model_ = model
+        self.device_ = device
+
+    def save_model_weights(self):
+        if self.model_ is None:
+            return
+        device = next(self.model_.parameters()).device
+        print(f"Saving model to {self.cmd_args_.save_path} ...", end='')
+        self.model_.to("cpu")
+        torch.save(self.model_.state_dict(), self.cmd_args_.save_path)
+        self.model_.to(device)
+        print(f" Done saving model weights!")
+
     def can_continue(self):
         return self.cmd_args_.mode == "continue" and self.get_current_state_dict()['current_epoch'] < self.cmd_args_.epochs
 
@@ -29,7 +44,9 @@ class TrainContinue():
 
     def update_callback(self, data_loader):
         # print(f"FIXMENM TrainContinue [{data_loader.epochNumber()}: {data_loader.recordsReadThisIteration()} / {data_loader.recordsProcessedThisIteration()}] TO process this iteration: {data_loader.recordsToProcessThisIteration()} TOTAL: {data_loader.totalRecordsProcessed()}")
-        if data_loader.totalRecordsProcessed() % 100 == 0:
+        if data_loader.totalRecordsProcessed() % self.cmd_args_.eval_freq == 0:
+            self.save_model_weights()
+            self.state_dict_[self.cmd_args_.train_uri]["total_records_processed"] = data_loader.totalRecordsProcessed()
             self.state_dict_[self.cmd_args_.train_uri]["current_records_read"] = data_loader.recordsReadThisIteration()
             self.state_dict_[self.cmd_args_.train_uri]["current_epoch"] = data_loader.epochNumber()
             self.write_current_state_dict()

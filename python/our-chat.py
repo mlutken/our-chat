@@ -295,6 +295,7 @@ print(f"--- Test model before training: device: {device} ---")
 model.generateAndPrintSample(device, default_start_context)
 print(f"--------------------------------------")
 
+g_train_continue.set_model(model, device)
 # ----------------------------------------------
 # --- Create the loaders to use for training ---
 # ----------------------------------------------
@@ -355,9 +356,6 @@ optimizer = torch.optim.AdamW(
     lr=0.0004, weight_decay=0.1
 )
 
-# *********************************
-# *** TODO: ModelTrainner ***
-# *********************************
 trainer = ModelTrainer (model=model, train_loader=train_loader, eval_train_loader=eval_train_loader, eval_validation_loader=eval_validation_loader, optimizer=optimizer, device=device)
 trainer.eval_freq = args.eval_freq
 trainer.eval_batches = args.eval_batches

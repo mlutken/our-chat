@@ -1,11 +1,13 @@
 our-chat
 ========
-LLM from scratch with chat for research and learning. Complete transformer based LLM with support for pretraining and prompt question answer training from files and from online training sets. The code is completely self contained and should be strait forward to experiment with.
+LLM from scratch with chat for research and learning. Complete transformer based LLM with support for pre training and 
+prompt question answer training from files and from online training sets. The code is completely self-contained and 
+should be strait forward to experiment with.
 
 Intrinsic math and number "understanding"
 -----------------------------------------
-One of the main things this approach tries to investigate in teaching an LLM intrinsic understanding of numbers and basic matth.
-The idea (and implementation) is that after looking up tokens to get mutidimensional vectors representing each token, a number of elements are used to represent any parsed number in binary form. So some of the elements in each vector representing a token/word
+One of the main things this approach tries to investigate in teaching an LLM intrinsic understanding of numbers and basic math.
+The idea (and implementation) is that after looking up tokens to get multi dimensional vectors representing each token, a number of elements are used to represent any parsed number in binary form. So some of the elements in each vector representing a token/word
 has weights (values) of ether 0 or 1 matching the 2s complement binary representation of the given number. The results from current experiments with a small (thus fast to train) 2M model is quite promising. In that it does seem to learn how to do basic math beyond the training examples.
 
 Currently the code works with signed integers, but a next small step will be to simply used fixed point real numbers.

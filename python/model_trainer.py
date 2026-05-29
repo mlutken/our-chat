@@ -1,6 +1,7 @@
 import torch
 import terminedia as TM
 from nnutils import *
+from datetime import datetime as dt
 
 # NOTE: Work in progress. Not used currently. The training code in nnutils is used.
 
@@ -99,9 +100,13 @@ class ModelTrainer():
         self.train_losses.append(train_loss)
         self.val_losses.append(val_loss)
         self.track_tokens_seen.append(self.tokens_seen)
+        ts_now = dt.now()
+        date_time = ts_now.strftime('%Y-%m-%d T %H:%M:%S')
+
         print("******************************************************************************************************")
         print(
-            f"EVALUATE: Train loss {train_loss:.3f}, Total records: {self.train_loader.dataset.totalRecordsProcessed()} Epoch: {self.cur_epoch} (Step {self.global_step:06d}): Rec index / processed in epoch: [{self.train_loader.dataset.recordsReadThisIteration()} / {self.train_loader.dataset.recordsProcessedThisIteration()}] "
+            f"EVALUATE [{date_time}]: Train loss {train_loss:.3f}, Total records: {self.train_loader.dataset.totalRecordsProcessed()} Epoch: {self.cur_epoch} (Step {self.global_step:06d}): "
+            f"Rec index / processed in epoch: [{self.train_loader.dataset.recordsReadThisIteration()} / {self.train_loader.dataset.recordsProcessedThisIteration()}] "
             f"Val loss {val_loss:.3f}"
             )
         for test_string in self.model_test_strings:
