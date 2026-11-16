@@ -251,8 +251,10 @@ print("eval_freq                : ", args.eval_freq)
 print("eval_batches             : ", args.eval_batches)
 
 tokenizer = DictionaryTokenizer("../dictionary")
-tokenizer.saveTokenizerTree("/home/ml/temp/_tokenizer_tree.json")
-tokenizer.saveIdsToWordlookup("/home/ml/temp/_ids_to_word_lookup.json")
+
+
+tokenizer.saveTokenizerTree(pathlib.Path().home() / "temp/_tokenizer_tree.json")
+tokenizer.saveIdsToWordlookup(pathlib.Path().home() / "temp/_ids_to_word_lookup.json")
 print("max_token_value          : ", tokenizer.max_token_value)
 
 

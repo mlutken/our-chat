@@ -4,6 +4,7 @@ LLM from scratch with chat for research and learning. Complete transformer based
 prompt question answer training from files and from online training sets. The code is completely self-contained and 
 should be strait forward to experiment with.
 
+
 Intrinsic math and number "understanding"
 -----------------------------------------
 One of the main things this approach tries to investigate in teaching an LLM intrinsic understanding of numbers and basic math.
@@ -33,6 +34,12 @@ Another approach that the current model is not using traditional tokens that typ
 
 Similar for nouns, adjectives etc.
 The idea is to better represent meanings directly in the encodiing and hopefully in a way more akin to how we humans do it.
+
+
+Needed python libs:
+===================
+pip install torch terminedia numpy datasets matplotlib
+
 
 
 Documentation
